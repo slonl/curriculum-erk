@@ -1,0 +1,37 @@
+    {
+    "definitions": {
+        "erk_vakleergebied": {
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
+            "properties": {
+                "prefix": {
+                    "type": "string"
+                },
+                "vakleergebied_id": {
+                    "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/vakleergebied"
+                },
+            },
+            "anyOf": [
+                {
+                    "required": ["id","title","doelniveau_id"]
+                }
+            ]
+        }        
+    },
+    "$id": "https://opendata.slo.nl/curriculum/schemas/curriculum-erk/context.json",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+        "erk_vakleergebied": {
+            "#file": "data/erk.vakleergebieden.json",
+            "type" : "array",
+            "items": {
+                "$ref": "#/definitions/erk_vakleergebied"
+            }
+        },        
+        "deprecated": {
+            "#file": "data/deprecated.json",
+            "type" : "array"
+        }
+    },
+    "required": ["doelniveau","doel","niveau"]
+}
