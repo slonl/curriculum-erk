@@ -1,1 +1,13 @@
-[]
+[
+	{
+		"vakleergebied_id": "cfaf3202-4c14-4f7e-b783-91ad1dc93779",
+		"title": "Engels",
+		"id": "2376168c-cec8-472d-8762-8440dda66061",
+		"unreleased": true,
+		"prefix": "",
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		]
+	}
+]
