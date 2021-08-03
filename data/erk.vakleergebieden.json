@@ -20,5 +20,16 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
+	},
+	{
+		"vakleergebied_id": "782220bf-4155-4090-b218-c6957a14f963",
+		"title": "Arabisch",
+		"id": "34808a13-c3fe-4df6-b439-1afca5e7db21",
+		"unreleased": true,
+		"prefix": "",
+		"description": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	}
 ]
