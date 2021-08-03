@@ -9,5 +9,16 @@
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725"
 		]
+	},
+	{
+		"vakleergebied_id": "cfaf3202-4c14-4f7e-b783-91ad1dc93779",
+		"title": "Engels",
+		"id": "c566ca41-dbdf-4ee7-9342-1ae8aaca5c57",
+		"unreleased": true,
+		"prefix": "",
+		"description": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	}
 ]
