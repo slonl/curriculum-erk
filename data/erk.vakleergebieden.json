@@ -1,5 +1,55 @@
 [
 	{
+		"vakleergebied_id": "782220bf-4155-4090-b218-c6957a14f963",
+		"title": "Arabisch",
+		"id": "34808a13-c3fe-4df6-b439-1afca5e7db21",
+		"unreleased": true,
+		"prefix": "",
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
+	},
+	{
+		"vakleergebied_id": "1f7aa29f-38d8-4dab-91db-3be52669951f",
+		"title": "Chinees",
+		"id": "bb62d010-92ff-465f-a947-d5ebc27e53a5",
+		"unreleased": true,
+		"prefix": "",
+		"description": "",
+		"niveau_id": [
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
+	},
+	{
+		"vakleergebied_id": "91e9afb9-a8ab-4fde-aa97-9884a8920b78",
+		"title": "Duits",
+		"id": "51f8978f-ea5c-4774-bc1d-54caa5e686e2",
+		"unreleased": true,
+		"prefix": "",
+		"description": "",
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
+	},
+	{
 		"vakleergebied_id": "cfaf3202-4c14-4f7e-b783-91ad1dc93779",
 		"title": "Engels",
 		"id": "2376168c-cec8-472d-8762-8440dda66061",
@@ -49,23 +99,13 @@
 		]
 	},
 	{
-		"vakleergebied_id": "91e9afb9-a8ab-4fde-aa97-9884a8920b78",
-		"title": "Duits",
-		"id": "51f8978f-ea5c-4774-bc1d-54caa5e686e2",
+		"vakleergebied_id": "d1797e77-8eb0-4ebd-83f7-f95c7f46fcd7",
+		"title": "Italiaans",
+		"id": "88c41d23-3ec8-48e9-9f2e-8f32743a2035",
 		"unreleased": true,
 		"prefix": "",
 		"description": "",
 		"niveau_id": [
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
-			"01aede69-edcd-4352-97e8-e16cb5d0015e",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5",
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -105,49 +145,9 @@
 		]
 	},
 	{
-		"vakleergebied_id": "d1797e77-8eb0-4ebd-83f7-f95c7f46fcd7",
-		"title": "Italiaans",
-		"id": "88c41d23-3ec8-48e9-9f2e-8f32743a2035",
-		"unreleased": true,
-		"prefix": "",
-		"description": "",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"vakleergebied_id": "1f7aa29f-38d8-4dab-91db-3be52669951f",
-		"title": "Chinees",
-		"id": "bb62d010-92ff-465f-a947-d5ebc27e53a5",
-		"unreleased": true,
-		"prefix": "",
-		"description": "",
-		"niveau_id": [
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
 		"vakleergebied_id": "20d46f17-c61f-4677-a2c9-0f2fc7512ed4",
 		"title": "Turks",
 		"id": "53014cef-a016-4ed6-be0f-170b024925e6",
-		"unreleased": true,
-		"prefix": "",
-		"description": "",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5",
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"vakleergebied_id": "782220bf-4155-4090-b218-c6957a14f963",
-		"title": "Arabisch",
-		"id": "34808a13-c3fe-4df6-b439-1afca5e7db21",
 		"unreleased": true,
 		"prefix": "",
 		"description": "",
