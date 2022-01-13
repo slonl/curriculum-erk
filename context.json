@@ -1,4 +1,4 @@
-    {
+{
     "definitions": {
         "erk_vakleergebied": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
@@ -21,6 +21,199 @@
                     "required": ["id","title","doelniveau_id"]
                 }
             ]
+        },        
+        "erk_gebied": {
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
+            "properties": {
+                "prefix": {
+                    "type": "string"
+                }
+			},
+				"erk_categorie_id": {
+					"allOf": [
+						{	"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+						{	"items": { "itemTypeReference": "#/definitions/erk_categorie"} }
+					]
+				},
+				"erk_taalactiviteit_id": {
+					"allOf": [
+						{
+							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+						},
+						{
+							"items": {
+								"itemTypeReference": "#/definitions/erk_taalactiviteit"
+							}
+						}
+					]
+				},
+				"erk_schaal_id": {
+					"allOf": [
+						{
+							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+						},
+						{
+							"items": {
+								"itemTypeReference": "#/definitions/erk_schaal"
+							}
+						}
+					]
+				},
+            "anyOf": [
+                {
+                    "required": ["id","title","doelniveau_id"]
+                }
+            ]
+        },        
+        "erk_categorie": {
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
+            "properties": {
+                "prefix": {
+                    "type": "string"
+                }
+            },
+				"erk_taalactiviteit_id" : {
+					"allOf": [
+						{
+							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+						},
+						{
+							"items": {
+								"itemTypeReference": "#/definitions/erk_taalactiviteit"
+							}
+						}
+					]
+				},
+				"erk_schaal_id" : {
+					"allOf": [
+						{
+							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+						},
+						{
+							"items": {
+								"itemTypeReference": "#/definitions/erk_schaal"
+							}
+						}
+					]
+				},
+            "anyOf": [
+                {
+                    "required": ["id","title","doelniveau_id"]
+                }
+            ]
+        },        
+        "erk_taalactiviteit": {
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
+            "properties": {
+                "prefix": {
+                    "type": "string"
+                },
+				"erk_schaal_id" : {
+					"allOf": [
+						{
+							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+						},
+						{
+							"items": {
+								"itemTypeReference": "#/definitions/erk_schaal"
+							}
+						}
+					]
+				}
+            },
+            "anyOf": [
+                {
+                    "required": ["id","title","doelniveau_id"]
+                }
+            ]
+        },        
+        "erk_schaal": {
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
+            "properties": {
+                "prefix": {
+                    "type": "string"
+                },
+				"erk_candobeschrijving" : {
+					"allOf": [
+						{
+							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+						},
+						{
+							"items": {
+								"itemTypeReference": "#/definitions/erk_candobeschrijving"
+							}
+						}
+					]
+                },
+				"erk_voorbeeld" : {
+					"allOf": [
+						{
+							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+						},
+						{
+							"items": {
+								"itemTypeReference": "#/definitions/erk_voorbeeld"
+							}
+						}
+					]
+                },
+				"erk_lesidee" : {
+					"allOf": [
+						{
+							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+						},
+						{
+							"items": {
+								"itemTypeReference": "#/definitions/erk_lesidee"
+							}
+						}
+					]
+				}
+            },
+            "anyOf": [
+                {
+                    "required": ["id","title","doelniveau_id"]
+                }
+            ]
+        },        
+        "erk_candobeschrijving": {
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
+            "properties": {
+                "prefix": {
+                    "type": "string"
+                }
+            },
+            "anyOf": [
+                {
+                    "required": ["id","title","doelniveau_id"]
+                }
+            ]
+        },        
+        "erk_voorbeeld": {
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
+            "properties": {
+                "prefix": {
+                    "type": "string"
+                }
+            },
+            "anyOf": [
+                {
+                    "required": ["id","title","doelniveau_id"]
+                }
+            ]
+        },        
+        "erk_lesidee": {
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
+            "properties": {
+                "prefix": {
+                    "type": "string"
+                }
+            },
+            "anyOf": [
+                {
+                    "required": ["id","title","doelniveau_id"]
+                }
+            ]
         }        
     },
     "$id": "https://opendata.slo.nl/curriculum/schemas/curriculum-erk/context.json",
@@ -32,6 +225,55 @@
             "type" : "array",
             "items": {
                 "$ref": "#/definitions/erk_vakleergebied"
+            }
+        },        
+        "erk_gebied": {
+            "#file": "data/erk.gebieden.json",
+            "type" : "array",
+            "items": {
+                "$ref": "#/definitions/erk_gebied"
+            }
+        },        
+        "erk_categorie": {
+            "#file": "data/erk.categorieen.json",
+            "type" : "array",
+            "items": {
+                "$ref": "#/definitions/erk_categorie"
+            }
+        },        
+        "erk_taalactiviteit": {
+            "#file": "data/erk.taalactiviteiten.json",
+            "type" : "array",
+            "items": {
+                "$ref": "#/definitions/erk_taalactiviteit"
+            }
+        },        
+        "erk_schaal": {
+            "#file": "data/erk.schalen.json",
+            "type" : "array",
+            "items": {
+                "$ref": "#/definitions/erk_schaal"
+            }
+        },        
+        "erk_candobeschrijving": {
+            "#file": "data/erk.candobeschrijvingen.json",
+            "type" : "array",
+            "items": {
+                "$ref": "#/definitions/erk_candobeschrijving"
+            }
+        },        
+        "erk_voorbeeld": {
+            "#file": "data/erk.voorbeelden.json",
+            "type" : "array",
+            "items": {
+                "$ref": "#/definitions/erk_voorbeeld"
+            }
+        },        
+        "erk_lesidee": {
+            "#file": "data/erk.lesideeen.json",
+            "type" : "array",
+            "items": {
+                "$ref": "#/definitions/erk_lesidee"
             }
         },        
         "deprecated": {
