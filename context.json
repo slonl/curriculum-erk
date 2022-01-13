@@ -133,7 +133,7 @@
                 "prefix": {
                     "type": "string"
                 },
-				"erk_candobeschrijving" : {
+				"erk_candobeschrijving_id" : {
 					"allOf": [
 						{
 							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
@@ -145,7 +145,7 @@
 						}
 					]
                 },
-				"erk_voorbeeld" : {
+				"erk_voorbeeld_id" : {
 					"allOf": [
 						{
 							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
@@ -157,7 +157,7 @@
 						}
 					]
                 },
-				"erk_lesidee" : {
+				"erk_lesidee_id" : {
 					"allOf": [
 						{
 							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
