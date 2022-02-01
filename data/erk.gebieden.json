@@ -8,5 +8,10 @@
 		"erk_categorie_id": [
 			"ceb938f3-f704-47eb-8f43-ba9c867024f5"
 		]
+	},
+	{
+		"title": "Taalcompetenties",
+		"id": "a1b9682f-9c16-4b04-b5e0-4411c3c92ff4",
+		"unreleased": true
 	}
 ]
