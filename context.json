@@ -15,13 +15,8 @@
                 "vakleergebied_id": {
                     "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/vakleergebied"
                 }
-            },
-            "anyOf": [
-                {
-                    "required": ["id","title","doelniveau_id"]
-                }
-            ]
-        },        
+            }
+		},        
         "erk_gebied": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
             "properties": {
@@ -58,12 +53,7 @@
 							}
 						}
 					]
-				},
-            "anyOf": [
-                {
-                    "required": ["id","title","doelniveau_id"]
-                }
-            ]
+				}
         },        
         "erk_categorie": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
