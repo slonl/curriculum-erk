@@ -84,7 +84,16 @@
 						}
 					]
 				}
-			}
+			},
+            "anyOf": [
+                {
+                    "required": ["id","title","erk_taalactiviteit_id"]
+                },
+                {
+                    "required": ["id","title","erk_schaal_id"]
+                }
+            ]			
+        },        
 		},        
         "erk_taalactiviteit": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
@@ -111,18 +120,6 @@
             "properties": {
                 "prefix": {
                     "type": "string"
-                },
-				"erk_candobeschrijving_id" : {
-					"allOf": [
-						{
-							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
-						},
-						{
-							"items": {
-								"itemTypeReference": "#/definitions/erk_candobeschrijving"
-							}
-						}
-					]
                 },
 				"erk_voorbeeld_id" : {
 					"allOf": [
@@ -154,14 +151,6 @@
                     "required": ["id","title","doelniveau_id"]
                 }
             ]
-        },        
-        "erk_candobeschrijving": {
-            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
-            "properties": {
-                "prefix": {
-                    "type": "string"
-                }
-            }
         },        
         "erk_voorbeeld": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
@@ -217,13 +206,6 @@
             "type" : "array",
             "items": {
                 "$ref": "#/definitions/erk_schaal"
-            }
-        },        
-        "erk_candobeschrijving": {
-            "#file": "data/erk.candobeschrijvingen.json",
-            "type" : "array",
-            "items": {
-                "$ref": "#/definitions/erk_candobeschrijving"
             }
         },        
         "erk_voorbeeld": {
