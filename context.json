@@ -52,7 +52,7 @@
                 {
                     "required": ["id","title","erk_schaal_id"]
                 }
-            ],			
+            ]			
         },        
         "erk_categorie": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
