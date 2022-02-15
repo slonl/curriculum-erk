@@ -146,11 +146,7 @@
 					]
 				}
             },
-            "anyOf": [
-                {
-                    "required": ["id","title","doelniveau_id"]
-                }
-            ]
+            "required": ["doelniveau_id"]
         },        
         "erk_voorbeeld": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
