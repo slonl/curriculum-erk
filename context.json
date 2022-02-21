@@ -152,7 +152,13 @@
             "properties": {
                 "prefix": {
                     "type": "string"
-                }
+                },
+				"niveau_id" : {
+					"allOf": [
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau" } }
+					]
+				}
             }
         },        
         "erk_lesidee": {
@@ -160,7 +166,13 @@
             "properties": {
                 "prefix": {
                     "type": "string"
-                }
+                },
+				"niveau_id" : {
+					"allOf": [
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau" } }
+					]
+				}
             }
         }        
     },
