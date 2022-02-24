@@ -13,5 +13,13 @@
 		"title": "Taalcompetenties",
 		"id": "a1b9682f-9c16-4b04-b5e0-4411c3c92ff4",
 		"unreleased": true
+	},
+	{
+		"erk_schaal_id": [
+			"56707584-bc26-4964-958b-294a77d15395"
+		],
+		"title": "Meertalige en pluriculturele competenties",
+		"id": "f67569a5-4346-46b0-890a-e9113e5a91be",
+		"unreleased": true
 	}
 ]
