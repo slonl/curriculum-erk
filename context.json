@@ -152,6 +152,12 @@
             "properties": {
                 "prefix": {
                     "type": "string"
+				},
+				"doel_id": {
+					"allOf": [
+						{"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"},
+						{"items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/doel" } }
+					]
                 },
 				"niveau_id" : {
 					"allOf": [
@@ -167,6 +173,12 @@
                 "prefix": {
                     "type": "string"
                 },
+				"doel_id": {
+					"allOf": [
+						{"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"},
+						{"items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/doel" } }
+					]
+                },
 				"niveau_id" : {
 					"allOf": [
 						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
@@ -174,7 +186,7 @@
 					]
 				}
             }
-        }        
+        }       
     },
     "$id": "https://opendata.slo.nl/curriculum/schemas/curriculum-erk/context.json",
     "$schema": "http://json-schema.org/draft-07/schema#",
