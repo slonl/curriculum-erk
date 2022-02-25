@@ -6,7 +6,12 @@
 		"prefix": "",
 		"description": "",
 		"erk_schaal_id": [
-			"34c9a621-408a-4ed3-a74c-73138b8fb165"
+			"34c9a621-408a-4ed3-a74c-73138b8fb165",
+			"b6252d39-570d-4a94-8406-24cf24166049",
+			"cc8a1f60-efcc-4cec-8229-932dbe29e51c",
+			"f84f75e7-1ba0-4694-b9cf-8bafe075d3cb",
+			"4ad54d56-d668-4a0b-80f5-3b9d76dd322d",
+			"422129cb-4739-49bc-a174-64275fe10134"
 		]
 	},
 	{
@@ -72,6 +77,28 @@
 		],
 		"title": "Mediation - strategieën",
 		"id": "fd1f1e06-1486-4764-a443-c2f09b2683d9",
+		"unreleased": true
+	},
+	{
+		"erk_schaal_id": [
+			"6b7ef9da-3d67-45e7-9aec-6a70c8e7ab73",
+			"888afb31-15ae-489e-99f4-27a3bcac1863",
+			"763a4d0a-b18b-4da3-b664-6bf2cdf2f237",
+			"2f6b5a57-8b14-4834-afdd-cbf4638b6d71",
+			"d78f5af9-1b28-4f68-bab2-f6ecff7807e9",
+			"237545d1-b66f-4fe7-9b45-b3bb7f127563",
+			"c2fc92d9-59b8-4728-91db-7739b36f99c8"
+		],
+		"title": "Luisteren (en kijken)",
+		"id": "f46c1c83-1d83-442a-8a59-ac4c8b61c7a3",
+		"unreleased": true
+	},
+	{
+		"erk_schaal_id": [
+			"bd84c917-4e9c-40af-a1f4-79c81b1de7ea"
+		],
+		"title": "Receptieve strategieën",
+		"id": "68303ea2-5938-4975-823c-bcd67950e59f",
 		"unreleased": true
 	}
 ]
