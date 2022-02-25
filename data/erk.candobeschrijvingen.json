@@ -9186,5 +9186,3312 @@
 		"title": "Kan bij een moeilijkheid zo soepel herformuleren en herstructureren dat de gesprekspartner er nauwelijks erg in heeft.",
 		"id": "6055ca44-15d6-47cb-9ab4-6ae23f891db6",
 		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan vragen stellen en beantwoorden over zichzelf en dagelijkse routines, met behulp van korte standaarduitdrukkingen en gebruikmakend van gebaren om de informatie-uitwisseling te versterken.",
+		"id": "883874a2-e0f9-43a5-91f3-0b8f68f8ae1e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan op een simpele manier interactief zijn, maar de communicatie is volledig afhankelijk van herhaling in langzamer tempo, herformulering en herstel.",
+		"id": "db21777c-72b9-4edb-8a35-d0026b2efcec",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan eenvoudige vragen stellen en beantwoorden en eenvoudige uitspraken doen en beantwoorden op het gebied van primaire behoeften of over zeer vertrouwde onderwerpen.",
+		"id": "139afbe7-d08a-4363-a041-8114ad3b32a1",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan communiceren in simpele en alledaagse taken die een eenvoudige en directe informatie-uitwisseling vereisen over vertrouwde en alledaagse zaken die te maken hebben met werk en vrije tijd.",
+		"id": "0460adb7-edc5-4ee0-910b-2abf6e187468",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan zeer korte sociale gesprekken voeren maar is zelden in staat genoeg te begrijpen om uit zichzelf de conversatie gaande te houden.",
+		"id": "9d05b319-7c04-414f-b5a4-f86c6be9f696",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan redelijk gemakkelijk interactief zijn in gestructureerde situaties en korte gesprekken, mits de ander helpt als dat nodig is.",
+		"id": "4134c2da-a4e0-451e-a73f-0c5740e02c69",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan eenvoudige routinegesprekken voeren zonder bovenmatige inspanning.",
+		"id": "ec5511c8-5941-470d-9b3c-1aa8bd93627b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan vragen stellen en beantwoorden en ideeën en informatie uitwisselen over vertrouwde onderwerpen in voorspelbare alledaagse situaties.",
+		"id": "d993c73f-fcb7-47ba-a174-a7b5832be6ce",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan gebruikmaken van een breed scala van eenvoudige taal om zich te redden in de meeste situaties die op reis voorkomen.",
+		"id": "3a067066-1788-49a3-9168-b3ed17d970c5",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan onvoorbereid deelnemen aan een gesprek over vertrouwde onderwerpen, uiting geven aan persoonlijke meningen en informatie uitwisselen over onderwerpen die vertrouwd zijn, van persoonlijk belang zijn of betrekking hebben op het dagelijks leven (bijvoorbeeld familie, hobby's, werk, reizen en actualiteiten).",
+		"id": "48e19a8c-8a78-490c-a860-16d432b7aa41",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan met enig vertrouwen communiceren over vertrouwde alledaagse en niet-alledaagse zaken die betrekking hebben op zijn of haar belangstellings- en vakgebied.",
+		"id": "a92452c1-3718-429b-b206-09039fcc97d7",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan informatie uitwisselen, controleren en bevestigen, omgaan met minder alledaagse situaties en uitleggen waarom iets een probleem is.",
+		"id": "3685984f-3181-4500-ae5c-2c5892dad011",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan gedachten uitdrukken over meer abstracte, culturele onderwerpen zoals films, boeken, muziek enzovoort.",
+		"id": "d17c0021-24cc-4422-85c3-5ee137eee8d1",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan zo vloeiend en spontaan reageren dat een normale uitwisseling en langer durende betrekkingen met gebruikers van de doeltaal mogelijk zijn zonder dat dit een van de partijen belast.",
+		"id": "a24522e7-c044-4d56-81ce-369159cb246b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan het persoonlijke belang van gebeurtenissen en ervaringen benadrukken en zienswijzen helder verantwoorden en staande houden met relevante uitleg en argumenten.",
+		"id": "5e5664d5-1740-4cb5-8386-38410a49cc71",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan de taal vloeiend, nauwkeurig en doeltreffend gebruiken over een breed scala van algemene, onderwijs-, beroeps- of ontspanningsonderwerpen en daarbij helder de verhoudingen tussen ideeën aanduiden.",
+		"id": "9bc0447d-d8c7-47e0-bfc4-74a2118e064a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan spontaan communiceren met een goede beheersing van de grammatica zonder veel tekenen dat hij of zij zich moet beperken in wat hij of zij wil zeggen, en kiest daarbij een mate van formaliteit die in de omstandigheden gepast is.",
+		"id": "c39fd809-52a1-4bea-bb07-fc5e932882fd",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan zich vrijwel moeiteloos vloeiend en spontaan uitdrukken. Heeft een goede beheersing van een breed repertoire aan woorden, waardoor hiaten in de woordenschat gemakkelijk kunnen worden gedicht met omschrijvingen. Er is nauwelijks sprake van merkbaar zoeken naar uitdrukkingen of toepassen van vermijdingsstrategieën; slechts een begripsmatig moeilijk onderwerp kan een natuurlijke, vloeiende taalstroom hinderen.",
+		"id": "af3df874-4426-43ab-8be9-633a61def2a1",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Heeft een goede beheersing van idiomatische uitdrukkingen en uitdrukkingen uit de spreektaal en is zich bewust van betekenisconnotaties.",
+		"id": "94b7be51-7ce2-40ce-b973-7f0394772e07",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan fijnere betekenisnuances precies overbrengen door met redelijke nauwkeurigheid gebruik te maken van een breed scala van bepalende elementen.",
+		"id": "3fc0f41b-0057-4e9c-93d1-952e06950031",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan bij een moeilijkheid zo soepel herformuleren en herstructureren dat de gesprekspartner er nauwelijks erg in heeft.",
+		"id": "55f21135-3bbd-4499-bdef-2e729b474a26",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan enkele elementaire standaarduitdrukkingen begrijpen en gebruiken, zoals 'ja', 'nee', 'pardon', 'alstublieft', 'bedankt', 'nee dank u', 'sorry'.",
+		"id": "b501877c-4568-41d0-ba38-a0b157eb2bca",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan eenvoudige begroetingen herkennen en zelf mensen begroeten, zeggen hoe hij zij heet en afscheid nemen.",
+		"id": "1079fff3-bc59-45e7-92e1-389d887ab13e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"ba42f4e6-dd90-47f2-96a5-06dfd74d40c6",
+			"144a5e13-b2b6-4d8c-b4fb-426596cb3822",
+			"c10580a7-cd00-46e3-81a0-22248139d907",
+			"0c7de3a5-d05b-4d4a-a58b-171d2e5db7e2",
+			"077caae8-0d46-470c-bbd4-b4f9456ca1d7",
+			"73cace17-8c3f-4906-910d-5c9973bda026"
+		],
+		"title": "Kan alledaagse uitdrukkingen begrijpen, gericht op de vervulling van eenvoudige behoeften van concrete aard, die rechtstreeks tot hem of haar worden gezegd in heldere, langzame en herhaalde bewoordingen door een sympathieke spreker.",
+		"id": "9005d56b-83e9-4094-bcd2-78c15e729d7a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan deelnemen aan een eenvoudig gesprek van elementaire, feitelijke aard over een voorspelbaar onderwerp.",
+		"id": "152d3735-df96-457c-95f7-f2e3b6019144",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"ad6324d4-501f-4a9f-984d-2387b02e7440",
+			"12852f4e-f78e-4775-97c5-57b0c7274626",
+			"940458dc-bea7-4d25-ae11-7a2e68a26a3f",
+			"9be0f55c-f74f-4098-8caf-9622a12801ea",
+			"0b7630cd-6c83-4e91-8a4b-53f9a78aa23b",
+			"8f315e05-0a10-4f3b-9a41-e29333d6d2b1"
+		],
+		"title": "Kan zichzelf en anderen voorstellen en reageren als iemand voorgesteld wordt. Kan op een eenvoudige manier groeten en afscheid nemen.",
+		"id": "7dd28099-86e6-4e9e-8c45-aae139116be3",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"36836de2-d418-4805-b431-825daa9f608d",
+			"0c35dc56-0bb3-415e-aae8-ee3d920b8baa",
+			"3b9a848a-81a2-4e60-962d-294172f0dd18"
+		],
+		"title": "Kan vragen hoe het met mensen gaat en reageren op nieuws.",
+		"id": "18675bae-2b51-418a-a1c1-bcf4e6499e8d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"13c8a03b-5375-442d-a395-ace7abbf9839",
+			"5c5e1f05-ce45-49db-9d4f-46304e01a54c"
+		],
+		"title": "Kan eenvoudige alledaagse beleefdheidsvormen gebruiken om anderen te begroeten en aan te spreken.",
+		"id": "7eb6af66-16ac-4975-bc51-a88d8e068bbf",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan in eenvoudige taal een praatje maken met medeleerlingen, collega's of leden van een gastgezin en daarbij vragen stellen en de antwoorden begrijpen over de meeste routinezaken.",
+		"id": "25a92aee-9d4e-4bec-8783-fae1b5a932d7",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"a149992b-da46-48a7-a8fa-9c98a94b36eb",
+			"2b415be6-b7c6-4a56-933a-52f9de78d7c0",
+			"1e689036-ed38-4c80-841e-70b4335745ad",
+			"a6b03d4a-6f72-48d0-987d-ca36ffe78419",
+			"7739fb94-2c94-409b-aaa0-ac3af5111d5b",
+			"9c88a22f-d7c1-489f-8126-7f9019198b83",
+			"63bb50a2-dd3e-4a4f-8fb3-b64abe84805a",
+			"c31bb7f1-c170-4acb-9fa7-84f53e641921"
+		],
+		"title": "Kan verontschuldigingen aanbieden, en daarop reageren. Kan uitnodigingen doen, op uitnodigingen ingaan of deze afslaan, suggesties opperen.",
+		"id": "972b6bfd-8c46-416c-97ad-d01a2e27ffe1",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan in zeer elementaire standaarduitdrukkingen vertellen hoe hij of zij zich voelt.",
+		"id": "7881ba68-0c36-4c4f-8fca-9020e262451e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"ba0eb67e-6681-4d7f-a3ee-6410e8e5149b",
+			"a15b9d5b-4cdb-4366-b92b-b281cf559300",
+			"767e08ba-8d99-4a7c-9f01-8509d838d123",
+			"69e7c7a4-52f6-4bae-837d-7fcb2a8114f0"
+		],
+		"title": "Kan zeggen wat hij of zij leuk vindt en wat niet.",
+		"id": "653c400c-00d3-4892-9e6c-68916319dfb2",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"92f6da1f-8b72-45e0-ba27-b022c4d5bd20",
+			"1da8ee0c-ecf8-415a-ace0-9d20a5487028",
+			"c35e7c69-989c-470d-8204-5f65fd3fc196",
+			"a5872d21-2b6c-4ea2-b166-f5bbc90d71fd"
+		],
+		"title": "Kan deelnemen aan korte gesprekken over belangwekkende onderwerpen in een alledaagse context.",
+		"id": "9728ba70-aea0-4dd7-97ca-85ec02770aba",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan om een gunst vragen, kan een gunst aanbieden en kan reageren als iemand hem of haar om een gunst vraagt.",
+		"id": "0a9fddc3-8e4b-45f9-bd1a-a064eea95d6a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"0b48dbcc-f511-4478-8d36-54d29a6b5f67",
+			"9374d1fc-e8aa-44ef-9bbd-debe58b8207d",
+			"d6e68ca8-7ef1-466a-ad0e-a4f4fa8f3163",
+			"f1ed136f-b941-45d0-8e3c-9a98a14b8c98",
+			"b9d3c2dc-4314-4465-b84b-1f459ae980ed",
+			"6798219b-42d3-4ad7-8f1b-55abd3826615",
+			"c61460dd-199e-4fc4-b349-2da0942ff4ae"
+		],
+		"title": "Kan gevoelens uiten en op gevoelens van anderen reageren.",
+		"id": "a46983dc-7b59-430b-a12e-768784351d4e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan een gesprek beginnen en helpen dit gaande te houden door mensen relatief spontane vragen te stellen over een speciale ervaring of gebeurtenis en reacties en meningen over vertrouwde onderwerpen uitdrukken.",
+		"id": "b6c9d2d5-0b01-48fe-b3ae-f6123fd010f0",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan relatief lange gesprekken voeren over onderwerpen van gemeenschappelijk belang, mits de gesprekspartner moeite doet om het begrip te ondersteunen.",
+		"id": "2fd935d0-1492-432a-b31d-d54341d14ac9",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"ab436e71-37ea-4b0c-bc4c-df23d1d78ec7",
+			"92d3522d-fdfe-4894-a42a-6fcb2524a04d",
+			"c5a073e4-e59a-4bdb-9113-f2d7cee6c26b"
+		],
+		"title": "Kan een uitgebreide conversatie voeren over de meeste algemene onderwerpen op duidelijk participerende wijze, zelf in een lawaaierige omgeving.",
+		"id": "39c10a16-3ab2-4ac2-ad4e-98c2cdfc3266",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"2f12dc65-e156-44d5-b4b0-b48a1ea980d0",
+			"d53ca430-e93f-4614-a94a-d810749175be",
+			"eada98db-cbc5-4b80-a654-b4684809b24c"
+		],
+		"title": "Kan contacten met sprekers van de vreemde taal onderhouden zonder hen onbedoeld te irriteren of te amuseren en zonder dat zij zich anders moeten gedragen dan in gesprekken met native speakers.",
+		"id": "7d2ff702-7b3f-40d4-88fe-60b24d170ac0",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"328257cc-c0fb-45a9-89ea-3a415f1805c7",
+			"fd40b9f8-9cb3-47f1-b1b2-d11150d02fc8",
+			"8ffb281e-86bd-4515-8758-a168c7f6521e",
+			"1fe27779-3254-477e-afbb-9ad00b29172b",
+			"bc0fa325-2708-4b1d-8183-0fd8717ed0fd",
+			"9df737eb-d51a-4b7c-8935-d533c5035fed"
+		],
+		"title": "Kan gevoelens genuanceerd uiten, adequaat reageren op gevoelsuitingen van anderen en het persoonlijke belang van gebeurtenissen en ervaringen benadrukken.",
+		"id": "8e4b43e3-d595-4545-ad29-b8502023da85",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan een relatie tot stand brengen met gesprekspartners door het stellen van sympatieke vragen en door instemming uit te drukken en, indien gepast, opmerkingen te maken over derde partijen of gedeelde omstandigheden.",
+		"id": "b7f9a435-f699-4223-b650-2b0dda25f0c3",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan bedenkingen en bezwaren aangeven, voorwaarden stellen bij het instemmen met verzoeken of het geven van toestemming en vragen of zijn of haar standpunt wordt begrepen.",
+		"id": "5cfad0e0-7849-419f-ad7c-7f297802068a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"erk_voorbeeld_id": [
+			"75818af8-b578-4d43-af65-ab2c190ede63",
+			"0e8d19c8-5733-4100-bf87-ff7720bf8ce7",
+			"a7ddda43-0c59-4b22-8c0d-fc8733151c3c",
+			"22ade32a-e724-4065-8dd2-64699c6d7cc2"
+		],
+		"title": "Kan taal flexibel en doeltreffend gebruiken voor sociale doeleinden, inclusief emotioneel, dubbelzinnig en humoristisch taalgebruik.",
+		"id": "34e16c39-c179-4d53-9227-e6a32374dce1",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"erk_voorbeeld_id": [
+			"8c451399-4cfe-4f59-804a-56e07a051d04",
+			"6a666cd1-c154-4db5-971b-578f446b9a98",
+			"db80687a-7036-49da-9bea-208d98bbb39b",
+			"1046f21e-f02c-40fd-9dd2-1fcd0528e732"
+		],
+		"title": "Kan gemakkelijk en adequaat converseren, niet gehinderd door taalbeperkingen bij het leiden van een volledig sociaal en persoonlijk leven.",
+		"id": "d59dac41-f724-48f8-81ba-2fb94e5b14e6",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "d0e29fd6-a2a1-4fdb-bdad-9a93d1e89420",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"420c11d1-8bb0-4558-bd7c-f0b7d1e6daa3",
+			"220e4b5d-cf53-4019-b8d8-16584a8134e4",
+			"194c81b0-b1a6-440c-90de-b4f4706b9d40",
+			"fd7ec8ca-0784-4289-af13-d1d40de8c15b",
+			"79b7af33-3d94-4f76-b879-1f99b2a4b0b6"
+		],
+		"title": "Kan voorkeuren en afkeuren met betrekking tot sport, eten enzovoort uitwisselen.",
+		"id": "27f1c720-1c7f-478e-a4e9-883cfcd29ecc",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"65939d7e-438b-47af-b607-8a2a95be1bcf",
+			"9b1d0828-ac56-42b1-bbf6-f8e4e74b7aa6",
+			"14f89448-1adb-4c63-91b0-966389c394c4",
+			"c8bc22c3-ee75-45f0-ab99-28a6bdfa2508",
+			"87dbd16d-4ccc-4043-b39b-fdb76bcfa641",
+			"0b9685f3-bf3a-42ed-97c2-9e355f6bb477"
+		],
+		"title": "Kan op eenvoudige wijze alledaagse praktische zaken bespreken.",
+		"id": "d3646046-7ee2-4dcf-ab90-25bc070a2970",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"04436b9b-3cea-4209-93e5-d23b17c13db9",
+			"28c8c696-24c4-4c3d-acd7-231dc1234cc0",
+			"f3bab7a4-9b45-48a9-b614-f7365674e6b4",
+			"6f69d235-1b59-470c-b4bc-4e03ef4f46c7"
+		],
+		"title": "Kan bespreken wat men gaat doen, waar men heen gaat en afspraken maken voor een ontmoeting.",
+		"id": "365b76d9-7b4f-4f13-be3c-689514646e8c",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"0ea65db4-f2f3-4361-8d41-5433a490c100",
+			"7667bd88-8bc8-4fcd-b6fd-61de8e1fd3d4",
+			"91e26d42-b538-48cc-9294-48e7d81f56c7",
+			"253a8b32-aef8-4ba2-8ad3-7d75a92c2883",
+			"ed6ee480-41a8-4f23-a0bd-a91393ac6579"
+		],
+		"title": "Kan meningen op beperkte wijze uitdrukken.",
+		"id": "6959084a-ec20-47fb-9d66-d29f90b0bd2c",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan meningen uitwisselen en dingen en mensen vergelijken met behulp van eenvoudige taal.",
+		"id": "1f780765-d9a1-40f0-8260-89d438a302b8",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"erk_voorbeeld_id": [
+			"35febb05-1380-458a-837b-2a6e205f3c74",
+			"b04b4cc2-5ed4-4a99-b245-70828a2a265e",
+			"600470ec-5dba-499c-ab62-2c45732e61e0",
+			"6e645b92-c536-4610-ab52-51b7650b5515"
+		],
+		"title": "Kan suggesties doen en beantwoorden.",
+		"id": "23d67b7d-d490-4daf-9644-5199605d2a86",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"erk_voorbeeld_id": [
+			"9e93d94e-20e4-4e6f-ba0b-829cf4ba8289",
+			"2ba7fc80-d86d-4de5-bff3-2cbaf8a42d23",
+			"05c2f29b-3803-4a24-a11c-e9ef2db448eb",
+			"edcde832-65d8-43eb-a9c1-480df179c21e"
+		],
+		"title": "Kan te kennen geven het (on)eens te zijn met anderen.",
+		"id": "9196e2ea-3297-4366-b838-1fb0ce27ca31",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"681a601b-1fb4-4bd0-b885-fc3738a44efb",
+			"ec52daba-50a3-45e9-b34e-c74a530a8b8a",
+			"b3bcfa99-2b19-4986-9db7-f6d15727e2fc",
+			"b0625475-a903-435d-9474-2e02f781f8a4",
+			"7f962199-2dc2-462b-b8f8-0cae75b38d3f",
+			"df6b3a7e-044d-42c3-93e7-3f144a32d3f2"
+		],
+		"title": "Kan persoonlijke zienswijzen en meningen en meningen geven of  vragen in discussies over belangwekkende onderwerpen.",
+		"id": "feb38eec-8ab0-4cb7-a159-33eb30ed3ac4",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"eb24adb3-cb37-4680-a81d-4387a636b154",
+			"40648cf3-75a5-411d-858b-e90c5909bfbd",
+			"852fb373-5f0f-4b61-9a8a-3d5f666a960d",
+			"ff3d18ad-a839-4374-80a4-d7f9484212a9"
+		],
+		"title": "Kan zijn of haar meningen of reacties overbrengen met betrekking tot oplossingen voor problemen of praktische vragen.",
+		"id": "753800dc-ed6f-4ad8-a994-8a103c14b0d6",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"f66bb46c-da2c-4056-8b3d-62df682d473d",
+			"c5f4b580-6949-4a09-a0f5-ad39f52951cb",
+			"f0b2b290-f5c8-4c21-a2e0-c78063ec5890",
+			"f71577eb-596d-47d7-a34f-128d8a16c31f"
+		],
+		"title": "Kan op beleefde wijze een overtuiging, een mening, instemming en afkeuring uitdrukken.",
+		"id": "d7c346bb-85e2-4250-9782-6ac08ea5b657",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"erk_voorbeeld_id": [
+			"0f3e0cd9-d672-4134-94c1-dc278f47f1d4",
+			"ab3fe726-3712-43e9-abf4-ddfa488524b7"
+		],
+		"title": "Kan zijn of haar gedachten tot uiting brengen over abstracte of culturele onderwerpen zoals muziek en films.",
+		"id": "8aa3f957-be8d-4097-b1e9-7958934ed186",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"erk_voorbeeld_id": [
+			"1f5d0e2a-518e-4989-a1c0-10f3cdb80b1c",
+			"1f48fbe0-828f-413d-b013-39254e06933f",
+			"95ed2cd0-bdae-4cb1-be8e-573ebafb2652"
+		],
+		"title": "Kan uitleggen waarom iets een probleem is.",
+		"id": "18af88c1-259b-4be4-96d4-bf2e83b2788b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"erk_voorbeeld_id": [
+			"db96d96c-1e58-4d33-b0a5-1f876f1c2983",
+			"0ede1703-5038-49a8-a937-a75fcb306292",
+			"6dde5bfb-d59b-4183-b04f-c0a0ea867c56"
+		],
+		"title": "Kan beknopt commentaar geven op de standpunten van anderen.",
+		"id": "61b7d8dc-cbd1-4d6b-8d75-2451d4ee4150",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"erk_voorbeeld_id": [
+			"8e911d61-2f19-490a-bdba-cd75dcb6e311",
+			"aad90bb1-e4c2-48d2-9980-2f2fee09f142",
+			"a59942e6-e9cb-4d50-8844-7af25b83fb0f",
+			"a55d3e2f-7819-489c-a029-9b2377d3a204"
+		],
+		"title": "Kan alternatieven vergelijken en tegenover elkaar stellen, bespreken wat er gedaan moet worden, welke richting moet worden ingeslagen, wie of wat moet worden gekozen, enzovoort.",
+		"id": "ecd3d300-9d32-4b18-842a-c45a7c27dbfc",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"14aa1b48-367a-49e3-9db6-d7c506face25",
+			"f2c23d99-8f2f-4d7b-8d52-c3c441c83c9f",
+			"baffa886-e342-4d68-889b-a42a77827e79",
+			"a3881202-333c-4f62-b7e9-4ffbe33c67e8"
+		],
+		"title": "Kan actief deelnemen aan informele discussies in een vertrouwde context en daarbij commentaar geven, standpunten helder weergeven, alternatieve voorstellen evalueren en hypothesen stellen en beantwoorden.",
+		"id": "b2c945fe-07a0-42f9-aa99-13f276e77fb0",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"867cb834-93ba-495a-a134-4d7efde2855a",
+			"5728270f-c009-48b5-8409-e7585de8d9c3",
+			"7b77d626-cd0c-4683-8491-7427be26d5fb"
+		],
+		"title": "Kan zijn of haar meningen in een discussie verantwoorden en staande houden met ter zake doende verklaringen, argumenten en commentaren die ter zake doen.",
+		"id": "892d8ed7-09b5-41bb-b82e-e45099333e27",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"erk_voorbeeld_id": [
+			"3c1a4435-3b0e-4f86-9ff3-ac7c75270f40",
+			"1a5df2b1-71d6-41c9-a70e-442bc5328480",
+			"f8a5c857-d79c-46bc-98d6-31874b26091e"
+		],
+		"title": "Kan met gemak complexe interacties van derden volgen en daaraan bijdragen In een groepsdiscussie of debat, zelfs als het gaat om abstracte, complexe en niet-vertrouwde onderwerpen.",
+		"id": "39592240-955b-4a71-a92f-ea85b422fcae",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan adviseren of praten over gevoelige kwesties zonder ongemak, spreektalige verwijzingen begijpen en diplomatisch omgaan met onenigheid en kritiek.",
+		"id": "1771b512-3d02-4212-86fe-f123f78d88fb",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "0a3dc9f7-b25f-4de3-a4b8-e6265ae6abe8",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "837e898f-853a-4f25-bc61-5c34f0ebbae9",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"4038d0ea-30a1-48f1-b38b-f9c282f71df2",
+			"9e9ee87f-297c-4599-8b26-5ba396e61471",
+			"31ea9aca-9cba-41f5-8d5b-a0d9ee92575b",
+			"f8d8d1fe-5c6c-4b8b-9a81-73d82d703a45"
+		],
+		"title": "Kan zeggen wat hij of zij van zaken vindt wanneer hij of zij rechtstreeks wordt aangesproken op een formele bijeenkomst, mits hij of zij indien nodig om herhaling van belangrijke punten kan vragen.",
+		"id": "b870e481-be5c-4037-be0d-8d49fbcb2e83",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"erk_voorbeeld_id": [
+			"44cff8ee-f41e-4854-804c-1cfa703dbb16",
+			"cff1650b-ea66-4168-932b-61aa79a803fe",
+			"e96cac20-ecd4-47a8-8838-5e8c6f620f13"
+		],
+		"title": "Kan relevante informatie uitwisselen en zijn of haar mening geven over praktische problemen wanneer dat rechtstreeks gevraagd wordt, mits hij of zij enige hulp krijgt bij het formuleren en indien nodig om herhaling van belangrijke punten kan vragen.",
+		"id": "c6fa1afe-cae8-4bde-9983-a18c257f09c0",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"dffd5508-ee3f-4108-85a4-3f42766fb2f1",
+			"336a44aa-b9e9-4687-927f-21e4b90fe7bf",
+			"5407e1f1-1b89-4ac3-88a0-2b763ecfb58a",
+			"56420bab-2a5d-45b4-8a38-bc7a9f159d01"
+		],
+		"title": "Kan deelnemen aan een alledaagse formele discussie over vertrouwde onderwerpen die gaan om de uitwisseling van feitelijke informatie, het ontvangen van en reageren op aanwijzingen of het bespreken van oplossingen voor praktische problemen.",
+		"id": "b3538e46-8808-4711-8e6c-7b10ecffe9f7",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"erk_voorbeeld_id": [
+			"a3ca71a0-80ad-4f31-a308-0f80377d662a",
+			"82c209eb-bccb-4c1f-bbda-eda97c13cb08",
+			"261e37b2-a92f-4a6e-9782-a6d771960681",
+			"e652f525-b5cf-4f7e-809f-a99b7ad99f58"
+		],
+		"title": "Kan een standpunt helder overbrengen, maar heeft er moeite mee om in debat te gaan.",
+		"id": "273cf468-9964-4b25-9a45-2aa0a8079e51",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"5562e656-8788-455e-b1a6-c870e3dadb5f",
+			"74184215-0c83-44cc-915e-18b1a2eea82c",
+			"b0efa145-1275-4ae0-9f0a-74ea981563c6"
+		],
+		"title": "Kan actief deelnemen aan alledaagse en niet-alledaagse formele discussies.",
+		"id": "2b95d156-eba8-407b-b5b4-93370f00ac4b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"11f79f29-4988-4e05-b424-08364de82915",
+			"4c8b5585-9416-4fda-88e7-33fb36665f3a",
+			"fdaeeebf-ad18-47d3-b3f6-35355b49e74b",
+			"a02fd0ae-3938-4df9-ac5a-404191273170",
+			"6338b000-87c8-4333-8168-5533841254fb"
+		],
+		"title": "Kan zijn of haar mening bijdragen, verantwoorden en staande houden, alternatieve voorstellen evalueren en hypothesen stellen en beantwoorden.",
+		"id": "280927b8-8c42-4638-93c6-f5a93291a208",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan de gepaste technische terminologie gebruiken bij het bespreken van zijn of haar specialisatiegebied met andere specialisten.",
+		"id": "58db4a54-e1ae-45df-9732-62e0d3082456",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"erk_voorbeeld_id": [
+			"4d193e75-002f-4645-83c3-e8913834dac8",
+			"58363275-a0e7-446d-99fb-09f432108180",
+			"93f6393d-967d-4776-b752-7e70c6ffe0e5"
+		],
+		"title": "Kan zijn of haar ideeën en meningen precies onder woorden brengen en op overtuigende wijze complexe redeneringen presenteren en beantwoorden.",
+		"id": "21658526-f05c-4608-9b1c-b763b6d73eb0",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"erk_voorbeeld_id": [
+			"e73e7645-38bc-4010-a322-ff04cb5c1871",
+			"3dec406b-d0f0-4b72-9954-ee7571975fbf",
+			"e5576b38-77a8-47bc-a164-13b45eced127",
+			"65b066a1-d8ec-40ea-a03d-b5bb02ae5d50",
+			"5cc0bfc5-c5ca-48f7-af3f-6c85c8e57296"
+		],
+		"title": "Kan gemakkelijk deelnemen aan het debat, ook als het gaat om abstracte, ingewikkelde en niet vertrouwde onderwerpen.",
+		"id": "a6068ec6-25e3-42b1-9124-967f0e1b4a49",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"erk_voorbeeld_id": [
+			"2277e7f6-2692-42e8-9c19-b4b0c89bb9bc",
+			"4517aeae-3403-4888-9b96-512bb107887b",
+			"111d7ad8-cb74-4ec6-a20f-5faf667a595a",
+			"5798e2de-3747-4e1f-966b-b20aff7d0baa",
+			"1e6fcd8e-87ca-4867-97c9-7762bfe9dcda"
+		],
+		"title": "Kan een formeel standpunt overtuigend beargumenteren, daarbij ingaan op vragen en opmerkingen, en complexe tegenargumenten vloeiend, spontaan en adequaat beantwoorden.",
+		"id": "0e492794-fac5-4fff-82ac-7e6a3115fd0d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan bijdragen van andere deelnemers over zaken binnen zijn of haar academische of professionele vakgebied herformuleren, evalueren en betwisten.",
+		"id": "cbe35a5d-648a-46b5-84ad-a94a1a312572",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan kritische opmerkingen maken of op diplomatische wijze aangeven het ergens niet mee eens te zijn.",
+		"id": "3d7e1626-b3f0-430d-97d5-36a0846dab6f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan vragen opvolgen door aan te dringen op meer details en kan vragen opnieuw formuleren als ze niet goed begrepen worden.",
+		"id": "ebb3423a-ed35-41a3-b420-4d83ddbfdace",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"erk_voorbeeld_id": [
+			"c4e59aaa-65ca-4649-8812-16a7627aeddf",
+			"980ab334-cc79-4b0d-8c82-de5fa94e3406",
+			"ab3c740c-2c38-461c-a472-43624fd2b859",
+			"e3ee614a-23e8-4a02-808a-2068e46e5a18",
+			"bda78fae-5d22-4c98-8d76-331098222dc4",
+			"35baf6ce-1980-4b06-b4ad-c61289a177d0"
+		],
+		"title": "Kan zich handhaven in een formele discussie over complexe zaken, en daarbij uitgesproken en overtuigende argumenten geven zonder andere sprekers te benadelen.",
+		"id": "057a1b4f-b199-4659-9e0b-12992328f4d1",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan adviseren over het omgaan met complexe, gevoelige of controversiële kwesties, mits hij of zij de noodzakelijke specialistische kennis heeft.",
+		"id": "ab786297-5985-4ceb-bb5e-640113ba6be3",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan met zelfvertrouwen omgaan met vijandige vragen, aan het woord blijven als hij of zij aan de beurt is en tegenargumenten diplomatisch weerleggen.",
+		"id": "d4de0a88-20c0-457b-b098-37cbc0453950",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "4628a4a3-6bd2-4aa9-87e4-7b09a552c4f2",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan elementaire instructies opvolgen die te maken hebben met tijden, locaties, getallen enzovoort.",
+		"id": "d47ef991-b241-40ba-9128-550343453017",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"292c5bfd-acc4-4b44-a4f0-438b1f47eb40",
+			"99853707-dc08-4429-9268-c9271321b087",
+			"d36ed8c9-9f25-4b81-b4a0-6c5257690278",
+			"bcc922f4-969e-4dc7-95fb-9cd9357f1c84",
+			"fd4577a3-71ee-401f-a870-dfc83714cbcc"
+		],
+		"title": "Kan mensen om dingen vragen, begrijpen wanneer om iets gevraagd wordt, dingen aan mensen geven.",
+		"id": "f134bca5-bb36-46ef-988c-c6060d5a49ef",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"323858f9-96a2-4f29-96ee-51dbc5ade910",
+			"ae55f61c-e3c7-4efd-bfc5-d73e67fcf7f0",
+			"9564b884-bbf6-4229-abd8-e4b89e3461de"
+		],
+		"title": "Kan communiceren over eenvoudige en alledaagse taken in eenvoudige bewoordingen om dingen te vragen en te verschaffen, eenvoudige informatie te verkrijgen en te bespreken wat er vervolgens moet gebeuren.",
+		"id": "d5599dee-64d5-4890-8ba8-207be036149b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"erk_voorbeeld_id": [
+			"f649c1b4-9587-461c-8409-872a63fe0607",
+			"7eafa192-ff31-4d6a-85d5-575ae6bd76c3"
+		],
+		"title": "Kan bespreken wat er vervolgens moet gebeuren, daarbij suggesties doen en beantwoorden, en aanwijzingen vragen en geven.",
+		"id": "63872ad7-e176-4279-8607-822d6c847b62",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"3e79f56e-5392-41e4-8065-654a1aadd223",
+			"fcfdcb97-940a-41fe-844f-c9abedd7422e",
+			"01a45cb0-2077-440e-b743-8c25d1d543c3",
+			"7ec8e6d9-cd22-4d7c-ba5d-dc783ee9f29b",
+			"a364a8b2-0ae7-46ac-887a-a67ac0d2deb6",
+			"5f00f8e3-2a5f-4dc0-ba2b-badeae9b89c9"
+		],
+		"title": "Kan zijn of haar mening en reacties overbrengen met betrekking tot mogelijke oplossingen of de vraag wat er vervolgens moet gebeuren, en daarbij beknopte redenen en verklaringen geven.",
+		"id": "a8852c4d-04d3-4e0c-a624-2b52fb01bfa3",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"e0eda3d7-c753-4029-857f-861c915d9cfd",
+			"36356d7a-5551-402d-8a2f-6a92666d730c",
+			"dab43ff3-14ac-44f5-a182-a076d5e613e9",
+			"0fb21f98-8dd4-4737-9472-f2a5fab012ef"
+		],
+		"title": "Kan beschrijven en bespreken hoe iets gedaan moet worden, met gedetailleerde aanwijzingen.",
+		"id": "0af24d12-6083-416b-871a-043a98a4851d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan uitleggen waarom iets een probleem is, bespreken wat er vervolgens moet gebeuren, alternatieven vergelijken en tegenover elkaar stellen.",
+		"id": "f6848031-a4e5-450c-8060-483d39296ead",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan beknopt commentaar geven op de gezichtspunten van anderen.",
+		"id": "e02f2860-93a7-4c04-bd0b-5d9a733820a7",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"7d2c06c6-b4c9-42d7-bff4-fb4efdfd4b67",
+			"359768b3-dfe9-403b-b462-f092567d1002",
+			"aa66d0c5-1b2c-4aca-b6f4-f47452558c17"
+		],
+		"title": "Kan de voortgang van het werk bespoedigen door anderen te vragen mee te doen, te zeggen wat zij ervan vinden, enzovoort.",
+		"id": "ca467d58-07d9-437c-aeee-e73308f354cb",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"463c675c-2628-4167-b8fc-3067c191e9e0",
+			"d5c70f6d-357b-4617-aeb2-0a4df87f3fa6",
+			"afb6b4bc-be08-4d45-a2c0-64a8f7de3a96"
+		],
+		"title": "Kan een zaak of probleem helder schetsen, speculeren over oorzaken of gevolgen, en voor-en nadelen van verschillende benaderingen afwegen.",
+		"id": "b6361938-a6ae-437c-9d67-55ca2e640e28",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan de discussie kaderen om een actieplan te bepalen met een partner of groep en daarbij verslag doen van wat anderen hebben gezegd en meerdere standpunten samenvatten, uitleggen en afwegen.",
+		"id": "6eef7689-99ea-4c53-bd60-08a4b04ae0af",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "28f1889f-c5fa-4552-938c-8fc4faca72eb",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan eenvoudige aankopen doen en/of eten en drinken bestellen als de gesproken taal kan worden ondersteund met wijzen of andere gebaren.",
+		"id": "ffc6dda8-a46c-44d2-a16d-d2aae62e290b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"f6b067c6-0cc6-4e57-8e15-62163c26615f",
+			"ace43e1f-bf36-401f-85ab-3fa21852f5b1",
+			"e8d787e7-4a9e-4c73-be3f-ef0b5f3120d7",
+			"487acff8-3232-4136-9d65-9c004d40ac10",
+			"da903e7d-f095-4095-94b3-dc425966b3fb"
+		],
+		"title": "Kan mensen om dingen vragen, begrijpen wanneer om iets gevraagd wordt, dingen aan mensen geven, voor iets bedanken.",
+		"id": "4e318106-29d1-4199-ab9d-542a48c63f97",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan om eten en drinken vragen met behulp van elementaire uitdrukkingen.",
+		"id": "04ad473b-081b-4e44-a862-a34b04f21c0d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"2141edd8-8ffc-4046-80ac-ca9e14e86274",
+			"bbf56f7c-ecda-4c7e-a949-a9b62c02a5de",
+			"f7909113-678d-447e-9521-88c7ad2ad1ef"
+		],
+		"title": "Kan overweg met aantallen, hoeveelheden, kosten en tijden.",
+		"id": "0b063143-4588-476c-bd2f-3191492a35d9",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"2dcfc0af-b687-4cd8-bfd6-cc08d80c6bbc",
+			"64a7f006-bf4c-43e5-bd22-01fdbba1c2c5",
+			"7645d983-c14e-4f26-af28-e2b2f162a6ec",
+			"5f67fef1-ee84-446a-81ee-149b6c9868c7"
+		],
+		"title": "Kan afspraken maken.",
+		"id": "3c514bb6-e475-41ab-91a7-5e95259352ac",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"09c6e4b2-1218-49f0-a8a7-78961982366a",
+			"89fee0b8-87d4-4891-b735-0df2849d11a1",
+			"3fd1d8cc-e126-4e1d-8dd7-1c778ca8722c",
+			"7fbcb964-c026-4028-8f2e-a76bd30dccaa"
+		],
+		"title": "Kan alledaagse goederen en diensten aanvragen en verschaffen.",
+		"id": "a359a18d-64e6-4678-908c-08fd9d95244b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"6692d253-2dce-407b-9f8b-2987b78a8aa7",
+			"63963611-c100-4cd6-86ff-6e44a6952841",
+			"3ad70298-6223-4f68-8ecd-4f576900a646",
+			"7e9c480d-1076-4843-a0de-8b1e21ae924d",
+			"ecf07425-ab58-403d-896a-941c870a7262",
+			"49c11ada-9f4a-45f7-8ef4-bc6a0df5dd1b",
+			"dd269c1f-91f2-464c-87ed-c5907e3d1463"
+		],
+		"title": "Kan eenvoudige inlichtingen verkrijgen over reismogelijkheden; gebruikmaken van het openbaar vervoer: trein, tram, bus en taxi; de weg vragen en wijzen; kaartjes kopen.",
+		"id": "74744afb-ed5a-4a27-8597-fe5e8f325b3e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"e83fde1f-4b7b-487a-a9a2-1f51f48d61d1",
+			"da6e4eed-54f0-4f16-aad1-280ea7a9fccb",
+			"0c9c89c3-ed68-497e-9e8d-4d3276a1edf7"
+		],
+		"title": "Kan dingen vragen en eenvoudige transacties doen in openbare gelegenheden.",
+		"id": "deb0ec9c-3f6f-4560-ae2d-a62b17a774c0",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"4c86f60f-2815-428e-9596-a48beb80c270",
+			"986b3637-6925-4bf3-98d1-5108567425d0",
+			"1b97e455-953e-4ecf-a95c-5bee080916a5",
+			"0d69b3cd-ec82-491e-9b6d-975e546e5f6a"
+		],
+		"title": "Kan inlichtingen geven en ontvangen over hoeveelheden, aantallen, enzovoort.",
+		"id": "651e7df7-3b37-4b9d-ad38-f43c69a75c15",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"a09664e8-9760-48c1-b3a1-d8f0c1f30fd1",
+			"abfe0174-1d0a-46ab-94aa-b8d59648bf30",
+			"2ae5008e-3372-48a7-85a3-ffaba09eaa5c",
+			"8dfa9cb1-081e-4fe9-a1e6-71083e93287e",
+			"a742d225-7478-4a61-992e-a648880712ed"
+		],
+		"title": "Kan eenvoudige aankopen doen door te zeggen wat hij of zij wil en de prijs te vragen.",
+		"id": "7036850c-fdd1-4698-9cdc-c8da40b4af62",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"b1798cec-7649-40cf-bfc9-569c878ff490",
+			"49fc2228-3641-4d23-bfa6-67746e4cf560",
+			"65a71ea6-88ce-4782-99eb-7d8865200d38",
+			"aee51767-41b7-40ff-ad47-3b0e764ad9ca"
+		],
+		"title": "Kan een maaltijd bestellen.",
+		"id": "20d4b2b5-38fa-4e44-bb46-84ace17eef98",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"818eef70-b226-4a34-b447-7ede0d93306c",
+			"e794edc1-8bb0-40e8-b2f8-cc5008ae86bc",
+			"593b9f40-f73e-4c87-ba64-5cfad6a3d496",
+			"1093f6e4-6f05-47c5-8337-d3e0f0a63f5d"
+		],
+		"title": "Kan een eenvoudig gesprek aan een balie voeren.",
+		"id": "231b1a55-4583-423d-8a4e-132d1aa2661d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"385f40f7-6dcd-4dcc-b310-14627089ca16",
+			"33041f6d-fa98-4106-bed2-d6749374766d"
+		],
+		"title": "Kan zeggen als er iets niet goed is.",
+		"id": "19a833b1-031c-4eed-b5cd-4ee60ddd068d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan (bij persoonlijk contact) vragen om een doktersafspraak en het antwoord begrijpen.",
+		"id": "e6fc51ef-ed27-4074-beb7-fe2426c84343",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan omgaan met gewone aspecten van het dagelijks leven zoals reizen, verblijven, eten en winkelen.",
+		"id": "05c101e5-d091-414e-9d2c-bde5b0c9b773",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"erk_voorbeeld_id": [
+			"bf2a411f-b4d1-436f-b53d-19aae0dae2b5",
+			"6938602b-b7de-42c5-9bd4-f6e36b043213",
+			"5475945a-3f25-45d6-8cd8-cccac62da7ff"
+		],
+		"title": "Kan interactief communiceren in voorspelbare alledaagse situaties in het publieke leven met behulp van een breed scala van eenvoudige woorden en uitdrukkingen.",
+		"id": "f6d224ed-989e-4dd2-abf1-28ea2497a4aa",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"bbd93a26-822e-487f-ba69-a3844ace4cde",
+			"d4b990b0-49a7-4cca-8cd7-f5bc254b64e4",
+			"68bbc3ec-1e81-4487-be5a-7b54ca5dc836",
+			"9cffcdac-6529-4a28-9968-a9c84313e141",
+			"5c5827a7-9383-482f-8423-374ac113be85",
+			"e9c04dbb-9ffd-42f1-9ff8-bb452ec0dca3"
+		],
+		"title": "Kan de meeste transacties uitvoeren die kunnen optreden tijdens reizen, bij het regelen van vervoer of onderdak of in contacten met gezagsdragers tijdens een buitenlands bezoek.",
+		"id": "df2ab55a-584a-4a89-a102-42e3e526e018",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan in een winkel vragen om uitleg over de verschillen tussen twee of meer producten met hetzelfde doel teneinde een beslissing te nemen en daarbij zo nodig vervolgvragen te stellen.",
+		"id": "22660ff7-7004-436c-b7c7-0060e604ff7f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"90ce40fd-3bf9-4450-8da7-8a2bf41ab6f1",
+			"c64dc4bb-2313-4bdb-8d5f-fd86b4c27707",
+			"679b2d32-bdca-4f6b-9ac1-d0d4aef86ae8",
+			"bf9c3263-a4cc-47d9-966b-643126327efb",
+			"193dcb46-c46b-465f-9eb3-5a9650f9de61"
+		],
+		"title": "Kan zich redden in minder alledaagse situaties in winkels, restaurants, postkantoren en banken.",
+		"id": "53f95fb6-e080-4eb9-9491-ec85191cde30",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"ae439b49-f04b-4adc-ab10-d4a0ffbdd783",
+			"0f4ceb24-55fa-428d-8066-4ac9e99e6830",
+			"595ef9d5-1570-4def-a8c8-a34ecb6818c4",
+			"8c00c1cc-3faf-4b97-870b-5798a5c2c35d"
+		],
+		"title": "Kan een klacht uiten, afhandelen, doorgeven.",
+		"id": "9ca79239-434c-4d79-a731-a2f3ce714e6d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"1e9a0922-d466-4622-8fd3-18a727540496"
+		],
+		"title": "Kan omgaan met de meeste situaties die kunnen optreden wanneer hij of zij een reis boekt bij een reisagent of tijdens het reizen zelf.",
+		"id": "0284fac4-7416-43a3-80da-a4471c5def6a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"8d95993e-f12f-4fcb-b11b-e42dc38fa207"
+		],
+		"title": "Kan eisen formuleren en gedetailleerde vragen stellen met betrekking tot complexere diensten, bijvoorbeeld huurovereenkomsten.",
+		"id": "222971a0-5893-419a-9f83-f4f5c4aaa10d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"e98477c8-b0fb-45ef-b5a0-cc7d17b83799",
+			"a2858335-f2a6-46d5-a2b2-6ff1b51d0a1b",
+			"5822a5ab-70ad-4f08-ba1c-619e7c45aa28",
+			"482dc912-ce00-495d-a2ae-ef3e4fcd54c4"
+		],
+		"title": "Kan een probleem uitleggen en duidelijk maken dat de dienstverlener of de klant een concessie zal moeten doen.",
+		"id": "56974c81-2de7-4810-a5b3-8643598179ff",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"cff433fa-6348-4b8e-a23a-ce253f9ff634",
+			"f7f9adea-976d-4215-b6a6-3cc4ff91382e",
+			"ea8f131f-3969-46ad-b33c-2fcbd8c6fd0a"
+		],
+		"title": "Kan onderhandelen.",
+		"id": "0c81d37c-aeea-45ef-97bc-cdd8e4fe5b45",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"667b67b1-3f51-4342-9408-31998d3aa49d",
+			"8eaf8dc3-7dd7-46e0-bf92-e05cbd36f6e2",
+			"41f7f41e-b87e-4aa0-a371-2a6ffa6a78b2",
+			"cbea91b8-bbff-41d7-9ad7-be824abca970"
+		],
+		"title": "Kan een klacht op adequate wijze afhendelen, telefonisch en face-to-face.",
+		"id": "25f12553-d02f-45b1-9871-916e67e5996c",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"erk_voorbeeld_id": [
+			"568b1d13-c1e6-4bb3-a5a1-0072534e3ee8",
+			"64aa42a8-cef8-4027-b430-6df57f9cb7ed",
+			"9fbc4b57-ca49-485f-a990-1e7cad7a3575",
+			"18a16185-a5c5-4b22-9df2-22a97686b2ff"
+		],
+		"title": "Kan zich talig redden om een oplossing te bereiken voor een meningsverschil in onverwachte situaties.",
+		"id": "798fe14e-da3f-4dd3-8b41-3b78d60470c0",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"erk_voorbeeld_id": [
+			"6e4b71eb-2874-4862-9556-e783ecafa517",
+			"9721dd5f-2c35-43de-abe1-2114d4251520"
+		],
+		"title": "Kan argumenten geven voor schadevergoeding, overredende taal gebruiken om genoegdoening te eisen en helder aangeven wat de grensen zijn van eventuele concessies waartoe hij of zij bereid is.",
+		"id": "93de4a8f-891e-4434-b4ba-4fc1d0443d9d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan onderhandelen over complexe of gevoelige transacties in het openbare, professionele of academische leven.",
+		"id": "a6a02567-9e44-4608-b4eb-4995a27a3dcc",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "46c6027a-a026-45e6-a787-fc6f01b52e09",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan mensen zijn of haar naam vertellen en andere mensen om hun naam vragen.",
+		"id": "05398c0a-9bf1-43e0-a4b0-0ed85864e314",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan eenvoudige getallen gebruiken en begrijpen in alledaagse gesprekken.",
+		"id": "19796640-63ce-4065-b838-5339d506dd36",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan vragen en vertellen welke dag, hoe laat en welke datum het is.",
+		"id": "4bd35baa-80e8-4fdc-bc0f-afe8004b13b4",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan een geboortedatum vragen en geven.",
+		"id": "fba957a1-08f4-4611-b3bb-8f09f8d1c7e4",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan een telefoonnummer vragen en geven.",
+		"id": "c70fdf0e-c807-420e-b1a7-00982dc3be00",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan zijn of haar leeftijd noemen en andere mensen om hun leeftijd vragen.",
+		"id": "78a7d524-06ff-42a7-9a6f-bd0ef82698d5",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan zeer eenvoudige vragen stellen om informatie te verkrijgen, zoals 'Wat is dit?' en antwoorden van een of twee woorden begrijpen.",
+		"id": "5fe5ba74-6766-4d92-926b-254f211e2fcd",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"adf4e2b5-844e-451d-b671-d15307785b4d",
+			"ce7fb3f9-d3cb-455d-b0ec-949c9731a70c"
+		],
+		"title": "Kan om verduidelijking vragen, eventueel met hulp van gebaren.",
+		"id": "59a0bbae-3cf4-447d-b537-ff093d0190ea",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"46c0d6bd-99a5-4f87-b537-6fc06f2dbdf0",
+			"7847978c-b5ed-49a6-b182-d872971b931f",
+			"05ce956f-c689-4f93-82a5-db1d81ff554e",
+			"2c619dc5-05ef-4d09-a3ab-221dff4187eb",
+			"857833b4-3bfc-4142-9b2a-dd9baeae908e",
+			"c6667c76-a444-49aa-9ef4-b893849f31fb",
+			"00ffa2e8-0778-4410-869f-9a5b224cde5a",
+			"f144ec79-789d-469f-935e-1bafd07179d8"
+		],
+		"title": "Kan eenvoudige vragen stellen en beantwoorden, en eenvoudige uitspraken doen en beantwoorden op het gebied van primaire behoeften of over zeer vertrouwde, concrete onderwerpen.",
+		"id": "859a9ed2-a748-4c8d-afd6-b66826c860f6",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"1121b361-bd25-4561-927f-04c9e6eeaadb",
+			"2a9bf587-8fbb-4e9b-a27b-2c8da288d747",
+			"070a4cc9-816d-434e-a0f3-0757813c8e59",
+			"86aa914d-6ae3-43a1-b5f5-6a7622a37f46",
+			"3d2daeae-1dd5-4266-bad3-f675a1973dc3",
+			"d799385d-c7d4-4efd-b383-683918576286"
+		],
+		"title": "Kan vragen beantwoorden en stellen over zichzelf en over anderen, waar zij wonen, wie zij kennen, wat zij bezitten.",
+		"id": "a755a2a4-0137-45fc-9e70-f9372a12a7de",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"0f938dcd-1ec0-415a-bed9-b068842ad570",
+			"0324da19-60ce-4859-b5f9-4eba881a4fa7",
+			"ff149462-2ceb-4553-8cb3-7497b434a99e"
+		],
+		"title": "Kan de tijd aangeven met vaste formuleringen als 'volgende week', 'afgelopen vrijdag', 'in november', 'om drie uur'.",
+		"id": "e3ab126a-7db2-43d2-944a-b2d231ed8398",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan de kleur van kleding of andere vertrouwde voorwerpen benoemen en kan naar de kleur van dergelijke voorwerpen vragen.",
+		"id": "69b376bd-fd39-49dd-82e5-7de146311d9f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"62c07325-70dc-4b5a-8297-199e610adbf4",
+			"f8a19496-8bc2-4f27-a3e3-d80041b2fa07",
+			"eef02970-a773-4aa4-b69f-362f40fb122b"
+		],
+		"title": "Kan communiceren over eenvoudige en alledaagse taken waarvoor een eenvoudige en directe uitwisseling van informatie vereist is.",
+		"id": "87f59abd-188d-41ae-800e-4f5375a71147",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"5a3bccc3-2008-4633-9800-fabc750d2135",
+			"79e24ab5-345f-4b1a-bca0-41f1044006e9",
+			"a80c2d4c-115f-492d-81b3-2ea1b2158355",
+			"4acd9c51-c1d5-41e4-aee3-5f62d82bc86a"
+		],
+		"title": "Kan beperkte informatie uitwisselen over vertrouwde en alledaagse zaken van praktische aard.",
+		"id": "6536a736-f59b-47e7-bfa8-658e13f9c1e0",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"ecd41373-61a0-4d5b-a825-c99c74b2407f",
+			"2ce92ba1-d13f-4f36-814c-1c9730b9ff39",
+			"c68de74d-bef0-4c2b-9a88-ae6b7f821a7f",
+			"ed446162-1e33-4d92-93a4-e7f92b3d7afe"
+		],
+		"title": "Kan vragen stellen en beantwoorden over wat men op het werk en in de vrije tijd doet.",
+		"id": "f17f36f0-1961-4016-b6df-071d26983418",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"4e9575e2-e982-4b48-8966-bc8ea078c996",
+			"c91b9bfc-8a9c-452f-ad3f-3c458ba0c62f",
+			"4d2d23cc-fc69-481d-9d2b-4f3f29371cb6",
+			"5a611924-3730-4d89-9ed4-aee2cef51b8c",
+			"271565fd-74c7-4ecb-b694-176dcb09e743"
+		],
+		"title": "Kan informatie van persoonlijke aard vragen en geven.",
+		"id": "2adbee92-c10e-4f0c-8a42-8b9b9262e5de",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"21bc1b33-c6da-4666-8b8a-495048a3c192",
+			"4f9a22e5-fc58-4f09-af24-48db6220c0e3"
+		],
+		"title": "Kan aanwijzingen vragen en geven op een landkaart of plattegrond.",
+		"id": "be3aa071-0006-4a32-add4-0b1523189936",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"b31fe1f9-1760-4422-bc4e-3885405bc607",
+			"f985077e-0bf4-4d7c-8a31-4fa76a690a6e"
+		],
+		"title": "Kan eenvoudige vragen stellen en beantwoorden over een gebeurtenis.",
+		"id": "1f6516b7-a225-4785-8431-ebf04b0fd4d0",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan genoeg begrijpen om eenvoudige routinegesprekken te voeren zonder bovenmatige inspanning.",
+		"id": "f4576a33-95f8-4f17-b202-841d37efc1cd",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"erk_voorbeeld_id": [
+			"58d376da-61ef-421b-a5ed-03334659f98b",
+			"5f421a97-74ab-43a6-a86b-fbe531b6945b",
+			"7e773401-8b07-459f-853b-cd7c3f206dfc"
+		],
+		"title": "Kan direct feitelijke informatie achterhalen en doorgeven.",
+		"id": "b8750b0d-d84d-412c-8d1a-2a07b5de2971",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"erk_voorbeeld_id": [
+			"0d537035-85b9-4940-9a29-0998e89c03ac",
+			"c2c24855-1d91-4277-abe1-03b7a7ec3893",
+			"3970b838-2840-43bf-87d3-c044fe1c3084"
+		],
+		"title": "Kan vragen stellen en beantwoorden over gewoonten en routines.",
+		"id": "76f3873b-1a67-464a-aae8-2a04f2c7f3b7",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"erk_voorbeeld_id": [
+			"f492f4ea-eeea-44bd-81cb-eed75bc3c3c7",
+			"69289d24-2fe5-4174-be1f-33cf133b4532",
+			"f87d5601-c233-48d2-a58c-a3e13f4c1a2c"
+		],
+		"title": "Kan vragen stellen en beantwoorden over tijdverdrijf en vroegere of toekomstige activiteiten.",
+		"id": "68b6d2f4-09d9-44f4-a06f-cbb0c9fe7a20",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan vragen stellen en beantwoorden over plannen en intenties.",
+		"id": "e80db739-4fe8-4d32-b188-5073ed99b0b7",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"erk_voorbeeld_id": [
+			"73716910-ee06-41c5-97a0-a09ee34e432a",
+			"f626fccf-d177-470d-9573-2b48dc230308",
+			"63497777-21d0-406f-a049-b8e86d11fe31",
+			"5a695774-221e-4754-be5c-d23f9ced49a5"
+		],
+		"title": "Kan korte, eenvoudige opdrachten en aanwijzingen geven en opvolgen, zoals uitleggen hoe men ergens kan komen.",
+		"id": "6cc1ac72-0fcd-4e42-b790-b20bd6a140a2",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"8af2bd1e-756c-499a-b2f4-a2fd186b9deb",
+			"7322be2f-b3c5-441d-870a-80716c2a7a5a",
+			"55575581-e828-4faf-abf1-ea9b8241c5f5",
+			"92842b27-4d86-4ef4-9282-6bba8d7c8b08",
+			"5c35f51c-4792-4537-a6e4-2b7802ac9c4e",
+			"79d6440a-2a3f-4ed1-9447-917114f9022a"
+		],
+		"title": "Kan eenduidige feitelijke informatie achterhalen en doorgeven.",
+		"id": "cfd1187d-4564-48fa-847a-94e5426d6bbe",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"aa63e93a-be90-4813-8d1d-16cfdc036832",
+			"cdd2b39b-e95b-475d-8cb5-8a400179629d"
+		],
+		"title": "Kan gedetailleerde richtingaanwijzingen vragen en opvolgen.",
+		"id": "ff7e2f24-0c6e-4308-aa13-1b99cfdd8d76",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"7a2f72e1-7b31-48c9-b51b-2ab25be26b56",
+			"58456e48-931f-40d7-94eb-a315a0437012",
+			"5eddb6a8-e055-4a4a-bdbf-f11c0bc1e637"
+		],
+		"title": "Kan meer gedetailleerde informatie verkrijgen.",
+		"id": "03dc2edc-3a1d-48dc-9269-4dc900a77695",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan advies geven over eenvoudige zaken binnen zijn of haar ervaringsgebied.",
+		"id": "efc10449-287a-4e6a-bc3c-d55d1576e43d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"erk_voorbeeld_id": [
+			"f6732da6-2a34-4741-bac1-b23aac4f46ad",
+			"c0cfc277-a735-4f09-947d-b694e0879a6d"
+		],
+		"title": "Kan met enig vertrouwen verzamelde feitelijke informatie over vertrouwde alledaagse en niet-alledaagse zaken binnen zijn of haar vakgebied uitwisselen, controleren en bevestigen.",
+		"id": "22b66e71-b74c-4317-9367-83af9404ecf2",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"erk_voorbeeld_id": [
+			"7303afae-a217-44ea-bd97-80ba9d48fd1e",
+			"d0b36b4c-633f-41e3-86a0-08ec0dccd609"
+		],
+		"title": "Kan een kort verhaal, artikel, lezing, discussie, vraaggesprek of documentaire samenvatten, er zijn of haar mening over geven en nadere vragen over details beantwoorden.",
+		"id": "9d81a137-58c6-4276-8753-7a82c2883395",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"69933219-8b5f-4a0f-97d6-3e7d70b2d24a",
+			"dceae159-4fb3-4ab4-a60c-08de0e9de5ed",
+			"55e62319-d38b-4a1d-8ebf-29c34429697c",
+			"0493473d-d076-4129-840e-0616d8f921d3",
+			"c0cb1025-3012-40ee-b06d-3b733da0c983"
+		],
+		"title": "Kan op betrouwbare wijze gedetailleerde informatie doorgeven en bespreken.",
+		"id": "88f1e621-7569-4392-9b53-f67e7e6c78d3",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"erk_voorbeeld_id": [
+			"b729e73f-6cc0-4f79-bf6c-18399574ba0a",
+			"23ff2aa2-0073-4628-8800-93ce3f371932",
+			"3223f860-c15f-4bb2-99c1-771e801074ec",
+			"192efafe-a894-4146-90de-46b00a0485f3",
+			"ce67dba4-e61d-46a4-b5e3-6cda524d4fd7",
+			"fa443570-7cd0-4999-8271-1b48f6975f2a",
+			"478decc1-792c-41d7-8009-deb600ca9361"
+		],
+		"title": "Kan complexe informatie uitwisselen en advies geven over allerlei zaken die verband houden met zijn of haar beroepstaken.",
+		"id": "da44dc9d-ed71-4be8-8363-cd94193cbc70",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan de juiste technische terminologie gebruiken bij het uitwisselen van informatie of het bespreken van zijn of haar specialisatiegebied met andere specialisten.",
+		"id": "eb12dda2-c3a7-4622-b88c-5f9ca884ffea",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "fab4a90b-99bf-462d-bf24-a7391994a418",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "bba3c8fc-84bd-4a26-a90c-2bcec706be8b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "1681a46e-a40b-47ff-88b8-c3b5b9d90e96",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan in eenvoudige taal de aard van een probleem aangeven aan een arts of verpleegkundige en eenvoudige vragen beantwoorden zoals 'Doet dit pijn?', al heeft hij of zij wel gebaren en lichaamstaal nodig om de boodschap over te brengen.",
+		"id": "9092db6b-465c-44de-8509-fa17466464ea",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan in eenvoudige taal de aard van een probleem aangeven aan een arts of verpleegkundige, zo nodig met behulp van gebaren en lichaamstaal.",
+		"id": "31aa5ee5-4c44-4829-b461-0d16cd6f96d9",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"erk_voorbeeld_id": [
+			"e2768132-fd21-4538-950c-f42021499e88"
+		],
+		"title": "Kan zeer elementaire symptomen en kwalen beschrijven aan een dokter.",
+		"id": "b1b82297-6d23-49f8-b017-5ab7776f81f4",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"a68f4564-f47b-4f3b-ac41-42893f899f95",
+			"de135c07-203a-4482-b716-5b9ede05a0f3",
+			"37f57cf6-8795-40c6-adb6-e006ff1e56bf"
+		],
+		"title": "Kan enig initiatief nemen in een vraaggesprek of consult, maar is in de interactie erg afhankelijk van de vragensteller.",
+		"id": "7c366196-9458-4f54-a1cb-4f12c7f37ca5",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan symptomen op een eenvoudige manier beschrijven en medisch advies vragen; kan het antwoord begrijpen, mits dit duidelijk en in alledaagse taal wordt gegeven.",
+		"id": "b17d6c61-af85-4c09-9b4b-4a8595ce25c6",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"742ede36-bfb6-44af-b1bc-a9819732da65",
+			"27dcaff7-663e-48a1-bebb-d0c93a0eda75"
+		],
+		"title": "Kan een voorbereide vragenlijst gebruiken om een gestructureerd vraaggesprek te voeren met enige spontane vervolgvragen.",
+		"id": "3c2e155d-3e0d-4d04-a6a7-33ca11bcd7c6",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"erk_voorbeeld_id": [
+			"a5a235c9-2032-4e13-813a-33dafcb1e037",
+			"a5b7403f-e842-437c-9194-226b1d9d4d99",
+			"0e141af5-d3d8-4505-b2ee-b3895bb0f6a1"
+		],
+		"title": "Kan concrete informatie verschaffen waarnaar in een vraaggesprek of consult gevraagd wordt, maar doet dit met beperkte nauwkeurigheid.",
+		"id": "d9a0c7d0-efea-4ed2-a602-265192d491ca",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"erk_voorbeeld_id": [
+			"9f24249d-8431-4369-b825-b4080db6c767"
+		],
+		"title": "Kan een voorbereid vraaggesprek voeren en daarbij informatie controleren en bevestigen, al moet hij of zij zo nu en dan om herhaling vragen als de ander snel of uitvoerig antwoordt.",
+		"id": "4aee360d-9a6d-4761-9133-42e46623b536",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"1bddee53-7378-4b7d-8f71-16c9a4ba2be6",
+			"4db2ef09-864c-4fac-9e4e-6acae26dc797",
+			"cead89ba-9636-4566-aed2-d0cb70fd62b6"
+		],
+		"title": "Kan initiatief nemen in een vraaggesprek en ideeën uitwerken en ontwikkelen zonder veel hulp of aansporing van een vragensteller.",
+		"id": "af9ff6b8-eef9-4d28-b35a-53c9ec811817",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"erk_voorbeeld_id": [
+			"d3f45978-634d-4408-a0b6-a320e758e45b",
+			"3724fc60-0734-4338-be74-2b671fbd78d0",
+			"bce020e9-82b0-4078-81a1-fb31e40594bb"
+		],
+		"title": "Kan een doeltreffend, vloeiend vraaggesprek voeren, daarbij spontaan afwijken van voorbereide vragen en ingaan op belangwekkende antwoorden.",
+		"id": "dcfd637c-04fc-43c8-8994-b9d0b32117c1",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"erk_voorbeeld_id": [
+			"fed70c2b-0ac0-4c22-a224-1d783b688747",
+			"2ea9c0a8-4bdf-484a-a053-5232436d24d9",
+			"5514fec1-d9e7-4cf4-ace2-97238ecfb710",
+			"b42a7669-bb93-49a4-a2dd-307c52052d71"
+		],
+		"title": "Kan volwaardig aan een vraaggesprek deelnemen als vragensteller of ondervraagde, het punt van discussie vloeiend uitwerken zonder ondersteuning en opmerkingen tussendoor goed afhandelen.",
+		"id": "38876d16-fafb-4550-bd0f-1fd8098f680c",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"erk_voorbeeld_id": [
+			"37d3bf1b-2fc1-4ab6-a165-e77d0893404f",
+			"dff46d5d-dcec-4c7c-9fa7-e0ae7e7ca6ed",
+			"457a9961-133e-4d85-84b0-58c6bda2181d",
+			"9ff7f814-2bff-449c-9646-b2a3b92160e3",
+			"b721169b-e41d-4b8a-a4e9-73a376e20912"
+		],
+		"title": "Kan zijn of haar aandeel in de dialoog bijzonder goed volhouden, het gesprek structureren en heel vlot en met kennis van zaken converseren als vragensteller of geïnterviewde zonder andere sprekers te benadelen.",
+		"id": "ff7397f2-c640-49e0-918d-92bac15ab93a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "841e6ae9-62d1-407c-85be-70b74f3239ec",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "76213ae0-4c29-4baa-b432-69100d7480bc",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"74194359-7025-44a4-b149-e025385cbd9d"
+		],
+		"title": "Kan, gebruikmakend van herhaling en verduidelijkingen, deelnemen aan een kort, eenvoudig telefoongesprek met een bekende over een voorspelbaar onderwerp.",
+		"id": "a88bfa78-dd04-44aa-a83c-49a693445e45",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"a5d5ba2b-fff3-4429-ad5b-a194635dd30c"
+		],
+		"title": "Kan een eenvoudig bericht begrijpen, details van het bericht bevestigen en het telefonisch doorgeven aan andere betrokkenen.",
+		"id": "37b99b23-a6c8-4ded-9455-be0428e8e0fd",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan telecommunicatie gebruiken met zijn of haar vrienden om eenvoudig nieuws uit te wisselen, plannen te maken en af te spreken.",
+		"id": "8cab275e-a5c0-4300-a80e-284ad95fdba6",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan telecommunicatie gebruiken voor het voeren van relatief eenvoudige, maar langere gesprekken met mensen die hij of zij persoonlijk kent.",
+		"id": "6dda07da-0bb2-4479-b76f-9758e2bdc4d0",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"00928bf6-9338-4aee-8e4f-06dfa9572be5",
+			"bc7c4364-f32b-4978-b4c2-88464caa4118",
+			"e493caac-5f08-449b-b56a-2c2d866257f5"
+		],
+		"title": "Kan telecommunicatie gebruiken voor routineboodschappen en voor het verkrijgen van basisdiensten.",
+		"id": "6465373a-bfbe-45b5-90d0-68a787dea751",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"erk_voorbeeld_id": [
+			"9a0395f8-ff42-4378-b3d0-23d9be264bfe",
+			"11d58caf-c2cc-4030-a13c-fdcfb22c19a6",
+			"d5ba6903-1ef9-472a-9a1e-0d24fc7062c3"
+		],
+		"title": "Kan belangrijke details verstrekken in een video- of audiogesprek met betrekking tot een onverwachte gebeurtenis.",
+		"id": "a855210c-52ae-4ad0-ad26-f1cacb7f70ff",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan telecommunicatie gebruiken voor een verscheidenheid aan persoonlijke en professionele doeleinden, mits hij of zij om verduidelijking kan vragen als het accent of de terminologie niet vertrouwd is.",
+		"id": "9186bb05-9a68-498b-99b2-c2a2732ba290",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan lange, informele telefoongesprekken voeren met een bekende over een verscheidenheid aan onderwerpen.",
+		"id": "9274647b-1a32-40e6-a4fe-d5afe90ae03d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan telecommunicatie effectief gebruiken voor de meeste professionele en persoonlijke doeleinden.",
+		"id": "df0eabfd-851f-4a02-bd11-fc41b6fb7e98",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan telecommunicatie zelfverzekerd en effectief gebruiken voor zowel persoonlijke als professionele doeleinden, zelfs als er enige storing is of als de gesprekspartner een minder bekend accent heeft.",
+		"id": "35797f43-39ef-4947-a705-3d97ece1d226",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan korte frasen schrijven om elementaire informatie te geven (bijvoorbeeld naam, adres, familie) op een formulier of in een briefje, gebruikmakend van een woordenboek.",
+		"id": "a71fe7b3-7826-459f-9cbb-07e272ddc2c4",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan persoonlijke gegevens opvragen of doorgeven.",
+		"id": "596b258a-1ac2-4f43-a193-2239171136f1",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "kan korte, eenvoudige gestandaardiseerde notities schrijven over zaken die direct nodig zijn.",
+		"id": "3737e953-1d2b-442c-b25e-db064bca180f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan persoonlijke brieven en notities schrijven om eenvoudige informatie van direct belang op te vragen of te geven, en daarbij overbrengen wat hij of zij het belangrijkste punt vindt.",
+		"id": "06c8ca0a-ba42-4258-a990-c74626f4370d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan informatie en ideeën overbrengen over abstracte en concrete onderwerpen, informatie controleren en met redelijke nauwkeurigheid vragen naar problemen of deze uitleggen.",
+		"id": "7498cf71-8a5d-4ab9-b180-b1b0dc753ae7",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan nieuws en zienswijzen doeltreffend schriftelijk uitdrukken en een verband leggen met de visies van anderen.",
+		"id": "0d6974d1-8121-44f6-9990-096b521de634",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan zich helder en precies uitdrukken, en daarbij flexibel en doeltreffend omgaan met de geadresseerde.",
+		"id": "aec49108-22ca-432d-a699-8ad63d3c5fe5",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan zich in een passende toon en stijl uitdrukken in vrijwel elk type formele en informele schriftelijke interactie.",
+		"id": "2a4eac26-d743-4528-ac2a-f918abc62b65",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan korte frasen en zinnen schrijven om elementaire persoonlijke informatie te geven, met behulp van een woordenboek.",
+		"id": "d6d77cc5-80a3-4366-9842-c38fcbb35bcb",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan boodschappen en online posts schrijven als een reeks zeer korte zinnen over hobby's en voorkeuren/afkeuren, gebruikmakend van eenvoudige woorden en basisuitdrukkingen en met raadpleging van een woordenboek.",
+		"id": "007322df-7d79-4eaa-956b-1eff00b0b155",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"81336703-21f6-4ab4-b703-d80c9a46a0f5",
+			"6b58b1cc-50f5-4491-be3e-c842b28de80a",
+			"69f380fc-6aa4-4dc3-8f86-0518917ba413"
+		],
+		"title": "Kan een korte, eenvoudige (digitale) kaart met een wens of groet schrijven.",
+		"id": "bfbe3bf5-a5e0-49f2-868e-236463ec83a7",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"62056e04-b177-4e97-b1dd-792b350422a6",
+			"82396b4c-6b19-445f-ae5f-c4e4d1f0ecd3",
+			"44d01b15-030c-4ec7-aa4c-53a789589324"
+		],
+		"title": "Kan een kort, zeer eenvoudig bericht schrijven (bijvoorbeeld tekstbericht) aan vrienden om hen iets door te geven of een vraag te stellen.",
+		"id": "634f3bba-748e-4893-afe5-3efe4d52344b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"bca1e784-8acc-4bd7-9226-3f3aa1e53f3d"
+		],
+		"title": "Kan persoonlijke informatie met een routinematig karakter doorgeven.",
+		"id": "edcd0775-cd98-4c37-9d18-864cdb7e5116",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"21dd64ac-487e-4dfb-afa6-3260b5535e41",
+			"8798d562-ab29-48f6-b5ab-0a0ee16bb208"
+		],
+		"title": "Kan zeer eenvoudige persoonlijke brieven schrijven waarin dank wordt uitgesproken of verontschuldigingen worden aangeboden.",
+		"id": "2558a315-e490-495a-8068-7a4fcc86ad73",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"f1f8762e-cf33-4733-a6d1-098eca91ea72",
+			"ab4bee9d-d212-4686-98fc-e0773467926b",
+			"58b322b0-b39e-4182-833a-ee3306ca8bb2",
+			"8557ef43-d756-479a-a323-8228bc1a16ec",
+			"6c6bee72-0219-431f-9f87-a5828e9f775a"
+		],
+		"title": "Kan korte, eenvoudige briefjes, e-mails en tekstberichten schrijven.",
+		"id": "61e95db6-d4a9-4954-9d66-78ac0454e9fa",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan een korte tekst op een kaart schrijven (bijvoorbeeld voor iemands verjaardag of om iemand een gelukkig nieuwjaar te wensen).",
+		"id": "9a808595-9b41-4102-b253-cc6e1d0742e2",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"erk_voorbeeld_id": [
+			"ecbf1817-64e1-4b8d-8adf-e77f4dd9df54",
+			"69b9a09f-3309-4452-940c-1ec7c6249ff6"
+		],
+		"title": "Kan informatie uitwisselen via tekstbericht, e-mail of in korte brieven om antwoord te geven op vragen (bijvoorbeeld over een nieuw product of een nieuwe activiteit).",
+		"id": "4e8cd9ab-ce8e-492e-994c-a3c99f83cc28",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"a406cd82-6138-4dbb-8248-1b5838e283ff",
+			"c14e43c7-fb27-4fc5-9e27-378dd4ee1f22",
+			"2db38739-fd4f-4de5-b5ea-47a65d3785ed",
+			"9f494784-ada1-4fbf-84f5-61f9286a5952",
+			"6733e818-645a-4278-a4cf-5dd251572702",
+			"bf99fd0f-9305-4cc4-a3aa-15da1767d295",
+			"fc0ee131-3d06-4dba-be22-7294fb919d4d",
+			"3522e8be-03e2-44f2-b48d-17d6765f839f",
+			"a77f739a-16a5-4a8e-8375-0df54d2f4add",
+			"998ac964-280d-4f2d-91ba-af21295da098"
+		],
+		"title": "Kan persoonlijke brieven en e-mails schrijven waarin ervaringen, gevoelens en gebeurtenissen enigszins gedetailleerd worden beschreven.",
+		"id": "b2ae8e68-857c-4fdc-9a0a-5bd918c48d09",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan elementaire e-mails/brieven met een feitelijk karakter schrijven, bijvoorbeeld om informatie te vragen of om een bevestiging te geven of te vragen.",
+		"id": "b513b863-7c77-4b45-9d1b-49e8d6e15846",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan een elementaire sollicitatiebrief schrijven met beperkte ondersteunende details.",
+		"id": "78922b92-aba3-4701-b00c-928bf98da076",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"erk_voorbeeld_id": [
+			"5465b074-ec41-4899-ab78-28f8bebf3ebe",
+			"80035d86-031a-4b39-ba63-f46238422047"
+		],
+		"title": "Kan persoonlijke brieven schrijven waarin nieuws wordt overgebracht en gedachten over abstracte of culturele onderwerpen worden uitgedrukt, zoals muziek en films.",
+		"id": "fdaef983-86f8-43b6-a123-2ec5d1d2b31b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan brieven schrijven waarin verschillende meningen worden geuit en gedetailleerd verslag wordt gedaan van persoonlijke gevoelens en ervaringen.",
+		"id": "8ed69c62-4233-4e84-ae79-6b51c867d531",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"erk_voorbeeld_id": [
+			"8eeffc67-a07a-4c1c-aebb-5dacc7f226d3",
+			"3c286761-41a3-4112-a812-8e674fbccb52",
+			"0e206732-bd2d-4cbe-aabb-79199d43d869"
+		],
+		"title": "Kan schriftelijk reageren op een advertentie en om meer informatie vragen over zaken die hem of haar interesseren.",
+		"id": "f857c79c-ca55-4648-be72-bf8bd1e9142b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan elementaire formele e-mails/-brieven schrijven, bijvoorbeeld om een klacht of verzoek in te dienen.",
+		"id": "c1410290-6f14-43ce-a712-eb0d600efef3",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"8a510ebb-1323-4bad-9900-903a6a5acaa0",
+			"503a797f-eb3a-40aa-ada2-b0c3ef0e621e",
+			"036245dc-6151-4972-88f0-adeab9aff944",
+			"8529da6c-67b9-479b-8ac8-26f2d4709a03",
+			"2e58a4e6-12eb-4a6c-b9d8-7db64a234b7f",
+			"30457651-6142-451e-8448-e90d75e7a5a9"
+		],
+		"title": "Kan brieven schrijven waaruit gradaties van emotie spreken, waarin het persoonlijke belang van gebeurtenissen en ervaringen wordt benadrukt en die commentaar geven op het nieuws en de visies van de geadresseerde.",
+		"id": "351fbc64-cfb7-4170-abb1-bce11dccc59f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan formeel taalgebruik en conventies die passen bij de context toepassen bij het schrijven van persoonlijke en professionele brieven en e-mails.",
+		"id": "7132e29c-6302-4904-971d-845308c87453",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan formele e-mails/brieven schrijven om iemand uit te nodigen of te bedanken of excuses aan te bieden en hierbij het passende register en de juiste conventies gebruiken.",
+		"id": "cb2d18e5-2dcc-40a0-8a9c-9220ee1b5e77",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan niet-routinematige professionele brieven schrijven en daarbij gebruikmaken van de passende structuur en conventies, mits deze beperkt zijn tot praktische zaken.",
+		"id": "a1cc7907-c92a-4214-9d6d-7f9dd0ecafe1",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan via een brief of e-mail informatie verkrijgen die nodig is voor een bepaald doel en deze verzamelen en per e-mail doorsturen naar andere mensen.",
+		"id": "31485864-a037-4255-bb9b-36cc6fb40eae",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan een krachtige, maar beleefde klachtenbrief schrijven, inclusief ondersteunende details en een verklaring van de gewenste uitkomst.",
+		"id": "a9c8ff36-86e7-485b-8c2e-6c0b03006d51",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan formele correspondentie schrijven zoals informatieverzoeken, aanvragen, sollicitaties en klachten, met het juiste register en de juiste structuur en conventies.",
+		"id": "5303d3f3-321f-413b-aecb-3d1f1afcdf29",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan in de meeste gevallen idiomatische uitdrukkingen en spreektaal in correspondentie en andere schriftelijke communicatie begrijpen en de meest voorkomende vormen daarvan zelf gebruiken naargelang de situatie.",
+		"id": "a5690ae4-d69a-45a6-9ec4-9e2df6511470",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan een relatie onderhouden door middel van persoonlijke correspondentie en daarbij de taal vloeiend en effectief gebruiken om gedetailleerde beschrijvingen te geven van ervaringen, invoelende vragen te stellen en in te gaan op zaken van wederzijds belang.",
+		"id": "2dd115cb-aa9d-416e-93c4-a2ac71cc5ffa",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"erk_voorbeeld_id": [
+			"9b82aef7-cf73-42f8-a4aa-597dc3494564",
+			"a664434a-ef12-4059-b433-80e94b31ec09",
+			"3439b65b-c606-4431-a7b8-4c190ce0742e",
+			"3c380c29-41cc-4327-99a2-6b6222ebffd4",
+			"68f8c582-08d7-44d2-b6db-98eb51943f11",
+			"6bc41bcf-af33-4d09-972b-3a4d8a70bb01"
+		],
+		"title": "Kan zich helder en precies uitdrukken in persoonlijke correspondentie en daarbij de taal flexibel en doeltreffend gebruiken, met inbegrip van emotioneel, dubbelzinnig en humoristisch taalgebruik.",
+		"id": "bf3c2209-78b9-494f-a9cc-cb52eab39de8",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan vrijwel elk type correspondentie in een passende toon en stijl schrijven dat hij of zij in de loop van zijn of haar beroepsleven nodig heeft.",
+		"id": "48d19ee8-16b3-4d62-989e-9da63c6eb3da",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan zeer eenvoudige registratieformulieren invullen met elementaire persoonlijke gegevens: naam, adres, nationaliteit, burgerlijke staat.",
+		"id": "7f42c98f-02e0-447a-a70e-c1c6a53ca3ee",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"8b87f7c6-e18b-4553-ba89-ed084944777f",
+			"9852813b-9638-4b0f-9373-c2bd61fee582",
+			"97328074-498b-4652-bc9f-57b8419d5e4a"
+		],
+		"title": "Kan getallen en data, de eigen naam, nationaliteit, adres, leeftijd, geboorte- of aankomstdatum en dergelijke opschrijven.",
+		"id": "36696bb3-9ec3-4e92-8f48-6566234f2865",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan een eenvoudige boodschap achterlaten met daarin informatie over bijvoorbeeld waar hij of zij is en hoe laat hij of zij terugkomt (bijvoorbeeld 'Naar de winkel: om 5 uur terug').",
+		"id": "a1fbf322-cdbe-480e-9022-8244d3fc7f23",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"b6b7a4cd-37df-433b-9106-6d9e586d3c09",
+			"505603bf-b314-46ef-978a-0f7b21d87684",
+			"6520e6cd-5776-4562-b03a-c4f78cc95793",
+			"70ee5f05-8156-47d6-94eb-c13908814b6b"
+		],
+		"title": "Kan zeer korte en eenvoudige notities maken.",
+		"id": "7b5b22da-47af-435a-b61b-8c7b9870736d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"67eabaa2-441a-449e-a62e-c56f2dc616e7",
+			"05487d8a-b910-4531-bcb6-b5e516267fdf"
+		],
+		"title": "Kan een eenvoudige lijst met vragen over  zichzelf invullen.",
+		"id": "5822997e-750e-412f-bc99-9e8f7c879b1e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"8dad6d81-fcb4-4e33-a1f4-35a27070bca9",
+			"07ac3008-1ea0-48ae-87d5-41459a53ca26",
+			"9ac0cc2e-ba69-46d5-96ae-a7d0d2b4ef6c",
+			"8ad75379-b057-47cd-988b-cb18383408c9"
+		],
+		"title": "Kan korte, eenvoudige notities en berichten schrijven over zaken van direct belang.",
+		"id": "df0e7855-d5f2-4ae0-bd12-718b4e059acc",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"b5a8cdb2-80bc-4a27-ac9f-180308859ea0",
+			"d91d764f-e203-4f1e-bf94-4a6e3b02486d",
+			"60ef3cb3-ba99-4603-ae67-7b078970d540",
+			"c55770a5-0e9d-4a62-95dc-4aedd3c629e6"
+		],
+		"title": "Kan persoonlijke en andere gegevens invullen op de meeste alledaagse formulieren, bijvoorbeeld om een bankrekening te openen of een aangetekende brief te sturen.",
+		"id": "b8ae978d-660d-4bf7-8ec2-4c3d3f3032d5",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"b5d66b8f-727e-4a64-869c-46c85f876140",
+			"90650387-441b-4665-8801-3e267fbbebfc",
+			"2cc695cc-fe9b-44cf-bcec-ad1df8cf8d2e",
+			"3f75a1ac-d3b5-466b-8ae7-632263722178",
+			"60335eea-b4c0-42c8-b145-99fa8dc87a74",
+			"ef7428f9-7423-4337-8b55-ec4b2efec26b",
+			"4f3db387-973c-4ea7-9b68-ee2d65cbf938",
+			"6e0d5aa2-26e8-4189-90ed-a6e31ff2fe65",
+			"ea337473-17ca-481d-b4c7-49d4a16be119",
+			"592d7361-6e90-4c4f-a0a3-a5be4ce16b57",
+			"c90e648d-c4f9-4238-b8d5-0e69186d73dd"
+		],
+		"title": "Kan eenvoudige en korte notities maken voor zichzelf.",
+		"id": "519182a3-8bb6-4600-88ef-8407abd970d2",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan een kort, eenvoudig bericht aannemen, mits hij of zij om herhaling en herformulering kan vragen.",
+		"id": "9af458f9-b800-4078-b6c9-2d5ab9d0d27e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"39dfaa40-6ffc-4f35-a02b-bae545320cf2",
+			"bb0b1aca-0f01-47bf-87fc-2c16dd5c71c7",
+			"32bb7848-21ef-411f-a346-2626a80fb1ed",
+			"2fe027dc-95a3-46fb-9211-2caed3f54e1c",
+			"1bda5085-ea23-496c-8959-ee2d0c61fdc7"
+		],
+		"title": "Kan formulieren waarin meer informatie gevraagd wordt gedetailleerd invullen.",
+		"id": "20bfabb4-aaa3-411f-ab7e-649e86912642",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan telefonische berichten aannemen die meerdere punten bevatten, mits de beller deze duidelijk dicteert, rekening houdend met de ontvanger.",
+		"id": "84e15228-9d29-4d21-a1be-c8797a0a9165",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"bc951755-2634-4965-b89e-7f4c820c2968",
+			"9666686f-bf1a-4458-a807-e8a34f75885c",
+			"f7c6fa84-24b1-444a-bb00-149341a3c979",
+			"2aeef5ff-db27-486b-9d6b-f33a190da6dd",
+			"8fe3c220-1c98-47f3-804c-9ef38600d743",
+			"d08264d8-25f3-4209-86b6-5b92672de828",
+			"20e5ce2a-b744-4459-a93f-b68729e89fca",
+			"5ece0862-9021-4960-844f-dfc0b32aa8f9"
+		],
+		"title": "Kan notities schrijven die eenvoudige informatie bevatten die van direct belang is voor vrienden, dienstverleners, leraren en andere mensen die in zijn of haar dagelijks leven voorkomen, en daarbij begrijpelijk de punten overbrengen waarvan hij of zij vindt dat ze belangrijk zijn.",
+		"id": "4b73feb9-daeb-4331-812c-5da874657d23",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan berichten aannemen waarin inlichtingen worden gegeven of problemen worden uitgelegd.",
+		"id": "efa5b5ce-fa10-484a-b4b9-f43e3433e3ee",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan routineboodschappen aannemen die veel voorkomen in een persoonlijke, professionele of academische context.",
+		"id": "c9f6a8b4-397f-42c6-8309-dcd3ffabb4ea",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan complexe persoonlijke of professionele berichten aannemen of achterlaten, mits hij of zij om verduidelijking of uitleg kan vragen.",
+		"id": "76496082-7acf-44d5-b96a-7a4baff026c9",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "46ba45a1-ee8e-441f-a08c-7c8e2fcc8186",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "6698b73b-bbd4-4ee0-a863-350faa2baa7d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan korte, eenvoudige informatie over zichzelf online plaatsen (bijvoorbeeld relatiestatus, nationaliteit, beroep), mits hij of zij deze kan selecteren in een menu en/of gebruik kan maken van een online-vertaalhulpmiddel.",
+		"id": "ab6cbdd4-c42b-4556-ad7c-ffd445c4f0a0",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan eenvoudige groeten online plaatsen, gebruikmakend van standaarduitdrukkingen en emoticons.",
+		"id": "7943b3c8-3c83-49f6-add3-29e8b07327c6",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan standaarduitdrukkingen en combinaties van eenvoudige woorden gebruiken om korte positieve en negatieve reacties te plaatsen op eenvoudige online berichten en de daarin ingesloten links en media en kan antwoorden op verdere opmerkingen met standaarduitdrukkingen om te bedanken of excuses aan te bieden.",
+		"id": "20b34dbe-77c0-4d43-b4e4-9ba7f4c77b1e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan zeer eenvoudige berichten op internet schrijven en persoonlijke berichten online plaatsen als een reeks zeer korte zinnen over hobby's, voorkeuren/afkeuren enzovoort, met behulp van een vertaalhulpmiddel.",
+		"id": "bcd2cae7-92e5-4830-8dcd-c5315f3dbbae",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan online korte positieve of negatieve opmerkingen plaatsen over ingesloten links en media, gebruikmakend van een repertoire van elementaire taal, hoewel hij of zij hiervoor meestal een online vertaalhulpmiddel of andere bronnen zal moeten gebruiken.",
+		"id": "cddd8979-8442-4895-acc3-cc7aa91a76bb",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"28e03c48-d678-4f66-aedf-8c99e4ea648d",
+			"d7f736ff-4509-4bd0-8bfd-15aa594b61d6",
+			"6b60f249-efb8-4be8-9615-994ac0c99c42",
+			"2fa8f41f-d988-4531-8545-e4cc612df74d",
+			"d0ae7de9-b58f-447e-99d0-a89beb861b90",
+			"62f1f1ba-bd61-44f4-8a72-d60be6ddf90c"
+		],
+		"title": "Kan deelnemen aan elementaire sociale communicatie online.",
+		"id": "41612f61-1db9-4c54-984e-f319112e8645",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"erk_voorbeeld_id": [
+			"1a9efce4-e0a6-4561-a288-d594d2bfce7a"
+		],
+		"title": "Kan reageren op online berichten van andere mensen, mits ze geschreven zijn in eenvoudige taal, en op ingesloten media reageren door op een eenvoudige manier gevoelens van verbazing, belangstelling en onverschilligheid uit te drukken.",
+		"id": "525d3fae-e205-4253-8393-651c7459c3f5",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan korte, beschrijvende berichten online plaatsen over alledaagse zaken, sociale activiteiten en gevoelens, met eenvoudige basisdetails.",
+		"id": "2a013459-601b-4693-a03c-88da5a0d31e4",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan zich voorstellen en eenvoudige uitwisselingen aangaan online, door vragen te stellen en beantwoorden en ideeën uit te wisselen over voorspelbare alledaagse onderwerpen, mits er genoeg tijd is om antwoorden te formuleren en hij of zij slechts één gesprekspartner tegelijk heeft.",
+		"id": "ec45e4c8-9f88-4f63-8af9-ae6e01a25d0d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"47be4729-b375-45b2-bba1-e9469f1622bb",
+			"f76f4106-ec22-4ccb-986d-4c41e6774f79"
+		],
+		"title": "Kan persoonlijke berichten online plaatsen over ervaringen, gevoelens en gebeurtenissen en in enig detail afzonderlijk reageren op de commentaren van anderen, hoewel lexicale beperkingen soms zorgen voor herhaling en ongepaste formuleringen.",
+		"id": "9e36fd2c-817a-4f61-8bdc-1548d7009242",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"b1798391-b42a-4afa-8d21-da8d1f18e478",
+			"3a3b6568-4803-48b4-94ce-dcf667c5d7f1",
+			"92a347ce-844c-407d-ab9d-61063800a167"
+		],
+		"title": "Kan een begrijpelijke bijdrage leveren aan een onlinediscussie over een vertrouwd belangwekkend onderwerp, mits hij of zij de tekst kan voorbereiden en onlinehulpmiddelen kan gebruiken om gaten in de talenkennis op te vullen en te controleren of alles klopt.",
+		"id": "db6b8ad5-bb4d-4571-b931-287870163831",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan online berichten plaatsen over sociale gebeurtenissen, ervaringen en activiteiten en daarbij verwijzen naar ingesloten links en media en persoonlijke gevoelens delen.",
+		"id": "96a0c42a-a0b6-481d-ab9d-33825764edb4",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan deelnemen aan realtime online-uitwisselingen met meer dan één deelnemer en daarbij de communicatieve bedoelingen van elke bijdrage herkennen, maar begrijpt mogelijk niet alle details of implicaties zonder verdere uitleg.",
+		"id": "ef411fc1-a588-4a27-8785-f545ca0fcb87",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan misverstanden en onenigheden die zich voordoen in een online-interactie herkennen en hiermee omgaan, mits de gesprekspartner(s) bereid is/zijn mee te werken.",
+		"id": "c96aa4a6-ab6d-4df4-a682-446101873815",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"049480c0-14c4-4d66-9ef4-e8c933861cb6"
+		],
+		"title": "Kan deelnemen aan online-uitwisselingen tussen verschillende deelnemers en effectief zijn of haar bijdragen in verband brengen met eerdere in de discussie, mits een moderator helpt de discussie te leiden.",
+		"id": "bb76e429-693d-4688-9f85-426e95a68bac",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"66839ff0-f82d-4036-b010-609e7fec2ad3",
+			"6f3d13b1-84cc-4920-a8dc-1585a2f279f4"
+		],
+		"title": "Kan actief deelnemen aan een onlinediscussie en tamelijk uitgebreid standpunten uiten en op standpunten van anderen reageren met betrekking tot belangwekkende onderwerpen, mits de bijdragers ongebruikelijk of complex taalgebruik vermijden en genoeg tijd geven om te antwoorden.",
+		"id": "f205b086-5fdf-4e9f-80d8-bc79b95f0d3a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan deelnemen aan online-uitwisselingen en daarbij zijn of haar bijdragen in verband brengen met andere in de discussie, culturele implicaties begrijpen en er correct op reageren.",
+		"id": "c2bd3690-4aa9-45c1-9a30-601c907e3595",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan argumenten evalueren, herformuleren en ter discussie stellen in een professionele of academische live onlinebespreking of -discussie.",
+		"id": "6a013e3c-7c75-4317-a871-31ff512481c0",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan zijn of haar register afstemmen op de context van de online-interactie en zo nodig binnen dezelfde uitwisseling overschakelen van het ene naar het andere register.",
+		"id": "43ae381e-32d2-48c7-91ff-2031bbbf182b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan effectief deelnemen aan live professionele of academische onlinediscussies en daarbij zo nodig meer verduidelijking geven of vragen met betrekking tot complexe, abstracte kwesties.",
+		"id": "ea0331ef-0146-4fc4-bc65-8a95c356f530",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan realtime online-uitwisselingen aangaan met verschillende deelnemers en de communicatieve bedoelingen en culturele implicaties van de verschillende bijdragen begrijpen.",
+		"id": "b5e0bcff-032a-4fce-9c44-393f71af6b49",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan gemakkelijk en snel zijn of haar register en stijl aanpassen aan verschillende onlineomgevingen, communicatiedoelen en taalhandelingen.",
+		"id": "a51fbda4-2196-49fd-b8da-e2452c719d2e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan inspelen op en effectief omgaan met mogelijke misverstanden (waaronder culturele), communicatieproblemen en emotionele reacties die zich voordoen in een onlinediscussie.",
+		"id": "87c69a28-b27d-42df-94ab-cb1d34e7de58",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan zich duidelijk en nauwkeurig uitdrukken in een realtime onlinediscussie en daarbij de taal flexibel en met gevoel afstemmen op de context, met inbegrip van emotioneel, dubbelzinnig en humoristisch taalgebruik.",
+		"id": "b3168b1c-34f3-4dde-955a-62c8329a230f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan iets selecteren (bijvoorbeeld een product, maat, kleur kiezen) in een eenvoudig aankoop- of aanvraagformulier online, mits er visuele ondersteuning is.",
+		"id": "d8574f57-fd7e-4b77-9634-3a2b0c9f25da",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan een zeer eenvoudige onlineaankoop of -aanvraag doen en daarbij elementaire persoonlijke gegevens verstrekken (zoals naam, e-mailadres of telefoonnummer).",
+		"id": "563e3bda-4688-4a23-8b7b-e95cbd8528a1",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan reageren op eenvoudige instructies en eenvoudige vragen stellen om online een gezamenlijke taak te volbrengen met de hulp van een ondersteunende gesprekspartner.",
+		"id": "bfa74522-b396-44da-b65d-e22366b013ca",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan elementaire vragen stellen over de beschikbaarheid of eigenschap van een product.",
+		"id": "9bbe77a4-d597-4684-876d-17e33b7c197a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan eenvoudige onlinetransacties uitvoeren (zoals goederen bestellen of inschrijven voor een cursus) door een onlineformulier of -vragenlijst in te vullen, persoonlijke gegevens te verstrekken, akkoord te bevestigen met algemene voorwaarden, extra services te weigeren enzovoort.",
+		"id": "f69a34e2-3873-4e04-a7f4-a6f5c6e18712",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan online interactief samenwerken aan een eenvoudige taak met een helpende partner en daarbij reageren op basisinstructies en opheldering vragen, mits er enkele visuele hulpmiddelen zoals afbeeldingen, statistieken of grafieken zijn om de betreffende concepten te verduidelijken.",
+		"id": "d577930d-749e-4925-bca3-e3b6a076f31a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan standaarduitdrukkingen gebruiken om te reageren op routineproblemen die zich voordoen tijdens onlinetransacties (bijvoorbeeld met betrekking tot de beschikbaarheid van modellen en speciale aanbiedingen, leverdata, adressen enzovoort).",
+		"id": "19109b73-4541-41cb-87c2-8bfb4e811297",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan reageren op instructies en vragen stellen of om opheldering vragen om online een gezamenlijke taak te volbrengen.",
+		"id": "c158340c-1aef-4716-9324-be53d21cec2c",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan online interactief met een partner of kleine groep aan een project werken, mits er visuele hulpmiddelen zijn zoals afbeeldingen, statistieken en grafieken om complexere begrippen te verduidelijken.",
+		"id": "5c9743d1-e2b9-4e0c-af9d-1a0a95e4644c",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan deelnemen aan samenwerkende of transactionele uitwisselingen online die eenvoudige verduidelijking of uitleg van relevante details vereisen, zoals inschrijven voor een cursus, rondleiding of evenement of een lidmaatschap aanvragen.",
+		"id": "7e9d36f9-202b-4625-9b43-913100749014",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan online-interactie aangaan met een groep die aan een project werkt door directe instructies op te volgen, opheldering te vragen en te helpen de gedeelde taken te volbrengen.",
+		"id": "48b12a81-63f6-45a4-bca9-15dbde121a10",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan deelnemen aan onlinetransacties die een uitgebreide uitwisseling van informatie vereisen, mits de gesprekspartners complexe taal vermijden en bereid zijn zo nodig dingen te herhalen of opnieuw te formuleren.",
+		"id": "0e7a6dcc-dbc9-4f31-b65f-8b263ed82208",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan online samenwerken met een groep die aan een project werkt door voorstellen te motiveren, opheldering te vragen en een ondersteunende rol te spelen om gedeelde taken te volbrengen.",
+		"id": "086becaa-d7cf-4049-b01c-9bdba3a246c3",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan omgaan met misverstanden en onverwachte problemen die zich voordoen tijdens samenwerkende of transactionele uitwisselingen online door beleefd en op passende wijze te reageren om te helpen het probleem op te lossen.",
+		"id": "ba74b145-5dd9-4828-bbc2-3b50d9c4f314",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan deelnemen aan samenwerkende of transactionele uitwisselingen online binnen zijn of haar vakgebied(en) waarbij moet worden onderhandeld over voorwaarden en gecompliceerde details en speciale vereisten moeten worden uitgelegd.",
+		"id": "0a16dc41-a63e-4f06-b787-539ce48651e8",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan een leidende rol vervullen in onlinesamenwerking binnen zijn of haar vakgebied(en) en zorgen dat de groepsleden zich met een taak blijven bezighouden door hen te herinneren aan hun rol, verantwoordelijkheid en deadlines om de gestelde doelen te bereiken.",
+		"id": "bfafd2ab-5e97-48ec-8099-30e7c87df5ef",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan effectief omgaan met communicatieproblemen en culturele kwesties die zich voordoen tijdens een samenwerkende of transactionele uitwisseling online door opnieuw te formuleren, zaken te verduidelijken en voorbeelden te geven aan de hand van media (visueel, audio, grafisch).",
+		"id": "3c0fe896-9101-41b1-805e-32078a2f9d73",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan deelnemen aan complexe projecten waarvoor samen moet worden geschreven en herschreven, alsmede andere vormen van onlinesamenwerking, waarbij instructies nauwkeurig moeten worden opgevolgd en overgebracht om het doel te bereiken.",
+		"id": "6c26f642-9643-4afa-8c2e-a39e1ddb7aea",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan omgaan met complexe onlinetransacties in een dienstverlenende rol (bijvoorbeeld toepassingen met gecompliceerde vereisten) en daarbij de taal flexibel aanpassen om de discussie en onderhandeling te leiden.",
+		"id": "fe86870b-5617-4e4a-af09-a2b6ad85fa2a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan een groep coördineren die samenwerkt aan een onlineproject en daarbij gedetailleerde instructies formuleren en herzien, voorstellen van teamleden evalueren en verduidelijking geven om de gedeelde taken te kunnen volbrengen.",
+		"id": "26d67c8f-0c70-47a3-83ec-3f6ded510738",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan sturing geven en nauwkeurigheid toevoegen aan het werk van een groep tijdens de bewerkings- en revisiefasen van de samenwerking.",
+		"id": "3734d74e-87d9-43b5-b514-08c1840114b6",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan misverstanden oplossen en effectief omgaan met wrijvingen die zich kunnen voordoen tijdens het samenwerkingsproces.",
+		"id": "a6c85424-564b-4839-91bb-ddd52e5beaae",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "00a4601e-2833-4fe5-981d-db377f00fbed",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "49d3e27e-ca4d-4876-a21d-b1b98812a38b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan om aandacht vragen.",
+		"id": "93e6f97b-6cef-4246-b795-68a643a0d6c1",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan een eenvoudig rechtstreeks gesprek beginnen, gaande houden en beëindigen.",
+		"id": "791c565b-0459-4118-afd3-75d4dd1a7aa2",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan eenvoudige technieken toepassen om een kort gesprek te beginnen, gaande te houden of te beëindigen.",
+		"id": "cf87e691-9729-4ef8-b52f-45d3dc7e1f45",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan een eenvoudig rechtstreeks gesprek beginnen, gaande houden en beëindigen over onderwerpen die vertrouwd of van persoonlijk belang zijn.",
+		"id": "68883ea2-5828-4fcb-9ae2-7724944d1525",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan ingrijpen in een discussie over een vertrouwd onderwerp en de juiste frase gebruiken om aan het woord te komen.",
+		"id": "766d41ba-65e9-492d-aa87-ac02b49e3a75",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan standaardzinnen gebruiken (bijvoorbeeld ‘Dat is een moeilijk te beantwoorden vraag’) om tijd te winnen en de beurt te behouden tijdens het zoeken naar woorden.",
+		"id": "0b0c5f72-c67d-4ee4-8288-02f79d14d75d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan een gesprek beginnen, op de juiste ogenblikken zijn of haar beurt nemen en de conversatie beëindigen wanneer dat nodig is, zij het niet altijd op elegante wijze.",
+		"id": "2db9303c-6b81-4ad4-a66b-431b3310efd6",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan op gepaste wijze een gesprek beginnen, onderhouden en beëindigen, en daarbij doeltreffend beurten nemen.",
+		"id": "260882de-1390-4601-815f-f47f410c965e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan op toepasselijke wijze ingrijpen in een discussie en daarvoor de juiste taal gebruiken.",
+		"id": "46ff4282-2551-434e-9ec6-67a30e43126a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan een toepasselijke frase kiezen uit een paraat scala van gespreksfuncties om zijn of haar opmerkingen zo in te leiden dat de aandacht van de toehoorders wordt getrokken, of om tijd te winnen en de aandacht vast te houden tijdens het nadenken.",
+		"id": "c559ef2b-3244-4d58-97de-ff5820372e90",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Geen descriptoren beschikbaar: zie C1.",
+		"id": "61d26df8-ae4e-493f-9848-708b12b5393d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "7b2a51b2-82d3-474d-b373-3446a21bdada",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "214a4f8c-0bbb-48d3-9809-01b3a989e6b4",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan aangeven wanneer hij of zij het gesprek kan volgen.",
+		"id": "47651ea4-7fab-40af-b596-bd71a746608d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan anderen uitnodigen aan de discussie deel te nemen.",
+		"id": "11684bf4-feea-4b06-9c05-4b1c018bf59a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan gedeeltelijk herhalen wat iemand anders heeft gezegd om wederzijds begrip te bevestigen en te helpen de ontwikkeling van ideeën op koers te houden.",
+		"id": "fb0235fb-1b76-436c-a645-5a64f934f374",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan samenvatten op welk punt een discussie is beland en zo helpen het gesprek te focussen.",
+		"id": "fd3320ee-2910-4d8e-9999-f2cceaa4f437",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan een elementair taalrepertoire en strategieën benutten om een gesprek of discussie gaande te houden.",
+		"id": "931de932-da37-4fe8-81f6-75fa0eab4695",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan het punt dat op een bepaald moment in een discussie is bereikt, samenvatten en de volgende stappen voorstellen.",
+		"id": "ab11e8ba-afe0-4078-b963-197e30a17c9e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan discussies over vertrouwde onderwerpen op gang helpen en houden door te bevestigen dat iets begrepen is, anderen uit te nodigen het woord te nemen, enzovoort.",
+		"id": "83e38321-24c0-48ad-88df-602859c92629",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan de belangrijkste punten van een discussie over zaken binnen zijn of haar academische of professionele vakgebied samenvatten en evalueren.",
+		"id": "9b0ff6cc-64be-44d7-bca4-2805617639e2",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan feedback geven en opvolgen op uitspraken en gevolgtrekkingen en daarmee de ontwikkeling van de discussie helpen.",
+		"id": "7029325f-96e9-4476-b3bb-f9d018b0aeaa",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan eigen bijdragen vaardig in verband brengen met die van anderen.",
+		"id": "cf84ff1d-fc42-40c9-98a6-87d851f92bb9",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan bijdragen vaardig koppelen aan die van anderen om de reikwijdte van de interactie te vergroten en te helpen tot een resultaat te komen.",
+		"id": "c823c485-49aa-4818-8fe6-1fda9c2e778c",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "6fca45f5-790f-4ffe-98cd-59e70176fd19",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan op een eenvoudige manier uitdrukken dat hij of zij het niet begrijpt.",
+		"id": "70bc86c6-e4cd-4e2d-bed7-b41460b637f2",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan met woorden, intonatie en gebaren aangeven dat hij of zij het niet begrijpt.",
+		"id": "b78939df-3657-4ab6-bb63-acb49a3ef04f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan aangeven dat hij of zij iets niet begrijpt en vragen of een woord gespeld kan worden.",
+		"id": "b7029ca0-6cce-48d9-85c9-139b230db4d3",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan zeggen dat hij of zij iets niet heeft kunnen volgen.",
+		"id": "359331d2-9f8c-4c4e-b88c-1080b15fae16",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan met standaardzinnen om opheldering vragen over sleutelwoorden of -frasen die niet zijn begrepen.",
+		"id": "7402c8ac-6295-470b-84c5-d365826ecd2f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan heel eenvoudig om herhaling vragen wanneer hij of zij iets niet begrijpt.",
+		"id": "1d2bf6c4-8995-4c2f-be9d-263489d26e5f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan anderen vragen te verhelderen of uit te werken wat zij zojuist gezegd hebben.",
+		"id": "1a004f66-5d05-4c97-b764-1ceafe6f8e82",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan meer details en uitleg vragen aan andere groepsleden om een discussie vooruit te helpen.",
+		"id": "82338ea9-7206-4a12-9dec-11d52cb04bd1",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan vervolgvragen formuleren voor een lid van een groep om een onderwerp te verduidelijken dat impliciet is of onduidelijk uitgesproken wordt.",
+		"id": "006f3084-a35c-4304-bc30-dabe44247998",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan vragen om uitleg of verduidelijking om zeker te weten dat hij of zij complexe, abstracte ideeën begrijpt.",
+		"id": "1b66692b-9234-48fa-a2f7-686001c0909a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan vervolgvragen stellen om te controleren of hij of zij heeft begrepen wat een spreker wilde zeggen en om opheldering te krijgen over punten van dubbelzinnigheid.",
+		"id": "d91f2116-02c0-488d-9407-fc314f87fe1b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan een uitleg of verduidelijking vragen om zeker te weten dat hij of zij complexe, abstracte ideeën in professionele of academische contexten begrijpt, rechtstreeks persoonlijk of online.",
+		"id": "a0c97efa-ed21-4817-9463-0d473f489d4f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Geen descriptoren beschikbaar: zie C1.",
+		"id": "08d5bf8c-c67f-4c20-a2ef-f85d73d356c4",
+		"unreleased": true
 	}
 ]
