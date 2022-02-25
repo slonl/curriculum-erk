@@ -100,5 +100,38 @@
 		"title": "Receptieve strategieën",
 		"id": "68303ea2-5938-4975-823c-bcd67950e59f",
 		"unreleased": true
+	},
+	{
+		"erk_schaal_id": [
+			"f7c487bd-c63a-4877-8f0f-560d3a283267",
+			"9e9f5b26-13da-410f-886a-1e2dbb05b2ff",
+			"cdc8a132-9af3-4cc7-9be2-11b8f8f16c83",
+			"d8b05f01-6979-4c4e-8be1-c1cae7e065f7",
+			"9231a11a-ffc4-49d0-a03f-b63a879f1329",
+			"6af43835-e5e6-464b-bfd6-4901e06b9bba"
+		],
+		"title": "Spreken",
+		"id": "49524ae3-0d53-4bd2-bd96-b26f2814f2a9",
+		"unreleased": true
+	},
+	{
+		"erk_schaal_id": [
+			"07a24446-88b0-4597-a06f-c8419429781c",
+			"df863aea-cbd5-4bcb-92f0-6c68bbb3f47e",
+			"194edda5-0ddd-483f-ad19-8d0ca77cef60"
+		],
+		"title": "Schrijven",
+		"id": "ce159d61-5ff5-449b-87cf-fc39765dfe95",
+		"unreleased": true
+	},
+	{
+		"erk_schaal_id": [
+			"b5fa8270-82cb-4caf-85af-771dae587ce5",
+			"7eedab9f-6032-4612-9192-eda528716123",
+			"2f1fb645-9cae-46ff-ba74-6be7b7404c43"
+		],
+		"title": "Productieve strategieën",
+		"id": "882df096-63b5-4d04-8cb9-9f345c66851e",
+		"unreleased": true
 	}
 ]
