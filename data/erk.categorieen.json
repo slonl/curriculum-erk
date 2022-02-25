@@ -69,5 +69,16 @@
 		"title": "Productief",
 		"id": "69c2a979-f6e6-45d1-b147-08702d6887b7",
 		"unreleased": true
+	},
+	{
+		"erk_taalactiviteit_id": [
+			"23a3939b-0b8b-4570-9f63-8f64ad81fac2",
+			"889fcb75-63d9-4ee2-a32d-9b06d695170f",
+			"05a808e1-1b89-4011-a967-bd2484b58df7",
+			"faa17847-ec74-4f9f-8b0f-791d1211a20b"
+		],
+		"title": "Interactie",
+		"id": "9b4030c8-47f7-41f3-bf94-fe64f2e1916e",
+		"unreleased": true
 	}
 ]
