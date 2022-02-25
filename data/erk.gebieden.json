@@ -12,7 +12,12 @@
 	{
 		"title": "Taalcompetenties",
 		"id": "a1b9682f-9c16-4b04-b5e0-4411c3c92ff4",
-		"unreleased": true
+		"unreleased": true,
+		"erk_categorie_id": [
+			"af6bb85e-635e-4da2-aa7e-f5e9a8928b1f",
+			"f88ebd19-f337-45e0-bedc-6aa6f5fb3ebc",
+			"96d01289-97ec-4024-89f5-4f49c3937e8c"
+		]
 	},
 	{
 		"erk_schaal_id": [
