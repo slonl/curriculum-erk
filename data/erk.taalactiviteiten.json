@@ -133,5 +133,50 @@
 		"title": "Productieve strategieën",
 		"id": "882df096-63b5-4d04-8cb9-9f345c66851e",
 		"unreleased": true
+	},
+	{
+		"erk_schaal_id": [
+			"a512cbf4-9be1-4afb-bd08-ea113b2eaff7",
+			"dc9b22ba-50af-4f34-8cc1-342824b3188e",
+			"734d5846-fb5e-4909-9b98-fc626f1b37dc",
+			"ea558d3d-9f2c-4a89-9672-63bff61bc8cd",
+			"f54ad8e1-973e-45fa-88c5-93bff5fe4d3f",
+			"6615ae9c-e940-4203-816a-1affa8c50028",
+			"f3cd3e9f-d4c1-447c-99b6-ecafe851bc27",
+			"4c95ffe3-c80f-408c-93e9-25a6d33cd643",
+			"f95a83cd-5069-4077-8f77-a87d9b038b24"
+		],
+		"title": "Gesprekken voeren",
+		"id": "23a3939b-0b8b-4570-9f63-8f64ad81fac2",
+		"unreleased": true
+	},
+	{
+		"erk_schaal_id": [
+			"4d3158af-be89-467f-8009-64703e7e2f10",
+			"cee09d1a-168e-4c74-8712-884db522b163",
+			"a26a7f2d-328b-456e-8f36-6444bdf118f4"
+		],
+		"title": "Schriftelijke interactie",
+		"id": "889fcb75-63d9-4ee2-a32d-9b06d695170f",
+		"unreleased": true
+	},
+	{
+		"erk_schaal_id": [
+			"4310f8f2-049f-4387-a979-6fe10c0c7d60",
+			"20572757-2806-414c-bd0b-f6e5ee2bab5e"
+		],
+		"title": "Online interactie",
+		"id": "05a808e1-1b89-4011-a967-bd2484b58df7",
+		"unreleased": true
+	},
+	{
+		"erk_schaal_id": [
+			"a9f73ec2-8d84-4f8f-b9e4-e6712291ff6f",
+			"9e2640f9-d6ff-422f-a735-976577f2ec3e",
+			"5c6520f8-39cd-40e8-8b88-0d7554ec85b7"
+		],
+		"title": "Interactieve strategieën",
+		"id": "faa17847-ec74-4f9f-8b0f-791d1211a20b",
+		"unreleased": true
 	}
 ]
