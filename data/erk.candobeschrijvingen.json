@@ -455,5 +455,1580 @@
 		"title": "Kan interactief zijn in een meertalige context met betrekking tot abstracte en gespecialiseerde onderwerpen door flexibel af te wisselen tussen TALEN IN ZIJN OF HAAR MEERTALIGE REPERTOIRE en zo nodig de verschillende bijdragen uit te leggen (je kunt de talen specificeren in het deel in hoofdletters).",
 		"id": "93c5d263-c69f-491d-aa19-f7cb1517725c",
 		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan losse woorden en elementaire uitdrukkingen gebruiken om eenvoudige informatie over zichzelf te geven.",
+		"id": "21c3d942-4bb0-4e3a-bdff-c6a68353aa5d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan enkele elementaire structuren gebruiken in enkelvoudige zinnen met enige weglating of reductie van elementen.",
+		"id": "9cde2ab5-4523-4d4a-b361-9266456d358e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Beschikt over een zeer elementair bereik van eenvoudige uitdrukkingen over persoonlijke gegevens en behoeften van concrete aard.",
+		"id": "238e42f9-afbe-4420-97ca-0cd28bde57b7",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Beschikt over een beperkt repertoire van korte uit het hoofd geleerde frasen voor voorspelbare overlevingssituaties; in niet-alledaagse situaties komt het regelmatig tot mislukte communicatie en misverstanden.",
+		"id": "e5dfe797-9844-476c-a511-af2987598b86",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan elementaire zinspatronen gebruiken en communiceren met uit het hoofd geleerde frasen, woordgroepen en formules over zichzelf en anderen, wat zij doen, plaatsen, bezittingen, enzovoort.",
+		"id": "ab09d17a-f770-4887-9573-c357210db340",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan beknopte alledaagse uitdrukkingen gebruiken om te voldoen aan eenvoudige behoeften van concrete aard, zoals persoonlijke gegevens, dagelijkse routines, wensen en behoeften, verzoeken om inlichtingen.",
+		"id": "7b71e8aa-1932-4ae6-8900-ef6818d34302",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Beschikt over een repertoire van elementaire taal dat hem of haar in staat stelt met voorspelbare alledaagse situaties om te gaan, al zal hij of zij de boodschap vaak geweld moeten aandoen en naar woorden moeten zoeken.",
+		"id": "ca1efa0f-07d5-4f8e-90d6-e0a9a36f44f6",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Beschikt over genoeg taal om zich te redden, met een woordenschat die voldoende is om zich, met enige aarzeling en omschrijvingen van woorden, te uiten over onderwerpen als familie, hobby's en interessegebieden, werk, reizen en actualiteiten, hoewel lexicale beperkingen tot herhaling en soms zelfs tot problemen met formuleren leiden.",
+		"id": "ac7e8e09-b18c-45a7-bd08-2890a3c4da66",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Beschikt over een voldoende gevarieerde taal om onvoorspelbare situaties te beschrijven, met redelijke nauwkeurigheid de hoofdpunten van een idee of probleem uit te leggen en gedachten onder woorden te brengen over abstracte of culturele onderwerpen zoals muziek en films.",
+		"id": "6af698c3-a772-4cf6-aed9-2ee272b3a8ad",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Beschikt over een voldoende gevarieerde taal om duidelijke beschrijvingen te geven, standpunten te formuleren en argumenten te geven zonder al te opvallend te hoeven zoeken naar woorden, en daarbij een aantal complexe zinsvormen te gebruiken.",
+		"id": "97436984-ef99-48de-a7c8-ac2982c59236",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan zich helder uitdrukken zonder veel aanwijzingen dat hij of zij beperkt wordt in wat hij of zij wil zeggen.",
+		"id": "59b7a6b3-1167-480d-b13a-b9869ba7ed46",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan een geschikte formulering uit een scala aan taal kiezen om zich helder uit te drukken, zonder zich te hoeven beperken in wat hij of zij wil zeggen.",
+		"id": "19f7934c-49b5-4aae-a398-85f30a855fd8",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan uiteenlopende complexe grammaticale structuren op passende wijze en met aanzienlijke flexibiliteit gebruiken.",
+		"id": "7ee9a794-001b-48cc-aaf3-72cdc0fb91e1",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan gebruikmaken van een volledige en betrouwbare beheersing van een heel gevarieerde taal om gedachten precies te formuleren, nadruk te leggen, onderscheid te maken en ambiguïteit uit te sluiten. Er zijn geen tekenen dat hij of zij beperkt wordt in wat hij of zij wil zeggen.",
+		"id": "6eb7e39b-f0d1-4082-8fa6-3c1ea3cde52f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "c1dd7055-3e0e-4ffa-b3f1-cd3604f7ff4e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Heeft een zeer elementaire woordenschat die bestaat uit geïsoleerde woorden en eenvoudige uitdrukkingen met betrekking tot persoonlijke gegevens en bepaalde concrete situaties.",
+		"id": "9a904035-85df-4cb9-b8f8-3ab0469a0a2a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Beschikt over voldoende woordenschat om zich te redden bij primaire levensbehoeften.",
+		"id": "073f8119-ec12-4345-a369-abcd77e4aab3",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Beschikt over voldoende woordenschat om elementaire communicatiebehoeften tot uiting te brengen.",
+		"id": "a88126aa-b41d-42c3-a4d7-d9bbc0c73698",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Beschikt over voldoende woordenschat om alledaagse handelingen uit te voeren die betrekking hebben op vertrouwde situaties en onderwerpen.",
+		"id": "af7a3c74-2e93-407b-a49b-76bdb4c6299c",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Beschikt over een voldoende woordenschat om zich, met enige omhaal van woorden, te uiten over de meeste onderwerpen die betrekking hebben op het dagelijks leven, zoals familie, vrijetijdsbesteding en interesses, werk, reizen en actualiteiten.",
+		"id": "20fb79b1-c88b-4ec9-ba7d-7dc5d5aeb066",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Heeft een goed woordenschatbereik met betrekking tot vertrouwde onderwerpen en alledaagse situaties.",
+		"id": "412c2583-113a-4aed-8cdb-47c8be0c667a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan veel van de specialistische woordenschat in zijn of haar vakgebied begrijpen en gebruiken, maar heeft problemen met specialistische terminologie daarbuiten.",
+		"id": "1a35583f-1954-4049-8235-a1d778b97a22",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan de passende collocaties van veel woorden in de meeste contexten tamelijk stelselmatig produceren.",
+		"id": "01ae0df5-1ef9-4a58-a1e5-a33d19ce0369",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan variatie aanbrengen in formuleringen om te veel herhaling te voorkomen, al kunnen hiaten in de woordenschat nog wel tot aarzeling en omschrijving leiden.",
+		"id": "7060f16c-9de3-46cb-9de7-60091eb15b4d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Beschikt over een voldoende brede woordenschat voor zaken die verband houden met zijn of haar vakgebied en de meeste algemene onderwerpen.",
+		"id": "96f20c0f-df06-4b2d-aaad-99b764c12228",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan de belangrijkste technische terminologie in zijn of haar vakgebied begrijpen en gebruiken bij het bespreken van zijn of haar specialisatie met andere deskundigen.",
+		"id": "5ab2feb2-5341-4133-b54d-605b26865e7b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan het bereik van technische woordenschat en idiomatische uitdrukkingen dat gebruikelijk is in zijn of haar specialisatiegebied begrijpen en correct gebruiken.",
+		"id": "41af9d80-d6c2-4990-b1d3-9f88faf67265",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Heeft een goede beheersing van idiomatische uitdrukkingen en uitdrukkingen uit de spreektaal; kan vrij goed met woorden spelen.",
+		"id": "4dd96d4b-7dc8-4010-96a5-e5b0aec76e77",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan in bijna alle situaties kiezen uit meerdere opties in zijn of haar woordenschat door gebruik te maken van synoniemen en zelfs minder gebruikelijke woorden.",
+		"id": "4dd227e1-aaf2-4ec3-8c22-2244e3c7fa9b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Heeft een goede beheersing van een breed repertoire aan woorden, waardoor hij of zij hiaten in de woordenschat gemakkelijk kan dichten met omschrijvingen; er is in geringe mate sprake van zichtbaar zoeken naar uitdrukkingen en van vermijdingsstrategieën.",
+		"id": "c53f8719-a7e1-4851-808e-60680cc8873f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Heeft een goede beheersing van een heel breed lexicaal repertoire met inbegrip van idiomatische uitdrukkingen en uitdrukkingen uit de spreektaal; toont zich bewust van betekenisconnotaties.",
+		"id": "9077df9f-8bc5-4465-b4a6-35c062c98814",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "6bdaa449-dbb6-4c78-b513-36ab79efc96f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "91ed690c-e290-4c12-a47d-998c66d66fad",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan een beperkt repertoire hanteren om te voorzien in concrete alledaagse behoeften.",
+		"id": "745ebf1b-e5f6-4dc4-8d6d-3619eec1092a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Gebruikt een breed scala van eenvoudige woorden op passende wijze bij het bespreken van vertrouwde onderwerpen.",
+		"id": "afeeb564-01db-45ce-89ec-2aee6942de14",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Heeft een goede beheersing van elementaire woordenschat, al doen zich nog wel grote fouten voor bij meer complexe gedachten of niet-vertrouwde onderwerpen en situaties.",
+		"id": "b1954022-15da-4d3c-91ca-e616329f9db3",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Trefzekerheid in woordkeuze is over het algemeen hoog, al komen enige verwarring en onjuist woordgebruik wel voor zonder de communicatie in de weg te staan.",
+		"id": "3988f7b9-fab2-4377-92ef-8d07bc43b2ae",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Maakt nog wel incidenteel kleine vergissingen, maar geen echte fouten in woordkeuze.",
+		"id": "ff42d4d6-acf8-4a2e-9163-3550a7dd96ad",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Gebruikt minder algemene woorden idiomatisch en passend.",
+		"id": "8f444aba-bd5d-47c9-ace5-52c578161e30",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Toont consequent correct en gepast woordgebruik.",
+		"id": "b309af2c-2d3e-430a-bfd6-2339197dbbbf",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan zeer eenvoudige beginselen van woordvolgorde toepassen in korte uitspraken.",
+		"id": "57730520-bbf1-4115-b056-722d4943969c",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Toont slechts beperkte beheersing van enkele eenvoudige grammaticale constructies en zinspatronen in een geleerd repertoire.",
+		"id": "67982182-2a1f-4a8b-9e72-e2264a3f0a08",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Gebruikt een aantal eenvoudige constructies correct, maar maakt nog stelselmatig elementaire fouten - bijvoorbeeld door verschillende tijden door elkaar te gebruiken en niet te letten op congruentie; toch is meestal wel duidelijk wat hij of zij probeert te zeggen.",
+		"id": "72708617-905e-4c57-9301-dba941cfcee0",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Maakt met een redelijke mate van nauwkeurigheid gebruik van een repertoire van veelgebruikte ‘routines’ en patronen die verbonden zijn met meer voorspelbare situaties.",
+		"id": "601aa82b-1c77-4345-a236-923f4ba719df",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Communiceert redelijk nauwkeurig in vertrouwde omstandigheden; vertoont over het algemeen een goede grammaticale beheersing hoewel met merkbare invloed vanuit de moedertaal. Fouten komen voor, maar het is duidelijk wat hij of zij probeert uit te drukken.",
+		"id": "8f4451a7-b97b-4ca4-87c6-2040a91f4f30",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Heeft een goede beheersing van eenvoudige taalstructuren en sommige complexe grammaticale vormen, hoewel hij of zij geneigd is complexe structuren op een starre manier te gebruiken met enige onnauwkeurigheid.",
+		"id": "302f7fe8-5cc9-4e76-a13f-8c6e8281c2d9",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Toont een betrekkelijk grote beheersing van de grammatica. Maakt geen vergissingen die tot misverstanden leiden.",
+		"id": "9164ceff-3c4a-4738-9f84-11886dfd9c06",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Goede beheersing van de grammatica. Incidentele vergissingen, niet-stelselmatige fouten en kleine onvolkomenheden in de zinsstructuur kunnen nog voorkomen, maar zijn zeldzaam en worden meestal door de persoon zelf achteraf verbeterd.",
+		"id": "402ea8ae-ebfe-40dd-9b9f-bc9e25fc8651",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Handhaaft consequent een hoge mate van grammaticale correctheid; fouten zijn zeldzaam en moeilijk aan te wijzen.",
+		"id": "430cf2ee-34a3-4325-b19b-1113242f7da4",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Past de grammatica consequent correct toe bij complexe taal, ook wanneer de aandacht elders is gericht (bijvoorbeeld op vooruitdenken of het monitoren van de reacties van anderen).",
+		"id": "e8954b43-7ddc-4ad9-a60e-fca9dbb8e81d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "a550691a-20ca-416c-9d1d-77987f597f4b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "De uitspraak van een zeer beperkt repertoire van aangeleerde woorden en frasen kan worden verstaan met enige inspanning door gesprekspartners die gewend zijn om te gaan met sprekers van de betreffende taalgroep. Kan een beperkt bereik van klanken correct reproduceren, evenals de klemtoon in eenvoudige, vertrouwde woorden en frasen.",
+		"id": "ca035e36-5634-4856-b099-4bf8d2571e47",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "De uitspraak is meestal duidelijk genoeg om te worden verstaan, maar gesprekspartners zullen af en toe om herhaling moeten vragen. Een sterke invloed van een andere taal of andere talen die hij of zij spreekt op de klemtoon, het ritme en de intonatie, kan van invloed zijn op de verstaanbaarheid en kan de medewerking van gesprekspartners vereisen. Toch is de uitspraak van vertrouwde woorden duidelijk.",
+		"id": "f9fe9ec3-60e0-46b4-8797-f5b453448a29",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "De uitspraak is in het algemeen verstaanbaar; de intonatie en klemtoon op zowel uitspraak- als woordniveau vormen geen hindernis voor begrip. Het accent wordt meestal beïnvloed door een andere taal of andere talen die hij of zij spreekt.",
+		"id": "95cceed7-537c-4ed7-bc95-43fedbbc3044",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan in het algemeen een passende intonatie gebruiken, de juiste klemtoon leggen en afzonderlijke klanken duidelijk articuleren; het accent wordt meestal beïnvloed door een andere taal of andere talen die hij of zij spreekt, maar dit heeft weinig of geen effect op de verstaanbaarheid.",
+		"id": "c44413d8-ff61-4e63-aa62-e6ee827845cc",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan gebruikmaken van het volledige scala van fonologische kenmerken in de doeltaal met voldoende beheersing om volledig verstaanbaar te zijn. Kan vrijwel alle klanken van de doeltaal articuleren; sommige kenmerken van een accent dat is overgehouden uit een andere taal of andere talen kunnen merkbaar zijn, maar dit is niet van invloed op de verstaanbaarheid.",
+		"id": "cb1173c7-c751-41e8-a5e5-19fd03257594",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan het volledige scala van fonologische kenmerken in de doeltaal met een hoge mate van beheersing gebruiken – met inbegrip van prosodische kenmerken zoals klemtoon op woord- en zinsniveau, ritme en intonatie – zodat de fijne nuances van zijn of haar boodschap duidelijk en nauwkeurig zijn. De verstaanbaarheid en de effectieve overdracht en versterking van de betekenis worden op geen enkele manier beïnvloed door accentkenmerken die kunnen zijn overgehouden uit een andere taal of andere talen.",
+		"id": "3734d072-c521-4504-b327-6ecf9ce91f05",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "3da2eefb-7fd1-456c-a83b-91030d6b7ee9",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan een beperkt aantal klanken articuleren, met als gevolg dat de spraak alleen verstaanbaar is als de gesprekspartner helpt (bijvoorbeeld door de klank correct te herhalen en te vragen om herhaling van nieuwe klanken).",
+		"id": "26079d79-4f81-4e37-8b3f-04cb6a2254c9",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan klanken in de doeltaal reproduceren met zorgvuldige begeleiding.",
+		"id": "fb7ac37f-7919-450a-9a5c-f238f7ef76c9",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Stelselmatige uitspraakfouten van fonemen hinderen de verstaanbaarheid niet, mits de gesprekspartner zich inspant om de invloed van de taalachtergrond van de spreker op de uitspraak te herkennen en zich hieraan aan te passen.",
+		"id": "af072326-9f7e-4ca0-998d-4a0a981ea0e6",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "De uitspraak is in het algemeen verstaanbaar bij communicatie in eenvoudige alledaagse situaties, mits de gesprekspartner zich inspant om specifieke klanken te verstaan.",
+		"id": "401ad9cc-a880-467e-80d9-b21296d0fd27",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Is in het algemeen helemaal verstaanbaar, ondanks regelmatige uitspraakfouten van afzonderlijke klanken en woorden waarmee hij of zij minder vertrouwd is.",
+		"id": "9d52de7b-b6d9-4c87-b1c6-3084203a2213",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan generaliseren vanuit zijn of haar repertoire om de fonologische kenmerken van de meeste niet-vertrouwde woorden (bijvoorbeeld klemtoon) redelijk nauwkeurig te voorspellen (bijvoorbeeld tijdens het lezen).",
+		"id": "483037b3-0e4c-4da7-8516-f31641ae7891",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan een groot deel van de klanken in de doeltaal duidelijk articuleren in langere spreekbeurten; is volledig verstaanbaar ondanks een aantal stelselmatige uitspraakfouten.",
+		"id": "e5cb2875-5f76-4dcb-a267-dd2f2ff0eaf3",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan vrijwel alle klanken van de doeltaal met een hoge mate van beheersing articuleren. Hij of zij kan zichzelf meestal verbeteren als hij of zij een klank hoorbaar verkeerd uitspreekt.",
+		"id": "06fb525f-cecb-4b4b-bb3a-53692841a8b6",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan vrijwel alle klanken van de doeltaal duidelijk en nauwkeurig articuleren.",
+		"id": "f5fd0d25-8803-4b57-aafa-9c0763d7b0e1",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan de prosodische kenmerken van een beperkt repertoire van eenvoudige woorden en frasen verstaanbaar gebruiken, ondanks een zeer sterke invloed van een andere taal of andere talen die hij of zij spreekt op de klemtoon, de intonatie en/of het ritme; de gesprekspartner moet welwillend zijn.",
+		"id": "ab97e117-e181-40f1-87fc-3d8560364344",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Prosodische kenmerken (bijvoorbeeld klemtoon) zijn toereikend voor vertrouwde, alledaagse woorden en eenvoudige uitspraken.",
+		"id": "3d26e8df-d4cb-4071-b68f-7c75abf27c51",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan de prosodische kenmerken van alledaagse woorden en frasen verstaanbaar gebruiken, ondanks een sterke invloed van een andere taal of andere talen die hij of zij spreekt op de klemtoon, de intonatie en/of het ritme.",
+		"id": "d172a14c-44e8-463f-aa85-3bc6ae53892e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan zijn of haar boodschap op een verstaanbare manier overbrengen ondanks een sterke invloed van een andere taal of andere talen die hij of zij spreekt op de klemtoon, de intonatie en/of het ritme.",
+		"id": "4749614b-592b-41c9-b929-977ed5e863dd",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan gebruikmaken van prosodische kenmerken (bijvoorbeeld klemtoon, intonatie, ritme) om de boodschap die hij of zij wil overbrengen te ondersteunen, hoewel er enige invloed is van andere talen die hij of zij spreekt.",
+		"id": "fa6ed5de-7115-4dbb-bd9b-0dfb2c51e8e4",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan variëren in intonatie en de juiste klemtoon leggen om precies uit te drukken wat hij of zij wil zeggen.",
+		"id": "32b857fc-8b32-485d-ae9f-095632b97e92",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan een vloeiend, verstaanbaar gesproken discours produceren met slechts af en toe een wat mindere beheersing van klemtoon, ritme en/of intonatie, wat niet van invloed is op de verstaanbaarheid of effectiviteit.",
+		"id": "13f7944d-e4ec-42ad-a8bd-7554f419e403",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan toepasselijk en effectief gebruikmaken van prosodische kenmerken (bijvoorbeeld klemtoon, ritme en intonatie) om fijnere betekenisnuances over te brengen (bijvoorbeeld om te differentiëren en te benadrukken).",
+		"id": "74bbceed-d6e9-4305-aeee-fc9ff4779460",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "978a177d-7dba-4439-b631-2effc5f2cfa4",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan elementaire leestekens gebruiken (bijvoorbeeld punten en vraagtekens).",
+		"id": "d033dcb3-bca7-45c9-84af-9b98f494b02b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan zijn of haar adres, nationaliteit, en andere persoonlijke gegevens spellen.",
+		"id": "43a99c12-e5c2-444b-b135-a0e11fd6eea5",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan vertrouwde woorden en korte zinsdelen overschrijven, bijvoorbeeld eenvoudige aanwijzingen of instructies, namen van alledaagse dingen, namen van winkels en regelmatig gebruikte standaardzinnetjes.",
+		"id": "744549fe-6907-4cef-9ada-335c0544f2b1",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan fonetisch redelijk correct (maar niet noodzakelijkerwijs helemaal in de standaardspelling) korte woorden opschrijven uit zijn of haar gesproken woordenschat.",
+		"id": "4c64dacb-52c6-4453-bfb0-42e7e65a0dc7",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan korte zinnen over alledaagse onderwerpen overschrijven, bijvoorbeeld een routebeschrijving.",
+		"id": "7c3a461e-71f3-4561-a142-1b2ff498e334",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Spelling, leestekengebruik en lay-out zijn correct genoeg om het grootste deel van de tijd te kunnen worden gevolgd.",
+		"id": "89770cdf-4655-4948-8deb-2051d6a0d672",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan heldere doorlopende tekst produceren die over het algemeen helemaal te begrijpen is.",
+		"id": "e2f1bdd2-db0b-4a4d-80bb-511fcb845937",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Spelling en leestekengebruik zijn redelijk correct maar kunnen invloeden van moedertaal verraden.",
+		"id": "12b84021-22d9-4087-a498-4f94444e3631",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan heldere, begrijpelijke, doorlopende tekst produceren die voldoet aan standaardconventies voor lay-out en alinea-indeling.",
+		"id": "9545d16f-ffa5-4da1-b5f0-3fb4b330a54c",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "De spelling is correct, afgezien van een enkele verschrijving.",
+		"id": "fd046686-c005-472a-8a4a-e7a9ac3a3cd5",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Lay-out, alinea-indeling en leestekengebruik zijn consistent en bevorderen de leesbaarheid.",
+		"id": "8d5f20ba-841c-432d-b414-7ccda6bdd978",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Het geschrevene is orthografisch foutloos.",
+		"id": "1587dcc5-a8ed-4069-93d7-0465194abd00",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "c6e9a10b-eec1-4df1-9b9a-a9d738d6483a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan elementair sociaal contact leggen door gebruik te maken van de eenvoudigste alledaagse beleefdheidsvormen: begroeting en afscheid; voorstellen; alstublieft, dankuwel en sorry zeggen, enzovoort.",
+		"id": "de16b182-0ea2-48bf-88f4-483920719c16",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan onder andere uitnodigen, suggesties opperen en verontschuldigingen aanbieden, en daarop reageren.",
+		"id": "2dd73fb9-03d6-4aae-a31b-a1c67693c4d3",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan zeer korte sociale uitwisselingen aangaan en daarbij gebruikmaken van alledaagse beleefde begroetingen en aansprekingen.",
+		"id": "42ff69b4-58c4-444b-b48f-a1451d6cde00",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan op eenvoudige maar doeltreffende wijze sociale contacten aangaan met gebruikmaking van de eenvoudigste gangbare uitdrukkingen en door elementaire routines te volgen.",
+		"id": "43d28964-bcde-413a-93b4-5c77fdc88933",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan elementaire taalfuncties inzetten en daarop reageren, zoals informatie-uitwisseling en verzoeken om inlichtingen, en kan op eenvoudige wijze meningen en houdingen uitdrukken.",
+		"id": "83865d05-5e3c-4d19-9882-ce709ec717a6",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Is zich bewust van en let op tekenen van de belangrijkste verschillen in gewoonten, gebruiken, houdingen, waarden en overtuigingen tussen de betrokken gemeenschap en die van hem- of haarzelf.",
+		"id": "df2d6b39-4232-44be-8a43-312218d51210",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Is zich bewust van de belangrijkste beleefdheidsconventies en handelt ernaar.",
+		"id": "6531cb80-6352-4ea1-918a-59495b78dec5",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan een breed scala van taalfuncties inzetten en daarop reageren, gebruikt daarbij de meest voorkomende uitdrukkingen in een neutraal register.",
+		"id": "1f285e83-03b7-45c7-8851-7bc08344f046",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan zich in situaties op gepaste wijze uitdrukken en weet flagrante fouten in de formulering te vermijden.",
+		"id": "92249dcf-5d36-47a7-a310-b4592e396969",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan betrekkingen onderhouden met gebruikers van de doeltaal zonder hen onbedoeld te amuseren of te irriteren en zonder hen te verplichten zich anders te gedragen dan zij tegenover een andere vaardige gebruiker van die taal zouden doen.",
+		"id": "c10e6950-b08b-48e1-8d25-e457fe268ac9",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan zijn of haar manier van uitdrukken aanpassen om enig onderscheid te maken tussen formele en informele registers, maar doet dat mogelijk niet altijd op passende wijze.",
+		"id": "9d2e9ed0-07c7-459a-8531-80e8c8a14896",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan zich vol vertrouwen, helder en beleefd uitdrukken in een formeel of informeel register, afgestemd op de situatie en de betrokkenen.",
+		"id": "a91b55aa-9e0c-4a73-b103-cb015427ee71",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan sociaal-culturele/sociolinguïstische aanwijzingen herkennen en interpreteren en zijn of haar linguïstische uitdrukkingsvormen bewust aanpassen om zich uit te drukken op een manier die past bij de situatie.",
+		"id": "64bbd780-56b7-465a-b6ae-b381779d5e60",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan met enige inspanning groepsdiscussies volgen en daaraan bijdragen, zelfs wanneer er snelle spreektaal wordt gebruikt.",
+		"id": "fffd081e-8abe-403b-b020-103d3f20c619",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan kritische opmerkingen inkaderen of op diplomatische wijze aangeven het ergens sterk mee oneens te zijn.",
+		"id": "9142086c-fea9-478a-ba8e-d89b59face3d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan zijn of haar mate van formaliteit (register en stijl) afstemmen op de sociale context: formeel, informeel of spreektalig, al naargelang wat gepast is, en een consistent register handhaven.",
+		"id": "331286bf-0a53-4607-b802-94c41cd3f44d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan taal flexibel en doeltreffend gebruiken voor sociale doeleinden, met inbegrip van emotioneel, dubbelzinnig en humoristisch taalgebruik.",
+		"id": "466227aa-8c9c-45a1-be23-bcb4ad299dc3",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan films volgen waarin een aanzienlijke hoeveelheid plat taalgebruik en idiomatische uitdrukkingen wordt gebruikt.",
+		"id": "278cf864-508e-458f-85ad-200943728da7",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan humor, ironie en impliciete culturele verwijzingen begrijpen en betekenisnuances oppikken.",
+		"id": "6b10789b-0b69-4db9-90d3-04ea9aa8661e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan een breed scala van idiomatische uitdrukkingen en uitdrukkingen uit de spreektaal herkennen en heeft daarbij oog voor registerveranderingen; heeft echter zo nu en dan behoefte aan bevestiging van details, vooral als het accent niet vertrouwd is.",
+		"id": "5d1bce5a-6f92-4f73-8bcf-5bec726d4426",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan, zowel mondeling als schriftelijk, effectief gebruikmaken van een grote verscheidenheid aan verfijnde taal om te bevelen, te argumenteren, te overtuigen, te ontmoedigen, te onderhandelen en raad te geven.",
+		"id": "ca583caf-e011-4e79-9750-b29dcfec3583",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Erkent nagenoeg alle sociolinguïstische en sociaal-culturele implicaties van de taal die wordt gebruikt door vaardige gebruikers van de doeltaal en kan daarop adequaat reageren.",
+		"id": "186d9b92-572c-4a3a-8ceb-a96e4fed32f3",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Heeft een goede beheersing van idiomatische uitdrukkingen en uitdrukkingen uit de spreektaal, en is zich bewust van betekenisconnotaties op verschillende niveaus.",
+		"id": "4ea7a83a-37a5-4f52-856b-3faa8debe83e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan doeltreffend en natuurlijk bemiddelen tussen sprekers van de doeltaal en die van zijn of haar eigen gemeenschap, rekening houdend met sociaal-culturele en sociolinguïstische verschillen.",
+		"id": "9c489fda-e924-4d90-9c44-6524a5b040e6",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "2fdc909c-3d82-4616-a071-153a1b286c21",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "73c5c9a2-3fec-4b9c-9256-fa37afddb241",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan geleerde frasen uitbreiden door hun elementen iets anders te combineren.",
+		"id": "456d8dbf-c62e-4e9d-835d-49c336d07645",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan goed ingestudeerde en gememoriseerde eenvoudige frasen aanpassen aan bepaalde omstandigheden door beperkte lexicale substitutie.",
+		"id": "28e96712-f4e0-4d2d-b9e7-968351f77a06",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan een breed scala van eenvoudige taal flexibel inzetten om veel te zeggen van wat hij of zij wil.",
+		"id": "7c6da23b-8fe2-4d7a-974a-7a4acf989f57",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan zijn of haar uitdrukking aanpassen om minder alledaagse en zelfs moeilijke situaties te hanteren.",
+		"id": "a9ad32c9-fcb6-46e0-b4cf-bcd3841b62f1",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan een idee anders formuleren om een punt te benadrukken of uit te leggen.",
+		"id": "d3f577cb-f15d-48c2-bc4e-8037c0217215",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan variëren in de formulering van wat hij of zij wil zeggen.",
+		"id": "b7e03d79-5c4e-4e42-9e43-1194714bb76e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan zich aanpassen aan de veranderingen van richting, stijl en nadruk die normaliter voorkomen in een gesprek.",
+		"id": "8c5888bc-0a82-42d7-bd33-79b51cef10ec",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan wat hij of zij zegt en de manier van uitdrukken aanpassen aan de situatie en de ontvanger en een mate van formaliteit kiezen die in de omstandigheden toepasselijk is.",
+		"id": "0e951ade-3b33-4caf-9b5e-051c01013b33",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan zijn of haar manier van uitdrukken aanpassen om mate van betrokkenheid of aarzeling, vertrouwen of onzekerheid uit te drukken.",
+		"id": "2f8fb7b8-e8f9-497f-8c4a-36a1416855fe",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan een positieve indruk maken op een doelgroep door effectief te variëren met uitdrukkingsstijl en zinslengte, gebruik van gevorderde woordenschat en woordvolgorde.",
+		"id": "670bb2ec-cf02-4c75-b037-d321b0d3918c",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Toont grote flexibiliteit bij het herformuleren van ideeën in andere taalvormen om nadruk te leggen of onderscheid te maken naar situatie, gesprekspartner, enzovoort en om dubbelzinnigheid weg te nemen.",
+		"id": "c8e671c9-2a9d-49d0-bd96-1a07472846f4",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "c32b621d-a9a1-4360-bd26-6303d24bcd8a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "17994d02-4d49-442e-b27d-08b5c0a7087b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan om aandacht vragen.",
+		"id": "42b7206f-bcfb-47ca-b31d-881cc54f2634",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan eenvoudige technieken toepassen om een kort gesprek te beginnen, gaande te houden of te beëindigen.",
+		"id": "7bf57895-7308-4898-9dda-5443f6b1968f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan een eenvoudig rechtstreeks gesprek beginnen, gaande houden en beëindigen.",
+		"id": "89bb8166-56c7-4f42-ae80-c01371166e69",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan een eenvoudig rechtstreeks gesprek beginnen, gaande houden en beëindigen over onderwerpen die vertrouwd of van persoonlijk belang zijn.",
+		"id": "642ad548-8f07-42e6-8372-6f8fe0165519",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan ingrijpen in een discussie over een vertrouwd onderwerp en de juiste frase gebruiken om aan het woord te komen.",
+		"id": "377cd88d-9607-465f-8b0a-b59720f54158",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan standaardzinnen gebruiken (bijvoorbeeld ‘Dat is een moeilijk te beantwoorden vraag’) om tijd te winnen en de beurt te behouden tijdens het zoeken naar woorden.",
+		"id": "2bf33f5a-9546-4a48-9fe3-5abd3b5e3fe8",
+		"unreleased": true
+	},
+	{
+		"title": "Kan een gesprek beginnen, op de juiste ogenblikken zijn of haar beurt nemen en de conversatie beëindigen wanneer dat nodig is, zij het niet altijd op elegante wijze.",
+		"id": "8519cf97-dd8c-4a11-b1f0-37fea44632bd",
+		"unreleased": true
+	},
+	{
+		"title": "Kan op gepaste wijze een gesprek beginnen, onderhouden en beëindigen, en daarbij doeltreffend beurten nemen.",
+		"id": "d5caa829-fbc2-48e9-bcf2-e7be1246e85e",
+		"unreleased": true
+	},
+	{
+		"title": "Kan op toepasselijke wijze ingrijpen in een discussie en daarvoor de juiste taal gebruiken.",
+		"id": "fff4a49f-09fa-40c5-9b59-eb97145b0ad8",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan een toepasselijke frase kiezen uit een paraat scala van gespreksfuncties om zijn of haar opmerkingen zo in te leiden dat de aandacht van de toehoorders wordt getrokken, of om tijd te winnen en de aandacht vast te houden tijdens het nadenken.",
+		"id": "80d7ca8f-354b-44cd-981a-dc6e8c26c2e5",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Geen descriptoren beschikbaar: zie C1.",
+		"id": "8b64f1ce-bc2b-49f5-8829-b4df6910081e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "c7d15d10-1ed9-4277-9832-890b64cb4ace",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "c84ed7a1-1102-4667-802a-b3c6f19c4fd9",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "4be536ba-eae6-4116-8370-afad182fa037",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan ergens een voorbeeld van geven in een zeer eenvoudige tekst met behulp van 'zoals' of 'bijvoorbeeld'.",
+		"id": "10524e92-53f7-430c-ae95-1e49f26d24bc",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan een verhaal vertellen of iets beschrijven als een simpele opsomming van punten.",
+		"id": "aca63ba3-aa47-4aca-9ddb-b4c7b0409655",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan redelijk vloeiend een helder verhaal vertellen of een heldere beschrijving geven in de vorm van een lineaire opeenvolging van punten.",
+		"id": "f23478eb-e8d2-45ca-ba60-845ccc4a302e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Toont zich bewust van de conventionele structuur van het betreffende tekstsoort bij het overbrengen van zijn of haar ideeën.",
+		"id": "43dd75ff-1593-4e5b-b633-aa5ff750d97f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan een argument zo goed ontwikkelen dat het meestal probleemloos kan worden gevolgd.",
+		"id": "26cd4fb3-89e3-4c08-b9c4-ed87acf18859",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan de chronologische volgorde in een verhalende tekst duidelijk aangeven.",
+		"id": "6c1e74e8-f4a0-49cb-9c55-ccadbc112bb8",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan duidelijk het verschil aangeven tussen feiten en meningen.",
+		"id": "1b1e3a18-20f1-4430-9bd7-b3c5eca6cc83",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan de voor- en nadelen van verschillende opties uiteenzetten.",
+		"id": "d65a502d-cc0d-4248-8c38-d0435bc88626",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan een heldere argumentatie ontwikkelen en daarbij zijn of haar gezichtspunten tamelijk uitvoerig uitwerken en ondersteunen met aanvullende punten en relevante voorbeelden.",
+		"id": "2a133af0-429f-4d77-a42f-be15f2536d9b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan een heldere beschrijving geven of een duidelijk verhaal vertellen, en daarbij de hoofdpunten uitwerken en ondersteunen met relevante aanvullende punten en voorbeelden.",
+		"id": "9fc54441-1bd5-4d57-a404-f6245be381de",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan de conventionele structuur van de betreffende communicatieve taak volgen bij het overbrengen van zijn of haar ideeën.",
+		"id": "a03e2caa-9eee-443b-a91d-5445091c2b7a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan op overtuigende wijze complexe redeneringen presenteren en beantwoorden.",
+		"id": "c828075b-a3b7-47f0-b0fc-e5f35d77d4ad",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan een argument stelselmatig opbouwen met de juiste benadrukking van belangrijke punten en relevante ondersteunende details.",
+		"id": "5116c976-f386-4aa2-b7fa-aaef1fc6fd42",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan hoofdpunten behoorlijk uitvoerig uitwerken en ondersteunen met aanvullende punten, redenen en relevante voorbeelden.",
+		"id": "247a00bf-e43b-450f-88f7-8c144b83cabe",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan een geschikte inleiding en conclusie schrijven voor een lange, complexe tekst.",
+		"id": "045e49a8-9109-42de-80ae-0b1642bd3a69",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan uitvoerige beschrijvingen geven en verhalen vertellen, en daarin subthema’s integreren, bepaalde punten uitwerken en met een passende conclusie afronden.",
+		"id": "f2877486-bd45-4631-b81e-c8cb477c9fd9",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan de conventies van het betreffende teksttype gebruiken om de aandacht van de lezer vast te houden en complexe ideeën over te brengen.",
+		"id": "fef17bed-bfd5-4beb-b7df-8e9d4661cfd5",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan de conventies van het betreffende tekstsoort met voldoende flexibiliteit gebruiken om complexe ideeën op een effectieve manier over te brengen, de aandacht van de lezer met gemak vast te houden en alle communicatieve doelstellingen te verwezenlijken.",
+		"id": "a687179b-9096-4206-97f2-47d6531667f9",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "64dd0a64-e492-4fd7-9094-b6fb55699286",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan woorden of woordgroepen met elkaar verbinden met heel elementaire lineaire verbindingswoorden als ‘en’ of ‘toen'.",
+		"id": "0528cf7f-ea32-488c-bd02-708d2ef44c16",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan woordgroepen verbinden met eenvoudige voegwoorden als ‘en’, ‘maar’ en ‘omdat’.",
+		"id": "8b52e0de-f2d4-4ab1-bfe2-f7303dfeec9f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan de meest voorkomende verbindingswoorden gebruiken om enkelvoudige zinnen te verbinden om een verhaal te vertellen of iets te beschrijven als een eenvoudige opsomming van punten.",
+		"id": "6345ea1e-7ec3-4e3e-aae8-ae551a99d4e6",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan een eenvoudige, logische alineaverdeling aanbrengen in een langere tekst.",
+		"id": "a19fb463-97a3-494e-80ec-790dd7f50ba8",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan langere zinnen vormen en deze met elkaar verbinden met behulp van een beperkt aantal cohesie-bevorderende elementen, bijvoorbeeld in een verhaal.",
+		"id": "a8696371-4891-477d-a072-735c866f28e2",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan een reeks kortere, op zichzelf staande eenvoudige elementen verbinden tot een samenhangende lineaire opeenvolging van punten.",
+		"id": "82535a7f-359d-4a07-866c-e11bf2574ae5",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan een tegenargument introduceren in een eenvoudige discursieve tekst (bijvoorbeeld met 'echter').",
+		"id": "b82eb3a2-075a-4844-9f58-03e90f4bbe2a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan langere teksten structureren in duidelijke, logische alinea's.",
+		"id": "e20acbb2-c5f5-457a-84e6-36cac03cfcd0",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan tekst produceren die in het algemeen goed geordend en samenhangend is, door gebruik te maken van een scala aan verbindingswoorden en cohesie-bevorderende elementen.",
+		"id": "333f7f83-9716-4e18-9db8-ddb575204a97",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan gebruikmaken van een beperkt aantal cohesie-bevorderende elementen om zijn of haar uitingen te verbinden tot een helder, coherent discours, hoewel in een langere bijdrage sprake kan zijn van een zekere ‘springerigheid’.",
+		"id": "eb982f57-2b4c-4ed5-9db2-7daca1ec2929",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan een groot aantal verbindingswoorden doelmatig gebruiken om de verhoudingen tussen ideeën helder aan te geven.",
+		"id": "273fba16-58d4-4013-9c37-31cbbb420185",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan goed geordende, samenhangende tekst produceren door gebruik te maken van een verscheidenheid aan cohesie-bevorderende elementen en ordeningspatronen.",
+		"id": "a1aec71e-1b9a-4496-b6d1-e733fd57105b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan duidelijke, vloeiende, goed gestructureerde taal produceren, die getuigt van een goede beheersing van ordeningspatronen, verbindingswoorden en cohesie-bevorderende elementen.",
+		"id": "502ed540-85d4-4b59-a939-27ed3cad1a2a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan samenhangende tekst produceren en daarbij volledig en toepasselijk gebruik maken van uiteenlopende ordeningspatronen en een breed scala van cohesie-bevorderende elementen.",
+		"id": "26274f54-8b92-493b-a7d7-389c965af0ec",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan zeer elementaire informatie over persoonlijke gegevens op een eenvoudige manier overbrengen.",
+		"id": "d5ba1b27-9f93-4c55-8c53-25b47fa0e1de",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan elementaire informatie over persoonlijke gegevens en behoeften van concrete aard op een eenvoudige manier overbrengen.",
+		"id": "2f08717d-2827-4a37-bb01-63f709b72a44",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan overbrengen wat hij of zij wil zeggen in een eenvoudige rechtstreekse uitwisseling van beperkte informatie over vertrouwde en alledaagse zaken, maar moet in andere situaties de boodschap meestal wat geweld aandoen.",
+		"id": "ebb2cbc6-25b6-4f90-9612-f03d4d79760b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan de belangrijkste punten die hij of zij wil overbrengen, begrijpelijk verwoorden.",
+		"id": "44bfb894-3268-4386-8783-9fd1be831d88",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan simpele, directe informatie van onmiddellijk belang overbrengen en daarbij duidelijk maken welk punt hij of zij het belangrijkst vindt.",
+		"id": "4734527a-50a3-405a-b660-561b874bf882",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan de hoofdpunten van een idee of probleem uitleggen met een redelijke mate van nauwkeurigheid.",
+		"id": "92a0bbd0-a459-4580-bb3e-294db15ee795",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan de essentiële punten communiceren, zelfs in veeleisende situaties, hoewel het in zijn of haar taal ontbreekt aan uitdrukkingskracht en idioom.",
+		"id": "f665f123-662b-4205-b6c0-c07d51323e50",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan gedetailleerde informatie betrouwbaar doorgeven.",
+		"id": "dfd946c2-0781-4c11-b6f3-bc48960d3f92",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan meningen en uitspraken precies kwalificeren met betrekking tot bijvoorbeeld de mate van zekerheid/onzekerheid, geloofwaardigheid/twijfel, waarschijnlijkheid, enzovoort.",
+		"id": "381282c6-1f55-40db-b716-792609d7d179",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan effectief gebruikmaken van linguïstische modaliteit om aan te geven hoe sterk een bewering, argument of standpunt is.",
+		"id": "0f0c3c58-ac7b-42f7-86a9-f26c7955c827",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan benadrukken, onderscheid maken en dubbelzinnigheid wegnemen.",
+		"id": "2eca1f5c-a068-4b2b-86f4-ce34a7c2cf4c",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan fijnere betekenisnuances precies overbrengen door redelijk accuraat gebruik te maken van een breed scala van kwalificerende elementen (zoals bijwoorden van gradatie en beperkende bijzinnen).",
+		"id": "0542fc7a-9ba3-4bfb-8ca5-6d47014b783c",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan zeer korte, geïsoleerde, ingeoefende uitingen hanteren en gebruikt daarbij zo nodig gebaren en hulpsignalen.",
+		"id": "317fe27c-c6e7-4803-bfc3-98a0dbc89fce",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan zeer korte, geïsoleerde, voornamelijk kant-en-klare uitingen hanteren, met veel onderbrekingen om naar uitdrukkingen te zoeken, minder vertrouwde woorden uit te spreken en de communicatie te herstellen.",
+		"id": "80c958ae-1ee4-426f-8867-ed45a9858bfe",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan frasen over vertrouwde onderwerpen met voldoende gemak construeren om korte interacties te hanteren, ondanks heel duidelijke aarzelingen en valse starts.",
+		"id": "37fdd720-b857-4202-aa4e-ba172e563ed4",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan zich in korte uitingen verstaanbaar maken, ondanks heel duidelijke onderbrekingen, valse starts en herformuleringen.",
+		"id": "3f83b7b3-6032-4457-86be-50e7616b4b00",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan op verstaanbare wijze doorpraten, ook al is heel duidelijk sprake van pauzes voor grammaticale en lexicale planning en herstel, vooral in langere vrij geproduceerde stukken tekst.",
+		"id": "09f3c463-8870-4d27-816c-cd64225c0852",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan zich betrekkelijk gemakkelijk uitdrukken. Ondanks enige problemen met formuleren, die tot pauzes en ‘doodlopende wegen’ leiden, kan hij of zij zonder hulp doeltreffend verder gaan.",
+		"id": "4dc94b90-d0d4-49aa-ac9d-288c9bd7ebeb",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan zo vloeiend en spontaan reageren dat een normale uitwisseling met gebruikers van de doeltaal goed mogelijk is zonder dat dit voor een van de partijen belastend is.",
+		"id": "3098e77f-35f6-498e-b150-eba966e32194",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan langere stukken tekst produceren in een redelijk gelijkmatig tempo; hoewel hij of zij kan aarzelen tijdens het zoeken naar patronen en uitdrukkingen, zijn er weinig opvallend lange pauzes.",
+		"id": "d6c4c256-d7d4-46a9-beb4-ae8035d44133",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan spontaan communiceren en vertoont daarbij vaak opmerkelijke vloeiendheid en uitdrukkingsgemak, ook in langere complexe teksten.",
+		"id": "7b74468e-7926-4181-b31c-5256c34667b6",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan zich vrijwel moeiteloos vloeiend en spontaan uitdrukken. Slechts een conceptueel moeilijk onderwerp kan een natuurlijke, vloeiende taalstroom hinderen.",
+		"id": "cb4dcb05-ec7c-4fc5-ad74-ecd6a11bc2c3",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan zich langere tijd uitdrukken met een natuurlijke, moeiteloze taalstroom zonder aarzelingen. Pauzeert alleen om na te denken over precies de juiste woorden om zijn of haar gedachten uit te drukken of om toepasselijke voorbeelden of verklaringen te vinden.",
+		"id": "56d348be-b707-40a6-82a0-5a79daa042b2",
+		"unreleased": true
 	}
 ]
