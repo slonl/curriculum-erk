@@ -1,3 +1,2153 @@
 [
-	{}
+	{},
+	{
+		"title": "Een kerst-, nieuwjaars- of verjaardagskaart, beterschap (DL).",
+		"id": "653b16d3-e8bb-4ad4-a039-94974f5b96e4",
+		"unreleased": true
+	},
+	{
+		"title": "Een rouwkaart of een geboortekaartje (DL).",
+		"id": "076783f0-c981-47f0-b2e3-6ed96119844b",
+		"unreleased": true
+	},
+	{
+		"title": "Een uitnodiging voor een (trouw)feest (DL).",
+		"id": "3eae0012-e07e-4329-a1d3-2fcbe88cea96",
+		"unreleased": true
+	},
+	{
+		"title": "Een vakantiekaart (DL).",
+		"id": "9fdd6b92-8490-4f46-9020-969c9ed66995",
+		"unreleased": true
+	},
+	{
+		"title": "Een toegangskaart voor een concert, sportwedstrijd, festival (DL).",
+		"id": "67b161ba-b2da-4b76-916e-cd8479ff354e",
+		"unreleased": true
+	},
+	{
+		"title": "Een bevestiging van aanschaf van een product (DL).",
+		"id": "1ff43de2-074a-4519-8e5c-9fdc38d17d59",
+		"unreleased": true
+	},
+	{
+		"title": "Een kort bericht (app) met de herinnering voor een afspraak, met datum, tijd en plaats (DL).",
+		"id": "9fab514a-544f-4eb9-b754-d1c8854953b3",
+		"unreleased": true
+	},
+	{
+		"title": "Een digitaal bericht waarin staat dat de zender er direct aankomt (DL, WE).",
+		"id": "996d7bb7-22e5-4f95-ae84-0375f55cef9a",
+		"unreleased": true
+	},
+	{
+		"title": "Een ansichtkaart met vakantiegroeten of vakantiegroeten of Facebook (DL).",
+		"id": "8c76cda9-cd79-47d5-bf1f-bce3aca977e0",
+		"unreleased": true
+	},
+	{
+		"title": "Een e-mail met bevestiging van de aankomsttijd van een buitenlandse gast (WE).",
+		"id": "c2abe5e2-4f79-47a5-b5a1-4fbd2d6a970e",
+		"unreleased": true
+	},
+	{
+		"title": "Een voorstel om iets te doen, wanneer en waar af te spreken (DL).",
+		"id": "8c9cb5f5-e80b-4b0f-9207-99737a58ea41",
+		"unreleased": true
+	},
+	{
+		"title": "Een mededeling over weer en verblijfplaats tijdens de vakantie (DL).",
+		"id": "f4f2039f-b31c-4f85-a1fb-25ca10f5d6c7",
+		"unreleased": true
+	},
+	{
+		"title": "Een mededeling over het welbevinden van een correspondentievriend/in (DL).",
+		"id": "c9a53be9-18ce-4922-8011-d42b0e92730e",
+		"unreleased": true
+	},
+	{
+		"title": "Een mededeling met informatie over de school van een correspondentievriend/in (DL).",
+		"id": "5cf2900b-83be-4444-9142-4907026d0dc2",
+		"unreleased": true
+	},
+	{
+		"title": "Het maken, bevestigen of verzetten van een afspraak (XX).",
+		"id": "e4f90d37-ec4f-4003-b3b5-ecad2565053c",
+		"unreleased": true
+	},
+	{
+		"title": "De bevestiging van een reservering of van een online aankoop (DL).",
+		"id": "a4dec6c3-4d85-4659-81ee-32dab6ab9f72",
+		"unreleased": true
+	},
+	{
+		"title": "Een bevestiging van een vakantieverblijf per e-mail (DL).",
+		"id": "19b23471-3d0b-4134-9d45-c6cbe7d55c0c",
+		"unreleased": true
+	},
+	{
+		"title": "Een bericht van een officiële instantie over een tijdelijk parkeerverbod dichtbij de camping waar je verblijft (PU).",
+		"id": "1f5e16c8-c610-48a7-ba3e-4832c9a78471",
+		"unreleased": true
+	},
+	{
+		"title": "In een (stage)bedrijf een brief over het opnemen van verlofdagen (OPL, WE).",
+		"id": "ea8ac336-c26d-4da6-a64c-d9a33295d79c",
+		"unreleased": true
+	},
+	{
+		"title": "Een uitnodiging voor een cursus of vakantiereis (PU, OPL).",
+		"id": "191cf233-f45c-42d5-a908-1fb24b008242",
+		"unreleased": true
+	},
+	{
+		"title": "De gegevens van een bestelling of order in een bijlage bij een e-mail (WE).",
+		"id": "36438b6b-6d93-409f-9393-df5d57edbd69",
+		"unreleased": true
+	},
+	{
+		"title": "Een bericht van een officiële instantie/school/instituut of bedrijf waar de leerling is toegelaten (OPL, WE).",
+		"id": "32671bad-f6cc-4fbf-8d94-7f54632813da",
+		"unreleased": true
+	},
+	{
+		"title": "De beschrijving van een feest (DL).",
+		"id": "c85d62a3-0bd4-4a0c-b1d5-e137fe9bbdc4",
+		"unreleased": true
+	},
+	{
+		"title": "Informatie over een vriendje of vriendinnetje (DL).",
+		"id": "74dc4cc9-c9a6-4669-90d2-7a88708077d9",
+		"unreleased": true
+	},
+	{
+		"title": "Informatie over een hobby (DL, PU).",
+		"id": "1c52325f-b821-4e5a-a0e2-713521b5faff",
+		"unreleased": true
+	},
+	{
+		"title": "De mening van de correspondentiepartner over school of opleiding (DL, OPL).",
+		"id": "65f836f8-937d-4cce-b3d4-b02f52edd648",
+		"unreleased": true
+	},
+	{
+		"title": "De beschrijving van een bijbaantje van de correspondentiepartner (DL, OPL).",
+		"id": "9a1916aa-7001-4e5a-8c99-c7767f93e093",
+		"unreleased": true
+	},
+	{
+		"title": "De beschrijving van gevoelens of wensen (DL).",
+		"id": "07ff8c66-25a6-4fe7-917e-83e99957b0c2",
+		"unreleased": true
+	},
+	{
+		"title": "Een verslag van gebeurtenissen (DL).",
+		"id": "5a214186-f243-46bd-ba28-85468194b581",
+		"unreleased": true
+	},
+	{
+		"title": "Een verzoek om mee te doen aan een e-mail-actie ten bate van een maatschappelijk belang (DL).",
+		"id": "c8dd2048-c975-462d-8c96-1463e13db9be",
+		"unreleased": true
+	},
+	{
+		"title": "Een bevestigingsbrief begrijpen van een bedrijf voor een buitenlandse stage (OPL).",
+		"id": "7a3e721e-7009-42ff-8eca-32a664c25e6b",
+		"unreleased": true
+	},
+	{
+		"title": "De juistheid van gemaakte afspraken controleren in een bevestigingsbrief of e-mail, zoals bij het huren van een appartement, een schooluitwisseling, een bedrijfsbezoek (PU, OPL, WE).",
+		"id": "8c47660b-7484-4b5a-985b-459d53c3946e",
+		"unreleased": true
+	},
+	{
+		"title": "Bij een klacht inschatten wat er aan de hand is en wat er gedaan moet worden (WE).",
+		"id": "81b828b3-972c-4996-8c21-75c37722bf6e",
+		"unreleased": true
+	},
+	{
+		"title": "Vaststellen of de introductiebrief van een potentiële partnerschool of nieuwe firma interessant genoeg is om contact op te nemen (OPL, WE).",
+		"id": "ac428ffb-1d4f-491b-97cb-ca0be73cf363",
+		"unreleased": true
+	},
+	{
+		"title": "Bij deelname aan een internationaal project het werkstuk aanpassen op basis van opmerkingen van de buitenlandse partner (OPL).",
+		"id": "fcef1796-ce7b-4012-bc72-d3daa9e4d19c",
+		"unreleased": true
+	},
+	{
+		"title": "Een bevestiging van de uitwisselingsschool dat de tijdelijke vervoerskaart klaarligt (OPL).",
+		"id": "5be8ec6b-77e3-454c-8905-e28390291c07",
+		"unreleased": true
+	},
+	{
+		"title": "Een verzoek om informatie begrijpen om vervolgens de juiste gegevens te kunnen verzamelen (WE).",
+		"id": "aeb7d053-8c40-4412-91d9-b1e93bf282e6",
+		"unreleased": true
+	},
+	{
+		"title": "Een brief van een buitenlandse vriend of familielid waarin deze een complex persoonlijk of zakelijk probleem beschrijft (DL).",
+		"id": "2d40c41b-b647-41ca-ab80-ffe4b180c676",
+		"unreleased": true
+	},
+	{
+		"title": "Ideeën van een correspondentiepartner over vriendschap, relaties, werk, het milieu (DL).",
+		"id": "03d08c93-7bfd-4558-890b-ee6f0917e3b3",
+		"unreleased": true
+	},
+	{
+		"title": "Een brief over een sportuitwisseling, een gastgezin (DL).",
+		"id": "1a337a51-0f3a-47e5-ad16-b1c22a7ddeb2",
+		"unreleased": true
+	},
+	{
+		"title": "Een reactie op een klacht of verzoek om schadevergoeding (DL, WE).",
+		"id": "b06c5428-6b19-412f-83b1-8d86e82ac4f2",
+		"unreleased": true
+	},
+	{
+		"title": "Een wervingsbrief van een buitenlandse beurs voor deelname aan een vakbeurs (WE).",
+		"id": "f0cdc59b-df13-4f86-a2ec-676c601ff25a",
+		"unreleased": true
+	},
+	{
+		"title": "Een antwoord op een brief of e-mail met een verzoek om informatie over een toekomstige studie of een onderzoeksprogramma (OPL, WE).",
+		"id": "c075ead6-54cc-47a6-b2f7-93c9ecd3ce99",
+		"unreleased": true
+	},
+	{
+		"title": "De bevestiging van een onderwijsinstantie over het toekennen van studiefinanciering (OPL).",
+		"id": "cf1ae937-757b-4c14-9ec5-1aac04e284ba",
+		"unreleased": true
+	},
+	{
+		"title": "Een proces-verbaal van een bekeuring wegens te hard rijden (PU).",
+		"id": "fcdbe7e8-dd60-413c-b6f1-532f7f88602c",
+		"unreleased": true
+	},
+	{
+		"title": "Een recensie in een wetenschappelijk tijdschrift (OPL, DL).",
+		"id": "5a52cd71-61d7-4598-9c93-ff07f7956c64",
+		"unreleased": true
+	},
+	{
+		"title": "Een brief van een buitenlandse notaris over een erfenis (DL).",
+		"id": "266786f0-09dc-4990-8811-daa4c99d3dd0",
+		"unreleased": true
+	},
+	{
+		"title": "Een dagvaarding (DL).",
+		"id": "db541519-c40f-4e2b-8f8d-99952ff068a9",
+		"unreleased": true
+	},
+	{
+		"title": "Een roman in briefvorm (DL, OPL).",
+		"id": "2e53b2ab-44a4-4520-9c08-148505a92f27",
+		"unreleased": true
+	},
+	{
+		"title": "Een toelichting op de toelichtingscriteria en aanmeldingsprocedures voor studie in het buitenland (OPL).",
+		"id": "3eab023d-705e-4822-9f0f-ecd03ea3ba6d",
+		"unreleased": true
+	},
+	{
+		"title": "Ingezonden reacties op online artikelen in kwaliteitskranten of vaktijdschriften met maatschappelijke relevantie (DL, OPL).",
+		"id": "e4dc4acf-3f74-40bd-bb9b-a1cf81f84e32",
+		"unreleased": true
+	},
+	{
+		"title": "Programma, tijdstip en prijs van een evenement (PU).",
+		"id": "eabb8938-394e-4986-82f1-ed1fbb116844",
+		"unreleased": true
+	},
+	{
+		"title": "Plaats, data en toegangstijden bij een tentoonstelling of bezienswaardigheid (DL).",
+		"id": "577c4670-c852-4b50-b721-85db0dd1710d",
+		"unreleased": true
+	},
+	{
+		"title": "Plaats en tijdstip van een evenement op de camping (DL).",
+		"id": "e4798324-da10-4744-9770-be0b44e6636d",
+		"unreleased": true
+	},
+	{
+		"title": "Een poster met de beschrijving van een verdwaald huisdier (DL).",
+		"id": "91e82d2e-b9a0-411f-b316-6128ae54df60",
+		"unreleased": true
+	},
+	{
+		"title": "De plattegrond van een winkelcentrum (PU).",
+		"id": "e3456db9-4ea1-487e-8e30-c180d1dec596",
+		"unreleased": true
+	},
+	{
+		"title": "Vertrektijden op het vliegveld (PU).",
+		"id": "5dc7e8b8-7069-4396-87c8-7b4d6fa3bf6c",
+		"unreleased": true
+	},
+	{
+		"title": "Eenvoudige gerechten op een menukaart (DL).",
+		"id": "74fd1d13-524e-4bc1-8015-ed5267ee81a0",
+		"unreleased": true
+	},
+	{
+		"title": "Het bestelnummer of de prijs van een bekend artikel in een catalogus (DL, WE).",
+		"id": "2c125fe4-eb17-46b1-9f29-fcba6444d839",
+		"unreleased": true
+	},
+	{
+		"title": "Afdelingen van een warenhuis op een informatiebord (DL).",
+		"id": "6b94c2b6-31a9-4f17-a0a2-48918a91e5e5",
+		"unreleased": true
+	},
+	{
+		"title": "Plaats- en straatnamen in een dienstregeling van het openbaar vervoer (DL).",
+		"id": "78f847e7-55d1-48a8-b3a3-9e963bc535a3",
+		"unreleased": true
+	},
+	{
+		"title": "Een aanbieding in een folder van een supermarkt (DL).",
+		"id": "175c423e-f032-46e5-b49f-3141e706d1d7",
+		"unreleased": true
+	},
+	{
+		"title": "Een artikel op een kassabon om de prijs te controleren (DL).",
+		"id": "84f2cfd4-c5a4-4b61-abb3-bb606bf0e134",
+		"unreleased": true
+	},
+	{
+		"title": "De openingstijden van een winkel of instelling in een overzicht (DL).",
+		"id": "2cf731c2-427c-44d7-8bf8-7a70f4a3ec5d",
+		"unreleased": true
+	},
+	{
+		"title": "Vertrektijden in een reisschema (DL).",
+		"id": "b02ccc75-7919-4694-b8b1-565d41d54669",
+		"unreleased": true
+	},
+	{
+		"title": "Het telefoonnummer van een dokter in een hotelgids of campinginformatie (DL).",
+		"id": "d343b4dd-fa17-4b49-9315-ae1d44830ef6",
+		"unreleased": true
+	},
+	{
+		"title": "In een toeristische folder een activiteit of bezienswaardigheid uitzoeken voor een dagje uit (DL).",
+		"id": "5f4ac6af-aab7-46b9-a6eb-a5854769679f",
+		"unreleased": true
+	},
+	{
+		"title": "Op een garantiebewijs bij een apparaat opzoeken hoe lang de garantietermijn is (DL).",
+		"id": "dedda0f5-c752-4409-b024-a9a4eeecbdda",
+		"unreleased": true
+	},
+	{
+		"title": "In het overzicht van huisregels van een hostel opzoeken hoe laat het stil moet zijn (OPL, WE).",
+		"id": "dbcb8d93-51e8-4c61-9b32-94df164a30b5",
+		"unreleased": true
+	},
+	{
+		"title": "Online voorbeelden van het gebruik van een woord of uitdrukking opzoeken (OPL).",
+		"id": "1a2fc4e7-72b7-4feb-8aec-152932d1e95b",
+		"unreleased": true
+	},
+	{
+		"title": "De goede betekenis van een woord opzoeken in een eenvoudig woordenboek (OPL).",
+		"id": "6ee3c3c5-1313-4917-88ab-1f76d10c3c09",
+		"unreleased": true
+	},
+	{
+		"title": "Voor een voorstelling, evenement, excursie (DL).",
+		"id": "466d56dc-c672-4bb6-8ca6-002c64e73128",
+		"unreleased": true
+	},
+	{
+		"title": "Voor (tweedehands) sportartikelen, kleding, electronica, meubels, keukenspullen (DL).",
+		"id": "a133d9d4-bae3-4d21-a449-090739f576ba",
+		"unreleased": true
+	},
+	{
+		"title": "Personeelsadvertenties voor een (vakantie)baan of stageplek (OPL, WE).",
+		"id": "9e800ef2-a906-481c-ac98-a0b8036eb9a5",
+		"unreleased": true
+	},
+	{
+		"title": "Via een zoekmachine zoals Google een duikschool of scooterverhuurbedrijf (DL).",
+		"id": "00c26ce4-a34d-4b4b-bce1-4e51538e9e33",
+		"unreleased": true
+	},
+	{
+		"title": "Een taalcursus in een brochure of op een website (OPL).",
+		"id": "0e2b80e5-318b-4e4e-843e-7ce969f21b93",
+		"unreleased": true
+	},
+	{
+		"title": "Gerechten op een eenvoudige menukaart (DL).",
+		"id": "052e8a78-2549-4f79-be48-ae5e840584e5",
+		"unreleased": true
+	},
+	{
+		"title": "De benodigde bus-, tram-, metro- of treinverbinding in het busboekje, een (electronisch) informatiebord of op een app (DL).",
+		"id": "21cde22b-4a1b-4b6b-93b9-2be940e72722",
+		"unreleased": true
+	},
+	{
+		"title": "Een programma in een tv-gids of een film in een (online) weekagenda of een download-programma (DL, PU).",
+		"id": "172bb940-9ece-412d-8082-3e4da266b531",
+		"unreleased": true
+	},
+	{
+		"title": "Opdrachtbonnen of bestelformulieren in verband met een bestelling (WE).",
+		"id": "f7975687-fcae-44c8-bb38-5b12843ba118",
+		"unreleased": true
+	},
+	{
+		"title": "Aanwijzingen op een strand al: zwemmen toegestaan als de groene vlag gehesen is (PU).",
+		"id": "e2325368-a04a-45b3-92a6-12d23b92b87c",
+		"unreleased": true
+	},
+	{
+		"title": "Routeaanwijzingen bij een verkeersomleiding (PU).",
+		"id": "371432b5-14a0-42c3-8fba-527172bea38b",
+		"unreleased": true
+	},
+	{
+		"title": "Informatieborden op de weg of snelweg (PU).",
+		"id": "6dcf2b4c-6692-49f4-abde-77adcfe0003e",
+		"unreleased": true
+	},
+	{
+		"title": "Informatieborden in een VVV-kantoor, bank, museum, toeristische attracties (PU).",
+		"id": "486008b7-c114-47e9-968f-da9527ebb1ef",
+		"unreleased": true
+	},
+	{
+		"title": "Informatieborden op een station of luchthaven (PU).",
+		"id": "0e513afd-43eb-4db3-9b6e-e24365543bc2",
+		"unreleased": true
+	},
+	{
+		"title": "Waarschuwingsborden op een bouwplaats als: niet betreden, melden bij de uitvoerder (PU, WE).",
+		"id": "99223dcd-7bb7-48b2-9d23-4e919a92be6e",
+		"unreleased": true
+	},
+	{
+		"title": "Een folder over de voorzieningen van een camping of een hotel (DL).",
+		"id": "be415708-8f2a-41b3-b064-20c3357ddcea",
+		"unreleased": true
+	},
+	{
+		"title": "Een brochure van een pretpark (DL).",
+		"id": "e2dbe0d8-e306-4943-9bb0-d3f6e66f6246",
+		"unreleased": true
+	},
+	{
+		"title": "Een informatiefolder over een reis of studie in het buitenland (DL, OPL).",
+		"id": "af7455e7-196f-4b2d-a036-ae9a35add72d",
+		"unreleased": true
+	},
+	{
+		"title": "Een huurcontract voor een kamer in een studentenflat (DL).",
+		"id": "6ada7482-2f65-4438-9367-fc53e374001a",
+		"unreleased": true
+	},
+	{
+		"title": "Een overzicht van regels voor een tijdelijke werkvergunning (WE).",
+		"id": "1f8d5bc6-5b67-4d71-81fd-7a57bed1c4f9",
+		"unreleased": true
+	},
+	{
+		"title": "Voorwaarden bij het huren van een scooter, bromfiets, auto (PU).",
+		"id": "8d3207e8-5866-433d-9114-60bdd6269ceb",
+		"unreleased": true
+	},
+	{
+		"title": "Een toelichting bij een boete (PU).",
+		"id": "a6b3fe85-c552-430c-8b62-edac519fa608",
+		"unreleased": true
+	},
+	{
+		"title": "Een overzicht van arbeidsvoorwaarden van een (stage)bedrijf als: vakantie, opzegtermijn, onkostenvergoeding (WE, OPL).",
+		"id": "d24b0a4d-9a75-4b88-b979-6819351e118b",
+		"unreleased": true
+	},
+	{
+		"title": "Standaardoffertes (WE).",
+		"id": "3f56928d-df79-42e9-92b2-976dc28be165",
+		"unreleased": true
+	},
+	{
+		"title": "In een aantal websites informatie zoeken voor een werkstuk (OPL).",
+		"id": "03aea529-cd3d-4190-a732-968aa907c2ce",
+		"unreleased": true
+	},
+	{
+		"title": "In een tijdschrift informatie zoeken over een nieuw computerspel, over een gezonde leefstijl voor sporters, relaties (DL).",
+		"id": "cada4c21-e512-4b9d-8f0b-905bda42a4ab",
+		"unreleased": true
+	},
+	{
+		"title": "Aan de hand van websites van bedrijven een stageplek of baan zoeken (OPL, WE).",
+		"id": "7915d54c-5658-4fcc-b4e4-e09a39c86a60",
+		"unreleased": true
+	},
+	{
+		"title": "In een regionale krant recensies zoeken over culturele activiteiten (DL).",
+		"id": "6e6befed-72c9-4934-bff0-9aa64c1d0c34",
+		"unreleased": true
+	},
+	{
+		"title": "Fraudebepalingen in een examenreglement (OPL).",
+		"id": "acb7a7d9-9de7-4187-89be-3b7ac9baf199",
+		"unreleased": true
+	},
+	{
+		"title": "Bekostigingsvoorwaarden in een beschrijving van een uitwisselingsprogramma in het buitenland (OPL).",
+		"id": "740ee0d9-38d3-4ddc-853c-4d0715a0fdd1",
+		"unreleased": true
+	},
+	{
+		"title": "De juiste aanwijzing in een helpprogramma bij een computerprobleem (XX).",
+		"id": "705d8a6e-b190-4fe7-bf7b-e456fc11104f",
+		"unreleased": true
+	},
+	{
+		"title": "Marktinformatie over een bepaald product (OPL, WE).",
+		"id": "b21ef640-437a-4e2e-a23d-bfbfe5fb0a63",
+		"unreleased": true
+	},
+	{
+		"title": "Kranten- of tijdschriftartikelen (DL, OPL).",
+		"id": "d5ac6cb6-87b3-4016-9719-514be79715ae",
+		"unreleased": true
+	},
+	{
+		"title": "Blogs (DL).",
+		"id": "bc254b3b-8b68-48d0-8702-00e8a266e369",
+		"unreleased": true
+	},
+	{
+		"title": "Buitenlandse Wikipedia-lemma's (OPL, WE, DL).",
+		"id": "81315041-54da-4c02-b455-e0f976923ec0",
+		"unreleased": true
+	},
+	{
+		"title": "Studieteksten (OPL).",
+		"id": "6d012f8f-e682-463c-a6ea-15e0b1a9b704",
+		"unreleased": true
+	},
+	{
+		"title": "Artikelen in een krant of informatie op internet voor het maken van een werkstuk (OPL).",
+		"id": "9c92be39-da37-4f4a-8a94-e916d6509837",
+		"unreleased": true
+	},
+	{
+		"title": "Een lijst met publicaties op eigen vak- of interessegebied, opgeleverd door een zoekmachine (DL, OPL, WE).",
+		"id": "15e186ab-6bb2-4aa9-8a26-604757716745",
+		"unreleased": true
+	},
+	{
+		"title": "Berichten in een internetnieuwsgroep op eigen vak- of interessegebied (DL, OPL, WE).",
+		"id": "232dbb93-01b4-45d6-9989-7489e33cd92e",
+		"unreleased": true
+	},
+	{
+		"title": "Passages in een studieboek bij het voorbereiden van een toets of profielwerkstuk (OPL).",
+		"id": "6bf41c92-f1c7-4844-bba7-ea2b721c5dd0",
+		"unreleased": true
+	},
+	{
+		"title": "Onderzoeksverslagen over een bestudeerd onderwerp (OPL, WE).",
+		"id": "5179f15f-8d6a-49c9-8036-c7d6996a7b53",
+		"unreleased": true
+	},
+	{
+		"title": "Artikelen over onderwerpen van algemeen belang in een landelijke kwaliteitskrant of opinieblad (DL, OPL, WE).",
+		"id": "25d04b97-7bb5-4e79-99e3-5462cc32bf7d",
+		"unreleased": true
+	},
+	{
+		"title": "Het aanbod van woningen, met veel afkortingen en specifieke begrippen (DL).",
+		"id": "4b18f7c3-7773-4c69-ab9e-bedfc5bdbb54",
+		"unreleased": true
+	},
+	{
+		"title": "Vacatures voor meer complexe functies op het eigen vakgebied (WE).",
+		"id": "c754bae8-8f8a-46fb-8ef3-0eb441931aef",
+		"unreleased": true
+	},
+	{
+		"title": "Een eenvoudig stripverhaal in een jongerentijdschrift (DL).",
+		"id": "f59887ef-08e8-4772-8d32-3adb5ca16207",
+		"unreleased": true
+	},
+	{
+		"title": "Een zeer eenvoudige beschrijving van een (taal)cursus in een folder (OPL).",
+		"id": "1175cd54-6757-4be0-90bd-e67cc13d087c",
+		"unreleased": true
+	},
+	{
+		"title": "Een kort geïllustreerd weerbericht (DL).",
+		"id": "11952988-9ed4-4cbb-9bdf-81bed6aaed6e",
+		"unreleased": true
+	},
+	{
+		"title": "Een nieuwssite voor jongeren (DL, OPL).",
+		"id": "27f4b6c3-9247-4264-a395-6a36bdf7a68c",
+		"unreleased": true
+	},
+	{
+		"title": "De woorden op de menubalk (inhoud) van een online jeugdtijdschrift (DL).",
+		"id": "89ee25fe-69d2-4146-85c7-853ae0e8df8b",
+		"unreleased": true
+	},
+	{
+		"title": "Bij een fotobijschrift in een populair tijdschrift de leeftijd, woonplaats en het aantal kinderen van de geportretteerde ster (DL).",
+		"id": "938dfe2f-26eb-41bc-8336-43d2cc094088",
+		"unreleased": true
+	},
+	{
+		"title": "Een beschrijving van een camping of pretpark (DL).",
+		"id": "f6b23e21-6419-4c1b-9748-ae71fe82b415",
+		"unreleased": true
+	},
+	{
+		"title": "Een eenvoudige biografie van een artiest of filmacteur (DL).",
+		"id": "2528d576-c4d5-4781-b3ea-13ce18463243",
+		"unreleased": true
+	},
+	{
+		"title": "Persoonlijke gegevens van personen op een sociaal netwerk (DL).",
+		"id": "986a12c1-8056-49c2-afc3-d8b4a01feda6",
+		"unreleased": true
+	},
+	{
+		"title": "De beschrijvingen van vakantiewoningen in verschillende toeristische gebieden (DL).",
+		"id": "e3c6c063-6b72-4af0-9a6f-4c5e267fb33d",
+		"unreleased": true
+	},
+	{
+		"title": "Een persoonlijk profiel op sociale media, bijvoorbeeld Facebook (DL, OPL).",
+		"id": "c254c1af-4924-4d24-a98c-50dfb4d16f21",
+		"unreleased": true
+	},
+	{
+		"title": "Een programma voor een excursie of zomercursus (DL, WE, OPL).",
+		"id": "99e7fd32-5578-4239-919c-31232f5a8e0d",
+		"unreleased": true
+	},
+	{
+		"title": "Een kort verslag van een bijeenkomst of gebeurtenis (XX).",
+		"id": "aa27f6fb-0566-42f4-ba54-3372a7c54755",
+		"unreleased": true
+	},
+	{
+		"title": "Over een hobby of vrijetijdsbesteding (DL).",
+		"id": "436d1553-fd98-4b67-bec2-456bbedb41d3",
+		"unreleased": true
+	},
+	{
+		"title": "Over mode en lichaamsverzorging (DL).",
+		"id": "0119e538-5b17-4346-9fad-6b916911c563",
+		"unreleased": true
+	},
+	{
+		"title": "Over (huis)dieren (DL).",
+		"id": "3a45cb6f-8469-4bce-8d7f-3227270348d5",
+		"unreleased": true
+	},
+	{
+		"title": "Een interview met leden van een bekende band in een jongerentijdschrift (DL).",
+		"id": "5e1eda78-c695-4d4e-ade1-d1c06a235c3b",
+		"unreleased": true
+	},
+	{
+		"title": "Een aan het taalniveau van de leerder aangepast kort verhaal ('graded reader') (OPL).",
+		"id": "f1494a03-56fd-4593-9051-3838007611ab",
+		"unreleased": true
+	},
+	{
+		"title": "Korte artikeltjes over actuele onderwerpen, zoals sport, dorpsfeesten, politieberichten, in een plaatselijke krant (DL).",
+		"id": "fd19de6d-6a17-4073-904c-2556217349b5",
+		"unreleased": true
+	},
+	{
+		"title": "Beknopte teksten op dia's van een PowerPointpresentatie over een vertrouwd onderwerp, zoals een spreekbeurt over een huisdier (OPL).",
+		"id": "07c6b295-5743-4707-8e8b-a255de3daebd",
+		"unreleased": true
+	},
+	{
+		"title": "Nieuwsberichten van online kinderzenders waarbij tekst en audio tegelijk aangeboden worden (DL).",
+		"id": "4b80aecd-4362-4251-8e8b-3a1b77942e71",
+		"unreleased": true
+	},
+	{
+		"title": "Een artikel in een populaire en/of regionale krant over actualiteit, hobby of sport (DL).",
+		"id": "8db93a28-fdc8-4459-ab8f-6fe41f275532",
+		"unreleased": true
+	},
+	{
+		"title": "Een artikel in een muziekblad over de opkomst van een nieuwe popgroep (DL).",
+		"id": "1bd6dadb-6f89-475e-b254-f8bcca32a387",
+		"unreleased": true
+	},
+	{
+		"title": "Artikelen over onderwerpen op het eigen interesseterrein in populairwetenschappelijke tijdschriften voor de jeugd (DL, OPL).",
+		"id": "3c8723a5-2391-45b3-bdee-974827a5c8ba",
+		"unreleased": true
+	},
+	{
+		"title": "Een artikel in een jongerentijdschrift over veilig vrijen (DL, OPL).",
+		"id": "ed205914-8601-4f6d-9675-f092ef0cb988",
+		"unreleased": true
+	},
+	{
+		"title": "Websites over reizen of studie in het buitenland (DL, OPL).",
+		"id": "1eb50595-2fc5-4a8a-84f7-789d90f65d5f",
+		"unreleased": true
+	},
+	{
+		"title": "Het 'wie-wat-waar' in krantenartikelen over een overval, een ongeluk, een rel (DL).",
+		"id": "83fdd003-a6bd-4d8f-9bf6-b3a126f0753d",
+		"unreleased": true
+	},
+	{
+		"title": "Nieuws op teletekst (DL).",
+		"id": "c62ea0ff-0ddd-4c44-8ffc-06dc26f0208b",
+		"unreleased": true
+	},
+	{
+		"title": "Informatie over producten, materialen apparaten uit technische rapporten op het eigen vakterrein (OPL, WE).",
+		"id": "303424fb-7d14-4f79-8962-cd86f8e1f603",
+		"unreleased": true
+	},
+	{
+		"title": "Biografische informatie over een kunstenaar, schrijver, sportman/vrouw in een tijdschrift of op een website (DL, OPL).",
+		"id": "7ead643a-e991-45cd-8f1d-cb304369525c",
+		"unreleased": true
+	},
+	{
+		"title": "Een verslag van een werkbespreking of projectgroepvergadering (OPL, WE).",
+		"id": "1cebdbe2-fc1a-48c0-a6b1-60f1bfd54fee",
+		"unreleased": true
+	},
+	{
+		"title": "Eenvoudige voorlichtingsmateriaal van overheden of onderwijsinstellingen (PU, OPL).",
+		"id": "11bbdd2f-13cc-4b13-9b19-e0b164306090",
+		"unreleased": true
+	},
+	{
+		"title": "Een verklarende tekst bij tabellen, grafieken, schema's (OPL, WE).",
+		"id": "0bdd57a4-4c8b-4b92-b9b7-b3ca41d61478",
+		"unreleased": true
+	},
+	{
+		"title": "Achtergrondinformatie uitgereikt bij een presentatie of op een vakbeurs (WE).",
+		"id": "54a3a018-4f5e-4947-a0c0-de4f00809308",
+		"unreleased": true
+	},
+	{
+		"title": "De ondertiteling van een eenvoudige film, soap of tv-programma (DL, PU).",
+		"id": "116c67f4-c61c-4ebb-9d43-38c1c63caf19",
+		"unreleased": true
+	},
+	{
+		"title": "De ondertiteling van het nieuws (DL).",
+		"id": "f45bb222-c44a-4d59-9acf-f29651552667",
+		"unreleased": true
+	},
+	{
+		"title": "Beknopte teksten op dia's van een PowerPointpresentatie over een alledaags onderwerp, zoals een vakantiebestemming (OPL).",
+		"id": "4062d7d1-e5e0-40c4-ae0d-a9820eeb467a",
+		"unreleased": true
+	},
+	{
+		"title": "De teksten van liedjes (karaoke) (DL).",
+		"id": "92fca2fe-4587-4c26-a847-c32cbf5176d5",
+		"unreleased": true
+	},
+	{
+		"title": "Artikelen over een milieuvraagstuk als input voor een profielwerkstuk (OPL).",
+		"id": "d348e4ed-a831-4b02-9164-828709fcfd81",
+		"unreleased": true
+	},
+	{
+		"title": "Een krantenartikel over het nu van strenge veiligheidsmaatregelen bij voetbalwedstrijden (OPL).",
+		"id": "6e546731-69b7-4204-8784-fb76aeadfca5",
+		"unreleased": true
+	},
+	{
+		"title": "Een recensie van een boek, film of theatervoorstelling (DL).",
+		"id": "deef063c-86bb-4b5a-9f0c-62690be81d36",
+		"unreleased": true
+	},
+	{
+		"title": "Een column in een krant of tijdschrift (DL).",
+		"id": "59f2ef73-b494-4b1f-b481-67b6513a7581",
+		"unreleased": true
+	},
+	{
+		"title": "Reacties op online artikelen over maatschappelijk relevane thema's (DL).",
+		"id": "eebe2a40-dbd6-42ac-92fc-cdc5b5f08933",
+		"unreleased": true
+	},
+	{
+		"title": "Reacties van mensen op een foto, artikel of video op sociale media met betrekking tot sociale en actuele vraagstukken (DL).",
+		"id": "0a770473-2abe-4355-bf61-6eb9bc1cedb2",
+		"unreleased": true
+	},
+	{
+		"title": "Een stelling op een krantensite met de diverse reacties (DL).",
+		"id": "f48e8571-5079-4c6b-82bb-8abbc1a54930",
+		"unreleased": true
+	},
+	{
+		"title": "Een opiniërend artikel over de arbeidsmarktrelevantie van een toekomstige studie (OPL, WE).",
+		"id": "597a4ca7-1739-4c1c-91fd-2053f8b1b4b3",
+		"unreleased": true
+	},
+	{
+		"title": "Materiaal voor een eigen onderzoeksproject (OPL).",
+		"id": "687336f6-ac20-454e-92d1-b3316174f54f",
+		"unreleased": true
+	},
+	{
+		"title": "Materiaal voor het profielwerkstuk of het Honoursprogramma van de school (OPL).",
+		"id": "d6401815-3fc0-4d45-a7a3-83c3e251e577",
+		"unreleased": true
+	},
+	{
+		"title": "Verslag van een trainersoverleg in een sportcomplex (OPL, WE).",
+		"id": "5ac27c99-3693-4475-a3af-7c5dc6898ccb",
+		"unreleased": true
+	},
+	{
+		"title": "Verslagen van een afdelingsoverleg of de ondernemingsraad (WE).",
+		"id": "8ceee6d0-7327-4ba2-b820-162efc799072",
+		"unreleased": true
+	},
+	{
+		"title": "Relevante informatie via Twitter volgen (XX).",
+		"id": "d3d60235-4e35-4ee0-b0cb-bf6d1e115502",
+		"unreleased": true
+	},
+	{
+		"title": "De conclusie van een onderzoek over de consequenties van de aanleg van een snelweg door een natuurgebied (PU, OPL).",
+		"id": "433ca510-fb02-44c9-b77f-f742bb3f9256",
+		"unreleased": true
+	},
+	{
+		"title": "Het advies van een extern bureau over het personeelsbeleid van een bedrijf of over de onvrede van de buurt door geluidsoverlast of verkeershinder (PU, OPL).",
+		"id": "740d2bae-0b01-407d-be92-56aceace27a4",
+		"unreleased": true
+	},
+	{
+		"title": "Een studieboek op een nieuw vakterrein (OPL, WE).",
+		"id": "23e2ed19-710b-4805-b4e7-f7a6c30628c2",
+		"unreleased": true
+	},
+	{
+		"title": "Historische informatie over een stad of bouwwerk (DL, OPL).",
+		"id": "4f527343-a748-47d2-99ef-105d89a454cb",
+		"unreleased": true
+	},
+	{
+		"title": "Populair wetenschappelijke artikelen over een maatschappelijk relevant probleem (DL).",
+		"id": "63edbb27-328e-4bf5-a732-88e195aa835e",
+		"unreleased": true
+	},
+	{
+		"title": "Vak- en wetenschappelijke literatuur op het eigen vakterrein (OPL, WE).",
+		"id": "fbbecd60-6704-4e80-b757-e85baf74b78c",
+		"unreleased": true
+	},
+	{
+		"title": "Vakliteratuur buiten het eigen vak- of interessegebied (DL, OPL, WE).",
+		"id": "2e246ec0-6063-47fc-ba4d-cfc1555baa97",
+		"unreleased": true
+	},
+	{
+		"title": "Artikelen in wetenschappelijke bijlagen van kranten of tijdschriften (DL).",
+		"id": "49e7f1f2-aba0-4c30-9fb2-dfcd24605193",
+		"unreleased": true
+	},
+	{
+		"title": "Kan zeer eenvoudige, korte en goed gestructureerde instructies begrijpen.",
+		"id": "33095535-9507-468b-ba19-1423c641224b",
+		"unreleased": true
+	},
+	{
+		"title": "Een zeer korte routebeschrijving als: rechtdoor en dan links (DL).",
+		"id": "769a5a53-3c1f-4886-b326-9e8c34c48910",
+		"unreleased": true
+	},
+	{
+		"title": "De bewegwijzering in een groot gebouw (PU, OPL, WE).",
+		"id": "b8870240-a5de-4702-80d2-0962366f32fb",
+		"unreleased": true
+	},
+	{
+		"title": "De vluchtroute in een hotelkamer (PU).",
+		"id": "f570ffe3-0e88-4c1f-beba-5de36442d9ce",
+		"unreleased": true
+	},
+	{
+		"title": "Eenvoudige instructies voor een activiteit in een pretpark of toeristische attractie (DL, PU).",
+		"id": "fb5e7b50-e770-4fed-9aa8-60f07fc793a2",
+		"unreleased": true
+	},
+	{
+		"title": "Opschriften op stickers van medicijnen als: 3x per dag met water innemen, tijdens de maaltijd (DE).",
+		"id": "e01af722-641a-47b2-970c-159b6a1f1f9c",
+		"unreleased": true
+	},
+	{
+		"title": "Instructies bij lesmateriaal als: vul in, kruis aan, luister naar de tekst, print deze oefening (OPL).",
+		"id": "b4dd5edd-673b-45f2-b2cc-e576f5988bfe",
+		"unreleased": true
+	},
+	{
+		"title": "De bereidingswijze op verpakkingen van voedingsmiddelen (DL).",
+		"id": "8b768a33-ac68-42fa-9db8-b4c7cfc78ada",
+		"unreleased": true
+	},
+	{
+		"title": "Een verkorte instructie voor een nieuwe mobiele telefoon (DL).",
+		"id": "307c4005-edd9-4729-8f7d-c38b8069e662",
+		"unreleased": true
+	},
+	{
+		"title": "Instructies op apparaten als een telefooncel, geldautomaat, automaat voor bus- en treinkaartjes (PU).",
+		"id": "fdaeb597-a1e6-40a5-8549-a4f0bba7e788",
+		"unreleased": true
+	},
+	{
+		"title": "De gebruiksaanwijzing op een brandblusser (PU).",
+		"id": "4cd303de-316a-4b4e-b6b0-46abae8a36ee",
+		"unreleased": true
+	},
+	{
+		"title": "Een kaart op een hotelkamer: wat te doen in geval van brand in een hotel (PU).",
+		"id": "416bf01b-1e2b-427a-81d5-8fa19a3a0996",
+		"unreleased": true
+	},
+	{
+		"title": "Instructies in een lift: wat te doen in geval van nood (PU).",
+		"id": "3ea0d028-311c-47a6-a54c-63dc6084204a",
+		"unreleased": true
+	},
+	{
+		"title": "Instructies bij het kopen van online tickets, bijvoorbeeld voor evenementen, musea, popconcerten (PU).",
+		"id": "c9f0d8f2-7916-4c84-b46a-ab4c70e98070",
+		"unreleased": true
+	},
+	{
+		"title": "Recepten voor het bakken van een taart/cake (DL).",
+		"id": "c6452fdf-84af-466d-9e2d-d07d788a482c",
+		"unreleased": true
+	},
+	{
+		"title": "Instructies in een taalmethode (OPL).",
+		"id": "cd887937-aa71-4bce-a0ef-6109db6da72a",
+		"unreleased": true
+	},
+	{
+		"title": "Veiligheidsvoorschriften in een vliegtuig (PU).",
+		"id": "e7d0e825-5d51-4239-9c5f-b6922adbbf3e",
+		"unreleased": true
+	},
+	{
+		"title": "Foutmeldingen in computer- en e-mailprogramma's (XX).",
+		"id": "6af67f99-2f85-4730-b2b5-6450e341e991",
+		"unreleased": true
+	},
+	{
+		"title": "Instructies met betrekking tot veiligheid op de werkplek (WE, OPL).",
+		"id": "3413fa5b-55c1-4b60-b1ba-dc4326b506b0",
+		"unreleased": true
+	},
+	{
+		"title": "Regels in een museum (PU).",
+		"id": "0b0f2a76-4a37-4f63-af37-fec2a9b005f5",
+		"unreleased": true
+	},
+	{
+		"title": "Voorschriften in openbare gebouwen bij toiletten of over aansprakelijkheid bij een garderobe (PU).",
+		"id": "87fe0774-22df-4110-abb1-b9f193a34028",
+		"unreleased": true
+	},
+	{
+		"title": "Een handleiding bij een mobiele telefoon (DL).",
+		"id": "83f4050f-e34c-4ad7-9c79-c1567fdb4728",
+		"unreleased": true
+	},
+	{
+		"title": "Een instructie bij een kopieerapparaat, een printer, een beamer (XX).",
+		"id": "5421b2c8-3fd5-4d7f-b929-7c4bcb43ffd1",
+		"unreleased": true
+	},
+	{
+		"title": "Een recept voor het maken van een regionaal gerecht (DL).",
+		"id": "5a22af10-11a9-4fdc-8bb7-e1696e314602",
+		"unreleased": true
+	},
+	{
+		"title": "Instructies bij een computerspelletje of een gezelschapsspel (DL).",
+		"id": "c367528a-989e-40c4-9141-dee642b68c03",
+		"unreleased": true
+	},
+	{
+		"title": "De helpfunctie in een tekstverwerkingsprogramma (XX).",
+		"id": "3a5a29f8-aab8-4fae-9836-b97a5fedf37b",
+		"unreleased": true
+	},
+	{
+		"title": "Een eenvoudig geschreven bijsluiter bij medicijnen (DL).",
+		"id": "067f2a82-2a69-436c-bb35-76336c7dc6e9",
+		"unreleased": true
+	},
+	{
+		"title": "Een handleiding voor het oplossen van een storing bij een bekend apparaat (WE).",
+		"id": "a51d6c08-02a2-4ee0-8ce8-96ee8e497bc9",
+		"unreleased": true
+	},
+	{
+		"title": "Instructies voor het invullen van een schadeformulier bij een aanrijding (PU).",
+		"id": "886d8fe3-b2d6-4973-a772-9cc3fad50e4d",
+		"unreleased": true
+	},
+	{
+		"title": "Borden met veiligheidsregels in het openbaar vervoer (PU).",
+		"id": "75b91f6a-a344-4947-8562-6b2fc2b78589",
+		"unreleased": true
+	},
+	{
+		"title": "Instructies voor het installeren van computerprogramma's en randapparatuur als een scanner of printer (DL, OPL, WE).",
+		"id": "2e93d10c-0357-457c-851d-8ef2920e48c7",
+		"unreleased": true
+	},
+	{
+		"title": "Instructies voor het maken van een eigen webpagina (DL, OPL, WE).",
+		"id": "5ebb969a-ab7c-4a08-8cf6-eff409936378",
+		"unreleased": true
+	},
+	{
+		"title": "Instructies voor het gebruik van webapplicaties ter ondersteuning van een presentatie of het online verkrijgen van feedback (OPL, WE).",
+		"id": "d029fb64-fb1f-48e1-a766-5bd63bcdd6aa",
+		"unreleased": true
+	},
+	{
+		"title": "Richtlijnen voor het aanvragen en afleggen van tentamens en examens (OPL).",
+		"id": "e84de488-9c15-4fec-a398-3d55bfa0bfdf",
+		"unreleased": true
+	},
+	{
+		"title": "Een handboek om te leren omgaan met een nieuwe machine (WE).",
+		"id": "40f36ae9-3ec6-4f29-bf76-30ff493044f2",
+		"unreleased": true
+	},
+	{
+		"title": "Over de spelregels van een nieuw, complex computerspel (DL).",
+		"id": "49d8a128-1144-424c-b470-027ee5d15ac0",
+		"unreleased": true
+	},
+	{
+		"title": "Over de uitvoering van proeven, ook in een nieuw vakgebied (OPL, WE).",
+		"id": "67f5990d-c593-4c2f-8f43-5a85e5cccdd8",
+		"unreleased": true
+	},
+	{
+		"title": "Over de verwerking van onderzoeksgegevens in een dataverwerkingsprogramma in de computer (OPL, WE).",
+		"id": "d030c935-ed9a-4f9b-bac5-6c73dbd11a05",
+		"unreleased": true
+	},
+	{
+		"title": "Over de installatie en het onderhoud van nieuwe machines (WE).",
+		"id": "fe610f89-186d-4d00-8b25-ee4ce0acb63c",
+		"unreleased": true
+	},
+	{
+		"title": "Gesprekken over persoonlijke gegevens zoals waar ze vandaan komen, wat ze doen, welke leeftijd ze hebben (DL, OPL).",
+		"id": "c68a992e-3b4b-4bd4-be2c-e5e52f9d2ca6",
+		"unreleased": true
+	},
+	{
+		"title": "In een winkel een gesprek tussen een klant en een verkoopmedewerker begrijpen (PU).",
+		"id": "2ba4b3b4-e85c-4e3a-92e8-ecc707c93d7e",
+		"unreleased": true
+	},
+	{
+		"title": "Als toehoorder bij een bijeenkomst van de leerlingenraad tijdens een uitwisseling met een partnerschool (OPL).",
+		"id": "5c24a422-80ad-4335-9982-735bd4a64604",
+		"unreleased": true
+	},
+	{
+		"title": "Als toehoorder bij een werkgroep of seminar (OPL, WE).",
+		"id": "e0542d2f-5a0e-4706-9518-8b6332b6a17c",
+		"unreleased": true
+	},
+	{
+		"title": "Een gesprek over een uitstapje tussen familieleden in een gastgezin (DL).",
+		"id": "5bc9c360-2145-44f2-bd55-fc2c006f425e",
+		"unreleased": true
+	},
+	{
+		"title": "Een gesprek over wat er die dag gedaan moet worden tussen docent en leerlingen (OPL). (ZOU IK OMDRAAIEN)",
+		"id": "c243db93-75f8-4cf7-bc18-ad7aeb036e78",
+		"unreleased": true
+	},
+	{
+		"title": "Een gesprek tijdens een uitwisseling met een buitenlandse partnerschool (OPL).",
+		"id": "5b04262f-e910-4923-bb65-14d1324dcf6b",
+		"unreleased": true
+	},
+	{
+		"title": "Een gesprek over daginvulling (DL,OPL).",
+		"id": "b2d5d763-7522-4d32-bdf2-eb4f24377cef",
+		"unreleased": true
+	},
+	{
+		"title": "Een gesprek op straat, in een winkel, café, trein, station over het weer (DL).",
+		"id": "4a3df905-2162-4cfa-b1b6-0de78e8927da",
+		"unreleased": true
+	},
+	{
+		"title": "Een discussie onder buitenlandse scholieren over het gedogen van softdrugs (OPL).",
+		"id": "0948cc56-2a30-4718-a481-f4fce38f0015",
+		"unreleased": true
+	},
+	{
+		"title": "Een discussie over een eerlijker verdeling van de werkzaamheden tijdens een stage of vakantiebaantje in het buitenland (OPL, WE).",
+		"id": "72a79a50-415d-49e5-b0f5-e36da1b31c58",
+		"unreleased": true
+	},
+	{
+		"title": "Een gesprek tussen buitenlandse leeftijdgenoten over muziek (DL).",
+		"id": "e87eed41-063b-469a-9324-e7b2282743bc",
+		"unreleased": true
+	},
+	{
+		"title": "Een gesprek tussen medereizigers in een trein of bus over onveiligheid op straat (DL).",
+		"id": "bfa10ad1-08ac-4469-b21f-2661a442655a",
+		"unreleased": true
+	},
+	{
+		"title": "Tijdens een werkoverleg een gesprek tussen collega's over uitgevoerde werkzaamheden (WE).",
+		"id": "83fba2fa-bb66-49fd-9738-562c3c805bcf",
+		"unreleased": true
+	},
+	{
+		"title": "De hoofdpunten van een beschrijving van bezienswaardigheden tijdens een excursie (PU).",
+		"id": "bd3ca725-85e2-4285-b9bd-2d5c5c626af7",
+		"unreleased": true
+	},
+	{
+		"title": "Een inleiding van de directeur tijdens een bezoek aan een buitenlandse school (OPL).",
+		"id": "836af0ea-76b0-4426-8301-f80d61b1859b",
+		"unreleased": true
+	},
+	{
+		"title": "De belangrijkste punten van een uiteenzetting door een student over een uitgevoerd project (OPL).",
+		"id": "075ba615-780f-4032-af6a-5e7094395088",
+		"unreleased": true
+	},
+	{
+		"title": "De voornaamste punten bij de beschrijving van een proef, procedure of onderzoek tijdens een gastles van een buitenlandse docent (OPL).",
+		"id": "e8bf720c-b3a5-4c5d-9db3-4cbf9f91592d",
+		"unreleased": true
+	},
+	{
+		"title": "Een beschrijving van de nieuwste versie van een apparaat uit het eigen vakgebied tijdens een presentatie op een beurs (OPL, WE).",
+		"id": "4dbef1b4-afbd-434e-bca6-bfa436c3c971",
+		"unreleased": true
+	},
+	{
+		"title": "Een praatje van een activiteitenbegeleidster in een buitenlands hotel of op een camping (DL).",
+		"id": "6c494963-bdc1-46cc-a9d6-fbdb574e2a3c",
+		"unreleased": true
+	},
+	{
+		"title": "Een gesprek tussen buitenlandse leeftijdgenoten over een nieuw computerspel (DL).",
+		"id": "000448e6-5ac9-4993-b342-910cf4bf8665",
+		"unreleased": true
+	},
+	{
+		"title": "Een gesprek tussen vrienden in een café over hun studieplannen (OPL).",
+		"id": "92f50aa0-abd3-4f10-8f0e-a3f770f5a95f",
+		"unreleased": true
+	},
+	{
+		"title": "Tijdens een buitenlandse stage een gesprek tussen collega's over een op handen zijnde reorganisatie (WE).",
+		"id": "32810531-4380-4a4f-a95c-ba2a26ded4a2",
+		"unreleased": true
+	},
+	{
+		"title": "Een discussie over een nieuwe treindienstregeling (DL).",
+		"id": "134fc59a-5084-4553-b9e5-1815f0bd6bbe",
+		"unreleased": true
+	},
+	{
+		"title": "Een gesprek waarin onvrede wordt geuit over een nieuwe schoolregel (OPL).",
+		"id": "adb88dfd-bcbd-459d-8e2a-1e47025accdb",
+		"unreleased": true
+	},
+	{
+		"title": "Een enthousiaste uitwisseling van ideeën in verband met een te plannen schoolreis (OPL).",
+		"id": "58ceeab0-a4d1-47b9-a0a2-dc191f8f202f",
+		"unreleased": true
+	},
+	{
+		"title": "Een discussie van buitenlandse scholieren voor en tegen het gedogen van softdrugs (OPL).",
+		"id": "cc60c350-cd8b-4e99-8f27-230e4c811c31",
+		"unreleased": true
+	},
+	{
+		"title": "De verschillende standpunten en posities van partijen tijdens een onderhandelingsgesprek over een bekend onderwerp (WE).",
+		"id": "a5b3b8ed-9146-4e94-b5ef-7dc35a94087a",
+		"unreleased": true
+	},
+	{
+		"title": "Een discussie van experts over het verbeteren van werkgelegenheid voor jongeren (DL, OPL).",
+		"id": "a1decd2d-0cae-459f-90b2-7dfaaaf29430",
+		"unreleased": true
+	},
+	{
+		"title": "Een gesprek over de komende verkiezingen op de radio of televisie (DL).",
+		"id": "5c6cf0e4-f753-422f-be7a-04d497d11330",
+		"unreleased": true
+	},
+	{
+		"title": "Een gesprek over strategisch beleid tijdens een bijeenkomst van de ondernemingsraad of studentenraad (OPL, WE).",
+		"id": "986d7028-1181-4390-99f2-64d46a9db5f1",
+		"unreleased": true
+	},
+	{
+		"title": "Een korte rondleiding op het vakantieadres (PU).",
+		"id": "99371723-069e-4ed0-b95d-700feb863eaa",
+		"unreleased": true
+	},
+	{
+		"title": "Een rondleiding in het koninklijk paleis (PU).",
+		"id": "b28d9822-5903-4678-a643-1e89a25ea7a0",
+		"unreleased": true
+	},
+	{
+		"title": "Een presentatie van studiegenoten over een uitwisselingsweek (OPL).",
+		"id": "9eedf0c2-323b-482c-a460-729c82ad8f71",
+		"unreleased": true
+	},
+	{
+		"title": "Een les op een uitwisselingsschool over een bekend onderwerp (OPL).",
+		"id": "558023c7-4c7f-4610-8f92-36b09ad5f26d",
+		"unreleased": true
+	},
+	{
+		"title": "Een praatje over veiligheid op de werkvloer tijdens een buitenlandse stage (OPL, WE).",
+		"id": "40f6defd-46be-4eb3-b320-0177538bfc6d",
+		"unreleased": true
+	},
+	{
+		"title": "Een uitleg van een collega over een probleem in de uitvoering van de dagelijkse werkzaamheden (WE).",
+		"id": "185ea516-82f4-433a-9e53-c8e3d40696b3",
+		"unreleased": true
+	},
+	{
+		"title": "Een college in het buitenland (OPL).",
+		"id": "c672ee14-6c1e-4c11-bfee-717addc1ff85",
+		"unreleased": true
+	},
+	{
+		"title": "Historische achtergrondinformatie in een beschrijving van bezienswaardigheden tijdens een excursie (PU).",
+		"id": "ac1d8e29-9850-4de0-b725-4f52a4ba3ae0",
+		"unreleased": true
+	},
+	{
+		"title": "De bespreking van onderzoeksresultaten tijdens een gastles van een buienlandse docent (OPL).",
+		"id": "602f0302-e008-4592-bd2c-9fce6c069d6a",
+		"unreleased": true
+	},
+	{
+		"title": "Een inleiding over het studieprogramma van een buitenlandse opleiding (OPL).",
+		"id": "fbe5ed59-8dd9-41f5-9330-d6e5409d72b0",
+		"unreleased": true
+	},
+	{
+		"title": "Een uiteenzetting op een vakbeurs waarin de eigen producten worden vergeleken met die van de concurrenten (WE).",
+		"id": "7ff91dea-85b8-4c18-87c5-2051dcc5f7a7",
+		"unreleased": true
+	},
+	{
+		"title": "Een technische demonstratie waarin informatie wordt gegeven over de werking van een nieuwe machine (WE).",
+		"id": "289482e2-5f4f-46ea-9a5a-0445dbb97f42",
+		"unreleased": true
+	},
+	{
+		"title": "Een presentatie over een vaktechnisch onderwerp tijdens een internationale conferentie (WE, OPL).",
+		"id": "e952bd73-a163-4ce1-8d1e-7494f5bdf68f",
+		"unreleased": true
+	},
+	{
+		"title": "Een rondetafelgesprek over de opvang van bootvluchtelingen (DL).",
+		"id": "0189e098-99b5-40d0-a8ed-08dc71943934",
+		"unreleased": true
+	},
+	{
+		"title": "De voordracht van een onderzoeker tijdens een congres (OPL, WE).",
+		"id": "cbd3be0d-988b-42f5-b8e9-54446b724184",
+		"unreleased": true
+	},
+	{
+		"title": "Een presentatie over ontwikkelingen op het gebied van computergebruik binnen het onderwijs (OPL).",
+		"id": "08de22c4-00e2-4940-9dce-9aaa6995475e",
+		"unreleased": true
+	},
+	{
+		"title": "Een voordracht van een buitenlandse schrijver over zijn of haar laatste boek (OPL).",
+		"id": "957c4dbe-5e92-4ecf-878e-8f725629d749",
+		"unreleased": true
+	},
+	{
+		"title": "Een betoog van een gastdocent over een abstract onderwerp buiten het eigen vakgebied (OPL).",
+		"id": "7ec43c80-e128-41b9-b57b-9e83271316a9",
+		"unreleased": true
+	},
+	{
+		"title": "Een vaktechnische presentatie waarin de voor- en nadelen van een nieuw product worden beschreven (OPL, WE).",
+		"id": "d5667540-61ff-4359-a85d-f08d60253664",
+		"unreleased": true
+	},
+	{
+		"title": "De houdingen van en de verhoudingen tussen personen, ook als die niet expliciet vermeld worden (DL).",
+		"id": "be3fa0dd-19bc-4f6d-9004-3b989eb5a13a",
+		"unreleased": true
+	},
+	{
+		"title": "De handeling(en), ook als die niet precies chronologisch zijn en/of op dezelfde plek plaatsvinden (DL).",
+		"id": "981df76e-3866-4a48-a146-5d36e0ba4a0e",
+		"unreleased": true
+	},
+	{
+		"title": "Op een protestbijeenkomst een debat over de beperking op het bezit van kernwapens volgen (DL).",
+		"id": "48cc0fe1-2914-4a34-aed5-e56233ccb84f",
+		"unreleased": true
+	},
+	{
+		"title": "Op een literaire avond een dichter die uit eigen werk voorleest (DL, OPL).",
+		"id": "fc6f14d3-760d-4e27-af26-12e33dd451da",
+		"unreleased": true
+	},
+	{
+		"title": "Alle dialogen tussen acteurs die een toneelstuk uitvoeren (DL).",
+		"id": "8b56837c-19ee-4faa-9c12-dff8f38902ab",
+		"unreleased": true
+	},
+	{
+		"title": "Een cabareteske toespraak waarin iemand alle registers van dubbelzinnigheid, ironie, sarcasme enzovoort opentrekt (DL).",
+		"id": "d164563b-4ba2-4ab5-87f6-5c8d64e39b8a",
+		"unreleased": true
+	},
+	{
+		"title": "Teksten van liedjes tijdens een cultureel evenement (PU).",
+		"id": "dd5e5969-23d4-43f2-a6fe-5d88c083609a",
+		"unreleased": true
+	},
+	{
+		"title": "Uitingen als deur dicht doen, niet roken, licht uit/aan (DL).",
+		"id": "a52cf940-ec66-4255-bedb-63aa72d589cb",
+		"unreleased": true
+	},
+	{
+		"title": "Schoolregels als pet af, jas uit, boeken open/dicht (OPL).",
+		"id": "760135e8-3232-493a-8d29-087427337add",
+		"unreleased": true
+	},
+	{
+		"title": "Op welke bladzijde een oefening opgezocht moet worden (OPL).",
+		"id": "e54dcf5b-8ebb-4941-ab97-c68f7c932d70",
+		"unreleased": true
+	},
+	{
+		"title": "Uitleg over hoe je op een bepaalde plek komt zoals rechtdoor, de trap op, de eerste deur links (DL).",
+		"id": "e3925e8e-383c-4ee2-b9c2-f4505fe9661d",
+		"unreleased": true
+	},
+	{
+		"title": "Vragen of iets begrepen is, of een vraag of opdracht herhaald moet worden (DL, OPL).",
+		"id": "0dfe434b-b42a-440c-8bd3-dac2550c62e4",
+		"unreleased": true
+	},
+	{
+		"title": "In een omgeroepen bericht op een station je eigen naam herkennen (PU).",
+		"id": "fe6e42e3-22d1-4232-9e25-aa7ed130f024",
+		"unreleased": true
+	},
+	{
+		"title": "De instructies begrijpen van een talencursus op computer of video: luister eerst, zeg dan na (OPL).",
+		"id": "a804710e-b051-48f2-baf9-8001639d9c42",
+		"unreleased": true
+	},
+	{
+		"title": "Op tv en radio sportuitslagen van bekende clubs/bekende sporters begrijpen (DL).",
+		"id": "7349e2fa-acc5-476e-97de-56bfd46e34bb",
+		"unreleased": true
+	},
+	{
+		"title": "Uit een mededeling van een buitenlandse kennis over een concert opmaken om welke groep het gaat, wanneer het concert is, wat het kost (DL).",
+		"id": "019dc584-896e-467b-9771-5c5459a0c803",
+		"unreleased": true
+	},
+	{
+		"title": "In een omgeroepen bericht prijzen van producten begrijpen (DL).",
+		"id": "f58a4f2d-a3ed-45ff-9748-9d9971b6095e",
+		"unreleased": true
+	},
+	{
+		"title": "In een reportage op de radio tijden in hele uren, dagen van de week en maanden verstaan (DL).",
+		"id": "d1435e2f-9e3b-48be-a6e1-37023cba50a2",
+		"unreleased": true
+	},
+	{
+		"title": "Uitingen als pas op, dat is heet, niet doen, dat is gevaarlijk (DL).",
+		"id": "7e301080-1e4e-4783-9e4c-614c4546beed",
+		"unreleased": true
+	},
+	{
+		"title": "De vertrektijden op een station (PU).",
+		"id": "4d73b8f1-452c-4d14-a630-e3f6ae06c39f",
+		"unreleased": true
+	},
+	{
+		"title": "De aanbiedingen via een omroep in het warenhuis (PU).",
+		"id": "60a41f43-c074-49bc-b754-64840f2f58bf",
+		"unreleased": true
+	},
+	{
+		"title": "Waar en wanneer elkaar te ontmoeten voor bezoek aan een bioscoop (DL).",
+		"id": "43d5de7f-4a65-4030-9f5c-136068b91ae4",
+		"unreleased": true
+	},
+	{
+		"title": "Data voor het inleveren van (huis)werk (OPL, WE).",
+		"id": "6911a530-d06a-4cbc-9b8a-e3c11dc78bf3",
+		"unreleased": true
+	},
+	{
+		"title": "De belangrijkste veiligheidsvoorschriften bij een bezoek van buitenlandse gasten aan een bedrijf of school (OPL, WE).",
+		"id": "00e13eb2-4e0c-4366-8455-8036d50ce23a",
+		"unreleased": true
+	},
+	{
+		"title": "Waar en wanneer je kunt inschrijven voor een cursus in het buitenland (OPL).",
+		"id": "a13a9a5c-128d-47ef-aa27-c766761fe332",
+		"unreleased": true
+	},
+	{
+		"title": "De bekendmaking van een groepsindeling tijdens een uitwisseling (OPL).",
+		"id": "67f998e7-6cec-43e3-9cb8-840a56d2cec2",
+		"unreleased": true
+	},
+	{
+		"title": "Vragen bij een hotelbalie of campingreceptie (PU).",
+		"id": "561e53e3-74e0-4f1b-a50e-5dca172b245a",
+		"unreleased": true
+	},
+	{
+		"title": "Een standaardbestelling in een café of restaurant (PU).",
+		"id": "fc1f776e-2164-4424-bc0d-afd49e6a0cbf",
+		"unreleased": true
+	},
+	{
+		"title": "Alle tijden (DL, PU).",
+		"id": "1aa0da66-06e6-4fda-ad16-f8ca084c2514",
+		"unreleased": true
+	},
+	{
+		"title": "Waar je treinkaartjes kunt kopen (PU).",
+		"id": "9731342f-2129-41fa-b7c9-fc0ef3cb7c0d",
+		"unreleased": true
+	},
+	{
+		"title": "Waar een volgende activiteit op een campusterrein begint en hoe je daar komt (DL).",
+		"id": "b7516ed8-0ac7-4550-bd66-f9d6ca3ccde3",
+		"unreleased": true
+	},
+	{
+		"title": "Een korte routebeschrijving (DL, PU).",
+		"id": "3eb85a2a-999c-4e85-9a61-7842a7c89894",
+		"unreleased": true
+	},
+	{
+		"title": "Aanwijzingen van verkeerspolitie over omrijden bij een wegstremming (PU).",
+		"id": "b5152c0c-ee80-44ef-891b-6a27a0d0f998",
+		"unreleased": true
+	},
+	{
+		"title": "Instructies van een docent of leidinggevende over het uitvoeren van een oefening of opdracht (OPL, WE).",
+		"id": "c18f285f-5b7e-43ea-9b5c-af98db83628f",
+		"unreleased": true
+	},
+	{
+		"title": "Instructies van een arts over het innemen van medicijnen, het afmaken van een kuur (PU).",
+		"id": "619bfddb-625b-4de5-b171-cce6f0b8127b",
+		"unreleased": true
+	},
+	{
+		"title": "Waar de kantine is en wanneer die open is (OPL, WE).",
+		"id": "b1811e45-4776-4b1d-a6c7-908bb197b54e",
+		"unreleased": true
+	},
+	{
+		"title": "Waar bepaalde dingen liggen of waar een persoon zich bevindt in een huis of een gebouw (DL).",
+		"id": "9a542d88-e090-47b6-8bf7-3ebb0eadbd8a",
+		"unreleased": true
+	},
+	{
+		"title": "Waar je kampeerplaats of hotelkamer zich bevindt (DL).",
+		"id": "d22e9a58-5ab9-4a7f-bcb1-9bb9e0318f36",
+		"unreleased": true
+	},
+	{
+		"title": "Hoe je een fotokopie maakt (DL).",
+		"id": "bc07896e-e9b4-475a-b881-dac8ffc66aed",
+		"unreleased": true
+	},
+	{
+		"title": "Hoe de frisdrankautomaat werkt (DL)",
+		"id": "5826e709-fa47-4019-916a-ef182e882916",
+		"unreleased": true
+	},
+	{
+		"title": "Hoe een smartphone, laptop of tablet werkt (DL).",
+		"id": "f7a44175-0311-45e2-9694-a0bcd24a6437",
+		"unreleased": true
+	},
+	{
+		"title": "M.b.t. het programmeren van je magnetron of de interactieve televisie (DL).",
+		"id": "d281cef9-467d-43bf-8c76-6d604c29ef79",
+		"unreleased": true
+	},
+	{
+		"title": "M.b.t. bedieningsvoorschriften voor alledaagse apparatuur, zoals een mobiele telefoon (DL).",
+		"id": "4a65f5bc-00d0-4fc5-8054-87794f4b271b",
+		"unreleased": true
+	},
+	{
+		"title": "M.b.t. het installeren van een programma op de computer (DL, OPL, WE).",
+		"id": "bd4d0dbc-451c-4a85-8f24-107e23e12b6a",
+		"unreleased": true
+	},
+	{
+		"title": "M.b.t. het installeren van een app op je smartphone of tablet (DL, OPL, WE).",
+		"id": "e9d49660-49f6-432e-a79c-473db20d75ca",
+		"unreleased": true
+	},
+	{
+		"title": "De uitleg van een monteur over de bediening van een nieuwe machine (WE).",
+		"id": "7403444d-46d9-4a24-8b25-9aec8e651843",
+		"unreleased": true
+	},
+	{
+		"title": "De uitleg over geavanceerde functies op een fotokopieerapparaat (WE).",
+		"id": "4cc8bc89-9788-4081-a878-e11ce0b3db6d",
+		"unreleased": true
+	},
+	{
+		"title": "Over het dagprogramma voor een schoolreis (OPL).",
+		"id": "c46aafd1-fa6b-4c95-882a-1620bb077668",
+		"unreleased": true
+	},
+	{
+		"title": "M.b.t. reisinformatie die telefonisch verstrekt wordt (PU).",
+		"id": "4aca726d-4f13-4ea2-b89d-cd7334c279cb",
+		"unreleased": true
+	},
+	{
+		"title": "Over de voorbereiding op een toets, examen of werkstuk (OPL).",
+		"id": "45b52c1a-faac-47ac-935e-b2bf4a14af36",
+		"unreleased": true
+	},
+	{
+		"title": "Een telefonisch bericht waarin inlichtingen worden gegeven of een probleem wordt uitgelegd (WE, DL).",
+		"id": "1da9f807-3b47-43ac-b17a-d393085f4ebb",
+		"unreleased": true
+	},
+	{
+		"title": "Instructies van een sportinstructeur, zoals bij skiën of zeilen (PU).",
+		"id": "be00b677-4f40-46eb-be6a-fba399272984",
+		"unreleased": true
+	},
+	{
+		"title": "Wat te doen als de (frisdrank)automaat niet goed werkt, wie moet je bellen, hoe krijg je je geld terug? (PU).",
+		"id": "093c1d23-ee24-43d0-bdd0-ebedb446f067",
+		"unreleased": true
+	},
+	{
+		"title": "Een gedetailleerde routebeschrijving naar een bestemming waarvoor je een aantal keren moet overstappen (DL, PU).",
+		"id": "f1a1eb72-09f2-4611-bb45-a6fecfd1e208",
+		"unreleased": true
+	},
+	{
+		"title": "De aankondigingen op een station over hoe je moet omreizen tijdens een treinstaking (PU).",
+		"id": "a2501d32-c2f6-4858-b6fc-0e711970fc25",
+		"unreleased": true
+	},
+	{
+		"title": "De aanwijzingen van een arts over de behandeling van een kwaal of verwonding (PU).",
+		"id": "9f7e211b-0bf3-4cbb-a194-bdd0b3cc1a32",
+		"unreleased": true
+	},
+	{
+		"title": "De telefonische instructies van een helpdeskmedewerker over het oplossen van een computerstoring (PU, WE).",
+		"id": "3a648eff-59ce-43e1-b9da-2b4280143be3",
+		"unreleased": true
+	},
+	{
+		"title": "De aanwijzingen van een projectleider over de administratieve afhandeling van een internationaal project (OPL, WE).",
+		"id": "23b0dbb0-c5db-44b1-a18d-2591ff3ff0df",
+		"unreleased": true
+	},
+	{
+		"title": "Als audiotoerist in het buitenland met een speciale koptelefoon zonder moeite rondgeleid worden door een museum of toeristische attractie (PU).",
+		"id": "8f6d5489-a0f5-4886-97c9-5ee4ca886765",
+		"unreleased": true
+	},
+	{
+		"title": "Een mededeling in de trein over plotselinge en onverwachte oorzaken voor vertragingen en consequenties voor reisvervolg (PU).",
+		"id": "0b64ef6b-cfc7-42c3-9b9d-cd45da5a06eb",
+		"unreleased": true
+	},
+	{
+		"title": "Mededelingen hoe het stadion te verlaten na een voetbalwedstrijd (PU).",
+		"id": "52a5fb07-5b76-4dc1-8e06-a181d1533fa8",
+		"unreleased": true
+	},
+	{
+		"title": "De aankondiging van een brandoefening die via een slecht geluidssysteem ban bedrijf of school wordt omgeroepen (OPL).",
+		"id": "d7f00d42-f019-4312-a55d-9882e99238e4",
+		"unreleased": true
+	},
+	{
+		"title": "Onvoorspelbare mededelingen tijdens een sportwedstrijd in een stadion (PU).",
+		"id": "6ee5efd1-6a00-4900-9478-15dbb00fca03",
+		"unreleased": true
+	},
+	{
+		"title": "Verkeersinformatie over omleidingsroutes en extra files, rij- en weersomstandigheden op de autoradio (DL, PU).",
+		"id": "6507746a-7a7e-4a54-b060-a72604d06d70",
+		"unreleased": true
+	},
+	{
+		"title": "De opgenomen uitleg via een luidspreker van een boot tijdens een watertour (DL).",
+		"id": "0003b8d6-e579-4054-b070-99ba67d1665d",
+		"unreleased": true
+	},
+	{
+		"title": "De opname van een toespraak uit de jaren 40 (OPL).",
+		"id": "5c93d949-b649-4ccf-a2a6-1db75afff6d5",
+		"unreleased": true
+	},
+	{
+		"title": "De beschrijving van een nieuwe procedure voor het toedienen van medicatie aan patiënten (WE).",
+		"id": "6f91a04f-3565-4658-a109-51e7e33281ce",
+		"unreleased": true
+	},
+	{
+		"title": "De technische specificaties bij het doorbellen van een offerte voor een product of dienst (WE).",
+		"id": "23485b38-1326-48ff-90a6-6d8f7122fa48",
+		"unreleased": true
+	},
+	{
+		"title": "De uitleg van een monteur over de installatie van een nieuwe tv of computer inclusief het gebruik van digitale diensten (DL).",
+		"id": "805ca887-db2d-4322-9932-f9c938407af7",
+		"unreleased": true
+	},
+	{
+		"title": "De instructies voor een ingewikkeld nieuw proces, zoals het afstellen van een machine of het uitvoeren van een proef (WE, OPL).",
+		"id": "43f9329f-01f2-4468-992f-663b1142015b",
+		"unreleased": true
+	},
+	{
+		"title": "Iemand vertelt in een videoboodschap hoe zijn naam luidt, hoe oud hij is, wat hij in zijn vrije tijd doet en waar hij woont (DL).",
+		"id": "296f7e24-95d5-4497-815d-1473bc648cba",
+		"unreleased": true
+	},
+	{
+		"title": "Onderwerpen in een buitenlands jeugdjournaal (DL).",
+		"id": "8b06428c-e260-4f47-924a-e2a29beaf4a8",
+		"unreleased": true
+	},
+	{
+		"title": "Het weerbericht op de radio: kan ik morgen naar het strand? (DL).",
+		"id": "9a2e053c-0515-405d-a28e-e770e94afa59",
+		"unreleased": true
+	},
+	{
+		"title": "Sportuitslagen op de radio, over een bekende sport en met betrekking tot een bekende club of sporter: heeft mijn favoriet gewonnen? (DL).",
+		"id": "dd4f9dc7-bc76-4fc0-bcd9-c0b93b1d21e4",
+		"unreleased": true
+	},
+	{
+		"title": "Een bericht op de radio over een file op een autoweg: hoe moet ik omrijden? (DL).",
+		"id": "5e07d8f2-483b-4fb2-abfc-ed15ff7085d8",
+		"unreleased": true
+	},
+	{
+		"title": "Een kort en duidelijk omroepbericht op het station dat de trein X vandaag vertrekt van spoor Y (DL).",
+		"id": "60b5547d-d0e0-47cd-b223-8209439487e5",
+		"unreleased": true
+	},
+	{
+		"title": "Een bericht van een bedrijf of instelling op een antwoordapparaat over hun openingstijden (PU, WE).",
+		"id": "722a59d5-5207-4399-9bff-51c19ebec917",
+		"unreleased": true
+	},
+	{
+		"title": "Reclameberichten in winkels (\"nu in de aanbieding...\") (DL, PU).",
+		"id": "d0f094be-8687-456a-88eb-d010ffbf2885",
+		"unreleased": true
+	},
+	{
+		"title": "De onderwerpen van een nieuwsuitzending (DL).",
+		"id": "c9fb0871-2ea4-4fe3-902c-059aa7d0b62a",
+		"unreleased": true
+	},
+	{
+		"title": "Aanwijzingen van een telefonische computer om bij een bepaalde afdeling terecht te komen (PU, WE).",
+		"id": "06999f33-98e1-46d5-a635-825575e06cba",
+		"unreleased": true
+	},
+	{
+		"title": "Bericht van een buitenlandse logee op voicemail of whatsapp: ik kom een half uurtje later (DL).",
+		"id": "12c69fe6-2529-43ce-8f41-0caf4b62e344",
+		"unreleased": true
+	},
+	{
+		"title": "Het weerbericht (DL).",
+		"id": "162302bf-78ea-4871-bed9-c0716c3cb8c6",
+		"unreleased": true
+	},
+	{
+		"title": "Concertaankondigingen (PU).",
+		"id": "8911416f-42af-4908-8f51-31c03e209bd7",
+		"unreleased": true
+	},
+	{
+		"title": "Sportuitslagen (DL).",
+		"id": "f01c8a6f-2808-48ac-b1f6-40db7ad2334a",
+		"unreleased": true
+	},
+	{
+		"title": "Een eenvoudig programma over een actueel of maatschappelijk onderwerp (DL, PU).",
+		"id": "96cfd07e-d596-4644-92e2-2253b060d04f",
+		"unreleased": true
+	},
+	{
+		"title": "Verkeersinformatie, met aanwijzingen over omleidingen (PU).",
+		"id": "e87ba1e8-86b9-4264-8f56-308b16b70b64",
+		"unreleased": true
+	},
+	{
+		"title": "Een verslag van een vakantie (DL).",
+		"id": "e3792f7e-874c-4a03-a71a-f40eae03e8da",
+		"unreleased": true
+	},
+	{
+		"title": "Een informatief programma van de schooltelevisie over een historisch of actueel onderwerp (OPL).",
+		"id": "3a55b6c3-db19-4b02-819c-80c1196e82cf",
+		"unreleased": true
+	},
+	{
+		"title": "Een programma over de eigen vrije tijd (DL).",
+		"id": "5d08f220-cf5a-4588-b1b3-ef10cc8472fe",
+		"unreleased": true
+	},
+	{
+		"title": "Een reisprogramma over een land dat iemands persoonlijke interesse heeft (DL).",
+		"id": "e337201f-6933-4a55-8f10-0b2d5605b8d3",
+		"unreleased": true
+	},
+	{
+		"title": "Een documentaire over het leven van een aantal glamourvoetballers (DL).",
+		"id": "a0209ac3-827e-4613-8db1-9b56a0003e15",
+		"unreleased": true
+	},
+	{
+		"title": "Een interview met een lokale ondernemer op de radio (WE, OPL).",
+		"id": "4c24e565-9fc7-49bf-a677-f5292e9900f6",
+		"unreleased": true
+	},
+	{
+		"title": "Een podcast van een deejay over een bepaalde muziekstroming (DL).",
+		"id": "9116c799-7e6c-4250-a2f5-6a5845fb3eaa",
+		"unreleased": true
+	},
+	{
+		"title": "Een acteur over zijn nieuwe film (DL).",
+		"id": "debc2e9d-62ab-4386-bc17-37a52198d633",
+		"unreleased": true
+	},
+	{
+		"title": "Een discussieprogramma over een gevoelig/controversieel onderwerp (DL).",
+		"id": "a7275545-a6c3-48a5-b0bb-cd58eb838808",
+		"unreleased": true
+	},
+	{
+		"title": "Een kritisch/ironische documentaire oer een hamburgerketen (DL).",
+		"id": "bd44b40e-be4f-4cd9-908e-af9f13621f4f",
+		"unreleased": true
+	},
+	{
+		"title": "Een reportage over schrijnende gevallen van kinderarbeid (DL).",
+		"id": "4d99ee4d-b79a-4392-918e-53d7b59c861f",
+		"unreleased": true
+	},
+	{
+		"title": "Een debatover klassengrootte of de opwarming van de aarde (OPL, DL).",
+		"id": "8adff60d-14d3-4998-b551-694f4a815c72",
+		"unreleased": true
+	},
+	{
+		"title": "Een documentaire over de invloed van schommelende olieprijzen op economische groei (PU).",
+		"id": "dd18f734-7067-483f-b1df-6db3f6b055f7",
+		"unreleased": true
+	},
+	{
+		"title": "Een politiek debat (PU).",
+		"id": "d03915ac-5352-4572-8e57-803959c5d9e7",
+		"unreleased": true
+	},
+	{
+		"title": "Nieuwsberichten over bekende personen en plaatsen (DL).",
+		"id": "b06b9fbf-f508-4c9d-9e0e-426da82aca23",
+		"unreleased": true
+	},
+	{
+		"title": "Sportuitzendingen (DL).",
+		"id": "99f3dd56-1d9f-4ffb-bd5e-c1b395debb02",
+		"unreleased": true
+	},
+	{
+		"title": "Nieuwsberichten over mondiale onderwerpen als klimaatverandering en terrorisme (DL).",
+		"id": "14b92d3b-f587-45c3-931a-c291cacfecb7",
+		"unreleased": true
+	},
+	{
+		"title": "Een bericht over een ramp; aardbeving, grote brand, neerstorten vliegtuig (DL).",
+		"id": "89efbeeb-cfb5-480a-ba00-e5dc495056f2",
+		"unreleased": true
+	},
+	{
+		"title": "Een bericht over het huwelijk van bekende personen (DL).",
+		"id": "be7ce271-959b-4c49-8e7c-a95f1bff6c9b",
+		"unreleased": true
+	},
+	{
+		"title": "Een item over transfers in het voetbal (DL).",
+		"id": "ba0ee599-ee1d-4cf5-8d79-b4aa574ab374",
+		"unreleased": true
+	},
+	{
+		"title": "Een verslag van een terroristische aanslag (DL).",
+		"id": "d719e735-691d-48f5-ab6b-c375443e26a2",
+		"unreleased": true
+	},
+	{
+		"title": "Een soap (DL).",
+		"id": "940fa686-288d-4ce1-b33d-a1fe38316983",
+		"unreleased": true
+	},
+	{
+		"title": "Een avonturenfilm met een eenvoudige verhaallijn en een duidelijk onderscheid tussen de 'goeden' en de 'kwaden' (DL).",
+		"id": "97a520b6-c30a-4954-91a5-7c2a6e7ffac9",
+		"unreleased": true
+	},
+	{
+		"title": "Een jeugdfilm met een eenvoudige verhaallijn (DL, OPL).",
+		"id": "8c33a425-703a-41d4-b3c8-34a824d0636e",
+		"unreleased": true
+	},
+	{
+		"title": "Reclamefilmpjes met een duidelijk verhaal erin (PU).",
+		"id": "47b24f8b-27e1-428b-8942-6b445fa275e0",
+		"unreleased": true
+	},
+	{
+		"title": "Korte documentaires over de natuur, vrije tijd (DL).",
+		"id": "5f49a20b-31b0-4ff3-94a3-c4526a7ee694",
+		"unreleased": true
+	},
+	{
+		"title": "Een verhaal over het leven van een bekende persoonlijkheid, zoals een sportheld, popster, acteur (PU).",
+		"id": "d2e81caf-fb66-4946-9c0b-4d27bc4af323",
+		"unreleased": true
+	},
+	{
+		"title": "Een interview met een bekende persoonlijkheid uit de wereld van sport, film of tv (DL, PU).",
+		"id": "fda114ba-f1d4-48fb-bfc9-149ee8ae8111",
+		"unreleased": true
+	},
+	{
+		"title": "Een programma in de vreemde taal over een gebeurtenis of een stad of streek in het land waar de doeltaal wordt gesproken (PU).",
+		"id": "3e6ed190-c434-48e3-9e12-a97c8bcd5f5a",
+		"unreleased": true
+	},
+	{
+		"title": "Een video waarin een demonstratie wordt gegeven van klantvriendelijke gedrag (WE).",
+		"id": "dcdec748-0015-4292-9c8b-7334b57076fc",
+		"unreleased": true
+	},
+	{
+		"title": "Een documentaire of actualiteitenrubriek (DL, PU).",
+		"id": "969eb0ca-e5a5-4873-b8d1-46251332535f",
+		"unreleased": true
+	},
+	{
+		"title": "Een discussieprogramma (DL, OPL).",
+		"id": "a06e522a-bf78-462a-b228-b959da4d7a9e",
+		"unreleased": true
+	},
+	{
+		"title": "Een talkshow (DL).",
+		"id": "15fe49cd-0260-4252-bc34-26e1cbc3a256",
+		"unreleased": true
+	},
+	{
+		"title": "Informatieve programma's over populairwetenschappelijke onderwerpen (DL, OPL).",
+		"id": "5667bd1c-328d-43d3-8e52-f5a8ea9af90e",
+		"unreleased": true
+	},
+	{
+		"title": "Een documentaire over Wildlife (DL).",
+		"id": "fafad5fd-8125-46bc-adae-9057ebdd8b1e",
+		"unreleased": true
+	},
+	{
+		"title": "Een actualiteitenrubriek met daarin een live uitgezonden vraaggesprek (DL).",
+		"id": "d5cd8fa3-5bab-4810-9553-a219355c9013",
+		"unreleased": true
+	},
+	{
+		"title": "Een modern toneelstuk over een vertrouwd thema (DL).",
+		"id": "78920736-b534-417f-884a-410d1c433bfc",
+		"unreleased": true
+	},
+	{
+		"title": "Films zoals thrillers, romantische komedies, historische drama's enzovoort (DL).",
+		"id": "3d508def-9225-4fda-9111-fcdd3705fd9c",
+		"unreleased": true
+	},
+	{
+		"title": "Speelfilms met veel 'slang' (DL).",
+		"id": "6ab9bdd2-9530-46d6-8c37-dcc20c029d12",
+		"unreleased": true
+	},
+	{
+		"title": "Uitdrukkingen die behoren bij begroeting of afscheid (DL).",
+		"id": "02db21bd-dae2-4b4d-bff8-cb8fc22ac2a3",
+		"unreleased": true
+	},
+	{
+		"title": "Uitdrukkingen die behoren bij bedanken (DL).",
+		"id": "b92df3f0-b244-4f0a-a26e-c68b215e1c91",
+		"unreleased": true
+	},
+	{
+		"title": "Uitwisseling van (gespelde) adresgegevens (DL).",
+		"id": "cd9a437c-e145-401d-8b07-62e4016b6579",
+		"unreleased": true
+	},
+	{
+		"title": "Uitdrukkingen die gebruikt worden als iemand zich voorstelt (DL).",
+		"id": "f4d73e67-2579-4a8c-a8e9-823fc525dd51",
+		"unreleased": true
+	},
+	{
+		"title": "Uitdrukkingen om iemand te beschrijven (DL).",
+		"id": "3e944171-e0ba-4a50-b956-107d6ba13698",
+		"unreleased": true
+	},
+	{
+		"title": "Begrijpen wat iets kost, om welke hoeveelheden het gaat (DL).",
+		"id": "d47b1c0f-6871-4323-b98c-d870f4f3d1a9",
+		"unreleased": true
+	},
+	{
+		"title": "Uitingen als deur dicht doen, niet roken, licht uit/aan (DL).",
+		"id": "1e1995bc-bba0-4f5b-82cf-632650f75cb7",
+		"unreleased": true
+	},
+	{
+		"title": "Schoolregels als pet af, jas uit, boeken open/dicht (OPL).",
+		"id": "004c5df0-f584-453d-920a-89a4357b8403",
+		"unreleased": true
+	},
+	{
+		"title": "Op welke bladzijde een oefening opgezocht moet worden (OPL).",
+		"id": "0ee830a0-5bde-478e-9897-66a2a3718efd",
+		"unreleased": true
+	},
+	{
+		"title": "Uitleg over hoe je op een bepaalde plek komt zoals rechtdoor, de trap op, eerste deur links (DL).",
+		"id": "d7c36bb4-4c20-446f-862b-e038a57be285",
+		"unreleased": true
+	},
+	{
+		"title": "Vragen of iets begrepen is, of een vraag of opdracht herhaald moet worden (DL, OPL).",
+		"id": "4ecf661a-1073-4417-a0d9-f2fdb15c87b2",
+		"unreleased": true
+	},
+	{
+		"title": "Een uitnodiging voor een feestje, uitstapje enzovoort (DL).",
+		"id": "6f6a6eff-28bf-4dae-a018-1501127d2626",
+		"unreleased": true
+	},
+	{
+		"title": "De voorkeur of afkeer met betrekking tot sport, muziek, schoolvakken (DL).",
+		"id": "4319d286-d157-4948-8634-b1ad9af1c028",
+		"unreleased": true
+	},
+	{
+		"title": "Een voorstel om gezamenlijk iets te ondernemen (zwemmen, eten, muziekoptreden) (DL).",
+		"id": "391f9319-6c6e-4807-a2f1-938f743e85b2",
+		"unreleased": true
+	},
+	{
+		"title": "Een reactie in antwoord op een verzoek om een inlichting (DL, OPL, PU).",
+		"id": "29a0ed29-9ccb-4d55-977d-6cf722f53633",
+		"unreleased": true
+	},
+	{
+		"title": "Een compliment voor de wijze waarop jij je in de vreemde taal weet te uiten (DL, WE).",
+		"id": "d0cb432c-9cab-4ed1-b00f-7d65567f2b1f",
+		"unreleased": true
+	},
+	{
+		"title": "Een gesprek over wat iemand in het weekend heeft gedaan (DL).",
+		"id": "8cb96fb1-f79f-4482-bb99-c48e10a5c884",
+		"unreleased": true
+	},
+	{
+		"title": "Een gesprek over hoe het met iemand gaat (DL).",
+		"id": "bcfd75d4-8e1f-4697-805e-8043a3fbc705",
+		"unreleased": true
+	},
+	{
+		"title": "Een gesprek over het weer (DL).",
+		"id": "50d4626e-e8cc-471f-8a42-943431929a33",
+		"unreleased": true
+	},
+	{
+		"title": "Een gesprek over wat iemand de volgende dag/week gaat doen (DL).",
+		"id": "79a6dd3b-42a1-46a9-8ae1-d917ed555d48",
+		"unreleased": true
+	},
+	{
+		"title": "Een gesprek over eenvoudige, dagelijkse gewoontes (DL).",
+		"id": "e55907ad-303e-47fd-b3da-9e29d92ecacb",
+		"unreleased": true
+	},
+	{
+		"title": "Vragen over familie, gezinssamenstelling, huis, woonplaats, land (DL).",
+		"id": "e2d0fad5-74f4-4624-bac2-fbcc8ab5fe2d",
+		"unreleased": true
+	},
+	{
+		"title": "Een gesprek over eten en drinken (DL).",
+		"id": "6726cfd2-2fce-46e8-a93e-e10e7b14d0db",
+		"unreleased": true
+	},
+	{
+		"title": "Een gesprek over sport, kleding, vrijetijdsbesteding (DL).",
+		"id": "98976ab5-5f11-4511-b8db-1b782ba2cd7c",
+		"unreleased": true
+	},
+	{
+		"title": "Een gesprek over vrienden, school, zakgeld, bijbaantje (DL).",
+		"id": "63a51cb5-8916-4a8d-9d70-d236c80482df",
+		"unreleased": true
+	},
+	{
+		"title": "Een gesprek over uitgaan, films, muziek, media (DL).",
+		"id": "06b267ea-1296-4f3c-9b2c-2bdb710c7fdf",
+		"unreleased": true
+	},
+	{
+		"title": "Reisplannen voor de volgende vakantie (DL).",
+		"id": "4d884e03-fcc2-4471-a1cb-1382315a44eb",
+		"unreleased": true
+	},
+	{
+		"title": "Activiteiten van het afgelopen weekend (DL).",
+		"id": "acec413f-0226-48d5-a961-e01ed98a7ca7",
+		"unreleased": true
+	},
+	{
+		"title": "Hoe het gaat op het werk (DL, WE).",
+		"id": "e4259d4b-d9d0-4980-9ec6-c6846e91f5b3",
+		"unreleased": true
+	},
+	{
+		"title": "Gesprekken over koetjes en kalfjes (DL).",
+		"id": "2cbc1e21-4a89-4d37-ac98-e0408fe08f30",
+		"unreleased": true
+	},
+	{
+		"title": "Tijdens een borrel in een plaatselijk café na afloop van een conferentie (WE).",
+		"id": "4e1f688c-a14b-41a3-9a32-e722762d353a",
+		"unreleased": true
+	},
+	{
+		"title": "Tijdens een rondleiding in een druk bezocht museum (DL).",
+		"id": "35512682-91e6-42f0-b1ea-184a4ccfd01c",
+		"unreleased": true
+	},
+	{
+		"title": "Een gesprek onder uitwisselingsscholieren of -studenten in een drukke pauze (OPL).",
+		"id": "487a9972-8408-472c-b5ee-1b44d3f39381",
+		"unreleased": true
+	},
+	{
+		"title": "Een uitleg tijdens een excursie in een fabriekshal (OPL, WE).",
+		"id": "2b935b50-13b5-4f58-9e8c-6c4791ffd3af",
+		"unreleased": true
+	},
+	{
+		"title": "Een uitvoerig verslag van de open dag op een buitenlandse universiteit die een vriend heeft bezocht (OPL).",
+		"id": "09092339-77fb-40c8-aa64-aba4e42f369e",
+		"unreleased": true
+	},
+	{
+		"title": "Een grap met een ingewikkelde clou of met toespelingen (DL).",
+		"id": "2ab2de2f-363d-462a-bef6-3a5a2f901967",
+		"unreleased": true
+	},
+	{
+		"title": "Een radio-interview met een Nobelprijswinnaar (DL).",
+		"id": "8a543878-2384-490e-a0c6-d5462d21e1de",
+		"unreleased": true
+	},
+	{
+		"title": "De uitleg van een arts over een medische behandeling die hij of zij ondergaan heeft (DL).",
+		"id": "91bdf750-5ad5-4523-8abf-e6f6b9527b89",
+		"unreleased": true
+	},
+	{
+		"title": "Een situatie waarin formeel toegelicht wordt waarom iemands verzoek voor een stageplaats is afgewezen (WE).",
+		"id": "f693aa84-d1e7-47e5-83e5-12804fcdd8c2",
+		"unreleased": true
+	},
+	{
+		"title": "Een discussie naar aanleiding van Europese verkiezingen over de invloed van de media op ons kiesgedrag (OPL, DL).",
+		"id": "e3011d1f-34e8-4855-bf41-06b5bb584abd",
+		"unreleased": true
+	},
+	{
+		"title": "Een verhit gesprek naar aanleiding van een internationale studieavond over duurzame ontwikkeling en mensenrechten (OPL, WE).",
+		"id": "4bc9c9ad-2013-4480-856b-f08fab208a5a",
+		"unreleased": true
+	},
+	{
+		"title": "Een discussie ter gelegenheid van de viering van 1 mei over mensen die de dupe zijn van slechte arbeidsomstandigheden, uitbuiting en onrecht (DL, OPL, WE).",
+		"id": "e28c1da4-b01a-4fa6-9f18-626d61467bfb",
+		"unreleased": true
+	}
 ]
