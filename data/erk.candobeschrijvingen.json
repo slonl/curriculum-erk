@@ -4790,5 +4790,2557 @@
 		"title": "Kan een complexe brontekst herschrijven en daarbij de coherentie, de cohesie en de stroom van de argumentatie verbeteren en niet-relevante delen verwijderen.",
 		"id": "a9a19f7d-8494-45a1-849b-c45ec604a09c",
 		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan vertrouwde woorden herkennen als er plaatjes bij staan, zoals een menu van een fastfoodrestaurant dat geïllustreerd is met foto's, of een prentenboek met een vertrouwde woordenschat.",
+		"id": "8ac8095b-3047-4c07-8c68-445a1a7e0850",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan in zeer korte, eenvoudige teksten zinsdeel voor zinsdeel begrijpen door vertrouwde namen, woorden, en elementaire combinaties te herkennen en indien nodig te herlezen.",
+		"id": "c4a37de8-5d4d-4c16-9797-00754a1db6c6",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan korte, eenvoudige teksten met hoogfrequente woordenschat begrijpen, met inbegrip van een aantal woorden uit de gemeenschappelijke internationale woordenschat.",
+		"id": "e28dbb42-06e4-4987-861c-d9e6b8eaf23d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan korte, eenvoudige teksten begrijpen over vertrouwde zaken van concrete aard, die zijn geschreven in veelgebruikte alledaagse of werkgerelateerde taal.",
+		"id": "48aa57ff-afe0-4f95-924e-52435a0a20fb",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan met voldoende begrip eenduidige feitelijke teksten lezen over onderwerpen die betrekking hebben op zijn of haar interessegebied.",
+		"id": "aba4a3ed-dbc0-437b-8d03-24303f2fa3d4",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan in hoge mate zelfstandig lezen, past zijn of haar leesstijl en -snelheid aan verschillende teksten en doeleinden aan, en maakt selectief gebruik van toepasselijke naslagwerken. Beschikt over een grote actieve leeswoordenschat, maar kan enige moeite hebben met weinig voorkomende idiomatische uitdrukkingen.",
+		"id": "875f2727-d736-4398-8f91-c1383a76b3bd",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan een breed scala van teksten begrijpen, waaronder literaire werken, artikelen in kranten en tijdschriften en specialistische academische of professionele publicaties, mits hij of zij de tekst kan herlezen en gebruik kan maken van naslagwerken.",
+		"id": "c705d666-a3aa-4d8a-9e28-1ec3dc2da0a7",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan lange, complexe teksten op detailniveau begrijpen, ongeacht of zij betrekking hebben op zijn of haar eigen vakgebied, mits hij of zij moeilijke passages kan herlezen.",
+		"id": "a5f57db6-22c9-4080-911f-359e6694b32d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan een breed scala van lange, complexe teksten begrijpen en daarbij subtiele verschillen in stijl en impliciete en expliciete betekenissen opmerken.",
+		"id": "752a4889-ed8f-4152-be2e-0ba45033735e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan vrijwel alle vormen van geschreven taal begrijpen, met inbegrip van abstracte, structureel complexe of zeer spreektalige literaire en niet- literaire teksten.",
+		"id": "20e84aea-29a8-4ea0-9c0d-cfe48570ba06",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan uit een brief, kaart of e-mail opmaken voor wat voor gelegenheid hij of zij wordt uitgenodigd en op welke dag, tijd en locatie die plaatsvindt.",
+		"id": "ae6d2251-af9b-4acf-822f-ff7f096fcb34",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan tijden en plaatsen herkennen in zeer eenvoudige briefjes en tekstberichten van vrienden of collega's, bijvoorbeeld 'Ben om 4 uur terug' of 'In de vergaderruimte', mits er geen afkortingen zijn gebruikt.",
+		"id": "6c0a727d-1905-4cc5-b02e-1de0f6ab14de",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"653b16d3-e8bb-4ad4-a039-94974f5b96e4",
+			"076783f0-c981-47f0-b2e3-6ed96119844b",
+			"3eae0012-e07e-4329-a1d3-2fcbe88cea96",
+			"9fdd6b92-8490-4f46-9020-969c9ed66995",
+			"67b161ba-b2da-4b76-916e-cd8479ff354e"
+		],
+		"title": "Kan voorgedrukte kaarten begrijpen met standaard boodschappen.",
+		"id": "4e7d6999-4727-4ce4-9fef-56920a89e8f3",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"1ff43de2-074a-4519-8e5c-9fdc38d17d59",
+			"9fab514a-544f-4eb9-b754-d1c8854953b3",
+			"996d7bb7-22e5-4f95-ae84-0375f55cef9a",
+			"8c76cda9-cd79-47d5-bf1f-bce3aca977e0",
+			"c2abe5e2-4f79-47a5-b5a1-4fbd2d6a970e",
+			"8c9cb5f5-e80b-4b0f-9207-99737a58ea41"
+		],
+		"title": "Kan korte, eenvoudige mededelingen begrijpen, bijvoorbeeld via sociale media of op brief- of ansichtkaarten.",
+		"id": "cb3b4f2f-21ef-4ff1-9679-ce15381010f8",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"f4f2039f-b31c-4f85-a1fb-25ca10f5d6c7",
+			"c9a53be9-18ce-4922-8011-d42b0e92730e",
+			"5cf2900b-83be-4444-9142-4907026d0dc2",
+			"e4f90d37-ec4f-4003-b3b5-ecad2565053c",
+			"a4dec6c3-4d85-4659-81ee-32dab6ab9f72"
+		],
+		"title": "Kan een korte, eenvoudige (standaard)brief of e-mail begrijpen.",
+		"id": "e81a6946-dc84-4e69-9337-56a619ab2543",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan een simpele persoonlijke brief of e-mail of bericht begrijpen waarin de schrijver over vertrouwde onderwerpen schrijft (zoals vrienden of familie) of vragen over deze onderwerpen stelt.",
+		"id": "966d183f-50cc-4b65-b9bb-0fc642e69982",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"erk_voorbeeld_id": [
+			"19b23471-3d0b-4134-9d45-c6cbe7d55c0c",
+			"1f5e16c8-c610-48a7-ba3e-4832c9a78471",
+			"ea8ac336-c26d-4da6-a64c-d9a33295d79c",
+			"191cf233-f45c-42d5-a908-1fb24b008242",
+			"36438b6b-6d93-409f-9393-df5d57edbd69",
+			"32671bad-f6cc-4fbf-8d94-7f54632813da"
+		],
+		"title": "Kan elementaire soorten standaardbrieven, faxen (inlichtingen, bestellingen, bevestigingsbrieven, enzovoort) over vertrouwde onderwerpen begrijpen.",
+		"id": "89f06600-fe2b-427d-b7b3-2ea60062a8db",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"c85d62a3-0bd4-4a0c-b1d5-e137fe9bbdc4",
+			"74dc4cc9-c9a6-4669-90d2-7a88708077d9",
+			"1c52325f-b821-4e5a-a0e2-713521b5faff",
+			"65f836f8-937d-4cce-b3d4-b02f52edd648",
+			"9a1916aa-7001-4e5a-8c99-c7767f93e093",
+			"07ff8c66-25a6-4fe7-917e-83e99957b0c2",
+			"5a214186-f243-46bd-ba28-85468194b581",
+			"c8dd2048-c975-462d-8c96-1463e13db9be"
+		],
+		"title": "Kan de beschrijving van gebeurtenissen, gevoelens en wensen in persoonlijke brieven goed genoeg begrijpen om regelmatig met iemand te kunnen corresponderen.",
+		"id": "8196c8ce-cf61-4cf3-a0bb-e6ed688fbaaa",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan eenduidige persoonlijke brieven, e-mails of berichten begrijpen waarin betrekkelijk gedetailleerd verslag wordt gedaan van gebeurtenissen en ervaringen.",
+		"id": "17d24ad6-7741-4bd3-9b4d-a088f8ccb927",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"7a3e721e-7009-42ff-8eca-32a664c25e6b",
+			"8c47660b-7484-4b5a-985b-459d53c3946e",
+			"81b828b3-972c-4996-8c21-75c37722bf6e",
+			"ac428ffb-1d4f-491b-97cb-ca0be73cf363",
+			"fcef1796-ce7b-4012-bc72-d3daa9e4d19c",
+			"5be8ec6b-77e3-454c-8905-e28390291c07",
+			"aeb7d053-8c40-4412-91d9-b1e93bf282e6"
+		],
+		"title": "kan formele standaardcorrespondentie en online berichten in zijn of haar vakgebied begrijpen.",
+		"id": "cdc78249-b016-4936-8b1a-7d7a2a703c59",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan formele correspondentie over minder vertrouwde onderwerpen goed genoeg begrijpen om die aan iemand anders door te sturen.",
+		"id": "b2186256-c768-47d3-b64b-243e34325ff7",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"2d40c41b-b647-41ca-ab80-ffe4b180c676",
+			"03d08c93-7bfd-4558-890b-ee6f0917e3b3",
+			"1a337a51-0f3a-47e5-ad16-b1c22a7ddeb2",
+			"b06c5428-6b19-412f-83b1-8d86e82ac4f2",
+			"f0cdc59b-df13-4f86-a2ec-676c601ff25a",
+			"c075ead6-54cc-47a6-b2f7-93c9ecd3ce99",
+			"cf1ae937-757b-4c14-9ec5-1aac04e284ba",
+			"fcdbe7e8-dd60-413c-b6f1-532f7f88602c"
+		],
+		"title": "Kan correspondentie lezen met betrekking tot zijn of haar interessegebied en daarbij meteen de wezenlijke betekenis vatten.",
+		"id": "92d56700-66c7-4044-8646-4b0792bc6b0a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan begrijpen wat er wordt gezegd in een persoonlijke e-mail of bericht, zelfs als er enige spreektaal wordt gebruikt.",
+		"id": "a31f9ad2-16f9-4c75-9dd8-a8c97cae2c82",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"erk_voorbeeld_id": [
+			"5a52cd71-61d7-4598-9c93-ff07f7956c64",
+			"266786f0-09dc-4990-8811-daa4c99d3dd0",
+			"db541519-c40f-4e2b-8f8d-99952ff068a9",
+			"2e53b2ab-44a4-4520-9c08-148505a92f27",
+			"3eab023d-705e-4822-9f0f-ecd03ea3ba6d",
+			"e4dc4acf-3f74-40bd-bb9b-a1cf81f84e32"
+		],
+		"title": "Kan alle correspondentie begrijpen, een enkele keer met behulp van een woordenboek.",
+		"id": "166aab40-d4ee-49a8-9b4d-ed05e8492559",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan impliciete en expliciete houdingen, emoties en meningen begrijpen in e-mails, discussieforums, blogs enzovoort, mits hij of zij de tekst kan herlezen en gebruik kan maken van naslagwerken.",
+		"id": "586680d1-bb74-4ebe-840f-b5ad4fd63334",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan jargon, idiomatische uitdrukkingen en grappen in persoonlijke correspondentie begrijpen.",
+		"id": "8d203fdf-97ea-47a0-9ead-f4d03828176c",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan specialistische, formele correspondentie over een complex onderwerp begrijpen.",
+		"id": "69321888-830d-4a25-a128-53fd47923cfb",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan eenvoudige alledaagse borden begrijpen zoals 'parkeren', 'station', 'eetzaal', 'niet roken' enzovoort.",
+		"id": "ecb66b87-692f-482f-8b98-f7edf2aef8bb",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan informatie vinden over plaatsen, tijden en prijzen op posters, folders en kennisgevingen.",
+		"id": "fbb1b6ab-e254-4861-b072-9dd2d66b8b58",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan vertrouwde namen, woorden en zeer essentiële zinsdelen herkennen op eenvoudige kennisgevingen in de meeste alledaagse situaties.",
+		"id": "c8a9096e-8f5c-4571-b716-b464fa4581e8",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan wegwijzers in winkels (informatie over welke afdeling op welke verdieping is) en richting aanwijzingen (bijvoorbeeld waar de lift is) begrijpen.",
+		"id": "955fdb46-91fd-4766-9b75-e1ade83e4bbf",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan elementaire hotelinformatie begrijpen, bijvoorbeeld hoe laat maaltijden worden geserveerd.",
+		"id": "f2d3faeb-be01-4a8b-8bec-f74538851352",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"eabb8938-394e-4986-82f1-ed1fbb116844",
+			"577c4670-c852-4b50-b721-85db0dd1710d",
+			"e4798324-da10-4744-9770-be0b44e6636d",
+			"91e82d2e-b9a0-411f-b316-6128ae54df60",
+			"e3456db9-4ea1-487e-8e30-c180d1dec596",
+			"5dc7e8b8-7069-4396-87c8-7b4d6fa3bf6c"
+		],
+		"title": "Kan eenvoudige informatie op een poster, mededelingenbord of in een flyer of een brochure lezen.",
+		"id": "9476e45d-6671-44bc-9d3b-8c6fe25c32a2",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"74fd1d13-524e-4bc1-8015-ed5267ee81a0",
+			"2c125fe4-eb17-46b1-9f29-fcba6444d839",
+			"6b94c2b6-31a9-4f17-a0a2-48918a91e5e5",
+			"78f847e7-55d1-48a8-b3a3-9e963bc535a3",
+			"175c423e-f032-46e5-b49f-3141e706d1d7",
+			"84f2cfd4-c5a4-4b61-abb3-bb606bf0e134",
+			"2cf731c2-427c-44d7-8bf8-7a70f4a3ec5d",
+			"b02ccc75-7919-4694-b8b1-565d41d54669",
+			"d343b4dd-fa17-4b49-9315-ae1d44830ef6"
+		],
+		"title": "Kan dingen opzoeken in of kiezen uit een lijst.",
+		"id": "9e05c4ee-0fcb-4d05-b357-fb525923d8fb",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"5f4ac6af-aab7-46b9-a6eb-a5854769679f",
+			"dedda0f5-c752-4409-b024-a9a4eeecbdda",
+			"dbcb8d93-51e8-4c61-9b32-94df164a30b5",
+			"1a2fc4e7-72b7-4feb-8aec-152932d1e95b",
+			"6ee3c3c5-1313-4917-88ab-1f76d10c3c09",
+			"466d56dc-c672-4bb6-8ca6-002c64e73128",
+			"a133d9d4-bae3-4d21-a449-090739f576ba",
+			"9e800ef2-a906-481c-ac98-a0b8036eb9a5"
+		],
+		"title": "Kan specifieke informatie vinden en begrijpen in eenvoudig, alledaags materiaal zoals advertenties, folders, menu’s, referentielijsten en dienstregelingen.",
+		"id": "fc3df715-580d-4a4f-b3ec-fb439ff7b0c3",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"00c26ce4-a34d-4b4b-bce1-4e51538e9e33",
+			"0e2b80e5-318b-4e4e-843e-7ce969f21b93",
+			"052e8a78-2549-4f79-be48-ae5e840584e5",
+			"21cde22b-4a1b-4b6b-93b9-2be940e72722",
+			"172bb940-9ece-412d-8082-3e4da266b531",
+			"f7975687-fcae-44c8-bb38-5b12843ba118"
+		],
+		"title": "Kan in lijsten, overzichten en formulieren specifieke informatie vinden en begrijpen.",
+		"id": "969c0656-bb09-412e-abaf-e9ed5094d17e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"e2325368-a04a-45b3-92a6-12d23b92b87c",
+			"371432b5-14a0-42c3-8fba-527172bea38b",
+			"6dcf2b4c-6692-49f4-abde-77adcfe0003e",
+			"486008b7-c114-47e9-968f-da9527ebb1ef",
+			"0e513afd-43eb-4db3-9b6e-e24365543bc2",
+			"99223dcd-7bb7-48b2-9d23-4e919a92be6e"
+		],
+		"title": "Kan veelvoorkomende borden en mededelingen begrijpen.",
+		"id": "c696b269-51e3-4dd9-8450-6e9281ef668b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan specifieke informatie vinden in praktische, concrete, voorspelbare teksten (bijvoorbeeld reisgidsen, recepten), mits deze in eenvoudige taal zijn geschreven.",
+		"id": "f62bce04-fc2e-4f14-8972-38548a771d85",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan de belangrijkste informatie begrijpen in korte en eenvoudige beschrijvingen van goederen in brochures en op websites (bijvoorbeeld draagbare digitale apparaten, camera's enzovoort).",
+		"id": "435bf870-93e9-4e3c-9869-d6a00d42699a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"be415708-8f2a-41b3-b064-20c3357ddcea",
+			"e2dbe0d8-e306-4943-9bb0-d3f6e66f6246",
+			"af7455e7-196f-4b2d-a036-ae9a35add72d",
+			"6ada7482-2f65-4438-9367-fc53e374001a",
+			"1f8d5bc6-5b67-4d71-81fd-7a57bed1c4f9",
+			"8d3207e8-5866-433d-9114-60bdd6269ceb",
+			"a6b3fe85-c552-430c-8b62-edac519fa608",
+			"d24b0a4d-9a75-4b88-b979-6819351e118b",
+			"3f56928d-df79-42e9-92b2-976dc28be165"
+		],
+		"title": "Kan relevante informatie vinden en begrijpen in alledaags materiaal zoals brieven, brochures en korte officiële documenten op internet of in andere media.",
+		"id": "9b446577-e625-411e-af68-a53e26d5d1fc",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan belangrijke informatie over bereiding en gebruik vinden op de etiketten van voedingsmiddelen en medicijnen.",
+		"id": "f49d38f2-9515-445d-af0b-ef38fc85839b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan beoordelen of een artikel, verslag of recensie over het gewenste onderwerp gaat.",
+		"id": "78c22d9f-1374-4a0d-ba47-026fdfbad40d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan de belangrijke informatie begrijpen in simpele, duidelijk opgestelde advertenties in kranten of tijdschriften, mits er niet te veel afkortingen in staan.",
+		"id": "c608ff01-a52a-4a5e-b32d-bcc658d32134",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"erk_voorbeeld_id": [
+			"03aea529-cd3d-4190-a732-968aa907c2ce",
+			"cada4c21-e512-4b9d-8f0b-905bda42a4ab",
+			"7915d54c-5658-4fcc-b4e4-e09a39c86a60",
+			"6e6befed-72c9-4934-bff0-9aa64c1d0c34"
+		],
+		"title": "Kan langere teksten snel doorlezen om gewenste informatie op te sporen, en informatie verzamelen uit verschillende delen van een tekst of uit verschillende teksten, om een bepaalde taak uit te voeren.",
+		"id": "470f7f51-f776-461e-b09c-9f776dfca55f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan eenduidige, feitelijke teksten in tijdschriften, brochures of op het internet snel doorlezen om te bepalen waar ze over gaan en te besluiten of ze informatie bevatten die van pas kan komen.",
+		"id": "85090750-5a31-41c9-a0bb-250959d7f06c",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"acb7a7d9-9de7-4187-89be-3b7ac9baf199",
+			"740ee0d9-38d3-4ddc-853c-4d0715a0fdd1",
+			"705d8a6e-b190-4fe7-bf7b-e456fc11104f",
+			"b21ef640-437a-4e2e-a23d-bfbfe5fb0a63",
+			"d5ac6cb6-87b3-4016-9719-514be79715ae",
+			"bc254b3b-8b68-48d0-8702-00e8a266e369",
+			"81315041-54da-4c02-b455-e0f976923ec0",
+			"6d012f8f-e682-463c-a6ea-15e0b1a9b704"
+		],
+		"title": "Kan snel lange, complexe teksten doorlezen en de relevante details vinden.",
+		"id": "01944565-7f64-4f36-996f-e49f73cc0190",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"9c92be39-da37-4f4a-8a94-e916d6509837",
+			"15e186ab-6bb2-4aa9-8a26-604757716745",
+			"232dbb93-01b4-45d6-9989-7489e33cd92e",
+			"6bf41c92-f1c7-4844-bba7-ea2b721c5dd0",
+			"5179f15f-8d6a-49c9-8036-c7d6996a7b53",
+			"25d04b97-7bb5-4e79-99e3-5462cc32bf7d"
+		],
+		"title": "Kan snel de inhoud en relevantie herkennen van nieuwsberichten, artikelen en verslagen over uiteenlopende professionele onderwerpen en dan beslissen of nadere bestudering de moeite waard is.",
+		"id": "c64a9a87-da0f-406e-811a-2ce93380f19e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"4b18f7c3-7773-4c69-ab9e-bedfc5bdbb54",
+			"c754bae8-8f8a-46fb-8ef3-0eb441931aef"
+		],
+		"title": "Kan meer complexe advertenties begrijpen.",
+		"id": "dc6ff4f1-0b4c-4289-9f41-e9f7df96c311",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan verschillende bronnen (artikelen, rapporten, websites, boeken enzovoort) in zijn of haar vakgebied en verwante vakgebieden parallel snel doorlezen en de relevantie en de bruikbaarheid van specifieke onderdelen voor het betreffende doel vaststellen.",
+		"id": "b1599d83-086a-4c68-9c45-0765fce0b473",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "e31153e7-76ba-4caf-b0de-eb10a3c0feee",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "105b5a76-6a22-48ad-bcbd-bb656d59907e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan de eenvoudigste informatiematerialen begrijpen zoals het menu van een fastfoodrestaurant dat geïllustreerd is met foto's, of een geïllustreerd verhaal in zeer eenvoudige, alledaagse woorden.",
+		"id": "6d699dd2-105c-4a11-af9c-4b9404b94407",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"f59887ef-08e8-4772-8d32-3adb5ca16207",
+			"1175cd54-6757-4be0-90bd-e67cc13d087c",
+			"11952988-9ed4-4cbb-9bdf-81bed6aaed6e",
+			"27f4b6c3-9247-4264-a395-6a36bdf7a68c",
+			"89ee25fe-69d2-4146-85c7-853ae0e8df8b"
+		],
+		"title": "Kan zich een idee vormen van de inhoud van eenvoudiger informatief materiaal en korte, eenvoudige beschrijvingen, vooral als er visuele ondersteuning bij is.",
+		"id": "5b03f33e-4f70-411e-98ee-fb0c16ebf299",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan korte teksten begrijpen over onderwerpen waar hij of zij persoonlijk belangstelling voor heeft (bijvoorbeeld korte nieuwsberichten over sport, muziek, reizen of verhalen enzovoort), als ze in heel eenvoudige woorden zijn geschreven en worden ondersteund door illustraties en afbeeldingen.",
+		"id": "30f51b5b-7c5a-43ee-bacf-bd28090ca7c2",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"938dfe2f-26eb-41bc-8336-43d2cc094088",
+			"f6b23e21-6419-4c1b-9748-ae71fe82b415",
+			"2528d576-c4d5-4781-b3ea-13ce18463243",
+			"986a12c1-8056-49c2-afc3-d8b4a01feda6",
+			"e3c6c063-6b72-4af0-9a6f-4c5e267fb33d"
+		],
+		"title": "Kan in korte informatieve teksten informatie over personen en plaatsen begrijpen.",
+		"id": "f6d43991-3896-454f-b0b8-d5e6530bd700",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"c254c1af-4924-4d24-a98c-50dfb4d16f21",
+			"99e7fd32-5578-4239-919c-31232f5a8e0d",
+			"aa27f6fb-0566-42f4-ba54-3372a7c54755"
+		],
+		"title": "Kan teksten begrijpen die mensen, plaatsen, het alledaagse leven en cultuur enzovoort beschrijven, mits ze in eenvoudige taal zijn geschreven.",
+		"id": "86fa9f20-95d5-41d7-ad47-836132c25daf",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan informatie begrijpen die wordt gegeven in geïllustreerde brochures en plattegronden, bijvoorbeeld de belangrijkste attracties van een stad.",
+		"id": "14a07f2d-7ed2-4c47-b32e-e233ffc64a0b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"436d1553-fd98-4b67-bec2-456bbedb41d3",
+			"0119e538-5b17-4346-9fad-6b916911c563",
+			"3a45cb6f-8469-4bce-8d7f-3227270348d5",
+			"5e1eda78-c695-4d4e-ade1-d1c06a235c3b",
+			"f1494a03-56fd-4593-9051-3838007611ab",
+			"fd19de6d-6a17-4073-904c-2556217349b5"
+		],
+		"title": "Kan de hoofdlijn begrijpen van korte nieuwsberichten over onderwerpen binnen de persoonlijke interessesfeer (bijvoorbeeld sport, beroemdheden).",
+		"id": "cd0372de-333e-4bcc-9593-20b87c7e954a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan een korte, feitelijke beschrijving of een kort, feitelijk verslag binnen zijn of haar eigen vakgebied begrijpen, mits het in eenvoudige taal is geschreven en geen onvoorspelbare details bevat.",
+		"id": "f01d051b-fc0f-4d50-a2dc-101a422d08eb",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan het meeste begrijpen van wat mensen over zichzelf vertellen in een persoonlijke advertentie of een persoonlijk bericht op internet en wat ze zeggen leuk te vinden in andere mensen.",
+		"id": "7329e348-5afe-4f8e-a903-8872809858bc",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"07c6b295-5743-4707-8e8b-a255de3daebd",
+			"4b80aecd-4362-4251-8e8b-3a1b77942e71"
+		],
+		"title": "Kan door meelezen eenvoudig audiovisueel materiaal begrijpen.",
+		"id": "c028b8ae-26b5-4981-8073-30af2fbe7c39",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan specifieke informatie herkennen in eenvoudiger schriftelijk materiaal waarmee hij of zij in aanraking komt, zoals brieven, brochures en korte krantenartikelen waarin gebeurtenissen worden beschreven.",
+		"id": "525c1f43-bf1f-4bed-82a0-afcfa7bff6f1",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan de grote lijnen volgen van een nieuwsbericht over een vertrouwd soort gebeurtenis, mits de inhoud vertrouwd en voorspelbaar is.",
+		"id": "6faf9c89-0470-457a-bbd1-586ef35cd56d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan de belangrijkste informatie oppikken in korte krantenberichten of eenvoudige artikelen waarin cijfers, namen, illustraties en titels een belangrijke rol spelen en de betekenis van de tekst ondersteunen.",
+		"id": "b8a2c25f-b77f-46e9-8a38-3e937878d746",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan de belangrijkste punten begrijpen van korte teksten over alledaagse onderwerpen (bijvoorbeeld levensstijl, hobby's, sport, weer).",
+		"id": "ba8cc088-311c-4ad6-8b3b-e9fbd1a8d045",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"8db93a28-fdc8-4459-ab8f-6fe41f275532",
+			"1bd6dadb-6f89-475e-b254-f8bcca32a387",
+			"3c8723a5-2391-45b3-bdee-974827a5c8ba",
+			"ed205914-8601-4f6d-9675-f092ef0cb988",
+			"1eb50595-2fc5-4a8a-84f7-789d90f65d5f",
+			"83fdd003-a6bd-4d8f-9bf6-b3a126f0753d",
+			"c62ea0ff-0ddd-4c44-8ffc-06dc26f0208b"
+		],
+		"title": "Kan belangrijke punten herkennen in eenduidige krantenartikelen over vertrouwde onderwerpen.",
+		"id": "9521a874-b8d8-4f6d-b013-f6e107a30c0f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"303424fb-7d14-4f79-8962-cd86f8e1f603",
+			"7ead643a-e991-45cd-8f1d-cb304369525c",
+			"1cebdbe2-fc1a-48c0-a6b1-60f1bfd54fee"
+		],
+		"title": "Kan de meeste feitelijke informatie begrijpen die hij of zij kan tegenkomen over vertrouwde belangwekkende onderwerpen, mits hij of zij voldoende tijd heeft om te herlezen.",
+		"id": "7fe0e268-e9cf-4017-803c-d25fe863aebc",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"11bbdd2f-13cc-4b13-9b19-e0b164306090",
+			"0bdd57a4-4c8b-4b92-b9b7-b3ca41d61478",
+			"54a3a018-4f5e-4947-a0c0-de4f00809308"
+		],
+		"title": "Kan de belangrijkste punten begrijpen in korte beschrijvende teksten, zoals die bij museumstukken en informatieborden van tentoonstellingen.",
+		"id": "338b8886-864e-442b-bf50-8c921939ac35",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"116c67f4-c61c-4ebb-9d43-38c1c63caf19",
+			"f45bb222-c44a-4d59-9acf-f29651552667",
+			"4062d7d1-e5e0-40c4-ae0d-a9820eeb467a",
+			"92fca2fe-4587-4c26-a847-c32cbf5176d5"
+		],
+		"title": "Kan door meelezen alledaags audiovisueel materiaal begrijpen.",
+		"id": "517ae16f-a8d9-43b3-9954-06d09fbcbe2c",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan eenduidige, feitelijke teksten begrijpen over onderwerpen die te maken hebben met zijn of haar interesses of studie.",
+		"id": "80ca95b9-5638-4747-85a4-97dcba7a0bc6",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan korte teksten begrijpen over onderwerpen die vertrouwd zijn of betrekking hebben op actuele kwesties, waarin mensen hun mening geven (bijvoorbeeld kritische bijdragen aan een onlinediscussieforum of ingezonden brieven).",
+		"id": "7fde1925-2719-4b70-a960-3b6180f3b0d1",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan de belangrijkste conclusies herkennen in argumenterende teksten die voorzien zijn van heldere signalen.",
+		"id": "347cefaa-7f64-4144-99fb-b342c7a8d165",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan de redenering herkennen in de behandeling van een kwestie, zij het niet noodzakelijkerwijs tot in de details.",
+		"id": "7898411b-0dec-4178-ac3b-23f58a4252c8",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"d348e4ed-a831-4b02-9164-828709fcfd81",
+			"6e546731-69b7-4204-8784-fb76aeadfca5",
+			"deef063c-86bb-4b5a-9f0c-62690be81d36",
+			"59f2ef73-b494-4b1f-b481-67b6513a7581",
+			"eebe2a40-dbd6-42ac-92fc-cdc5b5f08933",
+			"0a770473-2abe-4355-bf61-6eb9bc1cedb2",
+			"f48e8571-5079-4c6b-82bb-8abbc1a54930",
+			"597a4ca7-1739-4c1c-91fd-2053f8b1b4b3"
+		],
+		"title": "Kan artikelen en verslagen over hedendaagse problemen begrijpen, waarin de schrijvers bepaalde stellingen of standpunten innemen.",
+		"id": "bd8986e3-248b-4ab9-8aa5-0fbf7b6a5d3b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan herkennen wanneer een tekst feitelijke informatie geeft en wanneer hij bedoeld is om de lezers ergens van te overtuigen.",
+		"id": "348896fa-05b2-484b-94ce-47db6f240ba7",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan verschillende structuren in betogende teksten herkennen: argumenten voor en tegen, presentatie van probleem en oplossingen en causale verbanden.",
+		"id": "8a215ab9-de53-43f1-a0c9-73d88bba94a0",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"erk_voorbeeld_id": [
+			"687336f6-ac20-454e-92d1-b3316174f54f",
+			"d6401815-3fc0-4d45-a7a3-83c3e251e577",
+			"5ac27c99-3693-4475-a3af-7c5dc6898ccb",
+			"8ceee6d0-7327-4ba2-b820-162efc799072",
+			"d3d60235-4e35-4ee0-b0cb-bf6d1e115502"
+		],
+		"title": "Kan informatie, ideeën en meningen ophalen uit zeer gespecialiseerde bronnen binnen zijn of haar vakgebied.",
+		"id": "32049b12-ef30-4cc5-b71c-8dac0f03a5ee",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"erk_voorbeeld_id": [
+			"433ca510-fb02-44c9-b77f-f742bb3f9256",
+			"740d2bae-0b01-407d-be92-56aceace27a4",
+			"23e2ed19-710b-4805-b4e7-f7a6c30628c2",
+			"4f527343-a748-47d2-99ef-105d89a454cb",
+			"63edbb27-328e-4bf5-a732-88e195aa835e"
+		],
+		"title": "Kan gespecialiseerde artikelen buiten het eigen vakgebied begrijpen, mits hij of zij af en toe een woordenboek kan gebruiken om zijn of haar interpretatie van terminologie te bevestigen.",
+		"id": "dbc20102-aa16-4c55-856d-f195c8fec5a4",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"erk_voorbeeld_id": [
+			"fbbecd60-6704-4e80-b757-e85baf74b78c",
+			"2e246ec0-6063-47fc-ba4d-cfc1555baa97",
+			"49e7f1f2-aba0-4c30-9fb2-dfcd24605193"
+		],
+		"title": "Kan op detailniveau een breed scala van lange, complexe teksten begrijpen, die veel worden aangetroffen in het sociale, professionele of academische leven, en fijnere details herkennen zoals houdingen en uitgesproken of impliciete meningen, mits moeilijke passages herlezen kunnen worden.",
+		"id": "d48e70d5-5c06-4aa5-bcab-bace71d1d9d3",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan de fijnere details en implicaties van een ingewikkeld verslag of artikel begrijpen, zelfs als dat buiten zijn of haar specialisatiegebied ligt.",
+		"id": "a5da7f97-279b-4f97-8b43-41c5c9023b36",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"erk_voorbeeld_id": [
+			"33095535-9507-468b-ba19-1423c641224b",
+			"769a5a53-3c1f-4886-b326-9e8c34c48910",
+			"b8870240-a5de-4702-80d2-0962366f32fb",
+			"f570ffe3-0e88-4c1f-beba-5de36442d9ce",
+			"fb5e7b50-e770-4fed-9aa8-60f07fc793a2",
+			"e01af722-641a-47b2-970c-159b6a1f1f9c",
+			"b4dd5edd-673b-45f2-b2cc-e576f5988bfe"
+		],
+		"title": "Kan de eenvoudigste informatiematerialen begrijpen zoals het menu van een fastfoodrestaurant dat geïllustreerd is met foto's, of een geïllustreerd verhaal in zeer eenvoudige, alledaagse woorden.",
+		"id": "b7b8fdeb-ff55-4c39-951e-53d82b899d74",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan eenvoudige aanwijzingen begrijpen bij apparaturen die men aantreft in het dagelijks leven, bijvoorbeeld een openbare telefoon.",
+		"id": "2ce03d9e-b8c0-403c-bf2e-5dddeb056f14",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"8b768a33-ac68-42fa-9db8-b4c7cfc78ada",
+			"307c4005-edd9-4729-8f7d-c38b8069e662",
+			"fdaeb597-a1e6-40a5-8549-a4f0bba7e788",
+			"4cd303de-316a-4b4e-b6b0-46abae8a36ee",
+			"416bf01b-1e2b-427a-81d5-8fa19a3a0996",
+			"3ea0d028-311c-47a6-a54c-63dc6084204a",
+			"c9f0d8f2-7916-4c84-b46a-ab4c70e98070",
+			"c6452fdf-84af-466d-9e2d-d07d788a482c",
+			"cd887937-aa71-4bce-a0ef-6109db6da72a"
+		],
+		"title": "Kan eenvoudige, korte instructies begrijpen, mits deze geïllustreerd zijn en niet als lopende tekst zijn opgesteld.",
+		"id": "5c496867-cbaa-4d16-b16d-6ae9c1d2609f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan instructies op etiketten van geneesmiddelen begrijpen als deze zijn uitgedrukt als een eenvoudig gebod, bijvoorbeeld 'Innemen voor de maaltijd' of 'Niet innemen als u moet rijden'.",
+		"id": "d5f00649-d472-4109-9b25-62cd3f0f6e5b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan een eenvoudig recept volgen, vooral als er afbeeldingen zijn om de belangrijkste stappen te illustreren.",
+		"id": "3450788c-ea9d-4922-bece-16f1e3e3ae22",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"erk_voorbeeld_id": [
+			"e7d0e825-5d51-4239-9c5f-b6922adbbf3e",
+			"6af67f99-2f85-4730-b2b5-6450e341e991",
+			"3413fa5b-55c1-4b60-b1ba-dc4326b506b0",
+			"0b0f2a76-4a37-4f63-af37-fec2a9b005f5",
+			"87fe0774-22df-4110-abb1-b9f193a34028"
+		],
+		"title": "Kan regels en bepalingen begrijpen, wanneer deze in eenvoudige taal zijn gesteld.",
+		"id": "e8f7ae27-b142-415d-bc17-4fe417b225b2",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan korte schriftelijke instructies begrijpen die stap voor stap geïllustreerd zijn (bijvoorbeeld voor het installeren van nieuwe technologie).",
+		"id": "476650fa-c1bd-4c32-901e-e9e025f9eb40",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"83f4050f-e34c-4ad7-9c79-c1567fdb4728",
+			"5421b2c8-3fd5-4d7f-b929-7c4bcb43ffd1"
+		],
+		"title": "Kan helder geschreven eenduidige aanwijzingen bij een apparaat begrijpen.",
+		"id": "4f839307-d6db-43ac-9892-bbe7c5a561a9",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"5a22af10-11a9-4fdc-8bb7-e1696e314602",
+			"c367528a-989e-40c4-9141-dee642b68c03",
+			"3a5a29f8-aab8-4fae-9836-b97a5fedf37b",
+			"067f2a82-2a69-436c-bb35-76336c7dc6e9",
+			"a51d6c08-02a2-4ee0-8ce8-96ee8e497bc9",
+			"886d8fe3-b2d6-4973-a772-9cc3fad50e4d"
+		],
+		"title": "Kan eenvoudige instructies volgen.",
+		"id": "96fd9851-9240-41c9-8327-7e79e90b9644",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"75b91f6a-a344-4947-8562-6b2fc2b78589"
+		],
+		"title": "Kan de meeste veiligheidsinstructies begrijpen.",
+		"id": "23935d1f-903a-4c1a-93c9-a5ac958d0f7c",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan instructies en procedures in de vorm van een lopende tekst begrijpen, bijvoorbeeld in een handleiding, mits hij of zij bekend is met het type proces of product.",
+		"id": "f8f896da-a443-4881-bcaf-e8e5e3355d95",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"2e93d10c-0357-457c-851d-8ef2920e48c7",
+			"5ebb969a-ab7c-4a08-8cf6-eff409936378",
+			"d029fb64-fb1f-48e1-a766-5bd63bcdd6aa",
+			"e84de488-9c15-4fec-a398-3d55bfa0bfdf",
+			"40f36ae9-3ec6-4f29-bf76-30ff493044f2"
+		],
+		"title": "Kan lange, complexe aanwijzingen op het eigen vakgebied begrijpen, met inbegrip van details over voorwaarden en waarschuwingen, mits hij of zij moeilijke passages kan herlezen.",
+		"id": "e56e4202-41d8-40b7-bf6f-146a5852adf1",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"erk_voorbeeld_id": [
+			"49d8a128-1144-424c-b470-027ee5d15ac0",
+			"67f5990d-c593-4c2f-8f43-5a85e5cccdd8",
+			"d030c935-ed9a-4f9b-bac5-6c73dbd11a05",
+			"fe610f89-186d-4d00-8b25-ee4ce0acb63c"
+		],
+		"title": "Kan lange, complexe aanwijzingen bij een nieuwe machine of procedure op detailniveau begrijpen, ongeacht of de aanwijzingen betrekking hebben op zijn of haar eigen vakgebied, mits hij of zij moeilijke passages kan herlezen.",
+		"id": "93a2ac44-64bb-4104-8122-9a60118ee66c",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "285902e4-2b92-4acd-ae8f-17be4eab6dd4",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "10862b1b-240c-4f3d-b75e-821dcbbc6145",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan korte, geïllustreerde verhalen over alledaagse activiteiten begrijpen die geschreven zijn in eenvoudige woorden.",
+		"id": "c837b0bc-da87-4a14-acf1-6d1e19965106",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan korte teksten in geïllustreerde verhalen globaal begrijpen, mits de afbeeldingen hem of haar helpen veel van de inhoud te raden.",
+		"id": "8cb371de-6d6e-40ee-b457-86cad976ee48",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan korte verhalende teksten en beschrijvingen van iemands leven begrijpen die zijn geschreven in eenvoudige woorden.",
+		"id": "3a63711f-e406-4425-baee-c747fac7509f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan begrijpen wat er gebeurt in een fotoverhaal (bijvoorbeeld in een lifestylemagazine) en zich een indruk vormen van de personages.",
+		"id": "1d0e47d6-470f-4bea-8bd8-42391e27935c",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan veel van de informatie begrijpen die wordt gegeven in een korte beschrijving van een persoon (bijvoorbeeld een beroemdheid).",
+		"id": "264db4f6-552a-4780-8c3a-7a70a1963aa0",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan het belangrijkste punt begrijpen van een kort artikel dat verslag doet van een gebeurtenis die een voorspelbaar patroon volgt (bijvoorbeeld de Oscaruitreiking), mits dit duidelijk is geschreven in eenvoudige taal.",
+		"id": "f1e7c828-fefc-41f7-aac6-65cabd601863",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan genoeg begrijpen om korte, eenvoudige verhalen en strips te kunnen lezen die over vertrouwde, concrete situaties gaan en zijn geschreven in veelvoorkomend, alledaags taalgebruik.",
+		"id": "54443c83-7a58-48dd-a980-a04abeb5c3f5",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan de belangrijkste punten begrijpen in korte verslagen in tijdschriften of items in gidsen die gaan over concrete, alledaagse onderwerpen (bijvoorbeeld hobby's, sport, vrijetijdsbesteding, dieren).",
+		"id": "96e05ad9-5b4b-4e81-8280-0059a12ee088",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan de beschrijving van plaatsen, gebeurtenissen, expliciet uitgedrukte gevoelens en standpunten begrijpen in verhalende teksten, gidsen en tijdschriftartikelen die geschreven zijn in veelgebruikte, alledaagse bewoordingen.",
+		"id": "c2d1bd30-4597-491a-a428-0e3891e309ea",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan een reisdagboek begrijpen dat hoofdzakelijk de gebeurtenissen tijdens een reis en de ervaringen en ontdekkingen van de auteur beschrijft.",
+		"id": "f24b7d2b-baf1-411c-87f9-98f44d9b1e4e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan het plot van verhalen, eenvoudige romans en stripverhalen volgen als deze een duidelijke verhaallijn hebben en veelvoorkomende, alledaagse bewoordingen gebruiken, mits hij of zij regelmatig een woordenboek raadpleegt.",
+		"id": "13b55233-c096-4b1d-a030-0e7edfe8960c",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan verslagen over films, boeken, concerten enzovoort in kranten en tijdschriften lezen die geschreven zijn voor een breder publiek, en de belangrijkste punten begrijpen.",
+		"id": "664b91c1-be7b-4012-8c85-f715419e2327",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan eenvoudige gedichten en liedteksten begrijpen die in eenduidige taal en stijl zijn geschreven.",
+		"id": "d8259bde-8e3b-4a3e-94ec-528afb217c49",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan romans lezen die een sterk, verhalend plot hebben en geschreven zijn in eenduidige, onomwonden taal, mits hij of zij er de tijd voor kan nemen en een woordenboek kan gebruiken.",
+		"id": "4eec41e4-020e-40ac-a203-50992e4c6d22",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan in hoge mate zelfstandig lezen voor plezier, past daarbij zijn of haar leesstijl en -snelheid aan verschillende teksten aan (bijvoorbeeld tijdschriften, relatief ongecompliceerde romans, geschiedenisboeken, biografieën, reisverslagen, gidsen, liedteksten, gedichten) en maakt selectief gebruik van toepasselijke referentiebronnen.",
+		"id": "e8231f4f-d6cc-4006-92d8-0860fcde7418",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan met weinig moeite hedendaagse literaire teksten en non-fictie lezen die is geschreven in de standaardvorm van de taal, of een vertrouwde variant ervan, en is daarbij bewust van de impliciete betekenissen en ideeën.",
+		"id": "7aae5945-14c6-4557-94c0-471828c92bdb",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan een verscheidenheid aan literaire teksten lezen en waarderen, mits hij of zij bepaalde delen kan herlezen en zo nodig gebruik kan maken van naslagwerken.",
+		"id": "51b79f6b-c169-4d50-9ae3-d1b65b8205cb",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan vrijwel alle vormen van tekst begrijpen, met inbegrip van klassieke of informele literaire en niet-literaire teksten in verschillende genres, en is daarbij bewust van subtiele verschillen in stijl en impliciete en expliciete betekenissen.",
+		"id": "3092ce65-ee66-4bd9-84de-3dde41220c27",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan korte, zeer eenvoudige vragen en mededelingen begrijpen als die langzaam en duidelijk worden uitgesproken en vergezeld gaan van visuele aanwijzingen of gebaren om het begrip te ondersteunen, en zo nodig worden herhaald.",
+		"id": "2a518096-e5a6-4f97-b6a1-63fa0d4731eb",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan alledaagse, vertrouwde woorden herkennen als die langzaam en duidelijk worden uitgesproken in een duidelijk gedefinieerde, vertrouwde, alledaagse context.",
+		"id": "f27c1168-e6ac-45f0-9129-a410df373d0f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan getallen, prijzen, data en dagen van de week herkennen als die langzaam en duidelijk worden uitgesproken in een duidelijk gedefinieerde, vertrouwde, alledaagse context.",
+		"id": "f240f066-fe6c-4616-8da3-f3967c4dd447",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan spraak volgen die heel langzaam en zorgvuldig wordt uitgesproken, met lange pauzes om de betekenis op te nemen.",
+		"id": "158f8d1c-ac78-430d-8eb0-e076c050a51b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan concrete informatie herkennen over vertrouwde onderwerpen die hij of zij in het dagelijks leven tegenkomt, mits deze langzaam en duidelijk wordt uitgesproken.",
+		"id": "dbfc9a00-1150-4f13-9f49-abdc940c3085",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan frasen en uitdrukkingen verstaan die verband houden met zaken van de meest directe prioriteit (elementaire persoons- en familiegegevens, boodschappen doen, plaatselijke geografie, werk) mits er helder en langzaam wordt gearticuleerd.",
+		"id": "fa8f8fa4-ffd0-4a5e-a443-f168d5273fdc",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan genoeg verstaan om te kunnen voldoen aan behoeften van concrete aard, mits mensen helder en langzaam articuleren.",
+		"id": "1a3cfbb9-b0a3-40bd-9261-47ed4cf08676",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan de hoofdpunten verstaan van heldere spraak in standaardtaal, of in een vertrouwde variant ervan, over vertrouwde zaken die regelmatig aan de orde komen op het werk, op school, in de vrije tijd enzovoort, met inbegrip van korte, verhalende teksten.",
+		"id": "9bfc5ad6-92da-42e9-93b9-51f6d622fd74",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan directe feitelijke informatie verstaan over gewone alledaagse of werkgebonden onderwerpen, en daarbij zowel algemene boodschappen als specifieke details herkennen, mits mensen helder articuleren in een over het algemeen vertrouwd accent.",
+		"id": "9cf3b74c-964b-45f3-a690-e1ac106796d7",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan de hoofdgedachten begrijpen van naar inhoud en vorm complexe gesproken tekst in een standaardtaal of een vertrouwde variant ervan over concrete en abstracte onderwerpen, met inbegrip van technische besprekingen in het eigen vakgebied",
+		"id": "fa4c7806-a9d8-4a85-95a7-d569059038ee",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan uitgebreide betogen en complexe redeneringen volgen, mits het onderwerp redelijk vertrouwd is en de richting van de redenering wordt aangegeven met expliciete signalen.",
+		"id": "620ae0b6-9499-4292-8c7d-47c28cb4b816",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan gesproken standaardtaal of een vertrouwde variant ervan verstaan, hetzij in direct contact, hetzij via de media, over vertrouwde en niet-vertrouwde onderwerpen die gewoonlijk worden aangetroffen in het persoonlijke, sociale, academische of professionele leven. Alleen extreem achtergrondgeluid, onvoldoende structuur in het betoog en/of idiomatisch taalgebruik ondermijnen het begrip van het gesprokene.",
+		"id": "b1bf0b0c-788c-4c26-b3c5-4e930295ed34",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan genoeg verstaan om uitgebreide betogen te volgen over abstracte en complexe onderwerpen buiten zijn of haar eigen vakgebied, al moet hij of zij misschien af en toe een detail controleren, vooral wanneer het accent niet vertrouwd is.",
+		"id": "6c7ffc11-9ab5-48e8-8fd0-18be70ff2aee",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan een breed scala van idiomatische uitdrukkingen en uitdrukkingen uit de spreektaal herkennen, en merkt daarbij registerverschuivingen op.",
+		"id": "8138c110-9171-4636-8037-fae6cb136735",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan een uitgebreid betoog volgen, ook wanneer het niet duidelijk gestructureerd is en wanneer verbanden slechts worden geïmpliceerd en niet uitdrukkelijk worden benoemd.",
+		"id": "be5df90c-dffa-4e56-afae-222d8b1bf7be",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Heeft geen moeite met het begrijpen van enige vorm van gesproken taal, hetzij in direct contact, hetzij via de media, voortgebracht aan snel natuurlijk spreektempo.",
+		"id": "41610433-0390-498c-9f1c-fed0f31306a5",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "c76abfa3-2671-4653-8c9e-1d964ad8aae0",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"c68a992e-3b4b-4bd4-be2c-e5e52f9d2ca6"
+		],
+		"title": "Kan begrijpen wanneer anderen zich voorstellen aan elkaar.",
+		"id": "eeb7f581-58fc-4c4d-966f-cc67050c3f67",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan enkele woorden en uitdrukkingen begrijpen als mensen praten over zichzelf, familie, school, hobby's of de omgeving, mits ze langzaam en duidelijk spreken.",
+		"id": "2886a357-4212-4fd0-812a-97e750cd349f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"2ba4b3b4-e85c-4e3a-92e8-ecc707c93d7e"
+		],
+		"title": "Kan woorden en korte zinnen begrijpen bij het luisteren naar een eenvoudig gesprek, mits mensen zeer langzaam en duidelijk spreken.",
+		"id": "e1283508-a49a-45c5-add5-c55bc8fe89fa",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan korte, eenvoudige sociale uitwisselingen globaal volgen als ze zeer langzaam en duidelijk worden uitgevoerd.",
+		"id": "75886083-7e27-4242-9b46-93ec5610c985",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"erk_voorbeeld_id": [
+			"5c24a422-80ad-4335-9982-735bd4a64604",
+			"e0542d2f-5a0e-4706-9518-8b6332b6a17c"
+		],
+		"title": "Kan over het algemeen veranderingen van onderwerp volgen in formele discussies die betrekking hebben op zijn of haar vakgebied.",
+		"id": "3e8f27f6-5eb4-415c-a328-31dba0fcbad7",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"erk_voorbeeld_id": [
+			"5bc9c360-2145-44f2-bd55-fc2c006f425e",
+			"c243db93-75f8-4cf7-bc18-ad7aeb036e78",
+			"5b04262f-e910-4923-bb65-14d1324dcf6b",
+			"b2d5d763-7522-4d32-bdf2-eb4f24377cef",
+			"4a3df905-2162-4cfa-b1b6-0de78e8927da"
+		],
+		"title": "Kan over het algemeen het onderwerp herkennen van de discussie rondom hem of haar.",
+		"id": "2b18df0a-1794-4b7d-b11d-eacf6123a902",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan herkennen of sprekers in een langzaam en duidelijk gesproken discussie het wel of niet met elkaar eens zijn.",
+		"id": "9d12b673-ed5c-47df-b918-38d08870564b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"0948cc56-2a30-4718-a481-f4fce38f0015",
+			"72a79a50-415d-49e5-b0f5-e36da1b31c58",
+			"e87eed41-063b-469a-9324-e7b2282743bc",
+			"bfa10ad1-08ac-4469-b21f-2661a442655a",
+			"83fba2fa-bb66-49fd-9738-562c3c805bcf"
+		],
+		"title": "Kan over het algemeen de hoofdpunten volgen van een uitgebreide, informele discussie die rondom hem of haar wordt gevoerd.",
+		"id": "15ade611-e56e-4d28-9069-e5d17e74f25b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"erk_voorbeeld_id": [
+			"bd3ca725-85e2-4285-b9bd-2d5c5c626af7",
+			"836af0ea-76b0-4426-8301-f80d61b1859b",
+			"075ba615-780f-4032-af6a-5e7094395088",
+			"e8bf720c-b3a5-4c5d-9db3-4cbf9f91592d",
+			"4dbef1b4-afbd-434e-bca6-bfa436c3c971",
+			"6c494963-bdc1-46cc-a9d6-fbdb574e2a3c"
+		],
+		"title": "Kan veel volgen van wat rondom hem of haar wordt gezegd over algemene onderwerpen.",
+		"id": "985e1caf-4bef-49c5-a705-21997d137ce2",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"000448e6-5ac9-4993-b342-910cf4bf8665",
+			"92f50aa0-abd3-4f10-8f0e-a3f770f5a95f",
+			"32810531-4380-4a4f-a95c-ba2a26ded4a2"
+		],
+		"title": "Kan met enige inspanning veel volgen van wat rond hem of haar gezegd wordt, maar kan het moeilijk vinden effectief deel te nemen aan een gesprek met meerdere sprekers die hun taal op geen enkele wijze aanpassen.",
+		"id": "baaf813a-fe2c-4c79-ba90-5f3e3fe30bd8",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan de voornaamste argumenten voor of tegen een standpunt of idee herkennen in een discussie die wordt gevoerd in duidelijke standaardtaal.",
+		"id": "8b3239fd-5282-4576-a121-045bf2abd5d4",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan het chronologische verloop in een langer informeel betoog volgen, bijvoorbeeld een verhaal of anekdote.",
+		"id": "1e91a800-0034-42d4-a72c-37c7a3128d42",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"erk_voorbeeld_id": [
+			"134fc59a-5084-4553-b9e5-1815f0bd6bbe",
+			"adb88dfd-bcbd-459d-8e2a-1e47025accdb",
+			"58ceeab0-a4d1-47b9-a0a2-dc191f8f202f",
+			"cc60c350-cd8b-4e99-8f27-230e4c811c31",
+			"a5b3b8ed-9146-4e94-b5ef-7dc35a94087a"
+		],
+		"title": "Kan een levendig gesprek tussen gevorderde sprekers volgen.",
+		"id": "1e6cf28a-6f2c-48ff-8fe7-cff2d927b9e1",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"erk_voorbeeld_id": [
+			"a1decd2d-0cae-459f-90b2-7dfaaaf29430",
+			"5c6cf0e4-f753-422f-be7a-04d497d11330",
+			"986d7028-1181-4390-99f2-64d46a9db5f1"
+		],
+		"title": "Kan met gemak complexe interacties tussen derden volgen, in een groepsdiscussie of debat, zelfs over abstracte, complexe en niet-vertrouwde onderwerpen.",
+		"id": "54277213-6cf8-4c5f-8a95-6fc9445604b4",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan de houding bepalen van elke spreker in een levendige discussie die wordt gekenmerkt door overlappende spreekbeurten, afwijkingen van het onderwerp en spreektaaluitdrukkingen, als die wordt gevoerd in een moedertaaltempo in accenten waarmee de luisteraar vertrouwd is.",
+		"id": "f5994fdf-cdbd-4cc8-8918-c733e0f9de0b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan de sociaal-culturele implicaties herkennen van het grootste deel van de taal die wordt gebruikt in informele discussies die worden gevoerd in een moedertaaltempo.",
+		"id": "3e9d29a7-3923-4530-af8b-99400270b671",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "c13024a5-ff6f-436d-83fd-8109f78b3046",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"99371723-069e-4ed0-b95d-700feb863eaa"
+		],
+		"title": "Kan zeer eenvoudige informatie die wordt uitgelegd in een voorspelbare situatie globaal begrijpen, mits er erg langaam en duidelijk wordt gesproken met van tijd tot tijd lange pauzes.",
+		"id": "5230ca1d-2761-40c8-9549-731f4fa2dbf0",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan een zeer eenvoudige, goed gestructureerde presentatie of demonstratie volgen, mits deze wordt geïllustreerd met dia's, concrete voorbeelden of diagrammen, er langzaam, duidelijk en met herhaling wordt gesproken en het onderwerp vertrouwd is.",
+		"id": "d2d9114c-c9a2-4c82-a7c5-133d942288f5",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"b28d9822-5903-4678-a643-1e89a25ea7a0"
+		],
+		"title": "Kan eenvoudige informatie globaal begrijpen die wordt gegeven in een voorspelbare situatie.",
+		"id": "5d0452e6-fd35-4ded-8cc2-430d2de681f6",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan de globale strekking begrijpen van een demonstratie of presentatie over een vertrouwd of voorspelbaar onderwerp, als de booschap langzaam en duidelijk wordt overgebracht in eenvoudige taal en er gebruik wordt gemaakt van visuele ondersteuning (bijvoorbeeld dia's, hand-outs).",
+		"id": "ffd80356-0437-4574-8be0-69274fa01a74",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan directe, korte voordrachten over vertrouwde onderwerpen globaal volgen, mits deze worden gehouden in helder gearticuleerde standaardtaal.",
+		"id": "d8c537bf-9801-4f07-b548-fbe27ff20ada",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan een directe congrespresentatie of demonstratie met visuele ondersteuning (bijvoorbeeld dia's, hand-outs) volgen over een onderwerp of product in zijn of haar vakgebied en de gegeven uitleg begrijpen.",
+		"id": "b9001e64-33f7-4227-a929-68d76e5eebc7",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan globaal begrijpen wat er wordt gezegd in een directe monoloog, als er duidelijk en relatief langzaam wordt gesproken.",
+		"id": "419e4330-8e6c-42b0-96e9-ae6bc78c96b8",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"erk_voorbeeld_id": [
+			"9eedf0c2-323b-482c-a460-729c82ad8f71",
+			"558023c7-4c7f-4610-8f92-36b09ad5f26d",
+			"40f6defd-46be-4eb3-b320-0177538bfc6d",
+			"185ea516-82f4-433a-9e53-c8e3d40696b3"
+		],
+		"title": "Kan een voordracht of toespraak volgen binnen het eigen vakgebied.",
+		"id": "9f8af39c-6494-4916-a04b-9a7a37c00677",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan onderscheid maken tussen de hoofdlijnen en ondersteunende details in standaardvoordrachten over vertrouwde onderwerpen, mits deze worden gegeven in duidelijk gearticuleerde standaardtaal.",
+		"id": "b0cd2688-4ed5-4f9c-82b4-a835a66e6ffa",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan complexe argumentatie in een duidelijk gearticuleerde voordracht begrijpen als het onderwerp redelijk vertrouwd is.",
+		"id": "63a36f7e-5fc8-47ab-9f55-781a7b5a24c2",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan hoofd- en bijzaken van elkaar onderscheiden mits de lezing of voordracht wordt gegeven in standaardtaal of een vertrouwde variant ervan.",
+		"id": "4fb8ee4f-3dd6-4c93-85e4-5e9e653bd6bf",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan het standpunt van de spreker herkennen en dit onderscheiden van de feiten die hij of zij noemt.",
+		"id": "6e619896-f881-42d5-a12f-5db39b5be2ab",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"erk_voorbeeld_id": [
+			"c672ee14-6c1e-4c11-bfee-717addc1ff85",
+			"ac1d8e29-9850-4de0-b725-4f52a4ba3ae0",
+			"602f0302-e008-4592-bd2c-9fce6c069d6a",
+			"fbe5ed59-8dd9-41f5-9330-d6e5409d72b0",
+			"7ff91dea-85b8-4c18-87c5-2051dcc5f7a7",
+			"289482e2-5f4f-46ea-9a5a-0445dbb97f42",
+			"e952bd73-a163-4ce1-8d1e-7494f5bdf68f"
+		],
+		"title": "Kan de wezenlijke punten volgen van voordrachten, toespraken, verslagen en andere vormen van academische of professionele presentaties die naar inhoud en vorm complex zijn.",
+		"id": "9e18d957-79bb-4d40-a6e6-7d446ececd33",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan het standpunt van de spreker over actuele onderwerpen of onderwerpen die betrekking hebben op zijn of haar specialisatiegebied begrijpen, mits er standaardspreektaal wordt gebruikt.",
+		"id": "ce63c6fc-c43b-4491-9dcd-22835cd56bbc",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"erk_voorbeeld_id": [
+			"0189e098-99b5-40d0-a8ed-08dc71943934",
+			"cbd3be0d-988b-42f5-b8e9-54446b724184",
+			"08de22c4-00e2-4940-9dce-9aaa6995475e",
+			"957c4dbe-5e92-4ecf-878e-8f725629d749",
+			"7ec43c80-e128-41b9-b57b-9e83271316a9",
+			"d5667540-61ff-4359-a85d-f08d60253664"
+		],
+		"title": "Kan de meeste voordrachten, discussies en debatten betrekkelijk gemakkelijk volgen.",
+		"id": "75b6f405-e00b-4a49-a1f5-d09ca326e284",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"erk_voorbeeld_id": [
+			"be3fa0dd-19bc-4f6d-9004-3b989eb5a13a",
+			"981df76e-3866-4a48-a146-5d36e0ba4a0e"
+		],
+		"title": "Kan een toneelstuk volgen.",
+		"id": "ffc17a16-fd4a-4a0c-8907-3fbe1c1eb7bc",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"erk_voorbeeld_id": [
+			"48cc0fe1-2914-4a34-aed5-e56233ccb84f",
+			"fc6f14d3-760d-4e27-af26-12e33dd451da",
+			"8b56837c-19ee-4faa-9c12-dff8f38902ab",
+			"d164563b-4ba2-4ab5-87f6-5c8d64e39b8a",
+			"dd5e5969-23d4-43f2-a6fe-5d88c083609a"
+		],
+		"title": "Kan specialistische voordrachten en presentaties volgen waarin veel spreektaal, regionaal getint taalgebruik en niet-vertrouwde terminologie wordt gebezigd.",
+		"id": "e14ec448-4e40-4061-9a6c-4104492d7ac1",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Kan gevolgtrekkingen maken als verbanden of implicaties niet expliciet worden benoemd.",
+		"id": "b3beaf4b-735d-4f68-8b19-2be651b7ee26",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan korte, eenvoudige instructies voor handelingen begrijpen, zoals 'Stop', 'Doe de deur dicht' enzovoort, als ze langzaam één op één worden gegeven, ondersteund door afbeeldingen of handgebaren en zo nodig herhaald.",
+		"id": "94f4b4cf-b716-41e5-92dd-94e3d414e36c",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"a52cf940-ec66-4255-bedb-63aa72d589cb",
+			"760135e8-3232-493a-8d29-087427337add",
+			"e54dcf5b-8ebb-4941-ab97-c68f7c932d70",
+			"e3925e8e-383c-4ee2-b9c2-f4505fe9661d",
+			"0dfe434b-b42a-440c-8bd3-dac2550c62e4"
+		],
+		"title": "Kan tot hem of haar gerichte vragen en opdrachten verstaan en korte, eenvoudige aanwijzingen volgen.",
+		"id": "b963d353-134d-4cb6-a8d7-167149f71063",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"fe6e42e3-22d1-4232-9e25-aa7ed130f024",
+			"a804710e-b051-48f2-baf9-8001639d9c42",
+			"7349e2fa-acc5-476e-97de-56bfd46e34bb",
+			"019dc584-896e-467b-9771-5c5459a0c803",
+			"f58a4f2d-a3ed-45ff-9748-9d9971b6095e",
+			"d1435e2f-9e3b-48be-a6e1-37023cba50a2"
+		],
+		"title": "Kan in korte, duidelijk gesproken teksten, getallen en bekende woorden verstaan die gericht zijn aan de luisteraar.",
+		"id": "d93533ca-e786-495d-9622-dcdc83af9f40",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"7e301080-1e4e-4783-9e4c-614c4546beed"
+		],
+		"title": "Kan korte, eenvoudige waarschuwingen begrijpen die gericht zijn aan de luisteraar.",
+		"id": "73f38d19-d845-4f57-ba35-53b3d1c3200c",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan het begrijpen als iemand hem of haar langzaam en duidelijk vertelt waar iets is, op voorwaarde dat datgene zich in de directe omgeving bevindt.",
+		"id": "1001dc29-8286-4385-a6ea-cfdff3ad43a3",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"4d73b8f1-452c-4d14-a630-e3f6ae06c39f",
+			"60a41f43-c074-49bc-b754-64840f2f58bf"
+		],
+		"title": "Kan getallen, prijzen en tijden verstaan die langzaam en duidelijk worden uitgesproken in mededelingen via een luidspreker.",
+		"id": "cd453a9a-6cc5-488f-8a99-5190b07936c7",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"43d5de7f-4a65-4030-9f5c-136068b91ae4",
+			"6911a530-d06a-4cbc-9b8a-e3c11dc78bf3",
+			"00e13eb2-4e0c-4366-8455-8036d50ce23a",
+			"a13a9a5c-128d-47ef-aa27-c766761fe332",
+			"67f998e7-6cec-43e3-9cb8-840a56d2cec2",
+			"561e53e3-74e0-4f1b-a50e-5dca172b245a",
+			"fc1f776e-2164-4424-bc0d-afd49e6a0cbf",
+			"1aa0da66-06e6-4fda-ad16-f8ca084c2514"
+		],
+		"title": "Kan in vertrouwde situaties eenvoudige, feitelijke informatie begrijpen.",
+		"id": "2e993aac-5b2e-4f3e-8cf9-f934c1f7d3ea",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"9731342f-2129-41fa-b7c9-fc0ef3cb7c0d",
+			"b7516ed8-0ac7-4550-bd66-f9d6ca3ccde3",
+			"3eb85a2a-999c-4e85-9a61-7842a7c89894",
+			"b5152c0c-ee80-44ef-891b-6a27a0d0f998",
+			"c18f285f-5b7e-43ea-9b5c-af98db83628f",
+			"619bfddb-625b-4de5-b171-cce6f0b8127b",
+			"b1811e45-4776-4b1d-a6c7-908bb197b54e",
+			"9a542d88-e090-47b6-8bf7-3ebb0eadbd8a",
+			"d22e9a58-5ab9-4a7f-bcb1-9bb9e0318f36"
+		],
+		"title": "Kan een korte uitleg begrijpen.",
+		"id": "93856017-4193-49a3-ab3e-29a18eeeb445",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"erk_voorbeeld_id": [
+			"bc07896e-e9b4-475a-b881-dac8ffc66aed",
+			"5826e709-fa47-4019-916a-ef182e882916",
+			"f7a44175-0311-45e2-9694-a0bcd24a6437"
+		],
+		"title": "Kan aanwijzingen begrijpen over de werking van vertrouwde apparaten, mits het apparaat voorhanden is.",
+		"id": "1e584b80-38f3-402a-b4ae-a9f0347f7f40",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan een reeks instructies voor vertrouwde, dagelijkse activiteiten zoals sport, koken enzovoort begrijpen en volgen als ze langzaam en duidelijk worden uitgesproken.",
+		"id": "0402d289-cec5-4759-b92d-ef2c488934d1",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan eenvoudige mededelingen begrijpen (bijvoorbeeld van een bioscoopprogramma of sportevenement, een omroepbericht over een vertraagde trein) als ze langzaam en duidelijk worden uitgesproken.",
+		"id": "95880ab7-30d1-45fe-a1f5-d3f9a19737d7",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"d281cef9-467d-43bf-8c76-6d604c29ef79",
+			"4a65f5bc-00d0-4fc5-8054-87794f4b271b",
+			"bd4d0dbc-451c-4a85-8f24-107e23e12b6a",
+			"e9d49660-49f6-432e-a79c-473db20d75ca",
+			"7403444d-46d9-4a24-8b25-9aec8e651843",
+			"4cc8bc89-9788-4081-a878-e11ce0b3db6d"
+		],
+		"title": "Kan eenvoudige technische informatie begrijpen.",
+		"id": "c99e284a-1b32-4d90-9e1c-9ef5008770e5",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"c46aafd1-fa6b-4c95-882a-1620bb077668",
+			"4aca726d-4f13-4ea2-b89d-cd7334c279cb",
+			"45b52c1a-faac-47ac-935e-b2bf4a14af36",
+			"1da9f807-3b47-43ac-b17a-d393085f4ebb",
+			"be00b677-4f40-46eb-be6a-fba399272984",
+			"093c1d23-ee24-43d0-bdd0-ebedb446f067",
+			"f1a1eb72-09f2-4611-bb45-a6fecfd1e208"
+		],
+		"title": "Kan gedetailleerde aanwijzingen volgen.",
+		"id": "a7e7b2a2-ba00-4492-b4c8-910a439075b9",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan omroepberichten op luchthavens en stations en in vliegtuigen, bussen en treinen begrijpen, mits deze duidelijk gearticuleerd worden in standaardtaal, met minimale storende achtergrondgeluiden.",
+		"id": "d9b6ba9a-a837-4146-bd42-7ec2e6294e77",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"a2501d32-c2f6-4858-b6fc-0e711970fc25",
+			"9f7e211b-0bf3-4cbb-a194-bdd0b3cc1a32",
+			"3a648eff-59ce-43e1-b9da-2b4280143be3",
+			"23b0dbb0-c5db-44b1-a18d-2591ff3ff0df",
+			"8f6d5489-a0f5-4886-97c9-5ee4ca886765"
+		],
+		"title": "Kan mededelingen en berichten over concrete en abstracte onderwerpen verstaan.",
+		"id": "96d059fe-5c49-4c27-a2fd-056888f61c0b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan gedetailleerde instructies goed genoeg verstaan om ze met succes te kunnen opvolgen.",
+		"id": "d51929fe-8b67-4a5e-a69d-a153847c634f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"erk_voorbeeld_id": [
+			"0b64ef6b-cfc7-42c3-9b9d-cd45da5a06eb",
+			"52a5fb07-5b76-4dc1-8e06-a181d1533fa8",
+			"d7f00d42-f019-4312-a55d-9882e99238e4",
+			"6ee5efd1-6a00-4900-9478-15dbb00fca03",
+			"6507746a-7a7e-4a54-b060-a72604d06d70",
+			"0003b8d6-e579-4054-b070-99ba67d1665d",
+			"5c93d949-b649-4ccf-a2a6-1db75afff6d5"
+		],
+		"title": "Kan specifieke informatie halen uit openbare mededelingen van slechte kwaliteit waarbij het geluid vervormd is.",
+		"id": "1877a790-4984-4dfb-9424-e6212ae79b4f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"erk_voorbeeld_id": [
+			"6f91a04f-3565-4658-a109-51e7e33281ce",
+			"23485b38-1326-48ff-90a6-6d8f7122fa48",
+			"805ca887-db2d-4322-9932-f9c938407af7",
+			"43f9329f-01f2-4468-992f-663b1142015b"
+		],
+		"title": "Kan complexe, technische informatie begrijpen.",
+		"id": "cc3ae904-17f2-49da-966b-1175451c4c8d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "c1778a80-b307-4f02-9824-f08e215a049c",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan woorden, namen en getallen die hij of zij al kent herkennen in simpele, korte opnamen, mits er heel langzaam en duidelijk wordt gesproken.",
+		"id": "776c1dfb-12de-411b-b922-bedc95182e8d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"296f7e24-95d5-4497-815d-1473bc648cba",
+			"8b06428c-e260-4f47-924a-e2a29beaf4a8"
+		],
+		"title": "Kan het onderwerp bepalen van korte kijk-/luisterteksten.",
+		"id": "de7787be-81d6-4573-88d6-8bc987e72679",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"9a2e053c-0515-405d-a28e-e770e94afa59",
+			"dd4f9dc7-bc76-4fc0-bcd9-c0b93b1d21e4",
+			"5e07d8f2-483b-4fb2-abfc-ed15ff7085d8",
+			"60b5547d-d0e0-47cd-b223-8209439487e5",
+			"722a59d5-5207-4399-9bff-51c19ebec917",
+			"d0f094be-8687-456a-88eb-d010ffbf2885",
+			"c9fb0871-2ea4-4fe3-902c-059aa7d0b62a",
+			"06999f33-98e1-46d5-a635-825575e06cba",
+			"12c69fe6-2529-43ce-8f41-0caf4b62e344"
+		],
+		"title": "Kan de wezenlijke informatie verstaan en onderscheiden in korte, opgenomen passages over voorspelbare, alledaagse zaken.",
+		"id": "421913ab-36df-4798-8313-7f92d3416ae3",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"162302bf-78ea-4871-bed9-c0716c3cb8c6",
+			"8911416f-42af-4908-8f51-31c03e209bd7",
+			"f01c8a6f-2808-48ac-b1f6-40db7ad2334a"
+		],
+		"title": "Kan de belangrijke informatie onderscheiden in korte radio-uitzendingen, mits er duidelijk wordt gesproken.",
+		"id": "f9d22297-6760-46e0-a33d-d5c6a83bf2f2",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan de hoofdpunten van een verhaal begrijpen en de plot volgen, mits het verhaal langzaam en duidelijk wordt verteld.",
+		"id": "4f3ad3b6-6d2a-42ca-bd93-29a204492eea",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"erk_voorbeeld_id": [
+			"96cfd07e-d596-4644-92e2-2253b060d04f",
+			"e87ba1e8-86b9-4264-8f56-308b16b70b64"
+		],
+		"title": "Kan de hoofdpunten verstaan van nieuwsberichten op de radio en van eenvoudiger opgenomen materiaal over vertrouwde onderwerpen dat betrekkelijk langzaam en helder wordt uitgesproken.",
+		"id": "af6eac1f-181f-4e79-86f5-04e5981f9350",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan begrijpen wat mensen in een radio-interview vertellen over hun vrijetijdsbesteding, in het bijzonder wat ze wel en niet leuk vinden om te doen, mits deze mensen langzaam en duidelijk spreken.",
+		"id": "153a82e5-b136-4dd9-a994-2668da724ddc",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"e3792f7e-874c-4a03-a71a-f40eae03e8da"
+		],
+		"title": "Kan de hoofdpunten en belangrijke details begrijpen in verhalen en andere verhalende betogen, mits de spreker langzaam en duidelijk spreekt.",
+		"id": "4f80d193-cc8e-4c29-9688-36b14c75d03e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"erk_voorbeeld_id": [
+			"3a55b6c3-db19-4b02-819c-80c1196e82cf",
+			"5d08f220-cf5a-4588-b1b3-ef10cc8472fe",
+			"e337201f-6933-4a55-8f10-0b2d5605b8d3"
+		],
+		"title": "Kan de inhoudelijke informatie van het meeste opgenomen of uitgezonden geluidsmateriaal over onderwerpen van persoonlijk belang verstaan.",
+		"id": "642d5966-e23a-44cd-b307-68722603832c",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"a0209ac3-827e-4613-8db1-9b56a0003e15",
+			"4c24e565-9fc7-49bf-a677-f5292e9900f6",
+			"9116c799-7e6c-4250-a2f5-6a5845fb3eaa",
+			"debc2e9d-62ab-4386-bc17-37a52198d633",
+			"a7275545-a6c3-48a5-b0bb-cd58eb838808",
+			"bd44b40e-be4f-4cd9-908e-af9f13621f4f"
+		],
+		"title": "Kan de meeste radiodocumentaires en het meeste andere opgenomen of uitgezonden geluidsmateriaal verstaan en kan de stemming, toon enzovoort van de spreker herkennen.",
+		"id": "fabccf83-71c7-4ae8-935c-c102f6ee6391",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"erk_voorbeeld_id": [
+			"4d99ee4d-b79a-4392-918e-53d7b59c861f",
+			"8adff60d-14d3-4998-b551-694f4a815c72"
+		],
+		"title": "Kan opnamen in standaardtaal verstaan die veel worden aangetroffen in het sociale, beroeps- of onderwijsleven, en naast de inhoudelijke informatie ook standpunten en houdingen van sprekers herkennen.",
+		"id": "8cb4eb96-d42c-4ab3-945a-546fb19a3684",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"erk_voorbeeld_id": [
+			"dd18f734-7067-483f-b1df-6db3f6b055f7",
+			"d03915ac-5352-4572-8e57-803959c5d9e7"
+		],
+		"title": "Kan een breed scala van opgenomen en uitgezonden audiovisueel materiaal verstaan met inbegrip van enig niet-standaardtaalgebruik en fijnere details herkennen zoals impliciete houdingen van en verhoudingen tussen sprekers.",
+		"id": "a37fe4ec-4684-45bd-b173-85e9cfef92b3",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "dc131930-5c4e-4df9-881a-82ad72091ded",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan het onderwerp van een video opname herkennen op basis van visuele informatie en voorkennis.",
+		"id": "884ce79c-c32f-481e-9416-f4a87fac3489",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan vertrouwde woorden en frasen herkennen, de onderwerpen in de hoofdpunten van het nieuws onderscheiden en veel van de producten in reclameboodschapen identificeren door visuele informatie en algemene kennis te gebruiken.",
+		"id": "da3fc5cc-86d6-4406-96b9-0741807bff87",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"b06b9fbf-f508-4c9d-9e0e-426da82aca23",
+			"99f3dd56-1d9f-4ffb-bd5e-c1b395debb02",
+			"14b92d3b-f587-45c3-931a-c291cacfecb7"
+		],
+		"title": "Kan zich een indruk vormen van de belangrijkste inhoud in een feitelijk nieuwsbericht op televisie.",
+		"id": "e7be54b5-e8e4-4046-992d-4a3f42288858",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"erk_voorbeeld_id": [
+			"89efbeeb-cfb5-480a-ba00-e5dc495056f2",
+			"be7ce271-959b-4c49-8e7c-a95f1bff6c9b",
+			"ba0ee599-ee1d-4cf5-8d79-b4aa574ab374",
+			"d719e735-691d-48f5-ab6b-c375443e26a2"
+		],
+		"title": "Kan het belangrijkste punt herkennen van nieuwsberichten op televisie waarin verslag wordt gedaan van gebeurtenissen, ongelukken en dergelijke en waarin het beeld het commentaar ondersteunt.",
+		"id": "a174b376-2f4a-49d6-9207-0b29f3dd3506",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan een televisiereclame of een trailer voor of scène uit een film volgen en begrijpt waar de acteurs over praten, mits de beelden het begrip sterk ondersteunen en er duidelijk en relatief langzaam wordt gesproken.",
+		"id": "f9033d2b-b1a2-40d1-b5ae-03c055dd7bbb",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"940fa686-288d-4ce1-b33d-a1fe38316983",
+			"97a520b6-c30a-4954-91a5-7c2a6e7ffac9",
+			"8c33a425-703a-41d4-b3c8-34a824d0636e"
+		],
+		"title": "Kan veel films volgen waarin een groot deel van de verhaallijn wordt gedragen door visuele effecten en actiescènes en die helder worden gepresenteerd in directe taal.",
+		"id": "b2b26422-6688-4caa-af84-e0bfcd7d2ff3",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"47b24f8b-27e1-428b-8942-6b445fa275e0",
+			"5f49a20b-31b0-4ff3-94a3-c4526a7ee694",
+			"d2e81caf-fb66-4946-9c0b-4d27bc4af323"
+		],
+		"title": "Kan de hoofdpunten vatten van televisieprogramma's over vertrouwde onderwerpen wanneer deze betrekkelijk langzaam en helder worden gepresenteerd.",
+		"id": "364d585d-7101-4f8b-9a31-ea3b469e4893",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"erk_voorbeeld_id": [
+			"fda114ba-f1d4-48fb-bfc9-149ee8ae8111",
+			"3e6ed190-c434-48e3-9e12-a97c8bcd5f5a",
+			"dcdec748-0015-4292-9c8b-7334b57076fc"
+		],
+		"title": "Kan een groot deel begrijpen van veel televisieprogramma's over onderwerpen van persoonlijk belang, zoals vraaggesprekken, korte voordrachten en nieuwsverslagen, wanneer deze betrekkelijk langzaam en helder worden gepresenteerd.",
+		"id": "f34f11fc-4b70-48fa-b780-ca7d7dd77739",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"969eb0ca-e5a5-4873-b8d1-46251332535f",
+			"a06e522a-bf78-462a-b228-b959da4d7a9e",
+			"15fe49cd-0260-4252-bc34-26e1cbc3a256",
+			"5667bd1c-328d-43d3-8e52-f5a8ea9af90e"
+		],
+		"title": "Kan de meeste nieuwsuitzendingen en actualiteitenprogramma's op de televisie en via internet verstaan.",
+		"id": "74547df2-7641-42b5-9a3b-20ca6956dc4b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"fafad5fd-8125-46bc-adae-9057ebdd8b1e",
+			"d5cd8fa3-5bab-4810-9553-a219355c9013",
+			"78920736-b534-417f-884a-410d1c433bfc",
+			"3d508def-9225-4fda-9111-fcdd3705fd9c"
+		],
+		"title": "Kan documentaires, live uitgezonden vraaggesprekken, praatprogramma's, toneelstukken en de meeste films in standaardtaal verstaan op televisie of via internet.",
+		"id": "a4874474-f8d7-4586-a7ff-33010c84e281",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Kan de belangrijkste punten oppikken van argumenten en discussies in nieuws- en actualiteitenprogramma's.",
+		"id": "8548bc03-be81-4640-8bfe-7b468174b346",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"erk_voorbeeld_id": [
+			"6ab9bdd2-9530-46d6-8c37-dcc20c029d12"
+		],
+		"title": "Kan films volgen waarin een aanzienlijke hoeveelheid plat taalgebruik en idiomatische uitdrukkingen wordt gebruikt.",
+		"id": "7485a0ba-64ac-4cce-9a39-8ab9352b404e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan nuances en impliciete betekenis begrijpen in de meeste films, toneelstukken en televisieprogramma's, mits hierin standaardtaal wordt gesproken.",
+		"id": "a4e72d02-6618-4e23-ae23-dc960bfb8530",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"id": "b3b3f57f-dfbc-4c20-b562-bb6530833fdd",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan eenvoudige vragen begrijpen die rechtstreeks over hem of haar gaan, bijvoorbeeld over naam, leeftijd en adres of dergelijke zaken, als degene die de vraag stelt langzaam en duidelijk spreekt.",
+		"id": "c37b1110-a468-488a-943c-f6f0554aac50",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan eenvoudige, persoonlijke informatie begrijpen (bijvoorbeeld naam, leeftijd, woonplaats, afkomst) als andere mensen zich voorstellen, mits deze mensen langzaam en duidelijk rechtstreeks tegen hem of haar praten, en kan vragen begrijpen over deze onderwerpen die aan hem of haar worden gesteld, hoewel de vragen misschien wel herhaald moeten worden.",
+		"id": "190087ac-5f8d-4953-aaeb-022a81ab10b9",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan een aantal vertrouwde woorden begrijpen en essentiële informatie herkennen zoals getallen, prijzen, data en dagen van de week, mits er zeer langzaam wordt gesproken en zo nodig wordt herhaald.",
+		"id": "23d7dc02-b7c5-4060-8c3b-aaa46f3460f3",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"02db21bd-dae2-4b4d-bff8-cb8fc22ac2a3",
+			"b92df3f0-b244-4f0a-a26e-c68b215e1c91",
+			"cd9a437c-e145-401d-8b07-62e4016b6579",
+			"f4d73e67-2579-4a8c-a8e9-823fc525dd51",
+			"3e944171-e0ba-4a50-b956-107d6ba13698",
+			"d47b1c0f-6871-4323-b98c-d870f4f3d1a9"
+		],
+		"title": "Kan alledaagse uitdrukkingen begrijpen, gericht op de vervulling van eenvoudige behoeften van concrete aard, die rechtstreeks tot hem of haar worden gezegd in heldere, langzame en herhaalde bewoordingen door een sympathieke spreker.",
+		"id": "5d1c2a79-873c-4dc9-a392-07a1ebeb089d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"1e1995bc-bba0-4f5b-82cf-632650f75cb7",
+			"004c5df0-f584-453d-920a-89a4357b8403",
+			"0ee830a0-5bde-478e-9897-66a2a3718efd",
+			"d7c36bb4-4c20-446f-862b-e038a57be285",
+			"4ecf661a-1073-4417-a0d9-f2fdb15c87b2"
+		],
+		"title": "Kan tot hem of haar gerichte vragen en instructies verstaan en korte, eenvoudige aanwijzingen volgen.",
+		"id": "92e22e90-3f28-4726-bec2-7e892b2ac6ba",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"6f6a6eff-28bf-4dae-a018-1501127d2626",
+			"4319d286-d157-4948-8634-b1ad9af1c028",
+			"391f9319-6c6e-4807-a2f1-938f743e85b2",
+			"29a0ed29-9ccb-4d55-977d-6cf722f53633",
+			"d0cb432c-9cab-4ed1-b00f-7d65567f2b1f"
+		],
+		"title": "Kan begrijpen wat rechtstreeks tot hem of haar wordt gezegd in eenvoudige alledaagse conversatie; kan tot begrip worden gebracht als de spreker daarvoor de moeite neemt.",
+		"id": "b2586e16-ed38-49d2-93e5-f80d354464c5",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"erk_voorbeeld_id": [
+			"8cb96fb1-f79f-4482-bb99-c48e10a5c884",
+			"bcfd75d4-8e1f-4697-805e-8043a3fbc705",
+			"50d4626e-e8cc-471f-8a42-943431929a33",
+			"79a6dd3b-42a1-46a9-8ae1-d917ed555d48",
+			"e55907ad-303e-47fd-b3da-9e29d92ecacb",
+			"e2d0fad5-74f4-4624-bac2-fbcc8ab5fe2d",
+			"6726cfd2-2fce-46e8-a93e-e10e7b14d0db"
+		],
+		"title": "Kan genoeg begrijpen om eenvoudige routinegesprekken te voeren zonder bovenmatige inspanning.",
+		"id": "1b60bf77-34ad-40f2-b51c-b8bf0b7381c8",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"erk_voorbeeld_id": [
+			"98976ab5-5f11-4511-b8db-1b782ba2cd7c",
+			"63a51cb5-8916-4a8d-9d70-d236c80482df",
+			"06b267ea-1296-4f3c-9b2c-2bdb710c7fdf"
+		],
+		"title": "Kan over het algemeen heldere, tot hem of haar gerichte gesproken standaardtaal begrijpen over vertrouwde zaken, mits hij of zij an en toe om herhaling of herformulering kan vragen.",
+		"id": "1b71e258-9eb7-4f4c-8cae-f4726a20930b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"erk_voorbeeld_id": [
+			"4d884e03-fcc2-4471-a1cb-1382315a44eb",
+			"acec413f-0226-48d5-a961-e01ed98a7ca7",
+			"e4259d4b-d9d0-4980-9ec6-c6846e91f5b3",
+			"2cbc1e21-4a89-4d37-ac98-e0408fe08f30"
+		],
+		"title": "Kan helder uitgesproken spraak volgen die in alledaagse conversatie tot hem of haar gericht wordt, maar zal soms moeten vragen om herhaling van bepaalde woorden en zinnen.",
+		"id": "ee786f73-5130-4784-bdcb-72294255f80c",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"4e1f688c-a14b-41a3-9a32-e722762d353a",
+			"35512682-91e6-42f0-b1ea-184a4ccfd01c",
+			"487a9972-8408-472c-b5ee-1b44d3f39381",
+			"2b935b50-13b5-4f58-9e8c-6c4791ffd3af"
+		],
+		"title": "Kan tot in de details begrijpen wat er tegen hem of haar gezegd wordt, zelfs in een lawaaierige omgeving.",
+		"id": "60965140-c9c4-4114-807b-30d47ea678ff",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"erk_voorbeeld_id": [
+			"09092339-77fb-40c8-aa64-aba4e42f369e",
+			"2ab2de2f-363d-462a-bef6-3a5a2f901967",
+			"8a543878-2384-490e-a0c6-d5462d21e1de",
+			"91bdf750-5ad5-4523-8abf-e6f6b9527b89",
+			"f693aa84-d1e7-47e5-83e5-12804fcdd8c2"
+		],
+		"title": "Kan tot in de details gesproken woord begrijpen over abstracte en complexe onderwerpen van gespecialiseerde aard buiten het eigen vakgebied, al moet hij of zij misschien af en toe een detail laten bevestigen, vooral wanneer sprake is van regionaal getint taalgebruik.",
+		"id": "3d76d1d0-a90e-4b2b-990c-9cf72c31104a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"erk_voorbeeld_id": [
+			"e3011d1f-34e8-4855-bf41-06b5bb584abd",
+			"4bc9c9ad-2013-4480-856b-f08fab208a5a",
+			"e28c1da4-b01a-4fa6-9f18-626d61467bfb"
+		],
+		"title": "Kan iedere moedertaalspreker als gesprekspartner begrijpen, ook over abstracte en complexe onderwerpen van gespecialiseerde aard buiten het eigen vakgebied, mits in de gelegenheid om te wennen aan regionaal getint taalgebruik.",
+		"id": "d97a612e-0050-48ec-b902-4fbe042a8350",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan de betekenis van een woord achterhalen op basis van een begeleidend plaatje of pictogram.",
+		"id": "adce6a74-608e-44ae-a23a-9d8bb6d964fe",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan de waarschijnlijke betekenis van een onbekend woord raden dat lijkt op een woord in de taal die hij of zij normaal gesproken gebruikt.",
+		"id": "d2dffb9c-3f36-497d-b7b2-34fad2592b6e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Kan de betekenis van een onbekend woord voor een concrete handeling of een concreet voorwerp achterhalen, mits de tekst eromheen zeer eenvoudig is en over een vertrouwd alledaags onderwerp gaat.",
+		"id": "f3c3cc6d-82cd-4dc2-842a-408d7c26f871",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan de betekenis en functie van onbekende standaarduitdrukkingen achterhalen op basis van hun plaats in een geschreven tekst (bijvoorbeeld aan het begin of eind van een brief).",
+		"id": "667da34f-ec8b-4ac8-9135-436f4bb14535",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan gebruikmaken van getallen, data, namen, eigen namen enzovoort om het onderwerp van een tekst te bepalen.",
+		"id": "116a9b42-78a8-4f4b-8621-55eacdc22ac7",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan gebruikmaken van opmaak, weergave en typografische kenmerken om het type tekst vast te stellen: nieuwsbericht, reclametekst, artikel, tekstboek, chat- of forumbericht enzovoort.",
+		"id": "1b30d020-e891-4413-b722-9f089b5edc56",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan gebruikmaken van zijn of haar herkenning van bekende woorden om de betekenis van onbekende woorden af te leiden in korte uitdrukkingen die worden gebruikt in alledaagse contexten.",
+		"id": "ab94a30b-b5d2-4907-ad0b-8eda30e277c5",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan zijn of haar begrip van de algemene betekenis van korte teksten over alledaagse onderwerpen van concrete aard gebruiken om de vermoedelijke betekenis van onbekende woorden af te leiden uit de context.",
+		"id": "2d907409-70a2-49f4-ae81-286acf9cdaf9",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan de waarschijnlijke betekenis van onbekende woorden in een schriftelijke tekst afleiden door de delen te herkennen waaruit ze zijn opgebouwd (bijvoorbeeld stam, lexicale elementen, voor- en achtervoegsels).",
+		"id": "5433de39-fb7b-453d-8d59-b2c2f4ca6e85",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan een redenering of een reeks gebeurtenissen in een verhaal volgen door zich te concentreren op veelvoorkomende logische verbindingswoorden (bijvoorbeeld echter, omdat) en verbindingswoorden van tijd (bijvoorbeeld daarna, eerder).",
+		"id": "59000c6b-e83b-4f1a-959d-8edb1c1ddd4f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan luisteren naar een korte verhalende tekst en voorspellen wat er daarna gaat gebeuren.",
+		"id": "08b04390-282a-46cb-935c-0d52f36808e0",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan elementaire gevolgtrekkingen of voorspellingen maken met betrekking tot de inhoud van een tekst op basis van koppen en titels.",
+		"id": "b66f5569-2682-439a-93e8-cfbaf64dc7db",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan de betekenis van zo nu en dan voorkomende onbekende woorden afleiden uit de context en de betekenis van zinnen herleiden, mits het besproken onderwerp vertrouwd is.",
+		"id": "0bc2ea64-64f4-4e8d-8386-2fc8fa2734b8",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan niet-vertrouwde woorden over onderwerpen met betrekking tot het eigen vak- en interessegebied herkennen aan de context.",
+		"id": "7888344c-4746-45d7-b697-b340a53bbd45",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan de betekenis van een onderdeel van een tekst extrapoleren door rekening te houden met de tekst als geheel.",
+		"id": "009d7285-cd3f-4326-aa85-44367a5b5bad",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan gebruikmaken van verschillende typen verbindingswoorden (numeriek, temporeel, logisch) en de rol van sleutelalinea's in de algehele ordening om de argumentatie in een tekst beter te kunnen begrijpen.",
+		"id": "4d1a80bd-46f7-4eb3-83c9-c0af06b4221f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan gebruikmaken van uiteenlopende strategieën om tot begrip te komen, waaronder het letten op hoofdpunten en het controleren van het eigen inzicht aan de hand van contextuele aanwijzingen.",
+		"id": "3818f3ac-b190-49eb-9d94-74090eff3165",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Is vaardig in het gebruik van contextuele, grammaticale en lexicale aanwijzingen om daaruit houdingen, stemmingen en intenties af te leiden en te anticiperen op het vervolg.",
+		"id": "9dbdb2a2-7042-4dff-8269-03fc7b6e4b3e",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Geen descriptoren beschikbaar: zie C1.",
+		"id": "f733a139-9a74-4f4a-96dd-22d85fd1013d",
+		"unreleased": true
 	}
 ]
