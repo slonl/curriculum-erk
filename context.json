@@ -120,6 +120,7 @@
                 "prefix": {
                     "type": "string"
                 },
+				"algemeen" : { "type" : "boolean" },
 				"erk_candobeschrijving_id" : {
 					"allOf": [
 						{
@@ -140,6 +141,7 @@
                 "prefix": {
                     "type": "string"
 						},
+				"isempty" : { "type" : "boolean" },
 				"niveau_id": {
 					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
 					"items" : {
