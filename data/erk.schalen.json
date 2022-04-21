@@ -1,6 +1,6 @@
 [
 	{
-		"title": "Algemene leesvaardigheid",
+		"title": "Leesvaardigheid algemeen",
 		"id": "34c9a621-408a-4ed3-a74c-73138b8fb165",
 		"unreleased": true,
 		"prefix": "",
@@ -114,7 +114,7 @@
 			"7ee9a794-001b-48cc-aaf3-72cdc0fb91e1",
 			"6eb7e39b-f0d1-4082-8fa6-3c1ea3cde52f"
 		],
-		"title": "Algemene taalcompetentie",
+		"title": "Linguïstische competentie algemeen",
 		"algemeen": true,
 		"id": "efe99201-fc12-4060-9c21-8e8f643dc45d",
 		"unreleased": true
@@ -426,7 +426,7 @@
 			"3a92b0f0-3326-4ece-a260-7e0f17f011ca",
 			"072dba46-bc42-44d2-8a09-037158229e8f"
 		],
-		"title": "Mediation - algemeen",
+		"title": "Mediation algemeen",
 		"algemeen": true,
 		"id": "115a7f2d-9b5d-4f8f-addc-d4d4c382243a",
 		"unreleased": true
@@ -1065,7 +1065,7 @@
 			"be5df90c-dffa-4e56-afae-222d8b1bf7be",
 			"41610433-0390-498c-9f1c-fed0f31306a5"
 		],
-		"title": "Algemene luistervaardigheid",
+		"title": "Luistervaardigheid algemeen",
 		"algemeen": true,
 		"id": "6b7ef9da-3d67-45e7-9aec-6a70c8e7ab73",
 		"unreleased": true
@@ -1243,7 +1243,7 @@
 			"3f5c4d60-8a9c-42e9-98e6-95e58953c1c8",
 			"bf36fd72-6ba9-4a0f-a96f-b9c9cd198320"
 		],
-		"title": "Algemene spreekvaardigheid",
+		"title": "Mondelinge productie algemeen",
 		"algemeen": true,
 		"id": "f7c487bd-c63a-4877-8f0f-560d3a283267",
 		"unreleased": true
@@ -1381,7 +1381,7 @@
 			"fda68ab9-f3a5-438d-b6ad-51efbe64b23d",
 			"6458e5e0-a98e-4389-902c-7f411858d2c4"
 		],
-		"title": "Algemene schrijfvaardigheid",
+		"title": "Schriftelijke productie algemeen",
 		"algemeen": true,
 		"id": "07a24446-88b0-4597-a06f-c8419429781c",
 		"unreleased": true
@@ -1523,7 +1523,7 @@
 			"3fc0f41b-0057-4e9c-93d1-952e06950031",
 			"55f21135-3bbd-4499-bdef-2e729b474a26"
 		],
-		"title": "Algemene gespreksvaardigheid",
+		"title": "Mondelinge interactie algemeen",
 		"algemeen": true,
 		"id": "a512cbf4-9be1-4afb-bd08-ea113b2eaff7",
 		"unreleased": true
@@ -1757,7 +1757,7 @@
 			"aec49108-22ca-432d-a699-8ad63d3c5fe5",
 			"2a4eac26-d743-4528-ac2a-f918abc62b65"
 		],
-		"title": "Algemene schriftelijke interactie",
+		"title": "Schriftelijke interactie algemeen",
 		"algemeen": true,
 		"id": "4d3158af-be89-467f-8009-64703e7e2f10",
 		"unreleased": true
