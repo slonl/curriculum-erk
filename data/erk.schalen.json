@@ -1,5 +1,25 @@
 [
 	{
+		"title": "Leesvaardigheid algemeen",
+		"id": "34c9a621-408a-4ed3-a74c-73138b8fb165",
+		"unreleased": true,
+		"prefix": "",
+		"description": "",
+		"algemeen": true,
+		"erk_candobeschrijving_id": [
+			"8ac8095b-3047-4c07-8c68-445a1a7e0850",
+			"c4a37de8-5d4d-4c16-9797-00754a1db6c6",
+			"e28dbb42-06e4-4987-861c-d9e6b8eaf23d",
+			"48aa57ff-afe0-4f95-924e-52435a0a20fb",
+			"aba4a3ed-dbc0-437b-8d03-24303f2fa3d4",
+			"875f2727-d736-4398-8f91-c1383a76b3bd",
+			"c705d666-a3aa-4d8a-9e28-1ec3dc2da0a7",
+			"a5f57db6-22c9-4080-911f-359e6694b32d",
+			"752a4889-ed8f-4152-be2e-0ba45033735e",
+			"20e84aea-29a8-4ea0-9c0d-cfe48570ba06"
+		]
+	},
+	{
 		"erk_candobeschrijving_id": [
 			"2a518096-e5a6-4f97-b6a1-63fa0d4731eb",
 			"f27c1168-e6ac-45f0-9129-a410df373d0f",
@@ -22,26 +42,6 @@
 		"algemeen": true,
 		"id": "6b7ef9da-3d67-45e7-9aec-6a70c8e7ab73",
 		"unreleased": true
-	},
-	{
-		"title": "Leesvaardigheid algemeen",
-		"id": "34c9a621-408a-4ed3-a74c-73138b8fb165",
-		"unreleased": true,
-		"prefix": "",
-		"description": "",
-		"algemeen": true,
-		"erk_candobeschrijving_id": [
-			"8ac8095b-3047-4c07-8c68-445a1a7e0850",
-			"c4a37de8-5d4d-4c16-9797-00754a1db6c6",
-			"e28dbb42-06e4-4987-861c-d9e6b8eaf23d",
-			"48aa57ff-afe0-4f95-924e-52435a0a20fb",
-			"aba4a3ed-dbc0-437b-8d03-24303f2fa3d4",
-			"875f2727-d736-4398-8f91-c1383a76b3bd",
-			"c705d666-a3aa-4d8a-9e28-1ec3dc2da0a7",
-			"a5f57db6-22c9-4080-911f-359e6694b32d",
-			"752a4889-ed8f-4152-be2e-0ba45033735e",
-			"20e84aea-29a8-4ea0-9c0d-cfe48570ba06"
-		]
 	},
 	{
 		"erk_candobeschrijving_id": [
