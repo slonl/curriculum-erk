@@ -12,6 +12,40 @@
 		]
 	},
 	{
+		"erk_taalactiviteit_id": [
+			"49524ae3-0d53-4bd2-bd96-b26f2814f2a9",
+			"ce159d61-5ff5-449b-87cf-fc39765dfe95",
+			"882df096-63b5-4d04-8cb9-9f345c66851e"
+		],
+		"title": "Productief",
+		"id": "69c2a979-f6e6-45d1-b147-08702d6887b7",
+		"unreleased": true
+	},
+	{
+		"erk_taalactiviteit_id": [
+			"23a3939b-0b8b-4570-9f63-8f64ad81fac2",
+			"889fcb75-63d9-4ee2-a32d-9b06d695170f",
+			"05a808e1-1b89-4011-a967-bd2484b58df7",
+			"faa17847-ec74-4f9f-8b0f-791d1211a20b"
+		],
+		"title": "Interactie",
+		"id": "9b4030c8-47f7-41f3-bf94-fe64f2e1916e",
+		"unreleased": true
+	},
+	{
+		"erk_taalactiviteit_id": [
+			"ee5030de-1459-4e55-83a1-044ae0b8d06f",
+			"debbe411-e0f9-416e-9a75-dcd2af41556b",
+			"64f88ea3-3b84-4819-ab5f-696f672ea945",
+			"62971353-3ec4-45a8-b41a-f48167b4e61a",
+			"f07812b1-8bab-4d0c-9009-36151c784a17",
+			"fd1f1e06-1486-4764-a443-c2f09b2683d9"
+		],
+		"title": "Mediation",
+		"id": "ba228579-63ef-40ac-ba04-a5a80accdc01",
+		"unreleased": true
+	},
+	{
 		"erk_schaal_id": [
 			"efe99201-fc12-4060-9c21-8e8f643dc45d",
 			"0e4d2901-3363-4db7-a767-ed0505565eb0",
@@ -45,40 +79,6 @@
 		],
 		"title": "Pragmatisch",
 		"id": "96d01289-97ec-4024-89f5-4f49c3937e8c",
-		"unreleased": true
-	},
-	{
-		"erk_taalactiviteit_id": [
-			"ee5030de-1459-4e55-83a1-044ae0b8d06f",
-			"debbe411-e0f9-416e-9a75-dcd2af41556b",
-			"64f88ea3-3b84-4819-ab5f-696f672ea945",
-			"62971353-3ec4-45a8-b41a-f48167b4e61a",
-			"f07812b1-8bab-4d0c-9009-36151c784a17",
-			"fd1f1e06-1486-4764-a443-c2f09b2683d9"
-		],
-		"title": "Mediation",
-		"id": "ba228579-63ef-40ac-ba04-a5a80accdc01",
-		"unreleased": true
-	},
-	{
-		"erk_taalactiviteit_id": [
-			"49524ae3-0d53-4bd2-bd96-b26f2814f2a9",
-			"ce159d61-5ff5-449b-87cf-fc39765dfe95",
-			"882df096-63b5-4d04-8cb9-9f345c66851e"
-		],
-		"title": "Productief",
-		"id": "69c2a979-f6e6-45d1-b147-08702d6887b7",
-		"unreleased": true
-	},
-	{
-		"erk_taalactiviteit_id": [
-			"23a3939b-0b8b-4570-9f63-8f64ad81fac2",
-			"889fcb75-63d9-4ee2-a32d-9b06d695170f",
-			"05a808e1-1b89-4011-a967-bd2484b58df7",
-			"faa17847-ec74-4f9f-8b0f-791d1211a20b"
-		],
-		"title": "Interactie",
-		"id": "9b4030c8-47f7-41f3-bf94-fe64f2e1916e",
 		"unreleased": true
 	}
 ]
