@@ -1,20 +1,5 @@
 [
 	{
-		"title": "Lezen",
-		"id": "68201111-0883-4307-9811-dde3e373633f",
-		"unreleased": true,
-		"prefix": "",
-		"description": "",
-		"erk_schaal_id": [
-			"34c9a621-408a-4ed3-a74c-73138b8fb165",
-			"b6252d39-570d-4a94-8406-24cf24166049",
-			"cc8a1f60-efcc-4cec-8229-932dbe29e51c",
-			"f84f75e7-1ba0-4694-b9cf-8bafe075d3cb",
-			"4ad54d56-d668-4a0b-80f5-3b9d76dd322d",
-			"422129cb-4739-49bc-a174-64275fe10134"
-		]
-	},
-	{
 		"erk_schaal_id": [
 			"115a7f2d-9b5d-4f8f-addc-d4d4c382243a"
 		],
@@ -92,6 +77,21 @@
 		"title": "Luisteren (en kijken)",
 		"id": "f46c1c83-1d83-442a-8a59-ac4c8b61c7a3",
 		"unreleased": true
+	},
+	{
+		"title": "Lezen",
+		"id": "68201111-0883-4307-9811-dde3e373633f",
+		"unreleased": true,
+		"prefix": "",
+		"description": "",
+		"erk_schaal_id": [
+			"34c9a621-408a-4ed3-a74c-73138b8fb165",
+			"b6252d39-570d-4a94-8406-24cf24166049",
+			"cc8a1f60-efcc-4cec-8229-932dbe29e51c",
+			"f84f75e7-1ba0-4694-b9cf-8bafe075d3cb",
+			"4ad54d56-d668-4a0b-80f5-3b9d76dd322d",
+			"422129cb-4739-49bc-a174-64275fe10134"
+		]
 	},
 	{
 		"erk_schaal_id": [
