@@ -8,7 +8,7 @@
                 },
                 "vakleergebied_id": {
                     "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/vakleergebied"
-                },
+                }
             },
             "anyOf": [
                 {
