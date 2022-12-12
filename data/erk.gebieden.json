@@ -1,0 +1,32 @@
+[
+	{
+		"title": "Taalactiviteiten",
+		"id": "5b8735d8-16d9-45bd-b806-32c6fa936aa0",
+		"prefix": "",
+		"description": "",
+		"erk_categorie_id": [
+			"9b4030c8-47f7-41f3-bf94-fe64f2e1916e",
+			"69c2a979-f6e6-45d1-b147-08702d6887b7",
+			"ceb938f3-f704-47eb-8f43-ba9c867024f5",
+			"ba228579-63ef-40ac-ba04-a5a80accdc01"
+		]
+	},
+	{
+		"title": "Taalcompetenties",
+		"id": "a1b9682f-9c16-4b04-b5e0-4411c3c92ff4",
+		"erk_categorie_id": [
+			"af6bb85e-635e-4da2-aa7e-f5e9a8928b1f",
+			"f88ebd19-f337-45e0-bedc-6aa6f5fb3ebc",
+			"96d01289-97ec-4024-89f5-4f49c3937e8c"
+		]
+	},
+	{
+		"erk_schaal_id": [
+			"56b546a4-2e91-4666-b608-1bd95cd20191",
+			"2c4d10cc-63f0-40a7-a9fe-8e7f8ec0c09f",
+			"d39d33ff-4b79-4a91-81f3-62ae431c351e"
+		],
+		"title": "Meertalige en pluriculturele competenties",
+		"id": "7a0a41fe-586b-4722-8d2b-4c5a5b864155"
+	}
+]
