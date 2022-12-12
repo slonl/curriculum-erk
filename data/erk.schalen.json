@@ -2,7 +2,6 @@
 	{
 		"title": "Leesvaardigheid algemeen",
 		"id": "34c9a621-408a-4ed3-a74c-73138b8fb165",
-		"unreleased": true,
 		"prefix": "",
 		"description": "",
 		"algemeen": true,
@@ -40,8 +39,7 @@
 		],
 		"title": "Luistervaardigheid algemeen",
 		"algemeen": true,
-		"id": "6b7ef9da-3d67-45e7-9aec-6a70c8e7ab73",
-		"unreleased": true
+		"id": "6b7ef9da-3d67-45e7-9aec-6a70c8e7ab73"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -56,8 +54,7 @@
 		],
 		"title": "Mondelinge productie algemeen",
 		"algemeen": true,
-		"id": "f7c487bd-c63a-4877-8f0f-560d3a283267",
-		"unreleased": true
+		"id": "f7c487bd-c63a-4877-8f0f-560d3a283267"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -74,8 +71,7 @@
 		],
 		"title": "Schriftelijke productie algemeen",
 		"algemeen": true,
-		"id": "07a24446-88b0-4597-a06f-c8419429781c",
-		"unreleased": true
+		"id": "07a24446-88b0-4597-a06f-c8419429781c"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -103,8 +99,7 @@
 		],
 		"title": "Mondelinge interactie algemeen",
 		"algemeen": true,
-		"id": "a512cbf4-9be1-4afb-bd08-ea113b2eaff7",
-		"unreleased": true
+		"id": "a512cbf4-9be1-4afb-bd08-ea113b2eaff7"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -119,8 +114,7 @@
 		],
 		"title": "Schriftelijke interactie algemeen",
 		"algemeen": true,
-		"id": "4d3158af-be89-467f-8009-64703e7e2f10",
-		"unreleased": true
+		"id": "4d3158af-be89-467f-8009-64703e7e2f10"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -149,8 +143,7 @@
 		],
 		"title": "Mediation algemeen",
 		"algemeen": true,
-		"id": "115a7f2d-9b5d-4f8f-addc-d4d4c382243a",
-		"unreleased": true
+		"id": "115a7f2d-9b5d-4f8f-addc-d4d4c382243a"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -171,8 +164,7 @@
 		],
 		"title": "Linguïstische competentie algemeen",
 		"algemeen": true,
-		"id": "efe99201-fc12-4060-9c21-8e8f643dc45d",
-		"unreleased": true
+		"id": "efe99201-fc12-4060-9c21-8e8f643dc45d"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -202,8 +194,7 @@
 			"28e6b965-145a-43d6-a703-8100197f915a"
 		],
 		"title": "Voortbouwen op pluricultureel repertoire",
-		"id": "56b546a4-2e91-4666-b608-1bd95cd20191",
-		"unreleased": true
+		"id": "56b546a4-2e91-4666-b608-1bd95cd20191"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -223,8 +214,7 @@
 			"339bc62e-dcc1-4c48-b771-9addbc4201cb"
 		],
 		"title": "Meertalig begrip",
-		"id": "2c4d10cc-63f0-40a7-a9fe-8e7f8ec0c09f",
-		"unreleased": true
+		"id": "2c4d10cc-63f0-40a7-a9fe-8e7f8ec0c09f"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -249,8 +239,7 @@
 			"93c5d263-c69f-491d-aa19-f7cb1517725c"
 		],
 		"title": "Voortbouwen op meertalig repertoire",
-		"id": "d39d33ff-4b79-4a91-81f3-62ae431c351e",
-		"unreleased": true
+		"id": "d39d33ff-4b79-4a91-81f3-62ae431c351e"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -273,8 +262,7 @@
 			"9077df9f-8bc5-4465-b4a6-35c062c98814"
 		],
 		"title": "Bereik van de woordenschat",
-		"id": "0e4d2901-3363-4db7-a767-ed0505565eb0",
-		"unreleased": true
+		"id": "0e4d2901-3363-4db7-a767-ed0505565eb0"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -289,8 +277,7 @@
 			"b309af2c-2d3e-430a-bfd6-2339197dbbbf"
 		],
 		"title": "Beheersing van de woordenschat",
-		"id": "0c5eb3d2-7c6d-4878-95e7-2e20087c675c",
-		"unreleased": true
+		"id": "0c5eb3d2-7c6d-4878-95e7-2e20087c675c"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -306,8 +293,7 @@
 			"e8954b43-7ddc-4ad9-a60e-fca9dbb8e81d"
 		],
 		"title": "Grammaticale nauwkeurigheid",
-		"id": "eae8fbf3-1d39-41c2-a47a-4e6392b486e8",
-		"unreleased": true
+		"id": "eae8fbf3-1d39-41c2-a47a-4e6392b486e8"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -320,8 +306,7 @@
 			"3734d072-c521-4504-b327-6ecf9ce91f05"
 		],
 		"title": "Fonologische beheersing",
-		"id": "cdcfe652-82d9-4b8e-a52d-062e8d258566",
-		"unreleased": true
+		"id": "cdcfe652-82d9-4b8e-a52d-062e8d258566"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -337,8 +322,7 @@
 			"f5fd0d25-8803-4b57-aafa-9c0763d7b0e1"
 		],
 		"title": "Klankarticulatie",
-		"id": "20206dda-ab8f-470a-a06d-e56090634228",
-		"unreleased": true
+		"id": "20206dda-ab8f-470a-a06d-e56090634228"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -352,8 +336,7 @@
 			"74bbceed-d6e9-4305-aeee-fc9ff4779460"
 		],
 		"title": "Prosodische kenmerken",
-		"id": "4f96f0c1-3ec2-4a3f-95a2-57d4fa4d0d16",
-		"unreleased": true
+		"id": "4f96f0c1-3ec2-4a3f-95a2-57d4fa4d0d16"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -372,8 +355,7 @@
 			"1587dcc5-a8ed-4069-93d7-0465194abd00"
 		],
 		"title": "Orthografische beheersing",
-		"id": "4f30b1d8-0a71-403d-932d-5d4c1704d87a",
-		"unreleased": true
+		"id": "4f30b1d8-0a71-403d-932d-5d4c1704d87a"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -404,8 +386,7 @@
 			"9c489fda-e924-4d90-9c44-6524a5b040e6"
 		],
 		"title": "Sociolinguïstisch adequaat taalgebruik",
-		"id": "404c023a-b8c1-405a-8b09-a3e565a5650d",
-		"unreleased": true
+		"id": "404c023a-b8c1-405a-8b09-a3e565a5650d"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -424,8 +405,7 @@
 			"c8e671c9-2a9d-49d0-bd96-1a07472846f4"
 		],
 		"title": "Flexibiliteit",
-		"id": "f8d91c39-870b-4976-a036-ed1ffb9da094",
-		"unreleased": true
+		"id": "f8d91c39-870b-4976-a036-ed1ffb9da094"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -444,8 +424,7 @@
 			"8b64f1ce-bc2b-49f5-8829-b4df6910081e"
 		],
 		"title": "Het woord nemen",
-		"id": "29d1ec67-459c-48b1-86cf-d8559b7e5da9",
-		"unreleased": true
+		"id": "29d1ec67-459c-48b1-86cf-d8559b7e5da9"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -472,8 +451,7 @@
 			"a687179b-9096-4206-97f2-47d6531667f9"
 		],
 		"title": "Thematische ontwikkeling",
-		"id": "2839c055-88c0-440f-8280-011bf8f1c6e8",
-		"unreleased": true
+		"id": "2839c055-88c0-440f-8280-011bf8f1c6e8"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -494,8 +472,7 @@
 			"26274f54-8b92-493b-a7d7-389c965af0ec"
 		],
 		"title": "Coherentie",
-		"id": "79bcff13-6725-4659-8ede-a82da82983c1",
-		"unreleased": true
+		"id": "79bcff13-6725-4659-8ede-a82da82983c1"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -513,8 +490,7 @@
 			"0542fc7a-9ba3-4bfb-8ca5-6d47014b783c"
 		],
 		"title": "Nauwkeurigheid van de uiting",
-		"id": "582c9a5c-11c5-4e38-a9e8-a470d4f9d1bd",
-		"unreleased": true
+		"id": "582c9a5c-11c5-4e38-a9e8-a470d4f9d1bd"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -531,8 +507,7 @@
 			"56d348be-b707-40a6-82a0-5a79daa042b2"
 		],
 		"title": "Vloeiendheid",
-		"id": "b40f3fa1-a82b-4949-a089-42785adb1b9c",
-		"unreleased": true
+		"id": "b40f3fa1-a82b-4949-a089-42785adb1b9c"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -552,8 +527,7 @@
 			"e169e505-d00e-4857-a674-4141f1a0396e"
 		],
 		"title": "Specifieke informatie mondeling doorgeven",
-		"id": "1c11e637-5eaf-45f3-8410-44a6a75c1006",
-		"unreleased": true
+		"id": "1c11e637-5eaf-45f3-8410-44a6a75c1006"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -574,8 +548,7 @@
 			"4454dc3b-8d92-4d4b-82c3-41d1b19253c2"
 		],
 		"title": "Specifieke informatie mondeling doorgeven",
-		"id": "3c802231-529e-4d76-9aab-40eae8225fe8",
-		"unreleased": true
+		"id": "3c802231-529e-4d76-9aab-40eae8225fe8"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -590,8 +563,7 @@
 			"b1cf19f9-fed7-4c63-a883-8d4e290f95b9"
 		],
 		"title": "Data mondeling uitleggen",
-		"id": "288b6f87-8d9e-4c03-b887-d7781510db71",
-		"unreleased": true
+		"id": "288b6f87-8d9e-4c03-b887-d7781510db71"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -605,8 +577,7 @@
 			"8e69bcb5-a53d-45cb-9ffb-f1f1ccf751dc"
 		],
 		"title": "Data schriftelijk uitleggen",
-		"id": "5ec53958-4390-49c0-b4bc-35e24e631d85",
-		"unreleased": true
+		"id": "5ec53958-4390-49c0-b4bc-35e24e631d85"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -641,8 +612,7 @@
 			"138928a7-7666-4e16-82bd-e230cea47141"
 		],
 		"title": "Tekst mondeling verwerken",
-		"id": "97154fe6-5225-4793-bb6e-9d68910e78b3",
-		"unreleased": true
+		"id": "97154fe6-5225-4793-bb6e-9d68910e78b3"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -666,8 +636,7 @@
 			"2f98f36d-cd1f-4e78-adda-3903356dd3e1"
 		],
 		"title": "Tekst schriftelijk verwerken",
-		"id": "e2b6da00-13a1-42c8-af8a-13ff4a5b5392",
-		"unreleased": true
+		"id": "e2b6da00-13a1-42c8-af8a-13ff4a5b5392"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -692,8 +661,7 @@
 			"4eeb0a15-7980-413c-84d0-c24bdb8bb89a"
 		],
 		"title": "Een geschreven tekst mondeling vertalen",
-		"id": "c7fc2181-3edb-43ff-9302-4477cc6de76e",
-		"unreleased": true
+		"id": "c7fc2181-3edb-43ff-9302-4477cc6de76e"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -713,8 +681,7 @@
 			"311c8909-a7e3-4a1c-bfdd-5eaa56cf3aa7"
 		],
 		"title": "Aantekeningen maken",
-		"id": "274c92c2-56cb-4cf3-8039-b791ee79f595",
-		"unreleased": true
+		"id": "274c92c2-56cb-4cf3-8039-b791ee79f595"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -740,8 +707,7 @@
 			"2c73eabf-34e8-4e7e-9595-626bb70ae64e"
 		],
 		"title": "Een persoonlijke reactie op creatieve teksten uitdrukken",
-		"id": "59de7906-e16b-4fb3-9887-6c19a7d6bef9",
-		"unreleased": true
+		"id": "59de7906-e16b-4fb3-9887-6c19a7d6bef9"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -763,8 +729,7 @@
 			"bfa4b4d5-fa12-4f7d-9d81-ad063f99d3e4"
 		],
 		"title": "Creatieve teksten analyseren en kritisch evalueren",
-		"id": "4653ae86-aea9-4a1f-b228-8ea08a529afa",
-		"unreleased": true
+		"id": "4653ae86-aea9-4a1f-b228-8ea08a529afa"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -787,8 +752,7 @@
 			"da62fc08-ca2a-4e77-9565-a495e4227a90"
 		],
 		"title": "Interculturele ruimte mogelijk maken",
-		"id": "e4386ae9-5148-46db-a9e3-fba6ab3d08a8",
-		"unreleased": true
+		"id": "e4386ae9-5148-46db-a9e3-fba6ab3d08a8"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -805,8 +769,7 @@
 			"9c1cfb99-5227-4280-8f25-a2dec536c73c"
 		],
 		"title": "Als intermediair optreden in informele situaties",
-		"id": "8071a4c5-bbf1-4f88-a55f-4f9f7f91f2a8",
-		"unreleased": true
+		"id": "8071a4c5-bbf1-4f88-a55f-4f9f7f91f2a8"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -829,8 +792,7 @@
 			"6427a9c9-b6ef-4091-93e3-b8b1b1f09678"
 		],
 		"title": "Communicatie bevorderen in gevoelige situaties en bij onenigheid",
-		"id": "b350bcbb-483f-4e23-8a62-a9ddf3b82a87",
-		"unreleased": true
+		"id": "b350bcbb-483f-4e23-8a62-a9ddf3b82a87"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -852,8 +814,7 @@
 			"cf2065cf-d42e-406a-9de8-fdcb14e1f82b"
 		],
 		"title": "Samenwerkende interactie tussen peers bevorderen",
-		"id": "5a301d2f-8c3d-47fe-a632-07c2f22f26c5",
-		"unreleased": true
+		"id": "5a301d2f-8c3d-47fe-a632-07c2f22f26c5"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -878,8 +839,7 @@
 			"176a0800-96b4-498f-a4d7-811dee9a6fe5"
 		],
 		"title": "Samenwerken aan betekenisvorming",
-		"id": "025616e1-cb16-4faf-875d-dfad8b846847",
-		"unreleased": true
+		"id": "025616e1-cb16-4faf-875d-dfad8b846847"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -900,8 +860,7 @@
 			"b166799a-05a1-43b3-a762-107a7ccfb277"
 		],
 		"title": "Interactie beheren",
-		"id": "e39d1e09-4773-454f-84f7-b6c45a191926",
-		"unreleased": true
+		"id": "e39d1e09-4773-454f-84f7-b6c45a191926"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -922,8 +881,7 @@
 			"3d2f4262-df7b-4b41-a7ff-079072e9a668"
 		],
 		"title": "Conceptuele dialoog aanmoedigen",
-		"id": "f86eb171-d684-4e6d-b403-f4e6dd343ae5",
-		"unreleased": true
+		"id": "f86eb171-d684-4e6d-b403-f4e6dd343ae5"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -939,8 +897,7 @@
 			"5b3066fb-9eb1-4623-b386-a8a1f30f307b"
 		],
 		"title": "Koppelen aan eerdere kennis",
-		"id": "af5d9bfe-ebe7-47d2-b5aa-e1566bda4c51",
-		"unreleased": true
+		"id": "af5d9bfe-ebe7-47d2-b5aa-e1566bda4c51"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -958,8 +915,7 @@
 			"bb0eea85-c2c1-4412-bd2f-7949552ac271"
 		],
 		"title": "Taal aanpassen",
-		"id": "c7e36039-a22b-4493-9463-3640568c7ff8",
-		"unreleased": true
+		"id": "c7e36039-a22b-4493-9463-3640568c7ff8"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -974,8 +930,7 @@
 			"e354005d-b92b-4ba3-afae-7ce97a31d3f7"
 		],
 		"title": "Gecompliceerde informatie opsplitsen",
-		"id": "39345624-d45d-43bf-9881-f4370daaf18e",
-		"unreleased": true
+		"id": "39345624-d45d-43bf-9881-f4370daaf18e"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -992,8 +947,7 @@
 			"a3a4d83b-c1d2-46f8-aaf4-e4b689287e0a"
 		],
 		"title": "Tekst met hoge informatiedichtheid toelichten",
-		"id": "43c6393f-a27c-4499-8bbd-13439c68d994",
-		"unreleased": true
+		"id": "43c6393f-a27c-4499-8bbd-13439c68d994"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1008,8 +962,7 @@
 			"a9a19f7d-8494-45a1-849b-c45ec604a09c"
 		],
 		"title": "Tekst stroomlijnen",
-		"id": "be0692e3-3ac9-4274-8c4e-0791ddb16c0b",
-		"unreleased": true
+		"id": "be0692e3-3ac9-4274-8c4e-0791ddb16c0b"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1032,8 +985,7 @@
 			"69321888-830d-4a25-a128-53fd47923cfb"
 		],
 		"title": "Correspondentie lezen",
-		"id": "b6252d39-570d-4a94-8406-24cf24166049",
-		"unreleased": true
+		"id": "b6252d39-570d-4a94-8406-24cf24166049"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1063,8 +1015,7 @@
 			"105b5a76-6a22-48ad-bcbd-bb656d59907e"
 		],
 		"title": "Oriënterend lezen",
-		"id": "cc8a1f60-efcc-4cec-8229-932dbe29e51c",
-		"unreleased": true
+		"id": "cc8a1f60-efcc-4cec-8229-932dbe29e51c"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1099,8 +1050,7 @@
 			"a5da7f97-279b-4f97-8b43-41c5c9023b36"
 		],
 		"title": "Lezen voor informatie en argumentatie",
-		"id": "f84f75e7-1ba0-4694-b9cf-8bafe075d3cb",
-		"unreleased": true
+		"id": "f84f75e7-1ba0-4694-b9cf-8bafe075d3cb"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1120,8 +1070,7 @@
 			"285902e4-2b92-4acd-ae8f-17be4eab6dd4"
 		],
 		"title": "Instructies lezen",
-		"id": "4ad54d56-d668-4a0b-80f5-3b9d76dd322d",
-		"unreleased": true
+		"id": "4ad54d56-d668-4a0b-80f5-3b9d76dd322d"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1146,8 +1095,7 @@
 			"3092ce65-ee66-4bd9-84de-3dde41220c27"
 		],
 		"title": "Lezen als vrijetijdsbesteding",
-		"id": "422129cb-4739-49bc-a174-64275fe10134",
-		"unreleased": true
+		"id": "422129cb-4739-49bc-a174-64275fe10134"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1170,8 +1118,7 @@
 			"3e9d29a7-3923-4530-af8b-99400270b671"
 		],
 		"title": "Interactie tussen andere sprekers begrijpen",
-		"id": "888afb31-15ae-489e-99f4-27a3bcac1863",
-		"unreleased": true
+		"id": "888afb31-15ae-489e-99f4-27a3bcac1863"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1196,8 +1143,7 @@
 			"b3beaf4b-735d-4f68-8b19-2be651b7ee26"
 		],
 		"title": "Luisteren als lid van een aanwezig publiek",
-		"id": "763a4d0a-b18b-4da3-b664-6bf2cdf2f237",
-		"unreleased": true
+		"id": "763a4d0a-b18b-4da3-b664-6bf2cdf2f237"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1222,8 +1168,7 @@
 			"c1778a80-b307-4f02-9824-f08e215a049c"
 		],
 		"title": "Luisteren naar mededelingen en instructies",
-		"id": "2f6b5a57-8b14-4834-afdd-cbf4638b6d71",
-		"unreleased": true
+		"id": "2f6b5a57-8b14-4834-afdd-cbf4638b6d71"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1242,8 +1187,7 @@
 			"dc131930-5c4e-4df9-881a-82ad72091ded"
 		],
 		"title": "Luisteren naar audiomedia en geluidsopnames",
-		"id": "d78f5af9-1b28-4f68-bab2-f6ecff7807e9",
-		"unreleased": true
+		"id": "d78f5af9-1b28-4f68-bab2-f6ecff7807e9"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1263,8 +1207,7 @@
 			"b3b3f57f-dfbc-4c20-b562-bb6530833fdd"
 		],
 		"title": "Kijken en luisteren naar tv, film en video",
-		"id": "237545d1-b66f-4fe7-9b45-b3bb7f127563",
-		"unreleased": true
+		"id": "237545d1-b66f-4fe7-9b45-b3bb7f127563"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1282,8 +1225,7 @@
 			"d97a612e-0050-48ec-b902-4fbe042a8350"
 		],
 		"title": "Een gesprekspartner begrijpen",
-		"id": "c2fc92d9-59b8-4728-91db-7739b36f99c8",
-		"unreleased": true
+		"id": "c2fc92d9-59b8-4728-91db-7739b36f99c8"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1308,8 +1250,7 @@
 			"f733a139-9a74-4f4a-96dd-22d85fd1013d"
 		],
 		"title": "Aanwijzingen herkennen en afleiden",
-		"id": "bd84c917-4e9c-40af-a1f4-79c81b1de7ea",
-		"unreleased": true
+		"id": "bd84c917-4e9c-40af-a1f4-79c81b1de7ea"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1345,8 +1286,7 @@
 			"ad8ed0b0-85c7-43d8-ab12-265d77b9b03e"
 		],
 		"title": "Monoloog: ervaringen beschrijven",
-		"id": "9e9f5b26-13da-410f-886a-1e2dbb05b2ff",
-		"unreleased": true
+		"id": "9e9f5b26-13da-410f-886a-1e2dbb05b2ff"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1364,8 +1304,7 @@
 			"bdd6f293-2bae-4721-893e-a39699bea1fb"
 		],
 		"title": "Monoloog: informatie geven",
-		"id": "cdc8a132-9af3-4cc7-9be2-11b8f8f16c83",
-		"unreleased": true
+		"id": "cdc8a132-9af3-4cc7-9be2-11b8f8f16c83"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1387,8 +1326,7 @@
 			"f6ed52b5-ff36-4aba-bf3a-b150e24246b5"
 		],
 		"title": "Monoloog: een pleidooi houden",
-		"id": "d8b05f01-6979-4c4e-8be1-c1cae7e065f7",
-		"unreleased": true
+		"id": "d8b05f01-6979-4c4e-8be1-c1cae7e065f7"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1401,8 +1339,7 @@
 			"1997f499-fa7e-4ac8-b41c-910b33ae730c"
 		],
 		"title": "Openbare mededelingen",
-		"id": "9231a11a-ffc4-49d0-a03f-b63a879f1329",
-		"unreleased": true
+		"id": "9231a11a-ffc4-49d0-a03f-b63a879f1329"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1428,8 +1365,7 @@
 			"893b3c11-bba3-4c3e-b31f-8fb695c77542"
 		],
 		"title": "Een publiek toespreken",
-		"id": "6af43835-e5e6-464b-bfd6-4901e06b9bba",
-		"unreleased": true
+		"id": "6af43835-e5e6-464b-bfd6-4901e06b9bba"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1460,8 +1396,7 @@
 			"3b4ab183-a8eb-4cc0-845a-6861f5517834"
 		],
 		"title": "Creatief schrijven",
-		"id": "df863aea-cbd5-4bcb-92f0-6c68bbb3f47e",
-		"unreleased": true
+		"id": "df863aea-cbd5-4bcb-92f0-6c68bbb3f47e"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1487,8 +1422,7 @@
 			"6707ebf6-aa2b-4bed-84c5-f2f94eba9233"
 		],
 		"title": "Schriftelijke verslagen en essays",
-		"id": "194edda5-0ddd-483f-ad19-8d0ca77cef60",
-		"unreleased": true
+		"id": "194edda5-0ddd-483f-ad19-8d0ca77cef60"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1503,8 +1437,7 @@
 			"ae136352-fe0a-4c34-b71b-aa9d29904dbd"
 		],
 		"title": "Planning",
-		"id": "b5fa8270-82cb-4caf-85af-771dae587ce5",
-		"unreleased": true
+		"id": "b5fa8270-82cb-4caf-85af-771dae587ce5"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1522,8 +1455,7 @@
 			"0e8ef8c4-7877-4d8f-a417-3499679575f4"
 		],
 		"title": "Compensatie",
-		"id": "7eedab9f-6032-4612-9192-eda528716123",
-		"unreleased": true
+		"id": "7eedab9f-6032-4612-9192-eda528716123"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1541,8 +1473,7 @@
 			"6055ca44-15d6-47cb-9ab4-6ae23f891db6"
 		],
 		"title": "Monitoring en herstel",
-		"id": "2f1fb645-9cae-46ff-ba74-6be7b7404c43",
-		"unreleased": true
+		"id": "2f1fb645-9cae-46ff-ba74-6be7b7404c43"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1571,8 +1502,7 @@
 			"d59dac41-f724-48f8-81ba-2fb94e5b14e6"
 		],
 		"title": "Conversatie",
-		"id": "dc9b22ba-50af-4f34-8cc1-342824b3188e",
-		"unreleased": true
+		"id": "dc9b22ba-50af-4f34-8cc1-342824b3188e"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1597,8 +1527,7 @@
 			"1771b512-3d02-4212-86fe-f123f78d88fb"
 		],
 		"title": "Informele discussie",
-		"id": "734d5846-fb5e-4909-9b98-fc626f1b37dc",
-		"unreleased": true
+		"id": "734d5846-fb5e-4909-9b98-fc626f1b37dc"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1622,8 +1551,7 @@
 			"d4de0a88-20c0-457b-b098-37cbc0453950"
 		],
 		"title": "Formele discussie",
-		"id": "ea558d3d-9f2c-4a89-9672-63bff61bc8cd",
-		"unreleased": true
+		"id": "ea558d3d-9f2c-4a89-9672-63bff61bc8cd"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1642,8 +1570,7 @@
 			"28f1889f-c5fa-4552-938c-8fc4faca72eb"
 		],
 		"title": "Doelgerichte samenwerking",
-		"id": "f54ad8e1-973e-45fa-88c5-93bff5fe4d3f",
-		"unreleased": true
+		"id": "f54ad8e1-973e-45fa-88c5-93bff5fe4d3f"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1678,8 +1605,7 @@
 			"46c6027a-a026-45e6-a787-fc6f01b52e09"
 		],
 		"title": "Zaken regelen",
-		"id": "6615ae9c-e940-4203-816a-1affa8c50028",
-		"unreleased": true
+		"id": "6615ae9c-e940-4203-816a-1affa8c50028"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1720,8 +1646,7 @@
 			"bba3c8fc-84bd-4a26-a90c-2bcec706be8b"
 		],
 		"title": "Informatie uitwisselen",
-		"id": "f3cd3e9f-d4c1-447c-99b6-ecafe851bc27",
-		"unreleased": true
+		"id": "f3cd3e9f-d4c1-447c-99b6-ecafe851bc27"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1740,8 +1665,7 @@
 			"ff7397f2-c640-49e0-918d-92bac15ab93a"
 		],
 		"title": "Interviewen en geïnterviewd worden",
-		"id": "4c95ffe3-c80f-408c-93e9-25a6d33cd643",
-		"unreleased": true
+		"id": "4c95ffe3-c80f-408c-93e9-25a6d33cd643"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1759,8 +1683,7 @@
 			"35797f43-39ef-4947-a705-3d97ece1d226"
 		],
 		"title": "Gebruik van telecommunicatie",
-		"id": "f95a83cd-5069-4077-8f77-a87d9b038b24",
-		"unreleased": true
+		"id": "f95a83cd-5069-4077-8f77-a87d9b038b24"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1793,8 +1716,7 @@
 			"48d19ee8-16b3-4d62-989e-9da63c6eb3da"
 		],
 		"title": "Correspondentie",
-		"id": "cee09d1a-168e-4c74-8712-884db522b163",
-		"unreleased": true
+		"id": "cee09d1a-168e-4c74-8712-884db522b163"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1817,8 +1739,7 @@
 			"6698b73b-bbd4-4ee0-a863-350faa2baa7d"
 		],
 		"title": "Notities, berichten en formulieren",
-		"id": "a26a7f2d-328b-456e-8f36-6444bdf118f4",
-		"unreleased": true
+		"id": "a26a7f2d-328b-456e-8f36-6444bdf118f4"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1848,8 +1769,7 @@
 			"b3168b1c-34f3-4dde-955a-62c8329a230f"
 		],
 		"title": "Online conversatie en discussie",
-		"id": "4310f8f2-049f-4387-a979-6fe10c0c7d60",
-		"unreleased": true
+		"id": "4310f8f2-049f-4387-a979-6fe10c0c7d60"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1877,8 +1797,7 @@
 			"a6c85424-564b-4839-91bb-ddd52e5beaae"
 		],
 		"title": "Doelgerichte online transacties en samenwerking",
-		"id": "20572757-2806-414c-bd0b-f6e5ee2bab5e",
-		"unreleased": true
+		"id": "20572757-2806-414c-bd0b-f6e5ee2bab5e"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1897,8 +1816,7 @@
 			"61d26df8-ae4e-493f-9848-708b12b5393d"
 		],
 		"title": "Het woord nemen",
-		"id": "a9f73ec2-8d84-4f8f-b9e4-e6712291ff6f",
-		"unreleased": true
+		"id": "a9f73ec2-8d84-4f8f-b9e4-e6712291ff6f"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1917,8 +1835,7 @@
 			"c823c485-49aa-4818-8fe6-1fda9c2e778c"
 		],
 		"title": "Samenwerken",
-		"id": "9e2640f9-d6ff-422f-a735-976577f2ec3e",
-		"unreleased": true
+		"id": "9e2640f9-d6ff-422f-a735-976577f2ec3e"
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1938,7 +1855,6 @@
 			"08d5bf8c-c67f-4c20-a2ef-f85d73d356c4"
 		],
 		"title": "Vragen om opheldering",
-		"id": "5c6520f8-39cd-40e8-8b88-0d7554ec85b7",
-		"unreleased": true
+		"id": "5c6520f8-39cd-40e8-8b88-0d7554ec85b7"
 	}
 ]

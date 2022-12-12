@@ -2,7 +2,6 @@
 	{
 		"title": "Taalactiviteiten",
 		"id": "5b8735d8-16d9-45bd-b806-32c6fa936aa0",
-		"unreleased": true,
 		"prefix": "",
 		"description": "",
 		"erk_categorie_id": [
@@ -15,7 +14,6 @@
 	{
 		"title": "Taalcompetenties",
 		"id": "a1b9682f-9c16-4b04-b5e0-4411c3c92ff4",
-		"unreleased": true,
 		"erk_categorie_id": [
 			"af6bb85e-635e-4da2-aa7e-f5e9a8928b1f",
 			"f88ebd19-f337-45e0-bedc-6aa6f5fb3ebc",
@@ -29,7 +27,6 @@
 			"d39d33ff-4b79-4a91-81f3-62ae431c351e"
 		],
 		"title": "Meertalige en pluriculturele competenties",
-		"id": "7a0a41fe-586b-4722-8d2b-4c5a5b864155",
-		"unreleased": true
+		"id": "7a0a41fe-586b-4722-8d2b-4c5a5b864155"
 	}
 ]

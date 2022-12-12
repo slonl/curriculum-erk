@@ -2,7 +2,6 @@
 	{
 		"title": "Receptief",
 		"id": "ceb938f3-f704-47eb-8f43-ba9c867024f5",
-		"unreleased": true,
 		"prefix": "",
 		"description": "",
 		"erk_taalactiviteit_id": [
@@ -18,8 +17,7 @@
 			"882df096-63b5-4d04-8cb9-9f345c66851e"
 		],
 		"title": "Productief",
-		"id": "69c2a979-f6e6-45d1-b147-08702d6887b7",
-		"unreleased": true
+		"id": "69c2a979-f6e6-45d1-b147-08702d6887b7"
 	},
 	{
 		"erk_taalactiviteit_id": [
@@ -29,8 +27,7 @@
 			"faa17847-ec74-4f9f-8b0f-791d1211a20b"
 		],
 		"title": "Interactie",
-		"id": "9b4030c8-47f7-41f3-bf94-fe64f2e1916e",
-		"unreleased": true
+		"id": "9b4030c8-47f7-41f3-bf94-fe64f2e1916e"
 	},
 	{
 		"erk_taalactiviteit_id": [
@@ -42,8 +39,7 @@
 			"fd1f1e06-1486-4764-a443-c2f09b2683d9"
 		],
 		"title": "Mediation",
-		"id": "ba228579-63ef-40ac-ba04-a5a80accdc01",
-		"unreleased": true
+		"id": "ba228579-63ef-40ac-ba04-a5a80accdc01"
 	},
 	{
 		"erk_schaal_id": [
@@ -57,16 +53,14 @@
 			"4f30b1d8-0a71-403d-932d-5d4c1704d87a"
 		],
 		"title": "Linguïstisch",
-		"id": "af6bb85e-635e-4da2-aa7e-f5e9a8928b1f",
-		"unreleased": true
+		"id": "af6bb85e-635e-4da2-aa7e-f5e9a8928b1f"
 	},
 	{
 		"erk_schaal_id": [
 			"404c023a-b8c1-405a-8b09-a3e565a5650d"
 		],
 		"title": "Sociolinguïstisch",
-		"id": "f88ebd19-f337-45e0-bedc-6aa6f5fb3ebc",
-		"unreleased": true
+		"id": "f88ebd19-f337-45e0-bedc-6aa6f5fb3ebc"
 	},
 	{
 		"erk_schaal_id": [
@@ -78,7 +72,6 @@
 			"b40f3fa1-a82b-4949-a089-42785adb1b9c"
 		],
 		"title": "Pragmatisch",
-		"id": "96d01289-97ec-4024-89f5-4f49c3937e8c",
-		"unreleased": true
+		"id": "96d01289-97ec-4024-89f5-4f49c3937e8c"
 	}
 ]

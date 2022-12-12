@@ -1,9 +1,8 @@
 [
 	{
-		"vakleergebied_id": "782220bf-4155-4090-b218-c6957a14f963",
+		"vakleergebied_id": "1a3a03fd-d468-4e1f-ae5b-94d03c5061ee",
 		"title": "Arabisch",
 		"id": "34808a13-c3fe-4df6-b439-1afca5e7db21",
-		"unreleased": true,
 		"prefix": "",
 		"description": "",
 		"niveau_id": [
@@ -19,7 +18,6 @@
 		"vakleergebied_id": "1f7aa29f-38d8-4dab-91db-3be52669951f",
 		"title": "Chinees",
 		"id": "bb62d010-92ff-465f-a947-d5ebc27e53a5",
-		"unreleased": true,
 		"prefix": "",
 		"description": "",
 		"niveau_id": [
@@ -31,7 +29,6 @@
 		"vakleergebied_id": "91e9afb9-a8ab-4fde-aa97-9884a8920b78",
 		"title": "Duits",
 		"id": "51f8978f-ea5c-4774-bc1d-54caa5e686e2",
-		"unreleased": true,
 		"prefix": "",
 		"description": "",
 		"niveau_id": [
@@ -53,7 +50,6 @@
 		"vakleergebied_id": "cfaf3202-4c14-4f7e-b783-91ad1dc93779",
 		"title": "Engels",
 		"id": "2376168c-cec8-472d-8762-8440dda66061",
-		"unreleased": true,
 		"prefix": "",
 		"description": "",
 		"niveau_id": [
@@ -80,7 +76,6 @@
 		"vakleergebied_id": "f851676e-b541-42db-986a-5c468974f65e",
 		"title": "Frans",
 		"id": "c566ca41-dbdf-4ee7-9342-1ae8aaca5c57",
-		"unreleased": true,
 		"prefix": "",
 		"description": "",
 		"niveau_id": [
@@ -102,7 +97,6 @@
 		"vakleergebied_id": "d1797e77-8eb0-4ebd-83f7-f95c7f46fcd7",
 		"title": "Italiaans",
 		"id": "88c41d23-3ec8-48e9-9f2e-8f32743a2035",
-		"unreleased": true,
 		"prefix": "",
 		"description": "",
 		"niveau_id": [
@@ -111,10 +105,9 @@
 		]
 	},
 	{
-		"vakleergebied_id": "6b89b236-42ae-429f-bc33-422e12b53cb1",
+		"vakleergebied_id": "b00a8f97-7d10-41a8-9b84-4e8e82591bfc",
 		"title": "Russisch",
 		"id": "d791edb8-ae3d-4344-9326-70c507175c72",
-		"unreleased": true,
 		"prefix": "",
 		"description": "",
 		"niveau_id": [
@@ -126,7 +119,6 @@
 		"vakleergebied_id": "73abc618-988a-4409-b2ae-ff16febf68ee",
 		"title": "Spaans",
 		"id": "f0e1e794-23be-49b7-876d-7521b2572c0c",
-		"unreleased": true,
 		"prefix": "",
 		"description": "",
 		"niveau_id": [
@@ -145,10 +137,9 @@
 		]
 	},
 	{
-		"vakleergebied_id": "20d46f17-c61f-4677-a2c9-0f2fc7512ed4",
+		"vakleergebied_id": "64dc83c6-d178-4d17-bbae-df6fec239d57",
 		"title": "Turks",
 		"id": "53014cef-a016-4ed6-be0f-170b024925e6",
-		"unreleased": true,
 		"prefix": "",
 		"description": "",
 		"niveau_id": [
