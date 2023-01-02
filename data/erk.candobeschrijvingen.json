@@ -5347,8 +5347,10 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan korte, zeer eenvoudige vragen en mededelingen begrijpen als die langzaam en duidelijk worden uitgesproken en vergezeld gaan van visuele aanwijzingen of gebaren om het begrip te ondersteunen, en zo nodig worden herhaald.",
-		"id": "2a518096-e5a6-4f97-b6a1-63fa0d4731eb"
+		"title": "Kan korte, zeer eenvoudige vragen en mededelingen begrijpen als die langzaam en duidelijk worden overgebracht en vergezeld gaan van visuele aanwijzingen of gebaren die het begrip ondersteunen, en zo nodig worden herhaald.",
+		"id": "2a518096-e5a6-4f97-b6a1-63fa0d4731eb",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
