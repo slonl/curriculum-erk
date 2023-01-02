@@ -5692,9 +5692,11 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Geen descriptoren beschikbaar.",
+		"title": "Nog geen descriptoren op dit niveau.",
 		"isempty": true,
-		"id": "c13024a5-ff6f-436d-83fd-8109f78b3046"
+		"id": "c13024a5-ff6f-436d-83fd-8109f78b3046",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5703,15 +5705,19 @@
 		"erk_voorbeeld_id": [
 			"99371723-069e-4ed0-b95d-700feb863eaa"
 		],
-		"title": "Kan zeer eenvoudige informatie die wordt uitgelegd in een voorspelbare situatie globaal begrijpen, mits er erg langaam en duidelijk wordt gesproken met van tijd tot tijd lange pauzes.",
-		"id": "5230ca1d-2761-40c8-9549-731f4fa2dbf0"
+		"title": "Kan zeer eenvoudige informatie globaal begrijpen die in een voorspelbare situatie wordt gegeven, mits de overdracht ervan erg langzaam en duidelijk gebeurt en er van tijd tot tijd lange pauzes worden ingelast.",
+		"id": "5230ca1d-2761-40c8-9549-731f4fa2dbf0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan een zeer eenvoudige, goed gestructureerde presentatie of demonstratie volgen, mits deze wordt geïllustreerd met dia's, concrete voorbeelden of diagrammen, er langzaam, duidelijk en met herhaling wordt gesproken en het onderwerp vertrouwd is.",
-		"id": "d2d9114c-c9a2-4c82-a7c5-133d942288f5"
+		"title": "Kan een zeer eenvoudige en goed gestructureerde presentatie of demonstratie over een vertrouwd onderwerp volgen, mits deze geïllustreerd wordt met dia's, concrete voorbeelden of diagrammen, en langzaam, duidelijk en met herhaling wordt overgebracht.",
+		"id": "d2d9114c-c9a2-4c82-a7c5-133d942288f5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5720,36 +5726,46 @@
 		"erk_voorbeeld_id": [
 			"b28d9822-5903-4678-a643-1e89a25ea7a0"
 		],
-		"title": "Kan eenvoudige informatie globaal begrijpen die wordt gegeven in een voorspelbare situatie.",
-		"id": "5d0452e6-fd35-4ded-8cc2-430d2de681f6"
+		"title": "Kan eenvoudige informatie die in een voorspelbare situatie, zoals een rondleiding, wordt gegeven, globaal begrijpen.",
+		"id": "5d0452e6-fd35-4ded-8cc2-430d2de681f6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan de globale strekking begrijpen van een demonstratie of presentatie over een vertrouwd of voorspelbaar onderwerp, als de booschap langzaam en duidelijk wordt overgebracht in eenvoudige taal en er gebruik wordt gemaakt van visuele ondersteuning (bijvoorbeeld dia's, hand-outs).",
-		"id": "ffd80356-0437-4574-8be0-69274fa01a74"
+		"title": "Kan de globale strekking van een demonstratie of presentatie over een vertrouwd of voorspelbaar onderwerp volgen, als de boodschap langzaam, duidelijk en in eenvoudige taal wordt overgebracht en er gebruik wordt gemaakt van visuele ondersteuning (bijvoorbeeld dia's, hand-outs).",
+		"id": "ffd80356-0437-4574-8be0-69274fa01a74",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan directe, korte voordrachten over vertrouwde onderwerpen globaal volgen, mits deze worden gehouden in helder gearticuleerde standaardtaal.",
-		"id": "d8c537bf-9801-4f07-b548-fbe27ff20ada"
+		"title": "Kan directe, korte voordrachten over vertrouwde onderwerpen globaal volgen, mits deze worden gehouden in helder gearticuleerde standaardtaal of in een vertrouwde taalvariëteit.",
+		"id": "d8c537bf-9801-4f07-b548-fbe27ff20ada",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan een directe congrespresentatie of demonstratie met visuele ondersteuning (bijvoorbeeld dia's, hand-outs) volgen over een onderwerp of product in zijn of haar vakgebied en de gegeven uitleg begrijpen.",
-		"id": "b9001e64-33f7-4227-a929-68d76e5eebc7"
+		"title": "Kan een directe congrespresentatie of demonstratie met visuele ondersteuning (bijvoorbeeld dia's, hand-outs) over een onderwerp of product in het eigen vakgebied volgen en de uitleg die wordt gegeven, begrijpen.",
+		"id": "b9001e64-33f7-4227-a929-68d76e5eebc7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan globaal begrijpen wat er wordt gezegd in een directe monoloog, als er duidelijk en relatief langzaam wordt gesproken.",
-		"id": "419e4330-8e6c-42b0-96e9-ae6bc78c96b8"
+		"title": "Kan globaal begrijpen wat wordt gezegd in een directe monoloog, als er duidelijk en relatief langzaam wordt gesproken.",
+		"id": "419e4330-8e6c-42b0-96e9-ae6bc78c96b8",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5761,36 +5777,46 @@
 			"40f6defd-46be-4eb3-b320-0177538bfc6d",
 			"185ea516-82f4-433a-9e53-c8e3d40696b3"
 		],
-		"title": "Kan een voordracht of toespraak volgen binnen het eigen vakgebied.",
-		"id": "9f8af39c-6494-4916-a04b-9a7a37c00677"
+		"title": "Kan een voordracht of toespraak volgen binnen het eigen vakgebied, mits het onderwerp vertrouwd is en de presentatie direct en helder gestructureerd is.",
+		"id": "9f8af39c-6494-4916-a04b-9a7a37c00677",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan onderscheid maken tussen de hoofdlijnen en ondersteunende details in standaardvoordrachten over vertrouwde onderwerpen, mits deze worden gegeven in duidelijk gearticuleerde standaardtaal.",
-		"id": "b0cd2688-4ed5-4f9c-82b4-a835a66e6ffa"
+		"title": "Kan een onderscheid maken tussen de hoofdlijnen en de ondersteunende details in standaardvoordrachten over vertrouwde onderwerpen, mits ze in duidelijk gearticuleerde standaardtaal of in een vertrouwde taalvariëteit worden gegeven.",
+		"id": "b0cd2688-4ed5-4f9c-82b4-a835a66e6ffa",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan complexe argumentatie in een duidelijk gearticuleerde voordracht begrijpen als het onderwerp redelijk vertrouwd is.",
-		"id": "63a36f7e-5fc8-47ab-9f55-781a7b5a24c2"
+		"title": "Kan complexe argumentatie in een duidelijk gearticuleerde voordracht over een redelijk vertrouwd onderwerp begrijpen.",
+		"id": "63a36f7e-5fc8-47ab-9f55-781a7b5a24c2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan hoofd- en bijzaken van elkaar onderscheiden mits de lezing of voordracht wordt gegeven in standaardtaal of een vertrouwde variant ervan.",
-		"id": "4fb8ee4f-3dd6-4c93-85e4-5e9e653bd6bf"
+		"title": "Kan, in een lezing of voordracht, hoofd- en bijzaken van elkaar onderscheiden, mits ze in standaardtaal of in een vertrouwde taalvariëteit wordt gegeven.",
+		"id": "4fb8ee4f-3dd6-4c93-85e4-5e9e653bd6bf",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan het standpunt van de spreker herkennen en dit onderscheiden van de feiten die hij of zij noemt.",
-		"id": "6e619896-f881-42d5-a12f-5db39b5be2ab"
+		"title": "Kan het standpunt van de spreker herkennen en dat onderscheiden van de feiten die worden genoemd.",
+		"id": "6e619896-f881-42d5-a12f-5db39b5be2ab",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5805,15 +5831,19 @@
 			"289482e2-5f4f-46ea-9a5a-0445dbb97f42",
 			"e952bd73-a163-4ce1-8d1e-7494f5bdf68f"
 		],
-		"title": "Kan de wezenlijke punten volgen van voordrachten, toespraken, verslagen en andere vormen van academische of professionele presentaties die naar inhoud en vorm complex zijn.",
-		"id": "9e18d957-79bb-4d40-a6e6-7d446ececd33"
+		"title": "Kan de wezenlijke punten volgen in voordrachten, toespraken, verslagen en andere vormen van academische of professionele presentaties, ook als die naar inhoud en vorm complex zijn.",
+		"id": "9e18d957-79bb-4d40-a6e6-7d446ececd33",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan het standpunt van de spreker over actuele onderwerpen of onderwerpen die betrekking hebben op zijn of haar specialisatiegebied begrijpen, mits er standaardspreektaal wordt gebruikt.",
-		"id": "ce63c6fc-c43b-4491-9dcd-22835cd56bbc"
+		"title": "Kan het standpunt van de spreker over actuele onderwerpen of onderwerpen die betrekking hebben op het eigen specialisatiegebied begrijpen, mits er standaardtaal of een vertrouwde  taalvariëteit wordt gebruikt.",
+		"id": "ce63c6fc-c43b-4491-9dcd-22835cd56bbc",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5828,7 +5858,9 @@
 			"d5667540-61ff-4359-a85d-f08d60253664"
 		],
 		"title": "Kan de meeste voordrachten, discussies en debatten betrekkelijk gemakkelijk volgen.",
-		"id": "75b6f405-e00b-4a49-a1f5-d09ca326e284"
+		"id": "75b6f405-e00b-4a49-a1f5-d09ca326e284",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5852,15 +5884,19 @@
 			"d164563b-4ba2-4ab5-87f6-5c8d64e39b8a",
 			"dd5e5969-23d4-43f2-a6fe-5d88c083609a"
 		],
-		"title": "Kan specialistische voordrachten en presentaties volgen waarin veel spreektaal, regionaal getint taalgebruik en niet-vertrouwde terminologie wordt gebezigd.",
-		"id": "e14ec448-4e40-4061-9a6c-4104492d7ac1"
+		"title": "Kan specialistische voordrachten en presentaties volgen waarin veel spreektaal, regionaal getint taalgebruik en niet vertrouwde terminologie wordt gebruikt.",
+		"id": "e14ec448-4e40-4061-9a6c-4104492d7ac1",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan gevolgtrekkingen maken als verbanden of implicaties niet expliciet worden benoemd.",
-		"id": "b3beaf4b-735d-4f68-8b19-2be651b7ee26"
+		"title": "Kan conclusies trekken, ook als verbanden of implicaties niet expliciet worden benoemd.",
+		"id": "b3beaf4b-735d-4f68-8b19-2be651b7ee26",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -11332,7 +11368,7 @@
 	{
 		"id": "0ecd3e9c-f849-4d06-a578-04e8bfd54c31",
 		"prefix": "",
-		"title": "Kan grappen of dubbelzinnigheden in een presentatie begrijpen",
+		"title": "Kan grappen of dubbelzinnigheden in een presentatie begrijpen.",
 		"description": ""
 	}
 ]
