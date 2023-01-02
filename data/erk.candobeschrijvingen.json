@@ -5356,106 +5356,136 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan alledaagse, vertrouwde woorden herkennen als die langzaam en duidelijk worden uitgesproken in een duidelijk gedefinieerde, vertrouwde, alledaagse context.",
-		"id": "f27c1168-e6ac-45f0-9129-a410df373d0f"
+		"title": "Kan alledaagse, vertrouwde woorden herkennen als die langzaam en duidelijk worden overgebracht in een duidelijk gedefinieerde, vertrouwde en alledaagse context.",
+		"id": "f27c1168-e6ac-45f0-9129-a410df373d0f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan getallen, prijzen, data en dagen van de week herkennen als die langzaam en duidelijk worden uitgesproken in een duidelijk gedefinieerde, vertrouwde, alledaagse context.",
-		"id": "f240f066-fe6c-4616-8da3-f3967c4dd447"
+		"title": "Kan getallen, prijzen, data en dagen van de week herkennen als die langzaam en duidelijk worden overgebracht in een duidelijk gedefinieerde, vertrouwde en alledaagse context.",
+		"id": "f240f066-fe6c-4616-8da3-f3967c4dd447",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan spraak volgen die heel langzaam en zorgvuldig wordt uitgesproken, met lange pauzes om de betekenis op te nemen.",
-		"id": "158f8d1c-ac78-430d-8eb0-e076c050a51b"
+		"title": "Kan taal volgen die heel langzaam en zorgvuldig wordt overgebracht, en waarbij lange pauzes worden ingelast om de betekenis op te nemen.",
+		"id": "158f8d1c-ac78-430d-8eb0-e076c050a51b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan concrete informatie herkennen over vertrouwde onderwerpen die hij of zij in het dagelijks leven tegenkomt, mits deze langzaam en duidelijk wordt uitgesproken.",
-		"id": "dbfc9a00-1150-4f13-9f49-abdc940c3085"
+		"title": "Kan concrete informatie herkennen over vertrouwde onderwerpen uit het dagelijks leven, mits die informatie langzaam en duidelijk wordt aangereikt.",
+		"id": "dbfc9a00-1150-4f13-9f49-abdc940c3085",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan frasen en uitdrukkingen verstaan die verband houden met zaken van de meest directe prioriteit (elementaire persoons- en familiegegevens, boodschappen doen, plaatselijke geografie, werk) mits er helder en langzaam wordt gearticuleerd.",
-		"id": "fa8f8fa4-ffd0-4a5e-a443-f168d5273fdc"
+		"title": "Kan frasen en uitdrukkingen begrijpen die verband houden met zaken van de meest directe prioriteit (elementaire persoons- en familiegegevens, boodschappen doen, plaatselijke geografie, werk), mits er helder en langzaam wordt gearticuleerd.",
+		"id": "fa8f8fa4-ffd0-4a5e-a443-f168d5273fdc",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan genoeg verstaan om te kunnen voldoen aan behoeften van concrete aard, mits mensen helder en langzaam articuleren.",
-		"id": "1a3cfbb9-b0a3-40bd-9261-47ed4cf08676"
+		"title": "Kan genoeg begrijpen om te kunnen voldoen aan concrete behoeften, mits mensen helder en langzaam articuleren.",
+		"id": "1a3cfbb9-b0a3-40bd-9261-47ed4cf08676",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan de hoofdpunten verstaan van heldere spraak in standaardtaal, of in een vertrouwde variant ervan, over vertrouwde zaken die regelmatig aan de orde komen op het werk, op school, in de vrije tijd enzovoort, met inbegrip van korte, verhalende teksten.",
-		"id": "9bfc5ad6-92da-42e9-93b9-51f6d622fd74"
+		"title": "Kan de hoofdpunten begrijpen in teksten over zaken die regelmatig aan bod komen op het werk, op school, in de vrije tijd, enzovoort, op voorwaarde dat deze teksten opgesteld zijn in heldere standaardtaal of in een vertrouwde taalvariëteit.",
+		"id": "9bfc5ad6-92da-42e9-93b9-51f6d622fd74",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan directe feitelijke informatie verstaan over gewone alledaagse of werkgebonden onderwerpen, en daarbij zowel algemene boodschappen als specifieke details herkennen, mits mensen helder articuleren in een over het algemeen vertrouwd accent.",
-		"id": "9cf3b74c-964b-45f3-a690-e1ac106796d7"
+		"title": "Kan directe feitelijke informatie begrijpen over gewone alledaagse of werkgebonden onderwerpen, en daarbij zowel algemene boodschappen als specifieke details herkennen, mits mensen helder articuleren in een over het algemeen vertrouwde taalvariëteit.",
+		"id": "9cf3b74c-964b-45f3-a690-e1ac106796d7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan de hoofdgedachten begrijpen van naar inhoud en vorm complexe gesproken tekst in een standaardtaal of een vertrouwde variant ervan over concrete en abstracte onderwerpen, met inbegrip van technische besprekingen in het eigen vakgebied",
-		"id": "fa4c7806-a9d8-4a85-95a7-d569059038ee"
+		"title": "Kan de hoofdgedachten begrijpen van naar inhoud en vorm complexe betogen over concrete en abstracte onderwerpen, wanneer daarin gebruik wordt gemaakt van standaardtaal of een vertrouwde taalvariëteit. Daarbij inbegrepen zijn technische besprekingen in het eigen vakgebied.",
+		"id": "fa4c7806-a9d8-4a85-95a7-d569059038ee",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
 		"title": "Kan uitgebreide betogen en complexe redeneringen volgen, mits het onderwerp redelijk vertrouwd is en de richting van de redenering wordt aangegeven met expliciete signalen.",
-		"id": "620ae0b6-9499-4292-8c7d-47c28cb4b816"
+		"id": "620ae0b6-9499-4292-8c7d-47c28cb4b816",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan gesproken standaardtaal of een vertrouwde variant ervan verstaan, hetzij in direct contact, hetzij via de media, over vertrouwde en niet-vertrouwde onderwerpen die gewoonlijk worden aangetroffen in het persoonlijke, sociale, academische of professionele leven. Alleen extreem achtergrondgeluid, onvoldoende structuur in het betoog en/of idiomatisch taalgebruik ondermijnen het begrip van het gesprokene.",
-		"id": "b1bf0b0c-788c-4c26-b3c5-4e930295ed34"
+		"title": "Kan teksten in standaardtaal of in een vertrouwde taalvariëteit begrijpen over vertrouwde en niet- vertrouwde onderwerpen in het persoonlijke, sociale, academische of professionele leven, hetzij in direct contact, hetzij via de media. Extreme achtergrondruis, onvoldoende structuur in het betoog en/of idiomatisch taalgebruik kunnen het begrip van wat wordt gezegd, ondermijnen.",
+		"id": "b1bf0b0c-788c-4c26-b3c5-4e930295ed34",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan genoeg verstaan om uitgebreide betogen te volgen over abstracte en complexe onderwerpen buiten zijn of haar eigen vakgebied, al moet hij of zij misschien af en toe een detail controleren, vooral wanneer het accent niet vertrouwd is.",
-		"id": "6c7ffc11-9ab5-48e8-8fd0-18be70ff2aee"
+		"title": "Kan genoeg taal begrijpen om uitgebreide betogen te volgen over abstracte en complexe onderwerpen buiten het eigen vakgebied, maar moet misschien af en toe een detail controleren, vooral wanneer de taalvariëteit die wordt gebruikt niet vertrouwd is.",
+		"id": "6c7ffc11-9ab5-48e8-8fd0-18be70ff2aee",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
 		"title": "Kan een breed scala van idiomatische uitdrukkingen en uitdrukkingen uit de spreektaal herkennen, en merkt daarbij registerverschuivingen op.",
-		"id": "8138c110-9171-4636-8037-fae6cb136735"
+		"id": "8138c110-9171-4636-8037-fae6cb136735",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan een uitgebreid betoog volgen, ook wanneer het niet duidelijk gestructureerd is en wanneer verbanden slechts worden geïmpliceerd en niet uitdrukkelijk worden benoemd.",
-		"id": "be5df90c-dffa-4e56-afae-222d8b1bf7be"
+		"title": "Kan een uitgebreid betoog volgen, ook wanneer het niet duidelijk gestructureerd is en wanneer verbanden niet uitdrukkelijk worden benoemd.",
+		"id": "be5df90c-dffa-4e56-afae-222d8b1bf7be",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Heeft geen moeite met het begrijpen van enige vorm van gesproken taal, hetzij in direct contact, hetzij via de media, voortgebracht aan snel natuurlijk spreektempo.",
-		"id": "41610433-0390-498c-9f1c-fed0f31306a5"
+		"title": "Heeft geen moeite om enige vorm van taal te begrijpen, hetzij in direct contact, hetzij via de media, wanneer het wordt voortgebracht in een natuurlijk tempo.",
+		"id": "41610433-0390-498c-9f1c-fed0f31306a5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
