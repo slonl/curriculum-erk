@@ -5491,9 +5491,11 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Geen descriptoren beschikbaar.",
+		"title": "Nog geen descriptoren op dit niveau.",
 		"isempty": true,
-		"id": "c76abfa3-2671-4653-8c9e-1d964ad8aae0"
+		"id": "c76abfa3-2671-4653-8c9e-1d964ad8aae0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5509,8 +5511,10 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan enkele woorden en uitdrukkingen begrijpen als mensen praten over zichzelf, familie, school, hobby's of de omgeving, mits ze langzaam en duidelijk spreken.",
-		"id": "2886a357-4212-4fd0-812a-97e750cd349f"
+		"title": "Kan enkele uitdrukkingen begrijpen als mensen over zichzelf, hun familie, school, hobby's of de omgeving praten, mits ze dat langzaam en duidelijk doen.",
+		"id": "2886a357-4212-4fd0-812a-97e750cd349f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5519,15 +5523,19 @@
 		"erk_voorbeeld_id": [
 			"2ba4b3b4-e85c-4e3a-92e8-ecc707c93d7e"
 		],
-		"title": "Kan woorden en korte zinnen begrijpen bij het luisteren naar een eenvoudig gesprek, mits mensen zeer langzaam en duidelijk spreken.",
-		"id": "e1283508-a49a-45c5-add5-c55bc8fe89fa"
+		"title": "Kan woorden en korte zinnen in een eenvoudig gesprek begrijpen, mits er zeer langzaam en duidelijk wordt gecommuniceerd.",
+		"id": "e1283508-a49a-45c5-add5-c55bc8fe89fa",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
 		"title": "Kan korte, eenvoudige sociale uitwisselingen globaal volgen als ze zeer langzaam en duidelijk worden uitgevoerd.",
-		"id": "75886083-7e27-4242-9b46-93ec5610c985"
+		"id": "75886083-7e27-4242-9b46-93ec5610c985",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5538,7 +5546,9 @@
 			"e0542d2f-5a0e-4706-9518-8b6332b6a17c"
 		],
 		"title": "Kan over het algemeen veranderingen van onderwerp volgen in formele discussies die betrekking hebben op zijn of haar vakgebied.",
-		"id": "3e8f27f6-5eb4-415c-a328-31dba0fcbad7"
+		"id": "3e8f27f6-5eb4-415c-a328-31dba0fcbad7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5551,15 +5561,19 @@
 			"b2d5d763-7522-4d32-bdf2-eb4f24377cef",
 			"4a3df905-2162-4cfa-b1b6-0de78e8927da"
 		],
-		"title": "Kan over het algemeen het onderwerp herkennen van de discussie rondom hem of haar.",
-		"id": "2b18df0a-1794-4b7d-b11d-eacf6123a902"
+		"title": "Kan in het algemeen het onderwerp van een discussie bepalen die langzaam en duidelijk wordt gevoerd.",
+		"id": "2b18df0a-1794-4b7d-b11d-eacf6123a902",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan herkennen of sprekers in een langzaam en duidelijk gesproken discussie het wel of niet met elkaar eens zijn.",
-		"id": "9d12b673-ed5c-47df-b918-38d08870564b"
+		"title": "Kan in een langzaam en duidelijk gevoerde discussie herkennen of mensen het wel of niet met elkaar eens zijn.\n",
+		"id": "9d12b673-ed5c-47df-b918-38d08870564b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5572,8 +5586,10 @@
 			"bfa10ad1-08ac-4469-b21f-2661a442655a",
 			"83fba2fa-bb66-49fd-9738-562c3c805bcf"
 		],
-		"title": "Kan over het algemeen de hoofdpunten volgen van een uitgebreide, informele discussie die rondom hem of haar wordt gevoerd.",
-		"id": "15ade611-e56e-4d28-9069-e5d17e74f25b"
+		"title": "Kan over het algemeen de hoofdpunten van een uitgebreide, informele discussie volgen, mits duidelijk wordt gearticuleerd in standaardtaal of in een vertrouwde taalvariëteit.",
+		"id": "15ade611-e56e-4d28-9069-e5d17e74f25b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5587,8 +5603,10 @@
 			"4dbef1b4-afbd-434e-bca6-bfa436c3c971",
 			"6c494963-bdc1-46cc-a9d6-fbdb574e2a3c"
 		],
-		"title": "Kan veel volgen van wat rondom hem of haar wordt gezegd over algemene onderwerpen.",
-		"id": "985e1caf-4bef-49c5-a705-21997d137ce2"
+		"title": "Kan het grootste deel van alledaagse gesprekken en discussies volgen, mits deze duidelijk worden gearticuleerd in standaardtaal of in een vertrouwde taalvariëteit.",
+		"id": "985e1caf-4bef-49c5-a705-21997d137ce2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5599,22 +5617,28 @@
 			"92f50aa0-abd3-4f10-8f0e-a3f770f5a95f",
 			"32810531-4380-4a4f-a95c-ba2a26ded4a2"
 		],
-		"title": "Kan met enige inspanning veel volgen van wat rond hem of haar gezegd wordt, maar kan het moeilijk vinden effectief deel te nemen aan een gesprek met meerdere sprekers die hun taal op geen enkele wijze aanpassen.",
-		"id": "baaf813a-fe2c-4c79-ba90-5f3e3fe30bd8"
+		"title": "Kan met enige inspanning veel volgen van wat gezegd wordt, maar kan het moeilijk vinden effectief deel te nemen aan een gesprek met meerdere gebruikers die hun taal op geen enkele wijze aanpassen.",
+		"id": "baaf813a-fe2c-4c79-ba90-5f3e3fe30bd8",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan de voornaamste argumenten voor of tegen een standpunt of idee herkennen in een discussie die wordt gevoerd in duidelijke standaardtaal.",
-		"id": "8b3239fd-5282-4576-a121-045bf2abd5d4"
+		"title": "Kan de voornaamste argumenten voor of tegen een standpunt of idee herkennen in een discussie die in duidelijke standaardtaal, of in een vertrouwde taalvariëteit wordt gevoerd.",
+		"id": "8b3239fd-5282-4576-a121-045bf2abd5d4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan het chronologische verloop in een langer informeel betoog volgen, bijvoorbeeld een verhaal of anekdote.",
-		"id": "1e91a800-0034-42d4-a72c-37c7a3128d42"
+		"title": "Kan het chronologische verloop in een langer informeel betoog volgen.",
+		"id": "1e91a800-0034-42d4-a72c-37c7a3128d42",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5627,8 +5651,10 @@
 			"cc60c350-cd8b-4e99-8f27-230e4c811c31",
 			"a5b3b8ed-9146-4e94-b5ef-7dc35a94087a"
 		],
-		"title": "Kan een levendig gesprek tussen gevorderde sprekers volgen.",
-		"id": "1e6cf28a-6f2c-48ff-8fe7-cff2d927b9e1"
+		"title": "Kan een levendig gesprek tussen bekwame gebruikers van de doeltaal volgen.",
+		"id": "1e6cf28a-6f2c-48ff-8fe7-cff2d927b9e1",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5639,22 +5665,28 @@
 			"5c6cf0e4-f753-422f-be7a-04d497d11330",
 			"986d7028-1181-4390-99f2-64d46a9db5f1"
 		],
-		"title": "Kan met gemak complexe interacties tussen derden volgen, in een groepsdiscussie of debat, zelfs over abstracte, complexe en niet-vertrouwde onderwerpen.",
-		"id": "54277213-6cf8-4c5f-8a95-6fc9445604b4"
+		"title": "Kan vlot complexe interacties van derden volgen, in een groepsdiscussie of debat, zelfs over abstracte, complexe en niet-vertrouwde onderwerpen.",
+		"id": "54277213-6cf8-4c5f-8a95-6fc9445604b4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan de houding bepalen van elke spreker in een levendige discussie die wordt gekenmerkt door overlappende spreekbeurten, afwijkingen van het onderwerp en spreektaaluitdrukkingen, als die wordt gevoerd in een moedertaaltempo in accenten waarmee de luisteraar vertrouwd is.",
-		"id": "f5994fdf-cdbd-4cc8-8918-c733e0f9de0b"
+		"title": "Kan de houding bepalen van elke deelnemer aan een levendige discussie met overlappende beurten, afwijkingen van het onderwerp en spreektaaluitdrukkingen, als die discussie in een natuurlijk tempo en in vertrouwde taalvariëteiten wordt gevoerd.",
+		"id": "f5994fdf-cdbd-4cc8-8918-c733e0f9de0b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan de sociaal-culturele implicaties herkennen van het grootste deel van de taal die wordt gebruikt in informele discussies die worden gevoerd in een moedertaaltempo.",
-		"id": "3e9d29a7-3923-4530-af8b-99400270b671"
+		"title": "Kan de sociaal-culturele implicaties herkennen van het grootste deel van de taal die in informele discussies in een natuurlijk tempo wordt gebruikt.",
+		"id": "3e9d29a7-3923-4530-af8b-99400270b671",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
