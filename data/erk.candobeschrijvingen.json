@@ -6021,15 +6021,19 @@
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan een reeks instructies voor vertrouwde, dagelijkse activiteiten zoals sport, koken enzovoort begrijpen en volgen als ze langzaam en duidelijk worden uitgesproken.",
-		"id": "0402d289-cec5-4759-b92d-ef2c488934d1"
+		"title": "Kan een reeks instructies voor vertrouwde, dagelijkse activiteiten zoals sport, koken enzovoort begrijpen en volgen als ze langzaam en duidelijk worden overgebracht.",
+		"id": "0402d289-cec5-4759-b92d-ef2c488934d1",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan eenvoudige mededelingen begrijpen (bijvoorbeeld van een bioscoopprogramma of sportevenement, een omroepbericht over een vertraagde trein) als ze langzaam en duidelijk worden uitgesproken.",
-		"id": "95880ab7-30d1-45fe-a1f5-d3f9a19737d7"
+		"title": "Kan eenvoudige mededelingen begrijpen (bijvoorbeeld van een bioscoopprogramma of sportevenement, over een vertraagde trein) als ze langzaam en duidelijk worden overgebracht.",
+		"id": "95880ab7-30d1-45fe-a1f5-d3f9a19737d7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -6066,8 +6070,10 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan omroepberichten op luchthavens en stations en in vliegtuigen, bussen en treinen begrijpen, mits deze duidelijk gearticuleerd worden in standaardtaal, met minimale storende achtergrondgeluiden.",
-		"id": "d9b6ba9a-a837-4146-bd42-7ec2e6294e77"
+		"title": "Kan omroepberichten op luchthavens en stations en in vliegtuigen, bussen en treinen begrijpen, mits ze duidelijk gearticuleerd worden en sprake is van minimale storende (auditieve en/of visuele) achtergrondruis.",
+		"id": "d9b6ba9a-a837-4146-bd42-7ec2e6294e77",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -6080,15 +6086,19 @@
 			"23b0dbb0-c5db-44b1-a18d-2591ff3ff0df",
 			"8f6d5489-a0f5-4886-97c9-5ee4ca886765"
 		],
-		"title": "Kan mededelingen en berichten over concrete en abstracte onderwerpen verstaan.",
-		"id": "96d059fe-5c49-4c27-a2fd-056888f61c0b"
+		"title": "Kan mededelingen en berichten over concrete en abstracte onderwerpen begrijpen, die in standaardtaal of in een vertrouwde taalvariëteit en in een normaal spreektempo worden overgebracht.",
+		"id": "96d059fe-5c49-4c27-a2fd-056888f61c0b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan gedetailleerde instructies goed genoeg verstaan om ze met succes te kunnen opvolgen.",
-		"id": "d51929fe-8b67-4a5e-a69d-a153847c634f"
+		"title": "Kan gedetailleerde instructies goed genoeg begrijpen om ze met succes te kunnen opvolgen.",
+		"id": "d51929fe-8b67-4a5e-a69d-a153847c634f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -6103,8 +6113,10 @@
 			"0003b8d6-e579-4054-b070-99ba67d1665d",
 			"5c93d949-b649-4ccf-a2a6-1db75afff6d5"
 		],
-		"title": "Kan specifieke informatie halen uit openbare mededelingen van slechte kwaliteit waarbij het geluid vervormd is.",
-		"id": "1877a790-4984-4dfb-9424-e6212ae79b4f"
+		"title": "Kan specifieke informatie halen uit openbare mededelingen van slechte kwaliteit waarbij het geluid vervormd is of met (auditieve en/of) visuele) vervorming.",
+		"id": "1877a790-4984-4dfb-9424-e6212ae79b4f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -6123,9 +6135,12 @@
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Geen descriptoren beschikbaar.",
+		"title": "Geen descriptoren beschikbaar, zie C1.",
 		"isempty": true,
-		"id": "c1778a80-b307-4f02-9824-f08e215a049c"
+		"id": "c1778a80-b307-4f02-9824-f08e215a049c",
+		"prefix": "",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"niveau_id": [
