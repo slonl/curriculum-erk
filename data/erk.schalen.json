@@ -1175,7 +1175,6 @@
 	{
 		"erk_candobeschrijving_id": [
 			"776c1dfb-12de-411b-b922-bedc95182e8d",
-			"de7787be-81d6-4573-88d6-8bc987e72679",
 			"421913ab-36df-4798-8313-7f92d3416ae3",
 			"f9d22297-6760-46e0-a33d-d5c6a83bf2f2",
 			"4f3ad3b6-6d2a-42ca-bd93-29a204492eea",
@@ -1189,7 +1188,10 @@
 			"dc131930-5c4e-4df9-881a-82ad72091ded"
 		],
 		"title": "Luisteren naar audiomedia en geluidsopnames",
-		"id": "d78f5af9-1b28-4f68-bab2-f6ecff7807e9"
+		"id": "d78f5af9-1b28-4f68-bab2-f6ecff7807e9",
+		"prefix": "",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"erk_candobeschrijving_id": [
