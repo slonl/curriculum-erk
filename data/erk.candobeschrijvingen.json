@@ -6469,8 +6469,10 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan eenvoudige vragen begrijpen die rechtstreeks over hem of haar gaan, bijvoorbeeld over naam, leeftijd en adres of dergelijke zaken, als degene die de vraag stelt langzaam en duidelijk spreekt.",
-		"id": "c37b1110-a468-488a-943c-f6f0554aac50"
+		"title": "Nog geen descriptoren beschikbaar op dit niveau.",
+		"id": "c37b1110-a468-488a-943c-f6f0554aac50",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -6567,8 +6569,10 @@
 			"e4259d4b-d9d0-4980-9ec6-c6846e91f5b3",
 			"2cbc1e21-4a89-4d37-ac98-e0408fe08f30"
 		],
-		"title": "Kan helder uitgesproken spraak volgen die in alledaagse conversatie tot hem of haar gericht wordt, maar zal soms moeten vragen om herhaling van bepaalde woorden en zinnen.",
-		"id": "ee786f73-5130-4784-bdcb-72294255f80c"
+		"title": "Kan over het algemeen de hoofdpunten van een uitgebreide, informele discussie volgen, mits duidelijk wordt gearticuleerd in standaardtaal of in een vertrouwde taalvariëteit.",
+		"id": "ee786f73-5130-4784-bdcb-72294255f80c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
