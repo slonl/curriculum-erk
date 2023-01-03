@@ -1216,20 +1216,12 @@
 	{
 		"erk_candobeschrijving_id": [
 			"c37b1110-a468-488a-943c-f6f0554aac50",
-			"190087ac-5f8d-4953-aaeb-022a81ab10b9",
-			"23d7dc02-b7c5-4060-8c3b-aaa46f3460f3",
-			"5d1c2a79-873c-4dc9-a392-07a1ebeb089d",
-			"92e22e90-3f28-4726-bec2-7e892b2ac6ba",
-			"b2586e16-ed38-49d2-93e5-f80d354464c5",
-			"1b60bf77-34ad-40f2-b51c-b8bf0b7381c8",
-			"1b71e258-9eb7-4f4c-8cae-f4726a20930b",
-			"ee786f73-5130-4784-bdcb-72294255f80c",
-			"60965140-c9c4-4114-807b-30d47ea678ff",
-			"3d76d1d0-a90e-4b2b-990c-9cf72c31104a",
-			"d97a612e-0050-48ec-b902-4fbe042a8350"
+			"ee786f73-5130-4784-bdcb-72294255f80c"
 		],
 		"title": "Een gesprekspartner begrijpen",
-		"id": "c2fc92d9-59b8-4728-91db-7739b36f99c8"
+		"id": "c2fc92d9-59b8-4728-91db-7739b36f99c8",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
