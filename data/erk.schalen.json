@@ -1150,8 +1150,6 @@
 		"erk_candobeschrijving_id": [
 			"94f4b4cf-b716-41e5-92dd-94e3d414e36c",
 			"b963d353-134d-4cb6-a8d7-167149f71063",
-			"d93533ca-e786-495d-9622-dcdc83af9f40",
-			"73f38d19-d845-4f57-ba35-53b3d1c3200c",
 			"1001dc29-8286-4385-a6ea-cfdff3ad43a3",
 			"cd453a9a-6cc5-488f-8a99-5190b07936c7",
 			"2e993aac-5b2e-4f3e-8cf9-f934c1f7d3ea",
@@ -1169,7 +1167,10 @@
 			"c1778a80-b307-4f02-9824-f08e215a049c"
 		],
 		"title": "Luisteren naar mededelingen en instructies",
-		"id": "2f6b5a57-8b14-4834-afdd-cbf4638b6d71"
+		"id": "2f6b5a57-8b14-4834-afdd-cbf4638b6d71",
+		"prefix": "",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"erk_candobeschrijving_id": [
