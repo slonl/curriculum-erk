@@ -6223,8 +6223,10 @@
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan begrijpen wat mensen in een radio-interview vertellen over hun vrijetijdsbesteding, in het bijzonder wat ze wel en niet leuk vinden om te doen, mits deze mensen langzaam en duidelijk spreken.",
-		"id": "153a82e5-b136-4dd9-a994-2668da724ddc"
+		"title": "Kan begrijpen wat mensen in een interview vertellen over hun vrijetijdsbesteding, in het bijzonder wat ze wel en niet leuk vinden om te doen, mits ze dit langzaam en duidelijk doen.",
+		"id": "153a82e5-b136-4dd9-a994-2668da724ddc",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -6233,8 +6235,10 @@
 		"erk_voorbeeld_id": [
 			"e3792f7e-874c-4a03-a71a-f40eae03e8da"
 		],
-		"title": "Kan de hoofdpunten en belangrijke details begrijpen in verhalen en andere verhalende betogen, mits de spreker langzaam en duidelijk spreekt.",
-		"id": "4f80d193-cc8e-4c29-9688-36b14c75d03e"
+		"title": "Kan de hoofdpunten en belangrijke details in verhalen en andere verhalende teksten begrijpen, mits ze langzaam en duidelijk worden overgebracht.",
+		"id": "4f80d193-cc8e-4c29-9688-36b14c75d03e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -6245,8 +6249,10 @@
 			"5d08f220-cf5a-4588-b1b3-ef10cc8472fe",
 			"e337201f-6933-4a55-8f10-0b2d5605b8d3"
 		],
-		"title": "Kan de inhoudelijke informatie van het meeste opgenomen of uitgezonden geluidsmateriaal over onderwerpen van persoonlijk belang verstaan.",
-		"id": "642d5966-e23a-44cd-b307-68722603832c"
+		"title": "Kan de inhoudelijke informatie van het meeste opgenomen of uitgezonden materiaal over onderwerpen van persoonlijk belang begrijpen als die informatie in heldere standaardtaal wordt overgebracht.",
+		"id": "642d5966-e23a-44cd-b307-68722603832c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -6260,8 +6266,10 @@
 			"a7275545-a6c3-48a5-b0bb-cd58eb838808",
 			"bd44b40e-be4f-4cd9-908e-af9f13621f4f"
 		],
-		"title": "Kan de meeste radiodocumentaires en het meeste andere opgenomen of uitgezonden geluidsmateriaal verstaan en kan de stemming, toon enzovoort van de spreker herkennen.",
-		"id": "fabccf83-71c7-4ae8-935c-c102f6ee6391"
+		"title": "Kan de meeste documentaires en het meeste andere opgenomen of uitgezonden materiaal in standaardtaal begrijpen en de stemming, toon enzovoort daarin herkennen.",
+		"id": "fabccf83-71c7-4ae8-935c-c102f6ee6391",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -6271,8 +6279,10 @@
 			"4d99ee4d-b79a-4392-918e-53d7b59c861f",
 			"8adff60d-14d3-4998-b551-694f4a815c72"
 		],
-		"title": "Kan opnamen in standaardtaal verstaan die veel worden aangetroffen in het sociale, beroeps- of onderwijsleven, en naast de inhoudelijke informatie ook standpunten en houdingen van sprekers herkennen.",
-		"id": "8cb4eb96-d42c-4ab3-945a-546fb19a3684"
+		"title": "Kan opnamen in standaardtaal begrijpen die veel worden aangetroffen in het sociale, beroeps- of onderwijsleven en daarin, naast de inhoudelijke informatie, ook standpunten en houdingen herkennen.",
+		"id": "8cb4eb96-d42c-4ab3-945a-546fb19a3684",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -6282,16 +6292,20 @@
 			"dd18f734-7067-483f-b1df-6db3f6b055f7",
 			"d03915ac-5352-4572-8e57-803959c5d9e7"
 		],
-		"title": "Kan een breed scala van opgenomen en uitgezonden audiovisueel materiaal verstaan met inbegrip van enig niet-standaardtaalgebruik en fijnere details herkennen zoals impliciete houdingen van en verhoudingen tussen sprekers.",
-		"id": "a37fe4ec-4684-45bd-b173-85e9cfef92b3"
+		"title": "Kan een breed scala van opgenomen en uitgezonden materiaal begrijpen, met inbegrip van materiaal waarin sprake is van enig niet-standaardtaalgebruik, en kan daarin fijnere details herkennen, zoals impliciete houdingen van en verhoudingen tussen mensen.",
+		"id": "a37fe4ec-4684-45bd-b173-85e9cfef92b3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Geen descriptoren beschikbaar.",
+		"title": "Geen descriptoren beschikbaar, zie C1.",
 		"isempty": true,
-		"id": "dc131930-5c4e-4df9-881a-82ad72091ded"
+		"id": "dc131930-5c4e-4df9-881a-82ad72091ded",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
