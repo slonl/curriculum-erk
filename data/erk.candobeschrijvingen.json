@@ -5902,8 +5902,10 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan korte, eenvoudige instructies voor handelingen begrijpen, zoals 'Stop', 'Doe de deur dicht' enzovoort, als ze langzaam één op één worden gegeven, ondersteund door afbeeldingen of handgebaren en zo nodig herhaald.",
-		"id": "94f4b4cf-b716-41e5-92dd-94e3d414e36c"
+		"title": "Kan korte, eenvoudige instructies voor handelingen begrijpen, zoals 'Stop', 'Doe de deur dicht' enzovoort, als ze langzaam een-op-een worden gegeven, ondersteund worden door afbeeldingen of handgebaren en, zo nodig, worden herhaald.",
+		"id": "94f4b4cf-b716-41e5-92dd-94e3d414e36c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5916,8 +5918,10 @@
 			"e3925e8e-383c-4ee2-b9c2-f4505fe9661d",
 			"0dfe434b-b42a-440c-8bd3-dac2550c62e4"
 		],
-		"title": "Kan tot hem of haar gerichte vragen en opdrachten verstaan en korte, eenvoudige aanwijzingen volgen.",
-		"id": "b963d353-134d-4cb6-a8d7-167149f71063"
+		"title": "Kan opdrachten begrijpen die zorgvuldig en langzaam worden geformuleerd, en kan korte, eenvoudige aanwijzingen volgen.",
+		"id": "b963d353-134d-4cb6-a8d7-167149f71063",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5948,8 +5952,10 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan het begrijpen als iemand hem of haar langzaam en duidelijk vertelt waar iets is, op voorwaarde dat datgene zich in de directe omgeving bevindt.",
-		"id": "1001dc29-8286-4385-a6ea-cfdff3ad43a3"
+		"title": "Kan begrijpen waar iets is als iemand langzaam en duidelijk vertelt waar iets is en datgene zich in de directe omgeving bevindt.",
+		"id": "1001dc29-8286-4385-a6ea-cfdff3ad43a3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5959,8 +5965,10 @@
 			"4d73b8f1-452c-4d14-a630-e3f6ae06c39f",
 			"60a41f43-c074-49bc-b754-64840f2f58bf"
 		],
-		"title": "Kan getallen, prijzen en tijden verstaan die langzaam en duidelijk worden uitgesproken in mededelingen via een luidspreker.",
-		"id": "cd453a9a-6cc5-488f-8a99-5190b07936c7"
+		"title": "Kan getallen, prijzen en tijden begrijpen die langzaam en duidelijk worden overgebracht in mededelingen via een luidspreker.",
+		"id": "cd453a9a-6cc5-488f-8a99-5190b07936c7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
