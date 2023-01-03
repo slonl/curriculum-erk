@@ -6146,8 +6146,10 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan woorden, namen en getallen die hij of zij al kent herkennen in simpele, korte opnamen, mits er heel langzaam en duidelijk wordt gesproken.",
-		"id": "776c1dfb-12de-411b-b922-bedc95182e8d"
+		"title": "Kan bekende woorden, namen en getallen in simpele, korte opnamen herkennen, mits ze heel langzaam en duidelijk worden overgebracht.",
+		"id": "776c1dfb-12de-411b-b922-bedc95182e8d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -6175,8 +6177,10 @@
 			"06999f33-98e1-46d5-a635-825575e06cba",
 			"12c69fe6-2529-43ce-8f41-0caf4b62e344"
 		],
-		"title": "Kan de wezenlijke informatie verstaan en onderscheiden in korte, opgenomen passages over voorspelbare, alledaagse zaken.",
-		"id": "421913ab-36df-4798-8313-7f92d3416ae3"
+		"title": "Kan de wezenlijke informatie begrijpen en onderscheiden in korte opgenomen passages over voorspelbare alledaagse zaken, die langzaam en helder worden overgebracht.",
+		"id": "421913ab-36df-4798-8313-7f92d3416ae3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -6187,26 +6191,33 @@
 			"8911416f-42af-4908-8f51-31c03e209bd7",
 			"f01c8a6f-2808-48ac-b1f6-40db7ad2334a"
 		],
-		"title": "Kan de belangrijke informatie onderscheiden in korte radio-uitzendingen, mits er duidelijk wordt gesproken.",
-		"id": "f9d22297-6760-46e0-a33d-d5c6a83bf2f2"
+		"title": "Kan de belangrijke informatie onderscheiden in korte uitzendingen, mits die informatie duidelijk wordt overgebracht.",
+		"id": "f9d22297-6760-46e0-a33d-d5c6a83bf2f2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
 		"title": "Kan de hoofdpunten van een verhaal begrijpen en de plot volgen, mits het verhaal langzaam en duidelijk wordt verteld.",
-		"id": "4f3ad3b6-6d2a-42ca-bd93-29a204492eea"
+		"id": "4f3ad3b6-6d2a-42ca-bd93-29a204492eea",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
-			"620710de-54d2-48b5-93ab-40888732aab7"
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
 		"erk_voorbeeld_id": [
 			"96cfd07e-d596-4644-92e2-2253b060d04f",
 			"e87ba1e8-86b9-4264-8f56-308b16b70b64"
 		],
-		"title": "Kan de hoofdpunten verstaan van nieuwsberichten op de radio en van eenvoudiger opgenomen materiaal over vertrouwde onderwerpen dat betrekkelijk langzaam en helder wordt uitgesproken.",
-		"id": "af6eac1f-181f-4e79-86f5-04e5981f9350"
+		"title": "Kan de hoofdpunten in nieuwsberichten en in eenvoudig opgenomen materiaal over vertrouwde onderwerpen begrijpen, als deze betrekkelijk langzaam en helder worden overgebracht.",
+		"id": "af6eac1f-181f-4e79-86f5-04e5981f9350",
+		"prefix": "",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"niveau_id": [
