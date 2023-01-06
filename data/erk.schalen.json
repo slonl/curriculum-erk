@@ -1023,13 +1023,11 @@
 			"6d699dd2-105c-4a11-af9c-4b9404b94407",
 			"5b03f33e-4f70-411e-98ee-fb0c16ebf299",
 			"30f51b5b-7c5a-43ee-bacf-bd28090ca7c2",
-			"f6d43991-3896-454f-b0b8-d5e6530bd700",
 			"86fa9f20-95d5-41d7-ad47-836132c25daf",
 			"14a07f2d-7ed2-4c47-b32e-e233ffc64a0b",
 			"cd0372de-333e-4bcc-9593-20b87c7e954a",
 			"f01d051b-fc0f-4d50-a2dc-101a422d08eb",
 			"7329e348-5afe-4f8e-a903-8872809858bc",
-			"c028b8ae-26b5-4981-8073-30af2fbe7c39",
 			"525c1f43-bf1f-4bed-82a0-afcfa7bff6f1",
 			"6faf9c89-0470-457a-bbd1-586ef35cd56d",
 			"b8a2c25f-b77f-46e9-8a38-3e937878d746",
@@ -1051,7 +1049,9 @@
 			"a5da7f97-279b-4f97-8b43-41c5c9023b36"
 		],
 		"title": "Lezen voor informatie en argumentatie",
-		"id": "f84f75e7-1ba0-4694-b9cf-8bafe075d3cb"
+		"id": "f84f75e7-1ba0-4694-b9cf-8bafe075d3cb",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
