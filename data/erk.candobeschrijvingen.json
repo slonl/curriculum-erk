@@ -4261,64 +4261,82 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan vertrouwde woorden herkennen als er plaatjes bij staan, zoals een menu van een fastfoodrestaurant dat geïllustreerd is met foto's, of een prentenboek met een vertrouwde woordenschat.",
-		"id": "8ac8095b-3047-4c07-8c68-445a1a7e0850"
+		"title": "Kan vertrouwde woorden herkennen als er plaatjes bij staan, zoals een menu van een fastfoodrestaurant dat geïllustreerd is met foto's, of een prentenboek met vertrouwde woordenschat.",
+		"id": "8ac8095b-3047-4c07-8c68-445a1a7e0850",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan in zeer korte, eenvoudige teksten zinsdeel voor zinsdeel begrijpen door vertrouwde namen, woorden, en elementaire combinaties te herkennen en indien nodig te herlezen.",
-		"id": "c4a37de8-5d4d-4c16-9797-00754a1db6c6"
+		"title": "Kan zeer korte, eenvoudige teksten zinsdeel voor zinsdeel begrijpen door vertrouwde namen, woorden en elementaire combinaties te herkennen en indien nodig te herlezen.",
+		"id": "c4a37de8-5d4d-4c16-9797-00754a1db6c6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan korte, eenvoudige teksten met hoogfrequente woordenschat begrijpen, met inbegrip van een aantal woorden uit de gemeenschappelijke internationale woordenschat.",
-		"id": "e28dbb42-06e4-4987-861c-d9e6b8eaf23d"
+		"title": "Kan korte, eenvoudige teksten begrijpen, die uit vaak voorkomende woorden bestaan, waaronder ook een aantal woorden uit de gemeenschappelijke internationale woordenschat.",
+		"id": "e28dbb42-06e4-4987-861c-d9e6b8eaf23d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan korte, eenvoudige teksten begrijpen over vertrouwde zaken van concrete aard, die zijn geschreven in veelgebruikte alledaagse of werkgerelateerde taal.",
-		"id": "48aa57ff-afe0-4f95-924e-52435a0a20fb"
+		"title": "Kan korte, eenvoudige teksten begrijpen over vertrouwde zaken van concrete aard, die zijn geschreven in veelgebruikte alledaagse of werkgebonden taal.",
+		"id": "48aa57ff-afe0-4f95-924e-52435a0a20fb",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan met voldoende begrip eenduidige feitelijke teksten lezen over onderwerpen die betrekking hebben op zijn of haar interessegebied.",
-		"id": "aba4a3ed-dbc0-437b-8d03-24303f2fa3d4"
+		"title": "Kan met voldoende begrip directe feitelijke teksten lezen over onderwerpen die betrekking hebben op het eigen interessegebied.",
+		"id": "aba4a3ed-dbc0-437b-8d03-24303f2fa3d4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan in hoge mate zelfstandig lezen, past zijn of haar leesstijl en -snelheid aan verschillende teksten en doeleinden aan, en maakt selectief gebruik van toepasselijke naslagwerken. Beschikt over een grote actieve leeswoordenschat, maar kan enige moeite hebben met weinig voorkomende idiomatische uitdrukkingen.",
-		"id": "875f2727-d736-4398-8f91-c1383a76b3bd"
+		"title": "Kan in hoge mate zelfstandig lezen, past de eigen leesstijl en leessnelheid aan verschillende teksten en doeleinden aan, en maakt selectief gebruik van toepasselijke naslagwerken. Beschikt over een grote actieve leeswoordenschat, maar kan enige moeite hebben met weinig voorkomende idiomatische uitdrukkingen.",
+		"id": "875f2727-d736-4398-8f91-c1383a76b3bd",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan een breed scala van teksten begrijpen, waaronder literaire werken, artikelen in kranten en tijdschriften en specialistische academische of professionele publicaties, mits hij of zij de tekst kan herlezen en gebruik kan maken van naslagwerken.",
-		"id": "c705d666-a3aa-4d8a-9e28-1ec3dc2da0a7"
+		"title": "Kan een breed scala van teksten begrijpen, waaronder literaire werken, artikelen in kranten en tijdschriften en specialistische academische of professionele publicaties, eventueel na herlezing van de tekst en met gebruik van naslagwerken.",
+		"id": "c705d666-a3aa-4d8a-9e28-1ec3dc2da0a7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan lange, complexe teksten op detailniveau begrijpen, ongeacht of zij betrekking hebben op zijn of haar eigen vakgebied, mits hij of zij moeilijke passages kan herlezen.",
-		"id": "a5f57db6-22c9-4080-911f-359e6694b32d"
+		"title": "Kan lange, complexe teksten op detailniveau begrijpen, ongeacht of ze betrekking hebben op het eigen vakgebied, en na eventuele herlezing van moeilijke passages.",
+		"id": "a5f57db6-22c9-4080-911f-359e6694b32d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
 		"title": "Kan een breed scala van lange, complexe teksten begrijpen en daarbij subtiele verschillen in stijl en impliciete en expliciete betekenissen opmerken.",
-		"id": "752a4889-ed8f-4152-be2e-0ba45033735e"
+		"id": "752a4889-ed8f-4152-be2e-0ba45033735e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
