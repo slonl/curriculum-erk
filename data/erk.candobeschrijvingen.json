@@ -4565,15 +4565,19 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan eenvoudige alledaagse borden begrijpen zoals 'parkeren', 'station', 'eetzaal', 'niet roken' enzovoort.",
-		"id": "ecb66b87-692f-482f-8b98-f7edf2aef8bb"
+		"title": "Kan eenvoudige alledaagse borden zoals 'Parkeren', 'Station', 'Eetzaal', 'Niet roken' enzovoort begrijpen.",
+		"id": "ecb66b87-692f-482f-8b98-f7edf2aef8bb",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan informatie vinden over plaatsen, tijden en prijzen op posters, folders en kennisgevingen.",
-		"id": "fbb1b6ab-e254-4861-b072-9dd2d66b8b58"
+		"title": "Kan informatie over plaatsen, tijden en prijzen op posters, folders en aankondigingen vinden.",
+		"id": "fbb1b6ab-e254-4861-b072-9dd2d66b8b58",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4586,15 +4590,19 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan wegwijzers in winkels (informatie over welke afdeling op welke verdieping is) en richting aanwijzingen (bijvoorbeeld waar de lift is) begrijpen.",
-		"id": "955fdb46-91fd-4766-9b75-e1ade83e4bbf"
+		"title": "Kan in winkels wegwijzers (bijvoorbeeld informatie over welke afdeling op welke verdieping is) en aanwijzingen (bijvoorbeeld waar de lift is) begrijpen.",
+		"id": "955fdb46-91fd-4766-9b75-e1ade83e4bbf",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan elementaire hotelinformatie begrijpen, bijvoorbeeld hoe laat maaltijden worden geserveerd.",
-		"id": "f2d3faeb-be01-4a8b-8bec-f74538851352"
+		"title": "Kan elementaire informatie in hotels begrijpen, bijvoorbeeld hoe laat maaltijden worden geserveerd.",
+		"id": "f2d3faeb-be01-4a8b-8bec-f74538851352",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4608,12 +4616,14 @@
 			"e3456db9-4ea1-487e-8e30-c180d1dec596",
 			"5dc7e8b8-7069-4396-87c8-7b4d6fa3bf6c"
 		],
-		"title": "Kan eenvoudige informatie op een poster, mededelingenbord of in een flyer of een brochure lezen.",
-		"id": "9476e45d-6671-44bc-9d3b-8c6fe25c32a2"
+		"title": "Kan eenvoudige, belangrijke informatie vinden en begrijpen in advertenties, in programma's voor speciale evenementen, in folders en brochures.",
+		"id": "9476e45d-6671-44bc-9d3b-8c6fe25c32a2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
-			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
 		"erk_voorbeeld_id": [
 			"74fd1d13-524e-4bc1-8015-ed5267ee81a0",
@@ -4626,8 +4636,10 @@
 			"b02ccc75-7919-4694-b8b1-565d41d54669",
 			"d343b4dd-fa17-4b49-9315-ae1d44830ef6"
 		],
-		"title": "Kan dingen opzoeken in of kiezen uit een lijst.",
-		"id": "9e05c4ee-0fcb-4d05-b357-fb525923d8fb"
+		"title": "Kan specifieke informatie vinden in lijsten en de gewenste informatie isoleren.",
+		"id": "9e05c4ee-0fcb-4d05-b357-fb525923d8fb",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4644,7 +4656,9 @@
 			"9e800ef2-a906-481c-ac98-a0b8036eb9a5"
 		],
 		"title": "Kan specifieke informatie vinden en begrijpen in eenvoudig, alledaags materiaal zoals advertenties, folders, menu’s, referentielijsten en dienstregelingen.",
-		"id": "fc3df715-580d-4a4f-b3ec-fb439ff7b0c3"
+		"id": "fc3df715-580d-4a4f-b3ec-fb439ff7b0c3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4673,22 +4687,28 @@
 			"0e513afd-43eb-4db3-9b6e-e24365543bc2",
 			"99223dcd-7bb7-48b2-9d23-4e919a92be6e"
 		],
-		"title": "Kan veelvoorkomende borden en mededelingen begrijpen.",
-		"id": "c696b269-51e3-4dd9-8450-6e9281ef668b"
+		"title": "Kan alledaagse borden en mededelingen in het openbaar begrijpen.",
+		"id": "c696b269-51e3-4dd9-8450-6e9281ef668b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan specifieke informatie vinden in praktische, concrete, voorspelbare teksten (bijvoorbeeld reisgidsen, recepten), mits deze in eenvoudige taal zijn geschreven.",
-		"id": "f62bce04-fc2e-4f14-8972-38548a771d85"
+		"title": "Kan specifieke informatie vinden in praktische, concrete, voorspelbare teksten (bijvoorbeeld reisgidsen, recepten), mits eenvoudige taal is gebruikt.",
+		"id": "f62bce04-fc2e-4f14-8972-38548a771d85",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan de belangrijkste informatie begrijpen in korte en eenvoudige beschrijvingen van goederen in brochures en op websites (bijvoorbeeld draagbare digitale apparaten, camera's enzovoort).",
-		"id": "435bf870-93e9-4e3c-9869-d6a00d42699a"
+		"title": "Kan de belangrijkste informatie begrijpen in korte en eenvoudige beschrijvingen van goederen in brochures en op websites (bijvoorbeeld draagbare digitale apparaten, camera's).",
+		"id": "435bf870-93e9-4e3c-9869-d6a00d42699a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4705,15 +4725,19 @@
 			"d24b0a4d-9a75-4b88-b979-6819351e118b",
 			"3f56928d-df79-42e9-92b2-976dc28be165"
 		],
-		"title": "Kan relevante informatie vinden en begrijpen in alledaags materiaal zoals brieven, brochures en korte officiële documenten op internet of in andere media.",
-		"id": "9b446577-e625-411e-af68-a53e26d5d1fc"
+		"title": "Kan relevante informatie vinden en begrijpen in alledaags materiaal zoals brieven, brochures en korte officiële documenten.",
+		"id": "9b446577-e625-411e-af68-a53e26d5d1fc",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan belangrijke informatie over bereiding en gebruik vinden op de etiketten van voedingsmiddelen en medicijnen.",
-		"id": "f49d38f2-9515-445d-af0b-ef38fc85839b"
+		"title": "Kan op de etiketten van voedingsmiddelen en medicijnen belangrijke informatie vinden over de bereiding en het gebruik ervan.",
+		"id": "f49d38f2-9515-445d-af0b-ef38fc85839b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4739,15 +4763,19 @@
 			"7915d54c-5658-4fcc-b4e4-e09a39c86a60",
 			"6e6befed-72c9-4934-bff0-9aa64c1d0c34"
 		],
-		"title": "Kan langere teksten snel doorlezen om gewenste informatie op te sporen, en informatie verzamelen uit verschillende delen van een tekst of uit verschillende teksten, om een bepaalde taak uit te voeren.",
-		"id": "470f7f51-f776-461e-b09c-9f776dfca55f"
+		"title": "Kan langere teksten snel doorlezen om gewenste informatie te zoeken, en kan informatie verzamelen uit verschillende delen van een tekst of uit verschillende teksten, om een bepaalde taak uit te voeren.",
+		"id": "470f7f51-f776-461e-b09c-9f776dfca55f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan eenduidige, feitelijke teksten in tijdschriften, brochures of op het internet snel doorlezen om te bepalen waar ze over gaan en te besluiten of ze informatie bevatten die van pas kan komen.",
-		"id": "85090750-5a31-41c9-a0bb-250959d7f06c"
+		"title": "Kan directe, feitelijke teksten in tijdschriften, brochures of op het internet snel doorlezen om te bepalen waar ze over gaan en te besluiten of ze informatie bevatten die van pas kan komen.",
+		"id": "85090750-5a31-41c9-a0bb-250959d7f06c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4763,8 +4791,10 @@
 			"81315041-54da-4c02-b455-e0f976923ec0",
 			"6d012f8f-e682-463c-a6ea-15e0b1a9b704"
 		],
-		"title": "Kan snel lange, complexe teksten doorlezen en de relevante details vinden.",
-		"id": "01944565-7f64-4f36-996f-e49f73cc0190"
+		"title": "Kan snel lange, complexe teksten doorlezen en er de relevante details in vinden.",
+		"id": "01944565-7f64-4f36-996f-e49f73cc0190",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4778,8 +4808,10 @@
 			"5179f15f-8d6a-49c9-8036-c7d6996a7b53",
 			"25d04b97-7bb5-4e79-99e3-5462cc32bf7d"
 		],
-		"title": "Kan snel de inhoud en relevantie herkennen van nieuwsberichten, artikelen en verslagen over uiteenlopende professionele onderwerpen en dan beslissen of nadere bestudering de moeite waard is.",
-		"id": "c64a9a87-da0f-406e-811a-2ce93380f19e"
+		"title": "Kan snel de inhoud en relevantie herkennen van nieuwsberichten, artikelen en verslagen over uiteenlopende professionele onderwerpen en beslissen of nadere bestudering de moeite waard is. ",
+		"id": "c64a9a87-da0f-406e-811a-2ce93380f19e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4796,24 +4828,30 @@
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan verschillende bronnen (artikelen, rapporten, websites, boeken enzovoort) in zijn of haar vakgebied en verwante vakgebieden parallel snel doorlezen en de relevantie en de bruikbaarheid van specifieke onderdelen voor het betreffende doel vaststellen.",
-		"id": "b1599d83-086a-4c68-9c45-0765fce0b473"
+		"title": "Kan verschillende bronnen (artikelen, rapporten, websites, boeken enzovoort) in het eigen vakgebied en in verwante vakgebieden parallel snel doorlezen en de relevantie en de bruikbaarheid van specifieke onderdelen voor het betreffende doel vaststellen.",
+		"id": "b1599d83-086a-4c68-9c45-0765fce0b473",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Geen descriptoren beschikbaar.",
+		"title": "Geen descriptoren beschikbaar, zie B2.",
 		"isempty": true,
-		"id": "e31153e7-76ba-4caf-b0de-eb10a3c0feee"
+		"id": "e31153e7-76ba-4caf-b0de-eb10a3c0feee",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Geen descriptoren beschikbaar.",
+		"title": "Geen descriptoren beschikbaar, zie B2.",
 		"isempty": true,
-		"id": "105b5a76-6a22-48ad-bcbd-bb656d59907e"
+		"id": "105b5a76-6a22-48ad-bcbd-bb656d59907e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
