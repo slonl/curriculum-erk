@@ -997,7 +997,6 @@
 			"9476e45d-6671-44bc-9d3b-8c6fe25c32a2",
 			"9e05c4ee-0fcb-4d05-b357-fb525923d8fb",
 			"fc3df715-580d-4a4f-b3ec-fb439ff7b0c3",
-			"969c0656-bb09-412e-abaf-e9ed5094d17e",
 			"c696b269-51e3-4dd9-8450-6e9281ef668b",
 			"f62bce04-fc2e-4f14-8972-38548a771d85",
 			"435bf870-93e9-4e3c-9869-d6a00d42699a",
@@ -1015,7 +1014,9 @@
 			"105b5a76-6a22-48ad-bcbd-bb656d59907e"
 		],
 		"title": "Oriënterend lezen",
-		"id": "cc8a1f60-efcc-4cec-8229-932dbe29e51c"
+		"id": "cc8a1f60-efcc-4cec-8229-932dbe29e51c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
