@@ -4857,8 +4857,10 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan de eenvoudigste informatiematerialen begrijpen zoals het menu van een fastfoodrestaurant dat geïllustreerd is met foto's, of een geïllustreerd verhaal in zeer eenvoudige, alledaagse woorden.",
-		"id": "6d699dd2-105c-4a11-af9c-4b9404b94407"
+		"title": "Kan de meest eenvoudige informatiebronnen begrijpen zoals het menu van een fastfoodrestaurant dat geïllustreerd is met foto's, of een geïllustreerd verhaal dat in zeer eenvoudige, alledaagse woorden is geformuleerd.",
+		"id": "6d699dd2-105c-4a11-af9c-4b9404b94407",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4871,15 +4873,19 @@
 			"27f4b6c3-9247-4264-a395-6a36bdf7a68c",
 			"89ee25fe-69d2-4146-85c7-853ae0e8df8b"
 		],
-		"title": "Kan zich een idee vormen van de inhoud van eenvoudiger informatief materiaal en korte, eenvoudige beschrijvingen, vooral als er visuele ondersteuning bij is.",
-		"id": "5b03f33e-4f70-411e-98ee-fb0c16ebf299"
+		"title": "Kan zich een idee vormen van de inhoud van eenvoudiger informatief materiaal en van korte, eenvoudige beschrijvingen, vooral als er visuele ondersteuning aanwezig is.",
+		"id": "5b03f33e-4f70-411e-98ee-fb0c16ebf299",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan korte teksten begrijpen over onderwerpen waar hij of zij persoonlijk belangstelling voor heeft (bijvoorbeeld korte nieuwsberichten over sport, muziek, reizen of verhalen enzovoort), als ze in heel eenvoudige woorden zijn geschreven en worden ondersteund door illustraties en afbeeldingen.",
-		"id": "30f51b5b-7c5a-43ee-bacf-bd28090ca7c2"
+		"title": "Kan korte teksten begrijpen over onderwerpen waar persoonlijke belangstelling voor is (bijvoorbeeld korte nieuwsberichten over sport, muziek, reizen of verhalen enzovoort), mits ze in heel eenvoudige taal zijn geformuleerd en ondersteund worden door illustraties en afbeeldingen.",
+		"id": "30f51b5b-7c5a-43ee-bacf-bd28090ca7c2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4904,15 +4910,19 @@
 			"99e7fd32-5578-4239-919c-31232f5a8e0d",
 			"aa27f6fb-0566-42f4-ba54-3372a7c54755"
 		],
-		"title": "Kan teksten begrijpen die mensen, plaatsen, het alledaagse leven en cultuur enzovoort beschrijven, mits ze in eenvoudige taal zijn geschreven.",
-		"id": "86fa9f20-95d5-41d7-ad47-836132c25daf"
+		"title": "Kan teksten begrijpen die mensen, plaatsen, het alledaagse leven en cultuur enzovoort beschrijven, mits ze in eenvoudige taal zijn geformuleerd.",
+		"id": "86fa9f20-95d5-41d7-ad47-836132c25daf",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan informatie begrijpen die wordt gegeven in geïllustreerde brochures en plattegronden, bijvoorbeeld de belangrijkste attracties van een stad.",
-		"id": "14a07f2d-7ed2-4c47-b32e-e233ffc64a0b"
+		"title": "Kan informatie begrijpen in geïllustreerde brochures en plattegronden, bijvoorbeeld de belangrijkste attracties van een stad.",
+		"id": "14a07f2d-7ed2-4c47-b32e-e233ffc64a0b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4926,22 +4936,28 @@
 			"f1494a03-56fd-4593-9051-3838007611ab",
 			"fd19de6d-6a17-4073-904c-2556217349b5"
 		],
-		"title": "Kan de hoofdlijn begrijpen van korte nieuwsberichten over onderwerpen binnen de persoonlijke interessesfeer (bijvoorbeeld sport, beroemdheden).",
-		"id": "cd0372de-333e-4bcc-9593-20b87c7e954a"
+		"title": "Kan de hoofdlijn begrijpen in korte nieuwsberichten over onderwerpen binnen de persoonlijke interessesfeer (bijvoorbeeld sport, bekende sterren). ",
+		"id": "cd0372de-333e-4bcc-9593-20b87c7e954a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan een korte, feitelijke beschrijving of een kort, feitelijk verslag binnen zijn of haar eigen vakgebied begrijpen, mits het in eenvoudige taal is geschreven en geen onvoorspelbare details bevat.",
-		"id": "f01d051b-fc0f-4d50-a2dc-101a422d08eb"
+		"title": "Kan een korte, feitelijke beschrijving of een kort, feitelijk verslag binnen het eigen vakgebied begrijpen, mits eenvoudige taal is gebruikt en de tekst geen onvoorspelbare details bevat.",
+		"id": "f01d051b-fc0f-4d50-a2dc-101a422d08eb",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan het meeste begrijpen van wat mensen over zichzelf vertellen in een persoonlijke advertentie of een persoonlijk bericht op internet en wat ze zeggen leuk te vinden in andere mensen.",
-		"id": "7329e348-5afe-4f8e-a903-8872809858bc"
+		"title": "Kan het meeste begrijpen van wat mensen over zichzelf vertellen in een persoonlijke advertentie of in een persoonlijk bericht op internet en van wat ze zeggen leuk te vinden in andere mensen.",
+		"id": "7329e348-5afe-4f8e-a903-8872809858bc",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4958,22 +4974,28 @@
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan specifieke informatie herkennen in eenvoudiger schriftelijk materiaal waarmee hij of zij in aanraking komt, zoals brieven, brochures en korte krantenartikelen waarin gebeurtenissen worden beschreven.",
-		"id": "525c1f43-bf1f-4bed-82a0-afcfa7bff6f1"
+		"title": "Kan specifieke informatie herkennen in eenvoudig schriftelijk materiaal, zoals brieven, brochures en korte krantenartikelen waarin gebeurtenissen worden beschreven.",
+		"id": "525c1f43-bf1f-4bed-82a0-afcfa7bff6f1",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan de grote lijnen volgen van een nieuwsbericht over een vertrouwd soort gebeurtenis, mits de inhoud vertrouwd en voorspelbaar is.",
-		"id": "6faf9c89-0470-457a-bbd1-586ef35cd56d"
+		"title": "Kan de grote lijnen van een nieuwsbericht over een vertrouwd soort gebeurtenis volgen, mits de inhoud vertrouwd en voorspelbaar is.",
+		"id": "6faf9c89-0470-457a-bbd1-586ef35cd56d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
 		"title": "Kan de belangrijkste informatie oppikken in korte krantenberichten of eenvoudige artikelen waarin cijfers, namen, illustraties en titels een belangrijke rol spelen en de betekenis van de tekst ondersteunen.",
-		"id": "b8a2c25f-b77f-46e9-8a38-3e937878d746"
+		"id": "b8a2c25f-b77f-46e9-8a38-3e937878d746",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5007,8 +5029,10 @@
 			"7ead643a-e991-45cd-8f1d-cb304369525c",
 			"1cebdbe2-fc1a-48c0-a6b1-60f1bfd54fee"
 		],
-		"title": "Kan de meeste feitelijke informatie begrijpen die hij of zij kan tegenkomen over vertrouwde belangwekkende onderwerpen, mits hij of zij voldoende tijd heeft om te herlezen.",
-		"id": "7fe0e268-e9cf-4017-803c-d25fe863aebc"
+		"title": "Kan de meeste feitelijke informatie over vertrouwde belangwekkende onderwerpen begrijpen, als er voldoende tijd is om te herlezen.",
+		"id": "7fe0e268-e9cf-4017-803c-d25fe863aebc",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5019,8 +5043,10 @@
 			"0bdd57a4-4c8b-4b92-b9b7-b3ca41d61478",
 			"54a3a018-4f5e-4947-a0c0-de4f00809308"
 		],
-		"title": "Kan de belangrijkste punten begrijpen in korte beschrijvende teksten, zoals die bij museumstukken en informatieborden van tentoonstellingen.",
-		"id": "338b8886-864e-442b-bf50-8c921939ac35"
+		"title": "Kan de belangrijkste punten begrijpen in korte beschrijvende teksten, zoals toelichtingen bij museumstukken en informatieborden van tentoonstellingen.",
+		"id": "338b8886-864e-442b-bf50-8c921939ac35",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5039,22 +5065,28 @@
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan eenduidige, feitelijke teksten begrijpen over onderwerpen die te maken hebben met zijn of haar interesses of studie.",
-		"id": "80ca95b9-5638-4747-85a4-97dcba7a0bc6"
+		"title": "Kan directe, feitelijke teksten begrijpen over onderwerpen die te maken hebben met de eigen interesses of studie.",
+		"id": "80ca95b9-5638-4747-85a4-97dcba7a0bc6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan korte teksten begrijpen over onderwerpen die vertrouwd zijn of betrekking hebben op actuele kwesties, waarin mensen hun mening geven (bijvoorbeeld kritische bijdragen aan een onlinediscussieforum of ingezonden brieven).",
-		"id": "7fde1925-2719-4b70-a960-3b6180f3b0d1"
+		"title": "Kan korte teksten begrijpen over onderwerpen die vertrouwd zijn of betrekking hebben op actuele kwesties, en waarin mensen hun mening geven (bijvoorbeeld kritische bijdragen aan een online discussieforum of ingezonden brieven).",
+		"id": "7fde1925-2719-4b70-a960-3b6180f3b0d1",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan de belangrijkste conclusies herkennen in argumenterende teksten die voorzien zijn van heldere signalen.",
-		"id": "347cefaa-7f64-4144-99fb-b342c7a8d165"
+		"title": "Kan de belangrijkste conclusies herkennen in argumenterende teksten die van heldere signalen voorzien zijn.",
+		"id": "347cefaa-7f64-4144-99fb-b342c7a8d165",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5084,8 +5116,10 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan herkennen wanneer een tekst feitelijke informatie geeft en wanneer hij bedoeld is om de lezers ergens van te overtuigen.",
-		"id": "348896fa-05b2-484b-94ce-47db6f240ba7"
+		"title": "Kan herkennen wanneer een tekst feitelijke informatie geeft en wanneer de tekst bedoeld is om de lezers ergens van te overtuigen.",
+		"id": "348896fa-05b2-484b-94ce-47db6f240ba7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5105,8 +5139,10 @@
 			"8ceee6d0-7327-4ba2-b820-162efc799072",
 			"d3d60235-4e35-4ee0-b0cb-bf6d1e115502"
 		],
-		"title": "Kan informatie, ideeën en meningen ophalen uit zeer gespecialiseerde bronnen binnen zijn of haar vakgebied.",
-		"id": "32049b12-ef30-4cc5-b71c-8dac0f03a5ee"
+		"title": "Kan informatie, ideeën en meningen ophalen uit zeer gespecialiseerde bronnen binnen het eigen vakgebied.",
+		"id": "32049b12-ef30-4cc5-b71c-8dac0f03a5ee",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5119,8 +5155,10 @@
 			"4f527343-a748-47d2-99ef-105d89a454cb",
 			"63edbb27-328e-4bf5-a732-88e195aa835e"
 		],
-		"title": "Kan gespecialiseerde artikelen buiten het eigen vakgebied begrijpen, mits hij of zij af en toe een woordenboek kan gebruiken om zijn of haar interpretatie van terminologie te bevestigen.",
-		"id": "dbc20102-aa16-4c55-856d-f195c8fec5a4"
+		"title": "Kan gespecialiseerde artikelen buiten het eigen vakgebied begrijpen, eventueel na gebruik van een woordenboek om de interpretatie van de terminologie te bevestigen.\n",
+		"id": "dbc20102-aa16-4c55-856d-f195c8fec5a4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5131,15 +5169,19 @@
 			"2e246ec0-6063-47fc-ba4d-cfc1555baa97",
 			"49e7f1f2-aba0-4c30-9fb2-dfcd24605193"
 		],
-		"title": "Kan op detailniveau een breed scala van lange, complexe teksten begrijpen, die veel worden aangetroffen in het sociale, professionele of academische leven, en fijnere details herkennen zoals houdingen en uitgesproken of impliciete meningen, mits moeilijke passages herlezen kunnen worden.",
-		"id": "d48e70d5-5c06-4aa5-bcab-bace71d1d9d3"
+		"title": "Kan op detailniveau een breed scala van lange, complexe teksten begrijpen, die veel worden aangetroffen in het sociale, professionele of academische leven en kan fijnere details herkennen zoals houdingen en uitgesproken of impliciete meningen.",
+		"id": "d48e70d5-5c06-4aa5-bcab-bace71d1d9d3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan de fijnere details en implicaties van een ingewikkeld verslag of artikel begrijpen, zelfs als dat buiten zijn of haar specialisatiegebied ligt.",
-		"id": "a5da7f97-279b-4f97-8b43-41c5c9023b36"
+		"title": "Kan de fijnere details en de implicaties van een ingewikkeld verslag of artikel begrijpen, zelfs als het buiten het eigen specialisatiegebied ligt.",
+		"id": "a5da7f97-279b-4f97-8b43-41c5c9023b36",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
