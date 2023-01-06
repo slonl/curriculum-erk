@@ -4349,15 +4349,19 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan uit een brief, kaart of e-mail opmaken voor wat voor gelegenheid hij of zij wordt uitgenodigd en op welke dag, tijd en locatie die plaatsvindt.",
-		"id": "ae6d2251-af9b-4acf-822f-ff7f096fcb34"
+		"title": "Kan uit een brief, kaart of e-mail opmaken voor wat voor gelegenheid er wordt uitgenodigd en op welke dag, tijd en locatie het evenement plaatsvindt.",
+		"id": "ae6d2251-af9b-4acf-822f-ff7f096fcb34",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan tijden en plaatsen herkennen in zeer eenvoudige briefjes en tekstberichten van vrienden of collega's, bijvoorbeeld 'Ben om 4 uur terug' of 'In de vergaderruimte', mits er geen afkortingen zijn gebruikt.",
-		"id": "6c0a727d-1905-4cc5-b02e-1de0f6ab14de"
+		"title": "Kan tijden en plaatsen herkennen in zeer eenvoudige briefjes en tekstberichten van vrienden of collega's, bijvoorbeeld 'Ben om 4 uur terug' of 'In de vergaderruimte', mits er geen afkortingen in zijn gebruikt.",
+		"id": "6c0a727d-1905-4cc5-b02e-1de0f6ab14de",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4370,8 +4374,10 @@
 			"9fdd6b92-8490-4f46-9020-969c9ed66995",
 			"67b161ba-b2da-4b76-916e-cd8479ff354e"
 		],
-		"title": "Kan voorgedrukte kaarten begrijpen met standaard boodschappen.",
-		"id": "4e7d6999-4727-4ce4-9fef-56920a89e8f3"
+		"title": "Kan korte, eenvoudige berichten op brief- of ansichtkaarten begrijpen.",
+		"id": "4e7d6999-4727-4ce4-9fef-56920a89e8f3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4385,8 +4391,10 @@
 			"c2abe5e2-4f79-47a5-b5a1-4fbd2d6a970e",
 			"8c9cb5f5-e80b-4b0f-9207-99737a58ea41"
 		],
-		"title": "Kan korte, eenvoudige mededelingen begrijpen, bijvoorbeeld via sociale media of op brief- of ansichtkaarten.",
-		"id": "cb3b4f2f-21ef-4ff1-9679-ce15381010f8"
+		"title": "Kan korte, eenvoudige berichten op sociale media of in een e-mail begrijpen (bijvoorbeeld een voorstel om iets te doen, wanneer en waar af te spreken).",
+		"id": "cb3b4f2f-21ef-4ff1-9679-ce15381010f8",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4399,15 +4407,19 @@
 			"e4f90d37-ec4f-4003-b3b5-ecad2565053c",
 			"a4dec6c3-4d85-4659-81ee-32dab6ab9f72"
 		],
-		"title": "Kan een korte, eenvoudige (standaard)brief of e-mail begrijpen.",
-		"id": "e81a6946-dc84-4e69-9337-56a619ab2543"
+		"title": "Kan korte, eenvoudige persoonlijke brieven of e-mails begrijpen.",
+		"id": "e81a6946-dc84-4e69-9337-56a619ab2543",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan een simpele persoonlijke brief of e-mail of bericht begrijpen waarin de schrijver over vertrouwde onderwerpen schrijft (zoals vrienden of familie) of vragen over deze onderwerpen stelt.",
-		"id": "966d183f-50cc-4b65-b9bb-0fc642e69982"
+		"title": "Kan een eenvoudige persoonlijke brief of e-mail of een eenvoudig persoonlijk bericht op het internet begrijpen waarin de schrijver over vertrouwde onderwerpen schrijft (zoals vrienden of familie) of vragen over deze onderwerpen stelt.",
+		"id": "966d183f-50cc-4b65-b9bb-0fc642e69982",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4422,7 +4434,9 @@
 			"32671bad-f6cc-4fbf-8d94-7f54632813da"
 		],
 		"title": "Kan elementaire soorten standaardbrieven, faxen (inlichtingen, bestellingen, bevestigingsbrieven, enzovoort) over vertrouwde onderwerpen begrijpen.",
-		"id": "89f06600-fe2b-427d-b7b3-2ea60062a8db"
+		"id": "89f06600-fe2b-427d-b7b3-2ea60062a8db",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4438,15 +4452,19 @@
 			"5a214186-f243-46bd-ba28-85468194b581",
 			"c8dd2048-c975-462d-8c96-1463e13db9be"
 		],
-		"title": "Kan de beschrijving van gebeurtenissen, gevoelens en wensen in persoonlijke brieven goed genoeg begrijpen om regelmatig met iemand te kunnen corresponderen.",
-		"id": "8196c8ce-cf61-4cf3-a0bb-e6ed688fbaaa"
+		"title": "Kan de beschrijving van gebeurtenissen, gevoelens en wensen in persoonlijke brieven goed genoeg begrijpen om regelmatig met iemand te kunnen corresponderen.\n",
+		"id": "8196c8ce-cf61-4cf3-a0bb-e6ed688fbaaa",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan eenduidige persoonlijke brieven, e-mails of berichten begrijpen waarin betrekkelijk gedetailleerd verslag wordt gedaan van gebeurtenissen en ervaringen.",
-		"id": "17d24ad6-7741-4bd3-9b4d-a088f8ccb927"
+		"title": "Kan directe persoonlijke brieven, e-mails of berichten begrijpen waarin betrekkelijk gedetailleerd verslag wordt gedaan van gebeurtenissen en ervaringen.",
+		"id": "17d24ad6-7741-4bd3-9b4d-a088f8ccb927",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4461,15 +4479,19 @@
 			"5be8ec6b-77e3-454c-8905-e28390291c07",
 			"aeb7d053-8c40-4412-91d9-b1e93bf282e6"
 		],
-		"title": "kan formele standaardcorrespondentie en online berichten in zijn of haar vakgebied begrijpen.",
-		"id": "cdc78249-b016-4936-8b1a-7d7a2a703c59"
+		"title": "Kan formele standaardcorrespondentie en berichten op het internet in het eigen vakgebied begrijpen.",
+		"id": "cdc78249-b016-4936-8b1a-7d7a2a703c59",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
 		"title": "Kan formele correspondentie over minder vertrouwde onderwerpen goed genoeg begrijpen om die aan iemand anders door te sturen.",
-		"id": "b2186256-c768-47d3-b64b-243e34325ff7"
+		"id": "b2186256-c768-47d3-b64b-243e34325ff7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4485,15 +4507,19 @@
 			"cf1ae937-757b-4c14-9ec5-1aac04e284ba",
 			"fcdbe7e8-dd60-413c-b6f1-532f7f88602c"
 		],
-		"title": "Kan correspondentie lezen met betrekking tot zijn of haar interessegebied en daarbij meteen de wezenlijke betekenis vatten.",
-		"id": "92d56700-66c7-4044-8646-4b0792bc6b0a"
+		"title": "Kan correspondentie lezen met betrekking tot het eigen interessegebied en daarbij meteen de wezenlijke betekenis vatten.",
+		"id": "92d56700-66c7-4044-8646-4b0792bc6b0a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan begrijpen wat er wordt gezegd in een persoonlijke e-mail of bericht, zelfs als er enige spreektaal wordt gebruikt.",
-		"id": "a31f9ad2-16f9-4c75-9dd8-a8c97cae2c82"
+		"title": "Kan begrijpen wat in een persoonlijke e-mail of een persoonlijk bericht wordt gezegd, zelfs als er enige spreektaal wordt gebruikt.",
+		"id": "a31f9ad2-16f9-4c75-9dd8-a8c97cae2c82",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4514,15 +4540,19 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan impliciete en expliciete houdingen, emoties en meningen begrijpen in e-mails, discussieforums, blogs enzovoort, mits hij of zij de tekst kan herlezen en gebruik kan maken van naslagwerken.",
-		"id": "586680d1-bb74-4ebe-840f-b5ad4fd63334"
+		"title": "Kan impliciete en expliciete houdingen, emoties en meningen in e-mails, discussiefora, vlogs/blogs enzovoort begrijpen, eventueel na herlezing van de tekst en met gebruik van naslagwerken.",
+		"id": "586680d1-bb74-4ebe-840f-b5ad4fd63334",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan jargon, idiomatische uitdrukkingen en grappen in persoonlijke correspondentie begrijpen.",
-		"id": "8d203fdf-97ea-47a0-9ead-f4d03828176c"
+		"title": "Kan slang, idiomatische uitdrukkingen en grappen in persoonlijke correspondentie begrijpen.",
+		"id": "8d203fdf-97ea-47a0-9ead-f4d03828176c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
