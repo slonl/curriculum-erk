@@ -11577,5 +11577,23 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		]
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"id": "38eb1ecd-8bab-4c7f-a8d2-8c86bd54bda7",
+		"prefix": "",
+		"title": "Kan concrete informatie oppikken in korte opnamen over vertrouwde, alledaagse onderwerpen, als die informatie heel langzaam en duidelijk wordt overgebracht.\n",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"id": "993fceed-43f8-4a6b-987e-7cea41d16421",
+		"prefix": "",
+		"title": "Kan de belangrijkste informatie begrijpen in korte commercials voor relevante goederen of diensten (bijvoorbeeld cd's, videospellen, reizen).",
+		"description": ""
 	}
 ]
