@@ -65,11 +65,13 @@
 			"763a4d0a-b18b-4da3-b664-6bf2cdf2f237",
 			"2f6b5a57-8b14-4834-afdd-cbf4638b6d71",
 			"d78f5af9-1b28-4f68-bab2-f6ecff7807e9",
-			"237545d1-b66f-4fe7-9b45-b3bb7f127563",
-			"c2fc92d9-59b8-4728-91db-7739b36f99c8"
+			"237545d1-b66f-4fe7-9b45-b3bb7f127563"
 		],
 		"title": "Luisteren (en kijken)",
-		"id": "f46c1c83-1d83-442a-8a59-ac4c8b61c7a3"
+		"id": "f46c1c83-1d83-442a-8a59-ac4c8b61c7a3",
+		"prefix": "",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"title": "Lezen",
@@ -132,10 +134,14 @@
 			"6615ae9c-e940-4203-816a-1affa8c50028",
 			"f3cd3e9f-d4c1-447c-99b6-ecafe851bc27",
 			"4c95ffe3-c80f-408c-93e9-25a6d33cd643",
-			"f95a83cd-5069-4077-8f77-a87d9b038b24"
+			"f95a83cd-5069-4077-8f77-a87d9b038b24",
+			"c2fc92d9-59b8-4728-91db-7739b36f99c8"
 		],
 		"title": "Gesprekken voeren",
-		"id": "23a3939b-0b8b-4570-9f63-8f64ad81fac2"
+		"id": "23a3939b-0b8b-4570-9f63-8f64ad81fac2",
+		"prefix": "",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"erk_schaal_id": [
