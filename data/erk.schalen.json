@@ -1214,10 +1214,14 @@
 			"8548bc03-be81-4640-8bfe-7b468174b346",
 			"7485a0ba-64ac-4cce-9a39-8ab9352b404e",
 			"a4e72d02-6618-4e23-ae23-dc960bfb8530",
-			"b3b3f57f-dfbc-4c20-b562-bb6530833fdd"
+			"b3b3f57f-dfbc-4c20-b562-bb6530833fdd",
+			"19971876-3f1f-46c9-9c1a-fcb1de2d6597"
 		],
 		"title": "Kijken en luisteren naar tv, film en video",
-		"id": "237545d1-b66f-4fe7-9b45-b3bb7f127563"
+		"id": "237545d1-b66f-4fe7-9b45-b3bb7f127563",
+		"prefix": "",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"erk_candobeschrijving_id": [
