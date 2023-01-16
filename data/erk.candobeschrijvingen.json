@@ -4279,7 +4279,7 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan korte, eenvoudige teksten begrijpen, die uit vaak voorkomende woorden bestaan, waaronder ook een aantal woorden uit de gemeenschappelijke internationale woordenschat.",
+		"title": "Kan korte, eenvoudige teksten begrijpen die uit vaak voorkomende woorden bestaan, waaronder ook een aantal woorden uit de gemeenschappelijke internationale woordenschat.",
 		"id": "e28dbb42-06e4-4987-861c-d9e6b8eaf23d",
 		"prefix": "",
 		"description": ""
@@ -11631,6 +11631,15 @@
 		"id": "19971876-3f1f-46c9-9c1a-fcb1de2d6597",
 		"prefix": "",
 		"title": "Kan tot in detail de argumenten begrijpen die worden gepresenteerd in veeleisende televisie-uitzendingen zoals actualiteitenprogramma's, interviews, discussieprogramma's en talkshows.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"id": "c0323fb9-1db3-4d57-a07d-4c1e2d7eac5f",
+		"prefix": "",
+		"title": "Kan zeer eenvoudige formele e-mails en brieven begrijpen.",
 		"description": ""
 	}
 ]
