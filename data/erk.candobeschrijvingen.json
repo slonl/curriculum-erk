@@ -5754,7 +5754,7 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan de voornaamste argumenten voor of tegen een standpunt of idee herkennen in een discussie die in duidelijke standaardtaal, of in een vertrouwde taalvariëteit wordt gevoerd.",
+		"title": "Kan de voornaamste argumenten voor of tegen een standpunt of idee herkennen in een discussie die in duidelijke standaardtaal of in een vertrouwde taalvariëteit wordt gevoerd.",
 		"id": "8b3239fd-5282-4576-a121-045bf2abd5d4",
 		"prefix": "",
 		"description": ""
@@ -5793,7 +5793,7 @@
 			"5c6cf0e4-f753-422f-be7a-04d497d11330",
 			"986d7028-1181-4390-99f2-64d46a9db5f1"
 		],
-		"title": "Kan vlot complexe interacties van derden volgen, in een groepsdiscussie of debat, zelfs over abstracte, complexe en niet-vertrouwde onderwerpen.",
+		"title": "Kan vlot complexe interacties van derden volgen in een groepsdiscussie of debat, zelfs over abstracte, complexe en niet-vertrouwde onderwerpen.",
 		"id": "54277213-6cf8-4c5f-8a95-6fc9445604b4",
 		"prefix": "",
 		"description": ""
@@ -11595,6 +11595,33 @@
 		"id": "993fceed-43f8-4a6b-987e-7cea41d16421",
 		"prefix": "",
 		"title": "Kan de belangrijkste informatie begrijpen in korte commercials voor relevante goederen of diensten (bijvoorbeeld cd's, videospellen, reizen).",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"id": "7735f4bf-db35-450d-af50-a6c588755f0c",
+		"prefix": "",
+		"title": "Kan het belangrijkste punt volgen in korte, duidelijke en eenvoudige boodschappen en aankondigingen.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"id": "f5f426b3-da7a-44d2-a94a-9f75271a74b4",
+		"prefix": "",
+		"title": "Kan eenvoudige aanwijzingen begrijpen over de juiste weg te voet of per openbaar vervoer van X naar Y.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"id": "bdcb7c1f-5ad9-4806-b530-9f23bb117af8",
+		"prefix": "",
+		"title": "Kan elementaire instructies begrijpen over tijden, data, getallen e.d. en over routinetaken en routineopdrachten die uitgevoerd moeten worden.\n",
 		"description": ""
 	}
 ]
