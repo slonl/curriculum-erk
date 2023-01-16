@@ -982,10 +982,14 @@
 			"166aab40-d4ee-49a8-9b4d-ed05e8492559",
 			"586680d1-bb74-4ebe-840f-b5ad4fd63334",
 			"8d203fdf-97ea-47a0-9ead-f4d03828176c",
-			"69321888-830d-4a25-a128-53fd47923cfb"
+			"69321888-830d-4a25-a128-53fd47923cfb",
+			"c0323fb9-1db3-4d57-a07d-4c1e2d7eac5f"
 		],
 		"title": "Correspondentie lezen",
-		"id": "b6252d39-570d-4a94-8406-24cf24166049"
+		"id": "b6252d39-570d-4a94-8406-24cf24166049",
+		"prefix": "",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"erk_candobeschrijving_id": [
