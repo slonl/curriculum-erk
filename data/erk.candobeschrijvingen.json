@@ -5205,8 +5205,10 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan eenvoudige aanwijzingen begrijpen bij apparaturen die men aantreft in het dagelijks leven, bijvoorbeeld een openbare telefoon.",
-		"id": "2ce03d9e-b8c0-403c-bf2e-5dddeb056f14"
+		"title": "Kan eenvoudige aanwijzingen begrijpen bij apparaten die men aantreft in het dagelijks leven.",
+		"id": "2ce03d9e-b8c0-403c-bf2e-5dddeb056f14",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5223,22 +5225,28 @@
 			"c6452fdf-84af-466d-9e2d-d07d788a482c",
 			"cd887937-aa71-4bce-a0ef-6109db6da72a"
 		],
-		"title": "Kan eenvoudige, korte instructies begrijpen, mits deze geïllustreerd zijn en niet als lopende tekst zijn opgesteld.",
-		"id": "5c496867-cbaa-4d16-b16d-6ae9c1d2609f"
+		"title": "Kan eenvoudige, korte instructies begrijpen, mits ze geïllustreerd zijn en niet in lopende tekst zijn opgesteld.",
+		"id": "5c496867-cbaa-4d16-b16d-6ae9c1d2609f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan instructies op etiketten van geneesmiddelen begrijpen als deze zijn uitgedrukt als een eenvoudig gebod, bijvoorbeeld 'Innemen voor de maaltijd' of 'Niet innemen als u moet rijden'.",
-		"id": "d5f00649-d472-4109-9b25-62cd3f0f6e5b"
+		"title": "Kan instructies op etiketten van geneesmiddelen begrijpen als ze zijn uitgedrukt in de vorm van een eenvoudig gebod (bijvoorbeeld 'Innemen voor de maaltijd' of 'Niet innemen als u moet rijden').",
+		"id": "d5f00649-d472-4109-9b25-62cd3f0f6e5b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan een eenvoudig recept volgen, vooral als er afbeeldingen zijn om de belangrijkste stappen te illustreren.",
-		"id": "3450788c-ea9d-4922-bece-16f1e3e3ae22"
+		"title": "Kan een eenvoudig recept volgen, vooral als er afbeeldingen aanwezig zijn om de belangrijkste stappen te illustreren.",
+		"id": "3450788c-ea9d-4922-bece-16f1e3e3ae22",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5269,8 +5277,10 @@
 			"83f4050f-e34c-4ad7-9c79-c1567fdb4728",
 			"5421b2c8-3fd5-4d7f-b929-7c4bcb43ffd1"
 		],
-		"title": "Kan helder geschreven eenduidige aanwijzingen bij een apparaat begrijpen.",
-		"id": "4f839307-d6db-43ac-9892-bbe7c5a561a9"
+		"title": "Kan helder geformuleerde directe aanwijzingen bij een apparaat begrijpen.",
+		"id": "4f839307-d6db-43ac-9892-bbe7c5a561a9",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5284,8 +5294,10 @@
 			"a51d6c08-02a2-4ee0-8ce8-96ee8e497bc9",
 			"886d8fe3-b2d6-4973-a772-9cc3fad50e4d"
 		],
-		"title": "Kan eenvoudige instructies volgen.",
-		"id": "96fd9851-9240-41c9-8327-7e79e90b9644"
+		"title": "Kan eenvoudige instructies op een verpakking volgen.",
+		"id": "96fd9851-9240-41c9-8327-7e79e90b9644",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5301,8 +5313,10 @@
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan instructies en procedures in de vorm van een lopende tekst begrijpen, bijvoorbeeld in een handleiding, mits hij of zij bekend is met het type proces of product.",
-		"id": "f8f896da-a443-4881-bcaf-e8e5e3355d95"
+		"title": "Kan instructies en procedures in de vorm van een lopende tekst begrijpen, bijvoorbeeld in een handleiding, mits het type proces of product bekend is.",
+		"id": "f8f896da-a443-4881-bcaf-e8e5e3355d95",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5315,8 +5329,10 @@
 			"e84de488-9c15-4fec-a398-3d55bfa0bfdf",
 			"40f36ae9-3ec6-4f29-bf76-30ff493044f2"
 		],
-		"title": "Kan lange, complexe aanwijzingen op het eigen vakgebied begrijpen, met inbegrip van details over voorwaarden en waarschuwingen, mits hij of zij moeilijke passages kan herlezen.",
-		"id": "e56e4202-41d8-40b7-bf6f-146a5852adf1"
+		"title": "Kan lange, complexe aanwijzingen die zich binnen het eigen vakgebied situeren, begrijpen, met inbegrip van details over voorwaarden en waarschuwingen, en eventueel na herlezing van moeilijke passages.",
+		"id": "e56e4202-41d8-40b7-bf6f-146a5852adf1",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5328,16 +5344,20 @@
 			"d030c935-ed9a-4f9b-bac5-6c73dbd11a05",
 			"fe610f89-186d-4d00-8b25-ee4ce0acb63c"
 		],
-		"title": "Kan lange, complexe aanwijzingen bij een nieuwe machine of procedure op detailniveau begrijpen, ongeacht of de aanwijzingen betrekking hebben op zijn of haar eigen vakgebied, mits hij of zij moeilijke passages kan herlezen.",
-		"id": "93a2ac44-64bb-4104-8122-9a60118ee66c"
+		"title": "Kan lange, complexe aanwijzingen bij een nieuwe machine of procedure op detailniveau begrijpen, ongeacht of ze wel of geen betrekking hebben op het eigen vakgebied, en eventueel na herlezing van moeilijke passages.",
+		"id": "93a2ac44-64bb-4104-8122-9a60118ee66c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Geen descriptoren beschikbaar.",
+		"title": "Geen descriptoren beschikbaar, zie C1.",
 		"isempty": true,
-		"id": "285902e4-2b92-4acd-ae8f-17be4eab6dd4"
+		"id": "285902e4-2b92-4acd-ae8f-17be4eab6dd4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
