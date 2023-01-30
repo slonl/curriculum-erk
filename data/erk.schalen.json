@@ -1072,10 +1072,13 @@
 			"f8f896da-a443-4881-bcaf-e8e5e3355d95",
 			"e56e4202-41d8-40b7-bf6f-146a5852adf1",
 			"93a2ac44-64bb-4104-8122-9a60118ee66c",
-			"285902e4-2b92-4acd-ae8f-17be4eab6dd4"
+			"285902e4-2b92-4acd-ae8f-17be4eab6dd4",
+			"2f44fb43-bea9-4f09-8e16-8d6dd10f6a8c"
 		],
 		"title": "Instructies lezen",
-		"id": "4ad54d56-d668-4a0b-80f5-3b9d76dd322d"
+		"id": "4ad54d56-d668-4a0b-80f5-3b9d76dd322d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
