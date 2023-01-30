@@ -5371,64 +5371,82 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan korte, geïllustreerde verhalen over alledaagse activiteiten begrijpen die geschreven zijn in eenvoudige woorden.",
-		"id": "c837b0bc-da87-4a14-acf1-6d1e19965106"
+		"title": "Kan korte, geïllustreerde verhalen begrijpen over alledaagse activiteiten, als ze in eenvoudige bewoordingen zijn opgesteld. ",
+		"id": "c837b0bc-da87-4a14-acf1-6d1e19965106",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan korte teksten in geïllustreerde verhalen globaal begrijpen, mits de afbeeldingen hem of haar helpen veel van de inhoud te raden.",
-		"id": "8cb371de-6d6e-40ee-b457-86cad976ee48"
+		"title": "Kan korte teksten in geïllustreerde verhalen globaal begrijpen, mits de afbeeldingen helpen om veel van de inhoud te raden.",
+		"id": "8cb371de-6d6e-40ee-b457-86cad976ee48",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan korte verhalende teksten en beschrijvingen van iemands leven begrijpen die zijn geschreven in eenvoudige woorden.",
-		"id": "3a63711f-e406-4425-baee-c747fac7509f"
+		"title": "Kan korte verhalende teksten en beschrijvingen van iemands leven begrijpen die in eenvoudige taal zijn opgesteld.",
+		"id": "3a63711f-e406-4425-baee-c747fac7509f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan begrijpen wat er gebeurt in een fotoverhaal (bijvoorbeeld in een lifestylemagazine) en zich een indruk vormen van de personages.",
-		"id": "1d0e47d6-470f-4bea-8bd8-42391e27935c"
+		"title": "Kan begrijpen wat er in een fotoverhaal (bijvoorbeeld in een lifestyle magazine) gebeurt en zich een beeld vormen van hoe de personages zijn.",
+		"id": "1d0e47d6-470f-4bea-8bd8-42391e27935c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan veel van de informatie begrijpen die wordt gegeven in een korte beschrijving van een persoon (bijvoorbeeld een beroemdheid).",
-		"id": "264db4f6-552a-4780-8c3a-7a70a1963aa0"
+		"title": "Kan veel van de informatie begrijpen in een korte beschrijving van een persoon (bijvoorbeeld een beroemdheid).",
+		"id": "264db4f6-552a-4780-8c3a-7a70a1963aa0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan het belangrijkste punt begrijpen van een kort artikel dat verslag doet van een gebeurtenis die een voorspelbaar patroon volgt (bijvoorbeeld de Oscaruitreiking), mits dit duidelijk is geschreven in eenvoudige taal.",
-		"id": "f1e7c828-fefc-41f7-aac6-65cabd601863"
+		"title": "Kan het belangrijkste punt begrijpen van een kort artikel over een gebeurtenis die een voorspelbaar patroon volgt (bijvoorbeeld de Oscaruitreiking), mits het artikel duidelijk is opgebouwd en in eenvoudige taal is opgesteld.",
+		"id": "f1e7c828-fefc-41f7-aac6-65cabd601863",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan genoeg begrijpen om korte, eenvoudige verhalen en strips te kunnen lezen die over vertrouwde, concrete situaties gaan en zijn geschreven in veelvoorkomend, alledaags taalgebruik.",
-		"id": "54443c83-7a58-48dd-a980-a04abeb5c3f5"
+		"title": "Kan genoeg begrijpen om korte, eenvoudige verhalen en strips te lezen die over vertrouwde, concrete situaties gaan en waarin veelvoorkomende, alledaagse taal wordt gebruikt.",
+		"id": "54443c83-7a58-48dd-a980-a04abeb5c3f5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan de belangrijkste punten begrijpen in korte verslagen in tijdschriften of items in gidsen die gaan over concrete, alledaagse onderwerpen (bijvoorbeeld hobby's, sport, vrijetijdsbesteding, dieren).",
-		"id": "96e05ad9-5b4b-4e81-8280-0059a12ee088"
+		"title": "Kan de hoofdpunten begrijpen van korte verslagen of items in tijdschriften of gidsen die over concrete, alledaagse onderwerpen (bijvoorbeeld hobby's, sport, vrijetijdsbesteding, dieren) gaan.",
+		"id": "96e05ad9-5b4b-4e81-8280-0059a12ee088",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan de beschrijving van plaatsen, gebeurtenissen, expliciet uitgedrukte gevoelens en standpunten begrijpen in verhalende teksten, gidsen en tijdschriftartikelen die geschreven zijn in veelgebruikte, alledaagse bewoordingen.",
-		"id": "c2d1bd30-4597-491a-a428-0e3891e309ea"
+		"title": "Kan beschrijvingen van plaatsen, gebeurtenissen, expliciet geuite gevoelens en perspectieven begrijpen in verhalende teksten, gidsen en tijdschriftartikelen die in veelgebruikte, alledaagse taal zijn geformuleerd.",
+		"id": "c2d1bd30-4597-491a-a428-0e3891e309ea",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5441,57 +5459,73 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan het plot van verhalen, eenvoudige romans en stripverhalen volgen als deze een duidelijke verhaallijn hebben en veelvoorkomende, alledaagse bewoordingen gebruiken, mits hij of zij regelmatig een woordenboek raadpleegt.",
-		"id": "13b55233-c096-4b1d-a030-0e7edfe8960c"
+		"title": "Kan, al of niet met behulp van een woordenboek, het plot volgen van verhalen, eenvoudige romans en stripverhalen als ze een duidelijke verhaallijn hebben en in veelvoorkomende, alledaagse taal zijn opgesteld.",
+		"id": "13b55233-c096-4b1d-a030-0e7edfe8960c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan verslagen over films, boeken, concerten enzovoort in kranten en tijdschriften lezen die geschreven zijn voor een breder publiek, en de belangrijkste punten begrijpen.",
-		"id": "664b91c1-be7b-4012-8c85-f715419e2327"
+		"title": "Kan verslagen in kranten en tijdschriften lezen over films, boeken, concerten enzovoort die voor een breder publiek bestemd zijn en daarin de belangrijkste punten begrijpen.",
+		"id": "664b91c1-be7b-4012-8c85-f715419e2327",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan eenvoudige gedichten en liedteksten begrijpen die in eenduidige taal en stijl zijn geschreven.",
-		"id": "d8259bde-8e3b-4a3e-94ec-528afb217c49"
+		"title": "Kan eenvoudige gedichten en liedjesteksten begrijpen waarin een directe taal en stijl zijn gehanteerd.",
+		"id": "d8259bde-8e3b-4a3e-94ec-528afb217c49",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan romans lezen die een sterk, verhalend plot hebben en geschreven zijn in eenduidige, onomwonden taal, mits hij of zij er de tijd voor kan nemen en een woordenboek kan gebruiken.",
-		"id": "4eec41e4-020e-40ac-a203-50992e4c6d22"
+		"title": "Kan romans lezen met een sterk, verhalend plot, waarin eenvoudige, onomwonden taal wordt gebruikt, mits er voldoende tijd is en eventueel een woordenboek gebruikt kan worden.",
+		"id": "4eec41e4-020e-40ac-a203-50992e4c6d22",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan in hoge mate zelfstandig lezen voor plezier, past daarbij zijn of haar leesstijl en -snelheid aan verschillende teksten aan (bijvoorbeeld tijdschriften, relatief ongecompliceerde romans, geschiedenisboeken, biografieën, reisverslagen, gidsen, liedteksten, gedichten) en maakt selectief gebruik van toepasselijke referentiebronnen.",
-		"id": "e8231f4f-d6cc-4006-92d8-0860fcde7418"
+		"title": "Kan, met een hoge mate van zelfstandigheid, lezen voor het plezier, en daarbij de eigen leesstijl en -snelheid aanpassen aan de tekstsoort (bijvoorbeeld tijdschriften, relatief ongecompliceerde romans, geschiedenisboeken, biografieën, reisverslagen, gidsen, liedteksten, gedichten) en selectief gebruikmaken van de juiste referenties.",
+		"id": "e8231f4f-d6cc-4006-92d8-0860fcde7418",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan met weinig moeite hedendaagse literaire teksten en non-fictie lezen die is geschreven in de standaardvorm van de taal, of een vertrouwde variant ervan, en is daarbij bewust van de impliciete betekenissen en ideeën.",
-		"id": "7aae5945-14c6-4557-94c0-471828c92bdb"
+		"title": "Kan hedendaagse literaire teksten en non-fictiewerken die in standaardtaal of een vertrouwde taalvariëiteit geformuleerd zijn met weinig moeite lezen en daarbij de impliciete betekenissen en ideeën aanvoelen.",
+		"id": "7aae5945-14c6-4557-94c0-471828c92bdb",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan een verscheidenheid aan literaire teksten lezen en waarderen, mits hij of zij bepaalde delen kan herlezen en zo nodig gebruik kan maken van naslagwerken.",
-		"id": "51b79f6b-c169-4d50-9ae3-d1b65b8205cb"
+		"title": "Kan verschillende soorten literaire teksten lezen en waarderen, op voorwaarde dat bepaalde tekstdelen herlezen kunnen worden en, waar nodig, gebruikgemaakt kan worden van naslagwerken.",
+		"id": "51b79f6b-c169-4d50-9ae3-d1b65b8205cb",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan vrijwel alle vormen van tekst begrijpen, met inbegrip van klassieke of informele literaire en niet-literaire teksten in verschillende genres, en is daarbij bewust van subtiele verschillen in stijl en impliciete en expliciete betekenissen.",
-		"id": "3092ce65-ee66-4bd9-84de-3dde41220c27"
+		"title": "Kan vrijwel alle soorten teksten en tekstgenres begrijpen, met inbegrip van abstracte, structureel complexe of zeer spreektalige literaire en niet-literaire teksten, en daarbij subtiele verschillen in stijl en impliciete en expliciete betekenis opmerken.",
+		"id": "3092ce65-ee66-4bd9-84de-3dde41220c27",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
