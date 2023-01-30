@@ -5196,8 +5196,10 @@
 			"e01af722-641a-47b2-970c-159b6a1f1f9c",
 			"b4dd5edd-673b-45f2-b2cc-e576f5988bfe"
 		],
-		"title": "Kan de eenvoudigste informatiematerialen begrijpen zoals het menu van een fastfoodrestaurant dat geïllustreerd is met foto's, of een geïllustreerd verhaal in zeer eenvoudige, alledaagse woorden.",
-		"id": "b7b8fdeb-ff55-4c39-951e-53d82b899d74"
+		"title": "Kan zeer korte, eenvoudige instructies begrijpen die in vertrouwde, alledaagse contexten worden gebruikt (bijvoorbeeld 'Niet parkeren', 'Niet eten of drinken'), vooral als er afbeeldingen bij staan.",
+		"id": "b7b8fdeb-ff55-4c39-951e-53d82b899d74",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -11640,6 +11642,16 @@
 		"id": "c0323fb9-1db3-4d57-a07d-4c1e2d7eac5f",
 		"prefix": "",
 		"title": "Kan zeer eenvoudige formele e-mails en brieven begrijpen.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"id": "2f44fb43-bea9-4f09-8e16-8d6dd10f6a8c",
+		"dirty": "1",
+		"prefix": "",
+		"title": "Kan korte, eenvoudige geschreven aanwijzingen opvolgen (bijvoorbeeld om van X naar Y te gaan).",
 		"description": ""
 	}
 ]
