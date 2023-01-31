@@ -6956,22 +6956,28 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan redelijk vloeiend een heldere beschrijving volhouden van verscheidene onderwerpen binnen zijn of haar interessegebied, gepresenteerd als een lineaire reeks punten.",
-		"id": "b0345bcb-9a43-4ac2-8a3a-0a4cfcf66af0"
+		"title": "Kan redelijk vloeiend een heldere beschrijving geven van verscheidene onderwerpen binnen het eigen interessegebied, gepresenteerd als een lineaire reeks punten.",
+		"id": "b0345bcb-9a43-4ac2-8a3a-0a4cfcf66af0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan duidelijke, gedetailleerde beschrijvingen en presentaties geven over een breed scala van onderwerpen die samenhangen met zijn of haar interessegebied, en daarbij ideeën uitwerken en kracht bijzetten met aanvullende punten en relevante voorbeelden.",
-		"id": "ee934d4b-7527-4a01-8a3d-84ef3c911770"
+		"title": "Kan duidelijke, gedetailleerde beschrijvingen en presentaties geven over een breed scala van onderwerpen die samenhangen met het eigen interessegebied, en daarbij ideeën uitwerken en kracht bijzetten met aanvullende punten en relevante voorbeelden.",
+		"id": "ee934d4b-7527-4a01-8a3d-84ef3c911770",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan duidelijke, stelselmatig ontwikkelde beschrijvingen en presentaties geven, met de juiste nadruk op belangrijke punten en relevante ondersteunende details.",
-		"id": "d9292873-8c13-4cc5-8a94-2fb375b5f2cc"
+		"title": "Kan duidelijke, stelselmatig ontwikkelde beschrijvingen en presentaties geven, met de juiste nadruk op belangrijke punten en ter zake doende ondersteunende details.",
+		"id": "d9292873-8c13-4cc5-8a94-2fb375b5f2cc",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
