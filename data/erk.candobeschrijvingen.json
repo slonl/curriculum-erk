@@ -7020,8 +7020,10 @@
 			"ad08d5ff-6c4b-4edf-8207-2dc131ea3006",
 			"fdf1dd39-60a1-4e8f-a0ac-0ce6f6ecda12"
 		],
-		"title": "Kan eenvoudige aspecten van zijn of haar dagelijks leven beschrijven in een reeks eenvoudige zinnen, gebruikmakend van eenvoudige woorden en elementaire frasen, mits hij of zij dit kan voorbereiden.",
-		"id": "1d2c8fce-97a9-4b63-88eb-8409ebbefbd6"
+		"title": "Kan dagelijkse zaken beschrijven in een reeks eenvoudige zinnen en in eenvoudige woorden en elementaire uitdrukkingen, mits de mogelijkheid er is om het voor te bereiden.",
+		"id": "1d2c8fce-97a9-4b63-88eb-8409ebbefbd6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7033,22 +7035,28 @@
 			"960939d3-1df1-493d-9f2f-28215b143331",
 			"fc042d6e-e360-4a2e-a233-86f167dee3ec"
 		],
-		"title": "Kan zichzelf beschrijven, wat hij of zij doet en waar hij of zij woont.",
-		"id": "379b436f-0b0b-40f8-ae55-60007f65fc47"
+		"title": "Kan een korte beschrijving geven van zichzelf, inclusief beroep/bezigheid en woonplaats.",
+		"id": "379b436f-0b0b-40f8-ae55-60007f65fc47",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan in het kort iets vertellen over wat hij of zij van plan is in het weekend of in de vakantie te gaan doen.",
-		"id": "2c2e470b-602f-4357-b7ed-74e703f439b1"
+		"title": "Kan  kort beschrijven wat de weekend- of vakantieplannen zijn.",
+		"id": "2c2e470b-602f-4357-b7ed-74e703f439b1",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan zeggen waar hij of zij wel en niet goed in is (bijvoorbeeld sport, spellen, vaardigheden, vakken).",
-		"id": "6ebf7de1-382a-4d4c-8613-006e3e5547bd"
+		"title": "Kan eigen sterktes en zwaktes uitdrukken (bijvoorbeeld sport, spellen, vaardigheden, vakken).",
+		"id": "6ebf7de1-382a-4d4c-8613-006e3e5547bd",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7079,8 +7087,10 @@
 			"486dff24-ab91-477d-b213-2be0183ec091",
 			"840dbcb3-8caa-4064-a8f4-c8e32b330f12"
 		],
-		"title": "Kan zijn of haar gezinssituatie, woonomstandigheden, onderwijsachtergrond en huidige of laatste werk beschrijven.",
-		"id": "42b75b7c-e1d3-4543-b254-f8662ba9f7b0"
+		"title": "Kan de eigen gezinssituatie, woonomstandigheden, onderwijsachtergrond en huidige of laatste werk beschrijven.",
+		"id": "42b75b7c-e1d3-4543-b254-f8662ba9f7b0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7091,8 +7101,10 @@
 			"60a80226-ffac-4034-ab9e-b70774c8a609",
 			"fb6dd7f3-0d08-4efc-b21a-5e1650d4e5c2"
 		],
-		"title": "Kan uitleggen wat hij of zij goed of slecht vindt aan iets.",
-		"id": "7b6609cc-6079-4b6e-be33-257d1186881b"
+		"title": "Kan uitleggen wat naar eigen mening goed of slecht is aan iets.",
+		"id": "7b6609cc-6079-4b6e-be33-257d1186881b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7146,8 +7158,10 @@
 			"b03b1462-a62b-458b-8131-ee6999016a2e",
 			"d5f8402d-b412-4a59-9dc1-dbdab29adcda"
 		],
-		"title": "Kan alledaagse aspecten beschrijven van zijn of haar omgeving, zoals mensen, plaatsen en werk- of studie-ervaring.",
-		"id": "33d23e41-46f9-4db1-99a5-6d7c601c85fd"
+		"title": "Kan alledaagse aspecten beschrijven van de eigen omgeving, zoals mensen, plaatsen en werk- of studie-ervaring.",
+		"id": "33d23e41-46f9-4db1-99a5-6d7c601c85fd",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7161,8 +7175,10 @@
 			"cf564bb0-2575-4ad5-988e-6b2977ae80c7",
 			"855c6bac-6c07-47dd-8b46-533418fcbfe5"
 		],
-		"title": "Kan een verhaal vertellen of iets beschrijven als een simpele opsomming van punten.",
-		"id": "8ee73bc7-5bc4-4930-9a3f-5a7af790be31"
+		"title": "Kan een verhaal vertellen of iets beschrijven in de vorm van een simpele opsomming van punten.",
+		"id": "8ee73bc7-5bc4-4930-9a3f-5a7af790be31",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7208,8 +7224,10 @@
 		"erk_voorbeeld_id": [
 			"e7eceff9-70d4-4c05-a125-9f6c9cdb76a7"
 		],
-		"title": "Kan de plot van een boek of film navertellen en zijn of haar reacties beschrijven.",
-		"id": "14885c91-741b-4564-b79d-0b4eddcd69c4"
+		"title": "Kan de plot van een boek of film navertellen en de eigen reacties erbij beschrijven.",
+		"id": "14885c91-741b-4564-b79d-0b4eddcd69c4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7242,8 +7260,10 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan redelijk vloeiend een helder verhaal vertellen of een heldere beschrijving geven in de vorm van een lineaire opeenvolging van punten.",
-		"id": "eb82cd9a-a4de-4b50-8ea5-630d8e58951a"
+		"title": "Kan redelijk vloeiend een helder verhaal vertellen of een heldere beschrijving geven in de vorm van een opeenvolging van punten.",
+		"id": "eb82cd9a-a4de-4b50-8ea5-630d8e58951a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7255,22 +7275,28 @@
 			"4816f9d2-784a-4a3a-931b-2261d45b7bb1",
 			"2926b7c4-afc0-4d22-8850-aac2ad897336"
 		],
-		"title": "Kan eenvoudige beschrijvingen geven over een scala van vertrouwde onderwerpen binnen zijn of haar interessegebied.",
-		"id": "12b3b89e-34dc-499e-95fa-136a10363ffc"
+		"title": "Kan eenvoudige beschrijvingen geven over een scala van vertrouwde onderwerpen binnen het eigen interessegebied.",
+		"id": "12b3b89e-34dc-499e-95fa-136a10363ffc",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan gevoelens over iets wat hij of zij heeft ervaren duidelijk uitdrukken en redenen geven om die gevoelens uit te leggen.",
-		"id": "32df9d6d-d409-49b1-b7e3-be27b65c73cd"
+		"title": "Kan gevoelens over een eigen ervaring duidelijk uitdrukken en redenen geven om die gevoelens te verklaren.",
+		"id": "32df9d6d-d409-49b1-b7e3-be27b65c73cd",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan het persoonlijk belang van gebeurtenissen en ervaringen in detail beschrijven.",
-		"id": "2b0225ff-1830-433e-b4a4-4ebb209e7e95"
+		"title": "Kan de persoonlijke betekenis van gebeurtenissen en ervaringen in detail beschrijven.",
+		"id": "2b0225ff-1830-433e-b4a4-4ebb209e7e95",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7281,8 +7307,10 @@
 			"2aa5aea1-ede4-4f01-ae07-0d7726efd4e5",
 			"2d6a4684-997c-452d-bc26-7cf72e59534d"
 		],
-		"title": "Kan duidelijke, gedetailleerde beschrijvingen geven over een breed scala van onderwerpen die betrekking hebben op zijn of haar interessegebied.",
-		"id": "4dbabf08-dee1-4172-9b6e-f35712072723"
+		"title": "Kan duidelijke, gedetailleerde beschrijvingen geven over een breed scala van onderwerpen die betrekking hebben op het eigen interessegebied.",
+		"id": "4dbabf08-dee1-4172-9b6e-f35712072723",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7306,8 +7334,10 @@
 			"9b9510f8-8223-4185-91dd-8db5732e4d09",
 			"4bb51d19-f270-4369-91cb-92b872f6f5e8"
 		],
-		"title": "Kan uitvoerige beschrijvingen geven, en daarin subthema’s integreren om bepaalde punten uit te werken en af te ronden met een passende conclusie.",
-		"id": "634bb39f-c630-401b-886a-fea0c7e56f58"
+		"title": "Kan uitvoerige beschrijvingen geven en daarin subthema’s integreren om bepaalde punten uit te werken en af te ronden met een passende conclusie.",
+		"id": "634bb39f-c630-401b-886a-fea0c7e56f58",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
