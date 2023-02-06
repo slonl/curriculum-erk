@@ -1308,7 +1308,6 @@
 			"5254899d-ffe7-4121-b141-e224ed73c1f3",
 			"749025ed-5d34-4e30-b93b-8401aa7bc5e4",
 			"e7e2a796-89f6-4336-b96e-829c753e55d0",
-			"04218802-0c17-4054-b1df-f6ce86f203d9",
 			"41730db7-6c01-4ed8-9a85-10a29c2e6c34",
 			"2e92ff8a-9660-42df-b7e4-fa0e376adcca",
 			"a9739910-46ad-4779-95da-16032912a46e",
@@ -1317,7 +1316,9 @@
 			"bdd6f293-2bae-4721-893e-a39699bea1fb"
 		],
 		"title": "Monoloog: informatie geven",
-		"id": "cdc8a132-9af3-4cc7-9be2-11b8f8f16c83"
+		"id": "cdc8a132-9af3-4cc7-9be2-11b8f8f16c83",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
