@@ -6997,8 +6997,10 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan zeggen hoe hij of zij zich voelt door gebruik te maken van eenvoudige woorden zoals 'blij' of 'moe', ondersteund door lichaamstaal.",
-		"id": "6d6f3e64-af65-484c-a0c7-79d86e975323"
+		"title": "Kan eigen gevoelens uitdrukken door gebruik te maken van eenvoudige bijvoeglijke naamwoorden zoals 'blij' of 'moe', en met ondersteuning van lichaamstaal.",
+		"id": "6d6f3e64-af65-484c-a0c7-79d86e975323",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7007,8 +7009,10 @@
 		"erk_voorbeeld_id": [
 			"b2497556-60ea-488f-bf84-7aa69f7c3f66"
 		],
-		"title": "Kan zichzelf beschrijven met eenvoudige woorden en standaarduitdrukkingen, mits hij of zij dit kan voorbereiden.",
-		"id": "3d7dc565-c4c9-43a4-8f21-c76657b4a9e9"
+		"title": "Kan zichzelf beschrijven in eenvoudige bewoording en standaarduitdrukkingen, mits de mogelijkheid er is om dat voor te bereiden.",
+		"id": "3d7dc565-c4c9-43a4-8f21-c76657b4a9e9",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
