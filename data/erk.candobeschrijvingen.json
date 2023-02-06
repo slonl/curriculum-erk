@@ -7395,22 +7395,28 @@
 		"erk_voorbeeld_id": [
 			"a6b13d06-fff3-4ca0-a3a0-41f728b8f243"
 		],
-		"title": "Kan een voorwerp tonen en zijn naam, vorm en kleur benoemen met behulp van elementaire woorden en frasen en standaarduitdrukkingen, mits hij of zij zich kan voorbereiden.",
-		"id": "90fd7569-5265-4b53-ac95-2b8c0c8f4359"
+		"title": "Kan een voorwerp benoemen en de vorm en kleur ervan aangeven, door gebruik te maken van elementaire woorden en frasen en standaarduitdrukkingen, mits de mogelijkheid er is om dat voor te bereiden.",
+		"id": "90fd7569-5265-4b53-ac95-2b8c0c8f4359",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan eenvoudige aanwijzingen geven om van de ene naar de andere plaats te komen, met behulp van elementaire uitdrukkingen zoals 'sla rechtsaf' en 'ga rechtdoor' in combinatie met verbindingswoorden van volgorde zoals 'eerst', 'dan' en 'daarna'.",
-		"id": "5254899d-ffe7-4121-b141-e224ed73c1f3"
+		"title": "Kan eenvoudige aanwijzingen geven om van plaats X naar plaats Y te komen, door gebruik te maken van elementaire uitdrukkingen zoals 'sla rechtsaf' en 'ga rechtdoor' gecombineerd met verbindingswoorden van volgorde zoals 'eerst', 'dan' en 'daarna'.",
+		"id": "5254899d-ffe7-4121-b141-e224ed73c1f3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan directe, feitelijke informatie overbrengen over een vertrouwd onderwerp, bijvoorbeeld om de aard van een probleem aan te geven of gedetailleerde aanwijzingen te geven, mits hij of zij zich kan voorbereiden.",
-		"id": "749025ed-5d34-4e30-b93b-8401aa7bc5e4"
+		"title": "Kan directe, feitelijke informatie overbrengen over een vertrouwd onderwerp, bijvoorbeeld om de aard van een probleem aan te geven of om gedetailleerde aanwijzingen te geven, mits voorbereiding mogelijk is.",
+		"id": "749025ed-5d34-4e30-b93b-8401aa7bc5e4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7450,8 +7456,10 @@
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan complexe informatie en adviezen overbrengen over het volledige scala van zaken met betrekking tot zijn of haar beroep.",
-		"id": "a9739910-46ad-4779-95da-16032912a46e"
+		"title": "Kan complexe informatie overbrengen en advies verstrekken over alles wat verband houdt met het eigen beroep.",
+		"id": "a9739910-46ad-4779-95da-16032912a46e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7464,16 +7472,20 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan helder en in detail het onderscheid overbrengen tussen ideeën, concepten en dingen die sterk op elkaar lijken.",
-		"id": "648c4820-6e21-4d8d-8e1d-dc6a8116a3a7"
+		"title": "Kan helder en in detail het verschil overbrengen tussen ideeën, concepten en dingen die sterk op elkaar lijken.",
+		"id": "648c4820-6e21-4d8d-8e1d-dc6a8116a3a7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Geen descriptoren beschikbaar.",
+		"title": "Geen descriptoren beschikbaar, zie C1.",
 		"isempty": true,
-		"id": "bdd6f293-2bae-4721-893e-a39699bea1fb"
+		"id": "bdd6f293-2bae-4721-893e-a39699bea1fb",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
