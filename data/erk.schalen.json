@@ -1292,14 +1292,14 @@
 			"32df9d6d-d409-49b1-b7e3-be27b65c73cd",
 			"2b0225ff-1830-433e-b4a4-4ebb209e7e95",
 			"4dbabf08-dee1-4172-9b6e-f35712072723",
-			"a0665bea-df26-49c8-9df4-072c65d47fd6",
 			"634bb39f-c630-401b-886a-fea0c7e56f58",
 			"77028d6b-6e0f-4d34-a4d7-8bedd2b1de30",
-			"e16889fa-16fb-4434-a9c8-559ad564d4c4",
 			"ad8ed0b0-85c7-43d8-ab12-265d77b9b03e"
 		],
 		"title": "Monoloog: ervaringen beschrijven",
-		"id": "9e9f5b26-13da-410f-886a-1e2dbb05b2ff"
+		"id": "9e9f5b26-13da-410f-886a-1e2dbb05b2ff",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
