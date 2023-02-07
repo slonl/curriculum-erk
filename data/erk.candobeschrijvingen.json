@@ -7507,43 +7507,55 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan zijn of haar mening in eenvoudige bewoordingen presenteren, mits de luisteraars geduldig zijn.",
-		"id": "d5d5a8d9-c912-4c9b-8e0b-e3e5df3a6611"
+		"title": "Kan de eigen mening in eenvoudige bewoordingen presenteren, mits de toehoorders geduldig zijn.",
+		"id": "d5d5a8d9-c912-4c9b-8e0b-e3e5df3a6611",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan uitleggen wat hij of zij ergens goed of niet goed aan vindt en waarom hij of zij ergens de voorkeur aan geeft door eenvoudige, directe vergelijkingen te maken.",
-		"id": "6488bbc6-c66e-4eb4-9f8f-cbfd87b82280"
+		"title": "Kan de eigen voor- of afkeur voor iets uitleggen aan de hand van eenvoudige, directe vergelijkingen.",
+		"id": "6488bbc6-c66e-4eb4-9f8f-cbfd87b82280",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan zeggen of hij of zij wel of niet goedkeurt wat iemand heeft gedaan en redenen geven om deze mening te onderbouwen.",
-		"id": "d3227ce2-cf47-4f85-9462-f92d191df624"
+		"title": "Kan het wel of niet goedkeuren van wat iemand heeft gedaan uitleggen en redenen geven om deze mening te onderbouwen.",
+		"id": "d3227ce2-cf47-4f85-9462-f92d191df624",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan in het kort redenen en verklaringen geven voor meningen, plannen en handelingen.",
-		"id": "6760db3a-d570-4274-9d40-f50022cb4be5"
+		"title": "Kan in het kort redenen en verklaringen geven voor meningen, plannen en handelingen. \n\n",
+		"id": "6760db3a-d570-4274-9d40-f50022cb4be5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan meningen uitdrukken over onderwerpen die betrekking hebben op het dagelijks leven, met behulp van eenvoudige uitdrukkingen.",
-		"id": "31e011fd-62c3-45a9-be56-152b2b648197"
+		"title": "Kan in eenvoudige bewoordingen de eigen mening uitdrukken over onderwerpen die deel uitmaken van het dagelijkse leven.",
+		"id": "31e011fd-62c3-45a9-be56-152b2b648197",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan eenvoudige redenen geven om een standpunt over een vertrouwd onderwerp te rechtvaardigen.",
-		"id": "ba01dd61-d7ca-4e9d-aa4d-1429b6f68eef"
+		"title": "Kan eenvoudige redenen geven om een standpunt over een vertrouwd onderwerp te rechtvaardigen.\n",
+		"id": "ba01dd61-d7ca-4e9d-aa4d-1429b6f68eef",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7559,8 +7571,10 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan een standpunt over een actueel onderwerp verklaren en de voor- en nadelen van verschillende opties uiteenzetten.",
-		"id": "c5031b0f-e7e9-4945-87bd-88c98420f4ce"
+		"title": "Kan een standpunt over een actueel onderwerp verklaren en de voor- en nadelen van verschillende opties toelichten.\n",
+		"id": "c5031b0f-e7e9-4945-87bd-88c98420f4ce",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7578,37 +7592,47 @@
 			"c7da8948-2119-4a82-b6ac-5ed1af914984",
 			"57ae8e7e-4e42-41dd-8cc2-4ea5025ccc79"
 		],
-		"title": "SPB2-3b Kan een heldere argumentatie ontwikkelen en daarbij zijn of haar gezichtspunten uitvoerig uitwerken en ondersteunen met aanvullende punten en relevante voorbeelden.",
-		"id": "bbc56c48-d736-4f65-85fb-39ef52acfda3"
+		"title": "Kan een heldere argumentatie ontwikkelen en daarbij de eigen gezichtspunten uitvoerig uitwerken en ondersteunen met aanvullende punten en relevante voorbeelden.",
+		"id": "bbc56c48-d736-4f65-85fb-39ef52acfda3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
 		"title": "Kan een argument stelselmatig opbouwen met de juiste benadrukking van belangrijke punten en relevante ondersteunende details.",
-		"id": "197006d0-03a4-45a8-aa08-664dac954e33"
+		"id": "197006d0-03a4-45a8-aa08-664dac954e33",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan een argument systematisch ontwikkelen in een goed gestructureerd betoog, rekening houdend met het perspectief van de gesprekspartner, en daarbij significante punten onderstrepen met ondersteunende voorbeelden en vervolgens passend afronden.",
-		"id": "d36cbf17-6983-4c90-8981-034318c94c5f"
+		"title": "Kan een betoog systematisch opbouwen in goed gestructureerde taal, met aandacht voor het perspectief van de gesprekspartner, kan in dat betoog de belangrijke punten benadrukken met ondersteunende voorbeelden en kan het passend afronden.",
+		"id": "d36cbf17-6983-4c90-8981-034318c94c5f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan een pleidooi houden voor een zaak over een complexe kwestie en daarbij punten nauwkeurig formuleren en effectief gebruikmaken van nadruk.",
-		"id": "4678373f-f269-4499-b177-d73eae3bc170"
+		"title": "Kan een betoog opbouwen over een complex onderwerp en daarbij punten nauwkeurig formuleren en de juiste nadruk leggen.",
+		"id": "4678373f-f269-4499-b177-d73eae3bc170",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Geen descriptoren beschikbaar.",
+		"title": "Geen descriptoren beschikbaar, zie C1.",
 		"isempty": true,
-		"id": "f6ed52b5-ff36-4aba-bf3a-b150e24246b5"
+		"id": "f6ed52b5-ff36-4aba-bf3a-b150e24246b5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
