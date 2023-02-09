@@ -8051,15 +8051,19 @@
 			"dab95e03-2a8b-4774-a4fb-c6a57ea54d6e",
 			"7d814f75-45b9-4fb9-8b9c-38e9c9951eb4"
 		],
-		"title": "Kan eenvoudige frasen en zinnen schrijven over zichzelf en over verbeelde mensen, bijvoorbeeld waar zij wonen en wat zij doen.",
-		"id": "4c9b22ac-03c5-4ca8-af21-d1f33f96cb71"
+		"title": "Kan eenvoudige frasen en zinnen produceren over zichzelf en over verbeelde mensen, bijvoorbeeld waar zij wonen en wat zij doen.",
+		"id": "4c9b22ac-03c5-4ca8-af21-d1f33f96cb71",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan een inleiding tot een verhaal schrijven of een verhaal voortzetten, mits hij of zij een woordenboek en referentiemateriaal kan raadplegen (bijvoorbeeld tabellen met werkwoordvervoegingen in een lesboek).",
-		"id": "33a08644-cd2f-4d16-a801-8986e0ca90e0"
+		"title": "Kan een inleiding tot een verhaal opstellen of een verhaal voortzetten, mits een woordenboek en referentiemateriaal kan worden geraadpleegd (bijvoorbeeld tabellen met werkwoordvervoegingen in een lesboek).",
+		"id": "33a08644-cd2f-4d16-a801-8986e0ca90e0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -8071,8 +8075,10 @@
 			"7425e257-2a22-44b7-9426-6e8a7e81df82",
 			"b9ad7fd4-93cf-479f-929a-61624e19325a"
 		],
-		"title": "Kan notities voor een dagboek schrijven die activiteiten, mensen en plaatsen beschrijven, met behulp van een elementaire, concrete woordenschat en eenvoudige frasen en zinnen met eenvoudige voegwoorden als 'en', 'maar' en 'omdat'.",
-		"id": "edb5f690-6ab6-4d45-ba3d-9608f64ccc36"
+		"title": "Kan dagboekaantekeningen maken waarin activiteiten, mensen en plaatsen worden beschreven, met behulp van een elementaire, concrete woordenschat en eenvoudige frasen en zinnen met eenvoudige voegwoorden als 'en', 'maar' en 'omdat'.",
+		"id": "edb5f690-6ab6-4d45-ba3d-9608f64ccc36",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -8083,8 +8089,10 @@
 			"d186ff1f-7743-42bf-a2da-b6f1ec13f0b8",
 			"613dd3f9-e71c-4132-a765-cd588ea751ad"
 		],
-		"title": "Kan korte, eenvoudige verzonnen biografieën en eenvoudige gedichten over mensen schrijven.",
-		"id": "3bbb91a5-bfdf-4a20-8c09-8263d7b26728"
+		"title": "Kan korte, eenvoudige verzonnen biografieën en eenvoudige gedichten over mensen produceren.",
+		"id": "3bbb91a5-bfdf-4a20-8c09-8263d7b26728",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -8098,8 +8106,10 @@
 			"39864610-9654-4806-81d2-8b5673ac6f69",
 			"225bdeae-7a4f-447a-8200-2895dc939b01"
 		],
-		"title": "Kan een reeks eenvoudige frasen en zinnen schrijven over zijn of haar familie, woonomstandigheden, onderwijsachtergrond en huidige of laatste baan.",
-		"id": "c415c117-888a-40fe-b20e-25d0f5c3fce1"
+		"title": "Kan een reeks eenvoudige frasen en zinnen produceren over de eigen familie, woonomstandigheden, onderwijsachtergrond en huidige of laatste werk.",
+		"id": "c415c117-888a-40fe-b20e-25d0f5c3fce1",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -8138,8 +8148,10 @@
 			"2ff69cd6-eb09-4611-bec1-885881470089",
 			"5c46c0ff-51d1-4ede-91af-6a890c2163d1"
 		],
-		"title": "Kan schrijven over alledaagse aspecten van zijn of haar omgeving, bijvoorbeeld over mensen, plaatsen, werk- of studie-ervaringen in zinnen die met elkaar verbonden zijn.",
-		"id": "cb79a75d-cb81-4db2-865c-d18ce33a794f"
+		"title": "Kan alledaagse aspecten van de eigen omgeving, bijvoorbeeld mensen, plaatsen, werk- of studie-ervaringen beschrijven in zinnen die met elkaar verbonden zijn.\n",
+		"id": "cb79a75d-cb81-4db2-865c-d18ce33a794f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -8174,8 +8186,10 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan ervaringen op papier zetten en daarbij gevoelens en reacties beschrijven in eenvoudige samenhangende tekst.",
-		"id": "2f27b7bd-85e8-40ec-aa0f-83e498478bc4"
+		"title": "Kan over ervaringen berichten en daarbij gevoelens en reacties beschrijven in eenvoudige samenhangende tekst.\n",
+		"id": "2f27b7bd-85e8-40ec-aa0f-83e498478bc4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -8186,15 +8200,19 @@
 			"fb690117-a5e5-4928-965a-c314c4eb73de",
 			"10959742-4ea4-4ebb-933b-92505ee679c4"
 		],
-		"title": "Kan heldere, gedetailleerde beschrijvingen op papier zetten over een scala van vertrouwde onderwerpen binnen zijn of haar interessegebied.",
-		"id": "c64d26c3-0edf-4180-9245-b88a8e9f14cd"
+		"title": "Kan heldere, gedetailleerde beschrijvingen geven over een scala van vertrouwde onderwerpen binnen het eigen interessegebied.",
+		"id": "c64d26c3-0edf-4180-9245-b88a8e9f14cd",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan een eenvoudige recensie schrijven over een film, boek of tv-programma met behulp van een beperkt scala aan taal.",
-		"id": "b683ae4f-4eec-4cac-adcd-82150775a23a"
+		"title": "Kan een eenvoudige recensie schrijven over een film, boek of tv-programma met de inzet van beperkt taalbereik.",
+		"id": "b683ae4f-4eec-4cac-adcd-82150775a23a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -8221,8 +8239,10 @@
 			"d5ab3e4b-7615-4646-bfed-01b20c65afc3",
 			"2df3f2d5-8cf2-4650-8649-dc66b98d6eea"
 		],
-		"title": "Kan duidelijke, gedetailleerde beschrijvingen geven over een breed scala van onderwerpen die betrekking hebben op zijn of haar interessegebied.",
-		"id": "5aedac54-fd43-4387-a3d6-66c29c594d8b"
+		"title": "Kan duidelijke, gedetailleerde beschrijvingen geven over een breed scala van onderwerpen die betrekking hebben op het eigen interessegebied.",
+		"id": "5aedac54-fd43-4387-a3d6-66c29c594d8b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -8234,8 +8254,10 @@
 			"e0c90623-2b6f-494b-bfc3-04f7eec697cb",
 			"c56c7f5e-be3c-42ca-b0b9-da2c8326ffa7"
 		],
-		"title": "Kan helder en gedetailleerd schrijven over waargebeurde of verzonnen gebeurtenissen en ervaringen, en daarbij het verband tussen ideeën aangeven in heldere samenhangende tekst en zich houden aan de aanvaarde conventies van het betrokken genre.",
-		"id": "9d332b42-ea55-475d-82f8-095e660b0ab0"
+		"title": "Kan heldere en gedetailleerde beschrijvingen geven van waargebeurde of verzonnen gebeurtenissen en ervaringen, en daarbij het verband tussen ideeën aangeven in heldere samenhangende tekst en zich houden aan de aanvaarde conventies van het betrokken genre.",
+		"id": "9d332b42-ea55-475d-82f8-095e660b0ab0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -8262,8 +8284,10 @@
 			"96ee9613-2dc5-433c-ae94-cf38e33f75f5",
 			"76e5ed76-33b2-4d9a-b89a-feb0f803c1d6"
 		],
-		"title": "Kan heldere, gedetailleerde, goed gestructureerde en uitgewerkte beschrijvingen en fantasierijke teksten schrijven in een trefzekere, persoonlijke, natuurlijke stijl die past bij de beoogde lezer.",
-		"id": "ce66875c-9080-4316-ba36-183734a1cdbb"
+		"title": "Kan heldere, gedetailleerde, goed gestructureerde en uitgewerkte beschrijvingen en fantasierijke teksten produceren in een trefzekere, persoonlijke, natuurlijke stijl die past bij de beoogde lezer.",
+		"id": "ce66875c-9080-4316-ba36-183734a1cdbb",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -8283,8 +8307,10 @@
 			"82453243-88a6-4fbb-b75f-7043065ad3fb",
 			"63ea1289-6e31-47c5-b24f-9eb5d928e41c"
 		],
-		"title": "Kan heldere, soepel lopende en boeiende verhalen schrijven en ervaringen beschrijven in een stijl die past bij het gekozen genre.",
-		"id": "3b4ab183-a8eb-4cc0-845a-6861f5517834"
+		"title": "Kan heldere, soepel lopende en ten volle boeiende verhalen produceren en ervaringen beschrijven in een stijl die past bij het gekozen genre.",
+		"id": "3b4ab183-a8eb-4cc0-845a-6861f5517834",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
