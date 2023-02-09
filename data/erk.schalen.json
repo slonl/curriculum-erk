@@ -64,14 +64,15 @@
 			"f30a8712-f95f-4813-a0bf-129137bc6599",
 			"2505e69a-971a-4548-ae8b-f20549437de9",
 			"ab794139-c0f2-4eb0-bc4e-58d7ed5f8e91",
-			"09af54c2-930f-4c9a-84e2-6f3aef23d057",
 			"0ebbf8ea-8b10-4bf8-b1f4-820a7f62c8cd",
 			"fda68ab9-f3a5-438d-b6ad-51efbe64b23d",
 			"6458e5e0-a98e-4389-902c-7f411858d2c4"
 		],
 		"title": "Schriftelijke productie algemeen",
 		"algemeen": true,
-		"id": "07a24446-88b0-4597-a06f-c8419429781c"
+		"id": "07a24446-88b0-4597-a06f-c8419429781c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
