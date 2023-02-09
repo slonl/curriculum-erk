@@ -7937,8 +7937,10 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan elementaire persoonlijke informatie opschrijven (bijvoorbeeld naam, adres, nationaliteit), eventueel met behulp van een woordenboek.",
-		"id": "edff4aab-39aa-45ab-9d32-496e96de9f8e"
+		"title": "Kan elementaire persoonlijke informatie geven (bijvoorbeeld naam, adres, nationaliteit), eventueel met behulp van een woordenboek.",
+		"id": "edff4aab-39aa-45ab-9d32-496e96de9f8e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7951,29 +7953,37 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan schriftelijk informatie geven over zaken van persoonlijk belang (bijvoorbeeld voorkeuren en afkeuren, familie, huisdieren) met behulp van eenvoudige woorden en elementaire uitdrukkingen.",
-		"id": "9a8439b8-0070-404e-801c-de964bac99fd"
+		"title": "Kan informatie geven over zaken van persoonlijk belang (bijvoorbeeld voorkeuren en afkeuren, familie, huisdieren) met behulp van eenvoudige woorden en elementaire uitdrukkingen.",
+		"id": "9a8439b8-0070-404e-801c-de964bac99fd",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan een reeks eenvoudige frasen en zinnen schrijven, verbonden door simpele voegwoorden als ‘en’, ‘maar’ en ‘omdat’.",
-		"id": "f30a8712-f95f-4813-a0bf-129137bc6599"
+		"title": "Kan een reeks eenvoudige frasen en zinnen produceren, verbonden door simpele voegwoorden als ‘en’, ‘maar’ en ‘omdat’.",
+		"id": "f30a8712-f95f-4813-a0bf-129137bc6599",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan heldere samenhangende teksten schrijven over uiteenlopende vertrouwde onderwerpen binnen zijn of haar interessegebied door een reeks kortere afzonderlijke elementen lineair met elkaar te verbinden.",
-		"id": "2505e69a-971a-4548-ae8b-f20549437de9"
+		"title": "Kan heldere samenhangende teksten produceren over uiteenlopende vertrouwde onderwerpen binnen het eigen interessegebied door een reeks kortere afzonderlijke elementen lineair met elkaar te verbinden.",
+		"id": "2505e69a-971a-4548-ae8b-f20549437de9",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan heldere, gedetailleerde teksten schrijven over uiteenlopende onderwerpen die verband houden met zijn of haar interessegebied, waarin informatie en argumenten uit verschillende bronnen worden bijeengevoegd en beoordeeld.",
-		"id": "ab794139-c0f2-4eb0-bc4e-58d7ed5f8e91"
+		"title": "Kan heldere, gedetailleerde teksten produceren over uiteenlopende onderwerpen die verband houden met het eigen interessegebied, waarin informatie en argumenten uit verschillende bronnen worden bijeengevoegd en beoordeeld.",
+		"id": "ab794139-c0f2-4eb0-bc4e-58d7ed5f8e91",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7994,15 +8004,19 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan heldere, goed gestructureerde teksten schrijven over complexe onderwerpen, waarin de relevante belangrijke kwesties worden benadrukt en standpunten uitgebreid worden uitgewerkt en ondersteund met aanvullende punten, redenen en relevante voorbeelden, en afronden met een passende conclusie.",
-		"id": "fda68ab9-f3a5-438d-b6ad-51efbe64b23d"
+		"title": "Kan heldere, goed gestructureerde teksten produceren over ingewikkelde onderwerpen, waarin de relevante belangrijke kwesties worden benadrukt en standpunten uitgebreid worden uitgewerkt en ondersteund met aanvullende punten, redenen en relevante voorbeelden, en afronden met een passende conclusie.",
+		"id": "fda68ab9-f3a5-438d-b6ad-51efbe64b23d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan heldere, soepel lopende, complexe teksten schrijven in een gepaste en doelmatige stijl en met een logische structuur die de lezer helpt belangrijke punten te herkennen.",
-		"id": "6458e5e0-a98e-4389-902c-7f411858d2c4"
+		"title": "Kan heldere, soepel lopende, complexe teksten produceren in een gepaste en doelmatige stijl en met een logische structuur die de lezer helpt belangrijke punten te herkennen.",
+		"id": "6458e5e0-a98e-4389-902c-7f411858d2c4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
