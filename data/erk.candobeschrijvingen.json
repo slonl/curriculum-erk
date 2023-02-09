@@ -7429,7 +7429,7 @@
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan de hoofdpunten van een idee of probleem redelijk precies uitleggen.",
+		"title": "Kan de hoofdpunten van een idee of probleem met redelijk precies uitleggen.",
 		"id": "04218802-0c17-4054-b1df-f6ce86f203d9",
 		"prefix": "",
 		"description": ""
@@ -7661,15 +7661,19 @@
 			"c7ffa218-e9f5-43c4-805b-9f5c45cd173a",
 			"f2cfa09f-7c9e-4b9b-a6a7-39f7cbb23909"
 		],
-		"title": "Kan zeer korte ingestudeerde mededelingen doen met een voorspelbare, uit het hoofd geleerde inhoud, die verstaanbaar zijn voor aandachtige luisteraars.",
-		"id": "039fdb33-a10f-48b9-b984-61968523c5ed"
+		"title": "Kan zeer korte ingestudeerde mededelingen doen met een voorspelbare, uit het hoofd geleerde inhoud, die verstaanbaar zijn voor aandachtige ontvangers.",
+		"id": "039fdb33-a10f-48b9-b984-61968523c5ed",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan korte ingestudeerde mededelingen doen over een onderwerp dat betrekking heeft op alledaagse gebeurtenissen in zijn of haar vakgebied, die ondanks mogelijke problemen door buitenlandse klemtoon en intonatie toch goed verstaanbaar zijn.",
-		"id": "ca5e2a9b-b1ac-46ca-9c13-d39f7599e2ef"
+		"title": "Kan korte ingestudeerde mededelingen doen over een onderwerp dat betrekking heeft op alledaagse gebeurtenissen in het eigen vak- of interessegebied. Deze mededelingen zijn, ondanks eventuele problemen met klemtoon en intonatie, toch goed verstaanbaar.",
+		"id": "ca5e2a9b-b1ac-46ca-9c13-d39f7599e2ef",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7679,8 +7683,10 @@
 			"58d08745-f750-4737-8df0-35147ed61e1c",
 			"f03e2370-f0a1-4494-865b-33274974b397"
 		],
-		"title": "Kan over de meeste algemene onderwerpen mededelingen doen met een mate van helderheid, vloeiendheid en spontaniteit die de luisteraar geen inspanning kost of ongemak oplevert.",
-		"id": "9e16623f-ee24-42a7-b01d-ce609c1b0909"
+		"title": "Kan over de meeste algemene onderwerpen mededelingen doen met een mate van helderheid, vloeiendheid en spontaniteit die de ontvanger geen inspanning kost of ongemak oplevert.",
+		"id": "9e16623f-ee24-42a7-b01d-ce609c1b0909",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7698,9 +7704,11 @@
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Geen descriptoren beschikbaar.",
+		"title": "Geen descriptoren beschikbaar, zie C1.",
 		"isempty": true,
-		"id": "1997f499-fa7e-4ac8-b41c-910b33ae730c"
+		"id": "1997f499-fa7e-4ac8-b41c-910b33ae730c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
