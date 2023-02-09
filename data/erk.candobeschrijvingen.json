@@ -7729,15 +7729,19 @@
 			"561dffc6-c5f0-44e5-a253-6ad21f406d38",
 			"de254e05-6110-4c0d-a726-745b0a04e753"
 		],
-		"title": "Kan een zeer korte, eerder voorbereide tekst gebruiken om een ingestudeerde mededeling af te geven.",
-		"id": "9f3158d6-cf89-4a17-9f56-0aee01292079"
+		"title": "Kan een heel korte, voorbereide tekst gebruiken om een ingestudeerde mededeling te doen.",
+		"id": "9f3158d6-cf89-4a17-9f56-0aee01292079",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan duidelijke vragen naar aanleiding van de presentatie beantwoorden als hij of zij om herhaling kan vragen en als enige hulp bij het formuleren van het antwoord mogelijk is.",
-		"id": "a3746a59-d34e-4063-b316-b463a95e5554"
+		"title": "Kan duidelijke vragen naar aanleiding van een presentatie beantwoorden als om herhaling vragen en enige hulp bij het formuleren van het antwoord mogelijk is.",
+		"id": "a3746a59-d34e-4063-b316-b463a95e5554",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7754,8 +7758,10 @@
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan een beperkt aantal duidelijke vragen beantwoorden naar aanleiding van de presentatie.",
-		"id": "0e2cbf50-4956-44f3-97c4-34887db1eec5"
+		"title": "Kan een beperkt aantal eenvoudige vragen beantwoorden volgend op een presentatie.",
+		"id": "0e2cbf50-4956-44f3-97c4-34887db1eec5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7766,8 +7772,10 @@
 			"aae7fab6-535d-46a2-a564-c8665a816314",
 			"778e16bd-ed87-475f-b0e9-d21ab37adc1c"
 		],
-		"title": "Kan een korte ingestudeerde presentatie geven over een onderwerp dat betrekking heeft op zijn of haar dagelijks leven, en daarbij beknopt redenen en verklaringen geven voor meningen, plannen en handelingen.",
-		"id": "4d8968eb-4768-460d-9ec1-1c69f8883918"
+		"title": "Kan een korte ingestudeerde presentatie geven over een onderwerp dat betrekking heeft op het eigen dagelijkse leven, en daarbij beknopt redenen en verklaringen geven voor meningen, plannen en handelingen. ",
+		"id": "4d8968eb-4768-460d-9ec1-1c69f8883918",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7785,8 +7793,10 @@
 			"6200df40-9afe-4c4d-8b1a-94285e3a6e4a",
 			"8d067324-e2a5-4f9f-aa88-36ae7965898d"
 		],
-		"title": "Kan een voorbereide presentatie geven over een vertrouwd onderwerp binnen zijn of haar vakgebied, die helder genoeg is om het grootste deel van de tijd moeiteloos te worden gevolgd en waarin de belangrijkste punten met een redelijke mate van nauwkeurigheid worden uitgelegd.",
-		"id": "e4819c57-b3a4-4c18-bd5e-c711b8e713d5"
+		"title": "Kan een voorbereide, eenvoudige presentatie geven over een vertrouwd onderwerp binnen het eigen vakgebied, die helder genoeg is om het grootste deel van de tijd moeiteloos te volgen en waarin de belangrijkste punten met een redelijke mate van nauwkeurigheid worden uitgelegd. \n",
+		"id": "e4819c57-b3a4-4c18-bd5e-c711b8e713d5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7806,15 +7816,19 @@
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan een voorbereide heldere presentatie geven over een vertrouwd onderwerp in zijn of haar vakgebied en daarbij overeenkomsten en verschillen uiteenzetten (bijvoorbeeld tussen producten, landen/regio's, plannen).",
-		"id": "302c5b9a-64f4-4895-9e42-a900ba537448"
+		"title": "Kan een voorbereide presentatie over een vertrouwd onderwerp in het eigen vakgebied geven en daarbij overeenkomsten en verschillen uiteenzetten.",
+		"id": "302c5b9a-64f4-4895-9e42-a900ba537448",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan een reeks vervolgvragen beantwoorden met een mate van vloeiendheid en spontaniteit die noch hem of haar, noch het publiek inspanning kost.",
-		"id": "4f7b2fef-03ed-4226-835b-1048282bd6fa"
+		"title": "Kan een reeks vervolgvragen beantwoorden met een mate van vloeiendheid en spontaniteit die noch zichzelf, noch het publiek inspanning kost.",
+		"id": "4f7b2fef-03ed-4226-835b-1048282bd6fa",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7832,10 +7846,12 @@
 	},
 	{
 		"niveau_id": [
-			"f7920461-e732-4767-b855-87783a05c76a"
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
 		"title": "Kan spontaan afwijken van een voorbereide tekst en ingaan op belangwekkende punten die vanuit het publiek worden aangedragen, en drukt zich daarbij vaak opmerkelijk vloeiend en gemakkelijk uit.",
-		"id": "aaf28e91-7212-49d3-a6ea-a05145841ca0"
+		"id": "aaf28e91-7212-49d3-a6ea-a05145841ca0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7855,8 +7871,10 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan overweg met tussendoor geplaatste opmerkingen en deze spontaan en vrijwel moeiteloos beantwoorden.",
-		"id": "9013a860-6f49-4245-9c61-bceb0d8c72a8"
+		"title": "Kan overweg met tussendoor geplaatste opmerkingen en kan er spontaan en vrijwel op moeiteloos reageren.",
+		"id": "9013a860-6f49-4245-9c61-bceb0d8c72a8",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7910,8 +7928,10 @@
 			"d2636b0c-9570-4229-8c4c-6343655ab858",
 			"b61a8f40-51cb-4cb0-8686-79d36cd0ca55"
 		],
-		"title": "Kan een ingewikkeld onderwerp trefzeker en duidelijk presenteren aan een publiek dat er niet vertrouwd mee is, en daarbij de voordracht flexibel structureren en aanpassen aan de behoeften van het publiek.",
-		"id": "893b3c11-bba3-4c3e-b31f-8fb695c77542"
+		"title": "Kan een ingewikkeld onderwerp trefzeker, met zelfvertrouwen en duidelijk presenteren aan een publiek dat er niet vertrouwd mee is, en daarbij de voordracht flexibel structureren en aanpassen aan de behoeften van het publiek.",
+		"id": "893b3c11-bba3-4c3e-b31f-8fb695c77542",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
