@@ -8791,8 +8791,10 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan vragen stellen en beantwoorden over zichzelf en dagelijkse routines, met behulp van korte standaarduitdrukkingen en gebruikmakend van gebaren om de informatie-uitwisseling te versterken.",
-		"id": "883874a2-e0f9-43a5-91f3-0b8f68f8ae1e"
+		"title": "Kan vragen stellen en beantwoorden over zichzelf en dagelijkse routines, met behulp van korte standaarduitdrukkingen en gebruikmakend van gebaren om de informatie kracht bij te zetten.",
+		"id": "883874a2-e0f9-43a5-91f3-0b8f68f8ae1e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -8806,7 +8808,9 @@
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
 		"title": "Kan eenvoudige vragen stellen en beantwoorden en eenvoudige uitspraken doen en beantwoorden op het gebied van primaire behoeften of over zeer vertrouwde onderwerpen.",
-		"id": "139afbe7-d08a-4363-a041-8114ad3b32a1"
+		"id": "139afbe7-d08a-4363-a041-8114ad3b32a1",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -8854,22 +8858,28 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan onvoorbereid deelnemen aan een gesprek over vertrouwde onderwerpen, uiting geven aan persoonlijke meningen en informatie uitwisselen over onderwerpen die vertrouwd zijn, van persoonlijk belang zijn of betrekking hebben op het dagelijks leven (bijvoorbeeld familie, hobby's, werk, reizen en actualiteiten).",
-		"id": "48e19a8c-8a78-490c-a860-16d432b7aa41"
+		"title": "Kan onvoorbereid deelnemen aan een gesprek over vertrouwde onderwerpen en uiting geven aan persoonlijke meningen en informatie uitwisselen over onderwerpen die vertrouwd zijn, van persoonlijk belang zijn of betrekking hebben op het dagelijks leven (bijvoorbeeld familie, hobby's, werk, reizen en actualiteiten).",
+		"id": "48e19a8c-8a78-490c-a860-16d432b7aa41",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan met enig vertrouwen communiceren over vertrouwde alledaagse en niet-alledaagse zaken die betrekking hebben op zijn of haar belangstellings- en vakgebied.",
-		"id": "a92452c1-3718-429b-b206-09039fcc97d7"
+		"title": "Kan met enig vertrouwen communiceren over vertrouwde alledaagse en niet-alledaagse zaken die betrekking hebben op het eigen belangstellings- en vakgebied.",
+		"id": "a92452c1-3718-429b-b206-09039fcc97d7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
 		"title": "Kan informatie uitwisselen, controleren en bevestigen, omgaan met minder alledaagse situaties en uitleggen waarom iets een probleem is.",
-		"id": "3685984f-3181-4500-ae5c-2c5892dad011"
+		"id": "3685984f-3181-4500-ae5c-2c5892dad011",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -8883,14 +8893,18 @@
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
 		"title": "Kan zo vloeiend en spontaan reageren dat een normale uitwisseling en langer durende betrekkingen met gebruikers van de doeltaal mogelijk zijn zonder dat dit een van de partijen belast.",
-		"id": "a24522e7-c044-4d56-81ce-369159cb246b"
+		"id": "a24522e7-c044-4d56-81ce-369159cb246b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
 		"title": "Kan het persoonlijke belang van gebeurtenissen en ervaringen benadrukken en zienswijzen helder verantwoorden en staande houden met relevante uitleg en argumenten.",
-		"id": "5e5664d5-1740-4cb5-8386-38410a49cc71"
+		"id": "5e5664d5-1740-4cb5-8386-38410a49cc71",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -8903,15 +8917,19 @@
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan spontaan communiceren met een goede beheersing van de grammatica zonder veel tekenen dat hij of zij zich moet beperken in wat hij of zij wil zeggen, en kiest daarbij een mate van formaliteit die in de omstandigheden gepast is.",
-		"id": "c39fd809-52a1-4bea-bb07-fc5e932882fd"
+		"title": "Kan spontaan communiceren met een goede beheersing van de grammatica zonder zichtbare beperkingen van de boodschap, en met een mate van formaliteit die in de omstandigheden gepast is.",
+		"id": "c39fd809-52a1-4bea-bb07-fc5e932882fd",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
 		"title": "Kan zich vrijwel moeiteloos vloeiend en spontaan uitdrukken. Heeft een goede beheersing van een breed repertoire aan woorden, waardoor hiaten in de woordenschat gemakkelijk kunnen worden gedicht met omschrijvingen. Er is nauwelijks sprake van merkbaar zoeken naar uitdrukkingen of toepassen van vermijdingsstrategieën; slechts een begripsmatig moeilijk onderwerp kan een natuurlijke, vloeiende taalstroom hinderen.",
-		"id": "af3df874-4426-43ab-8be9-633a61def2a1"
+		"id": "af3df874-4426-43ab-8be9-633a61def2a1",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
