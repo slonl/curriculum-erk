@@ -11943,5 +11943,59 @@
 		"prefix": "",
 		"title": "Kan korte, eenvoudige geschreven aanwijzingen opvolgen (bijvoorbeeld om van X naar Y te gaan).",
 		"description": ""
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"id": "7f8718f9-763b-4d22-9181-4d5356bb82da",
+		"prefix": "",
+		"title": "Kan bespreken wat men 's avonds of in het weekend gaat doen.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"id": "69a5523d-78ed-4c5b-8bef-64a3d7544693",
+		"prefix": "",
+		"title": "Kan over het algemeen de hoofdpunten volgen van een informele discussie met vrienden, mits er duidelijk wordt gearticuleerd in standaardtaal of een vertrouwde variëteit.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"id": "02cd47b1-0a8b-46a7-9439-7adc8b72b83e",
+		"prefix": "",
+		"title": "Kan veel volgen van wat wordt gezegd over algemene onderwerpen, mits de gesprekspartners zeer idiomatisch taalgebruik vermijden en helder articuleren.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"id": "7ae1a45f-efc3-4296-8ae5-144cec73892c",
+		"prefix": "",
+		"title": "Kan met enige inspanning veel opvangen van wat rondom wordt gezegd in een discussie, maar vindt het soms moeilijk om effectief deel te nemen aan een discussie met verscheidene doeltaalgebruikers die hun taal op geen enkele manier aanpassen.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"id": "4c7ba4c6-86f6-4aa9-85f7-5e8dfd11e9da",
+		"prefix": "",
+		"title": "Kan de eigen ideeën en meningen precies onder woorden brengen en op overtuigende wijze complexe redeneringen presenteren en beantwoorden.\n",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"id": "de55a1b8-7f8f-46dd-be9a-391a8f1b3d00",
+		"prefix": "",
+		"title": "Kan een levendige discussie tussen vaardige doeltaalgebruikers volgen.",
+		"description": ""
 	}
 ]
