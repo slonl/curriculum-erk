@@ -8332,15 +8332,19 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan schriftelijk zijn of haar indrukken en meningen geven over onderwerpen binnen zijn of haar persoonlijke interessesfeer (zoals levensstijl en cultuur, verhalen), gebruikmakend van elementaire alledaagse woorden en uitdrukkingen.",
-		"id": "2d15804f-f832-4a57-bef2-fa07bfe9028f"
+		"title": "Kan schriftelijk indrukken en meningen geven over onderwerpen binnen de persoonlijke interessesfeer (zoals levensstijl en cultuur, verhalen), gebruikmakend van elementaire alledaagse woorden en uitdrukkingen.",
+		"id": "2d15804f-f832-4a57-bef2-fa07bfe9028f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan eenvoudige teksten schrijven over vertrouwde belangwekkende onderwerpen en daarbij zinnen verbinden met verbindingswoorden als 'en', 'omdat' of 'maar'.",
-		"id": "e86de57c-f68d-4508-812a-9f1415cbb196"
+		"title": "Kan eenvoudige teksten produceren over vertrouwde belangwekkende onderwerpen en daarbij zinnen verbinden met verbindingswoorden als 'en', 'omdat' of 'maar'.",
+		"id": "e86de57c-f68d-4508-812a-9f1415cbb196",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -8357,8 +8361,10 @@
 			"c1dcd0cb-e975-4b4c-83de-0a863d059d54",
 			"fd35472c-d18f-4090-85b5-845e0fc74949"
 		],
-		"title": "Kan zeer beknopte verslagen schrijven volgens een standaardindeling, waarin alledaagse feitelijke informatie wordt doorgegeven en redenen voor handelingen worden vastgelegd.",
-		"id": "6d850629-a455-430d-b91f-74d84d6f1173"
+		"title": "Kan zeer beknopte verslagen opstellen volgens een standaardindeling, waarin alledaagse feitelijke informatie wordt doorgegeven en redenen voor handelingen worden vastgelegd.",
+		"id": "6d850629-a455-430d-b91f-74d84d6f1173",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -8373,15 +8379,19 @@
 			"74f1083d-703b-498a-bb18-3baa6a4fe595",
 			"1872c133-eb5d-4b53-9a49-448dbace9883"
 		],
-		"title": "Kan met enig vertrouwen verzamelde feitelijke informatie over vertrouwde alledaagse en niet-alledaagse zaken binnen zijn of haar vakgebied samenvatten, in een verslag opnemen en becommentariëren.",
-		"id": "c38571f6-3a10-42a2-97ba-fb7fb2d4f384"
+		"title": "Kan met enig vertrouwen verzamelde feitelijke informatie over vertrouwde alledaagse en niet-alledaagse zaken binnen het eigen vakgebied samenvatten, in een verslag opnemen en becommentariëren.",
+		"id": "c38571f6-3a10-42a2-97ba-fb7fb2d4f384",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan een tekst schrijven over een actueel onderwerp binnen zijn of haar persoonlijke interessesfeer, en daarbij eenvoudige taal gebruiken om de voor- en nadelen op te sommen en zijn of haar mening te onderbouwen.",
-		"id": "abb128db-e99e-412c-986a-1ddb3355de6e"
+		"title": "Kan een tekst produceren over een actueel onderwerp binnen de eigen persoonlijke interessesfeer, en daarbij eenvoudige taal gebruiken om de voor- en nadelen op te sommen en de eigen mening te onderbouwen.",
+		"id": "abb128db-e99e-412c-986a-1ddb3355de6e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -8395,8 +8405,10 @@
 			"9da040c8-c7e7-431c-ab7b-446133325764",
 			"9a5961c8-b574-47f6-9913-1ad249d64a00"
 		],
-		"title": "Kan korte, eenvoudige opstellen schrijven over belangwekkende onderwerpen.",
-		"id": "f26f8e4c-d788-4b49-885c-28410c8acb0e"
+		"title": "Kan korte, eenvoudige opstellen produceren over belangwekkende onderwerpen.",
+		"id": "f26f8e4c-d788-4b49-885c-28410c8acb0e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -8421,8 +8433,10 @@
 			"e296068d-10e2-4497-bea9-b0a512a125bb",
 			"8e12c759-8678-4ba1-add9-eb4e60842cdf"
 		],
-		"title": "Kan een opstel of verslag schrijven waarin een argument wordt opgebouwd en redenen voor of tegen een bepaald standpunt noemen en de voor- en nadelen van verschillende opties uitleggen.",
-		"id": "5dd2b0a0-753f-4d26-8ae3-8743212575f5"
+		"title": "Kan een opstel of verslag produceren waarin een argument wordt opgebouwd en redenen voor of tegen een bepaald standpunt noemen en de voor- en nadelen van verschillende opties uitleggen.",
+		"id": "5dd2b0a0-753f-4d26-8ae3-8743212575f5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
