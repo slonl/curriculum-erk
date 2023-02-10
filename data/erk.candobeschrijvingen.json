@@ -9238,8 +9238,10 @@
 			"fd7ec8ca-0784-4289-af13-d1d40de8c15b",
 			"79b7af33-3d94-4f76-b879-1f99b2a4b0b6"
 		],
-		"title": "Kan voorkeuren en afkeuren met betrekking tot sport, eten enzovoort uitwisselen.",
-		"id": "27f1c720-1c7f-478e-a4e9-883cfcd29ecc"
+		"title": "Kan voorkeuren en afkeuren met betrekking tot sport, eten enzovoort uitwisselen met behulp van een beperkt repertoire aan uitdrukkingen.",
+		"id": "27f1c720-1c7f-478e-a4e9-883cfcd29ecc",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9253,8 +9255,10 @@
 			"87dbd16d-4ccc-4043-b39b-fdb76bcfa641",
 			"0b9685f3-bf3a-42ed-97c2-9e355f6bb477"
 		],
-		"title": "Kan op eenvoudige wijze alledaagse praktische zaken bespreken.",
-		"id": "d3646046-7ee2-4dcf-ab90-25bc070a2970"
+		"title": "Kan op eenvoudige wijze alledaagse praktische zaken bespreken, wanneer die helder, langzaam en rechtstreeks worden overgebracht.",
+		"id": "d3646046-7ee2-4dcf-ab90-25bc070a2970",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9313,8 +9317,10 @@
 			"05c2f29b-3803-4a24-a11c-e9ef2db448eb",
 			"edcde832-65d8-43eb-a9c1-480df179c21e"
 		],
-		"title": "Kan te kennen geven het (on)eens te zijn met anderen.",
-		"id": "9196e2ea-3297-4366-b838-1fb0ce27ca31"
+		"title": "Kan het eens zijn en van mening verschillen met anderen.",
+		"id": "9196e2ea-3297-4366-b838-1fb0ce27ca31",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9328,8 +9334,10 @@
 			"7f962199-2dc2-462b-b8f8-0cae75b38d3f",
 			"df6b3a7e-044d-42c3-93e7-3f144a32d3f2"
 		],
-		"title": "Kan persoonlijke zienswijzen en meningen en meningen geven of  vragen in discussies over belangwekkende onderwerpen.",
-		"id": "feb38eec-8ab0-4cb7-a159-33eb30ed3ac4"
+		"title": "Kan persoonlijke zienswijzen en meningen geven of vragen in discussies over belangwekkende onderwerpen.",
+		"id": "feb38eec-8ab0-4cb7-a159-33eb30ed3ac4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9341,8 +9349,10 @@
 			"852fb373-5f0f-4b61-9a8a-3d5f666a960d",
 			"ff3d18ad-a839-4374-80a4-d7f9484212a9"
 		],
-		"title": "Kan zijn of haar meningen of reacties overbrengen met betrekking tot oplossingen voor problemen of praktische vragen.",
-		"id": "753800dc-ed6f-4ad8-a994-8a103c14b0d6"
+		"title": "Kan eigen meningen en reacties overbrengen met betrekking tot oplossingen voor problemen of praktische vragen.",
+		"id": "753800dc-ed6f-4ad8-a994-8a103c14b0d6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9354,8 +9364,10 @@
 			"f0b2b290-f5c8-4c21-a2e0-c78063ec5890",
 			"f71577eb-596d-47d7-a34f-128d8a16c31f"
 		],
-		"title": "Kan op beleefde wijze een overtuiging, een mening, instemming en afkeuring uitdrukken.",
-		"id": "d7c346bb-85e2-4250-9782-6ac08ea5b657"
+		"title": "Kan op beleefde wijze overtuigingen, meningen, en instemming en afkeuring uitdrukken.",
+		"id": "d7c346bb-85e2-4250-9782-6ac08ea5b657",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9365,8 +9377,10 @@
 			"0f3e0cd9-d672-4134-94c1-dc278f47f1d4",
 			"ab3fe726-3712-43e9-abf4-ddfa488524b7"
 		],
-		"title": "Kan zijn of haar gedachten tot uiting brengen over abstracte of culturele onderwerpen zoals muziek en films.",
-		"id": "8aa3f957-be8d-4097-b1e9-7958934ed186"
+		"title": "Kan eigen gedachten tot uiting brengen over abstracte of culturele onderwerpen zoals muziek en films.",
+		"id": "8aa3f957-be8d-4097-b1e9-7958934ed186",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9403,7 +9417,9 @@
 			"a55d3e2f-7819-489c-a029-9b2377d3a204"
 		],
 		"title": "Kan alternatieven vergelijken en tegenover elkaar stellen, bespreken wat er gedaan moet worden, welke richting moet worden ingeslagen, wie of wat moet worden gekozen, enzovoort.",
-		"id": "ecd3d300-9d32-4b18-842a-c45a7c27dbfc"
+		"id": "ecd3d300-9d32-4b18-842a-c45a7c27dbfc",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9415,8 +9431,10 @@
 			"baffa886-e342-4d68-889b-a42a77827e79",
 			"a3881202-333c-4f62-b7e9-4ffbe33c67e8"
 		],
-		"title": "Kan actief deelnemen aan informele discussies in een vertrouwde context en daarbij commentaar geven, standpunten helder weergeven, alternatieve voorstellen evalueren en hypothesen stellen en beantwoorden.",
-		"id": "b2c945fe-07a0-42f9-aa99-13f276e77fb0"
+		"title": "Kan actief deelnemen aan informele discussies in een vertrouwde context en daarbij commentaar geven, standpunten helder weergeven, alternatieve voorstellen evalueren en hypothesen stellen en beantwoorden.\n",
+		"id": "b2c945fe-07a0-42f9-aa99-13f276e77fb0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9427,8 +9445,10 @@
 			"5728270f-c009-48b5-8409-e7585de8d9c3",
 			"7b77d626-cd0c-4683-8491-7427be26d5fb"
 		],
-		"title": "Kan zijn of haar meningen in een discussie verantwoorden en staande houden met ter zake doende verklaringen, argumenten en commentaren die ter zake doen.",
-		"id": "892d8ed7-09b5-41bb-b82e-e45099333e27"
+		"title": "Kan eigen meningen in een discussie verantwoorden en staande houden met  verklaringen, argumenten en commentaren die ter zake doen.",
+		"id": "892d8ed7-09b5-41bb-b82e-e45099333e27",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9439,15 +9459,19 @@
 			"1a5df2b1-71d6-41c9-a70e-442bc5328480",
 			"f8a5c857-d79c-46bc-98d6-31874b26091e"
 		],
-		"title": "Kan met gemak complexe interacties van derden volgen en daaraan bijdragen In een groepsdiscussie of debat, zelfs als het gaat om abstracte, complexe en niet-vertrouwde onderwerpen.",
-		"id": "39592240-955b-4a71-a92f-ea85b422fcae"
+		"title": "Kan met gemak complexe interacties van derden volgen en daaraan bijdragen in een groepsdiscussie, zelfs als het gaat om abstracte, complexe en niet-vertrouwde onderwerpen.",
+		"id": "39592240-955b-4a71-a92f-ea85b422fcae",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan adviseren of praten over gevoelige kwesties zonder ongemak, spreektalige verwijzingen begijpen en diplomatisch omgaan met onenigheid en kritiek.",
-		"id": "1771b512-3d02-4212-86fe-f123f78d88fb"
+		"title": "Kan adviseren of discussiëren over gevoelige kwesties zonder ongemak, spreektalige verwijzingen begrijpen en diplomatisch omgaan met onenigheid en kritiek.",
+		"id": "1771b512-3d02-4212-86fe-f123f78d88fb",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
