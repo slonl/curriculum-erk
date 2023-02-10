@@ -8439,8 +8439,10 @@
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan een gedetailleerde beschrijving van een complex proces op papier zetten.",
-		"id": "089822dd-71e2-4065-9fa9-0477e418bf60"
+		"title": "Kan een gedetailleerde beschrijving van een complex proces produceren.",
+		"id": "089822dd-71e2-4065-9fa9-0477e418bf60",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -8454,15 +8456,19 @@
 			"7fd62e73-ede6-4e91-97c9-06297e45ec07",
 			"458a750c-2d21-4a9d-be61-1a6eb58c9ea9"
 		],
-		"title": "Kan een opstel of verslag schrijven waarin stelselmatig een argument wordt opgebouwd met de juiste benadrukking van belangrijke punten en relevante ondersteunende details.",
-		"id": "ebe37ee2-c570-43e0-85a3-96e0d2e6ef69"
+		"title": "Kan een opstel of verslag produceren waarin stelselmatig een argument wordt opgebouwd met de juiste benadrukking van belangrijke punten en relevante ondersteunende details.",
+		"id": "ebe37ee2-c570-43e0-85a3-96e0d2e6ef69",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan een passende inleiding en conclusie schrijven bij een langer verslag, artikel of proefschrift over een complex academisch of professioneel onderwerp, mits het onderwerp binnen zijn of haar interessesfeer valt en het is mogelijk om te herschrijven en herzien.",
-		"id": "338078de-b98c-452b-97f5-f75e2b4d1ce0"
+		"title": "Kan een passende inleiding en conclusie opstellen bij een langer verslag, artikel of proefschrift over een complex academisch of professioneel onderwerp, mits het onderwerp binnen de eigen interessesfeer valt en er een mogelijkheid is tot herschrijving en herziening.",
+		"id": "338078de-b98c-452b-97f5-f75e2b4d1ce0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -8486,15 +8492,19 @@
 			"641c2d12-5c05-46ce-bc9a-12e258044800",
 			"c10d9002-ac5b-40d4-b213-7e0f87221f98"
 		],
-		"title": "Kan heldere, goed gestructureerde uiteenzettingen schrijven over complexe onderwerpen, waarin de relevante belangrijke kwesties worden benadrukt.",
-		"id": "a28380a7-9b8f-4b2f-a60b-ea7bb289948d"
+		"title": "Kan heldere, goed gestructureerde uiteenzettingen produceren over complexe onderwerpen, waarin de relevante belangrijke kwesties worden benadrukt.",
+		"id": "a28380a7-9b8f-4b2f-a60b-ea7bb289948d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan meerdere perspectieven op complexe academische of professionele onderwerpen uiteenzetten en daarbij onderscheid maken tussen zijn of haar eigen ideeën en meningen en die uit de bronnen.",
-		"id": "9d5f8459-1084-44c9-a158-c48084851c8b"
+		"title": "Kan meerdere perspectieven op complexe academische of professionele onderwerpen uiteenzetten en daarbij onderscheid maken tussen de eigen ideeën en meningen en die uit de bronnen.",
+		"id": "9d5f8459-1084-44c9-a158-c48084851c8b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -8504,8 +8514,10 @@
 			"07fd1861-ed51-4b86-b7c8-aefc1fc85e19",
 			"6c0c62b6-1392-44a6-b617-998bc79b85ce"
 		],
-		"title": "Kan een gepaste en doeltreffende logische structuur verschaffen die de lezer helpt belangrijke punten te onderscheiden.",
-		"id": "96e4da40-d9a1-4527-a9f1-12f38bb7e911"
+		"title": "Kan een gepaste en doeltreffende logische structuur verschaffen die de lezer helpt belangrijke punten te identificeren.",
+		"id": "96e4da40-d9a1-4527-a9f1-12f38bb7e911",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -8519,8 +8531,10 @@
 			"f92a2500-ffe1-44f7-a8eb-eb03920a1abd",
 			"b7952665-21b8-45c8-b831-d17134b93423"
 		],
-		"title": "Kan heldere vloeiend lopende, complexe verslagen, artikelen of essays schrijven waarin een zaak wordt beschouwd of een kritisch oordeel wordt gegeven over voorstellen of literaire werken.",
-		"id": "6707ebf6-aa2b-4bed-84c5-f2f94eba9233"
+		"title": "Kan heldere vloeiend lopende, complexe verslagen, artikelen of essays voortbrengen waarin een zaak wordt beschouwd of een kritisch oordeel wordt gegeven over voorstellen of literaire werken.",
+		"id": "6707ebf6-aa2b-4bed-84c5-f2f94eba9233",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
