@@ -8956,15 +8956,19 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan enkele elementaire standaarduitdrukkingen begrijpen en gebruiken, zoals 'ja', 'nee', 'pardon', 'alstublieft', 'bedankt', 'nee dank u', 'sorry'.",
-		"id": "b501877c-4568-41d0-ba38-a0b157eb2bca"
+		"title": "Kan enkele elementaire standaarduitdrukkingen begrijpen en gebruiken.",
+		"id": "b501877c-4568-41d0-ba38-a0b157eb2bca",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan eenvoudige begroetingen herkennen en zelf mensen begroeten, zeggen hoe hij zij heet en afscheid nemen.",
-		"id": "1079fff3-bc59-45e7-92e1-389d887ab13e"
+		"title": "Kan eenvoudige begroetingen herkennen.",
+		"id": "1079fff3-bc59-45e7-92e1-389d887ab13e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -8978,8 +8982,10 @@
 			"077caae8-0d46-470c-bbd4-b4f9456ca1d7",
 			"73cace17-8c3f-4906-910d-5c9973bda026"
 		],
-		"title": "Kan alledaagse uitdrukkingen begrijpen, gericht op de vervulling van eenvoudige behoeften van concrete aard, die rechtstreeks tot hem of haar worden gezegd in heldere, langzame en herhaalde bewoordingen door een sympathieke spreker.",
-		"id": "9005d56b-83e9-4094-bcd2-78c15e729d7a"
+		"title": "Kan alledaagse uitdrukkingen begrijpen, gericht op de vervulling van eenvoudige behoeften van concrete aard, die in heldere, langzame en herhaalde taal door een welwillende gesprekspartner gezegd worden.",
+		"id": "9005d56b-83e9-4094-bcd2-78c15e729d7a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9000,8 +9006,10 @@
 			"0b7630cd-6c83-4e91-8a4b-53f9a78aa23b",
 			"8f315e05-0a10-4f3b-9a41-e29333d6d2b1"
 		],
-		"title": "Kan zichzelf en anderen voorstellen en reageren als iemand voorgesteld wordt. Kan op een eenvoudige manier groeten en afscheid nemen.",
-		"id": "7dd28099-86e6-4e9e-8c45-aae139116be3"
+		"title": "Kan zich voorstellen en elementaire uitdrukkingen ter begroeting en ten afscheid gebruiken.",
+		"id": "7dd28099-86e6-4e9e-8c45-aae139116be3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9030,8 +9038,10 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan in eenvoudige taal een praatje maken met medeleerlingen, collega's of leden van een gastgezin en daarbij vragen stellen en de antwoorden begrijpen over de meeste routinezaken.",
-		"id": "25a92aee-9d4e-4bec-8783-fae1b5a932d7"
+		"title": "Kan in eenvoudige taal een praatje maken met medeleerders, collega's of leden van een gastgezin en daarbij vragen stellen en antwoorden begrijpen over de meeste routinezaken.\n",
+		"id": "25a92aee-9d4e-4bec-8783-fae1b5a932d7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9047,15 +9057,19 @@
 			"63bb50a2-dd3e-4a4f-8fb3-b64abe84805a",
 			"c31bb7f1-c170-4acb-9fa7-84f53e641921"
 		],
-		"title": "Kan verontschuldigingen aanbieden, en daarop reageren. Kan uitnodigingen doen, op uitnodigingen ingaan of deze afslaan, suggesties opperen.",
-		"id": "972b6bfd-8c46-416c-97ad-d01a2e27ffe1"
+		"title": "Kan uitnodigingen doen, suggesties opperen en verontschuldigingen aanbieden, en daarop reageren.",
+		"id": "972b6bfd-8c46-416c-97ad-d01a2e27ffe1",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan in zeer elementaire standaarduitdrukkingen vertellen hoe hij of zij zich voelt.",
-		"id": "7881ba68-0c36-4c4f-8fca-9020e262451e"
+		"title": "Kan in zeer elementaire standaarduitdrukkingen gevoelens uitdrukken.",
+		"id": "7881ba68-0c36-4c4f-8fca-9020e262451e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9067,8 +9081,10 @@
 			"767e08ba-8d99-4a7c-9f01-8509d838d123",
 			"69e7c7a4-52f6-4bae-837d-7fcb2a8114f0"
 		],
-		"title": "Kan zeggen wat hij of zij leuk vindt en wat niet.",
-		"id": "653c400c-00d3-4892-9e6c-68916319dfb2"
+		"title": "Kan de eigen mening geven over wat leuk is en wat niet.",
+		"id": "653c400c-00d3-4892-9e6c-68916319dfb2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9080,15 +9096,19 @@
 			"c35e7c69-989c-470d-8204-5f65fd3fc196",
 			"a5872d21-2b6c-4ea2-b166-f5bbc90d71fd"
 		],
-		"title": "Kan deelnemen aan korte gesprekken over belangwekkende onderwerpen in een alledaagse context.",
-		"id": "9728ba70-aea0-4dd7-97ca-85ec02770aba"
+		"title": "Kan zeer korte sociale gesprekken voeren maar is zelden in staat genoeg te begrijpen om uit zichzelf de conversatie gaande te houden, maar kan uiteindelijk wel begrijpen wat bedoeld wordt als de spreker daarvoor de moeite neemt.",
+		"id": "9728ba70-aea0-4dd7-97ca-85ec02770aba",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan om een gunst vragen, kan een gunst aanbieden en kan reageren als iemand hem of haar om een gunst vraagt.",
-		"id": "0a9fddc3-8e4b-45f9-bd1a-a064eea95d6a"
+		"title": "Kan om een gunst vragen, kan een gunst aanbieden en kan reageren als iemand om een gunst vraagt.",
+		"id": "0a9fddc3-8e4b-45f9-bd1a-a064eea95d6a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
