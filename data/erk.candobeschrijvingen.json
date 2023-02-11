@@ -12021,5 +12021,47 @@
 		"prefix": "",
 		"title": "Kan een levendige discussie tussen vaardige doeltaalgebruikers volgen.",
 		"description": ""
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"id": "dcca366b-9a07-4397-a0f8-f0cccaf739be",
+		"prefix": "",
+		"title": "Kan over het algemeen veranderingen van onderwerp volgen in formele discussies die betrekking hebben op het eigen vakgebied, wanneer deze langzaam en helder gevoerd worden.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"id": "b99e512e-718c-4da8-9bc6-65abc4f4d661",
+		"prefix": "",
+		"title": "Kan een redenering of discussie over een vertrouwd of voorspelbaar onderwerp volgen, mits de punten in relatief eenvoudige taal uiteen worden gezet en/of worden herhaald en er een mogelijkheid is voor verduidelijking.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"id": "155641c0-8fec-40e6-9c05-62e810943806",
+		"prefix": "",
+		"title": "Kan veel volgen van wat wordt gezegd met betrekking tot het eigen vakgebied, mits de gesprekspartners zeer idiomatisch taalgebruik vermijden en helder articuleren.",
+		"description": ""
+	},
+	{
+		"id": "360a48f5-9798-49b8-95cd-13c73b887f62",
+		"prefix": "",
+		"title": "Kan de discussie volgen over zaken met betrekking tot het eigen vakgebied en tot in details de punten begrijpen die van de spreker de meeste nadruk krijgen.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"id": "865d2c66-34d7-459e-88ec-20bce8472fd6",
+		"prefix": "",
+		"title": "Kan een geanimeerde discussie bijhouden en nauwkeurig argumenten voor en tegen bepaalde standpunten herkennen.",
+		"description": ""
 	}
 ]
