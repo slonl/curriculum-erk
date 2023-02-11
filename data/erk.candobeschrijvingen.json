@@ -10558,8 +10558,10 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan in eenvoudige taal de aard van een probleem aangeven aan een arts of verpleegkundige en eenvoudige vragen beantwoorden zoals 'Doet dit pijn?', al heeft hij of zij wel gebaren en lichaamstaal nodig om de boodschap over te brengen.",
-		"id": "9092db6b-465c-44de-8509-fa17466464ea"
+		"title": "Kan in eenvoudige taal de aard van een probleem aangeven aan een arts of verpleegkundige en eenvoudige vragen beantwoorden zoals 'Doet dit pijn?', al zijn gebaren en lichaamstaal nodig om de boodschap over te brengen.",
+		"id": "9092db6b-465c-44de-8509-fa17466464ea",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10594,8 +10596,10 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan symptomen op een eenvoudige manier beschrijven en medisch advies vragen; kan het antwoord begrijpen, mits dit duidelijk en in alledaagse taal wordt gegeven.",
-		"id": "b17d6c61-af85-4c09-9b4b-4a8595ce25c6"
+		"title": "Kan symptomen op een eenvoudige manier beschrijven en medisch advies vragen en kan het antwoord begrijpen, mits dit duidelijk en in alledaagse taal wordt gegeven.",
+		"id": "b17d6c61-af85-4c09-9b4b-4a8595ce25c6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10617,8 +10621,10 @@
 			"a5b7403f-e842-437c-9194-226b1d9d4d99",
 			"0e141af5-d3d8-4505-b2ee-b3895bb0f6a1"
 		],
-		"title": "Kan concrete informatie verschaffen waarnaar in een vraaggesprek of consult gevraagd wordt, maar doet dit met beperkte nauwkeurigheid.",
-		"id": "d9a0c7d0-efea-4ed2-a602-265192d491ca"
+		"title": "Kan concrete informatie verschaffen waarnaar in een vraaggesprek of consult gevraagd wordt, maar met beperkte nauwkeurigheid.",
+		"id": "d9a0c7d0-efea-4ed2-a602-265192d491ca",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10627,8 +10633,10 @@
 		"erk_voorbeeld_id": [
 			"9f24249d-8431-4369-b825-b4080db6c767"
 		],
-		"title": "Kan een voorbereid vraaggesprek voeren en daarbij informatie controleren en bevestigen, al moet hij of zij zo nu en dan om herhaling vragen als de ander snel of uitvoerig antwoordt.",
-		"id": "4aee360d-9a6d-4761-9133-42e46623b536"
+		"title": "Kan een voorbereid vraaggesprek voeren en daarbij informatie controleren en bevestigen, met nu en dan een vraag om herhaling als de ander snel of uitvoerig antwoordt.",
+		"id": "4aee360d-9a6d-4761-9133-42e46623b536",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10678,8 +10686,10 @@
 			"9ff7f814-2bff-449c-9646-b2a3b92160e3",
 			"b721169b-e41d-4b8a-a4e9-73a376e20912"
 		],
-		"title": "Kan zijn of haar aandeel in de dialoog bijzonder goed volhouden, het gesprek structureren en heel vlot en met kennis van zaken converseren als vragensteller of geïnterviewde zonder andere sprekers te benadelen.",
-		"id": "ff7397f2-c640-49e0-918d-92bac15ab93a"
+		"title": "Kan het eigen aandeel in de dialoog bijzonder goed volhouden, het gesprek structureren en heel vlot en met kennis van zaken converseren als vragensteller of geïnterviewde zonder andere deelnemers te benadelen.",
+		"id": "ff7397f2-c640-49e0-918d-92bac15ab93a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
