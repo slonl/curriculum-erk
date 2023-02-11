@@ -12053,7 +12053,10 @@
 		"id": "360a48f5-9798-49b8-95cd-13c73b887f62",
 		"prefix": "",
 		"title": "Kan de discussie volgen over zaken met betrekking tot het eigen vakgebied en tot in details de punten begrijpen die van de spreker de meeste nadruk krijgen.",
-		"description": ""
+		"description": "",
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		]
 	},
 	{
 		"niveau_id": [
