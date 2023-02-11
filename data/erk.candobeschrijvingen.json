@@ -12104,5 +12104,32 @@
 		"prefix": "",
 		"title": "Kan een geanimeerde discussie bijhouden en nauwkeurig argumenten voor en tegen bepaalde standpunten herkennen.",
 		"description": ""
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"id": "8707bfda-9136-45a5-92bf-ed96e830ac47",
+		"prefix": "",
+		"title": "Kan in een vraaggesprek antwoord geven op eenvoudige rechtstreekse vragen over persoonlijke gegevens die zeer langzaam en helder worden gesteld in directe, niet-idiomatische taal.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"id": "1392f2d8-6bf2-46aa-a6ff-1da1338c0912",
+		"prefix": "",
+		"title": "Kan in een vraaggesprek eenvoudige vragen beantwoorden en reageren op eenvoudige uitspraken.\n",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"id": "907f757b-b7b9-40b2-acae-ed9f1aa83020",
+		"prefix": "",
+		"title": "Kan zich begrijpelijk maken in een vraaggesprek en ideeën en informatie over vertrouwde onderwerpen overbrengen, mits vragen om opheldering en enige hulp bij het formuleren van de boodschap mogelijk is.",
+		"description": ""
 	}
 ]
