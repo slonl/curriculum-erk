@@ -10154,8 +10154,10 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan mensen zijn of haar naam vertellen en andere mensen om hun naam vragen.",
-		"id": "05398c0a-9bf1-43e0-a4b0-0ed85864e314"
+		"title": "Kan mensen de eigen naam vertellen en andere mensen om hun naam vragen.",
+		"id": "05398c0a-9bf1-43e0-a4b0-0ed85864e314",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10189,15 +10191,19 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan zijn of haar leeftijd noemen en andere mensen om hun leeftijd vragen.",
-		"id": "78a7d524-06ff-42a7-9a6f-bd0ef82698d5"
+		"title": "Kan de eigen leeftijd noemen en andere mensen om hun leeftijd vragen.",
+		"id": "78a7d524-06ff-42a7-9a6f-bd0ef82698d5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan zeer eenvoudige vragen stellen om informatie te verkrijgen, zoals 'Wat is dit?' en antwoorden van een of twee woorden begrijpen.",
-		"id": "5fe5ba74-6766-4d92-926b-254f211e2fcd"
+		"title": "Kan zeer eenvoudige vragen stellen om informatie te verkrijgen en antwoorden van een of twee woorden begrijpen.",
+		"id": "5fe5ba74-6766-4d92-926b-254f211e2fcd",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10224,8 +10230,10 @@
 			"00ffa2e8-0778-4410-869f-9a5b224cde5a",
 			"f144ec79-789d-469f-935e-1bafd07179d8"
 		],
-		"title": "Kan eenvoudige vragen stellen en beantwoorden, en eenvoudige uitspraken doen en beantwoorden op het gebied van primaire behoeften of over zeer vertrouwde, concrete onderwerpen.",
-		"id": "859a9ed2-a748-4c8d-afd6-b66826c860f6"
+		"title": "Kan eenvoudige vragen stellen en beantwoorden, en eenvoudige uitspraken doen en beantwoorden op het gebied van primaire behoeften of over zeer vertrouwde onderwerpen.",
+		"id": "859a9ed2-a748-4c8d-afd6-b66826c860f6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10310,8 +10318,10 @@
 			"5a611924-3730-4d89-9ed4-aee2cef51b8c",
 			"271565fd-74c7-4ecb-b694-176dcb09e743"
 		],
-		"title": "Kan informatie van persoonlijke aard vragen en geven.",
-		"id": "2adbee92-c10e-4f0c-8a42-8b9b9262e5de"
+		"title": "Kan persoonlijke gegevens vragen en geven.",
+		"id": "2adbee92-c10e-4f0c-8a42-8b9b9262e5de",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10321,8 +10331,10 @@
 			"21bc1b33-c6da-4666-8b8a-495048a3c192",
 			"4f9a22e5-fc58-4f09-af24-48db6220c0e3"
 		],
-		"title": "Kan aanwijzingen vragen en geven op een landkaart of plattegrond.",
-		"id": "be3aa071-0006-4a32-add4-0b1523189936"
+		"title": "Kan aanwijzingen vragen en geven op een kaart of plattegrond.",
+		"id": "be3aa071-0006-4a32-add4-0b1523189936",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10375,8 +10387,10 @@
 			"69289d24-2fe5-4174-be1f-33cf133b4532",
 			"f87d5601-c233-48d2-a58c-a3e13f4c1a2c"
 		],
-		"title": "Kan vragen stellen en beantwoorden over tijdverdrijf en vroegere of toekomstige activiteiten.",
-		"id": "68b6d2f4-09d9-44f4-a06f-cbb0c9fe7a20"
+		"title": "Kan vragen stellen en beantwoorden over tijdverdrijf en vroegere activiteiten.",
+		"id": "68b6d2f4-09d9-44f4-a06f-cbb0c9fe7a20",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10440,8 +10454,10 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan advies geven over eenvoudige zaken binnen zijn of haar ervaringsgebied.",
-		"id": "efc10449-287a-4e6a-bc3c-d55d1576e43d"
+		"title": "Kan advies geven over eenvoudige zaken binnen het eigen ervaringsgebied.",
+		"id": "efc10449-287a-4e6a-bc3c-d55d1576e43d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10451,8 +10467,10 @@
 			"f6732da6-2a34-4741-bac1-b23aac4f46ad",
 			"c0cfc277-a735-4f09-947d-b694e0879a6d"
 		],
-		"title": "Kan met enig vertrouwen verzamelde feitelijke informatie over vertrouwde alledaagse en niet-alledaagse zaken binnen zijn of haar vakgebied uitwisselen, controleren en bevestigen.",
-		"id": "22b66e71-b74c-4317-9367-83af9404ecf2"
+		"title": "Kan met enig vertrouwen verzamelde feitelijke informatie over vertrouwde alledaagse en niet-alledaagse zaken binnen het eigen vakgebied uitwisselen, controleren en bevestigen.",
+		"id": "22b66e71-b74c-4317-9367-83af9404ecf2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10462,8 +10480,10 @@
 			"7303afae-a217-44ea-bd97-80ba9d48fd1e",
 			"d0b36b4c-633f-41e3-86a0-08ec0dccd609"
 		],
-		"title": "Kan een kort verhaal, artikel, lezing, discussie, vraaggesprek of documentaire samenvatten, er zijn of haar mening over geven en nadere vragen over details beantwoorden.",
-		"id": "9d81a137-58c6-4276-8753-7a82c2883395"
+		"title": "Kan een kort verhaal, artikel, lezing, discussie, vraaggesprek of documentaire samenvatten, er een mening over geven en nadere vragen over details beantwoorden.",
+		"id": "9d81a137-58c6-4276-8753-7a82c2883395",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10492,31 +10512,39 @@
 			"fa443570-7cd0-4999-8271-1b48f6975f2a",
 			"478decc1-792c-41d7-8009-deb600ca9361"
 		],
-		"title": "Kan complexe informatie uitwisselen en advies geven over allerlei zaken die verband houden met zijn of haar beroepstaken.",
-		"id": "da44dc9d-ed71-4be8-8363-cd94193cbc70"
+		"title": "Kan complexe informatie begrijpen en uitwisselen en advies geven over allerlei zaken die verband houden met de eigen beroepstaken.",
+		"id": "da44dc9d-ed71-4be8-8363-cd94193cbc70",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan de juiste technische terminologie gebruiken bij het uitwisselen van informatie of het bespreken van zijn of haar specialisatiegebied met andere specialisten.",
-		"id": "eb12dda2-c3a7-4622-b88c-5f9ca884ffea"
+		"title": "Kan de juiste technische terminologie gebruiken bij het uitwisselen van informatie of het bespreken van het eigen specialisatiegebied met andere specialisten.",
+		"id": "eb12dda2-c3a7-4622-b88c-5f9ca884ffea",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Geen descriptoren beschikbaar.",
+		"title": "Geen descriptoren beschikbaar, zie B2.",
 		"isempty": true,
-		"id": "fab4a90b-99bf-462d-bf24-a7391994a418"
+		"id": "fab4a90b-99bf-462d-bf24-a7391994a418",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Geen descriptoren beschikbaar.",
+		"title": "Geen descriptoren beschikbaar, zie B2.",
 		"isempty": true,
-		"id": "bba3c8fc-84bd-4a26-a90c-2bcec706be8b"
+		"id": "bba3c8fc-84bd-4a26-a90c-2bcec706be8b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
