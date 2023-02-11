@@ -9499,8 +9499,10 @@
 			"31ea9aca-9cba-41f5-8d5b-a0d9ee92575b",
 			"f8d8d1fe-5c6c-4b8b-9a81-73d82d703a45"
 		],
-		"title": "Kan zeggen wat hij of zij van zaken vindt wanneer hij of zij rechtstreeks wordt aangesproken op een formele bijeenkomst, mits hij of zij indien nodig om herhaling van belangrijke punten kan vragen.",
-		"id": "b870e481-be5c-4037-be0d-8d49fbcb2e83"
+		"title": "Kan de eigen mening geven over zaken wanneer hierom rechtstreeks gevraagd wordt op een formele bijeenkomst, mits indien nodig belangrijke punten herhaald kunnen worden.",
+		"id": "b870e481-be5c-4037-be0d-8d49fbcb2e83",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9511,8 +9513,10 @@
 			"cff1650b-ea66-4168-932b-61aa79a803fe",
 			"e96cac20-ecd4-47a8-8838-5e8c6f620f13"
 		],
-		"title": "Kan relevante informatie uitwisselen en zijn of haar mening geven over praktische problemen wanneer dat rechtstreeks gevraagd wordt, mits hij of zij enige hulp krijgt bij het formuleren en indien nodig om herhaling van belangrijke punten kan vragen.",
-		"id": "c6fa1afe-cae8-4bde-9983-a18c257f09c0"
+		"title": "Kan relevante informatie uitwisselen en de eigen mening geven over praktische problemen wanneer dat rechtstreeks gevraagd wordt, mits er enige hulp is bij het formuleren en indien nodig om herhaling van belangrijke punten gevraagd kan worden.\n",
+		"id": "c6fa1afe-cae8-4bde-9983-a18c257f09c0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9524,8 +9528,10 @@
 			"5407e1f1-1b89-4ac3-88a0-2b763ecfb58a",
 			"56420bab-2a5d-45b4-8a38-bc7a9f159d01"
 		],
-		"title": "Kan deelnemen aan een alledaagse formele discussie over vertrouwde onderwerpen die gaan om de uitwisseling van feitelijke informatie, het ontvangen van en reageren op aanwijzingen of het bespreken van oplossingen voor praktische problemen.",
-		"id": "b3538e46-8808-4711-8e6c-7b10ecffe9f7"
+		"title": "Kan deelnemen aan een alledaagse formele discussie over vertrouwde onderwerpen in een helder gearticuleerde standaardtaal of een vertrouwde variëteit, en die gaat om de uitwisseling van feitelijke informatie, het ontvangen van aanwijzingen of het bespreken van oplossingen voor praktische problemen.",
+		"id": "b3538e46-8808-4711-8e6c-7b10ecffe9f7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9563,15 +9569,19 @@
 			"a02fd0ae-3938-4df9-ac5a-404191273170",
 			"6338b000-87c8-4333-8168-5533841254fb"
 		],
-		"title": "Kan zijn of haar mening bijdragen, verantwoorden en staande houden, alternatieve voorstellen evalueren en hypothesen stellen en beantwoorden.",
-		"id": "280927b8-8c42-4638-93c6-f5a93291a208"
+		"title": "Kan de eigen mening bijdragen, verantwoorden en staande houden, alternatieve voorstellen evalueren en hypothesen stellen en beantwoorden.",
+		"id": "280927b8-8c42-4638-93c6-f5a93291a208",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan de gepaste technische terminologie gebruiken bij het bespreken van zijn of haar specialisatiegebied met andere specialisten.",
-		"id": "58db4a54-e1ae-45df-9732-62e0d3082456"
+		"title": "Kan de gepaste technische terminologie gebruiken bij het bespreken van het eigen specialisatiegebied met andere specialisten.",
+		"id": "58db4a54-e1ae-45df-9732-62e0d3082456",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9582,8 +9592,10 @@
 			"58363275-a0e7-446d-99fb-09f432108180",
 			"93f6393d-967d-4776-b752-7e70c6ffe0e5"
 		],
-		"title": "Kan zijn of haar ideeën en meningen precies onder woorden brengen en op overtuigende wijze complexe redeneringen presenteren en beantwoorden.",
-		"id": "21658526-f05c-4608-9b1c-b763b6d73eb0"
+		"title": "Kan de eigen ideeën en meningen precies onder woorden brengen en op overtuigende wijze complexe redeneringen presenteren en beantwoorden.",
+		"id": "21658526-f05c-4608-9b1c-b763b6d73eb0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9596,8 +9608,10 @@
 			"65b066a1-d8ec-40ea-a03d-b5bb02ae5d50",
 			"5cc0bfc5-c5ca-48f7-af3f-6c85c8e57296"
 		],
-		"title": "Kan gemakkelijk deelnemen aan het debat, ook als het gaat om abstracte, ingewikkelde en niet vertrouwde onderwerpen.",
-		"id": "a6068ec6-25e3-42b1-9124-967f0e1b4a49"
+		"title": "Kan het debat gemakkelijk bijhouden, ook als het gaat om abstracte, complexe, niet-vertrouwde onderwerpen.",
+		"id": "a6068ec6-25e3-42b1-9124-967f0e1b4a49",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9611,14 +9625,18 @@
 			"1e6fcd8e-87ca-4867-97c9-7762bfe9dcda"
 		],
 		"title": "Kan een formeel standpunt overtuigend beargumenteren, daarbij ingaan op vragen en opmerkingen, en complexe tegenargumenten vloeiend, spontaan en adequaat beantwoorden.",
-		"id": "0e492794-fac5-4fff-82ac-7e6a3115fd0d"
+		"id": "0e492794-fac5-4fff-82ac-7e6a3115fd0d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan bijdragen van andere deelnemers over zaken binnen zijn of haar academische of professionele vakgebied herformuleren, evalueren en betwisten.",
-		"id": "cbe35a5d-648a-46b5-84ad-a94a1a312572"
+		"title": "Kan bijdragen van andere deelnemers over zaken binnen het eigen academische of professionele vakgebied herformuleren, evalueren en betwisten.",
+		"id": "cbe35a5d-648a-46b5-84ad-a94a1a312572",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9646,22 +9664,28 @@
 			"bda78fae-5d22-4c98-8d76-331098222dc4",
 			"35baf6ce-1980-4b06-b4ad-c61289a177d0"
 		],
-		"title": "Kan zich handhaven in een formele discussie over complexe zaken, en daarbij uitgesproken en overtuigende argumenten geven zonder andere sprekers te benadelen.",
-		"id": "057a1b4f-b199-4659-9e0b-12992328f4d1"
+		"title": "Kan zich handhaven in een formele discussie over complexe zaken en daarbij uitgesproken en overtuigende argumenten geven zonder andere deelnemers te benadelen.",
+		"id": "057a1b4f-b199-4659-9e0b-12992328f4d1",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan adviseren over het omgaan met complexe, gevoelige of controversiële kwesties, mits hij of zij de noodzakelijke specialistische kennis heeft.",
-		"id": "ab786297-5985-4ceb-bb5e-640113ba6be3"
+		"title": "Kan adviseren over het omgaan met complexe, gevoelige of controversiële kwesties, mits de noodzakelijke specialistische kennis voorhanden is.",
+		"id": "ab786297-5985-4ceb-bb5e-640113ba6be3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan met zelfvertrouwen omgaan met vijandige vragen, aan het woord blijven als hij of zij aan de beurt is en tegenargumenten diplomatisch weerleggen.",
-		"id": "d4de0a88-20c0-457b-b098-37cbc0453950"
+		"title": "Kan met zelfvertrouwen omgaan met vijandige vragen, aan het woord blijven en tegenargumenten diplomatisch weerleggen.",
+		"id": "d4de0a88-20c0-457b-b098-37cbc0453950",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
