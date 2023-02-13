@@ -10897,15 +10897,19 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan korte frasen en zinnen schrijven om elementaire persoonlijke informatie te geven, met behulp van een woordenboek.",
-		"id": "d6d77cc5-80a3-4366-9842-c38fcbb35bcb"
+		"title": "Kan elementaire persoonlijke informatie doorgeven in korte frasen en zinnen, met behulp van een woordenboek.",
+		"id": "d6d77cc5-80a3-4366-9842-c38fcbb35bcb",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan boodschappen en online posts schrijven als een reeks zeer korte zinnen over hobby's en voorkeuren/afkeuren, gebruikmakend van eenvoudige woorden en basisuitdrukkingen en met raadpleging van een woordenboek.",
-		"id": "007322df-7d79-4eaa-956b-1eff00b0b155"
+		"title": "Kan berichten en online posts opstellen als een reeks zeer korte zinnen over hobby's en voorkeuren/afkeuren, gebruikmakend van eenvoudige woorden en basisuitdrukkingen en met raadpleging van een woordenboek.",
+		"id": "007322df-7d79-4eaa-956b-1eff00b0b155",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10916,8 +10920,10 @@
 			"6b58b1cc-50f5-4491-be3e-c842b28de80a",
 			"69f380fc-6aa4-4dc3-8f86-0518917ba413"
 		],
-		"title": "Kan een korte, eenvoudige (digitale) kaart met een wens of groet schrijven.",
-		"id": "bfbe3bf5-a5e0-49f2-868e-236463ec83a7"
+		"title": "Kan een korte, eenvoudige briefkaart opstellen.",
+		"id": "bfbe3bf5-a5e0-49f2-868e-236463ec83a7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10928,8 +10934,10 @@
 			"82396b4c-6b19-445f-ae5f-c4e4d1f0ecd3",
 			"44d01b15-030c-4ec7-aa4c-53a789589324"
 		],
-		"title": "Kan een kort, zeer eenvoudig bericht schrijven (bijvoorbeeld tekstbericht) aan vrienden om hen iets door te geven of een vraag te stellen.",
-		"id": "634f3bba-748e-4893-afe5-3efe4d52344b"
+		"title": "Kan een kort, zeer eenvoudig bericht opstellen (bijvoorbeeld tekstbericht) aan vrienden om hen iets door te geven of een vraag te stellen.",
+		"id": "634f3bba-748e-4893-afe5-3efe4d52344b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10938,8 +10946,10 @@
 		"erk_voorbeeld_id": [
 			"bca1e784-8acc-4bd7-9226-3f3aa1e53f3d"
 		],
-		"title": "Kan persoonlijke informatie met een routinematig karakter doorgeven.",
-		"id": "edcd0775-cd98-4c37-9d18-864cdb7e5116"
+		"title": "Kan persoonlijke gegevens met een routinematig karakter doorgeven, bijvoorbeeld in een korte e-mail of brief om zichzelf voor te stellen.",
+		"id": "edcd0775-cd98-4c37-9d18-864cdb7e5116",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10949,8 +10959,10 @@
 			"21dd64ac-487e-4dfb-afa6-3260b5535e41",
 			"8798d562-ab29-48f6-b5ab-0a0ee16bb208"
 		],
-		"title": "Kan zeer eenvoudige persoonlijke brieven schrijven waarin dank wordt uitgesproken of verontschuldigingen worden aangeboden.",
-		"id": "2558a315-e490-495a-8068-7a4fcc86ad73"
+		"title": "Kan zeer eenvoudige persoonlijke brieven opstellen waarin dank wordt uitgesproken of verontschuldigingen worden aangeboden.",
+		"id": "2558a315-e490-495a-8068-7a4fcc86ad73",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10963,8 +10975,10 @@
 			"8557ef43-d756-479a-a323-8228bc1a16ec",
 			"6c6bee72-0219-431f-9f87-a5828e9f775a"
 		],
-		"title": "Kan korte, eenvoudige briefjes, e-mails en tekstberichten schrijven.",
-		"id": "61e95db6-d4a9-4954-9d66-78ac0454e9fa"
+		"title": "Kan korte, eenvoudige briefjes, e-mails en tekstberichten opstellen.",
+		"id": "61e95db6-d4a9-4954-9d66-78ac0454e9fa",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10981,8 +10995,10 @@
 			"ecbf1817-64e1-4b8d-8adf-e77f4dd9df54",
 			"69b9a09f-3309-4452-940c-1ec7c6249ff6"
 		],
-		"title": "Kan informatie uitwisselen via tekstbericht, e-mail of in korte brieven om antwoord te geven op vragen (bijvoorbeeld over een nieuw product of een nieuwe activiteit).",
-		"id": "4e8cd9ab-ce8e-492e-994c-a3c99f83cc28"
+		"title": "Kan informatie uitwisselen via tekstbericht, via e-mail of in korte brieven om antwoord te geven op vragen van de andere persoon (bijvoorbeeld over een nieuw product of een nieuwe activiteit).",
+		"id": "4e8cd9ab-ce8e-492e-994c-a3c99f83cc28",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
