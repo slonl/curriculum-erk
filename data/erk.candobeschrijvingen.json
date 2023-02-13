@@ -12249,5 +12249,14 @@
 		"prefix": "",
 		"title": "Kan genoeg begrijpen om eenvoudige routinetaken uit te voeren zonder bovenmatige inspanning, en daarbij heel eenvoudig om herhaling vragen wanneer iets niet begrepen wordt.",
 		"description": ""
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"id": "b5225ba0-ed20-439d-9298-6f5403b7c948",
+		"prefix": "",
+		"title": "Kan met goede uitdrukkingsvaardigheid en nauwkeurigheid formele correspondentie opstellen, zoals verklarende brieven, sollicitatiebrieven, aanbevelingsbrieven, referenties, klachten, steunbetuigingen en condoleances.",
+		"description": ""
 	}
 ]
