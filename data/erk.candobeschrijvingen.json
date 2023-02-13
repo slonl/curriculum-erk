@@ -8956,7 +8956,7 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan enkele elementaire standaarduitdrukkingen begrijpen en gebruiken.",
+		"title": "Kan elementaire standaarduitdrukkingen begrijpen en gebruiken.",
 		"id": "b501877c-4568-41d0-ba38-a0b157eb2bca",
 		"prefix": "",
 		"description": ""
@@ -9057,7 +9057,7 @@
 			"63bb50a2-dd3e-4a4f-8fb3-b64abe84805a",
 			"c31bb7f1-c170-4acb-9fa7-84f53e641921"
 		],
-		"title": "Kan uitnodigingen doen, suggesties opperen en verontschuldigingen aanbieden, en daarop reageren.",
+		"title": "Kan uitnodigingen doen, suggesties opperen en verontschuldigingen aanbieden en daarop reageren.",
 		"id": "972b6bfd-8c46-416c-97ad-d01a2e27ffe1",
 		"prefix": "",
 		"description": ""
@@ -9137,8 +9137,10 @@
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan relatief lange gesprekken voeren over onderwerpen van gemeenschappelijk belang, mits de gesprekspartner moeite doet om het begrip te ondersteunen.",
-		"id": "2fd935d0-1492-432a-b31d-d54341d14ac9"
+		"title": "Kan relatief lange gesprekken voeren over onderwerpen van gedeelde interesse, mits de gesprekspartner moeite doet om het begrip te ondersteunen.",
+		"id": "2fd935d0-1492-432a-b31d-d54341d14ac9",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9149,8 +9151,10 @@
 			"92d3522d-fdfe-4894-a42a-6fcb2524a04d",
 			"c5a073e4-e59a-4bdb-9113-f2d7cee6c26b"
 		],
-		"title": "Kan een uitgebreide conversatie voeren over de meeste algemene onderwerpen op duidelijk participerende wijze, zelf in een lawaaierige omgeving.",
-		"id": "39c10a16-3ab2-4ac2-ad4e-98c2cdfc3266"
+		"title": "Kan een uitgebreide conversatie voeren over de meeste algemene onderwerpen op duidelijk participerende wijze, zelfs in een lawaaierige omgeving.",
+		"id": "39c10a16-3ab2-4ac2-ad4e-98c2cdfc3266",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9161,8 +9165,10 @@
 			"d53ca430-e93f-4614-a94a-d810749175be",
 			"eada98db-cbc5-4b80-a654-b4684809b24c"
 		],
-		"title": "Kan contacten met sprekers van de vreemde taal onderhouden zonder hen onbedoeld te irriteren of te amuseren en zonder dat zij zich anders moeten gedragen dan in gesprekken met native speakers.",
-		"id": "7d2ff702-7b3f-40d4-88fe-60b24d170ac0"
+		"title": "Kan contacten met doeltaalgebruikers onderhouden zonder hen onbedoeld te irriteren of te amuseren en zonder dat zij zich anders moeten gedragen dan zij tegenover een andere vaardige taalgebruiker zouden doen.",
+		"id": "7d2ff702-7b3f-40d4-88fe-60b24d170ac0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9176,22 +9182,28 @@
 			"bc0fa325-2708-4b1d-8183-0fd8717ed0fd",
 			"9df737eb-d51a-4b7c-8935-d533c5035fed"
 		],
-		"title": "Kan gevoelens genuanceerd uiten, adequaat reageren op gevoelsuitingen van anderen en het persoonlijke belang van gebeurtenissen en ervaringen benadrukken.",
-		"id": "8e4b43e3-d595-4545-ad29-b8502023da85"
+		"title": "Kan gradaties van emotie overbrengen en het persoonlijke belang van gebeurtenissen en ervaringen benadrukken.",
+		"id": "8e4b43e3-d595-4545-ad29-b8502023da85",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan een relatie tot stand brengen met gesprekspartners door het stellen van sympatieke vragen en door instemming uit te drukken en, indien gepast, opmerkingen te maken over derde partijen of gedeelde omstandigheden.",
-		"id": "b7f9a435-f699-4223-b650-2b0dda25f0c3"
+		"title": "Kan een relatie tot stand brengen met gesprekspartners door het stellen van sympathieke vragen en door instemming uit te drukken en, indien gepast, opmerkingen te maken over derde partijen of gedeelde omstandigheden.",
+		"id": "b7f9a435-f699-4223-b650-2b0dda25f0c3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan bedenkingen en bezwaren aangeven, voorwaarden stellen bij het instemmen met verzoeken of het geven van toestemming en vragen of zijn of haar standpunt wordt begrepen.",
-		"id": "5cfad0e0-7849-419f-ad7c-7f297802068a"
+		"title": "Kan bedenkingen en bezwaren aangeven, voorwaarden stellen bij het instemmen met verzoeken of het geven van toestemming, en vragen of het eigen standpunt wordt begrepen.",
+		"id": "5cfad0e0-7849-419f-ad7c-7f297802068a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9850,8 +9862,10 @@
 			"487acff8-3232-4136-9d65-9c004d40ac10",
 			"da903e7d-f095-4095-94b3-dc425966b3fb"
 		],
-		"title": "Kan mensen om dingen vragen, begrijpen wanneer om iets gevraagd wordt, dingen aan mensen geven, voor iets bedanken.",
-		"id": "4e318106-29d1-4199-ab9d-542a48c63f97"
+		"title": "Kan mensen om dingen vragen en dingen aan mensen geven.",
+		"id": "4e318106-29d1-4199-ab9d-542a48c63f97",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10144,8 +10158,10 @@
 			"6e4b71eb-2874-4862-9556-e783ecafa517",
 			"9721dd5f-2c35-43de-abe1-2114d4251520"
 		],
-		"title": "Kan argumenten geven voor schadevergoeding, overredende taal gebruiken om genoegdoening te eisen en helder aangeven wat de grensen zijn van eventuele concessies waartoe hij of zij bereid is.",
-		"id": "93de4a8f-891e-4434-b4ba-4fc1d0443d9d"
+		"title": "Kan argumenten geven voor schadevergoeding, overredende taal gebruiken om genoegdoening te eisen en helder aangeven wat de grenzen zijn van eventuele concessies.",
+		"id": "93de4a8f-891e-4434-b4ba-4fc1d0443d9d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10158,9 +10174,11 @@
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Geen descriptoren beschikbaar.",
+		"title": "Geen descriptoren beschikbaar, zie C1.",
 		"isempty": true,
-		"id": "46c6027a-a026-45e6-a787-fc6f01b52e09"
+		"id": "46c6027a-a026-45e6-a787-fc6f01b52e09",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
