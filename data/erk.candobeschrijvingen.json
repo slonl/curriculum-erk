@@ -11016,15 +11016,19 @@
 			"a77f739a-16a5-4a8e-8375-0df54d2f4add",
 			"998ac964-280d-4f2d-91ba-af21295da098"
 		],
-		"title": "Kan persoonlijke brieven en e-mails schrijven waarin ervaringen, gevoelens en gebeurtenissen enigszins gedetailleerd worden beschreven.",
-		"id": "b2ae8e68-857c-4fdc-9a0a-5bd918c48d09"
+		"title": "Kan persoonlijke brieven en e-mails opstellen waarin ervaringen, gevoelens en gebeurtenissen enigszins gedetailleerd worden beschreven.",
+		"id": "b2ae8e68-857c-4fdc-9a0a-5bd918c48d09",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan elementaire e-mails/brieven met een feitelijk karakter schrijven, bijvoorbeeld om informatie te vragen of om een bevestiging te geven of te vragen.",
-		"id": "b513b863-7c77-4b45-9d1b-49e8d6e15846"
+		"title": "Kan elementaire e-mails/brieven met een feitelijk karakter opschrijven (bijvoorbeeld om informatie te vragen of om een bevestiging te geven of te vragen).",
+		"id": "b513b863-7c77-4b45-9d1b-49e8d6e15846",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -11060,15 +11064,19 @@
 			"3c286761-41a3-4112-a812-8e674fbccb52",
 			"0e206732-bd2d-4cbe-aabb-79199d43d869"
 		],
-		"title": "Kan schriftelijk reageren op een advertentie en om meer informatie vragen over zaken die hem of haar interesseren.",
-		"id": "f857c79c-ca55-4648-be72-bf8bd1e9142b"
+		"title": "Kan schriftelijk reageren op een advertentie en om meer informatie vragen over interessante zaken.",
+		"id": "f857c79c-ca55-4648-be72-bf8bd1e9142b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan elementaire formele e-mails/-brieven schrijven, bijvoorbeeld om een klacht of verzoek in te dienen.",
-		"id": "c1410290-6f14-43ce-a712-eb0d600efef3"
+		"title": "Kan elementaire formele e-mails/brieven opstellen, bijvoorbeeld om een klacht of verzoek in te dienen.",
+		"id": "c1410290-6f14-43ce-a712-eb0d600efef3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -11089,22 +11097,28 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan formeel taalgebruik en conventies die passen bij de context toepassen bij het schrijven van persoonlijke en professionele brieven en e-mails.",
-		"id": "7132e29c-6302-4904-971d-845308c87453"
+		"title": "Kan formeel taalgebruik en conventies die passen bij de context toepassen bij het opstellen van persoonlijke en professionele brieven en e-mails.",
+		"id": "7132e29c-6302-4904-971d-845308c87453",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan formele e-mails/brieven schrijven om iemand uit te nodigen of te bedanken of excuses aan te bieden en hierbij het passende register en de juiste conventies gebruiken.",
-		"id": "cb2d18e5-2dcc-40a0-8a9c-9220ee1b5e77"
+		"title": "Kan formele e-mails/brieven opstellen om iemand uit te nodigen of te bedanken of excuses aan te bieden en hierbij passende registers en de juiste conventies gebruiken.",
+		"id": "cb2d18e5-2dcc-40a0-8a9c-9220ee1b5e77",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan niet-routinematige professionele brieven schrijven en daarbij gebruikmaken van de passende structuur en conventies, mits deze beperkt zijn tot praktische zaken.",
-		"id": "a1cc7907-c92a-4214-9d6d-7f9dd0ecafe1"
+		"title": "Kan niet-routinematige professionele brieven opstellen en daarbij gebruikmaken van de passende structuur en conventies, mits deze beperkt zijn tot praktische zaken.",
+		"id": "a1cc7907-c92a-4214-9d6d-7f9dd0ecafe1",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -11117,22 +11131,28 @@
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan een krachtige, maar beleefde klachtenbrief schrijven, inclusief ondersteunende details en een verklaring van de gewenste uitkomst.",
-		"id": "a9c8ff36-86e7-485b-8c2e-6c0b03006d51"
+		"title": "Kan een krachtige maar beleefde klachtenbrief opstellen, inclusief ondersteunende details en een verklaring van de gewenste uitkomst.",
+		"id": "a9c8ff36-86e7-485b-8c2e-6c0b03006d51",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan formele correspondentie schrijven zoals informatieverzoeken, aanvragen, sollicitaties en klachten, met het juiste register en de juiste structuur en conventies.",
-		"id": "5303d3f3-321f-413b-aecb-3d1f1afcdf29"
+		"title": "Kan formele correspondentie opstellen zoals informatieverzoeken, aanvragen, sollicitaties en klachten, gebruikmakend van het juiste register en de juiste structuur en conventies.",
+		"id": "5303d3f3-321f-413b-aecb-3d1f1afcdf29",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan in de meeste gevallen idiomatische uitdrukkingen en spreektaal in correspondentie en andere schriftelijke communicatie begrijpen en de meest voorkomende vormen daarvan zelf gebruiken naargelang de situatie.",
-		"id": "a5690ae4-d69a-45a6-9ec4-9e2df6511470"
+		"title": "Kan in de meeste gevallen idiomatische uitdrukkingen en spreektaal in correspondentie en andere communicatie begrijpen en de meest voorkomende vormen daarvan zelf gebruiken naargelang de situatie.",
+		"id": "a5690ae4-d69a-45a6-9ec4-9e2df6511470",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -11160,8 +11180,10 @@
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan vrijwel elk type correspondentie in een passende toon en stijl schrijven dat hij of zij in de loop van zijn of haar beroepsleven nodig heeft.",
-		"id": "48d19ee8-16b3-4d62-989e-9da63c6eb3da"
+		"title": "Kan vrijwel elk type correspondentie in het beroepsleven in een passende toon en stijl formuleren.",
+		"id": "48d19ee8-16b3-4d62-989e-9da63c6eb3da",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
