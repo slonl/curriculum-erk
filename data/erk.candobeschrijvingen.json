@@ -10835,8 +10835,10 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan korte frasen schrijven om elementaire informatie te geven (bijvoorbeeld naam, adres, familie) op een formulier of in een briefje, gebruikmakend van een woordenboek.",
-		"id": "a71fe7b3-7826-459f-9cbb-07e272ddc2c4"
+		"title": "Kan korte elementaire informatie doorgeven (bijvoorbeeld naam, adres, familie) in korte zinnen op een formulier of notitie, gebruikmakend van een woordenboek.",
+		"id": "a71fe7b3-7826-459f-9cbb-07e272ddc2c4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10856,8 +10858,10 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan persoonlijke brieven en notities schrijven om eenvoudige informatie van direct belang op te vragen of te geven, en daarbij overbrengen wat hij of zij het belangrijkste punt vindt.",
-		"id": "06c8ca0a-ba42-4258-a990-c74626f4370d"
+		"title": "Kan persoonlijke brieven en notities opstellen om eenvoudige informatie van direct belang op te vragen of te geven, en daarbij overbrengen wat naar eigen inzicht het belangrijkst is.",
+		"id": "06c8ca0a-ba42-4258-a990-c74626f4370d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10877,8 +10881,10 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan zich helder en precies uitdrukken, en daarbij flexibel en doeltreffend omgaan met de geadresseerde.",
-		"id": "aec49108-22ca-432d-a699-8ad63d3c5fe5"
+		"title": "Kan zich helder en precies uitdrukken, en daarbij flexibel en doeltreffend een verband leggen met de geadresseerde.",
+		"id": "aec49108-22ca-432d-a699-8ad63d3c5fe5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
