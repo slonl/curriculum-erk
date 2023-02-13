@@ -9736,8 +9736,10 @@
 			"f649c1b4-9587-461c-8409-872a63fe0607",
 			"7eafa192-ff31-4d6a-85d5-575ae6bd76c3"
 		],
-		"title": "Kan bespreken wat er vervolgens moet gebeuren, daarbij suggesties doen en beantwoorden, en aanwijzingen vragen en geven.",
-		"id": "63872ad7-e176-4279-8607-822d6c847b62"
+		"title": "Kan bespreken wat er vervolgens moet gebeuren, daarbij suggesties doen en beantwoorden en aanwijzingen vragen en geven.",
+		"id": "63872ad7-e176-4279-8607-822d6c847b62",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9751,8 +9753,10 @@
 			"a364a8b2-0ae7-46ac-887a-a67ac0d2deb6",
 			"5f00f8e3-2a5f-4dc0-ba2b-badeae9b89c9"
 		],
-		"title": "Kan zijn of haar mening en reacties overbrengen met betrekking tot mogelijke oplossingen of de vraag wat er vervolgens moet gebeuren, en daarbij beknopte redenen en verklaringen geven.",
-		"id": "a8852c4d-04d3-4e0c-a624-2b52fb01bfa3"
+		"title": "Kan eigen meningen en reacties overbrengen met betrekking tot mogelijke oplossingen of de vraag wat er vervolgens moet gebeuren, en daarbij beknopte redenen en verklaringen geven.",
+		"id": "a8852c4d-04d3-4e0c-a624-2b52fb01bfa3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9764,15 +9768,19 @@
 			"dab43ff3-14ac-44f5-a182-a076d5e613e9",
 			"0fb21f98-8dd4-4737-9472-f2a5fab012ef"
 		],
-		"title": "Kan beschrijven en bespreken hoe iets gedaan moet worden, met gedetailleerde aanwijzingen.",
-		"id": "0af24d12-6083-416b-871a-043a98a4851d"
+		"title": "Kan anderen uitnodigen hun zienswijze te geven op hoe verder te gaan.",
+		"id": "0af24d12-6083-416b-871a-043a98a4851d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan uitleggen waarom iets een probleem is, bespreken wat er vervolgens moet gebeuren, alternatieven vergelijken en tegenover elkaar stellen.",
-		"id": "f6848031-a4e5-450c-8060-483d39296ead"
+		"title": "Kan uitleggen waarom iets een probleem is, bespreken wat er vervolgens moet gebeuren en alternatieven vergelijken en tegenover elkaar stellen.",
+		"id": "f6848031-a4e5-450c-8060-483d39296ead",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9802,8 +9810,10 @@
 			"d5c70f6d-357b-4617-aeb2-0a4df87f3fa6",
 			"afb6b4bc-be08-4d45-a2c0-64a8f7de3a96"
 		],
-		"title": "Kan een zaak of probleem helder schetsen, speculeren over oorzaken of gevolgen, en voor-en nadelen van verschillende benaderingen afwegen.",
-		"id": "b6361938-a6ae-437c-9d67-55ca2e640e28"
+		"title": "Kan een zaak of probleem helder schetsen, speculeren over oorzaken of gevolgen en voor-en nadelen van verschillende benaderingen afwegen.",
+		"id": "b6361938-a6ae-437c-9d67-55ca2e640e28",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9816,9 +9826,11 @@
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Geen descriptoren beschikbaar.",
+		"title": "Geen descriptoren beschikbaar, zie C1.",
 		"isempty": true,
-		"id": "28f1889f-c5fa-4552-938c-8fc4faca72eb"
+		"id": "28f1889f-c5fa-4552-938c-8fc4faca72eb",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
