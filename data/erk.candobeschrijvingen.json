@@ -10731,15 +10731,19 @@
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan telecommunicatie gebruiken met zijn of haar vrienden om eenvoudig nieuws uit te wisselen, plannen te maken en af te spreken.",
-		"id": "8cab275e-a5c0-4300-a80e-284ad95fdba6"
+		"title": "Kan telecommunicatie gebruiken met vrienden om eenvoudig nieuws uit te wisselen, plannen te maken en af te spreken.",
+		"id": "8cab275e-a5c0-4300-a80e-284ad95fdba6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan telecommunicatie gebruiken voor het voeren van relatief eenvoudige, maar langere gesprekken met mensen die hij of zij persoonlijk kent.",
-		"id": "6dda07da-0bb2-4479-b76f-9758e2bdc4d0"
+		"title": "Kan telecommunicatie gebruiken voor het voeren van relatief eenvoudige, maar langere gesprekken met kennissen.",
+		"id": "6dda07da-0bb2-4479-b76f-9758e2bdc4d0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10769,8 +10773,10 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan telecommunicatie gebruiken voor een verscheidenheid aan persoonlijke en professionele doeleinden, mits hij of zij om verduidelijking kan vragen als het accent of de terminologie niet vertrouwd is.",
-		"id": "9186bb05-9a68-498b-99b2-c2a2732ba290"
+		"title": "Kan telecommunicatie gebruiken voor een verscheidenheid aan persoonlijke en professionele doeleinden, mits om verduidelijking gevraagd kan worden als het accent of de terminologie niet vertrouwd is.",
+		"id": "9186bb05-9a68-498b-99b2-c2a2732ba290",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
