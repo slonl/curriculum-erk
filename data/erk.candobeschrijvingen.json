@@ -12160,5 +12160,32 @@
 		"prefix": "",
 		"title": "Kan telecommunicatie gebruiken voor alledaagse persoonlijke of professionele doeleinden, mits van tijd tot tijd om verduidelijking kan worden gevraagd.",
 		"description": ""
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"id": "01a42180-1c2c-4227-8d26-de813f9d6c39",
+		"prefix": "",
+		"title": "Kan zorgvuldig en langzaam geformuleerde vragen en opdrachten begrijpen en korte, eenvoudige aanwijzingen volgen.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"id": "0684f8bb-9738-42c9-8d7a-0c346fc4feca",
+		"prefix": "",
+		"title": "Kan aangeven of het gesprek te volgen is en kan zich laten uitleggen wat noodzakelijk is, indien de gesprekspartner daarvoor de moeite neemt.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"id": "fc34dd80-0f96-4f4d-b6dc-39d643dc29ba",
+		"prefix": "",
+		"title": "Kan genoeg begrijpen om eenvoudige routinetaken uit te voeren zonder bovenmatige inspanning, en daarbij heel eenvoudig om herhaling vragen wanneer iets niet begrepen wordt.",
+		"description": ""
 	}
 ]
