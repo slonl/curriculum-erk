@@ -1718,10 +1718,13 @@
 			"9186bb05-9a68-498b-99b2-c2a2732ba290",
 			"9274647b-1a32-40e6-a4fe-d5afe90ae03d",
 			"df0eabfd-851f-4a02-bd11-fc41b6fb7e98",
-			"35797f43-39ef-4947-a705-3d97ece1d226"
+			"35797f43-39ef-4947-a705-3d97ece1d226",
+			"68f3238f-ba53-4506-a015-d4598597c29d"
 		],
 		"title": "Gebruik van telecommunicatie",
-		"id": "f95a83cd-5069-4077-8f77-a87d9b038b24"
+		"id": "f95a83cd-5069-4077-8f77-a87d9b038b24",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
