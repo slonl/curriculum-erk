@@ -11201,15 +11201,19 @@
 			"9852813b-9638-4b0f-9373-c2bd61fee582",
 			"97328074-498b-4652-bc9f-57b8419d5e4a"
 		],
-		"title": "Kan getallen en data, de eigen naam, nationaliteit, adres, leeftijd, geboorte- of aankomstdatum en dergelijke opschrijven.",
-		"id": "36696bb3-9ec3-4e92-8f48-6566234f2865"
+		"title": "Kan getallen en data, de eigen naam, nationaliteit, adres, leeftijd, geboorte- of aankomstdatum en dergelijke invullen, bijvoorbeeld op een incheckformulier in een hotel.",
+		"id": "36696bb3-9ec3-4e92-8f48-6566234f2865",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan een eenvoudige boodschap achterlaten met daarin informatie over bijvoorbeeld waar hij of zij is en hoe laat hij of zij terugkomt (bijvoorbeeld 'Naar de winkel: om 5 uur terug').",
-		"id": "a1fbf322-cdbe-480e-9022-8244d3fc7f23"
+		"title": "Kan een eenvoudige boodschap achterlaten met daarin informatie over bijvoorbeeld de reden van afwezigheid en de verwachte terugkomst (bijvoorbeeld 'Naar de winkel: om 5 uur terug').",
+		"id": "a1fbf322-cdbe-480e-9022-8244d3fc7f23",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -11245,8 +11249,10 @@
 			"9ac0cc2e-ba69-46d5-96ae-a7d0d2b4ef6c",
 			"8ad75379-b057-47cd-988b-cb18383408c9"
 		],
-		"title": "Kan korte, eenvoudige notities en berichten schrijven over zaken van direct belang.",
-		"id": "df0e7855-d5f2-4ae0-bd12-718b4e059acc"
+		"title": "Kan korte, eenvoudige notities en berichten formuleren over zaken van direct belang.",
+		"id": "df0e7855-d5f2-4ae0-bd12-718b4e059acc",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -11258,8 +11264,10 @@
 			"60ef3cb3-ba99-4603-ae67-7b078970d540",
 			"c55770a5-0e9d-4a62-95dc-4aedd3c629e6"
 		],
-		"title": "Kan persoonlijke en andere gegevens invullen op de meeste alledaagse formulieren, bijvoorbeeld om een bankrekening te openen of een aangetekende brief te sturen.",
-		"id": "b8ae978d-660d-4bf7-8ec2-4c3d3f3032d5"
+		"title": "Kan persoonlijke en andere gegevens invullen op de meeste alledaagse formulieren (bijvoorbeeld om een bankrekening te openen of een aangetekende brief te sturen).",
+		"id": "b8ae978d-660d-4bf7-8ec2-4c3d3f3032d5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -11285,8 +11293,10 @@
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan een kort, eenvoudig bericht aannemen, mits hij of zij om herhaling en herformulering kan vragen.",
-		"id": "9af458f9-b800-4078-b6c9-2d5ab9d0d27e"
+		"title": "Kan een kort, eenvoudig bericht aannemen, mits om herhaling en herformulering gevraagd kan worden.",
+		"id": "9af458f9-b800-4078-b6c9-2d5ab9d0d27e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -11300,7 +11310,9 @@
 			"1bda5085-ea23-496c-8959-ee2d0c61fdc7"
 		],
 		"title": "Kan formulieren waarin meer informatie gevraagd wordt gedetailleerd invullen.",
-		"id": "20bfabb4-aaa3-411f-ab7e-649e86912642"
+		"id": "20bfabb4-aaa3-411f-ab7e-649e86912642",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -11323,15 +11335,19 @@
 			"20e5ce2a-b744-4459-a93f-b68729e89fca",
 			"5ece0862-9021-4960-844f-dfc0b32aa8f9"
 		],
-		"title": "Kan notities schrijven die eenvoudige informatie bevatten die van direct belang is voor vrienden, dienstverleners, leraren en andere mensen die in zijn of haar dagelijks leven voorkomen, en daarbij begrijpelijk de punten overbrengen waarvan hij of zij vindt dat ze belangrijk zijn.",
-		"id": "4b73feb9-daeb-4331-812c-5da874657d23"
+		"title": "Kan notities formuleren die eenvoudige informatie bevatten die van direct belang is voor vrienden, dienstverleners, leraren en andere mensen, en daarbij begrijpelijk de punten overbrengen die naar eigen inzicht belangrijk zijn.",
+		"id": "4b73feb9-daeb-4331-812c-5da874657d23",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan berichten aannemen waarin inlichtingen worden gegeven of problemen worden uitgelegd.",
-		"id": "efa5b5ce-fa10-484a-b4b9-f43e3433e3ee"
+		"title": "Kan berichten aannemen waarin inlichtingen worden gegeven en problemen worden uitgelegd.",
+		"id": "efa5b5ce-fa10-484a-b4b9-f43e3433e3ee",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -11344,24 +11360,30 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan complexe persoonlijke of professionele berichten aannemen of achterlaten, mits hij of zij om verduidelijking of uitleg kan vragen.",
-		"id": "76496082-7acf-44d5-b96a-7a4baff026c9"
+		"title": "Kan complexe persoonlijke of professionele berichten aannemen of achterlaten, mits het desnoods vragen om verduidelijking of uitleg mogelijk is.",
+		"id": "76496082-7acf-44d5-b96a-7a4baff026c9",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Geen descriptoren beschikbaar.",
+		"title": "Geen descriptoren beschikbaar, zie B2.",
 		"isempty": true,
-		"id": "46ba45a1-ee8e-441f-a08c-7c8e2fcc8186"
+		"id": "46ba45a1-ee8e-441f-a08c-7c8e2fcc8186",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Geen descriptoren beschikbaar.",
+		"title": "Geen descriptoren beschikbaar, zie B2.",
 		"isempty": true,
-		"id": "6698b73b-bbd4-4ee0-a863-350faa2baa7d"
+		"id": "6698b73b-bbd4-4ee0-a863-350faa2baa7d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
