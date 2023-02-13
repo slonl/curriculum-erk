@@ -10496,8 +10496,10 @@
 			"0493473d-d076-4129-840e-0616d8f921d3",
 			"c0cb1025-3012-40ee-b06d-3b733da0c983"
 		],
-		"title": "Kan op betrouwbare wijze gedetailleerde informatie doorgeven en bespreken.",
-		"id": "88f1e621-7569-4392-9b53-f67e7e6c78d3"
+		"title": "Kan gedetailleerde informatie betrouwbaar doorgeven.",
+		"id": "88f1e621-7569-4392-9b53-f67e7e6c78d3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
