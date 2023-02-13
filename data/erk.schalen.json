@@ -1759,10 +1759,13 @@
 			"a5690ae4-d69a-45a6-9ec4-9e2df6511470",
 			"2dd115cb-aa9d-416e-93c4-a2ac71cc5ffa",
 			"bf3c2209-78b9-494f-a9cc-cb52eab39de8",
-			"48d19ee8-16b3-4d62-989e-9da63c6eb3da"
+			"48d19ee8-16b3-4d62-989e-9da63c6eb3da",
+			"b5225ba0-ed20-439d-9298-6f5403b7c948"
 		],
 		"title": "Correspondentie",
-		"id": "cee09d1a-168e-4c74-8712-884db522b163"
+		"id": "cee09d1a-168e-4c74-8712-884db522b163",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
