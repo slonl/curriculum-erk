@@ -12289,5 +12289,14 @@
 		"prefix": "",
 		"title": "Kan eenvoudige en korte notities maken voor anderen.",
 		"description": ""
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"id": "5f901b96-0e1b-4ead-981e-3e37d398a3f3",
+		"prefix": "",
+		"title": "Kan mensen begroeten, de eigen naam zeggen en op een eenvoudige manier afscheid nemen.",
+		"description": ""
 	}
 ]
