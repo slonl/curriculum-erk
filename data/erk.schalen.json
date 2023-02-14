@@ -1517,10 +1517,13 @@
 			"b7f9a435-f699-4223-b650-2b0dda25f0c3",
 			"5cfad0e0-7849-419f-ad7c-7f297802068a",
 			"34e16c39-c179-4d53-9227-e6a32374dce1",
-			"d59dac41-f724-48f8-81ba-2fb94e5b14e6"
+			"d59dac41-f724-48f8-81ba-2fb94e5b14e6",
+			"5f901b96-0e1b-4ead-981e-3e37d398a3f3"
 		],
 		"title": "Conversatie",
-		"id": "dc9b22ba-50af-4f34-8cc1-342824b3188e"
+		"id": "dc9b22ba-50af-4f34-8cc1-342824b3188e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
