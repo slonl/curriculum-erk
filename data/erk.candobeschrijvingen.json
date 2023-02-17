@@ -2914,50 +2914,64 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan eenvoudige aantekeningen maken bij een presentatie/ demonstratie als het onderwerp vertrouwd en voorspelbaar is en als e presentator ruimte geeft voor verduidelijking en het maken van aantekeningen.",
-		"id": "68ae78ca-2790-4c8e-8a70-2921c25a3cce"
+		"title": "Kan eenvoudige aantekeningen maken bij een presentatie/demonstratie als het onderwerp vertrouwd en voorspelbaar is en als de presentator ruimte geeft voor verduidelijking en het maken van aantekeningen.",
+		"id": "68ae78ca-2790-4c8e-8a70-2921c25a3cce",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan routine-instructies noteren tijdens een vergadering over een vertrouwd onderwerp, mits deze worden geformuleerd in eenvoudige taal en hij of zij voldoende tijd krijgt.",
-		"id": "aa7b693a-a8ac-46a0-909f-181246614c11"
+		"title": "Kan routine-instructies noteren tijdens een vergadering over een vertrouwd onderwerp, mits deze worden geformuleerd in eenvoudige taal en er voldoende tijd is.",
+		"id": "aa7b693a-a8ac-46a0-909f-181246614c11",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan tijdens een heldere lezing aantekeningen maken in de vorm van een lijst met belangrijke punten, mits het onderwerp vertrouwd is en er wordt gesproken in eenvoudige taal en helder uitgesproken.",
-		"id": "3103f39b-f573-4770-a503-2219c97fa88d"
+		"title": "Kan tijdens een heldere lezing aantekeningen maken in de vorm van een lijst met belangrijke punten, mits het onderwerp vertrouwd is en in de lezing zowel eenvoudige taal gebruikt als helder gearticuleerd wordt.",
+		"id": "3103f39b-f573-4770-a503-2219c97fa88d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan tijdens een lezing aantekeningen maken die nauwkeurig genoeg zijn voor eigen gebruik op een later tijdstip, mits het onderwerp binnen zijn of haar interessegebied ligt en het gesprokene helder en goed gestructureerd is.",
-		"id": "88168ed0-3c67-46c3-93a6-3f5aa74ce8ca"
+		"title": "Kan tijdens een lezing aantekeningen maken die nauwkeurig genoeg zijn voor eigen gebruik op een later tijdstip, mits het onderwerp binnen het eigen interessegebied ligt en de lezing helder en goed gestructureerd is.",
+		"id": "88168ed0-3c67-46c3-93a6-3f5aa74ce8ca",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan nauwkeurige aantekeningen maken bij vergaderingen en seminars over de meeste onderwerpen die te verwachten zijn binnen zijn of haar interessegebied.",
-		"id": "c1ef0270-04ec-4bb8-b1e0-34f0452a336a"
+		"title": "Kan nauwkeurige aantekeningen maken bij vergaderingen en seminars over de meeste onderwerpen die te verwachten zijn binnen het eigen interessegebied.",
+		"id": "c1ef0270-04ec-4bb8-b1e0-34f0452a336a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan een helder gestructureerde lezing over een vertrouwd onderwerp begrijpen en aantekeningen maken van punten die hem of haar belangrijk voorkomen, ook al is hij geneigd om zich te concentreren op de woorden zelf en daardoor sommige informatie mist.",
-		"id": "a3ace7cb-e545-4353-b1b3-6160bbfdbaee"
+		"title": "Kan een helder gestructureerde lezing over een vertrouwd onderwerp begrijpen en aantekeningen maken van punten die belangrijk lijken, ondanks de neiging om zich te concentreren op de daadwerkelijke formulering waardoor sommige informatie gemist wordt.",
+		"id": "a3ace7cb-e545-4353-b1b3-6160bbfdbaee",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan relevante, gedetailleerde informatie en argumenten selecteren met betrekking tot complexe, abstracte onderwerpen van meerdere mondelinge bronnen (bijvoorbeeld voordrachten, podcasts, formele discussies en debatten, interviews), mits er op een normaal tempo wordt gesproken.",
-		"id": "58d59922-9e44-4483-a017-9e71b9ad5d2e"
+		"title": "Kan relevante, gedetailleerde informatie en argumenten selecteren met betrekking tot complexe, abstracte onderwerpen van meerdere mondelinge bronnen (bijvoorbeeld voordrachten, podcasts, formele discussies en debatten, interviews), mits de overdracht op een normaal tempo is.",
+		"id": "58d59922-9e44-4483-a017-9e71b9ad5d2e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -2970,8 +2984,10 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan tijdens een lezing over een onderwerp binnen zijn of haar interessegebied gedetailleerde aantekeningen maken, en de informatie zo nauwkeurig en waarheidsgetrouw vastleggen dat de aantekeningen ook door anderen gebruikt zouden kunnen worden.",
-		"id": "eed99903-fae1-4172-9553-f2bb63ac86f8"
+		"title": "Kan tijdens een lezing over een onderwerp binnen het eigen interessegebied gedetailleerde aantekeningen maken, en daarbij de informatie zo nauwkeurig en waarheidsgetrouw vastleggen dat de aantekeningen ook bruikbaar zijn voor anderen.",
+		"id": "eed99903-fae1-4172-9553-f2bb63ac86f8",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -2984,15 +3000,19 @@
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Is zich bewust van de implicaties van en toespelingen in wat wordt gezegd en kan daarvan aantekeningen maken, net als van de werkelijk door de spreker gebruikte woorden.",
-		"id": "85c49ca7-b5af-482a-b4a4-61d7779072c6"
+		"title": "Is zich bewust van de implicaties van en toespelingen in wat wordt gezegd en kan daarvan aantekeningen maken, net als van de werkelijk gebruikte woorden.",
+		"id": "85c49ca7-b5af-482a-b4a4-61d7779072c6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan, terwijl hij of zij intussen blijft deelnemen aan een hoorcollege of vergadering, betrouwbare aantekeningen (of notulen) maken voor mensen die niet aanwezig zijn, zelfs als het onderwerp complex en/of niet vertrouwd is.",
-		"id": "311c8909-a7e3-4a1c-bfdd-5eaa56cf3aa7"
+		"title": "Kan tijdens deelname aan een hoorcollege of vergadering, betrouwbare aantekeningen (of notulen) maken voor mensen die niet aanwezig zijn, zelfs als het onderwerp complex en/of niet vertrouwd is.",
+		"id": "311c8909-a7e3-4a1c-bfdd-5eaa56cf3aa7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
