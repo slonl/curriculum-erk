@@ -2862,36 +2862,46 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan eenvoudige woorden gebruiken om te zetten wat voor gevoel een werk hem of haar gaf.",
-		"id": "01ef7557-1b39-4e6c-9e80-fa34ddcdb5b6"
+		"title": "Kan eenvoudige woorden gebruiken om weer te geven wat voor gevoel een werk opriep.",
+		"id": "01ef7557-1b39-4e6c-9e80-fa34ddcdb5b6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan zeggen of hij of zij een werk wel of niet goed vond en in eenvoudige taal uitleggen waarom.",
-		"id": "1594b388-058e-4d3c-8ae3-495107401f6e"
+		"title": "Kan de eigen mening over een werk formuleren en die in eenvoudige taal uitleggen.",
+		"id": "1594b388-058e-4d3c-8ae3-495107401f6e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan in eenvoudige taal zeggen welke delen of aspecten van een werk hem of haar in het bijzonder interesseerden.",
-		"id": "e9b3f7cb-e9c9-4351-b572-49c0f4820feb"
+		"title": "Kan in eenvoudige taal zeggen welke delen of aspecten van een werk in het bijzonder interessant waren.",
+		"id": "e9b3f7cb-e9c9-4351-b572-49c0f4820feb",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan reageren op een werk door zijn of haar gevoelens en ideeën in eenvoudige taal te beschrijven.",
-		"id": "70577e93-d7c6-4b13-8404-92c2bfad830e"
+		"title": "Kan reageren op een werk door de eigen gevoelens en ideeën in eenvoudige taal te beschrijven.",
+		"id": "70577e93-d7c6-4b13-8404-92c2bfad830e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
 		"title": "Kan de gevoelens van een personage beschrijven en de redenen daarvoor uitleggen.",
-		"id": "a564899e-500f-4038-8437-f804643ff98e"
+		"id": "a564899e-500f-4038-8437-f804643ff98e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -2904,93 +2914,119 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan in het kort de gevoelens en meningen die een werk bij hem of haar opriep uitleggen.",
-		"id": "9c032f80-3b56-4b10-87f7-8833c0ea8443"
+		"title": "Kan in het kort de gevoelens en meningen die een werk opriep uitleggen.",
+		"id": "9c032f80-3b56-4b10-87f7-8833c0ea8443",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan de emoties die hij of zij heeft ervaren op een bepaald moment in een verhaal beschrijven, bijvoorbeeld het punt of de punten in een verhaal waar hij of zij zich zorgen maakte om een personage, en uitleggen hoe dat kwam.",
-		"id": "276cc463-557f-468a-85b6-b7cbd3cb8ea8"
+		"title": "Kan de eigen emoties op een bepaald moment in een verhaal beschrijven, bijvoorbeeld een moment van empathie met een personage, en uitleggen waarom.",
+		"id": "276cc463-557f-468a-85b6-b7cbd3cb8ea8",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan de emoties die worden ervaren door een personage in een werk in verband brengen met emoties die hij of zij zelf heeft ervaren.",
-		"id": "83eeac22-202f-491a-9fac-6537977b99e6"
+		"title": "Kan de emoties die worden ervaren door een personage in een werk in verband brengen met eigen emoties.",
+		"id": "83eeac22-202f-491a-9fac-6537977b99e6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan gebeurtenissen in een verhaal, film of toneelstuk in verband brengen met vergelijkbare gebeurtenissen die hij of zij heeft ervaren of waar hij of zij over heeft gehoord.",
-		"id": "225cacc0-9b55-44eb-8219-3caaa2d8f010"
+		"title": "Kan gebeurtenissen in een verhaal, film of toneelstuk in verband brengen met vergelijkbare gebeurtenissen uit eigen ervaringen of die van anderen.",
+		"id": "225cacc0-9b55-44eb-8219-3caaa2d8f010",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan met enige details uitleggen met welk personage hij of zij zich het meest identificeerde en waarom.",
-		"id": "bcc695e4-1c77-4d7a-87e9-617dfbb4d77a"
+		"title": "Kan met enige details uitleggen welk personage de meeste herkenning opriep en waarom.",
+		"id": "bcc695e4-1c77-4d7a-87e9-617dfbb4d77a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan uitleggen waarom bepaalde delen of aspecten van een werk hem of haar in het bijzonder interesseerden.",
-		"id": "9de82449-1da4-493d-a179-dea459e50335"
+		"title": "Kan uitleggen waarom bepaalde delen of aspecten van een werk bijzonder interessant waren.",
+		"id": "9de82449-1da4-493d-a179-dea459e50335",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan mt enige details reageren op de uitdrukkingsvorm, stijl en inhoud van een werk en uitleggen wat hij of zij waardeerde en waarom.",
-		"id": "56d5a03a-08ec-470b-ac3b-2fa73a3f2b49"
+		"title": "Kan met enige details reageren op de uitdrukkingsvorm, stijl en inhoud van een werk en de eigen waardering van het werk uitleggen en beargumenteren.",
+		"id": "56d5a03a-08ec-470b-ac3b-2fa73a3f2b49",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan zijn of haar emotionele reactie op een werk uitleggen en verder ingaan op de manier waarop het werk deze reactie heeft opgewekt.",
-		"id": "3492b3dd-01a4-4894-8ed5-c9ae7ab39387"
+		"title": "Kan een eigen emotionele reactie op een werk uitleggen en verder ingaan op de manier waarop het werk deze reactie heeft opgewekt.",
+		"id": "3492b3dd-01a4-4894-8ed5-c9ae7ab39387",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan zijn of haar persoonlijke interpretatie geven van de ontwikkeling van een plot, de personages en de thema's in een verhaal, roman, film of toneelstuk.",
-		"id": "8dd2f16f-86e7-4e2b-970a-4d2f35b3e19e"
+		"title": "Kan een persoonlijke interpretatie geven van de ontwikkeling van een plot, de personages en de thema's in een verhaal, roman, film of toneelstuk.",
+		"id": "8dd2f16f-86e7-4e2b-970a-4d2f35b3e19e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan een duidelijke presentatie geven van zijn of haar reacties op een werk, zijn of haar ideeën ontwikkelen en deze onderbouwen met voorbeelden en argumenten.",
-		"id": "68d2df85-6301-43aa-8bd1-eaeac62344a3"
+		"title": "Kan een duidelijke presentatie geven van eigen reacties op een werk, eigen ideeën ontwikkelen en deze onderbouwen met voorbeelden en argumenten.",
+		"id": "68d2df85-6301-43aa-8bd1-eaeac62344a3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan zijn of haar interpretatie van personages in een werk toelichten: hun psychologische/emotionele staat, de motieven voor hun handelingen en de consequenties van deze handelingen.",
-		"id": "4df8686f-c43e-4aae-b1ce-cb9963936886"
+		"title": "Kan een persoonlijke interpretatie van personages in een werk toelichten: hun psychologische/emotionele staat, de motieven voor hun handelingen en de consequenties van deze handelingen.",
+		"id": "4df8686f-c43e-4aae-b1ce-cb9963936886",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan in detail zijn of haar persoonlijke interpretatie van een werk beschrijven en zijn of haar reacties op bepaalde kenmerken toelichten en het belang daarvan uitleggen.",
-		"id": "b0589947-eb3c-4fb4-838a-19f23b91e8db"
+		"title": "Kan in detail een persoonlijke interpretatie van een werk beschrijven en zijn of haar reacties op bepaalde kenmerken toelichten en het belang daarvan uitleggen.",
+		"id": "b0589947-eb3c-4fb4-838a-19f23b91e8db",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Geen descriptoren beschikbaar: zie C1.",
+		"title": "Geen descriptoren beschikbaar, zie C1.",
 		"isempty": true,
-		"id": "2c73eabf-34e8-4e7e-9595-626bb70ae64e"
+		"id": "2c73eabf-34e8-4e7e-9595-626bb70ae64e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
