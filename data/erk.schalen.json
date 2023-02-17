@@ -652,19 +652,12 @@
 			"df5a5fbc-3160-410b-8226-1fb6e96e95c9",
 			"ca6cd51a-f84a-42af-97f3-727eac935807",
 			"23a8d168-f8db-4693-afa7-e46c1ab249f2",
-			"c3a33e7f-bb54-40d0-b4bc-e2f5201a2535",
-			"9d67170e-f684-4c40-924a-4c27fd3bce99",
-			"d6b3b755-2dc3-4d5a-a2a3-70ded33e0eed",
-			"b4363969-441b-4f26-b35a-ae36947186da",
-			"e4ea4d9e-0307-40c5-bd51-ddc5604ffcb0",
-			"32dd56ec-7188-4e64-8ed6-5caf63bbb27a",
-			"57265efe-ac25-4e52-b8ed-d970b928bd7e",
-			"9c2527c0-dd36-49d0-a664-3903d0561ebb",
-			"26c46aab-a8fc-4344-aab0-629a737f7215",
-			"4eeb0a15-7980-413c-84d0-c24bdb8bb89a"
+			"c3a33e7f-bb54-40d0-b4bc-e2f5201a2535"
 		],
 		"title": "Een geschreven tekst mondeling vertalen",
-		"id": "c7fc2181-3edb-43ff-9302-4477cc6de76e"
+		"id": "c7fc2181-3edb-43ff-9302-4477cc6de76e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
