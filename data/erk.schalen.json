@@ -548,8 +548,10 @@
 			"528570a1-ddd1-4b6c-84a1-432feb66b836",
 			"4454dc3b-8d92-4d4b-82c3-41d1b19253c2"
 		],
-		"title": "Specifieke informatie mondeling doorgeven",
-		"id": "3c802231-529e-4d76-9aab-40eae8225fe8"
+		"title": "Specifieke informatie schriftelijk doorgeven",
+		"id": "3c802231-529e-4d76-9aab-40eae8225fe8",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
