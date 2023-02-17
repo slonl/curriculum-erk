@@ -1906,5 +1906,11 @@
 		],
 		"title": "Vragen om opheldering",
 		"id": "5c6520f8-39cd-40e8-8b88-0d7554ec85b7"
+	},
+	{
+		"id": "a14a5054-9279-4da8-b56e-64e64fec6e69",
+		"prefix": "",
+		"title": "Een geschreven tekst schriftelijk vertalen.",
+		"description": ""
 	}
 ]
