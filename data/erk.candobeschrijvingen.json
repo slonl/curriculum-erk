@@ -1971,15 +1971,19 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan (in taal B) eenvoudige, voorspelbare informatie over tijden en plaatsen overbrengen die is gegeven in korte, eenvoudige verklaringen (gesproken in taal A).",
-		"id": "2c957225-5956-446d-a2e9-6fb98b7ee191"
+		"title": "Kan (in taal B) eenvoudige, voorspelbare informatie over tijden en plaatsen overbrengen die is gegeven in korte, eenvoudige verklaringen (gegeven in taal A).",
+		"id": "2c957225-5956-446d-a2e9-6fb98b7ee191",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan (in taal B) op een eenvoudige manier een reeks korte, eenvoudige instructies overbrengen, mits de originele informatie (in taal A) duidelijk en langzaam gearticuleerd is uitgesproken.",
-		"id": "c08babc8-43fc-4b78-af1e-8da7a14bc20f"
+		"title": "Kan (in taal B) op een eenvoudige manier een reeks korte, eenvoudige instructies overbrengen, mits de originele informatie (in taal A) duidelijk en langzaam gearticuleerd wordt.",
+		"id": "c08babc8-43fc-4b78-af1e-8da7a14bc20f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1992,22 +1996,28 @@
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan (in taal B) specifieke, relevante informatie overbrengen uit korte, eenvoudige teksten, etiketten en mededelingen (in taal A) over vertrouwde onderwerpen.",
-		"id": "512b23aa-c940-4040-a339-0e7bbc06e065"
+		"title": "Kan (in taal B) specifieke, relevante informatie overbrengen uit korte, eenvoudige teksten, etiketten en kennisgevingen (in taal A) over vertrouwde onderwerpen.",
+		"id": "512b23aa-c940-4040-a339-0e7bbc06e065",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan (in taal B) het punt overbrengen dat wordt gemaakt in duidelijke gesproken mededelingen (in taal A) met betrekking tot vertrouwde alledaagse onderwerpen, al zal hij of zij de boodschap moeten vereenvoudigen en naar woorden moeten zoeken.",
-		"id": "2a499d8b-6be8-44db-87ad-be93207b7fd8"
+		"title": "Kan (in taal B) het punt overbrengen dat wordt gemaakt in duidelijke mededelingen (in taal A) met betrekking tot vertrouwde alledaagse onderwerpen, al zal nodig zijn de boodschap te vereenvoudigen en naar woorden te zoeken.",
+		"id": "2a499d8b-6be8-44db-87ad-be93207b7fd8",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan (in taal B) specifieke informatie overbrengen die is gegeven in directe informatieve teksten (zoals folders, brochures, mededelingen en brieven of e-mails) (geschreven in taal A).",
-		"id": "543ea061-7229-4d00-b99f-e6dd372da846"
+		"title": "Kan (in taal B) specifieke informatie overbrengen die is gegeven in directe informatieve teksten (bijvoorbeeld folders, procedures, kennisgevingen en brieven of e-mails) (in taal A).",
+		"id": "543ea061-7229-4d00-b99f-e6dd372da846",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -2020,37 +2030,47 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan (in taal B) de inhoud overbrengen van openbare mededelingen en berichten die op normale snelheid zijn uitgesproken in heldere standaardtaal (in taal A).",
-		"id": "4d2bffdd-0bc2-4e19-8405-dc66fa98f402"
+		"title": "Kan (in taal B) de inhoud van duidelijke openbare mededelingen en berichten (in taal A) overbrengen. ",
+		"id": "4d2bffdd-0bc2-4e19-8405-dc66fa98f402",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan (in taal B) het belangrijkste punt of de belangrijkste punten overbrengen van formele correspondentie en/of verslagen over algemene onderwerpen en over onderwerpen met betrekking tot zijn of haar interessegebieden (geschreven in taal A).",
-		"id": "33b8bd7d-0983-42fb-a4ad-303479b32a73"
+		"title": "Kan (in taal B) het belangrijkste punt of de belangrijkste punten overbrengen van formele correspondentie en/of verslagen (in taal A) over algemene onderwerpen en over onderwerpen met betrekking tot de eigen interessegebieden.",
+		"id": "33b8bd7d-0983-42fb-a4ad-303479b32a73",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan (in taal B) overbrengen welke presentaties die zijn gegeven (in taal A) tijdens een conferentie, of welke artikelen in een boek (geschreven in taal A) in het bijzonder relevant zijn voor een specifiek doel.",
-		"id": "626745f6-267e-4e96-8509-d382dd7327fa"
+		"title": "Kan (in taal B) overbrengen welke presentaties die zijn gegeven (in taal A) tijdens een conferentie, welke artikelen in een boek (in taal A) in het bijzonder relevant zijn voor een specifiek doel.",
+		"id": "626745f6-267e-4e96-8509-d382dd7327fa",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan (in taal B) de relevantie uitleggen van specifieke informatie in een bepaald deel van een lange, complexe tekst (geschreven in taal A).",
-		"id": "cd51029e-b98a-4238-939e-2ccf9b17103a"
+		"title": "Kan (in taal B) het belang uitleggen van specifieke informatie in een bepaald deel van een lange, complexe tekst (in taal A).",
+		"id": "cd51029e-b98a-4238-939e-2ccf9b17103a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Geen descriptoren beschikbaar: zie C1.",
+		"title": "Geen descriptoren beschikbaar, zie C1.",
 		"isempty": true,
-		"id": "e169e505-d00e-4857-a674-4141f1a0396e"
+		"id": "e169e505-d00e-4857-a674-4141f1a0396e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
