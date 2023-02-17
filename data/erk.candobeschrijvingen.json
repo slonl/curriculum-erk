@@ -2600,15 +2600,19 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan afzonderlijke woorden en korte teksten in standaard afgedrukt formaat overschrijven.",
-		"id": "6c4574b8-b80f-458e-beba-6849b5d4c09d"
+		"title": "Kan losse woorden en korte teksten overschrijven die in gewone gedrukte vorm worden aangeboden.",
+		"id": "6c4574b8-b80f-458e-beba-6849b5d4c09d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan, met behulp van een woordenboek, (in taal B) de betekenis van eenvoudige frasen (geschreven in taal A) weergeven.",
-		"id": "ce399533-8335-496f-89ea-bd3863b3dfe6"
+		"title": "Kan, met behulp van een woordenboek, (in taal B) de betekenis van eenvoudige zinnen (in taal A) weergeven, die gaan over bekende en alledaagse onderwerpen.",
+		"id": "ce399533-8335-496f-89ea-bd3863b3dfe6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -2621,22 +2625,28 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan eenvoudige taal gebruiken om (in taal B) zeer korte teksten (geschreven in taal A) over vertrouwde en alledaagse thema's die zijn opgebouwd uit de meest voorkomende woorden weer te geven; ondanks fouten blijft de tekst begrijpelijk.",
-		"id": "79a358e3-fc98-4320-9860-ebcffabf1223"
+		"title": "Kan eenvoudige taal gebruiken om (in taal B) zeer korte teksten (in taal A) over vertrouwde en alledaagse thema's die zijn opgebouwd uit de meest voorkomende woorden weer te geven; ondanks fouten blijft de tekst begrijpelijk.",
+		"id": "79a358e3-fc98-4320-9860-ebcffabf1223",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan sleutelwoorden en frasen of korte zinnen oppikken en reproduceren uit een korte tekst binnen de beperkte competentie en ervaring van de leerder .",
-		"id": "37cfbe22-37ed-4f9a-9717-1953ef5dc23e"
+		"title": "Kan uit een korte tekst binnen de beperkte competentie en ervaring van de leerder sleutelwoorden en frasen of korte zinnen oppikken en reproduceren.",
+		"id": "37cfbe22-37ed-4f9a-9717-1953ef5dc23e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan (in taal B) de relevante informatie uit korte, eenvoudige teksten (in taal A) opsommen als een lijst punten, mits de betreffende teksten over concrete, vertrouwde onderwerpen gaan en zijn geschreven in eenvoudige alledaagse taal.",
-		"id": "e36b3f9c-f74b-4059-8d95-8043bad2c447"
+		"title": "Kan (in taal B) de relevante informatie uit korte, eenvoudige teksten (in taal A) opsommen als een lijst punten, mits de betreffende teksten over concrete, vertrouwde onderwerpen gaan en alleen eenvoudige alledaagse taal bevatten.",
+		"id": "e36b3f9c-f74b-4059-8d95-8043bad2c447",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -2649,8 +2659,10 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan (in taal B) de belangrijkste punten in eenduidige informatieve mondelinge en schriftelijke teksten (in taal A) over onderwerpen van persoonlijk of actueel belang samenvatten, mits mondelinge teksten duidelijk gearticuleerd worden.",
-		"id": "0f48364f-409a-492a-b780-4c1e33670fad"
+		"title": "Kan (in taal B) de belangrijkste punten in eenduidige informatieve teksten (in taal A) over onderwerpen van persoonlijk of actueel belang samenvatten, mits mondelinge teksten duidelijk gearticuleerd worden.",
+		"id": "0f48364f-409a-492a-b780-4c1e33670fad",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -2663,43 +2675,55 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan schriftelijk (in taal B) de belangrijkste inhoud van complexe mondelinge en schriftelijke teksten (in taal A) over onderwerpen binnen zijn of haar interesse- en specialisatiegebieden samenvatten.",
-		"id": "56661f4d-3b8a-4928-befc-753a68e933a6"
+		"title": "Kan schriftelijk (in taal B) de belangrijkste inhoud van complexe teksten (in taal A) over onderwerpen binnen de eigen interesse- en specialisatiegebieden samenvatten.",
+		"id": "56661f4d-3b8a-4928-befc-753a68e933a6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan (in taal B) schriftelijk de standpunten in een complexe tekst (in taal A) uitleggen en zijn of haar conclusies ondersteunen door te verwijzen naar specifieke informatie in het origineel.",
-		"id": "40a53e3c-b075-4d42-a67f-61ed459aee8d"
+		"title": "Kan (in taal B) schriftelijk de standpunten in een complexe tekst (in taal A) uitleggen en eigen conclusies ondersteunen door te verwijzen naar specifieke informatie in het origineel.",
+		"id": "40a53e3c-b075-4d42-a67f-61ed459aee8d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan (in taal B) de informatie en standpunten in academische en professionele publicaties (in taal A) in zijn of haar speciale interessegebieden vergelijken, tegenover elkaar zetten en synthetiseren.",
-		"id": "0210dd61-970d-4027-bbe7-eefb7c492d62"
+		"title": "Kan (in taal B) de informatie en standpunten in academische en professionele publicaties (in taal A) in de eigen speciale interessegebieden vergelijken, tegenover elkaar zetten en synthetiseren.",
+		"id": "0210dd61-970d-4027-bbe7-eefb7c492d62",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan schriftelijk (in taal B) de belangrijkste inhoud van goed gestructureerde maar inhoudelijk complexe mondelinge en schriftelijke teksten (in taal A) over onderwerpen binnen zijn of haar professionele, academische en persoonlijke interessegebieden samenvatten.",
-		"id": "2760748a-670b-425b-a0f5-8061df52a955"
+		"title": "Kan schriftelijk (in taal B) de belangrijkste inhoud van goed gestructureerde maar inhoudelijk complexe teksten (in taal A) over onderwerpen binnen de eigen professionele, academische en persoonlijke interessegebieden samenvatten.",
+		"id": "2760748a-670b-425b-a0f5-8061df52a955",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
 		"title": "Kan schriftelijk een lange en complexe tekst (in taal A) samenvatten (bijvoorbeeld een academisch artikel of een artikel met een politieke analyse, uittreksel van een roman, redactioneel artikel, literaire recensie, verslag of uittreksel van een wetenschappelijk boek) voor een specifiek publiek en daarbij de stijl en het register van het origineel respecteren.",
-		"id": "6a3f3f81-ab64-4881-b606-183b02b94c3b"
+		"id": "6a3f3f81-ab64-4881-b606-183b02b94c3b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan (in taal B) schriftelijk lange, complexe teksten (geschreven in taal A) samenvatten en de inhoud op de juiste manier interpreteren, mits hij of zij af en toe de precieze betekenis van ongebruikelijke technische termen kan controleren.",
-		"id": "3fa78d9f-b8b8-4df8-877f-95842c6348ea"
+		"title": "Kan (in taal B) schriftelijk lange, complexe teksten (in taal A) samenvatten en de inhoud op de juiste manier interpreteren, als het mogelijk is om af en toe de precieze betekenis van ongebruikelijke technische termen te controleren.",
+		"id": "3fa78d9f-b8b8-4df8-877f-95842c6348ea",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -2712,8 +2736,10 @@
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan (in taal B) schriftelijk uitleggen hoe feiten en argumenten zijn gepresenteerd in een tekst (in taal A), in het bijzonder als er verslag wordt gedaan van het standpunt van iemand anders, en kan daarbij de aandacht vestigen op het gebruik van understatement, verhulde kritiek, ironie en sarcasme door de schrijver.",
-		"id": "2f98f36d-cd1f-4e78-adda-3903356dd3e1"
+		"title": "Kan (in taal B) schriftelijk uitleggen hoe feiten en argumenten zijn gepresenteerd in een tekst (in taal A), in het bijzonder als er verslag wordt gedaan van het standpunt van iemand anders, en daarbij de aandacht vestigen op het gebruik van understatement, verhulde kritiek, ironie en sarcasme.",
+		"id": "2f98f36d-cd1f-4e78-adda-3903356dd3e1",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
