@@ -2076,15 +2076,19 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan (in taal B) een overzicht geven van namen, getallen, prijzen en zeer eenvoudige informatie uit teksten van direct belang (in taal A) die zijn geschreven in zeer eenvoudige taal en illustraties bevatten.",
-		"id": "52422b2b-c838-42a7-9d65-e922ed4d5373"
+		"title": "Kan (in taal B) een overzicht geven van namen, getallen, prijzen en zeer eenvoudige informatie uit teksten van direct belang (in taal A) die zijn geformuleerd in zeer eenvoudige taal en illustraties bevatten.",
+		"id": "52422b2b-c838-42a7-9d65-e922ed4d5373",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan (in taal B) een overzicht geven van namen, getallen, prijzen en zeer eenvoudige mondelinge informatie van direct belang (in taal A), mits de spreker zeer langzaam en duidelijk articuleert, met herhaling.",
-		"id": "fafef92c-797d-4ce3-ad68-0b99e198e10a"
+		"title": "Kan (in taal B) een overzicht geven van namen, getallen, prijzen en zeer eenvoudige informatie van direct belang in gesproken teksten (gegeven in taal A), mits er zeer langzaam en duidelijk en met herhaling wordt gearticuleerd.\n",
+		"id": "fafef92c-797d-4ce3-ad68-0b99e198e10a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -2097,22 +2101,28 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan (in taal B) een overzicht geven van de belangrijkste punten van korte, duidelijke, eenvoudige berichten en mededelingen (in taal A), mits er duidelijk wordt gesproken en langzaam wordt gearticuleerd.",
-		"id": "79f8ce36-2c53-4a69-95e9-9ed5d6444ed7"
+		"title": "Kan (in taal B) een overzicht geven van de belangrijkste punten van korte, duidelijke, eenvoudige berichten en kennisgevingen (in taal A), mits ze duidelijk en langzaam gearticuleerd worden.",
+		"id": "79f8ce36-2c53-4a69-95e9-9ed5d6444ed7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan (in taal B) schriftelijk specifieke informatie overbrengen uit korte, eenvoudige informatieve teksten (in taal A), mits de betreffende teksten over concrete, vertrouwde onderwerpen gaan en zijn geschreven in eenvoudige alledaagse taal.",
-		"id": "8d8e7044-ad65-4345-b8bb-fc9d127a4cd1"
+		"title": "Kan (in taal B) schriftelijk specifieke, relevante informatie overbrengen uit korte, eenvoudige informatieve teksten (in taal A), mits de betreffende teksten over concrete, vertrouwde onderwerpen gaan en zijn geformuleerd in eenvoudige alledaagse taal.",
+		"id": "8d8e7044-ad65-4345-b8bb-fc9d127a4cd1",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan (in taal B) schriftelijk specifieke informatie overbrengen uit een eenduidige opgenomen boodschap (achtergelaten in taal A), mits de onderwerpen vertrouwd zijn en er langzaam en duidelijk wordt gesproken.",
-		"id": "fda151b2-2743-46f0-b6c1-daf9e156ae7e"
+		"title": "Kan (in taal B) schriftelijk specifieke informatie overbrengen uit een eenduidige opgenomen boodschap (achtergelaten in taal A), mits de onderwerpen vertrouwd zijn en ze langzaam en duidelijk worden overgebracht.",
+		"id": "fda151b2-2743-46f0-b6c1-daf9e156ae7e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -2125,15 +2135,19 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan (in taal B) schriftelijk specifieke informatie overbrengen uit teksten (in taal A) over vertrouwde onderwerpen (bijvoorbeeld telefoongesprekken, mededelingen en instructies).",
-		"id": "6888ad5a-4baf-43e2-bacd-5c2527ec3cd4"
+		"title": "Kan (in taal B) schriftelijk specifieke, relevante informatie overbrengen uit teksten (in taal A) over vertrouwde onderwerpen (bijvoorbeeld telefoongesprekken, mededelingen en instructies).",
+		"id": "6888ad5a-4baf-43e2-bacd-5c2527ec3cd4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan schriftelijk het belangrijke punt of de belangrijke punten in formele correspondentie (in taal A) overbrengen.",
-		"id": "9ab93e3c-eb17-4f1d-8a2b-b9e40f7ce0fe"
+		"title": "Kan (in taal B) schriftelijk het belangrijke punt of de belangrijke punten in formele correspondentie (in taal A) overbrengen.",
+		"id": "9ab93e3c-eb17-4f1d-8a2b-b9e40f7ce0fe",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -2146,15 +2160,19 @@
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan (in taal B) schriftelijk het belangrijkste punt of de belangrijkste punten overbrengen in een artikel (geschreven in taal A) in een academisch tijdschrift of vakblad.",
-		"id": "9019e031-3833-427f-b7fc-04356185dffa"
+		"title": "Kan (in taal B) schriftelijk het belangrijkste punt of de belangrijkste punten overbrengen in een artikel (in taal A) in een academisch tijdschrift of vakblad.\n",
+		"id": "9019e031-3833-427f-b7fc-04356185dffa",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan (in taal B) schriftelijk het belangrijkste punt of de belangrijkste punten overbrengen in inhoudelijk complexe, maar goed gestructureerde teksten in zijn of haar professionele, academische en persoonlijke interessegebied (in taal A).",
-		"id": "29a1515b-22f6-47b0-945e-b7818e7a3b76"
+		"title": "Kan (in taal B) schriftelijk het belangrijkste punt of de belangrijkste punten overbrengen in inhoudelijk complexe, maar goed gestructureerde teksten (in taal A) in het eigen professionele, academische en persoonlijke interessegebied.",
+		"id": "29a1515b-22f6-47b0-945e-b7818e7a3b76",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -2167,17 +2185,21 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Geen descriptoren beschikbaar: zie B2.",
+		"title": "Geen descriptoren beschikbaar, zie B2.",
 		"isempty": true,
-		"id": "528570a1-ddd1-4b6c-84a1-432feb66b836"
+		"id": "528570a1-ddd1-4b6c-84a1-432feb66b836",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Geen descriptoren beschikbaar: zie B2.",
+		"title": "Geen descriptoren beschikbaar, zie B2.",
 		"isempty": true,
-		"id": "4454dc3b-8d92-4d4b-82c3-41d1b19253c2"
+		"id": "4454dc3b-8d92-4d4b-82c3-41d1b19253c2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -2207,29 +2229,37 @@
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan (in taal B) eenvoudige visuele weergaven over vertrouwde onderwerpen (bijvoorbeeld een weerkaart, een elementair stroomdiagram) (met tekst in taal A) interpreteren en beschrijven, hoewel pauzes, valse starts en herformulering heel merkbaar kunnen zijn.",
-		"id": "43df3186-f5a9-4013-9042-be9d7e1028b1"
+		"title": "Kan (in taal B) eenvoudige visuele weergaven over vertrouwde onderwerpen (bijvoorbeeld een weerkaart, een elementair stroomdiagram) (met tekst in taal A) interpreteren en beschrijven, hoewel pauzes, valse starts en herformuleringen duidelijk voor kunnen komen.\n",
+		"id": "43df3186-f5a9-4013-9042-be9d7e1028b1",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan (in taal B) algemene trends interpreteren en beschrijven die zijn weergegeven in eenvoudige diagrammen (bijvoorbeeld grafieken, staafdiagrammen) (met tekst in taal A), hoewel lexicale beperkingen het formuleren soms bemoeilijken.",
-		"id": "89c61568-7d20-47e7-b7d8-07d45fb2061c"
+		"title": "Kan (in taal B) algemene trends, die zijn weergegeven in eenvoudige diagrammen (bijvoorbeeld grafieken, staafdiagrammen) (met tekst in taal A) interpreteren en beschrijven, hoewel lexicale beperkingen het formuleren soms bemoeilijken.",
+		"id": "89c61568-7d20-47e7-b7d8-07d45fb2061c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan (in taal B) gedetailleerde informatie in diagrammen (met tekst in taal A) over onderwerpen in zijn of haar interessegebieden interpreteren en beschrijven, hoewel lexicale hiaten kunnen zorgen voor aarzeling of onnauwkeurige formulering.",
-		"id": "9f89f507-3b5d-4386-9a4c-fa8c66e7804d"
+		"title": "Kan (in taal B) gedetailleerde informatie in diagrammen (met tekst in taal A) over onderwerpen in de eigen interessegebieden interpreteren en beschrijven, hoewel lexicale hiaten kunnen zorgen voor aarzeling of onnauwkeurige formulering.",
+		"id": "9f89f507-3b5d-4386-9a4c-fa8c66e7804d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan betrouwbaar (in taal B) gedetailleerde informatie in complexe diagrammen, grafieken en andere visueel geordende informatie (met tekst in taal A) over onderwerpen in zijn of haar interessegebieden interpreteren en beschrijven.",
-		"id": "3e57540c-2817-40d5-b487-a723494effd2"
+		"title": "Kan betrouwbaar (in taal B) gedetailleerde informatie in complexe diagrammen, grafieken en andere visueel geordende informatie (met tekst in taal A) over onderwerpen in het eigen interessegebieden interpreteren en beschrijven.",
+		"id": "3e57540c-2817-40d5-b487-a723494effd2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -2242,8 +2272,10 @@
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan duidelijk en betrouwbaar (in taal B) verschillende vormen van empirische gegevens en visueel geordende informatie (met tekst in taal A) uit conceptueel complex onderzoek interpreteren en beschrijven met betrekking tot academische of professionele onderwerpen.",
-		"id": "b1cf19f9-fed7-4c63-a883-8d4e290f95b9"
+		"title": "Kan duidelijk en betrouwbaar (in taal B) verschillende vormen van empirische gegevens en visueel geordende informatie (met tekst in taal A) uit conceptueel complex onderzoek met betrekking tot academische of professionele onderwerpen interpreteren en beschrijven.",
+		"id": "b1cf19f9-fed7-4c63-a883-8d4e290f95b9",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
