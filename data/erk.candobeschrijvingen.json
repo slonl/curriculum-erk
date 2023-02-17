@@ -2753,64 +2753,82 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan een eenvoudige, ruwe mondelinge vertaling (in taal B) geven van eenvoudige alledaagse woorden en frasen (geschreven in taal A) die hij of zij tegenkomt op borden en mededelingen, posters, programma's, folders enzovoort.",
-		"id": "fdb270ae-322b-4200-ab71-593b7920f18a"
+		"title": "Kan een eenvoudige, ruwe mondelinge vertaling (naar taal B) geven van eenvoudige alledaagse woorden en zinnen (geschreven in taal A) op borden en kennisgevingen, posters, programma's, folders enzovoort.",
+		"id": "fdb270ae-322b-4200-ab71-593b7920f18a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan een eenvoudige, ruwe mondelinge vertaling (in taal B) geven van routine-informatie over vertrouwde alledaagse onderwerpen die is geschreven in eenvoudige zinnen (in taal A) (bijvoorbeeld persoonlijk nieuws, korte verhaaltjes, aanwijzingen, mededelingen en instructies).",
-		"id": "1cf8f22e-405e-4284-bab6-f4d75e55a9fc"
+		"title": "Kan een eenvoudige, ruwe mondelinge vertaling (naar taal B) geven van korte, eenvoudige teksten (bijvoorbeeld kennisgevingen over een vertrouwd onderwerp) (geschreven in taal A) en daarbij het meest essentiële punt overbrengen.",
+		"id": "1cf8f22e-405e-4284-bab6-f4d75e55a9fc",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan een eenvoudige, ruwe mondelinge vertaling (in taal B) geven van korte, eenvoudige teksten (bijvoorbeeld mededelingen over een vertrouwd onderwerp) (geschreven in taal A) en daarbij het meest essentiële punt overbrengen.",
-		"id": "12005822-1c57-4750-88c8-af163f35c9d9"
+		"title": "Kan een eenvoudige, ruwe mondelinge vertaling (naar taal B) geven van routine-informatie over vertrouwde alledaagse onderwerpen die is geschreven in eenvoudige zinnen (in taal A) (bijvoorbeeld persoonlijk nieuws, korte verhaaltjes, aanwijzingen, kennisgevingen en instructies).",
+		"id": "12005822-1c57-4750-88c8-af163f35c9d9",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan een approximatieve mondelinge vertaling (in taal B) geven van korte, eenvoudige alledaagse teksten (bijvoorbeeld brochureteksten, mededelingen, instructies, brieven of e-mails) (geschreven in taal A).",
-		"id": "158fb445-06b8-4d9f-876c-0bd9f76fe7bd"
+		"title": "Kan een globale mondelinge vertaling (naar taal B) geven van korte, eenvoudige alledaagse teksten (bijvoorbeeld brochureteksten, kennisgevingen, instructies, brieven of e-mails) (geschreven in taal A).",
+		"id": "158fb445-06b8-4d9f-876c-0bd9f76fe7bd",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan een approximatieve mondelinge vertaling (in taal B) geven van heldere, goed gestructureerde informatieve teksten (in taal A) over vertrouwde onderwerpen of onderwerpen waar hij of zij belangstelling voor heeft, hoewel hij of zij door lexicale beperkingen soms moeite heeft met formuleren.",
-		"id": "8a58b121-2534-4b8e-a635-7a7cba0c9eaf"
+		"title": "Kan een globale mondelinge vertaling (naar taal B) geven van heldere, goed gestructureerde informatieve teksten (geschreven in taal A) over vertrouwde onderwerpen of onderwerpen binnen de eigen belangstelling, hoewel lexicale beperkingen soms voor moeite bij het formuleren zorgen.",
+		"id": "8a58b121-2534-4b8e-a635-7a7cba0c9eaf",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan een mondelinge vertaling (in taal B) geven van teksten (in taal A) met informatie en argumenten over onderwerpen in zijn of haar professionele, academische en persoonlijke interessegebieden, mits ze zijn geschreven in ongecompliceerde standaardtaal.",
-		"id": "df5a5fbc-3160-410b-8226-1fb6e96e95c9"
+		"title": "Kan een mondelinge vertaling (naar taal B) geven van teksten (geschreven in taal A) met informatie en argumenten over onderwerpen in de eigen professionele, academische en persoonlijke interessegebieden, mits ze zijn geschreven in ongecompliceerde standaardtaal.",
+		"id": "df5a5fbc-3160-410b-8226-1fb6e96e95c9",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan een mondelinge vertaling (in taal B) geven van complexe teksten (in taal A) met informatie en argumenten over onderwerpen in zijn of haar professionele, academische en persoonlijke interessegebieden.",
-		"id": "ca6cd51a-f84a-42af-97f3-727eac935807"
+		"title": "Kan een mondelinge vertaling (naar taal B) geven van complexe teksten (geschreven in taal A) met informatie en argumenten over onderwerpen in de eigen professionele, academische en persoonlijke interessegebieden.",
+		"id": "ca6cd51a-f84a-42af-97f3-727eac935807",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan een vloeiende mondelinge vertaling (in taal B) geven van complexe teksten (in taal A) over uiteenlopende algemene en gespecialiseerde onderwerpen en daarbij de meeste nuances weergeven.",
-		"id": "23a8d168-f8db-4693-afa7-e46c1ab249f2"
+		"title": "Kan een vloeiende mondelinge vertaling (naar taal B) geven van complexe teksten (geschreven in taal A) over uiteenlopende algemene en gespecialiseerde onderwerpen en daarbij de meeste nuances weergeven.",
+		"id": "23a8d168-f8db-4693-afa7-e46c1ab249f2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan een vloeiende mondelinge vertaling (in taal B) geven van abstracte teksten (in taal A) over uiteenlopende onderwerpen van persoonlijk, academisch en professioneel belang en daarbij met succes evaluerende aspecten en argumenten overbrengen, met inbegrip van de bijbehorende nuances en implicaties.",
-		"id": "c3a33e7f-bb54-40d0-b4bc-e2f5201a2535"
+		"title": "Kan een vloeiende mondelinge vertaling (naar taal B) geven van abstracte teksten (geschreven in taal A) over uiteenlopende onderwerpen van persoonlijk, academisch en professioneel belang en daarbij met succes evaluerende aspecten en argumenten overbrengen, met inbegrip van de bijbehorende nuances en implicaties.",
+		"id": "c3a33e7f-bb54-40d0-b4bc-e2f5201a2535",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
