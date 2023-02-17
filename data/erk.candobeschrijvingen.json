@@ -2312,29 +2312,37 @@
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan (in taal B) schriftelijk de algemene trends interpreteren en presenteren die zijn weergegeven in eenvoudige diagrammen (bijvoorbeeld grafieken, staafdiagrammen) (met tekst in taal A) en daarbij de belangrijke punten in meer detail uitleggen, met behulp van een woordenboek of andere naslagwerken.",
-		"id": "3f8ab342-95e7-405a-8a6c-555d25af3e95"
+		"title": "Kan (in taal B) schriftelijk de algemene trends die zijn weergegeven in eenvoudige diagrammen (bijvoorbeeld grafieken, staafdiagrammen) (met tekst in taal A) interpreteren en presenteren en daarbij de belangrijke punten in meer detail uitleggen, met behulp van een woordenboek of andere naslagwerken.\n",
+		"id": "3f8ab342-95e7-405a-8a6c-555d25af3e95",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan betrouwbaar (in taal B) gedetailleerde informatie uit diagrammen en andere visueel geordende gegevens in zijn of haar interessegebieden (met tekst in taal A) schriftelijk interpreteren en presenteren.",
-		"id": "52b77261-eb11-4201-9385-1f896557203a"
+		"title": "Kan betrouwbaar schriftelijk (in taal B) gedetailleerde informatie uit diagrammen en andere visueel geordende gegevens in de eigen interessegebieden (met tekst in taal A) interpreteren en presenteren.",
+		"id": "52b77261-eb11-4201-9385-1f896557203a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan duidelijk en betrouwbaar (in taal B) de opvallende, relevante punten in complexe diagrammen en andere visueel geordende informatie (met tekst in taal A) over complexe academische of professionele onderwerpen schriftelijk interpreteren en presenteren.",
-		"id": "121c7fba-4865-4324-8036-5edeadbcacac"
+		"title": "Kan duidelijk en betrouwbaar schriftelijk (in taal B) de opvallende, relevante punten in complexe diagrammen en andere visueel geordende informatie (met tekst in taal A) over complexe academische of professionele onderwerpen interpreteren en presenteren.\n",
+		"id": "121c7fba-4865-4324-8036-5edeadbcacac",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan schriftelijk (in taal B) verschillende vormen van empirische gegevens (met tekst in taal A) uit conceptueel complex onderzoek  interpreteren en presenteren met betrekking tot academische of professionele onderwerpen.",
-		"id": "8e69bcb5-a53d-45cb-9ffb-f1f1ccf751dc"
+		"title": "Kan schriftelijk (in taal B) verschillende vormen van empirische gegevens (met tekst in taal A) uit conceptueel complex onderzoek  met betrekking tot academische of professionele onderwerpen interpreteren en presenteren.",
+		"id": "8e69bcb5-a53d-45cb-9ffb-f1f1ccf751dc",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -2348,15 +2356,19 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan (in taal B) eenvoudige, voorspelbare informatie overbrengen die wordt verstrekt op korte, zeer eenvoudige borden en mededelingen, posters en programma's (in taal A).",
-		"id": "7a5344a9-55ce-456e-b119-f31f317a0669"
+		"title": "Kan (in taal B) eenvoudige, voorspelbare informatie van direct belang overbrengen die wordt verstrekt op korte, zeer eenvoudige borden en kennisgevingen, posters en programma's (in taal A).",
+		"id": "7a5344a9-55ce-456e-b119-f31f317a0669",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan (in taal B) het belangrijkste punt of de belangrijkste punten in duidelijk gestructureerde, korte, eenvoudige mondelinge en schriftelijke teksten (in taal A) overbrengen en daarbij zijn of haar beperkte repertoire aanvullen met andere middelen (bijvoorbeeld gebaren, tekeningen, woorden uit andere talen).",
-		"id": "b09dbcae-5f9a-48e8-81c7-49e6b9c58b33"
+		"title": "Kan (in taal B) het belangrijkste punt of de belangrijkste punten in duidelijk gestructureerde, korte, eenvoudige teksten (in taal A) overbrengen en het eigen beperkte repertoire aanvullen met andere middelen (bijvoorbeeld gebaren, tekeningen, woorden uit andere talen).",
+		"id": "b09dbcae-5f9a-48e8-81c7-49e6b9c58b33",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -2369,50 +2381,64 @@
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan in eenvoudige zinnen (in taal B) verslag doen van de informatie in duidelijk gestructureerde, korte, eenvoudige teksten (geschreven in taal A) die voorzien zijn van illustraties of tabellen.",
-		"id": "b9a14d83-42ec-4513-98da-50fce5c8aa9d"
+		"title": "Kan in eenvoudige zinnen (in taal B) verslag doen van de informatie in duidelijk gestructureerde, korte, eenvoudige teksten (in taal A) die voorzien zijn van illustraties of tabellen.",
+		"id": "b9a14d83-42ec-4513-98da-50fce5c8aa9d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan (in taal B) verslag doen van de belangrijkste punten in eenvoudige nieuwsberichten op televisie of radio (in taal A) over evenementen, sport, ongevallen enzovoort, mits de onderwerpen vertrouwd zijn en er langzaam en duidelijk wordt gesproken.",
-		"id": "ff94421e-c08a-44e3-95a5-00375d496a7a"
+		"title": "Kan (in taal B) verslag doen van de belangrijkste punten in eenvoudige nieuwsberichten op televisie of radio (in taal A) over evenementen, sport, ongelukken enzovoort, mits de onderwerpen vertrouwd zijn en langzaam en duidelijk worden overgebracht.",
+		"id": "ff94421e-c08a-44e3-95a5-00375d496a7a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan (in taal B) de belangrijkste punten of gebeurtenissen in televisieprogramma's en videoclips (in taal A) samenvatten, mits hij of zij meerdere keren kan kijken.",
-		"id": "95528907-c115-479d-9643-b0512189445c"
+		"title": "Kan (in taal B) de belangrijkste punten of gebeurtenissen in televisieprogramma's en videoclips (in taal A) samenvatten, als het mogelijk is om meerdere keren te kijken.",
+		"id": "95528907-c115-479d-9643-b0512189445c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan (in taal B) de belangrijkste punten in lange mondelinge teksten (in taal A) over onderwerpen binnen zijn of haar belangstellingssfeer samenvatten, mits hij of zij meerdere keren kan luisteren of kijken.",
-		"id": "5e7bb9a2-3aa6-4ce3-8948-e40556e77f4d"
+		"title": "Kan (in taal B) de belangrijkste punten in lange mondelinge teksten (in taal A) over onderwerpen binnen de eigen belangstellingssfeer samenvatten, als het mogelijk is om meerdere keren te luisteren of te kijken.",
+		"id": "5e7bb9a2-3aa6-4ce3-8948-e40556e77f4d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan (in taal B) de belangrijkste punten samenvatten van een gesprek (in taal A) over een onderwerp van persoonlijk of actueel belang, mits de sprekers duidelijk articuleren.",
-		"id": "b1982910-a4d9-438f-8f8a-add8f7bb65ac"
+		"title": "Kan (in taal B) de belangrijkste punten samenvatten van een gesprek (in taal A) over een onderwerp van persoonlijk of actueel belang, mits mensen duidelijk articuleren.",
+		"id": "b1982910-a4d9-438f-8f8a-add8f7bb65ac",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan (in taal B) eenvoudig de belangrijkste informatie-inhoud van eenduidige teksten (in taal A) over vertrouwde onderwerpen samenvatten (bijvoorbeeld een kort verslag van een interview, een tijdschriftartikel, een reisbrochure).",
-		"id": "b9b60d28-1a1b-4c09-96d1-66ca1ed53c4c"
+		"title": "Kan (in taal B) eenvoudig de belangrijkste informatie-inhoud van eenduidige teksten (in taal A) over vertrouwde onderwerpen samenvatten (bijvoorbeeld een opname van een interview, tijdschriftartikel, reisbrochure).",
+		"id": "b9b60d28-1a1b-4c09-96d1-66ca1ed53c4c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan (in taal B) de belangrijkste punten samenvatten in heldere, goed gestructureerde mondelinge en schriftelijke teksten (in taal A) over vertrouwde onderwerpen of onderwerpen waar hij of zij belangstelling voor heeft, hoewel hij of zij door lexicale beperkingen soms moeite heeft met formuleren.",
-		"id": "64b201b4-a734-49ab-99ba-3d535441f252"
+		"title": "Kan (in taal B) de belangrijkste punten  in heldere, goed gestructureerde teksten (in taal A) over vertrouwde onderwerpen of onderwerpen binnen de eigen belangstelling samenvatten, hoewel lexicale beperkingen soms moeite bij het formuleren kunnen veroorzaken.",
+		"id": "64b201b4-a734-49ab-99ba-3d535441f252",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -2432,8 +2458,10 @@
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan (in taal B) de belangrijkste punten in lange teksten (in taal A) over onderwerpen binnen zijn of haar interessegebied samenvatten, mits hij of zij de betekenis van bepaalde uitdrukkingen kan controleren.",
-		"id": "1f7b9708-2445-4a31-bbde-8b64120d63dc"
+		"title": "Kan (in taal B) de belangrijkste punten in lange teksten (in taal A) over onderwerpen binnen de eigen belangstellingssfeer samenvatten, mits het mogelijk is om de betekenis van bepaalde uitdrukkingen te controleren.",
+		"id": "1f7b9708-2445-4a31-bbde-8b64120d63dc",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -2446,22 +2474,28 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan (in taal B) hoofdpunten van nieuwsberichten, vraaggesprekken of documentaires (in taal A) samenvatten, met meningen, argumenten en discussiepunten.",
-		"id": "4ae52a12-f380-42ad-849d-5a1d7abc228d"
+		"title": "Kan (in taal B) hoofdpunten van nieuwsberichten, vraaggesprekken of documentaires (in taal A) samenvatten, die meningen, argumenten en discussiepunten bevatten.",
+		"id": "4ae52a12-f380-42ad-849d-5a1d7abc228d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan de doelgroep herkennen van een mondelinge of schriftelijke tekst (in taal A) over een belangwekkend onderwerp en uitleggen (in taal B) wat het doel, de houding en de mening van de auteur zijn.",
-		"id": "51a8c5b8-e4fe-4b47-aa63-504a0835d989"
+		"title": "Kan de doelgroep herkennen van een tekst (in taal A) over een belangwekkend onderwerp en uitleggen (in taal B) wat het doel, de houding en de mening van de auteur is.",
+		"id": "51a8c5b8-e4fe-4b47-aa63-504a0835d989",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan (in taal B) de belangrijke punten samenvatten die worden gemaakt in langere mondelinge en schriftelijke complexe teksten (in taal A) over onderwerpen van actueel belang, waaronder zijn of haar bijzondere interessegebieden.",
-		"id": "0014a3c3-16ea-4541-a992-3af6d9ed975b"
+		"title": "Kan (in taal B) de belangrijke punten samenvatten die worden gemaakt in langere complexe teksten (in taal A) over onderwerpen van actueel belang, waaronder de eigen bijzondere interessegebieden.",
+		"id": "0014a3c3-16ea-4541-a992-3af6d9ed975b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -2474,8 +2508,10 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan (in taal B) informatie en argumenten uit verschillende mondelinge en/of schriftelijke bronnen bijeenvoegen (in taal A).",
-		"id": "4d090bf5-9116-42d5-92fc-5949568450b7"
+		"title": "Kan (in taal B) informatie en argumenten uit verschillende bronnen samenbrengen(in taal A).",
+		"id": "4d090bf5-9116-42d5-92fc-5949568450b7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -2488,22 +2524,28 @@
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan (in taal B) duidelijk en in goed gestructureerde taal de informatie en argumenten samenvatten uit complexte teksten (in taal A) over een breed scala van onderwerpen met betrekking tot zijn of haar interessegebieden.",
-		"id": "63925b08-f789-42b4-9a67-43117df0b19b"
+		"title": "Kan in duidelijke en goed gestructureerde taal (in taal B)de informatie en argumenten uit een complexte tekst (in taal A) samenvatten die gaat over een breed scala aan onderwerpen gerelateerd aan de eigen interesse- en specialisatiegebieden.",
+		"id": "63925b08-f789-42b4-9a67-43117df0b19b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan (in taal B) de houding of mening die wordt uitgedrukt in een mondelinge of schriftelijke tekst (in taal A) over een specialistisch onderwerp uitleggen en zijn of haar gevolgtrekkingen ondersteunen door te verwijzen naar specifieke passages in het origineel.",
-		"id": "d81c9ce6-d911-4491-9999-eabbc9bea14e"
+		"title": "Kan (in taal B) de houding of mening die wordt uitgedrukt in een tekst (in taal A) over een specialistisch onderwerp uitleggen en eigen gevolgtrekkingen ondersteunen door te verwijzen naar specifieke passages in het origineel.",
+		"id": "d81c9ce6-d911-4491-9999-eabbc9bea14e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan gebruikmaken van informatie en argumenten uit een complexe mondelinge of schriftelijke tekst (in taal A) om een onderwerp te bespreken (in taal B), evaluerende opmerkingen toe te voegen, zijn of haar mening te geven enzovoort.",
-		"id": "001f4a75-f3d6-4842-a2f2-1526b995afb8"
+		"title": "Kan gebruikmaken van informatie en argumenten uit een complexe tekst (in taal A) om over een onderwerp te discussiëren (in taal B), evaluerende opmerkingen toe te voegen, een mening te geven enzovoort.",
+		"id": "001f4a75-f3d6-4842-a2f2-1526b995afb8",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -2516,15 +2558,19 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan (in taal B) duidelijk en in goed gestructureerde taal de hoofdpunten van complexe mondelinge en schriftelijke teksten (in taal A) in andere specialisatiegebieden dan die van zichzelf samenvatten, hoewel hij of zij mogelijk af en toe bepaalde technische concepten moet controleren.",
-		"id": "8597f05f-1d14-4c50-99b2-590302b143d2"
+		"title": "Kan (in taal B) duidelijk en in goed gestructureerde taal de hoofdpunten van complexe teksten (in taal A) in andere specialisatiegebieden dan die van zichzelf samenvatten, na het eventueel controleren van bepaalde technische concepten.",
+		"id": "8597f05f-1d14-4c50-99b2-590302b143d2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan (in taal B) een discussie (in taal A) over zaken binnen zijn of haar academische of professionele vakgebied samenvatten, verschillende standpunten toelichten en vergelijken en de belangrijkste punten aanwijzen.",
-		"id": "f5fdcb2b-25a9-486b-b408-835af841cccd"
+		"title": "Kan (in taal B) een discussie (in taal A) over zaken binnen het eigen academische of professionele vakgebied samenvatten, verschillende standpunten toelichten en vergelijken en de belangrijkste punten aanwijzen.",
+		"id": "f5fdcb2b-25a9-486b-b408-835af841cccd",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -2537,8 +2583,10 @@
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan (in taal B) gevolgtrekkingen uitleggen als verbanden of implicaties niet expliciet zijn gemaakt (in taal A) en wijzen op sociaal-culturele implicaties van de manier van uitdrukken van de spreker/schrijver (bijvoorbeeld understatement, ironie, sarcasme).",
-		"id": "138928a7-7666-4e16-82bd-e230cea47141"
+		"title": "Kan (in taal B) gevolgtrekkingen uitleggen als verbanden of implicaties niet expliciet zijn gemaakt (in taal A) en wijzen op de sociaal-culturele implicaties van de manier van uitdrukken (bijvoorbeeld understatement, ironie, sarcasme).",
+		"id": "138928a7-7666-4e16-82bd-e230cea47141",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
