@@ -12584,5 +12584,14 @@
 		"prefix": "",
 		"title": "Kan mensen begroeten, de eigen naam zeggen en op een eenvoudige manier afscheid nemen.",
 		"description": ""
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"id": "04f4301c-a29c-40bb-be29-bb78fbc2cfbe",
+		"prefix": "",
+		"title": "Kan voor zichzelf aangeven dat iets duidelijk is en vragen of anderen het begrijpen.",
+		"description": ""
 	}
 ]
