@@ -3330,15 +3330,19 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan een interculturele uitwisseling mogelijk maken door een gastvrije houding en belangstelling te tonen met eenvoudige woorden en non-verbale signalen, door anderen uit te nodigen te spreken en door aan te geven of hij of zij het begrijpt als hij of zij rechtstreeks wordt aangesproken.",
-		"id": "315b3429-43a8-4e91-aca3-4d4e88f6169b"
+		"title": "Kan een interculturele uitwisseling mogelijk maken door het tonen van een verwelkomende houding en belangstelling met eenvoudige woorden en non-verbale signalen, door anderen uit te nodigen bij te dragen en door aan te geven of iets duidelijk is wanneer rechtstreeks aangesproken.",
+		"id": "315b3429-43a8-4e91-aca3-4d4e88f6169b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan bijdragen aan een interculturele uitwisseling door eenvoudige woorden te gebruiken om mensen te vragen dingen uit te leggen en duidelijkheid te krijgen over wat ze zeggen en daarbij zijn of haar beperkte repertoire te gebruiken om instemming uit te drukken, uit te nodigen, te bedanken enzovoort.",
-		"id": "cb84c7b0-6b1f-439e-925d-8ee7b415a5a3"
+		"title": "Kan bijdragen aan een interculturele uitwisseling door eenvoudige woorden te gebruiken om mensen te vragen dingen uit te leggen en duidelijkheid te krijgen over wat ze zeggen, en een beperkt repertoire te gebruiken om instemming uit te drukken, uit te nodigen, te bedanken enzovoort.",
+		"id": "cb84c7b0-6b1f-439e-925d-8ee7b415a5a3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -3365,15 +3369,19 @@
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan crossculturele communicatie ondersteunen door gesprekken te beginnen, belangstelling en empathie te tonen door eenvoudige vragen te stellen en te beantwoorden en instemming en begrip uit te drukken.",
-		"id": "00261878-bcf7-425a-98ad-fa8e5446a51e"
+		"title": "Kan cultuuroverschrijdende communicatie ondersteunen door gesprekken te beginnen, belangstelling en empathie te tonen door eenvoudige vragen te stellen en te beantwoorden en instemming en begrip uit te drukken.",
+		"id": "00261878-bcf7-425a-98ad-fa8e5446a51e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan, bij het samenwerken met mensen uit andere culturen, de manier waarop hij of zij werkt aanpassen om gezamenlijke procedures te scheppen.",
-		"id": "2c30f22a-51bd-4d9c-aa71-6143a7667a8c"
+		"title": "Kan, bij het samenwerken met mensen uit andere culturen, de eigen manier van werken aanpassen om gezamenlijke procedures te scheppen.",
+		"id": "2c30f22a-51bd-4d9c-aa71-6143a7667a8c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -3400,8 +3408,10 @@
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan, bij interculturele ontmoetingen, waardering aan de dag leggen voor andere perspectieven dan zijn of haar eigen wereldbeeld en kan zich uitdrukken op een manier die past bij de context.",
-		"id": "05834317-45c7-4721-85df-07d4c9320391"
+		"title": "Kan, bij interculturele ontmoetingen, waardering aan de dag leggen voor andere perspectieven dan het eigen wereldbeeld en kan zich uitdrukken op een manier die past bij de context.",
+		"id": "05834317-45c7-4721-85df-07d4c9320391",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -3414,15 +3424,19 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan aanvoelen hoe mensen dat wat gezegd of geschreven is verkeerd kunnen begrijpen en helpen een positieve interactie gaande te houden door de verschillende culturele perspectieven op de betreffende kwestie te interpreteren en erover te praten.",
-		"id": "63f79085-2854-4142-8ef6-77a0296b2a76"
+		"title": "Kan aanvoelen hoe mensen dat wat gezegd of geschreven is verkeerd kunnen begrijpen en kan helpen een positieve interactie gaande te houden door de verschillende culturele perspectieven op de betreffende kwestie te interpreteren en erover te praten.",
+		"id": "63f79085-2854-4142-8ef6-77a0296b2a76",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan als bemiddelaar optreden bij interculturele ontmoetingen, bijdragen aan een gedeelde communicatiecultuur door ambiguïteit te beheren, door het bieden van advies en steun en misverstanden de kop in te drukken.",
-		"id": "31c0b0ce-b4b8-43e2-ba49-0af1b264d34a"
+		"title": "Kan als bemiddelaar optreden bij interculturele ontmoetingen, bijdragen aan een gedeelde communicatiecultuur door ambiguïteit te beheren, door het bieden van advies en steun en door misverstanden de kop in te drukken.",
+		"id": "31c0b0ce-b4b8-43e2-ba49-0af1b264d34a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -3435,8 +3449,10 @@
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan doeltreffend en natuurlijk bemiddelen tussen leden van zijn of haar eigen en andere gemeenschappen, rekening houdend met sociaal-culturele en sociolinguïstische verschillen.",
-		"id": "da62fc08-ca2a-4e77-9565-a495e4227a90"
+		"title": "Kan doeltreffend en natuurlijk bemiddelen tussen leden van de eigen en andere gemeenschappen, rekening houdend met sociaal-culturele en sociolinguïstische verschillen.",
+		"id": "da62fc08-ca2a-4e77-9565-a495e4227a90",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
