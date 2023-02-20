@@ -3564,15 +3564,19 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan herkennen wanneer mensen het niet met elkaar eens zijn of wanneer iemand een probleem heeft en kan uit het hoofd geleerde eenvoudige uitdrukkingen gebruiken (bijvoorbeeld 'Ik begrijp het', 'Gaat het?') om blijk te geven van sympathie.",
-		"id": "2814bf9d-0860-4073-8ff9-0829a82d338e"
+		"title": "Kan herkennen wanneer mensen het niet met elkaar eens zijn of wanneer iemand een probleem heeft en kan uit het hoofd geleerde eenvoudige uitdrukkingen gebruiken (bijvoorbeeld 'Ik begrijp het', 'Gaat het?') om sympathie te uiten.",
+		"id": "2814bf9d-0860-4073-8ff9-0829a82d338e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan herkennen wanneer sprekers het niet met elkaar eens zijn of wanneer er problemen ontstaan in de interactie en kan uit het hoofd geleerde eenvoudige frasen aanpassen om te proberen tot compromissen en overeenstemming te komen.",
-		"id": "b467297d-f405-4a09-8550-cf569f757990"
+		"title": "Kan herkennen wanneer mensen het niet met elkaar eens zijn of wanneer er problemen ontstaan in de interactie en kan uit het hoofd geleerde eenvoudige frasen aanpassen om te proberen tot compromissen en overeenstemming te komen.",
+		"id": "b467297d-f405-4a09-8550-cf569f757990",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -3586,15 +3590,19 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan laten zien dat hij of zij de belangrijkste kwesties in een geschil over een vertrouwd onderwerp begrijpt en op een eenvoudige manier vragen om bevestiging en/of verduidelijking.",
-		"id": "64eb8cef-562f-4958-9f3c-22b8bf8cc3bf"
+		"title": "Kan laten zien dat de belangrijkste kwesties in een geschil over een vertrouwd onderwerp duidelijk zijn en kan eenvoudige verzoeken om bevestiging en/of verduidelijking doen.",
+		"id": "64eb8cef-562f-4958-9f3c-22b8bf8cc3bf",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
 		"title": "Kan partijen in een geschil vragen hun standpunt uit te leggen en kan kort reageren op hun verklaringen, mits het onderwerp vertrouwd is en de partijen zich duidelijk uitdrukken.",
-		"id": "31511d9f-c1db-4fc0-bdf6-cb412f5b3116"
+		"id": "31511d9f-c1db-4fc0-bdf6-cb412f5b3116",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -3628,8 +3636,10 @@
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan de partijen die onenigheid hebben, helpen elkaar beter te begrijpen door hun standpunten te herformuleren en in te kaderen en door prioriteiten te stellen bij behoeften en doelstellingen.",
-		"id": "bed9dbc0-98fa-412a-85a2-47c82ae95377"
+		"title": "Kan de partijen die onenigheid hebben, helpen elkaar beter te begrijpen door hun standpunten duidelijker te formuleren en in te kaderen en door prioriteit te geven aan behoeften en doelstellingen.",
+		"id": "bed9dbc0-98fa-412a-85a2-47c82ae95377",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -3642,36 +3652,46 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan overtuigende taal gebruiken om de partijen die onenigheid hebben voor te stellen naar een nieuw standpunt te verschuiven.",
-		"id": "29afbeed-b002-467b-b312-afeff3bff56d"
+		"title": "Kan overtuigende taal gebruiken om de partijen die onenigheid hebben voor te stellen een nieuw standpunt in te nemen.",
+		"id": "29afbeed-b002-467b-b312-afeff3bff56d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan een diplomatisch verzoek formuleren aan elke partij in een onenigheid om de centrale kern van hun standpunt vast te stellen en erachter te komen wat zij in bepaalde omstandigheden bereid zouden zijn op te geven.",
-		"id": "9887724e-8119-48e3-877d-eb2e7cfdf773"
+		"title": "Kan een diplomatiek verzoek formuleren aan elke partij in een onenigheid om de centrale kern van hun standpunt vast te stellen en erachter te komen wat zij in bepaalde omstandigheden bereid zouden zijn op te geven.",
+		"id": "9887724e-8119-48e3-877d-eb2e7cfdf773",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan gevoeligheid aan de dag leggen voor verschillende standpunten, en herhalen en parafraseren om te laten zien dat hij of zij tot in detail begrijpt wat elke partij nodig heeft om tot overeenstemming te komen.",
-		"id": "b5a1af87-8313-4c35-9311-d75b240a2a7c"
+		"title": "Kan gevoeligheid aan de dag leggen voor meerdere standpunten, en herhalen en parafraseren om te laten zien dat tot in detail duidelijk is wat elke partij nodig heeft om tot overeenstemming te komen.",
+		"id": "b5a1af87-8313-4c35-9311-d75b240a2a7c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan zelfverzekerd een resoluut maar diplomatisch standpunt innemen over een principekwestie en tegelijkertijd respect tonen voor het standpunt van anderen.",
-		"id": "45092f85-5a10-4bd4-9355-baf85f4f6e83"
+		"title": "Kan zelfverzekerd een resoluut maar diplomatiek standpunt innemen over een principekwestie en tegelijkertijd respect tonen voor standpunten van anderen.",
+		"id": "45092f85-5a10-4bd4-9355-baf85f4f6e83",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan tactisch omgaan met een storende deelnemer door eventuele opmerkingen diplomatisch in te kaderen in de situatie en de culturele percepties.",
-		"id": "6427a9c9-b6ef-4091-93e3-b8b1b1f09678"
+		"title": "Kan tactisch omgaan met een storende deelnemer door eventuele opmerkingen diplomatisch in te kaderen als het gaat om de situatie en de culturele percepties.",
+		"id": "6427a9c9-b6ef-4091-93e3-b8b1b1f09678",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
