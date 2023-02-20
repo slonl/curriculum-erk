@@ -772,7 +772,6 @@
 			"35bd4ec0-bbf0-451a-b339-07632659a9ea",
 			"2814bf9d-0860-4073-8ff9-0829a82d338e",
 			"b467297d-f405-4a09-8550-cf569f757990",
-			"be86a199-2f72-471e-8d4d-524187a0fe1c",
 			"64eb8cef-562f-4958-9f3c-22b8bf8cc3bf",
 			"31511d9f-c1db-4fc0-bdf6-cb412f5b3116",
 			"7fb24168-30be-4166-a0bb-58fe9370e6d1",
@@ -788,7 +787,9 @@
 			"6427a9c9-b6ef-4091-93e3-b8b1b1f09678"
 		],
 		"title": "Communicatie bevorderen in gevoelige situaties en bij onenigheid",
-		"id": "b350bcbb-483f-4e23-8a62-a9ddf3b82a87"
+		"id": "b350bcbb-483f-4e23-8a62-a9ddf3b82a87",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
