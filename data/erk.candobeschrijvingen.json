@@ -3466,71 +3466,91 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan (in taal B) de persoonlijke gegevens van andere mensen en zeer eenvoudige, voorspelbare informatie (beschikbaar in taal A) overbrengen, mits andere mensen helpen met formuleren.",
-		"id": "c683d20c-9dee-4e0b-b5b6-891d83f994d7"
+		"title": "Kan (in taal B) de persoonlijke gegevens van andere mensen en zeer eenvoudige, voorspelbare informatie (in taal A) overbrengen, mits andere mensen helpen met formuleren.",
+		"id": "c683d20c-9dee-4e0b-b5b6-891d83f994d7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan (in taal B) het voornaamste punt overbrengen van wat er is gezegd (in taal A) in voorspelbare, alledaagse situaties en daarbij informatie heen en weer overbrengen over persoonlijke wensen en behoeften, mits anderen helpen met formuleren.",
-		"id": "2f648add-95d5-47c0-a1cd-a08dab51a098"
+		"title": "Kan (in taal B) het voornaamste punt overbrengen van wat er is gezegd (in taal A) in voorspelbare, alledaagse situaties en daarbij bij beide partijen informatie overbrengen over persoonlijke wensen en behoeften, mits andere mensen helpen met formuleren.",
+		"id": "2f648add-95d5-47c0-a1cd-a08dab51a098",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan (in taal B) de algemene betekenis overbrengen van wat er is gezegd (in taal A) in alledaagse situaties en daarbij de elementaire culturele conventies volgen en de essentiële informatie overbrengen, mits de sprekers duidelijk articuleren en hij of zij om herhaling of verduidelijking kan vragen.",
-		"id": "964a185e-909f-4b0e-a7e8-1723868cca6e"
+		"title": "Kan (in taal B) de algemene boodschap overbrengen van wat er is gezegd (in taal A) in alledaagse situaties en daarbij de elementaire culturele conventies volgen en de essentiële informatie overbrengen, mits  duidelijk gearticulereerd wordt en om herhaling of verduidelijking kan worden gevraagd.",
+		"id": "964a185e-909f-4b0e-a7e8-1723868cca6e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan (in taal B) het voornaamste overbrengen wat er is gezegd (in taal A) over onderwerpen van persoonlijk belang, en kan daarbij de belangrijke beleefdheidsconventies volgen, mits de sprekers duidelijk articuleren en hij of zij om verduidelijking kan vragen of de tijd kan nemen om te bedenken hoe dingen moeten worden uitgedrukt.",
-		"id": "b50e4517-55c2-4253-9d77-f9aaab3f936d"
+		"title": "Kan (in taal B) het voornaamste overbrengen wat er is gezegd (in taal A) over onderwerpen van persoonlijke interesse; volgt daarbij belangrijke beleefdheidsconventies, mits de gespreksdeelnemers duidelijk articuleren en er om verduidelijking gevraagd kan worden en er pauzes mogelijk zijn om te bedenken hoe dingen moeten worden uitgedrukt.",
+		"id": "b50e4517-55c2-4253-9d77-f9aaab3f936d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan (in taal B) het voornaamste overbrengen van wat er is gezegd (in taal A) over onderwerpen binnen zijn of haar interessegebied en daarbij eenduidige feitelijke informatie en expliciete culturele verwijzingen geven, mits hij of zij zich kan voorbereiden en de sprekers duidelijk articuleren in alledaagse taal.",
-		"id": "4f851138-15ac-435f-8403-6ba5b2f40aa3"
+		"title": "Kan (in taal B) het voornaamste overbrengen van wat er is gezegd (in taal A) over onderwerpen binnen het eigen interessegebied en daarbij eenduidige feitelijke informatie en expliciete culturele verwijzingen geven, mits voorbereid en als de gespreksdeelnemers duidelijk articuleren in alledaagse taal.",
+		"id": "4f851138-15ac-435f-8403-6ba5b2f40aa3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan (in taal B) overbrengen de betekenis van wat er is gezegd (in taal A) over onderwerpen binnen zijn of haar interessegebied en daarbij zo nodig de betekenis van belangrijke uitspraken en standpunten uitleggen, mits sprekers verduidelijkingen geven als dat nodig is.",
-		"id": "451ef024-7da6-49b9-ae9f-b14aac90baa5"
+		"title": "Kan de betekenis van wat er is gezegd (in taal A) overbrengen (in taal B) over onderwerpen binnen het eigen interessegebied en daarbij zo nodig de betekenis van belangrijke uitspraken en standpunten uitleggen, mits gespreksdeelnemers verduidelijkingen geven als dat nodig is.",
+		"id": "451ef024-7da6-49b9-ae9f-b14aac90baa5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan (in taal B) overbrengen wat er is gezegd in een welkomstwoord, anekdote of presentatie in zijn of haar vakgebied (gegeven in taal A), culturele aanwijzingen correct interpreteren en zo nodig aanvullende verklaringen geven, mits de spreker regelmatig stopt om hem of haar hiervoor de tijd te geven.",
-		"id": "df788180-a6b6-4976-818b-3816087c0d64"
+		"title": "Kan (in taal B) overbrengen wat er is gezegd in een welkomstwoord, anekdote of presentatie in het eigen vakgebied (gegeven in taal A), culturele aanwijzingen adequaat interpreteren en zo nodig aanvullende verklaringen geven, mits de presentator regelmatig stopt om hiervoor de tijd te geven.",
+		"id": "df788180-a6b6-4976-818b-3816087c0d64",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan bemiddelen (tussen taal A en taal B) en daarbij gedetailleerde informatie overbrengen, de aandacht van beide partijen vestigen op achtergrondinformatie en sociaal-culturele aanwijzingen en indien nodig verduidelijking en vervolgvragen of -uitspraken voorstellen.",
-		"id": "67dce641-4668-4f06-bbd9-93ba7a695701"
+		"title": "Kan bemiddelen (tussen taal A en taal B) en daarbij gedetailleerde informatie overbrengen, de aandacht van beide partijen vestigen op achtergrondinformatie en sociaal-culturele aanwijzingen en indien nodig verduidelijking en vervolgvragen of verklaringen voorstellen.",
+		"id": "67dce641-4668-4f06-bbd9-93ba7a695701",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan vloeiend (in taal B) overbrengen wat er is gezegd (in taal A) over uiteenlopende onderwerpen binnen de persoonlijke, academische en professionele interessesfeer en daarbij belangrijke informatie duidelijk en beknopt overbrengen en culturele verwijzingen uitleggen.",
-		"id": "1490e7b1-36ee-44ab-bbd6-fc67f81067b0"
+		"title": "Kan op een vloeiende manier de betekenis van wat er is gezegd (in taal A) overbrengen (in taal B) over uiteenlopende onderwerpen binnen de persoonlijke, academische en professionele interessesfeer en daarbij belangrijke informatie duidelijk en beknopt overbrengen en culturele verwijzingen uitleggen.",
+		"id": "1490e7b1-36ee-44ab-bbd6-fc67f81067b0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan duidelijk, vloeiend, goed gestructureerd (in taal B) overbrengen wat er is gezegd (in taal A) over uiteenlopende algemene en gespecialiseerde onderwerpen en daarbij de passende stijl en het passende register behouden, fijnere betekenisnuances overbrengen en ingaan op sociaal-culturele implicaties.",
-		"id": "9c1cfb99-5227-4280-8f25-a2dec536c73c"
+		"title": "Kan op een duidelijke, vloeiende, goed gestructureerde manier (in taal B) de betekenis van wat er is gezegd overbrengen (in taal A) over uiteenlopende algemene en gespecialiseerde onderwerpen en daarbij de passende stijl en het passende register behouden, fijnere betekenisnuances overbrengen en ingaan op sociaal-culturele implicaties.",
+		"id": "9c1cfb99-5227-4280-8f25-a2dec536c73c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
