@@ -808,10 +808,13 @@
 			"e2e2ddc9-32a6-41d0-bed8-ae46e635ed65",
 			"fd72ff5d-00fa-4a38-b040-b27d2ebfc5d2",
 			"d4e67dc5-b342-414e-9927-e667cdc14fcf",
-			"cf2065cf-d42e-406a-9de8-fdcb14e1f82b"
+			"cf2065cf-d42e-406a-9de8-fdcb14e1f82b",
+			"04f4301c-a29c-40bb-be29-bb78fbc2cfbe"
 		],
 		"title": "Samenwerkende interactie tussen peers bevorderen",
-		"id": "5a301d2f-8c3d-47fe-a632-07c2f22f26c5"
+		"id": "5a301d2f-8c3d-47fe-a632-07c2f22f26c5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
