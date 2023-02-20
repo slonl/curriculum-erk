@@ -3705,29 +3705,37 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan met behulp van korte, vooraf voorbereid eenvoudige frasen, anderen uitnodigen bij te dragen aan zeer eenvoudige taken. Kan aangeven dat hij of zij het begrijpt en vragen of anderen het begrijpen.",
-		"id": "29d97f8e-9932-4a1c-84ca-6b9088e05ac8"
+		"title": "Kan anderen uitnodigen bij te dragen aan zeer eenvoudige taken met behulp van korte, vooraf voorbereid eenvoudige frasen die vooraf zijn voorbereid.",
+		"id": "29d97f8e-9932-4a1c-84ca-6b9088e05ac8",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan samenwerken aan eenvoudige praktische taken, anderen vragen wat ze vinden, suggesties doen en reacties begrijpen, mits hij of zij af en toe om herhaling of herformulering kan vragen.",
-		"id": "88450e9c-c099-45b4-b13e-b770db875829"
+		"title": "Kan samenwerken aan eenvoudige praktische taken, kan anderen vragen wat ze vinden, suggesties doen en reacties begrijpen, mits af en toe om herhaling of herformulering gevraagd kan worden.",
+		"id": "88450e9c-c099-45b4-b13e-b770db875829",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan samenwerken aan eenvoudige gezamenlijke taken, mits de andere deelnemers langzaam articuleren en een of meer van hen hem of haar helpen bij te dragen en zijn of haar suggesties helpen uit te drukken.",
-		"id": "9e54ba16-a9e9-47eb-a326-4becef2599f0"
+		"title": "Kan samenwerken aan eenvoudige gezamenlijke taken, mits andere deelnemers langzaam articuleren en een of meer van hen helpen bij te dragen en suggesties helpen uit te drukken.",
+		"id": "9e54ba16-a9e9-47eb-a326-4becef2599f0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan andere mensen in een groep uitnodigen om hun mening te geven.",
-		"id": "750322a6-05d1-4fd4-afdf-eca512d1cff8"
+		"title": "Kan andere mensen in een groep uitnodigen om hun eigen gezichtspunten in te brengen.",
+		"id": "750322a6-05d1-4fd4-afdf-eca512d1cff8",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -3740,8 +3748,10 @@
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan samenwerken aan eenvoudige gezamenlijke taken en werken aan het bereiken van een gedeeld doel in een groep door directe vragen te stellen en te beantwoorden.",
-		"id": "7cffdb32-eccc-4481-bf36-118c12ef2284"
+		"title": "Kan samenwerken aan eenvoudige gezamenlijke taken en kan werken aan het bereiken van een gedeeld doel in een groep door directe vragen te stellen en te beantwoorden.",
+		"id": "7cffdb32-eccc-4481-bf36-118c12ef2284",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -3754,8 +3764,10 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan een discussie opnieuw richting geven door voor te stellen waarmee als volgende rekening moet worden gehouden en hoe verder te gaan.",
-		"id": "5b8cdb71-6c54-45cc-965c-acd64023b1ba"
+		"title": "Kan een discussie opnieuw richting geven door voor te stellen waarmee als volgende rekening moet worden gehouden en hoe verder gegaan moet worden.",
+		"id": "5b8cdb71-6c54-45cc-965c-acd64023b1ba",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -3782,8 +3794,10 @@
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan, op basis van de reacties van andere mensen, de manier waarop hij of zij vragen formuleert en/of ingrijpt in een groepsinteractie aanpassen.",
-		"id": "e2e2ddc9-32a6-41d0-bed8-ae46e635ed65"
+		"title": "Kan, op basis van de reacties van andere mensen, formulering van vragen en/of de manier van ingrijpen in een groepsinteractie aanpassen.",
+		"id": "e2e2ddc9-32a6-41d0-bed8-ae46e635ed65",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -3796,16 +3810,20 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan gevoeligheid aan de dag leggen voor verschillende perspectieven binnen een groep en bijdragen erkennen, en daarbij twijfels, onenigheden of kritiek op zo'n manier onder woorden brengen dat ze niet of nauwelijks kwetsend overkomen.",
-		"id": "d4e67dc5-b342-414e-9927-e667cdc14fcf"
+		"title": "Kan gevoeligheid aan de dag leggen voor verschillende perspectieven binnen een groep en bijdragen erkennen, en daarbij eventuele twijfels, onenigheden of commentaren op zo'n manier onder woorden brengen dat ze niet of nauwelijks kwetsend overkomen.",
+		"id": "d4e67dc5-b342-414e-9927-e667cdc14fcf",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Geen descriptoren beschikbaar.",
+		"title": "Geen descriptoren beschikbaar, zie C1.",
 		"isempty": true,
-		"id": "cf2065cf-d42e-406a-9de8-fdcb14e1f82b"
+		"id": "cf2065cf-d42e-406a-9de8-fdcb14e1f82b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
