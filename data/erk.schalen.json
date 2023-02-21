@@ -1915,6 +1915,17 @@
 		"id": "a14a5054-9279-4da8-b56e-64e64fec6e69",
 		"prefix": "",
 		"title": "Een geschreven tekst schriftelijk vertalen",
-		"description": ""
+		"description": "",
+		"erk_candobeschrijving_id": [
+			"9d67170e-f684-4c40-924a-4c27fd3bce99",
+			"d6b3b755-2dc3-4d5a-a2a3-70ded33e0eed",
+			"b4363969-441b-4f26-b35a-ae36947186da",
+			"e4ea4d9e-0307-40c5-bd51-ddc5604ffcb0",
+			"32dd56ec-7188-4e64-8ed6-5caf63bbb27a",
+			"57265efe-ac25-4e52-b8ed-d970b928bd7e",
+			"9c2527c0-dd36-49d0-a664-3903d0561ebb",
+			"26c46aab-a8fc-4344-aab0-629a737f7215",
+			"4eeb0a15-7980-413c-84d0-c24bdb8bb89a"
+		]
 	}
 ]
