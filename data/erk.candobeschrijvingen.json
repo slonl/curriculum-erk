@@ -2849,50 +2849,64 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan eenvoudige taal gebruiken om een approximatieve vertaling (uit taal A) (in taal B) te maken van zeer korte teksten over vertrouwde en alledaagse thema's die zijn opgebouwd uit de meest voorkomende woorden; ondanks fouten blijft de tekst begrijpelijk.",
-		"id": "b4363969-441b-4f26-b35a-ae36947186da"
+		"title": "Kan eenvoudige taal gebruiken om een globale vertaling (uit taal A naar taal B) te maken van zeer korte teksten over vertrouwde en alledaagse thema's die zijn opgebouwd uit de meest voorkomende woorden; ondanks fouten blijft de tekst begrijpelijk.",
+		"id": "b4363969-441b-4f26-b35a-ae36947186da",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan approximatieve vertalingen (uit taal A) maken (in taal B) van informatie in korte, feitelijke teksten die zijn geschreven in ongecompliceerde standaardtaal; ondanks fouten blijft de vertaling begrijpelijk.",
-		"id": "e4ea4d9e-0307-40c5-bd51-ddc5604ffcb0"
+		"title": "Kan globale vertalingen (uit taal A naar taal B) maken van informatie in korte, feitelijke teksten die zijn geschreven in ongecompliceerde standaardtaal; ondanks fouten blijft de vertaling begrijpelijk.",
+		"id": "e4ea4d9e-0307-40c5-bd51-ddc5604ffcb0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan approximatieve vertalingen (uit taal A) maken (in taal B) van eenduidige, feitelijke teksten die zijn geschreven in ongecompliceerde standaardtaal, waarbij de structuur van het origineel nauw wordt gevolgd; hoewel er taalfouten kunnen voorkomen, blijft de vertaling begrijpelijk.",
-		"id": "32dd56ec-7188-4e64-8ed6-5caf63bbb27a"
+		"title": "Kan globale vertalingen (uit taal A naar taal B) maken van eenduidige, feitelijke teksten die zijn geschreven in ongecompliceerde standaardtaal, waarbij de structuur van het origineel nauw wordt gevolgd; hoewel er taalfouten kunnen voorkomen, blijft de vertaling begrijpelijk.",
+		"id": "32dd56ec-7188-4e64-8ed6-5caf63bbb27a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan vertalingen maken (in taal B) die de zins- en alineastructuur van het origineel (in taal A) nauw volgen en daarbij de belangrijkste punten van de brontekst nauwkeurig overbrengen, hoewel de vertaling mogelijk stroef leest.",
-		"id": "57265efe-ac25-4e52-b8ed-d970b928bd7e"
+		"title": "Kan vertalingen maken (naar taal B) die de zins- en alineastructuur van het origineel (in taal A) nauw volgen en daarbij de belangrijkste punten van de brontekst nauwkeurig overbrengen, hoewel de vertaling mogelijk stroef leest.",
+		"id": "57265efe-ac25-4e52-b8ed-d970b928bd7e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan duidelijk gestructureerde vertalingen (uit taal A) (in taal B) maken waarin ‘normale’ taal wordt gebruikt, maar die mogelijk te veel zijn beïnvloed door de volgorde, de alinea-indeling, het leestekengebruik en bepaalde formuleringen van het origineel.",
-		"id": "9c2527c0-dd36-49d0-a664-3903d0561ebb"
+		"title": "Kan duidelijk gestructureerde vertalingen (uit taal A naar taal B) maken waarin ‘normale’ taal wordt gebruikt, maar die mogelijk te veel zijn beïnvloed door de volgorde, de alinea-indeling, het leestekengebruik en bepaalde formuleringen van het origineel.",
+		"id": "9c2527c0-dd36-49d0-a664-3903d0561ebb",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan abstracte teksten over maatschappelijke, academische en professionele onderwerpen binnen het eigen gebied (geschreven in taal A) vertalen (in taal B) en daarbij met succes evaluerende aspecten en argumenten overbrengen, met inbegrip van veel van de bijbehorende implicaties, hoewel sommige uitdrukkingen mogelijk te veel worden beïnvloed door het origineel.",
-		"id": "26c46aab-a8fc-4344-aab0-629a737f7215"
+		"title": "Kan abstracte teksten over maatschappelijke, academische en professionele onderwerpen binnen het eigen gebied (geschreven in taal A) vertalen (naar taal B) en daarbij met succes evaluerende aspecten en argumenten overbrengen, met inbegrip van veel van de bijbehorende implicaties, hoewel sommige uitdrukkingen mogelijk te veel worden beïnvloed door het origineel.",
+		"id": "26c46aab-a8fc-4344-aab0-629a737f7215",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan technische materialen buiten zijn of haar specialisatiegebied (geschreven in taal A) vertalen (in taal B), mits de nauwkeurigheid van de inhoud wordt gecontroleerd door een deskundige op het betreffende gebied.",
-		"id": "4eeb0a15-7980-413c-84d0-c24bdb8bb89a"
+		"title": "Kan technische materialen buiten het eigen specialisatiegebied (in taal A) vertalen (naar taal B), mits de inhoudelijke nauwkeurigheid wordt gecontroleerd door een deskundige op het betreffende gebied.",
+		"id": "4eeb0a15-7980-413c-84d0-c24bdb8bb89a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
