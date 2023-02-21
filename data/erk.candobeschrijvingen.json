@@ -2842,8 +2842,10 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan, met behulp van een woordenboek, eenvoudige woorden en frasen (in taal A) vertalen (in taal B), maar kiest mogelijk niet altijd de juiste betekenis.",
-		"id": "d6b3b755-2dc3-4d5a-a2a3-70ded33e0eed"
+		"title": "Kan, met behulp van een woordenboek, eenvoudige woorden en zinnen vertalen (uit taal A naar taal B), maar kiest mogelijk niet altijd de juiste betekenis.",
+		"id": "d6b3b755-2dc3-4d5a-a2a3-70ded33e0eed",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
