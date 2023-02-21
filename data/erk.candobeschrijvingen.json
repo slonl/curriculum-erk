@@ -3853,15 +3853,19 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan in heel eenvoudige bewoordingen een idee uitdrukken en vragen wat anderen vinden mits hij of zij dat vooraf kan voorbereiden.",
-		"id": "c9e853c6-573a-42bb-94f6-fb17bdfec3f2"
+		"title": "Kan een idee uitdrukken en vragen wat anderen vinden, gebruikmakend van heel eenvoudige woorden en zinnen, mits vooraf voorbereid.",
+		"id": "c9e853c6-573a-42bb-94f6-fb17bdfec3f2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan eenvoudige opmerkingen maken en af en toe vragen stellen om aan te geven dat hij of zij het kan volgen.",
-		"id": "fec97d1a-85ab-432a-834b-ddb1b040e7c3"
+		"title": "Kan eenvoudige opmerkingen maken en af en toe vragen stellen om aan te geven dat het gesprek te volgen is.",
+		"id": "fec97d1a-85ab-432a-834b-ddb1b040e7c3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -3874,22 +3878,28 @@
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan ervoor zorgen dat de persoon tegen wie hij of zij praat begrijpt wat hij of zij bedoelt door passende vragen te stellen.",
-		"id": "1f725458-63ed-4633-9b56-09268314d289"
+		"title": "Kan nagaan of de gesprekspartner de boodschap begrijpt door passende vragen te stellen.",
+		"id": "1f725458-63ed-4633-9b56-09268314d289",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan een lid van de groep vragen zijn of haar standpunten te onderbouwen.",
-		"id": "c8a51add-e43b-46a6-ba40-a70628c31a34"
+		"title": "Kan een lid van de groep vragen de eigen standpunten te onderbouwen.",
+		"id": "c8a51add-e43b-46a6-ba40-a70628c31a34",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan gedeeltelijk herhalen wat iemand anders heeft gezegd om wederzijds begrip te bevestigen en te helpen de ontwikkeling van ideeën op koers te houden.",
-		"id": "80a9a6f2-6775-4875-be5b-dc38038a3c4c"
+		"title": "Kan gedeeltelijk herhalen wat iemand anders heeft gezegd om wederzijds begrip te bevestigen en de ontwikkeling van ideeën op koers te houden.",
+		"id": "80a9a6f2-6775-4875-be5b-dc38038a3c4c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -3916,8 +3926,10 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan zijn of haar ideeën presenteren in een groep en vragen stellen die reacties oproepen vanuit het perspectief van andere groepsleden.",
-		"id": "56879ffa-c8c5-4ded-9750-ad3c36d9274a"
+		"title": "Kan de eigen ideeën presenteren in een groep en vragen stellen die reacties oproepen vanuit het perspectief van andere groepsleden.",
+		"id": "56879ffa-c8c5-4ded-9750-ad3c36d9274a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -3930,8 +3942,10 @@
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan helpen de discussie in een groep te organiseren door verslag te doen van wat anderen hebben gezegd en verschillende standpunten samen te vatten, uit te werken en tegen elkaar af te wegen.",
-		"id": "29e3f868-b91d-463e-a63e-93657cc09065"
+		"title": "Kan de voornaamste kwestie die moet worden opgelost binnen een complexe taak, en de belangrijke aspecten waarmee rekening moet worden gehouden uitlichten.",
+		"id": "29e3f868-b91d-463e-a63e-93657cc09065",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -3944,15 +3958,19 @@
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan de voornaamste kwestie uitlichten die moet worden opgelost binnen een complexe taak, en de belangrijke aspecten waarmee rekening moet worden gehouden.",
-		"id": "4c10051f-e616-403b-8e17-e4a3ce55537f"
+		"title": "Kan helpen de discussie in een groep te organiseren door verslag te doen van wat anderen hebben gezegd en verschillende standpunten samen te vatten, uit te werken en tegen elkaar af te wegen.",
+		"id": "4c10051f-e616-403b-8e17-e4a3ce55537f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan inconsistenties in denkwijzen uitlichten en ideeën van anderen op de proef stellen tijdens het proberen consensus te bereiken.",
-		"id": "d27c98b5-989e-4586-88f5-66d7c8e28f35"
+		"title": "Kan inconsistenties in denkwijzen uitlichten en vraagtekens zetten bij ideeën van anderen in het proces van het proberen te bereiken van consensus.",
+		"id": "d27c98b5-989e-4586-88f5-66d7c8e28f35",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -3965,15 +3983,19 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan de discussie inkaderen om een actieplan te bepalen met een partner of groep en daarbij verslag doen van wat anderen hebben gezegd, meerdere standpunten samenvatten, uitleggen en vergelijken.",
-		"id": "c7e7104a-b0b5-4a39-b833-4bcf6514c8c4"
+		"title": "Kan de discussie inkaderen om een actieplan te bepalen met een partner of groep en daarbij verslag doen van wat anderen hebben gezegd, en daarbij meerdere standpunten samenvatten, uitleggen en vergelijken.",
+		"id": "c7e7104a-b0b5-4a39-b833-4bcf6514c8c4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
 		"title": "Kan de verschillende bijdragen samenvatten, evalueren en met elkaar in verband brengen om overeenstemming over een oplossing of verdere stappen mogelijk te maken.",
-		"id": "176a0800-96b4-498f-a4d7-811dee9a6fe5"
+		"id": "176a0800-96b4-498f-a4d7-811dee9a6fe5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
