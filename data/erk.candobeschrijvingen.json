@@ -4017,8 +4017,10 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan zeer eenvoudige instructies geven aan een welwillende groep, mits hij of zij wat hulp krijgt met formuleren indien nodig.",
-		"id": "9b90ab6d-96e3-412f-96bb-ede958d89fea"
+		"title": "Kan zeer eenvoudige instructies geven aan een welwillende groep, mits sommigen helpen met formuleren indien nodig.",
+		"id": "9b90ab6d-96e3-412f-96bb-ede958d89fea",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4031,22 +4033,28 @@
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan de beurt geven in een discussie door een deelnemer uit te nodigen iets te zeggen.",
-		"id": "b9303c48-c808-48de-bb60-66abdd1e3b1b"
+		"title": "Kan beurten geven in een discussie door een deelnemer uit te nodigen de eigen visies te delen.",
+		"id": "b9303c48-c808-48de-bb60-66abdd1e3b1b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan indien nodig ingrijpen om een groep weer aan het werk te zetten met nieuwe instructies of om gelijkere deelname aan te moedigen.",
-		"id": "15f99d3a-62de-4d10-a367-9ffb9f07ac24"
+		"title": "Kan indien nodig ingrijpen om een groep weer te laten doorgaan met de taak met nieuwe instructies of om gelijkere deelname aan te moedigen.",
+		"id": "15f99d3a-62de-4d10-a367-9ffb9f07ac24",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan de basisregels uitleggen voor samenwerkingsdiscussies in kleine groepen met betrekking tot het oplossen van problemen of het evalueren van alternatieve voorstellen.",
-		"id": "5dbacdf1-9b8d-4718-b90a-efb50083752d"
+		"title": "Kan de basisregels uitleggen van samenwerkingsdiscussies in kleine groepen met betrekking tot het oplossen van problemen of het evalueren van alternatieve voorstellen.",
+		"id": "5dbacdf1-9b8d-4718-b90a-efb50083752d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4066,22 +4074,28 @@
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan individueel en groepswerk monitoren op een niet-opdringerige manier en ingrijpen om een groep weer aan het werk te zetten  of om te zorgen voor gelijke deelname.",
-		"id": "ed8e3370-0868-475d-9a7a-3e403cf90383"
+		"title": "Kan individueel werk en groepswerk monitoren op een niet-opdringerige manier en ingrijpen om te zorgen dat een groep doorgaat met de taak  of om te zorgen voor gelijke deelname.",
+		"id": "ed8e3370-0868-475d-9a7a-3e403cf90383",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan groepssamenwerking efficiënt organiseren en beheren.",
-		"id": "bb24b09e-25ea-4f0f-a212-b080a52866dd"
+		"title": "Kan collaboratief groepswerk efficiënt organiseren en beheren.",
+		"id": "bb24b09e-25ea-4f0f-a212-b080a52866dd",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan op diplomatische wijze ingrijpen om de gesprekken in de juiste richting te leiden, te voorkomen dat iemand het gesprek domineert of om storend gedrag aan te pakken.",
-		"id": "8d041b1b-182c-49ca-8559-9033a5fb092b"
+		"title": "Kan op diplomatische wijze ingrijpen om de discussie in de juiste richting te leiden, om te voorkomen dat iemand het gesprek domineert of om storend gedrag aan te pakken.\n",
+		"id": "8d041b1b-182c-49ca-8559-9033a5fb092b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4094,8 +4108,10 @@
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan onderstromen in interactie herkennen en passende maatregelen nemen om de richting van het gesprek te sturen.",
-		"id": "a4efad64-3232-4734-b34a-d269ec9904ab"
+		"title": "Kan onderstromen in interactie herkennen en passende maatregelen nemen om de richting van de discussie te sturen.",
+		"id": "a4efad64-3232-4734-b34a-d269ec9904ab",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
