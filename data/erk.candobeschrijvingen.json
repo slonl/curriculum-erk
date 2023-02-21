@@ -4143,19 +4143,20 @@
 		"id": "eadd01c7-4a35-48a4-8394-8662b74c2e9d"
 	},
 	{
-		"niveau_id": [
-			"620710de-54d2-48b5-93ab-40888732aab7"
-		],
 		"title": "Geen descriptoren beschikbaar.",
 		"isempty": true,
-		"id": "af7c13a8-597b-4299-965e-b11ae9b99f77"
+		"id": "af7c13a8-597b-4299-965e-b11ae9b99f77",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan vragen waarom iemand iets denkt of hoe hij of zij denkt dat iets zou werken.",
-		"id": "5a7746c0-46bb-4914-b340-16ad8af5a27c"
+		"title": "Kan vragen waarom iemand iets denkt of hoe iemand denkt dat iets zou werken.",
+		"id": "5a7746c0-46bb-4914-b340-16ad8af5a27c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4224,8 +4225,10 @@
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan de ontwikkeling van ideeën in een discussie over complexe abstracte onderwerpen effectief leiden en de richting van het gesprek sturen door gerichte vragen te stellen en anderen uit te nodigen hun redeneringen toe te lichten.",
-		"id": "3d2f4262-df7b-4b41-a7ff-079072e9a668"
+		"title": "Kan de ontwikkeling van ideeën in een discussie over complexe abstracte onderwerpen effectief leiden en richting geven door gerichte vragen te stellen en anderen uit te nodigen hun redeneringen toe te lichten.",
+		"id": "3d2f4262-df7b-4b41-a7ff-079072e9a668",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
