@@ -31,15 +31,17 @@
 	},
 	{
 		"erk_taalactiviteit_id": [
-			"ee5030de-1459-4e55-83a1-044ae0b8d06f",
 			"debbe411-e0f9-416e-9a75-dcd2af41556b",
 			"64f88ea3-3b84-4819-ab5f-696f672ea945",
 			"62971353-3ec4-45a8-b41a-f48167b4e61a",
 			"f07812b1-8bab-4d0c-9009-36151c784a17",
-			"fd1f1e06-1486-4764-a443-c2f09b2683d9"
+			"fd1f1e06-1486-4764-a443-c2f09b2683d9",
+			"115a7f2d-9b5d-4f8f-addc-d4d4c382243a"
 		],
 		"title": "Mediation",
-		"id": "ba228579-63ef-40ac-ba04-a5a80accdc01"
+		"id": "ba228579-63ef-40ac-ba04-a5a80accdc01",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"erk_schaal_id": [
