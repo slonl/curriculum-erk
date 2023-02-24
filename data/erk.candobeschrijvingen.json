@@ -354,120 +354,154 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan een eenvoudig woord uit EEN ANDERE TAAL IN ZIJN OF HAAR MEERTALIGE REPERTOIRE gebruiken om zich verstaanbaar te maken in een alledaagse routinesituatie als hij of zij niet op een geschikte uitdrukking kan komen in de taal die wordt gesproken (je kunt de talen specificeren in het deel in hoofdletters).",
-		"id": "ea8d922d-d652-476b-a6b3-96d554faed94"
+		"title": "Kan een eenvoudig woord uit EEN ANDERE TAAL IN HET EIGEN MEERTALIGE REPERTOIRE gebruiken om zich verstaanbaar te maken in een alledaagse routinesituatie als een geschikte uitdrukking in de taal die wordt gesproken niet meteen te binnen schiet (je kunt de talen specificeren in het deel in hoofdletters).",
+		"id": "ea8d922d-d652-476b-a6b3-96d554faed94",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan woorden en frasen uit VERSCHILLENDE TALEN IN ZIJN OF HAAR MEERTALIGE REPERTOIRE gebruiken om een eenvoudige, praktische transactie of informatie-uitwisseling uit te voeren (je kunt de talen specificeren in het deel in hoofdletters).",
-		"id": "afe7d996-acdb-4dd4-8ab8-8647e5030e61"
+		"title": "Kan eenvoudige woorden en frasen uit VERSCHILLENDE TALEN IN HET EIGEN MEERTALIGE REPERTOIRE gebruiken om een eenvoudige, praktische transactie of informatie-uitwisseling uit te voeren (je kunt de talen specificeren in het deel in hoofdletters).",
+		"id": "afe7d996-acdb-4dd4-8ab8-8647e5030e61",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan zijn of haar beperkte repertoire in VERSCHILLENDE TALEN inzetten om een probleem uit te leggen of om hulp of verduidelijking te vragen (je kunt de talen specificeren in het deel in hoofdletters).",
-		"id": "e0488756-0b45-44b2-a5e3-1876579e88ef"
+		"title": "Kan het eigen beperkte repertoire in VERSCHILLENDE TALEN inzetten om een probleem uit te leggen of om hulp of verduidelijking te vragen (je kunt de talen specificeren in het deel in hoofdletters).",
+		"id": "e0488756-0b45-44b2-a5e3-1876579e88ef",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan creatief gebruikmaken van zijn of haar beperkte repertoire in VERSCHILLENDE TALEN IN ZIJN OF HAAR MEERTALIGE REPERTOIRE voor alledaagse contexten, om met een onverwachte situatie om te gaan (je kunt de talen specificeren in het deel in hoofdletters).",
-		"id": "fb844be4-fb5d-40f6-8364-f933aef3af55"
+		"title": "Kan creatief gebruikmaken van het beperkte repertoire in VERSCHILLENDE TALEN IN HET EIGEN MEERTALIGE REPERTOIRE voor alledaagse contexten, om met een onverwachte situatie om te gaan (je kunt de talen specificeren in het deel in hoofdletters).",
+		"id": "fb844be4-fb5d-40f6-8364-f933aef3af55",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan gebruikmaken van VERSCHILLENDE TALEN IN ZIJN OF HAAR MEERTALIGE REPERTOIRE om andere mensen aan te moedigen de taal te gebruiken die ze het prettigst vinden (je kunt de talen specificeren in het deel in hoofdletters).",
-		"id": "720007e5-f957-464c-8338-d9a8391e56f8"
+		"title": "Kan gebruikmaken van VERSCHILLENDE TALEN IN HET EIGEN MEERTALIGE REPERTOIRE om andere mensen aan te moedigen de taal te gebruiken die ze het prettigst vinden (je kunt de talen specificeren in het deel in hoofdletters).",
+		"id": "720007e5-f957-464c-8338-d9a8391e56f8",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan gebruikmaken van VERSCHILLENDE TALEN IN ZIJN OF HAAR MEERTALIGE REPERTOIRE tijdens samenwerkende interactie, om de aard van de taak, de belangrijkste stappen, de te nemen beslissingen, de verwachte resultaten te verduidelijken (je kunt de talen specificeren in het deel in hoofdletters).",
-		"id": "d56557ba-ceee-4925-9d4f-98511da80d7a"
+		"title": "Kan gebruikmaken van VERSCHILLENDE TALEN IN HET EIGEN MEERTALIGE REPERTOIRE tijdens samenwerkende interactie, om de aard van de taak, de belangrijkste stappen, de te nemen beslissingen, en de verwachte resultaten te verduidelijken (je kunt de talen specificeren in het deel in hoofdletters).",
+		"id": "d56557ba-ceee-4925-9d4f-98511da80d7a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan afwisselen tussen TALEN IN ZIJN OF HAAR MEERTALIGE REPERTOIRE om specialistische informatie en zaken met betrekking tot zijn of haar interessegebied over te brengen op verschillende gesprekspartners (je kunt de talen specificeren in het deel in hoofdletters).",
-		"id": "566af600-e314-400b-b65d-f79091e448d3"
+		"title": "Kan afwisselen tussen TALEN IN HET EIGEN MEERTALIGE REPERTOIRE om specialistische informatie en zaken met betrekking tot het eigen interessegebied over te brengen op verschillende gesprekspartners [je kunt de talen specificeren in het deel in hoofdletters].",
+		"id": "566af600-e314-400b-b65d-f79091e448d3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan in een uitspraak een uitdrukking uit EEN ANDERE TAAL IN ZIJN OF HAAR MEERTALIGE REPERTOIRE gebruiken die bijzonder geschikt is voor de situatie of het concept dat wordt besproken en deze zo nodig aan de gesprekspartner uitleggen (je kunt de talen specificeren in het deel in hoofdletters) (hoog B2-niveau, ook geschikt voor C-niveaus).",
-		"id": "279136d0-bf40-4d5c-af3e-57db1c7dc109"
+		"title": "Kan in een uiting een uitdrukking uit EEN ANDERE TAAL IN HET EIGEN MEERTALIGE REPERTOIRE gebruiken die bijzonder geschikt is voor de situatie of het concept dat wordt besproken en deze zo nodig aan de gesprekspartner uitleggen (je kunt de talen specificeren in het deel in hoofdletters) (hoog B2-niveau, ook geschikt voor C-niveaus).",
+		"id": "279136d0-bf40-4d5c-af3e-57db1c7dc109",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan efficiënt afwisselen tussen TALEN IN ZIJN OF HAAR MEERTALIGE REPERTOIRE om begrip van en tussen derde partijen die geen gemeenschappelijke taal hebben mogelijk te maken (je kunt de talen specificeren in het deel in hoofdletters) (hoog B2-niveau, ook geschikt voor C-niveaus).",
-		"id": "51920dfa-d179-4f1b-9ea4-53ee3c93336b"
+		"title": "Kan efficiënt afwisselen tussen TALEN IN HET EIGEN MEERTALIGE REPERTOIRE om begrip van en tussen derde partijen die geen gemeenschappelijke taal hebben mogelijk te maken [je kunt de talen specificeren in het deel in hoofdletters] (hoog B2-niveau, ook geschikt voor C-niveaus).",
+		"id": "51920dfa-d179-4f1b-9ea4-53ee3c93336b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan herkennen in hoeverre het passend is om flexibel gebruik te maken van VERSCHILLENDE TALEN IN ZIJN OF HAAR MEERTALIGE REPERTOIRE in een specifieke situatie, teneinde de efficiëntie van de communicatie te verbeteren (je kunt de talen specificeren in het deel in hoofdletters) (hoog B2-niveau, ook geschikt voor C-niveaus).",
-		"id": "b26e4edc-5d85-4419-a068-fbb5c935af48"
+		"title": "Kan herkennen in hoeverre het passend is om flexibel gebruik te maken van VERSCHILLENDE TALEN IN HET EIGEN MEERTALIGE REPERTOIRE in een specifieke situatie, teneinde de efficiëntie van de communicatie te verbeteren (je kunt de talen specificeren in het deel in hoofdletters) (hoog B2-niveau, ook geschikt voor C-niveaus).",
+		"id": "b26e4edc-5d85-4419-a068-fbb5c935af48",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan het begrip en de bespreking van een tekst die is gesproken of geschreven in ÉÉN TAAL ondersteunen door deze in EEN ANDERE TAAL IN ZIJN OF HAAR MEERTALIGE REPERTOIRE uit te leggen, samen te vatten, te verduidelijken of uit te breiden (je kunt de talen specificeren in het deel in hoofdletters).",
-		"id": "dcce4493-125d-4352-ab32-17f45d511108"
+		"title": "Kan het begrip en de bespreking van een tekst die is gesproken of geschreven in ÉÉN TAAL ondersteunen door deze in EEN ANDERE TAAL IN HET EIGEN MEERTALIGE REPERTOIRE uit te leggen, samen te vatten, te verduidelijken of uit te breiden (je kunt de talen specificeren in het deel in hoofdletters).",
+		"id": "dcce4493-125d-4352-ab32-17f45d511108",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan spontaan en flexibel reageren in de juiste taal als iemand anders overschakelt op EEN ANDERE TAAL IN ZIJN OF HAAR MEERTALIGE REPERTOIRE (je kunt de talen specificeren in het deel in hoofdletters).",
-		"id": "f5569086-ce1e-43e9-aee5-5bb88c4da397"
+		"title": "Kan spontaan en flexibel reageren in de juiste taal als iemand anders overschakelt op EEN ANDERE TAAL IN HET EIGEN MEERTALIGE REPERTOIRE (je kunt de talen specificeren in het deel in hoofdletters).",
+		"id": "f5569086-ce1e-43e9-aee5-5bb88c4da397",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan specialistische terminologie  gebruiken en uitleggen uit EEN ANDERE TAAL IN ZIJN OF HAAR MEERTALIGE REPERTOIRE waarmee de gesprekspartner(s) meer vertrouwd is/zijn, om het begrip te verbeteren bij de bespreking van abstracte en specialistische onderwerpen (je kunt de talen specificeren in het deel in hoofdletters).",
-		"id": "b66cb674-237b-4972-962e-094db62ffde4"
+		"title": "Kan specialistische terminologie uit EEN ANDERE TAAL IN HET EIGEN MEERTALIGE REPERTOIRE gebruiken en uitleggen waarmee de gesprekspartner(s) meer vertrouwd is/zijn, om het begrip te verbeteren bij de bespreking van abstracte en specialistische onderwerpen (je kunt de talen specificeren in het deel in hoofdletters).",
+		"id": "b66cb674-237b-4972-962e-094db62ffde4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan effectief deelnemen aan een gesprek in TWEE OF MEER TALEN IN ZIJN OF HAAR MEERTALIGE REPERTIORE en zich aanpassen aan de veranderingen van taal en inspelen op de behoeften en linguïstische vaardigheden van de gesprekspartners (je kunt de talen specificeren in het deel in hoofdletters).",
-		"id": "25d76e3b-91ff-4a17-82e7-51ed5e653c55"
+		"title": "Kan effectief deelnemen aan een gesprek in TWEE OF MEER TALEN IN HET EIGEN MEERTALIGE REPERTIORE en zich aanpassen aan de veranderingen van taal en inspelen op de behoeften en linguïstische vaardigheden van de gesprekspartners (je kunt de talen specificeren in het deel in hoofdletters).",
+		"id": "25d76e3b-91ff-4a17-82e7-51ed5e653c55",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan flexibel afwisselen tussen talen om communicatie in een meertalige context mogelijk te maken door bijdragen aan de discussie en teksten waarnaar wordt verwezen samen te vatten en toe te lichten in VERSCHILLENDE TALEN IN ZIJN OF HAAR MEERTALIGE REPERTOIRE (je kunt de talen specificeren in het deel in hoofdletters).",
-		"id": "cf74b9df-1ea9-4f05-856c-beb878606d81"
+		"title": "Kan flexibel afwisselen tussen talen om communicatie in een meertalige context mogelijk te maken door bijdragen aan de discussie en teksten waarnaar wordt verwezen samen te vatten en toe te lichten in de VERSCHILLENDE TALEN IN HET EIGEN MEERTALIGE REPERTOIRE (je kunt de talen specificeren in het deel in hoofdletters).",
+		"id": "cf74b9df-1ea9-4f05-856c-beb878606d81",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan overeenkomsten en verschillen verkennen tussen metaforen en andere beeldspraak in de TALEN IN ZIJN OF HAAR MEERTALIGE REPERTOIRE, om een retorisch effect te bereiken of voor de lol  (je kunt de talen specificeren in het deel in hoofdletters).",
-		"id": "7e068406-eaf4-40f2-8771-fa37b1bc9b9d"
+		"title": "Kan overeenkomsten en verschillen verkennen tussen metaforen en andere beeldspraak in de TALEN IN HET EIGEN MEERTALIGE REPERTOIRE, om een retorisch effect te bereiken of voor de lol (je kunt de talen specificeren in het deel in hoofdletters).",
+		"id": "7e068406-eaf4-40f2-8771-fa37b1bc9b9d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan interactief zijn in een meertalige context met betrekking tot abstracte en gespecialiseerde onderwerpen door flexibel af te wisselen tussen TALEN IN ZIJN OF HAAR MEERTALIGE REPERTOIRE en zo nodig de verschillende bijdragen uit te leggen (je kunt de talen specificeren in het deel in hoofdletters).",
-		"id": "93c5d263-c69f-491d-aa19-f7cb1517725c"
+		"title": "Kan interactief zijn in een meertalige context met betrekking tot abstracte en gespecialiseerde onderwerpen door flexibel af te wisselen tussen TALEN IN HET EIGEN MEERTALIGE REPERTOIRE en zo nodig de verschillende bijdragen uit te leggen (je kunt de talen specificeren in het deel in hoofdletters).",
+		"id": "93c5d263-c69f-491d-aa19-f7cb1517725c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
