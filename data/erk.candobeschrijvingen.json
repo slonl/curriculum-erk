@@ -222,57 +222,73 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan internationaal gebruikte woorden en woorden die voorkomen in VERSCHILLENDE TALEN (bijvoorbeeld Haus/huis/house) herkennen en zo \r\n- de betekenis van eenvoudige borden en kennisgevingen achterhalen;\r\n- de waarschijnlijke boodschap in een korte, eenvoudige schriftelijke tekst identificeren;\r\n- eenvoudige sociale uitwisselingen die zeer langzaam en duidelijk in zijn of haar aanwezigheid plaatsvinden in grote lijnen volgen;\r\n- achterhalen wat mensen rechtstreeks tegen hem of haar proberen te zeggen, als ze zeer langzaam en duidelijk spreken, zo nodig met herhaling (je kunt de talen specificeren in het deel in hoofdletters).",
-		"id": "cf96f5ab-e2a3-4630-adad-964dddb09113"
+		"title": "Kan internationaal gebruikte woorden en woorden die voorkomen in VERSCHILLENDE TALEN (bijvoorbeeld Haus/huis/house) herkennen en zo \n- de betekenis van eenvoudige borden en kennisgevingen achterhalen;\n- de waarschijnlijke boodschap in een korte, eenvoudige tekst identificeren;\n- korte, eenvoudige sociale uitwisselingen die zeer langzaam en duidelijk in het eigen bijzijn plaatsvinden in grote lijnen volgen;\n- achterhalen wat mensen rechtstreeks proberen te zeggen, als de articulatie zeer langzaam en duidelijk is, zo nodig met herhaling (je kunt de talen specificeren in het deel in hoofdletters).",
+		"id": "cf96f5ab-e2a3-4630-adad-964dddb09113",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
 		"title": "Kan eenvoudige waarschuwingen, instructies en productinformatie die parallel worden verstrekt in VERSCHILLENDE TALEN gebruiken om relevante informatie te vinden (je kunt de talen specificeren in het deel in hoofdletters).",
-		"id": "bd8cdc00-142b-4e99-9e11-99564b4840ea"
+		"id": "bd8cdc00-142b-4e99-9e11-99564b4840ea",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan korte, duidelijk geschreven boodschappen en instructies begrijpen door de delen die hij of zij begrijpt uit de versies in VERSCHILLENDE TALEN aan elkaar te passen (je kunt de talen specificeren in het deel in hoofdletters).",
-		"id": "a781146f-3fdf-411a-b910-24095e29d6bc"
+		"title": "Kan korte, duidelijke boodschappen en instructies begrijpen door het combineren van wat is begrepen uit de beschikbare versies in VERSCHILLENDE TALEN (je kunt de talen specificeren in het deel in hoofdletters).",
+		"id": "a781146f-3fdf-411a-b910-24095e29d6bc",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan korte, duidelijk gearticuleerde mondelinge mededelingen begrijpen door de delen die hij of zij begrijpt uit de beschikbare versies in VERSCHILLENDE TALEN aan elkaar te passen (je kunt de talen specificeren in het deel in hoofdletters).",
-		"id": "df615e5a-c36e-4c87-9d10-9db3fe201d16"
+		"title": "Kan korte, duidelijk gearticuleerde mededelingen begrijpen door het combineren van wat is begrepen uit de beschikbare versies in VERSCHILLENDE TALEN (je kunt de talen specificeren in het deel in hoofdletters).",
+		"id": "df615e5a-c36e-4c87-9d10-9db3fe201d16",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan zijn of haar kennis van contrasterende grammaticale structuur en functionele uitdrukkingen in TALEN IN ZIJN OF HAAR MEERTALIGE REPERTOIRE gebruiken om het begrip te ondersteunen (je kunt de talen specificeren in het deel in hoofdletters).",
-		"id": "dcba1692-395f-4218-9a2f-880730576687"
+		"title": "Kan de eigen kennis van contrasterende grammaticale structuur en functionele uitdrukkingen in TALEN IN HET EIGEN MEERTALIGE REPERTOIRE gebruiken om het begrip te ondersteunen (je kunt de talen specificeren in het deel in hoofdletters).",
+		"id": "dcba1692-395f-4218-9a2f-880730576687",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan overeenkomsten en tegenstellingen herkennen in de manier waarop concepten zijn uitgedrukt in VERSCHILLENDE TALEN, om onderscheid te maken tussen identiek gebruik van hetzelfde basiswoord en 'valse vrienden' (je kunt de talen specificeren in het deel in hoofdletters).",
-		"id": "b7ca04db-afd0-420b-9aad-a93da9f6ea62"
+		"title": "Kan overeenkomsten en tegenstellingen herkennen in de manier waarop concepten zijn uitgedrukt in VERSCHILLENDE TALEN, om onderscheid te maken tussen identiek gebruik van hetzelfde woord en 'valse vrienden' (je kunt de talen specificeren in het deel in hoofdletters).",
+		"id": "b7ca04db-afd0-420b-9aad-a93da9f6ea62",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan informatie oppikken uit documenten in zijn of haar vakgebied die zijn geschreven in VERSCHILLENDE TALEN, bijvoorbeeld om op te nemen in een presentatie  (je kunt de talen specificeren in het deel in hoofdletters).",
-		"id": "ed9786a9-de93-4d24-9dbf-022362d55bb6"
+		"title": "Kan informatie oppikken uit documenten in VERSCHILLENDE TALEN, in het eigen vakgebied, bijvoorbeeld om op te nemen in een presentatie (je kunt de talen specificeren in het deel in hoofdletters).",
+		"id": "ed9786a9-de93-4d24-9dbf-022362d55bb6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan de boodschap van een tekst afleiden door gebruik te maken van wat hij of zij heeft begrepen van teksten over hetzelfde thema die zijn geschreven IN ANDERE TALEN (bijvoorbeeld kort nieuws, museumbrochures, onlinerecensies) (je kunt de talen specificeren in het deel in hoofdletters).",
-		"id": "71f2f2ad-0667-4698-b7a2-9c4e9825511a"
+		"title": "Kan de boodschap van een tekst afleiden door gebruik te maken van de informatie begrepen uit teksten over hetzelfde thema IN ANDERE TALEN (bijvoorbeeld kort nieuws, museumbrochures, online recensies) (je kunt de talen specificeren in het deel in hoofdletters).",
+		"id": "71f2f2ad-0667-4698-b7a2-9c4e9825511a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -285,31 +301,39 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan hetgeen wat hij of zij heeft begrepen in ÉÉN TAAL gebruiken om het onderwerp en de belangrijkste boodschap van een tekst in EEN ANDERE TAAL te begrijpen (bijvoorbeeld bij het lezen van korte krantenartikelen over hetzelfde thema die zijn geschreven in verschillende talen) (je kunt de talen specificeren in het deel in hoofdletters).",
-		"id": "0cb6f406-0886-400c-8edd-03edd35c4f88"
+		"title": "Kan de informatie begrepen in ÉÉN TAAL gebruiken om het onderwerp en de belangrijkste boodschap van een tekst in EEN ANDERE TAAL te begrijpen (bijvoorbeeld bij het lezen van korte krantenartikelen over hetzelfde thema in verschillende talen) (je kunt de talen specificeren in het deel in hoofdletters).",
+		"id": "0cb6f406-0886-400c-8edd-03edd35c4f88",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan zijn of haar kennis van contrasterende genreconventies en tekstpatronen in TALEN IN ZIJN OF HAAR MEERTALIGE REPERTOIRE gebruiken om het begrip te ondersteunen (je kunt de talen specificeren in het deel in hoofdletters).",
-		"id": "50a121cd-d28f-46ac-bd03-f6dfa8e0ac27"
+		"title": "Kan de eigen kennis van contrasterende genreconventies en tekstpatronen in TALEN IN HET EIGEN MEERTALIGE REPERTOIRE gebruiken om het begrip te ondersteunen (je kunt de talen specificeren in het deel in hoofdletters).",
+		"id": "50a121cd-d28f-46ac-bd03-f6dfa8e0ac27",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Geen descriptoren beschikbaar: zie B2.",
+		"title": "Geen descriptoren beschikbaar, zie B2.",
 		"isempty": true,
-		"id": "04b7617a-b327-4a84-8239-563f66e45b88"
+		"id": "04b7617a-b327-4a84-8239-563f66e45b88",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Geen descriptoren beschikbaar: zie B2.",
+		"title": "Geen descriptoren beschikbaar, zie B2.",
 		"isempty": true,
-		"id": "339bc62e-dcc1-4c48-b771-9addbc4201cb"
+		"id": "339bc62e-dcc1-4c48-b771-9addbc4201cb",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
