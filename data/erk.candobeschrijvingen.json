@@ -1826,8 +1826,10 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan eenvoudige woorden gebruiken om iemand te vragen iets uit te leggen. Kan herkennen wanneer er problemen optreden en in eenvoudige taal aangeven wat de aard van het probleem lijkt te zijn.",
-		"id": "9d9ae659-936b-4844-b92b-bfa10c6b3b63"
+		"title": "Kan eenvoudige woorden gebruiken om iemand te vragen iets uit te leggen.",
+		"id": "9d9ae659-936b-4844-b92b-bfa10c6b3b63",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -12677,6 +12679,15 @@
 		"id": "04f4301c-a29c-40bb-be29-bb78fbc2cfbe",
 		"prefix": "",
 		"title": "Kan voor zichzelf aangeven dat iets duidelijk is en vragen of anderen het begrijpen.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"id": "f69b0d94-0317-4f29-a068-b48de2ab7a55",
+		"prefix": "",
+		"title": "Kan herkennen wanneer er problemen optreden en in eenvoudige taal aangeven wat de aard van het probleem lijkt te zijn.",
 		"description": ""
 	}
 ]
