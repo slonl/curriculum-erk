@@ -1817,8 +1817,10 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan eenvoudige, voorspelbare informatie van direct belang overbrengen die wordt verstrekt op korte, eenvoudige borden en mededelingen, posters en programma's.",
-		"id": "a69229df-441d-4886-b599-a9c32285cfd4"
+		"title": "Kan eenvoudige, voorspelbare informatie van direct belang overbrengen die wordt verstrekt op korte, eenvoudige borden en kennisgevingen, posters en programma's.",
+		"id": "a69229df-441d-4886-b599-a9c32285cfd4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1832,14 +1834,18 @@
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
 		"title": "Kan het belangrijkste punt of de belangrijkste punten in korte, eenvoudige gesprekken of teksten over alledaagse onderwerpen van direct belang overbrengen, mits deze duidelijk zijn uitgedrukt in eenvoudige taal.",
-		"id": "138a64cb-9f96-43e7-b283-93b58d06fe14"
+		"id": "138a64cb-9f96-43e7-b283-93b58d06fe14",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan een ondersteunende rol spelen in interactie, mits de andere deelnemers langzaam spreken en een of meer van hen hem of haar helpen om bij te dragen en om zijn of haar suggesties uit te drukken.",
-		"id": "14255d2b-40c2-4b1f-8203-b895a64d7659"
+		"title": "Kan een ondersteunende rol spelen in interactie, mits de andere deelnemers langzaam spreken en een of meer van hen helpen om bij te dragen en om suggesties uit te drukken.",
+		"id": "14255d2b-40c2-4b1f-8203-b895a64d7659",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1852,57 +1858,73 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan mensen van verschillende achtergronden aan elkaar voorstellen, waarbij hij of zij zich ervan bewust is dat sommige vragen verschillend kunnen worden opgevat, en andere mensen uitnodigen hun expertise, ervaring en standpunten te delen.",
-		"id": "67887bcb-0a07-4474-b686-a6c451b5e018"
+		"title": "Kan mensen van verschillende achtergronden aan elkaar voorstellen, met de wetenschap dat sommige vragen verschillend kunnen worden opgevat, en andere mensen uitnodigen hun expertise, ervaring en standpunten te delen.",
+		"id": "67887bcb-0a07-4474-b686-a6c451b5e018",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan informatie overbrengen uit heldere, goed gestructureerde informatieve teksten over vertrouwde of actuele onderwerpen of onderwerpen waar hij of zij belangstelling voor heeft, hoewel hij of zij door lexicale beperkingen soms moeite heeft met formuleren.",
-		"id": "54d13f76-d214-4207-a2ac-b500ff3cac78"
+		"title": "Kan informatie in heldere, goed gestructureerde informatieve teksten over vertrouwde of actuele onderwerpen of onderwerpen binnen de eigen belangstelling overbrengen, ondanks mogelijke lexicale beperkingen bij het formuleren.",
+		"id": "54d13f76-d214-4207-a2ac-b500ff3cac78",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
 		"title": "Kan samenwerken met mensen van verschillende achtergronden en toont belangstelling en inlevingsvermogen door eenvoudige vragen te stellen en te beantwoorden, suggesties te formuleren en hierop te reageren, te vragen of mensen het ermee eens zijn en alternatieve benaderingen voor te stellen.",
-		"id": "897eb63c-6aa7-40f1-aaf3-ee7899737445"
+		"id": "897eb63c-6aa7-40f1-aaf3-ee7899737445",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan de belangrijkste punten overbrengen uit lange teksten die zijn opgesteld in ongecompliceerde taal over onderwerpen binnen de persoonlijke belangstellingssfeer, mits hij of zij de betekenis van bepaalde uitdrukkingen kan controleren.",
-		"id": "a7f44b6e-654b-4e99-a937-42238c6d997c"
+		"title": "Kan de belangrijkste punten in lange teksten, die zijn opgesteld in ongecompliceerde taal en gaan over onderwerpen binnen de persoonlijke belangstellingssfeer, overbrengen, mits het mogelijk is om de betekenis van bepaalde uitdrukkingen te controleren.",
+		"id": "a7f44b6e-654b-4e99-a937-42238c6d997c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
 		"title": "Kan samenwerken met mensen van verschillende achtergronden en een positieve sfeer creëren door ondersteuning te geven, vragen te stellen om gemeenschappelijke doelen vast te stellen, mogelijkheden om die te bereiken te vergelijken en suggesties voor verdere stappen uit te leggen.",
-		"id": "2912504b-3099-4eaf-a1eb-0c34fb5652e6"
+		"id": "2912504b-3099-4eaf-a1eb-0c34fb5652e6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan de ideeën van andere mensen verder ontwikkelen, vragen stellen die reacties oproepen vanuit verschillende perspectieven, en een oplossing of verdere stappen voorstellen.",
-		"id": "f7b6aba9-a98c-471b-aef0-b3c538431e95"
+		"title": "Kan de ideeën van andere mensen verder ontwikkelen door vragen te stellen die reacties oproepen vanuit verschillende perspectieven, en een oplossing of verdere stappen voorstellen.",
+		"id": "f7b6aba9-a98c-471b-aef0-b3c538431e95",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan gedetailleerde informatie en argumenten betrouwbaar overbrengen, bijvoorbeeld het belangrijkste punt of de belangrijkste punten in complexe, maar goed gestructureerde teksten in zijn of haar professionele, academische en persoonlijke interessegebied.",
-		"id": "0cf9a7ea-85c6-4d3d-a0f6-c5c7082ee1fe"
+		"title": "Kan gedetailleerde informatie en argumenten betrouwbaar overbrengen, bijvoorbeeld de belangrijkste punten in complexe, maar goed gestructureerde teksten in het eigen professionele, academische en persoonlijke interessegebied.",
+		"id": "0cf9a7ea-85c6-4d3d-a0f6-c5c7082ee1fe",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan een ondersteunende omgeving tot stand brengen voor het delen van ideeën en het mogelijk maken van discussie over gevoelige kwesties. Geeft daarbij blijk van begrip voor verschillende perspectieven, moedigt mensen aan over kwesties na te denken en past de manier waarop hij of zij dingen uitdrukt fijngevoelig aan.",
-		"id": "9a016ef4-2ef6-4d1d-967c-c28272be31a6"
+		"title": "Kan een positief klimaat tot stand brengen voor het delen van ideeën en het mogelijk maken van discussie over gevoelige kwesties, en daarbij blijk geven van begrip voor verschillende perspectieven, mensen aanmoedigen over kwesties na te denken en eigen taalgebruik met gevoel aanpassen.",
+		"id": "9a016ef4-2ef6-4d1d-967c-c28272be31a6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1915,8 +1937,10 @@
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan de belangrijkste inhoud overbrengen van goed gestructureerde, maar lange en inhoudelijk complexe teksten over onderwerpen binnen zijn of haar professionele, academische en persoonlijke interessegebieden, en de meningen en bedoelingen van sprekers verduidelijken.",
-		"id": "9711a071-1b87-45cf-90c5-5d5682dddf58"
+		"title": "Kan de belangrijkste inhoud overbrengen van goed gestructureerde, maar lange en inhoudelijk complexe teksten over onderwerpen binnen de eigen professionele, academische en persoonlijke interessegebieden, en de meningen en bedoelingen van sprekers verduidelijken.",
+		"id": "9711a071-1b87-45cf-90c5-5d5682dddf58",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1930,14 +1954,18 @@
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
 		"title": "Kan voortbouwen op verschillende bijdragen aan een discussie en de redenering stimuleren met een reeks vragen.",
-		"id": "5dbad89e-a6db-4853-9d90-84838bcaca95"
+		"id": "5dbad89e-a6db-4853-9d90-84838bcaca95",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan helder en vloeiend in goed gestructureerde taal de belangrijke ideeën in lange, complexe teksten weergeven, al dan niet in zijn of haar eigen vakgebied, met inbegrip van evaluerende aspecten en de meeste nuances.",
-		"id": "16f3779d-1db1-4586-a2b3-58cad76ab527"
+		"title": "Kan helder en vloeiend in goed gestructureerde taal de belangrijke ideeën in lange, complexe teksten weergeven, al dan niet in het eigen vakgebied, met inbegrip van evaluerende aspecten en de meeste nuances.",
+		"id": "16f3779d-1db1-4586-a2b3-58cad76ab527",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
