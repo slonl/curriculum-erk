@@ -3,7 +3,7 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Geen descriptoren beschikbaar. (Voorbeeld)",
+		"title": "Geen descriptoren beschikbaar.",
 		"isempty": true,
 		"id": "6f0db9ff-14ba-4564-881f-667f0b5c211e",
 		"prefix": "",
@@ -13,64 +13,82 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan verschillende manieren van nummeren, afstanden meten, de tijd aangeven enzovoort herkennen, al heeft hij of zij mogelijk moeite dit toe te passen, zelfs in eenvoudige alledaagse transacties van concrete aard.",
-		"id": "2bd0ee74-a662-4e39-ace6-185b0a3fe1e7"
+		"title": "Kan verschillende manieren van nummeren, afstanden meten, de tijd aangeven enzovoort herkennen, al is het misschien moeilijk dit toe te passen, zelfs in eenvoudige alledaagse transacties van concrete aard.",
+		"id": "2bd0ee74-a662-4e39-ace6-185b0a3fe1e7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan herkennen wanneer er problemen optreden in interacties met leden van andere culturen, ook al weet hij of zij zelf misschien niet zeker hoe hij of zij zich in die situatie moet gedragen.",
-		"id": "890010f8-0bec-401a-92b0-50abb46d566b"
+		"title": "Kan herkennen wanneer er problemen optreden in interacties met leden van andere culturen, ondanks onzekerheid over het eigen gedrag in die situatie.",
+		"id": "890010f8-0bec-401a-92b0-50abb46d566b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan inzien dat zijn of haar gedrag in alledaagse transacties een andere boodschap kan overbrengen dan de bedoeling is en kan proberen dit eenvoudig uit te leggen.",
-		"id": "f9bb973c-094d-4bd3-8e16-88c89f942554"
+		"title": "Kan inzien dat het eigen gedrag in alledaagse transacties een andere boodschap kan overbrengen dan de bedoeling is en kan proberen dit eenvoudig uit te leggen.",
+		"id": "f9bb973c-094d-4bd3-8e16-88c89f942554",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan zich gepast gedragen als het gaat om alledaagse begroetingen, afscheid, en uitingen van dank en excuses, hoewel hij of zij niet goed raad weet met afwijkingen van de routine.",
-		"id": "cc4f8e7a-8782-416d-add0-7c61a58b81de"
+		"title": "Kan zich gepast gedragen als het gaat om alledaagse begroetingen, afscheid, en uitingen van dank en excuses, hoewel omgaan met afwijkingen van de routine moeilijk is.",
+		"id": "cc4f8e7a-8782-416d-add0-7c61a58b81de",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan elementaire culturele conventies die verband houden met alledaagse sociale uitwisselingen (bijvoorbeeld verschillende vormen van begroeting en rituelen) herkennen en toepassen.",
-		"id": "291c0eab-e771-4186-8c45-348bd712b666"
+		"title": "Kan elementaire culturele conventies die verband houden met alledaagse sociale uitwisselingen (bijvoorbeeld verschillende groeten, rituelen) herkennen en toepassen.",
+		"id": "291c0eab-e771-4186-8c45-348bd712b666",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan in eenvoudige bewoordingen bespreken hoe zijn of haar eigen cultureel bepaalde handelingen door mensen uit andere culturen anders opgevat kunnen worden.",
-		"id": "0a2d8368-9f86-4d41-8bb9-fc8cac61531b"
+		"title": "Kan in eenvoudige bewoordingen bespreken hoe de eigen cultureel bepaalde handelingen door mensen uit andere culturen anders opgevat kunnen worden.",
+		"id": "0a2d8368-9f86-4d41-8bb9-fc8cac61531b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan in eenvoudige bewoordingen bespreken hoe dingen die 'vreemd' op hem of haar overkomen in een andere sociaal-culturele context best 'normaal' kunnen zijn voor de andere betrokkenen.",
-		"id": "060cc694-5a5d-4a22-a4b5-1404e8f995d2"
+		"title": "Kan in eenvoudige bewoordingen bespreken hoe dingen die “vreemd” overkomen in een andere sociaal-culturele context best “normaal” kunnen zijn voor de andere betrokkenen.",
+		"id": "060cc694-5a5d-4a22-a4b5-1404e8f995d2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan in eenvoudige bewoordingen uitleggen hoe zijn of haar eigen waarden en gedragingen van invloed zijn op zijn of haar kijk op de waarden en gedragingen van anderen.",
-		"id": "6f9b7a61-024c-4fb2-9432-ddd97e746554"
+		"title": "Kan in eenvoudige bewoordingen uitleggen hoe de eigen waarden en gedragingen van invloed zijn op de kijk op de waarden en gedragingen van anderen.",
+		"id": "6f9b7a61-024c-4fb2-9432-ddd97e746554",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan kenmerken van zijn of haar eigen cultuur uitleggen aan leden van een andere cultuur of kenmerken van de andere cultuur uitleggen aan leden van zijn of haar eigen cultuur.",
-		"id": "bd355b53-01fc-4407-ac81-948251f0d9ad"
+		"title": "Kan kenmerken van de eigen cultuur uitleggen aan leden van een andere cultuur of kenmerken van de andere cultuur uitleggen aan leden van de eigen cultuur.",
+		"id": "bd355b53-01fc-4407-ac81-948251f0d9ad",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -90,8 +108,10 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan bepaalde manieren van communiceren in zijn of haar eigen cultuur en andere culturen en de risico's van misverstanden die ze oproepen overdenken en uitleggen.",
-		"id": "9806d7f0-9068-48cd-95fe-553712fc75f3"
+		"title": "Kan bepaalde manieren van communiceren in de eigen cultuur en andere culturen en de risico's van misverstanden die ze oproepen overdenken en uitleggen.",
+		"id": "9806d7f0-9068-48cd-95fe-553712fc75f3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -104,71 +124,91 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan, tijdens een interculturele ontmoeting, erkennen dat wat de ene persoon vanzelfsprekend vindt in een bepaalde situatie, dat voor een ander niet noodzakelijkerwijs is en kan passend reageren en zich passend uitdrukken.",
-		"id": "d578b600-59a0-4175-b08d-72ed5a38d9b5"
+		"title": "Kan tijdens een interculturele ontmoeting erkennen dat wat de ene persoon vanzelfsprekend vindt in een bepaalde situatie, dat voor een ander niet noodzakelijkerwijs is en kan passend reageren en zich passend uitdrukken.",
+		"id": "d578b600-59a0-4175-b08d-72ed5a38d9b5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan overeenkomsten en verschillen in cultureel bepaalde gedragspatronen (bijvoorbeeld gebaren en spraakvolume) identificeren en daarop reflecteren en het belang ervan bespreken om wederzijds begrip te bewerkstelligen.",
-		"id": "cbcc183d-645a-4eba-8d7b-3461249483c9"
+		"title": "Kan overeenkomsten en verschillen in cultureel bepaalde gedragspatronen (bijvoorbeeld gebaren en spraakvolume of, voor gebarentalen, gebaargrootte) identificeren en hierover nadenken en het belang ervan bespreken om wederzijds begrip te bewerkstelligen.",
+		"id": "cbcc183d-645a-4eba-8d7b-3461249483c9",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan de objectiviteit en evenwichtigheid van informatie en opinies in de media over zijn of haar eigen en andere gemeenschappen bespreken (hoog B2-niveau, ook geschikt voor C-niveaus).",
-		"id": "e9df575c-c54a-4df7-8d6b-bc0d51472052"
+		"title": "Kan de objectiviteit en evenwichtigheid van informatie en opinies in de media over de eigen en andere gemeenschappen bespreken (hoog niveau voor B2, ook geschikt voor C-niveaus).",
+		"id": "e9df575c-c54a-4df7-8d6b-bc0d51472052",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan een document of gebeurtenis uit een andere cultuur interpreteren en uitleggen en in verband brengen met documenten of gebeurtenissen uit zijn of haar eigen cultuur of culturen en/of andere culturen waarmee hij of zij vertrouwd is (hoog B2-niveau, ook geschikt voor C-niveaus).",
-		"id": "c64abf3c-f8b4-4d12-be50-1d11a42abd51"
+		"title": "Kan een document of gebeurtenis uit een andere cultuur interpreteren en uitleggen en in verband brengen met documenten of gebeurtenissen uit de eigen cultuur of culturen en/of andere vertrouwde culturen (hoog niveau voor B2, ook geschikt voor C-niveaus).",
+		"id": "c64abf3c-f8b4-4d12-be50-1d11a42abd51",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan zijn of haar interpretatie van de culturele aannamen, vooropgezette meningen, stereotypen en vooroordelen van zijn of haar eigen gemeenschap en van andere gemeenschappen waarmee hij of zij vertrouwd is, uitleggen (hoog B2-niveau, ook geschikt voor C-niveaus).",
-		"id": "e82ee434-f473-459f-85a1-192950a8289e"
+		"title": "Kan de interpretatie van de culturele aannamen, vooropgezette meningen, stereotypen en vooroordelen van de eigen gemeenschap en van andere vertrouwde gemeenschappen uitleggen (hoog niveau voor B2, ook geschikt voor C-niveaus).",
+		"id": "e82ee434-f473-459f-85a1-192950a8289e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan de standpunten en gebruiken van zijn of haar eigen en andere sociale groepen beschrijven en evalueren en toont daarbij bewustzijn van de impliciete waarden waarop oordelen en vooroordelen vaak zijn gebaseerd (hoog B2-niveau, ook geschikt voor C-niveaus).",
-		"id": "25b5d025-71f0-4a83-9299-c10fb8b2c4d0"
+		"title": "Kan de standpunten en gebruiken van de eigen en andere sociale groepen beschrijven en evalueren en toont daarbij bewustzijn van de impliciete waarden waarop oordelen en vooroordelen vaak zijn gebaseerd (hoog niveau voor B2, ook geschikt voor C-niveaus).",
+		"id": "25b5d025-71f0-4a83-9299-c10fb8b2c4d0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan omgaan met ambiguïteit in de crossculturele communicatie en zijn of haar reacties constructief en op cultureel passende wijze uitdrukken om duidelijkheid te verschaffen.",
-		"id": "93978416-69d9-4172-803e-30446df23d00"
+		"title": "Kan omgaan met ambiguïteit in cultuuroverschrijdende communicatie en eigen reacties constructief en op cultureel passende wijze uitdrukken om duidelijkheid te verschaffen.",
+		"id": "93978416-69d9-4172-803e-30446df23d00",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan de achtergrond van culturele waarden en gebruiken fijnzinnig verklaren en aspecten ervan bespreken en interpreteren, putting uit interculturele ontmoetingen, gelezen teksten, film enzovoort.",
-		"id": "2dd6dc52-c828-4236-9da7-9b8af6674f47"
+		"title": "Kan de achtergrond van culturele waarden en gebruiken fijngevoelig verklaren en aspecten ervan interpreteren en bespreken, gebruikmakend van interculturele ontmoetingen, teksten, film enzovoort.",
+		"id": "2dd6dc52-c828-4236-9da7-9b8af6674f47",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan verschillen in sociolinguïstische/pragmatische conventies identificeren, er kritisch over nadenken en zijn of haar communicatie op basis daarvan aanpassen.",
-		"id": "d063df25-25b3-44f0-ba66-98c803c71cb9"
+		"title": "Kan verschillen in sociolinguïstische/sociaal-pragmatische conventies identificeren, er kritisch over nadenken en de eigen communicatie op basis daarvan aanpassen.",
+		"id": "d063df25-25b3-44f0-ba66-98c803c71cb9",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan zijn/haar handelingen en manieren van uitdrukken kiezen en afstemmen op de context, is zich bewust van culturele verschillen en kan subtiele aanpassingen doen om misverstanden en culturele incidenten te voorkomen en/of te herstellen.",
-		"id": "28e6b965-145a-43d6-a703-8100197f915a"
+		"title": "Kan de eigen handelingen en manier van uitdrukken kiezen en afstemmen op de context, is zich bewust van culturele verschillen en kan subtiele aanpassingen doen om misverstanden en culturele incidenten te voorkomen en/of te herstellen.",
+		"id": "28e6b965-145a-43d6-a703-8100197f915a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
