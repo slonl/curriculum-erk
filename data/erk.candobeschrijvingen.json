@@ -549,8 +549,10 @@
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Beschikt over een repertoire van elementaire taal dat hem of haar in staat stelt met voorspelbare alledaagse situaties om te gaan, al zal hij of zij de boodschap vaak geweld moeten aandoen en naar woorden moeten zoeken.",
-		"id": "ca1efa0f-07d5-4f8e-90d6-e0a9a36f44f6"
+		"title": "Beschikt over een repertoire van elementaire taal om met voorspelbare alledaagse situaties om te gaan, al zal het nodig zijn de boodschap erg te vereenvoudigen en naar woorden/gebaren te zoeken.",
+		"id": "ca1efa0f-07d5-4f8e-90d6-e0a9a36f44f6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
