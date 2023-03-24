@@ -965,8 +965,10 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan klanken in de doeltaal reproduceren met zorgvuldige begeleiding.",
-		"id": "fb7ac37f-7919-450a-9a5c-f238f7ef76c9"
+		"title": "Kan klanken in de doeltaal reproduceren met de juiste begeleiding.",
+		"id": "fb7ac37f-7919-450a-9a5c-f238f7ef76c9",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -986,15 +988,19 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Is in het algemeen helemaal verstaanbaar, ondanks regelmatige uitspraakfouten van afzonderlijke klanken en woorden waarmee hij of zij minder vertrouwd is.",
-		"id": "9d52de7b-b6d9-4c87-b1c6-3084203a2213"
+		"title": "Is in het algemeen verstaanbaar, ondanks regelmatige uitspraakfouten van afzonderlijke klanken en woorden die minder vertrouwd zijn.",
+		"id": "9d52de7b-b6d9-4c87-b1c6-3084203a2213",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan generaliseren vanuit zijn of haar repertoire om de fonologische kenmerken van de meeste niet-vertrouwde woorden (bijvoorbeeld klemtoon) redelijk nauwkeurig te voorspellen (bijvoorbeeld tijdens het lezen).",
-		"id": "483037b3-0e4c-4da7-8516-f31641ae7891"
+		"title": "Kan generaliseren vanuit het eigen repertoire om de fonologische kenmerken van de meeste niet-vertrouwde woorden (bijvoorbeeld klemtoon) redelijk nauwkeurig te voorspellen (bijvoorbeeld tijdens het lezen).",
+		"id": "483037b3-0e4c-4da7-8516-f31641ae7891",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1007,8 +1013,10 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan vrijwel alle klanken van de doeltaal met een hoge mate van beheersing articuleren. Hij of zij kan zichzelf meestal verbeteren als hij of zij een klank hoorbaar verkeerd uitspreekt.",
-		"id": "06fb525f-cecb-4b4b-bb3a-53692841a8b6"
+		"title": "Kan vrijwel alle klanken van de doeltaal met een hoge mate van beheersing articuleren en kan zichzelf meestal verbeteren bij een hoorbaar verkeerde uitspraak van een klank.",
+		"id": "06fb525f-cecb-4b4b-bb3a-53692841a8b6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
