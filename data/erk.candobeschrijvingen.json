@@ -792,8 +792,10 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan zeer eenvoudige beginselen van woordvolgorde toepassen in korte uitspraken.",
-		"id": "57730520-bbf1-4115-b056-722d4943969c"
+		"title": "Kan zeer eenvoudige beginselen van woord-/gebaarvolgorde toepassen in korte uitspraken.",
+		"id": "57730520-bbf1-4115-b056-722d4943969c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -806,29 +808,37 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Gebruikt een aantal eenvoudige constructies correct, maar maakt nog stelselmatig elementaire fouten - bijvoorbeeld door verschillende tijden door elkaar te gebruiken en niet te letten op congruentie; toch is meestal wel duidelijk wat hij of zij probeert te zeggen.",
-		"id": "72708617-905e-4c57-9301-dba941cfcee0"
+		"title": "Gebruikt bepaalde eenvoudige constructies correct, maar maakt nog stelselmatig elementaire fouten; toch is de boodschap meestal wel duidelijk.",
+		"id": "72708617-905e-4c57-9301-dba941cfcee0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Maakt met een redelijke mate van nauwkeurigheid gebruik van een repertoire van veelgebruikte ‘routines’ en patronen die verbonden zijn met meer voorspelbare situaties.",
-		"id": "601aa82b-1c77-4345-a236-923f4ba719df"
+		"title": "Maakt met een redelijke mate van nauwkeurigheid gebruik van een repertoire van veelgebruikte “routines” en patronen die bekend zijn van meer voorspelbare situaties.",
+		"id": "601aa82b-1c77-4345-a236-923f4ba719df",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Communiceert redelijk nauwkeurig in vertrouwde omstandigheden; vertoont over het algemeen een goede grammaticale beheersing hoewel met merkbare invloed vanuit de moedertaal. Fouten komen voor, maar het is duidelijk wat hij of zij probeert uit te drukken.",
-		"id": "8f4451a7-b97b-4ca4-87c6-2040a91f4f30"
+		"title": "Communiceert redelijk nauwkeurig in vertrouwde omstandigheden; vertoont over het algemeen een goede grammaticale beheersing maar met merkbare invloed vanuit de moedertaal. Fouten komen voor, maar de boodschap is altijd duidelijk.",
+		"id": "8f4451a7-b97b-4ca4-87c6-2040a91f4f30",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Heeft een goede beheersing van eenvoudige taalstructuren en sommige complexe grammaticale vormen, hoewel hij of zij geneigd is complexe structuren op een starre manier te gebruiken met enige onnauwkeurigheid.",
-		"id": "302f7fe8-5cc9-4e76-a13f-8c6e8281c2d9"
+		"title": "Heeft een goede beheersing van eenvoudige taalstructuren en sommige complexe grammaticale vormen, hoewel complexe structuren vaak op een starre manier en met enige onnauwkeurigheid gebruikt worden.",
+		"id": "302f7fe8-5cc9-4e76-a13f-8c6e8281c2d9",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -841,22 +851,28 @@
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Goede beheersing van de grammatica. Incidentele vergissingen, niet-stelselmatige fouten en kleine onvolkomenheden in de zinsstructuur kunnen nog voorkomen, maar zijn zeldzaam en worden meestal door de persoon zelf achteraf verbeterd.",
-		"id": "402ea8ae-ebfe-40dd-9b9f-bc9e25fc8651"
+		"title": "Goede beheersing van de grammatica; incidentele vergissingen of niet-stelselmatige fouten en kleine onvolkomenheden in de zinsstructuur kunnen nog voorkomen maar zijn zeldzaam en worden meestal achteraf verbeterd.",
+		"id": "402ea8ae-ebfe-40dd-9b9f-bc9e25fc8651",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Handhaaft consequent een hoge mate van grammaticale correctheid; fouten zijn zeldzaam en moeilijk aan te wijzen.",
-		"id": "430cf2ee-34a3-4325-b19b-1113242f7da4"
+		"title": "Handhaaft consequent een hoge mate van grammaticale nauwkeurigheid; fouten zijn zeldzaam en moeilijk aan te wijzen.",
+		"id": "430cf2ee-34a3-4325-b19b-1113242f7da4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Past de grammatica consequent correct toe bij complexe taal, ook wanneer de aandacht elders is gericht (bijvoorbeeld op vooruitdenken of het monitoren van de reacties van anderen).",
-		"id": "e8954b43-7ddc-4ad9-a60e-fca9dbb8e81d"
+		"title": "Blijft grammaticaal meester van complexe taal, ook wanneer de aandacht elders is gericht (bijvoorbeeld op vooruitdenken of het monitoren van de reacties van anderen).",
+		"id": "e8954b43-7ddc-4ad9-a60e-fca9dbb8e81d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
