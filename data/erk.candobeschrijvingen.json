@@ -896,43 +896,55 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "De uitspraak van een zeer beperkt repertoire van aangeleerde woorden en frasen kan worden verstaan met enige inspanning door gesprekspartners die gewend zijn om te gaan met sprekers van de betreffende taalgroep. Kan een beperkt bereik van klanken correct reproduceren, evenals de klemtoon in eenvoudige, vertrouwde woorden en frasen.",
-		"id": "ca035e36-5634-4856-b099-4bf8d2571e47"
+		"title": "De uitspraak van een zeer beperkt repertoire van aangeleerde woorden en frasen kan worden verstaan met enige inspanning van gesprekspartners die gewend zijn aan het omgaan met sprekers van de betreffende taalgroep. Kan een beperkt bereik van klanken correct reproduceren, evenals de klemtoon in eenvoudige, vertrouwde woorden en frasen.",
+		"id": "ca035e36-5634-4856-b099-4bf8d2571e47",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "De uitspraak is meestal duidelijk genoeg om te worden verstaan, maar gesprekspartners zullen af en toe om herhaling moeten vragen. Een sterke invloed van een andere taal of andere talen die hij of zij spreekt op de klemtoon, het ritme en de intonatie, kan van invloed zijn op de verstaanbaarheid en kan de medewerking van gesprekspartners vereisen. Toch is de uitspraak van vertrouwde woorden duidelijk.",
-		"id": "f9fe9ec3-60e0-46b4-8797-f5b453448a29"
+		"title": "De uitspraak is meestal duidelijk genoeg om te worden verstaan, maar gesprekspartners zullen af en toe om herhaling moeten vragen. Een sterke invloed van een andere taal of andere talen  op de klemtoon, het ritme en de intonatie, kan van invloed zijn op de verstaanbaarheid en kan de medewerking van gesprekspartners vereisen. Desondanks is de uitspraak van vertrouwde woorden duidelijk.",
+		"id": "f9fe9ec3-60e0-46b4-8797-f5b453448a29",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "De uitspraak is in het algemeen verstaanbaar; de intonatie en klemtoon op zowel uitspraak- als woordniveau vormen geen hindernis voor begrip. Het accent wordt meestal beïnvloed door een andere taal of andere talen die hij of zij spreekt.",
-		"id": "95cceed7-537c-4ed7-bc95-43fedbbc3044"
+		"title": "De uitspraak is in het algemeen verstaanbaar; intonatie en klemtoon op zowel uitspraak- als woordniveau staan het begrijpen van de boodschap niet in de weg. Het accent wordt meestal beïnvloed door een andere taal of andere talen.",
+		"id": "95cceed7-537c-4ed7-bc95-43fedbbc3044",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan in het algemeen een passende intonatie gebruiken, de juiste klemtoon leggen en afzonderlijke klanken duidelijk articuleren; het accent wordt meestal beïnvloed door een andere taal of andere talen die hij of zij spreekt, maar dit heeft weinig of geen effect op de verstaanbaarheid.",
-		"id": "c44413d8-ff61-4e63-aa62-e6ee827845cc"
+		"title": "Kan in het algemeen een passende intonatie gebruiken, de juiste klemtoon leggen en afzonderlijke klanken duidelijk articuleren; het accent wordt meestal beïnvloed door een andere taal of andere talen, maar dit heeft weinig of geen effect op de verstaanbaarheid.",
+		"id": "c44413d8-ff61-4e63-aa62-e6ee827845cc",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
 		"title": "Kan gebruikmaken van het volledige scala van fonologische kenmerken in de doeltaal met voldoende beheersing om volledig verstaanbaar te zijn. Kan vrijwel alle klanken van de doeltaal articuleren; sommige kenmerken van een accent dat is overgehouden uit een andere taal of andere talen kunnen merkbaar zijn, maar dit is niet van invloed op de verstaanbaarheid.",
-		"id": "cb1173c7-c751-41e8-a5e5-19fd03257594"
+		"id": "cb1173c7-c751-41e8-a5e5-19fd03257594",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan het volledige scala van fonologische kenmerken in de doeltaal met een hoge mate van beheersing gebruiken – met inbegrip van prosodische kenmerken zoals klemtoon op woord- en zinsniveau, ritme en intonatie – zodat de fijne nuances van zijn of haar boodschap duidelijk en nauwkeurig zijn. De verstaanbaarheid en de effectieve overdracht en versterking van de betekenis worden op geen enkele manier beïnvloed door accentkenmerken die kunnen zijn overgehouden uit een andere taal of andere talen.",
-		"id": "3734d072-c521-4504-b327-6ecf9ce91f05"
+		"title": "Kan het volledige scala van fonologische kenmerken in de doeltaal met een hoge mate van beheersing gebruiken – met inbegrip van prosodische kenmerken zoals klemtoon op woord- en zinsniveau, ritme en intonatie – zodat de fijne nuances de boodschap duidelijk en nauwkeurig zijn. De verstaanbaarheid en de effectieve overdracht en versterking van de betekenis worden op geen enkele manier beïnvloed door accentkenmerken die kunnen zijn overgehouden uit een andere taal of andere talen.",
+		"id": "3734d072-c521-4504-b327-6ecf9ce91f05",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
