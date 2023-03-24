@@ -1029,8 +1029,10 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan de prosodische kenmerken van een beperkt repertoire van eenvoudige woorden en frasen verstaanbaar gebruiken, ondanks een zeer sterke invloed van een andere taal of andere talen die hij of zij spreekt op de klemtoon, de intonatie en/of het ritme; de gesprekspartner moet welwillend zijn.",
-		"id": "ab97e117-e181-40f1-87fc-3d8560364344"
+		"title": "Kan de prosodische kenmerken van een beperkt repertoire van eenvoudige woorden en frasen verstaanbaar gebruiken, ondanks een zeer sterke invloed van een andere taal of andere talen op de klemtoon, de intonatie en/of het ritme; de gesprekspartner moet welwillend zijn.",
+		"id": "ab97e117-e181-40f1-87fc-3d8560364344",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1043,29 +1045,37 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan de prosodische kenmerken van alledaagse woorden en frasen verstaanbaar gebruiken, ondanks een sterke invloed van een andere taal of andere talen die hij of zij spreekt op de klemtoon, de intonatie en/of het ritme.",
-		"id": "d172a14c-44e8-463f-aa85-3bc6ae53892e"
+		"title": "Kan de prosodische kenmerken van alledaagse woorden en frasen verstaanbaar gebruiken, ondanks een sterke invloed van een andere taal of andere talen op de klemtoon, de intonatie en/of het ritme.",
+		"id": "d172a14c-44e8-463f-aa85-3bc6ae53892e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan zijn of haar boodschap op een verstaanbare manier overbrengen ondanks een sterke invloed van een andere taal of andere talen die hij of zij spreekt op de klemtoon, de intonatie en/of het ritme.",
-		"id": "4749614b-592b-41c9-b929-977ed5e863dd"
+		"title": "Kan de boodschap op een verstaanbare manier overbrengen ondanks een sterke invloed van een andere taal of andere talen op de klemtoon, de intonatie en/of het ritme.",
+		"id": "4749614b-592b-41c9-b929-977ed5e863dd",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan gebruikmaken van prosodische kenmerken (bijvoorbeeld klemtoon, intonatie, ritme) om de boodschap die hij of zij wil overbrengen te ondersteunen, hoewel er enige invloed is van andere talen die hij of zij spreekt.",
-		"id": "fa6ed5de-7115-4dbb-bd9b-0dfb2c51e8e4"
+		"title": "Kan gebruikmaken van prosodische kenmerken (bijvoorbeeld klemtoon, intonatie, ritme) om de boodschap te ondersteunen, hoewel er enige invloed is van andere talen.",
+		"id": "fa6ed5de-7115-4dbb-bd9b-0dfb2c51e8e4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan variëren in intonatie en de juiste klemtoon leggen om precies uit te drukken wat hij of zij wil zeggen.",
-		"id": "32b857fc-8b32-485d-ae9f-095632b97e92"
+		"title": "Kan variëren in intonatie en de juiste klemtoon leggen om de eigen boodschap precies uit te drukken.",
+		"id": "32b857fc-8b32-485d-ae9f-095632b97e92",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
