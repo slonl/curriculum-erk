@@ -750,29 +750,37 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Gebruikt een breed scala van eenvoudige woorden op passende wijze bij het bespreken van vertrouwde onderwerpen.",
-		"id": "afeeb564-01db-45ce-89ec-2aee6942de14"
+		"title": "Gebruikt een breed scala van eenvoudige woorden op passende wijze bij het spreken over vertrouwde onderwerpen.",
+		"id": "afeeb564-01db-45ce-89ec-2aee6942de14",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Heeft een goede beheersing van elementaire woordenschat, al doen zich nog wel grote fouten voor bij meer complexe gedachten of niet-vertrouwde onderwerpen en situaties.",
-		"id": "b1954022-15da-4d3c-91ca-e616329f9db3"
+		"title": "Heeft een goede beheersing van elementaire woordenschat, al doen zich nog wel grote fouten voor wanneer meer complexe gedachten worden ontvouwd of niet-vertrouwde onderwerpen en situaties aan de orde zijn.",
+		"id": "b1954022-15da-4d3c-91ca-e616329f9db3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Trefzekerheid in woordkeuze is over het algemeen hoog, al komen enige verwarring en onjuist woordgebruik wel voor zonder de communicatie in de weg te staan.",
-		"id": "3988f7b9-fab2-4377-92ef-8d07bc43b2ae"
+		"title": "Passendheid in woordkeuze is over het algemeen hoog, al komen enige verwarring en onjuist woordgebruik wel voor zonder de communicatie in de weg te staan.",
+		"id": "3988f7b9-fab2-4377-92ef-8d07bc43b2ae",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Maakt nog wel incidenteel kleine vergissingen, maar geen echte fouten in woordkeuze.",
-		"id": "ff42d4d6-acf8-4a2e-9163-3550a7dd96ad"
+		"title": "Maakt incidenteel kleine vergissingen, maar geen echte fouten in woordkeuze.",
+		"id": "ff42d4d6-acf8-4a2e-9163-3550a7dd96ad",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -785,8 +793,10 @@
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Toont consequent correct en gepast woordgebruik.",
-		"id": "b309af2c-2d3e-430a-bfd6-2339197dbbbf"
+		"title": "Toont consequent correct en toepasselijk gebruik van de woordenschat.",
+		"id": "b309af2c-2d3e-430a-bfd6-2339197dbbbf",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
