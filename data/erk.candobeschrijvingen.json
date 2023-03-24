@@ -1110,22 +1110,28 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan zijn of haar adres, nationaliteit, en andere persoonlijke gegevens spellen.",
-		"id": "43a99c12-e5c2-444b-b135-a0e11fd6eea5"
+		"title": "Kan adres, nationaliteit en andere persoonlijke gegevens spellen.",
+		"id": "43a99c12-e5c2-444b-b135-a0e11fd6eea5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan vertrouwde woorden en korte zinsdelen overschrijven, bijvoorbeeld eenvoudige aanwijzingen of instructies, namen van alledaagse dingen, namen van winkels en regelmatig gebruikte standaardzinnetjes.",
-		"id": "744549fe-6907-4cef-9ada-335c0544f2b1"
+		"title": "Kan vertrouwde woorden en korte frasen overschrijven, bijvoorbeeld eenvoudige aanwijzingen of instructies, namen van alledaagse dingen, namen van winkels en regelmatig gebruikte standaardzinnetjes.",
+		"id": "744549fe-6907-4cef-9ada-335c0544f2b1",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan fonetisch redelijk correct (maar niet noodzakelijkerwijs helemaal in de standaardspelling) korte woorden opschrijven uit zijn of haar gesproken woordenschat.",
-		"id": "4c64dacb-52c6-4453-bfb0-42e7e65a0dc7"
+		"title": "Kan fonetisch redelijk nauwkeurig (maar niet noodzakelijkerwijs helemaal in de standaardspelling) korte woorden opschrijven uit de gesproken woordenschat.",
+		"id": "4c64dacb-52c6-4453-bfb0-42e7e65a0dc7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1138,8 +1144,10 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Spelling, leestekengebruik en lay-out zijn correct genoeg om het grootste deel van de tijd te kunnen worden gevolgd.",
-		"id": "89770cdf-4655-4948-8deb-2051d6a0d672"
+		"title": "Spelling, leestekengebruik en lay-out zijn nauwkeurig genoeg om het grootste deel van de tijd te kunnen worden gevolgd.",
+		"id": "89770cdf-4655-4948-8deb-2051d6a0d672",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1152,8 +1160,10 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Spelling en leestekengebruik zijn redelijk correct maar kunnen invloeden van moedertaal verraden.",
-		"id": "12b84021-22d9-4087-a498-4f94444e3631"
+		"title": "Spelling en leestekengebruik zijn redelijk nauwkeurig maar kunnen invloeden van moedertaal verraden.",
+		"id": "12b84021-22d9-4087-a498-4f94444e3631",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1166,8 +1176,10 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "De spelling is correct, afgezien van een enkele verschrijving.",
-		"id": "fd046686-c005-472a-8a4a-e7a9ac3a3cd5"
+		"title": "De spelling is nauwkeurig, afgezien van een enkele verschrijving.",
+		"id": "fd046686-c005-472a-8a4a-e7a9ac3a3cd5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1180,8 +1192,10 @@
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Het geschrevene is orthografisch foutloos.",
-		"id": "1587dcc5-a8ed-4069-93d7-0465194abd00"
+		"title": "De geschreven tekst is orthografisch foutloos.",
+		"id": "1587dcc5-a8ed-4069-93d7-0465194abd00",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
