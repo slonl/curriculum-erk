@@ -1644,9 +1644,11 @@
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Geen descriptoren beschikbaar: zie C1.",
+		"title": "Geen descriptoren beschikbaar, zie C1.",
 		"isempty": true,
-		"id": "8b64f1ce-bc2b-49f5-8829-b4df6910081e"
+		"id": "8b64f1ce-bc2b-49f5-8829-b4df6910081e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
