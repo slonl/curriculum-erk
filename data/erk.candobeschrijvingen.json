@@ -631,15 +631,19 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Heeft een zeer elementaire woordenschat die bestaat uit geïsoleerde woorden en eenvoudige uitdrukkingen met betrekking tot persoonlijke gegevens en bepaalde concrete situaties.",
-		"id": "9a904035-85df-4cb9-b8f8-3ab0469a0a2a"
+		"title": "Heeft een elementaire woordenschat die bestaat uit geïsoleerde woorden/gebaren en frasen met betrekking tot bepaalde concrete situaties.",
+		"id": "9a904035-85df-4cb9-b8f8-3ab0469a0a2a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Beschikt over voldoende woordenschat om zich te redden bij primaire levensbehoeften.",
-		"id": "073f8119-ec12-4345-a369-abcd77e4aab3"
+		"title": "Beschikt over voldoende woordenschat om primaire levensbehoeften te vervullen.",
+		"id": "073f8119-ec12-4345-a369-abcd77e4aab3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -659,29 +663,37 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Beschikt over een voldoende woordenschat om zich, met enige omhaal van woorden, te uiten over de meeste onderwerpen die betrekking hebben op het dagelijks leven, zoals familie, vrijetijdsbesteding en interesses, werk, reizen en actualiteiten.",
-		"id": "20fb79b1-c88b-4ec9-ba7d-7dc5d5aeb066"
+		"title": "Beschikt over voldoende woorden om zich, met enige omschrijvingen, te uiten over de meeste onderwerpen die betrekking hebben op het dagelijks leven, zoals familie, hobby's en interesses, werk, reizen en actualiteiten.",
+		"id": "20fb79b1-c88b-4ec9-ba7d-7dc5d5aeb066",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Heeft een goed woordenschatbereik met betrekking tot vertrouwde onderwerpen en alledaagse situaties.",
-		"id": "412c2583-113a-4aed-8cdb-47c8be0c667a"
+		"title": "Heeft een goede beheersing van een woordenschatbereik met betrekking tot vertrouwde onderwerpen en alledaagse situaties.",
+		"id": "412c2583-113a-4aed-8cdb-47c8be0c667a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan veel van de specialistische woordenschat in zijn of haar vakgebied begrijpen en gebruiken, maar heeft problemen met specialistische terminologie daarbuiten.",
-		"id": "1a35583f-1954-4049-8235-a1d778b97a22"
+		"title": "Kan veel van de specialistische woordenschat in het eigen vakgebied begrijpen en gebruiken, maar heeft problemen met specialistische terminologie daarbuiten.",
+		"id": "1a35583f-1954-4049-8235-a1d778b97a22",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan de passende collocaties van veel woorden in de meeste contexten tamelijk stelselmatig produceren.",
-		"id": "01ae0df5-1ef9-4a58-a1e5-a33d19ce0369"
+		"title": "Kan de passende collocaties van veel woorden/gebaren in de meeste contexten tamelijk stelselmatig produceren.",
+		"id": "01ae0df5-1ef9-4a58-a1e5-a33d19ce0369",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -694,50 +706,64 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Beschikt over een voldoende brede woordenschat voor zaken die verband houden met zijn of haar vakgebied en de meeste algemene onderwerpen.",
-		"id": "96f20c0f-df06-4b2d-aaad-99b764c12228"
+		"title": "Beschikt over een goede woordenschat voor zaken die verband houden met het eigen vakgebied en de meeste algemene onderwerpen.",
+		"id": "96f20c0f-df06-4b2d-aaad-99b764c12228",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan de belangrijkste technische terminologie in zijn of haar vakgebied begrijpen en gebruiken bij het bespreken van zijn of haar specialisatie met andere deskundigen.",
-		"id": "5ab2feb2-5341-4133-b54d-605b26865e7b"
+		"title": "Kan de belangrijkste technische terminologie in het eigen vakgebied begrijpen en gebruiken bij het bespreken van de specialisatie met andere deskundigen.",
+		"id": "5ab2feb2-5341-4133-b54d-605b26865e7b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan het bereik van technische woordenschat en idiomatische uitdrukkingen dat gebruikelijk is in zijn of haar specialisatiegebied begrijpen en correct gebruiken.",
-		"id": "41af9d80-d6c2-4990-b1d3-9f88faf67265"
+		"title": "Kan het bereik van technische woordenschat en idiomatische uitdrukkingen dat gebruikelijk is in het eigen specialisatiegebied begrijpen en adequaat gebruiken.",
+		"id": "41af9d80-d6c2-4990-b1d3-9f88faf67265",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Heeft een goede beheersing van idiomatische uitdrukkingen en uitdrukkingen uit de spreektaal; kan vrij goed met woorden spelen.",
-		"id": "4dd96d4b-7dc8-4010-96a5-e5b0aec76e77"
+		"title": "Heeft een goede beheersing van idiomatische uitdrukkingen en uitdrukkingen uit de spreektaal; kan vrij goed met woorden/gebaren spelen.",
+		"id": "4dd96d4b-7dc8-4010-96a5-e5b0aec76e77",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan in bijna alle situaties kiezen uit meerdere opties in zijn of haar woordenschat door gebruik te maken van synoniemen en zelfs minder gebruikelijke woorden.",
-		"id": "4dd227e1-aaf2-4ec3-8c22-2244e3c7fa9b"
+		"title": "Kan in bijna alle situaties kiezen uit meerdere opties in de eigen woordenschat door gebruik te maken van synoniemen en zelfs minder gebruikelijke woorden/gebaren.",
+		"id": "4dd227e1-aaf2-4ec3-8c22-2244e3c7fa9b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Heeft een goede beheersing van een breed repertoire aan woorden, waardoor hij of zij hiaten in de woordenschat gemakkelijk kan dichten met omschrijvingen; er is in geringe mate sprake van zichtbaar zoeken naar uitdrukkingen en van vermijdingsstrategieën.",
-		"id": "c53f8719-a7e1-4851-808e-60680cc8873f"
+		"title": "Heeft een goede beheersing van een breed repertoire aan woorden, waardoor hiaten in de woordenschat gemakkelijk kunnen worden gedicht met omschrijvingen; er is in geringe mate sprake van zichtbaar zoeken naar uitdrukkingen en vermijdingsstrategieën.",
+		"id": "c53f8719-a7e1-4851-808e-60680cc8873f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Heeft een goede beheersing van een heel breed lexicaal repertoire met inbegrip van idiomatische uitdrukkingen en uitdrukkingen uit de spreektaal; toont zich bewust van betekenisconnotaties.",
-		"id": "9077df9f-8bc5-4465-b4a6-35c062c98814"
+		"title": "Heeft een goede beheersing van een breed lexicaal repertoire met inbegrip van idiomatische uitdrukkingen en uitdrukkingen uit de spreektaal; toont zich bewust van betekenisconnotaties.",
+		"id": "9077df9f-8bc5-4465-b4a6-35c062c98814",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
