@@ -1265,8 +1265,10 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan zeer korte sociale uitwisselingen aangaan en daarbij gebruikmaken van alledaagse beleefde begroetingen en aansprekingen.",
-		"id": "42ff69b4-58c4-444b-b48f-a1451d6cde00"
+		"title": "Kan zeer korte sociale contacten aangaan en daarbij gebruikmaken van alledaagse beleefde begroetingen en aansprekingen.",
+		"id": "42ff69b4-58c4-444b-b48f-a1451d6cde00",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1279,15 +1281,19 @@
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan elementaire taalfuncties inzetten en daarop reageren, zoals informatie-uitwisseling en verzoeken om inlichtingen, en kan op eenvoudige wijze meningen en houdingen uitdrukken.",
-		"id": "83865d05-5e3c-4d19-9882-ce709ec717a6"
+		"title": "Kan elementaire taalfuncties uitvoeren en beantwoorden, zoals informatie-uitwisseling en verzoeken om inlichtingen, en kan op eenvoudige wijze meningen en houdingen uitdrukken.",
+		"id": "83865d05-5e3c-4d19-9882-ce709ec717a6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Is zich bewust van en let op tekenen van de belangrijkste verschillen in gewoonten, gebruiken, houdingen, waarden en overtuigingen tussen de betrokken gemeenschap en die van hem- of haarzelf.",
-		"id": "df2d6b39-4232-44be-8a43-312218d51210"
+		"title": "Is zich bewust van en let op tekenen van de belangrijkste verschillen in gewoonten, gebruiken, houdingen, waarden en overtuigingen tussen de andere en de eigen gemeenschap.",
+		"id": "df2d6b39-4232-44be-8a43-312218d51210",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1300,8 +1306,10 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan een breed scala van taalfuncties inzetten en daarop reageren, gebruikt daarbij de meest voorkomende uitdrukkingen in een neutraal register.",
-		"id": "1f285e83-03b7-45c7-8851-7bc08344f046"
+		"title": "Kan een breed scala van taalfuncties uitvoeren en beantwoorden met de meest voorkomende exponenten in een neutraal register.",
+		"id": "1f285e83-03b7-45c7-8851-7bc08344f046",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1314,29 +1322,37 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan betrekkingen onderhouden met gebruikers van de doeltaal zonder hen onbedoeld te amuseren of te irriteren en zonder hen te verplichten zich anders te gedragen dan zij tegenover een andere vaardige gebruiker van die taal zouden doen.",
-		"id": "c10e6950-b08b-48e1-8d25-e457fe268ac9"
+		"title": "Kan betrekkingen onderhouden met gebruikers van de doeltaal zonder hen onbedoeld te amuseren of te irriteren en zonder hen te verplichten zich anders te gedragen dan zij tegenover een andere bekwame gebruiker zouden doen.",
+		"id": "c10e6950-b08b-48e1-8d25-e457fe268ac9",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan zijn of haar manier van uitdrukken aanpassen om enig onderscheid te maken tussen formele en informele registers, maar doet dat mogelijk niet altijd op passende wijze.",
-		"id": "9d2e9ed0-07c7-459a-8531-80e8c8a14896"
+		"title": "Kan de manier van uitdrukken aanpassen om enig onderscheid te maken tussen formele en informele registers, maar doet dat mogelijk niet altijd op passende wijze.",
+		"id": "9d2e9ed0-07c7-459a-8531-80e8c8a14896",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan zich vol vertrouwen, helder en beleefd uitdrukken in een formeel of informeel register, afgestemd op de situatie en de betrokkenen.",
-		"id": "a91b55aa-9e0c-4a73-b103-cb015427ee71"
+		"title": "Kan zich vol vertrouwen, helder en beleefd uitdrukken in een formeel of informeel register, afhankelijk van de situatie en de betrokkenen.",
+		"id": "a91b55aa-9e0c-4a73-b103-cb015427ee71",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan sociaal-culturele/sociolinguïstische aanwijzingen herkennen en interpreteren en zijn of haar linguïstische uitdrukkingsvormen bewust aanpassen om zich uit te drukken op een manier die past bij de situatie.",
-		"id": "64bbd780-56b7-465a-b6ae-b381779d5e60"
+		"title": "Kan sociaal-culturele/sociolinguïstische aanwijzingen herkennen en interpreteren en linguïstische uitdrukkingsvormen bewust aanpassen om zich uit te drukken op een manier die past bij de situatie.",
+		"id": "64bbd780-56b7-465a-b6ae-b381779d5e60",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1356,8 +1372,10 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan zijn of haar mate van formaliteit (register en stijl) afstemmen op de sociale context: formeel, informeel of spreektalig, al naargelang wat gepast is, en een consistent register handhaven.",
-		"id": "331286bf-0a53-4607-b802-94c41cd3f44d"
+		"title": "Kan de mate van formaliteit (register en stijl) afstemmen op de sociale context: formeel, informeel of spreektalig, al naargelang wat gepast is, en een consistent register handhaven.",
+		"id": "331286bf-0a53-4607-b802-94c41cd3f44d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1385,21 +1403,27 @@
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
 		"title": "Kan een breed scala van idiomatische uitdrukkingen en uitdrukkingen uit de spreektaal herkennen en heeft daarbij oog voor registerveranderingen; heeft echter zo nu en dan behoefte aan bevestiging van details, vooral als het accent niet vertrouwd is.",
-		"id": "5d1bce5a-6f92-4f73-8bcf-5bec726d4426"
+		"id": "5d1bce5a-6f92-4f73-8bcf-5bec726d4426",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan, zowel mondeling als schriftelijk, effectief gebruikmaken van een grote verscheidenheid aan verfijnde taal om te bevelen, te argumenteren, te overtuigen, te ontmoedigen, te onderhandelen en raad te geven.",
-		"id": "ca583caf-e011-4e79-9750-b29dcfec3583"
+		"title": "Kan, zowel mondeling als schriftelijk, effectief gebruikmaken van een grote verscheidenheid aan verfijnde taal om een opdracht te geven, te argumenteren, te overtuigen, te ontmoedigen, te onderhandelen en raad te geven.",
+		"id": "ca583caf-e011-4e79-9750-b29dcfec3583",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Erkent nagenoeg alle sociolinguïstische en sociaal-culturele implicaties van de taal die wordt gebruikt door vaardige gebruikers van de doeltaal en kan daarop adequaat reageren.",
-		"id": "186d9b92-572c-4a3a-8ceb-a96e4fed32f3"
+		"title": "Begrijpt volledig de sociolinguïstische en sociaal-culturele implicaties van de taal die wordt gebruikt door bekwame gebruikers van de doeltaal en kan daarop reageren.",
+		"id": "186d9b92-572c-4a3a-8ceb-a96e4fed32f3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1412,8 +1436,10 @@
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan doeltreffend en natuurlijk bemiddelen tussen sprekers van de doeltaal en die van zijn of haar eigen gemeenschap, rekening houdend met sociaal-culturele en sociolinguïstische verschillen.",
-		"id": "9c489fda-e924-4d90-9c44-6524a5b040e6"
+		"title": "Kan doeltreffend en natuurlijk mediëren tussen gebruikers van de doeltaal en die van de eigen gemeenschap, rekening houdend met sociaal-culturele en sociolinguïstische verschillen.",
+		"id": "9c489fda-e924-4d90-9c44-6524a5b040e6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
