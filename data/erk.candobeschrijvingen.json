@@ -1605,23 +1605,40 @@
 		"id": "2bf33f5a-9546-4a48-9fe3-5abd3b5e3fe8"
 	},
 	{
-		"title": "Kan een gesprek beginnen, op de juiste ogenblikken zijn of haar beurt nemen en de conversatie beëindigen wanneer dat nodig is, zij het niet altijd op elegante wijze.",
-		"id": "8519cf97-dd8c-4a11-b1f0-37fea44632bd"
+		"title": "Kan een gesprek beginnen, op de juiste ogenblikken de beurt nemen en de conversatie beëindigen wanneer dat nodig is, zij het niet altijd op elegante wijze.",
+		"id": "8519cf97-dd8c-4a11-b1f0-37fea44632bd",
+		"prefix": "",
+		"description": "",
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		]
 	},
 	{
 		"title": "Kan op gepaste wijze een gesprek beginnen, onderhouden en beëindigen, en daarbij doeltreffend beurten nemen.",
-		"id": "d5caa829-fbc2-48e9-bcf2-e7be1246e85e"
+		"id": "d5caa829-fbc2-48e9-bcf2-e7be1246e85e",
+		"prefix": "",
+		"description": "",
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		]
 	},
 	{
 		"title": "Kan op toepasselijke wijze ingrijpen in een discussie en daarvoor de juiste taal gebruiken.",
-		"id": "fff4a49f-09fa-40c5-9b59-eb97145b0ad8"
+		"id": "fff4a49f-09fa-40c5-9b59-eb97145b0ad8",
+		"prefix": "",
+		"description": "",
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		]
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan een toepasselijke frase kiezen uit een paraat scala van gespreksfuncties om zijn of haar opmerkingen zo in te leiden dat de aandacht van de toehoorders wordt getrokken, of om tijd te winnen en de aandacht vast te houden tijdens het nadenken.",
-		"id": "80d7ca8f-354b-44cd-981a-dc6e8c26c2e5"
+		"title": "Kan een toepasselijke frase kiezen uit parate gespreksfuncties om opmerkingen zo in te leiden dat de aandacht van de toehoorders wordt getrokken, of om tijd te winnen en de aandacht vast te houden tijdens het nadenken.",
+		"id": "80d7ca8f-354b-44cd-981a-dc6e8c26c2e5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
