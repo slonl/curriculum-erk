@@ -535,15 +535,19 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan elementaire zinspatronen gebruiken en communiceren met uit het hoofd geleerde frasen, woordgroepen en formules over zichzelf en anderen, wat zij doen, plaatsen, bezittingen, enzovoort.",
-		"id": "ab09d17a-f770-4887-9573-c357210db340"
+		"title": "Kan elementaire zinspatronen gebruiken en communiceren met uit het hoofd geleerde frasen, groepen van een paar woorden/gebaren en formules over zichzelf en anderen, wat zij doen, plaatsen, bezittingen, enzovoort.",
+		"id": "ab09d17a-f770-4887-9573-c357210db340",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan beknopte alledaagse uitdrukkingen gebruiken om te voldoen aan eenvoudige behoeften van concrete aard, zoals persoonlijke gegevens, dagelijkse routines, wensen en behoeften, verzoeken om inlichtingen.",
-		"id": "7b71e8aa-1932-4ae6-8900-ef6818d34302"
+		"title": "Kan beknopte alledaagse uitdrukkingen produceren om te voldoen aan eenvoudige behoeften van concrete aard (bijvoorbeeld persoonlijke gegevens, dagelijkse routines, wensen en behoeften, verzoeken om inlichtingen).",
+		"id": "7b71e8aa-1932-4ae6-8900-ef6818d34302",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -558,36 +562,46 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Beschikt over genoeg taal om zich te redden, met een woordenschat die voldoende is om zich, met enige aarzeling en omschrijvingen van woorden, te uiten over onderwerpen als familie, hobby's en interessegebieden, werk, reizen en actualiteiten, hoewel lexicale beperkingen tot herhaling en soms zelfs tot problemen met formuleren leiden.",
-		"id": "ac7e8e09-b18c-45a7-bd08-2890a3c4da66"
+		"title": "Beschikt over genoeg taal om zich te redden, met een woordenschat die voldoende is om zich, met enige aarzeling en omschrijvingen, te uiten over onderwerpen als familie, hobby's en interessegebieden, werk, reizen en actualiteiten, hoewel lexicale beperkingen tot herhaling en soms zelfs tot problemen met formuleren leiden.",
+		"id": "ac7e8e09-b18c-45a7-bd08-2890a3c4da66",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
 		"title": "Beschikt over een voldoende gevarieerde taal om onvoorspelbare situaties te beschrijven, met redelijke nauwkeurigheid de hoofdpunten van een idee of probleem uit te leggen en gedachten onder woorden te brengen over abstracte of culturele onderwerpen zoals muziek en films.",
-		"id": "6af698c3-a772-4cf6-aed9-2ee272b3a8ad"
+		"id": "6af698c3-a772-4cf6-aed9-2ee272b3a8ad",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Beschikt over een voldoende gevarieerde taal om duidelijke beschrijvingen te geven, standpunten te formuleren en argumenten te geven zonder al te opvallend te hoeven zoeken naar woorden, en daarbij een aantal complexe zinsvormen te gebruiken.",
-		"id": "97436984-ef99-48de-a7c8-ac2982c59236"
+		"title": "Beschikt over een voldoende gevarieerde taal om duidelijke beschrijvingen te geven, standpunten te formuleren en argumenten te geven, zonder al te opvallend te hoeven zoeken naar woorden/gebaren, en daarbij bepaalde complexe zinsvormen te gebruiken.",
+		"id": "97436984-ef99-48de-a7c8-ac2982c59236",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan zich helder uitdrukken zonder veel aanwijzingen dat hij of zij beperkt wordt in wat hij of zij wil zeggen.",
-		"id": "59b7a6b3-1167-480d-b13a-b9869ba7ed46"
+		"title": "Kan zich helder uitdrukken zonder veel aanwijzingen voor het vereenvoudigen van de boodschap.",
+		"id": "59b7a6b3-1167-480d-b13a-b9869ba7ed46",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan een geschikte formulering uit een scala aan taal kiezen om zich helder uit te drukken, zonder zich te hoeven beperken in wat hij of zij wil zeggen.",
-		"id": "19f7934c-49b5-4aae-a398-85f30a855fd8"
+		"title": "Kan een geschikte formulering kiezen om zich helder uit te drukken, zonder de boodschap te hoeven vereenvoudigen.",
+		"id": "19f7934c-49b5-4aae-a398-85f30a855fd8",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -600,8 +614,10 @@
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan gebruikmaken van een volledige en betrouwbare beheersing van een heel gevarieerde taal om gedachten precies te formuleren, nadruk te leggen, onderscheid te maken en ambiguïteit uit te sluiten. Er zijn geen tekenen dat hij of zij beperkt wordt in wat hij of zij wil zeggen.",
-		"id": "6eb7e39b-f0d1-4082-8fa6-3c1ea3cde52f"
+		"title": "Kan gebruikmaken van een volledige en betrouwbare beheersing van een heel gevarieerde taal om gedachten precies te formuleren, nadruk te leggen, onderscheid te maken en ambiguïteit uit te sluiten, zonder zichtbare vereenvoudiging van de boodschap.",
+		"id": "6eb7e39b-f0d1-4082-8fa6-3c1ea3cde52f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
