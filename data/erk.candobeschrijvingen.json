@@ -1468,22 +1468,28 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan goed ingestudeerde en gememoriseerde eenvoudige frasen aanpassen aan bepaalde omstandigheden door beperkte lexicale substitutie.",
-		"id": "28e96712-f4e0-4d2d-b9e7-968351f77a06"
+		"title": "Kan goed ingestudeerde en geleerde eenvoudige frasen aanpassen aan bepaalde omstandigheden door beperkte lexicale substitutie.",
+		"id": "28e96712-f4e0-4d2d-b9e7-968351f77a06",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan een breed scala van eenvoudige taal flexibel inzetten om veel te zeggen van wat hij of zij wil.",
-		"id": "7c6da23b-8fe2-4d7a-974a-7a4acf989f57"
+		"title": "Kan een breed scala van eenvoudige taal flexibel inzetten om de boodschap grotendeels over te brengen.",
+		"id": "7c6da23b-8fe2-4d7a-974a-7a4acf989f57",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan zijn of haar uitdrukking aanpassen om minder alledaagse en zelfs moeilijke situaties te hanteren.",
-		"id": "a9ad32c9-fcb6-46e0-b4cf-bcd3841b62f1"
+		"title": "Kan een uitdrukking aanpassen om minder alledaagse en zelfs moeilijke situaties te hanteren.",
+		"id": "a9ad32c9-fcb6-46e0-b4cf-bcd3841b62f1",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1496,8 +1502,10 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan variëren in de formulering van wat hij of zij wil zeggen.",
-		"id": "b7e03d79-5c4e-4e42-9e43-1194714bb76e"
+		"title": "Kan variëren in de formulering naargelang de boodschap.",
+		"id": "b7e03d79-5c4e-4e42-9e43-1194714bb76e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1510,15 +1518,19 @@
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan wat hij of zij zegt en de manier van uitdrukken aanpassen aan de situatie en de ontvanger en een mate van formaliteit kiezen die in de omstandigheden toepasselijk is.",
-		"id": "0e951ade-3b33-4caf-9b5e-051c01013b33"
+		"title": "Kan de boodschap en de manier van uitdrukken aanpassen aan de situatie en de ontvanger, en een mate van formaliteit kiezen die in de omstandigheden toepasselijk is.",
+		"id": "0e951ade-3b33-4caf-9b5e-051c01013b33",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan zijn of haar manier van uitdrukken aanpassen om mate van betrokkenheid of aarzeling, vertrouwen of onzekerheid uit te drukken.",
-		"id": "2f8fb7b8-e8f9-497f-8c4a-36a1416855fe"
+		"title": "Kan de manier van uitdrukken aanpassen om mate van betrokkenheid of aarzeling, vertrouwen of onzekerheid uit te drukken.",
+		"id": "2f8fb7b8-e8f9-497f-8c4a-36a1416855fe",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
