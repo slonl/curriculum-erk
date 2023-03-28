@@ -1822,15 +1822,19 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan woorden of woordgroepen met elkaar verbinden met heel elementaire lineaire verbindingswoorden als ‘en’ of ‘toen'.",
-		"id": "0528cf7f-ea32-488c-bd02-708d2ef44c16"
+		"title": "Kan woorden of woordgroepen met elkaar verbinden met heel elementaire lineaire verbindingswoorden (bijvoorbeeld 'en' of 'toen').",
+		"id": "0528cf7f-ea32-488c-bd02-708d2ef44c16",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan woordgroepen verbinden met eenvoudige voegwoorden als ‘en’, ‘maar’ en ‘omdat’.",
-		"id": "8b52e0de-f2d4-4ab1-bfe2-f7303dfeec9f"
+		"title": "Kan woordgroepen verbinden met eenvoudige voegwoorden (bijvoorbeeld 'en', 'maar' en 'omdat').",
+		"id": "8b52e0de-f2d4-4ab1-bfe2-f7303dfeec9f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1850,8 +1854,10 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan langere zinnen vormen en deze met elkaar verbinden met behulp van een beperkt aantal cohesie-bevorderende elementen, bijvoorbeeld in een verhaal.",
-		"id": "a8696371-4891-477d-a072-735c866f28e2"
+		"title": "Kan langere zinnen vormen en deze met elkaar verbinden met behulp van een beperkt aantal cohesie bevorderende elementen, bijvoorbeeld in een verhaal.",
+		"id": "a8696371-4891-477d-a072-735c866f28e2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1864,8 +1870,10 @@
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan een tegenargument introduceren in een eenvoudige discursieve tekst (bijvoorbeeld met 'echter').",
-		"id": "b82eb3a2-075a-4844-9f58-03e90f4bbe2a"
+		"title": "Kan een tegenargument introduceren in een eenvoudige betogende tekst (bijvoorbeeld met 'maar').",
+		"id": "b82eb3a2-075a-4844-9f58-03e90f4bbe2a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1878,15 +1886,19 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan tekst produceren die in het algemeen goed geordend en samenhangend is, door gebruik te maken van een scala aan verbindingswoorden en cohesie-bevorderende elementen.",
-		"id": "333f7f83-9716-4e18-9db8-ddb575204a97"
+		"title": "Kan tekst produceren die in het algemeen goed geordend en samenhangend is, door gebruik te maken van uiteenlopende verbindingswoorden en cohesie bevorderende elementen.",
+		"id": "333f7f83-9716-4e18-9db8-ddb575204a97",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan gebruikmaken van een beperkt aantal cohesie-bevorderende elementen om zijn of haar uitingen te verbinden tot een helder, coherent discours, hoewel in een langere bijdrage sprake kan zijn van een zekere ‘springerigheid’.",
-		"id": "eb982f57-2b4c-4ed5-9db2-7daca1ec2929"
+		"title": "Kan gebruikmaken van een beperkt aantal cohesie bevorderende elementen om uitingen te verbinden tot een helder, coherent betoog, hoewel in een langere bijdrage sprake kan zijn van een zekere 'springerigheid'.",
+		"id": "eb982f57-2b4c-4ed5-9db2-7daca1ec2929",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1899,22 +1911,28 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan goed geordende, samenhangende tekst produceren door gebruik te maken van een verscheidenheid aan cohesie-bevorderende elementen en ordeningspatronen.",
-		"id": "a1aec71e-1b9a-4496-b6d1-e733fd57105b"
+		"title": "Kan goed geordende, samenhangende tekst produceren door gebruik te maken van een verscheidenheid aan cohesie bevorderende elementen en ordeningspatronen.",
+		"id": "a1aec71e-1b9a-4496-b6d1-e733fd57105b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan duidelijke, vloeiende, goed gestructureerde taal produceren, die getuigt van een goede beheersing van ordeningspatronen, verbindingswoorden en cohesie-bevorderende elementen.",
-		"id": "502ed540-85d4-4b59-a939-27ed3cad1a2a"
+		"title": "Kan duidelijke, vloeiende, goed gestructureerde taal voortbrengen, die getuigt van een goede beheersing van ordeningspatronen, verbindingswoorden en cohesie bevorderende elementen.",
+		"id": "502ed540-85d4-4b59-a939-27ed3cad1a2a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan samenhangende tekst produceren en daarbij volledig en toepasselijk gebruik maken van uiteenlopende ordeningspatronen en een breed scala van cohesie-bevorderende elementen.",
-		"id": "26274f54-8b92-493b-a7d7-389c965af0ec"
+		"title": "Kan samenhangende tekst produceren en daarbij volledig en toepasselijk gebruik maken van uiteenlopende ordeningspatronen en een breed scala van cohesie bevorderende elementen.",
+		"id": "26274f54-8b92-493b-a7d7-389c965af0ec",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
