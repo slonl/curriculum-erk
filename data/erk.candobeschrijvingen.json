@@ -2032,15 +2032,19 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan zeer korte, geïsoleerde, ingeoefende uitingen hanteren en gebruikt daarbij zo nodig gebaren en hulpsignalen.",
-		"id": "317fe27c-c6e7-4803-bfc3-98a0dbc89fce"
+		"title": "Kan zeer korte, geïsoleerde, geoefende uitspraken hanteren en gebruikt daarbij zo nodig gebaren en hulpsignalen.",
+		"id": "317fe27c-c6e7-4803-bfc3-98a0dbc89fce",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan zeer korte, geïsoleerde, voornamelijk kant-en-klare uitingen hanteren, met veel onderbrekingen om naar uitdrukkingen te zoeken, minder vertrouwde woorden uit te spreken en de communicatie te herstellen.",
-		"id": "80c958ae-1ee4-426f-8867-ed45a9858bfe"
+		"title": "Kan zeer korte, geïsoleerde, voornamelijk voorgekauwde uitingen hanteren, met veel onderbrekingen om naar uitdrukkingen te zoeken, minder vertrouwde woorden/gebaren uit te drukken en de communicatie te herstellen.",
+		"id": "80c958ae-1ee4-426f-8867-ed45a9858bfe",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -2060,50 +2064,64 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan op verstaanbare wijze doorpraten, ook al is heel duidelijk sprake van pauzes voor grammaticale en lexicale planning en herstel, vooral in langere vrij geproduceerde stukken tekst.",
-		"id": "09f3c463-8870-4d27-816c-cd64225c0852"
+		"title": "Kan op begrijpelijke wijze doorpraten, ondanks regelmatige pauzes voor grammaticale en lexicale planning en heel duidelijke herstelacties, vooral in langere vrij geproduceerde stukken tekst.",
+		"id": "09f3c463-8870-4d27-816c-cd64225c0852",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan zich betrekkelijk gemakkelijk uitdrukken. Ondanks enige problemen met formuleren, die tot pauzes en ‘doodlopende wegen’ leiden, kan hij of zij zonder hulp doeltreffend verder gaan.",
-		"id": "4dc94b90-d0d4-49aa-ac9d-288c9bd7ebeb"
+		"title": "Kan zich betrekkelijk gemakkelijk uitdrukken en kan, ondanks enige problemen met formuleren die tot pauzes en 'doodlopende wegen' leiden, zonder hulp doeltreffend verder gaan.",
+		"id": "4dc94b90-d0d4-49aa-ac9d-288c9bd7ebeb",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan zo vloeiend en spontaan reageren dat een normale uitwisseling met gebruikers van de doeltaal goed mogelijk is zonder dat dit voor een van de partijen belastend is.",
-		"id": "3098e77f-35f6-498e-b150-eba966e32194"
+		"title": "Kan zo vloeiend en spontaan reageren dat een normale uitwisseling met gebruikers van de doeltaal mogelijk is zonder dat dit voor een van de partijen belastend is.",
+		"id": "3098e77f-35f6-498e-b150-eba966e32194",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan langere stukken tekst produceren in een redelijk gelijkmatig tempo; hoewel hij of zij kan aarzelen tijdens het zoeken naar patronen en uitdrukkingen, zijn er weinig opvallend lange pauzes.",
-		"id": "d6c4c256-d7d4-46a9-beb4-ae8035d44133"
+		"title": "Kan langere stukken taal produceren in een redelijk gelijkmatig tempo; ondanks eventueel aarzelen tijdens het zoeken naar patronen en uitdrukkingen, zijn er weinig merkbare pauzes.",
+		"id": "d6c4c256-d7d4-46a9-beb4-ae8035d44133",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan spontaan communiceren en vertoont daarbij vaak opmerkelijke vloeiendheid en uitdrukkingsgemak, ook in langere complexe teksten.",
-		"id": "7b74468e-7926-4181-b31c-5256c34667b6"
+		"title": "Kan spontaan communiceren en vertoont daarbij vaak opmerkelijke vloeiendheid en uitdrukkingsgemak, ook in langere complexe stukken taal.",
+		"id": "7b74468e-7926-4181-b31c-5256c34667b6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan zich vrijwel moeiteloos vloeiend en spontaan uitdrukken. Slechts een conceptueel moeilijk onderwerp kan een natuurlijke, vloeiende taalstroom hinderen.",
-		"id": "cb4dcb05-ec7c-4fc5-ad74-ecd6a11bc2c3"
+		"title": "Kan zich vrijwel moeiteloos vloeiend en spontaan uitdrukken. Slechts een begripsmatig moeilijk onderwerp kan een natuurlijke, vloeiende taalstroom hinderen.",
+		"id": "cb4dcb05-ec7c-4fc5-ad74-ecd6a11bc2c3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan zich langere tijd uitdrukken met een natuurlijke, moeiteloze taalstroom zonder aarzelingen. Pauzeert alleen om na te denken over precies de juiste woorden om zijn of haar gedachten uit te drukken of om toepasselijke voorbeelden of verklaringen te vinden.",
-		"id": "56d348be-b707-40a6-82a0-5a79daa042b2"
+		"title": "Kan zich langere tijd uitdrukken met een natuurlijke, moeiteloze taalstroom zonder aarzelingen. Pauzeert alleen om na te denken over precies de juiste woorden om gedachten uit te drukken of om toepasselijke voorbeelden of verklaringen te vinden.",
+		"id": "56d348be-b707-40a6-82a0-5a79daa042b2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
