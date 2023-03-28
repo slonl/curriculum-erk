@@ -1952,22 +1952,28 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan overbrengen wat hij of zij wil zeggen in een eenvoudige rechtstreekse uitwisseling van beperkte informatie over vertrouwde en alledaagse zaken, maar moet in andere situaties de boodschap meestal wat geweld aandoen.",
-		"id": "ebb2cbc6-25b6-4f90-9612-f03d4d79760b"
+		"title": "Kan zich in een eenvoudige rechtstreekse uitwisseling van beperkte informatie over vertrouwde en alledaagse zaken uiten, maar moet in andere situaties de boodschap meestal wat aanpassen.",
+		"id": "ebb2cbc6-25b6-4f90-9612-f03d4d79760b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan de belangrijkste punten die hij of zij wil overbrengen, begrijpelijk verwoorden.",
-		"id": "44bfb894-3268-4386-8783-9fd1be831d88"
+		"title": "Kan de belangrijkste punten van de boodschap begrijpelijk verwoorden.",
+		"id": "44bfb894-3268-4386-8783-9fd1be831d88",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan simpele, directe informatie van onmiddellijk belang overbrengen en daarbij duidelijk maken welk punt hij of zij het belangrijkst vindt.",
-		"id": "4734527a-50a3-405a-b660-561b874bf882"
+		"title": "Kan simpele, directe informatie van onmiddellijk belang overbrengen en daarbij duidelijk maken welk punt naar eigen inzicht het belangrijkst is.",
+		"id": "4734527a-50a3-405a-b660-561b874bf882",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1980,8 +1986,10 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan de essentiële punten communiceren, zelfs in veeleisende situaties, hoewel het in zijn of haar taal ontbreekt aan uitdrukkingskracht en idioom.",
-		"id": "f665f123-662b-4205-b6c0-c07d51323e50"
+		"title": "Kan de essentiële punten doorgeven, zelfs in veeleisende situaties, hoewel uitdrukkingskracht en idioom nog ontbreekt.",
+		"id": "f665f123-662b-4205-b6c0-c07d51323e50",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -2015,8 +2023,10 @@
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan fijnere betekenisnuances precies overbrengen door redelijk accuraat gebruik te maken van een breed scala van kwalificerende elementen (zoals bijwoorden van gradatie en beperkende bijzinnen).",
-		"id": "0542fc7a-9ba3-4bfb-8ca5-6d47014b783c"
+		"title": "Kan fijnere betekenisnuances precies overbrengen door redelijk accuraat gebruik te maken van een breed scala van kwalificerende elementen (zoals bijwoorden van gradatie, beperkende bijzinnen).",
+		"id": "0542fc7a-9ba3-4bfb-8ca5-6d47014b783c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
