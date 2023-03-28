@@ -1699,8 +1699,10 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Toont zich bewust van de conventionele structuur van het betreffende tekstsoort bij het overbrengen van zijn of haar ideeën.",
-		"id": "43dd75ff-1593-4e5b-b633-aa5ff750d97f"
+		"title": "Toont bewustzijn van de conventionele structuur van de betreffende tekstsoort bij het overbrengen van eigen ideeën.",
+		"id": "43dd75ff-1593-4e5b-b633-aa5ff750d97f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1734,8 +1736,10 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan een heldere argumentatie ontwikkelen en daarbij zijn of haar gezichtspunten tamelijk uitvoerig uitwerken en ondersteunen met aanvullende punten en relevante voorbeelden.",
-		"id": "2a133af0-429f-4d77-a42f-be15f2536d9b"
+		"title": "Kan een heldere argumentatie ontwikkelen en daarbij de eigen gezichtspunten uitvoerig uitwerken en ondersteunen met aanvullende punten en relevante voorbeelden.",
+		"id": "2a133af0-429f-4d77-a42f-be15f2536d9b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1748,8 +1752,10 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan de conventionele structuur van de betreffende communicatieve taak volgen bij het overbrengen van zijn of haar ideeën.",
-		"id": "a03e2caa-9eee-443b-a91d-5445091c2b7a"
+		"title": "Kan de conventionele structuur van de betreffende communicatieve taak volgen bij het overbrengen van eigen ideeën.",
+		"id": "a03e2caa-9eee-443b-a91d-5445091c2b7a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1769,8 +1775,10 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan hoofdpunten behoorlijk uitvoerig uitwerken en ondersteunen met aanvullende punten, redenen en relevante voorbeelden.",
-		"id": "247a00bf-e43b-450f-88f7-8c144b83cabe"
+		"title": "Kan hoofdpunten uitvoerig uitwerken en ondersteunen met aanvullende punten, redenen en relevante voorbeelden.",
+		"id": "247a00bf-e43b-450f-88f7-8c144b83cabe",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -1783,8 +1791,10 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan uitvoerige beschrijvingen geven en verhalen vertellen, en daarin subthema’s integreren, bepaalde punten uitwerken en met een passende conclusie afronden.",
-		"id": "f2877486-bd45-4631-b81e-c8cb477c9fd9"
+		"title": "Kan uitvoerige beschrijvingen geven en verhalen vertellen, en daarin subthema’s integreren om bepaalde punten uit te werken en af te ronden met een passende conclusie.",
+		"id": "f2877486-bd45-4631-b81e-c8cb477c9fd9",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
