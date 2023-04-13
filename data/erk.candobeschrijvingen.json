@@ -1571,17 +1571,21 @@
 	},
 	{
 		"niveau_id": [
-			"620710de-54d2-48b5-93ab-40888732aab7"
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
 		"title": "Kan eenvoudige technieken toepassen om een kort gesprek te beginnen, gaande te houden of te beëindigen.",
-		"id": "7bf57895-7308-4898-9dda-5443f6b1968f"
+		"id": "7bf57895-7308-4898-9dda-5443f6b1968f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
-			"620710de-54d2-48b5-93ab-40888732aab7"
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
 		"title": "Kan een eenvoudig rechtstreeks gesprek beginnen, gaande houden en beëindigen.",
-		"id": "89bb8166-56c7-4f42-ae80-c01371166e69"
+		"id": "89bb8166-56c7-4f42-ae80-c01371166e69",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
