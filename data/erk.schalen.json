@@ -500,8 +500,10 @@
 			"2eca1f5c-a068-4b2b-86f4-ce34a7c2cf4c",
 			"0542fc7a-9ba3-4bfb-8ca5-6d47014b783c"
 		],
-		"title": "Nauwkeurigheid van de uiting",
-		"id": "582c9a5c-11c5-4e38-a9e8-a470d4f9d1bd"
+		"title": "Propositionele nauwkeurigheid",
+		"id": "582c9a5c-11c5-4e38-a9e8-a470d4f9d1bd",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
