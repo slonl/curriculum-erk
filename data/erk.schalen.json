@@ -309,8 +309,10 @@
 			"cb1173c7-c751-41e8-a5e5-19fd03257594",
 			"3734d072-c521-4504-b327-6ecf9ce91f05"
 		],
-		"title": "Fonologische beheersing",
-		"id": "cdcfe652-82d9-4b8e-a52d-062e8d258566"
+		"title": "Algemene fonologische beheersing",
+		"id": "cdcfe652-82d9-4b8e-a52d-062e8d258566",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
