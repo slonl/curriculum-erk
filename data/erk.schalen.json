@@ -430,8 +430,10 @@
 			"80d7ca8f-354b-44cd-981a-dc6e8c26c2e5",
 			"8b64f1ce-bc2b-49f5-8829-b4df6910081e"
 		],
-		"title": "Het woord nemen",
-		"id": "29d1ec67-459c-48b1-86cf-d8559b7e5da9"
+		"title": "De beurt nemen",
+		"id": "29d1ec67-459c-48b1-86cf-d8559b7e5da9",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
