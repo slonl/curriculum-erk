@@ -1274,8 +1274,10 @@
 			"9dbdb2a2-7042-4dff-8269-03fc7b6e4b3e",
 			"f733a139-9a74-4f4a-96dd-22d85fd1013d"
 		],
-		"title": "Aanwijzingen herkennen en afleiden",
-		"id": "bd84c917-4e9c-40af-a1f4-79c81b1de7ea"
+		"title": "Aanwijzingen identificeren en interpretaties afleiden",
+		"id": "bd84c917-4e9c-40af-a1f4-79c81b1de7ea",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
