@@ -4932,22 +4932,28 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan de essentiële zinnen in een korte alledaagse tekst identificeren en markeren (bijvoorbeeld onderstrepen, in een kleur aanduiden, enzovoort).",
-		"id": "eac2dbcb-1d89-4ac3-ab44-233db35f9327"
+		"title": "Kan de essentiële zinnen in een korte alledaagse tekst identificeren en markeren (bijvoorbeeld onderstrepen, in een kleur aanduiden).",
+		"id": "eac2dbcb-1d89-4ac3-ab44-233db35f9327",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan de essentiële informatie in een directe, informatieve tekst identificeren en markeren (bijvoorbeeld onderstrepen, in een kleur aanduiden, enzovoort) om deze informatie aan iemand anders over te dragen.",
-		"id": "3a398487-30db-4338-a573-350dc6ca0856"
+		"title": "Kan de essentiële informatie in een directe, informatieve tekst identificeren en markeren (bijvoorbeeld onderstrepen, in een kleur aanduiden) om deze informatie op iemand anders over te dragen.",
+		"id": "3a398487-30db-4338-a573-350dc6ca0856",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan een brontekst bewerken door de delen te schrappen die geen nieuwe informatie toevoegen die relevant is voor een bepaalde doelgroep, om de significante inhoud toegankelijker te maken voor deze doelgroep.",
-		"id": "cdf184bd-a735-4238-bff9-253a3a89579f"
+		"title": "Kan een brontekst bewerken door de delen die geen nieuwe informatie toevoegen die relevant is voor een bepaalde doelgroep te schrappen, om de significante inhoud toegankelijker te maken voor deze doelgroep.",
+		"id": "cdf184bd-a735-4238-bff9-253a3a89579f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4974,8 +4980,10 @@
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan een complexe brontekst herschrijven en daarbij de coherentie, de cohesie en de stroom van de argumentatie verbeteren en niet-relevante delen verwijderen.",
-		"id": "a9a19f7d-8494-45a1-849b-c45ec604a09c"
+		"title": "Kan een complexe brontekst herschrijven en daarbij de coherentie, cohesie en vloeiendheid van de argumentatie verbeteren en niet-relevante delen verwijderen.",
+		"id": "a9a19f7d-8494-45a1-849b-c45ec604a09c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
