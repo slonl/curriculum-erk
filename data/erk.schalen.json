@@ -317,7 +317,6 @@
 	},
 	{
 		"erk_candobeschrijving_id": [
-			"3da2eefb-7fd1-456c-a83b-91030d6b7ee9",
 			"26079d79-4f81-4e37-8b3f-04cb6a2254c9",
 			"fb7ac37f-7919-450a-9a5c-f238f7ef76c9",
 			"af072326-9f7e-4ca0-998d-4a0a981ea0e6",
@@ -329,7 +328,9 @@
 			"f5fd0d25-8803-4b57-aafa-9c0763d7b0e1"
 		],
 		"title": "Klankarticulatie",
-		"id": "20206dda-ab8f-470a-a06d-e56090634228"
+		"id": "20206dda-ab8f-470a-a06d-e56090634228",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
