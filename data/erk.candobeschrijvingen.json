@@ -4877,15 +4877,19 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan concepten over onderwerpen in zijn of haar interessegebieden toegankelijker maken door concrete voorbeelden te geven, stap voor stap samen te vatten en de belangrijkste punten te herhalen.",
-		"id": "1efb37a9-a37f-449b-a2ac-0d6377d3e143"
+		"title": "Kan concepten over onderwerpen in de eigen interessegebieden toegankelijker maken door concrete voorbeelden te geven, stap voor stap samen te vatten en de belangrijkste punten te herhalen.",
+		"id": "1efb37a9-a37f-449b-a2ac-0d6377d3e143",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan de inhoud van een tekst over een onderwerp in zijn of haar interessegebieden toegankelijker maken voor een doelgroep door voorbeelden, redeneringen en toelichtende opmerkingen toe te voegen.",
-		"id": "4fb43e07-cfe1-4fa3-bae6-1ed9ceaf529d"
+		"title": "Kan de inhoud van een tekst over een onderwerp in de eigen interessegebieden toegankelijker maken voor een doelgroep door voorbeelden, redeneringen en toelichtende opmerkingen toe te voegen.",
+		"id": "4fb43e07-cfe1-4fa3-bae6-1ed9ceaf529d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
