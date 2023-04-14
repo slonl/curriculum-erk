@@ -12628,8 +12628,10 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan aangeven wanneer hij of zij het gesprek kan volgen.",
-		"id": "47651ea4-7fab-40af-b596-bd71a746608d"
+		"title": "Kan aangeven of het gesprek te volgen is.",
+		"id": "47651ea4-7fab-40af-b596-bd71a746608d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -12663,8 +12665,10 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan het punt dat op een bepaald moment in een discussie is bereikt, samenvatten en de volgende stappen voorstellen.",
-		"id": "ab11e8ba-afe0-4078-b963-197e30a17c9e"
+		"title": "Kan het punt dat op een bepaald moment in een discussie is bereikt samenvatten en de volgende stappen voorstellen.",
+		"id": "ab11e8ba-afe0-4078-b963-197e30a17c9e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -12677,15 +12681,19 @@
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan de belangrijkste punten van een discussie over zaken binnen zijn of haar academische of professionele vakgebied samenvatten en evalueren.",
-		"id": "9b0ff6cc-64be-44d7-bca4-2805617639e2"
+		"title": "Kan de belangrijkste punten van een discussie over zaken binnen het eigen academische of professionele vakgebied samenvatten en evalueren.",
+		"id": "9b0ff6cc-64be-44d7-bca4-2805617639e2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan feedback geven en opvolgen op uitspraken en gevolgtrekkingen en daarmee de ontwikkeling van de discussie helpen.",
-		"id": "7029325f-96e9-4476-b3bb-f9d018b0aeaa"
+		"title": "Kan uitspraken en gevolgtrekkingen van feedback of opvolging voorzien en daarmee de ontwikkeling van de discussie helpen.",
+		"id": "7029325f-96e9-4476-b3bb-f9d018b0aeaa",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
