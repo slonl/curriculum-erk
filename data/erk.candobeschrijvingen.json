@@ -7510,113 +7510,145 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan de waarschijnlijke betekenis van een onbekend woord raden dat lijkt op een woord in de taal die hij of zij normaal gesproken gebruikt.",
-		"id": "d2dffb9c-3f36-497d-b7b2-34fad2592b6e"
+		"title": "Kan de waarschijnlijke betekenis raden van een onbekend woord dat lijkt op een woord in de taal die diegene normaliter gebruikt.",
+		"id": "d2dffb9c-3f36-497d-b7b2-34fad2592b6e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan de betekenis van een onbekend woord voor een concrete handeling of een concreet voorwerp achterhalen, mits de tekst eromheen zeer eenvoudig is en over een vertrouwd alledaags onderwerp gaat.",
-		"id": "f3c3cc6d-82cd-4dc2-842a-408d7c26f871"
+		"title": "Kan de betekenis van een onbekend woord voor een concrete handeling of een concreet voorwerp achterhalen, mits de tekst eromheen zeer eenvoudig is en over een vertrouwd en alledaags onderwerp gaat.",
+		"id": "f3c3cc6d-82cd-4dc2-842a-408d7c26f871",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan de betekenis en functie van onbekende standaarduitdrukkingen achterhalen op basis van hun plaats in een geschreven tekst (bijvoorbeeld aan het begin of eind van een brief).",
-		"id": "667da34f-ec8b-4ac8-9135-436f4bb14535"
+		"title": "Kan de betekenis en functie van onbekende standaarduitdrukkingen afleiden op basis van hun plaats in de tekst (bijvoorbeeld aan het begin of het eind van een brief).",
+		"id": "667da34f-ec8b-4ac8-9135-436f4bb14535",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan gebruikmaken van getallen, data, namen, eigen namen enzovoort om het onderwerp van een tekst te bepalen.",
-		"id": "116a9b42-78a8-4f4b-8621-55eacdc22ac7"
+		"title": "Kan getallen, data, namen, eigennamen enzovoort benutten om het onderwerp van een tekst te bepalen.",
+		"id": "116a9b42-78a8-4f4b-8621-55eacdc22ac7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan gebruikmaken van opmaak, weergave en typografische kenmerken om het type tekst vast te stellen: nieuwsbericht, reclametekst, artikel, tekstboek, chat- of forumbericht enzovoort.",
-		"id": "1b30d020-e891-4413-b722-9f089b5edc56"
+		"title": "Kan opmaak, weergave en typografische kenmerken benutten om het type tekst vast te stellen: nieuwsbericht, reclametekst, artikel, tekstboek, chat- of forumbericht enzovoort.",
+		"id": "1b30d020-e891-4413-b722-9f089b5edc56",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan gebruikmaken van zijn of haar herkenning van bekende woorden om de betekenis van onbekende woorden af te leiden in korte uitdrukkingen die worden gebruikt in alledaagse contexten.",
-		"id": "ab94a30b-b5d2-4907-ad0b-8eda30e277c5"
+		"title": "Kan herkenning van bekende woorden gebruiken om de betekenis af te leiden van onbekende woorden in korte uitdrukkingen die in alledaagse situaties worden gebruikt.",
+		"id": "ab94a30b-b5d2-4907-ad0b-8eda30e277c5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan zijn of haar begrip van de algemene betekenis van korte teksten over alledaagse onderwerpen van concrete aard gebruiken om de vermoedelijke betekenis van onbekende woorden af te leiden uit de context.",
-		"id": "2d907409-70a2-49f4-ae81-286acf9cdaf9"
+		"title": "Kan het begrip van de algemene betekenis van korte teksten over alledaagse onderwerpen van concrete aard gebruiken om de vermoedelijke betekenis van onbekende woorden uit de context af te leiden.",
+		"id": "2d907409-70a2-49f4-ae81-286acf9cdaf9",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan de waarschijnlijke betekenis van onbekende woorden in een schriftelijke tekst afleiden door de delen te herkennen waaruit ze zijn opgebouwd (bijvoorbeeld stam, lexicale elementen, voor- en achtervoegsels).",
-		"id": "5433de39-fb7b-453d-8d59-b2c2f4ca6e85"
+		"title": "Kan de waarschijnlijke betekenis van onbekende woorden in een tekst afleiden door de samenstellende delen waaruit ze zijn opgebouwd te identificeren (bijvoorbeeld stam, lexicale elementen, voor- en achtervoegsels).",
+		"id": "5433de39-fb7b-453d-8d59-b2c2f4ca6e85",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan een redenering of een reeks gebeurtenissen in een verhaal volgen door zich te concentreren op veelvoorkomende logische verbindingswoorden (bijvoorbeeld echter, omdat) en verbindingswoorden van tijd (bijvoorbeeld daarna, eerder).",
-		"id": "59000c6b-e83b-4f1a-959d-8edb1c1ddd4f"
+		"title": "Kan een redenering of een reeks van gebeurtenissen in een verhaal volgen door zich op veelvoorkomende logische verbindingswoorden (bijvoorbeeld, echter, omdat) en temporele verbindingswoorden (bijvoorbeeld daarna, eerder) te concentreren.",
+		"id": "59000c6b-e83b-4f1a-959d-8edb1c1ddd4f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan luisteren naar een korte verhalende tekst en voorspellen wat er daarna gaat gebeuren.",
-		"id": "08b04390-282a-46cb-935c-0d52f36808e0"
+		"title": "Kan een korte verhalende tekst bekijken of beluisteren en voorspellen wat daarna gaat gebeuren.",
+		"id": "08b04390-282a-46cb-935c-0d52f36808e0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan elementaire gevolgtrekkingen of voorspellingen maken met betrekking tot de inhoud van een tekst op basis van koppen en titels.",
-		"id": "b66f5569-2682-439a-93e8-cfbaf64dc7db"
+		"title": "Kan, op basis van koppen en titels, conclusies trekken of voorspellingen doen over de inhoud van een tekst.",
+		"id": "b66f5569-2682-439a-93e8-cfbaf64dc7db",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan de betekenis van zo nu en dan voorkomende onbekende woorden afleiden uit de context en de betekenis van zinnen herleiden, mits het besproken onderwerp vertrouwd is.",
-		"id": "0bc2ea64-64f4-4e8d-8386-2fc8fa2734b8"
+		"title": "Kan de betekenis van zinnen en van toevallig onbekende woorden afleiden uit de context, mits het onderwerp dat wordt besproken vertrouwd is.",
+		"id": "0bc2ea64-64f4-4e8d-8386-2fc8fa2734b8",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan niet-vertrouwde woorden over onderwerpen met betrekking tot het eigen vak- en interessegebied herkennen aan de context.",
-		"id": "7888344c-4746-45d7-b697-b340a53bbd45"
+		"title": "Kan de betekenis van niet-vertrouwde woorden over onderwerpen die betrekking hebben op het eigen vak- en interessegebied afleiden uit de context.",
+		"id": "7888344c-4746-45d7-b697-b340a53bbd45",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan de betekenis van een onderdeel van een tekst extrapoleren door rekening te houden met de tekst als geheel.",
-		"id": "009d7285-cd3f-4326-aa85-44367a5b5bad"
+		"title": "Kan de betekenis van een deel van een tekst afleiden door rekening te houden met de tekst als geheel.",
+		"id": "009d7285-cd3f-4326-aa85-44367a5b5bad",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan gebruikmaken van verschillende typen verbindingswoorden (numeriek, temporeel, logisch) en de rol van sleutelalinea's in de algehele ordening om de argumentatie in een tekst beter te kunnen begrijpen.",
-		"id": "4d1a80bd-46f7-4eb3-83c9-c0af06b4221f"
+		"title": "Kan verschillende soorten verbanden (numeriek, temporeel, logisch) leggen en de rol van sleutelalinea's benutten om de argumentatie in een tekst beter te begrijpen.",
+		"id": "4d1a80bd-46f7-4eb3-83c9-c0af06b4221f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan gebruikmaken van uiteenlopende strategieën om tot begrip te komen, waaronder het letten op hoofdpunten en het controleren van het eigen inzicht aan de hand van contextuele aanwijzingen.",
-		"id": "3818f3ac-b190-49eb-9d94-74090eff3165"
+		"title": "Kan gebruikmaken van verschillende strategieën om tot begrip te komen, waaronder uitkijken naar hoofdpunten en het eigen begrip controleren aan de hand van contextuele aanwijzingen.",
+		"id": "3818f3ac-b190-49eb-9d94-74090eff3165",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -7629,9 +7661,11 @@
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Geen descriptoren beschikbaar: zie C1.",
+		"title": "Geen descriptoren beschikbaar, zie C1.",
 		"isempty": true,
-		"id": "f733a139-9a74-4f4a-96dd-22d85fd1013d"
+		"id": "f733a139-9a74-4f4a-96dd-22d85fd1013d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
