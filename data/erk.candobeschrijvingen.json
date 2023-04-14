@@ -9306,15 +9306,19 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan een geschikte set frasen uit zijn of haar repertoire oproepen en instuderen.",
-		"id": "7f91d617-518f-47b8-b818-08d36120415b"
+		"title": "Kan een geschikte set frasen uit het eigen repertoire oproepen en instuderen.",
+		"id": "7f91d617-518f-47b8-b818-08d36120415b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan doorgronden hoe hij of zij de hoofdpunten die hij of zij wil overbrengen het beste kan communiceren, gebruikmakend van alle bronnen die beschikbaar zijn en de boodschap beperkend tot wat hij of zij zich kan herinneren of kan uitdrukken.",
-		"id": "1c211806-7480-4f67-a021-23d198402bfa"
+		"title": "Kan bepalen hoe de hoofdpunten van de eigen boodschap over te brengen, gebruikmakend van alle beschikbare bronnen en rekening houdend met het eigen taalrepertoire.",
+		"id": "1c211806-7480-4f67-a021-23d198402bfa",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9334,23 +9338,29 @@
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan bij het voorbereiden van een potentieel ingewikkelde of ongemakkelijke situatie, plannen wat hij of zij moet zeggen in het geval van verschillende reacties en overwegen wat voor uitdrukking passend zou zijn.",
-		"id": "5a0f6add-88eb-45e0-a4b4-992f90136907"
+		"title": "Kan bij het voorbereiden van een potentieel ingewikkelde of ongemakkelijke situatie plannen wat te zeggen in het geval van verschillende reacties en overwegen wat voor uitdrukking passend zou zijn.",
+		"id": "5a0f6add-88eb-45e0-a4b4-992f90136907",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan bij het voorbereiden van een formelere mondelinge of schriftelijke tekst bewust de conventies overnemen die verbonden zijn aan het betreffende type tekst (structuur, mate van formaliteit enzovoort).",
-		"id": "5e07c887-8ee4-49c7-b80f-359c85ac4f19"
+		"title": "Kan bij het voorbereiden van een formelere tekst bewust de conventies overnemen die verbonden zijn aan het betreffende type tekst (bijvoorbeeld structuur, mate van formaliteit).",
+		"id": "5e07c887-8ee4-49c7-b80f-359c85ac4f19",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Geen descriptoren beschikbaar: zie C1.",
+		"title": "Geen descriptoren beschikbaar, zie C1.",
 		"isempty": true,
-		"id": "ae136352-fe0a-4c34-b71b-aa9d29904dbd"
+		"id": "ae136352-fe0a-4c34-b71b-aa9d29904dbd",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
