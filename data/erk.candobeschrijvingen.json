@@ -4696,29 +4696,37 @@
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan de belangrijkste punten in korte, directe mondelinge of schriftelijke teksten over vertrouwde onderwerpen (bijvoorbeeld korte tijdschriftartikelen, interviews) eenvoudiger parafraseren om de inhoud voor anderen toegankelijk te maken.",
-		"id": "ab576914-9d16-4e83-b1ab-646fbe18b23a"
+		"title": "Kan de belangrijkste punten in korte, directe teksten over vertrouwde onderwerpen (bijvoorbeeld korte tijdschriftartikelen, interviews) eenvoudiger parafraseren om de inhoud voor anderen toegankelijk te maken.",
+		"id": "ab576914-9d16-4e83-b1ab-646fbe18b23a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan de belangrijkste inhoud van mondelinge of schriftelijke tekst over een belangwekkend onderwerp (bijvoorbeeld een essay, een forumdiscussie, een presentatie) toegankelijk maken voor anderen door deze te parafraseren in eenvoudigere taal.",
-		"id": "d42c224e-da64-4219-8476-84353c3351b2"
+		"title": "Kan de belangrijkste inhoud van een tekst over een belangwekkend onderwerp (bijvoorbeeld een essay, een forumdiscussie, een presentatie) toegankelijk maken voor anderen door deze te parafraseren in eenvoudigere taal.",
+		"id": "d42c224e-da64-4219-8476-84353c3351b2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan specifieke, complexe informatie in zijn of haar vakgebied duidelijker en explicieter maken voor anderen door deze te parafraseren in eenvoudigere taal.",
-		"id": "d58d486d-88e3-441b-aa6d-0bc3f87238a4"
+		"title": "Kan specifieke, complexe informatie in het eigen vakgebied duidelijker en explicieter maken voor anderen door deze te parafraseren in eenvoudigere taal.",
+		"id": "d58d486d-88e3-441b-aa6d-0bc3f87238a4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan technische onderwerpen in zijn of haar vakgebied uitleggen door gebruik te maken van passende niet- technische taal voor een ontvanger die geen specialistische kennis heeft.",
-		"id": "d9c2f40b-13f0-49a6-bd60-57930fc8ae32"
+		"title": "Kan technische onderwerpen in het eigen vakgebied uitleggen door gebruik te maken van passende niet-technische taal voor een ontvanger die geen specialistische kennis heeft.",
+		"id": "d9c2f40b-13f0-49a6-bd60-57930fc8ae32",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -4731,15 +4739,19 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan zijn of haar taalgebruik (bijvoorbeeld syntax, idioom, jargon) aanpassen om een complex specialistisch onderwerp toegankelijk te maken voor ontvangers die er niet vertrouwd mee zijn.",
-		"id": "39806553-20d4-408a-83be-199819443c1e"
+		"title": "Kan het taalgebruik (bijvoorbeeld syntax, idioom, jargon) aanpassen om een complex specialistisch onderwerp toegankelijk te maken voor ontvangers die er niet vertrouwd mee zijn.",
+		"id": "39806553-20d4-408a-83be-199819443c1e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan technische terminologie en moeilijke concepten uitleggen bij het communiceren met leken over zaken in zijn of haar specialisatiegebied.",
-		"id": "6eb33331-9644-4564-b7c7-bbae78e7b776"
+		"title": "Kan technische terminologie en moeilijke concepten uitleggen bij het communiceren met leken over zaken in het eigen specialisatiegebied.",
+		"id": "6eb33331-9644-4564-b7c7-bbae78e7b776",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
