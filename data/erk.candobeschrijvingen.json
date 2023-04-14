@@ -9380,43 +9380,55 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan aangeven wat hij of zij bedoelt door het aan te wijzen (‘Een van deze, alstublieft’).",
-		"id": "dbfa838e-d539-42f7-add7-c8afeea377af"
+		"title": "Kan een bedoeling/wens duidelijk maken door iets aan te wijzen (bijvoorbeeld “Een van deze, alstublieft”).",
+		"id": "dbfa838e-d539-42f7-add7-c8afeea377af",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan een inadequaat woord uit zijn of haar repertoire gebruiken en de betekenis verduidelijken met gebaren.",
-		"id": "2fc46d17-8a60-4ffd-8cb4-67ec39de9d0d"
+		"title": "Kan een onjuist woord uit het eigen repertoire gebruiken en de betekenis verduidelijken met gebaren.",
+		"id": "2fc46d17-8a60-4ffd-8cb4-67ec39de9d0d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan een woord uit de eigen eerste taal ‘verbuitenlandsen’ en om bevestiging vragen.",
-		"id": "79b433dd-20d0-4bc0-b6cd-a1a6b6f45d3d"
+		"title": "Kan een woord uit de eerste taal ‘verbuitenlandsen’ en om bevestiging vragen.",
+		"id": "79b433dd-20d0-4bc0-b6cd-a1a6b6f45d3d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan een eenvoudig woord gebruiken waarvan de betekenis lijkt op het begrip dat hij of zij wil overbrengen, en daarbij om ‘correctie’ vragen.",
-		"id": "d4bbf371-0481-4ace-a18b-ea0f01c6b1c1"
+		"title": "Kan een eenvoudig woord gebruiken waarvan de betekenis lijkt op het bedoelde begrip en vraagt daarbij om “correctie”.",
+		"id": "d4bbf371-0481-4ace-a18b-ea0f01c6b1c1",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan betekenis overbrengen door een woord met vergelijkbare betekenis te kwalificeren (bijvoorbeeld een vrachtwagen voor mensen in plaats van een bus).",
-		"id": "0b0f874b-ace4-4adc-9ce0-d3d910ecb40d"
+		"title": "Kan betekenis overbrengen door een woord met vergelijkbare betekenis te kwalificeren (bijvoorbeeld een vrachtwagen voor mensen = een bus).",
+		"id": "0b0f874b-ace4-4adc-9ce0-d3d910ecb40d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan de kenmerken van iets concreets omschrijven waarvoor hij of zij zich het juiste woord niet kan herinneren.",
-		"id": "203e13c4-cbd7-4b2c-ae67-1f3f7df4922d"
+		"title": "Kan de kenmerken van iets concreets omschrijven bij gebrek aan het juiste woord.",
+		"id": "203e13c4-cbd7-4b2c-ae67-1f3f7df4922d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9436,15 +9448,19 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan creatief gebruikmaken van zijn of haar woordenschat om in bijna alle situaties vlot en effectief te parafraseren.",
-		"id": "3359b0ee-807a-474f-aa97-cc3419e553f7"
+		"title": "Kan creatief gebruikmaken van de eigen woordenschat om in bijna alle situaties vlot en effectief te parafraseren.",
+		"id": "3359b0ee-807a-474f-aa97-cc3419e553f7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan zo soepel een gelijkwaardige term gebruiken in plaats van een woord dat hem of haar ontschoten is, dat het nauwelijks merkbaar is.",
-		"id": "0e8ef8c4-7877-4d8f-a417-3499679575f4"
+		"title": "Kan zo soepel een gelijkwaardige term gebruiken in plaats van een woord dat ontschoten is, dat het nauwelijks merkbaar is.",
+		"id": "0e8ef8c4-7877-4d8f-a417-3499679575f4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
