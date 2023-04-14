@@ -12721,43 +12721,55 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan op een eenvoudige manier uitdrukken dat hij of zij het niet begrijpt.",
-		"id": "70bc86c6-e4cd-4e2d-bed7-b41460b637f2"
+		"title": "Kan op een eenvoudige manier uitdrukken dat iets niet duidelijk is.",
+		"id": "70bc86c6-e4cd-4e2d-bed7-b41460b637f2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan met woorden, intonatie en gebaren aangeven dat hij of zij het niet begrijpt.",
-		"id": "b78939df-3657-4ab6-bb63-acb49a3ef04f"
+		"title": "Kan met woorden, intonatie en handgebaren aangeven dat iets niet duidelijk is.",
+		"id": "b78939df-3657-4ab6-bb63-acb49a3ef04f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan aangeven dat hij of zij iets niet begrijpt en vragen of een woord gespeld kan worden.",
-		"id": "b7029ca0-6cce-48d9-85c9-139b230db4d3"
+		"title": "Kan aangeven dat iets niet duidelijk is en vragen om een woord te spellen.",
+		"id": "b7029ca0-6cce-48d9-85c9-139b230db4d3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan zeggen dat hij of zij iets niet heeft kunnen volgen.",
-		"id": "359331d2-9f8c-4c4e-b88c-1080b15fae16"
+		"title": "Kan zeggen dat iets niet te volgen is.",
+		"id": "359331d2-9f8c-4c4e-b88c-1080b15fae16",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan met standaardzinnen om opheldering vragen over sleutelwoorden of -frasen die niet zijn begrepen.",
-		"id": "7402c8ac-6295-470b-84c5-d365826ecd2f"
+		"title": "Kan met standaardzinnen om opheldering vragen over sleutelwoorden of frasen die niet zijn begrepen.",
+		"id": "7402c8ac-6295-470b-84c5-d365826ecd2f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan heel eenvoudig om herhaling vragen wanneer hij of zij iets niet begrijpt.",
-		"id": "1d2bf6c4-8995-4c2f-be9d-263489d26e5f"
+		"title": "Kan heel eenvoudig om herhaling vragen wanneer iets niet duidelijk is.",
+		"id": "1d2bf6c4-8995-4c2f-be9d-263489d26e5f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -12777,37 +12789,47 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan vervolgvragen formuleren voor een lid van een groep om een onderwerp te verduidelijken dat impliciet is of onduidelijk uitgesproken wordt.",
-		"id": "006f3084-a35c-4304-bc30-dabe44247998"
+		"title": "Kan vervolgvragen formuleren voor een lid van een groep om een onderwerp dat impliciet is of onduidelijk toegelicht wordt te verduidelijken.",
+		"id": "006f3084-a35c-4304-bc30-dabe44247998",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan vragen om uitleg of verduidelijking om zeker te weten dat hij of zij complexe, abstracte ideeën begrijpt.",
-		"id": "1b66692b-9234-48fa-a2f7-686001c0909a"
+		"title": "Kan uitleg of verduidelijking vragen om de eigen interpretatie van complexe, abstracte ideeën te controleren.",
+		"id": "1b66692b-9234-48fa-a2f7-686001c0909a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan vervolgvragen stellen om te controleren of hij of zij heeft begrepen wat een spreker wilde zeggen en om opheldering te krijgen over punten van dubbelzinnigheid.",
-		"id": "d91f2116-02c0-488d-9407-fc314f87fe1b"
+		"title": "Kan vervolgvragen stellen om de eigen interpretatie van wat iemand wilde zeggen te controleren en om opheldering over punten van dubbelzinnigheid te krijgen.",
+		"id": "d91f2116-02c0-488d-9407-fc314f87fe1b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan een uitleg of verduidelijking vragen om zeker te weten dat hij of zij complexe, abstracte ideeën in professionele of academische contexten begrijpt, rechtstreeks persoonlijk of online.",
-		"id": "a0c97efa-ed21-4817-9463-0d473f489d4f"
+		"title": "Kan uitleg of verduidelijking vragen om de eigen interpretatie van complexe, abstracte ideeën in professionele of academische contexten (live of online) te controleren.",
+		"id": "a0c97efa-ed21-4817-9463-0d473f489d4f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Geen descriptoren beschikbaar: zie C1.",
+		"title": "Geen descriptoren beschikbaar, zie C1.",
 		"isempty": true,
-		"id": "08d5bf8c-c67f-4c20-a2ef-f85d73d356c4"
+		"id": "08d5bf8c-c67f-4c20-a2ef-f85d73d356c4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"id": "0ecd3e9c-f849-4d06-a578-04e8bfd54c31",
