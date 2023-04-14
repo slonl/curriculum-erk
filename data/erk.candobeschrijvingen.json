@@ -9504,29 +9504,37 @@
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan vergissingen met tijden of uitdrukkingen die tot misverstanden leiden, corrigeren mits de gesprekspartner aangeeft dat er een probleem is.",
-		"id": "373edaec-eb85-4b01-bb34-59f0e161dc01"
+		"title": "Kan vergissingen met tijdsmarkeringen of uitdrukkingen die tot misverstanden leiden, corrigeren mits de gesprekspartner aangeeft dat er een probleem is.",
+		"id": "373edaec-eb85-4b01-bb34-59f0e161dc01",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan notitie nemen van eigen veelgemaakte fouten en bewust opletten of hij of zij ze maakt.",
-		"id": "b4f6adab-485e-438e-be58-c31a0c01e212"
+		"title": "Kan eigen 'veelgemaakte fouten' identificeren en monitoren.",
+		"id": "b4f6adab-485e-438e-be58-c31a0c01e212",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan vergissingen en fouten corrigeren zodra hij of zij zich ervan bewust is of als ze tot onbegrip en misverstanden leiden.",
-		"id": "cf2bc3ef-d2d0-4194-aabe-f02ed75c30d1"
+		"title": "Kan vergissingen en fouten corrigeren na ze te hebben opgemerkt of als ze tot misverstanden hebben geleid.",
+		"id": "cf2bc3ef-d2d0-4194-aabe-f02ed75c30d1",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan vaak bij nader inzien zelf zijn of haar toevallige 'vergissingen' of niet-systematische fouten en kleine gebreken in de zinsstructuur corrigeren.",
-		"id": "e52b670d-70a3-4564-988b-24e598c43acd"
+		"title": "Kan vaak bij nader inzien zelf toevallige “vergissingen” of niet-systematische fouten en kleine gebreken in de zinsstructuur corrigeren.",
+		"id": "e52b670d-70a3-4564-988b-24e598c43acd",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -9539,8 +9547,10 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan zich bij een moeilijkheid hernemen en herformuleren wat hij of zij wil zeggen, zonder de stroom van gesproken woord volledig te onderbreken.",
-		"id": "ecd330aa-db49-4ce5-bd30-22712234e385"
+		"title": "Kan zich bij een moeilijkheid hernemen en herformuleren zonder de taalproductie volledig te onderbreken.",
+		"id": "ecd330aa-db49-4ce5-bd30-22712234e385",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
