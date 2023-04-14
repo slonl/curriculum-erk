@@ -13152,5 +13152,14 @@
 		"prefix": "",
 		"title": "Kan herkennen wanneer er problemen optreden en in eenvoudige taal aangeven wat de aard van het probleem lijkt te zijn.",
 		"description": ""
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"id": "eb55b461-ad38-42f4-a1bf-3a2599feb99d",
+		"prefix": "",
+		"title": "Kan vrijwel alle klanken van de doeltaal articuleren; sommige kenmerken van een accent dat is overgehouden uit een andere taal of andere talen kunnen merkbaar zijn, maar dit is niet van invloed op de verstaanbaarheid.",
+		"description": ""
 	}
 ]
