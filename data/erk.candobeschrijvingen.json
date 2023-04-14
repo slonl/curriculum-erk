@@ -4795,8 +4795,10 @@
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan een korte informatieve of instructietekst begrijpelijker maken door deze als een lijst van punten te presenteren.",
-		"id": "ec67199c-8cc1-4725-897b-6c3df6d186e3"
+		"title": "Kan een korte educatieve of informatieve tekst begrijpelijker maken door deze als een lijst van punten te presenteren.",
+		"id": "ec67199c-8cc1-4725-897b-6c3df6d186e3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
