@@ -65,13 +65,15 @@
 	{
 		"erk_schaal_id": [
 			"f8d91c39-870b-4976-a036-ed1ffb9da094",
-			"29d1ec67-459c-48b1-86cf-d8559b7e5da9",
 			"2839c055-88c0-440f-8280-011bf8f1c6e8",
 			"79bcff13-6725-4659-8ede-a82da82983c1",
 			"582c9a5c-11c5-4e38-a9e8-a470d4f9d1bd",
-			"b40f3fa1-a82b-4949-a089-42785adb1b9c"
+			"b40f3fa1-a82b-4949-a089-42785adb1b9c",
+			"a9f73ec2-8d84-4f8f-b9e4-e6712291ff6f"
 		],
 		"title": "Pragmatisch",
-		"id": "96d01289-97ec-4024-89f5-4f49c3937e8c"
+		"id": "96d01289-97ec-4024-89f5-4f49c3937e8c",
+		"prefix": "",
+		"description": ""
 	}
 ]
