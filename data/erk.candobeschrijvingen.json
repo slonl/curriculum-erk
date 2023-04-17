@@ -631,7 +631,7 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Heeft een elementaire woordenschat die bestaat uit geïsoleerde woorden/gebaren en frasen met betrekking tot bepaalde concrete situaties.",
+		"title": "Heeft een elementaire woordenschat die bestaat uit geïsoleerde woorden en frasen met betrekking tot bepaalde concrete situaties.",
 		"id": "9a904035-85df-4cb9-b8f8-3ab0469a0a2a",
 		"prefix": "",
 		"description": ""
@@ -690,7 +690,7 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan de passende collocaties van veel woorden/gebaren in de meeste contexten tamelijk stelselmatig produceren.",
+		"title": "Kan de passende collocaties van veel woorden in de meeste contexten tamelijk stelselmatig produceren.",
 		"id": "01ae0df5-1ef9-4a58-a1e5-a33d19ce0369",
 		"prefix": "",
 		"description": ""
@@ -733,7 +733,7 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Heeft een goede beheersing van idiomatische uitdrukkingen en uitdrukkingen uit de spreektaal; kan vrij goed met woorden/gebaren spelen.",
+		"title": "Heeft een goede beheersing van idiomatische uitdrukkingen en uitdrukkingen uit de spreektaal; kan vrij goed met woorden spelen.",
 		"id": "4dd96d4b-7dc8-4010-96a5-e5b0aec76e77",
 		"prefix": "",
 		"description": ""
@@ -742,7 +742,7 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan in bijna alle situaties kiezen uit meerdere opties in de eigen woordenschat door gebruik te maken van synoniemen en zelfs minder gebruikelijke woorden/gebaren.",
+		"title": "Kan in bijna alle situaties kiezen uit meerdere opties in de eigen woordenschat door gebruik te maken van synoniemen en zelfs minder gebruikelijke woorden.",
 		"id": "4dd227e1-aaf2-4ec3-8c22-2244e3c7fa9b",
 		"prefix": "",
 		"description": ""
