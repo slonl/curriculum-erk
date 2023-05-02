@@ -11039,12 +11039,10 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"erk_voorbeeld_id": [
-			"adf4e2b5-844e-451d-b671-d15307785b4d",
-			"ce7fb3f9-d3cb-455d-b0ec-949c9731a70c"
-		],
-		"title": "Kan om verduidelijking vragen, eventueel met hulp van gebaren.",
-		"id": "59a0bbae-3cf4-447d-b537-ff093d0190ea"
+		"title": "Kan getallen, hoeveelheden en kosten op beperkte wijze uitdrukken.",
+		"id": "59a0bbae-3cf4-447d-b537-ff093d0190ea",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
