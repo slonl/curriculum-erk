@@ -10725,8 +10725,10 @@
 			"49c11ada-9f4a-45f7-8ef4-bc6a0df5dd1b",
 			"dd269c1f-91f2-464c-87ed-c5907e3d1463"
 		],
-		"title": "Kan eenvoudige inlichtingen verkrijgen over reismogelijkheden; gebruikmaken van het openbaar vervoer: trein, tram, bus en taxi; de weg vragen en wijzen; kaartjes kopen.",
-		"id": "74744afb-ed5a-4a27-8597-fe5e8f325b3e"
+		"title": "Kan eenvoudige inlichtingen verkrijgen over reismogelijkheden, gebruikmaken van het openbaar vervoer, de weg vragen en wijzen en kaartjes kopen.",
+		"id": "74744afb-ed5a-4a27-8597-fe5e8f325b3e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10737,8 +10739,10 @@
 			"da6e4eed-54f0-4f16-aad1-280ea7a9fccb",
 			"0c9c89c3-ed68-497e-9e8d-4d3276a1edf7"
 		],
-		"title": "Kan dingen vragen en eenvoudige transacties doen in openbare gelegenheden.",
-		"id": "deb0ec9c-3f6f-4560-ae2d-a62b17a774c0"
+		"title": "Kan dingen vragen en eenvoudige transacties doen in winkels, postkantoren of banken.",
+		"id": "deb0ec9c-3f6f-4560-ae2d-a62b17a774c0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10750,8 +10754,10 @@
 			"1b97e455-953e-4ecf-a95c-5bee080916a5",
 			"0d69b3cd-ec82-491e-9b6d-975e546e5f6a"
 		],
-		"title": "Kan inlichtingen geven en ontvangen over hoeveelheden, aantallen, enzovoort.",
-		"id": "651e7df7-3b37-4b9d-ad38-f43c69a75c15"
+		"title": "Kan inlichtingen geven en ontvangen over hoeveelheden, aantallen, prijzen enzovoort.",
+		"id": "651e7df7-3b37-4b9d-ad38-f43c69a75c15",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10764,8 +10770,10 @@
 			"8dfa9cb1-081e-4fe9-a1e6-71083e93287e",
 			"a742d225-7478-4a61-992e-a648880712ed"
 		],
-		"title": "Kan eenvoudige aankopen doen door te zeggen wat hij of zij wil en de prijs te vragen.",
-		"id": "7036850c-fdd1-4698-9cdc-c8da40b4af62"
+		"title": "Kan eenvoudige aankopen doen door ze te benoemen en de prijs te vragen.",
+		"id": "7036850c-fdd1-4698-9cdc-c8da40b4af62",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -13263,6 +13271,15 @@
 		"id": "c0ba47c6-31c0-47eb-b00d-9cf527478b8d",
 		"prefix": "",
 		"title": "Kan over het algemeen het onderwerp herkennen van de discussie die plaatsvindt, mits deze langzaam en duidelijk wordt gevoerd.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"id": "268267d8-b262-455e-aa7e-2bf313c7a624",
+		"prefix": "",
+		"title": "Kan de aard van een probleem aangeven aan een arts of verpleegkundige, zo nodig met behulp van gebaren en lichaamstaal.",
 		"description": ""
 	}
 ]
