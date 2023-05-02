@@ -11762,7 +11762,7 @@
 			"82396b4c-6b19-445f-ae5f-c4e4d1f0ecd3",
 			"44d01b15-030c-4ec7-aa4c-53a789589324"
 		],
-		"title": "Kan een kort, zeer eenvoudig bericht opstellen (bijvoorbeeld tekstbericht) aan vrienden om hen iets door te geven of een vraag te stellen.",
+		"title": "Kan een kort, zeer eenvoudig bericht opstellen (zoals een tekstbericht) aan vrienden om hen iets door te geven of een vraag te stellen.",
 		"id": "634f3bba-748e-4893-afe5-3efe4d52344b",
 		"prefix": "",
 		"description": ""
@@ -11812,8 +11812,10 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan een korte tekst op een kaart schrijven (bijvoorbeeld voor iemands verjaardag of om iemand een gelukkig nieuwjaar te wensen).",
-		"id": "9a808595-9b41-4102-b253-cc6e1d0742e2"
+		"title": "Kan een korte tekst opstellen voor op een kaart.",
+		"id": "9a808595-9b41-4102-b253-cc6e1d0742e2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -11853,7 +11855,7 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan elementaire e-mails/brieven met een feitelijk karakter opschrijven (bijvoorbeeld om informatie te vragen of om een bevestiging te geven of te vragen).",
+		"title": "Kan elementaire e-mails/brieven met een feitelijk karakter opstellen (bijvoorbeeld om informatie te vragen of om een bevestiging te geven of te vragen).",
 		"id": "b513b863-7c77-4b45-9d1b-49e8d6e15846",
 		"prefix": "",
 		"description": ""
@@ -11862,8 +11864,10 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan een elementaire sollicitatiebrief schrijven met beperkte ondersteunende details.",
-		"id": "78922b92-aba3-4701-b00c-928bf98da076"
+		"title": "Kan een elementaire sollicitatiebrief opstellen met beperkte ondersteunende details.",
+		"id": "78922b92-aba3-4701-b00c-928bf98da076",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -11873,15 +11877,19 @@
 			"5465b074-ec41-4899-ab78-28f8bebf3ebe",
 			"80035d86-031a-4b39-ba63-f46238422047"
 		],
-		"title": "Kan persoonlijke brieven schrijven waarin nieuws wordt overgebracht en gedachten over abstracte of culturele onderwerpen worden uitgedrukt, zoals muziek en films.",
-		"id": "fdaef983-86f8-43b6-a123-2ec5d1d2b31b"
+		"title": "Kan persoonlijke brieven opstellen waarin nieuws wordt overgebracht en gedachten over abstracte of culturele onderwerpen worden uitgedrukt, zoals muziek en films.",
+		"id": "fdaef983-86f8-43b6-a123-2ec5d1d2b31b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan brieven schrijven waarin verschillende meningen worden geuit en gedetailleerd verslag wordt gedaan van persoonlijke gevoelens en ervaringen.",
-		"id": "8ed69c62-4233-4e84-ae79-6b51c867d531"
+		"title": "Kan brieven opstellen waarin verschillende meningen worden geuit en gedetailleerd verslag wordt gedaan van persoonlijke gevoelens en ervaringen.",
+		"id": "8ed69c62-4233-4e84-ae79-6b51c867d531",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
