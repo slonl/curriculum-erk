@@ -10823,8 +10823,10 @@
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan omgaan met gewone aspecten van het dagelijks leven zoals reizen, verblijven, eten en winkelen.",
-		"id": "05c101e5-d091-414e-9d2c-bde5b0c9b773"
+		"title": "Kan omgaan met gewone aspecten van het dagelijks leven zoals reizen, verblijf, eten en winkelen.",
+		"id": "05c101e5-d091-414e-9d2c-bde5b0c9b773",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10835,8 +10837,10 @@
 			"6938602b-b7de-42c5-9bd4-f6e36b043213",
 			"5475945a-3f25-45d6-8cd8-cccac62da7ff"
 		],
-		"title": "Kan interactief communiceren in voorspelbare alledaagse situaties in het publieke leven met behulp van een breed scala van eenvoudige woorden en uitdrukkingen.",
-		"id": "f6d224ed-989e-4dd2-abf1-28ea2497a4aa"
+		"title": "Kan interactief communiceren in voorspelbare alledaagse situaties met behulp van een breed scala van eenvoudige uitdrukkingen.\n",
+		"id": "f6d224ed-989e-4dd2-abf1-28ea2497a4aa",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -13280,6 +13284,15 @@
 		"id": "268267d8-b262-455e-aa7e-2bf313c7a624",
 		"prefix": "",
 		"title": "Kan de aard van een probleem aangeven aan een arts of verpleegkundige, zo nodig met behulp van gebaren en lichaamstaal.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"id": "3134ec19-c188-4f7a-bee3-97fceff84cf1",
+		"prefix": "",
+		"title": "Kan alle noodzakelijke informatie verkrijgen van een toeristenbureau, mits van een heldere, niet-specialistische aard.",
 		"description": ""
 	}
 ]
