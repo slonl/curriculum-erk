@@ -12037,7 +12037,7 @@
 			"9852813b-9638-4b0f-9373-c2bd61fee582",
 			"97328074-498b-4652-bc9f-57b8419d5e4a"
 		],
-		"title": "Kan getallen en data, de eigen naam, nationaliteit, adres, leeftijd, geboorte- of aankomstdatum en dergelijke invullen, bijvoorbeeld op een incheckformulier in een hotel.",
+		"title": "Kan getallen en data, de eigen naam, nationaliteit, adres, leeftijd, geboorte- of aankomstdatum en dergelijke invullen.",
 		"id": "36696bb3-9ec3-4e92-8f48-6566234f2865",
 		"prefix": "",
 		"description": ""
@@ -12046,7 +12046,7 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan een eenvoudige boodschap achterlaten met daarin informatie over bijvoorbeeld de reden van afwezigheid en de verwachte terugkomst (bijvoorbeeld 'Naar de winkel: om 5 uur terug').",
+		"title": "Kan een eenvoudige boodschap achterlaten met daarin informatie over bijvoorbeeld de reden van afwezigheid en de verwachte terugkomst.",
 		"id": "a1fbf322-cdbe-480e-9022-8244d3fc7f23",
 		"prefix": "",
 		"description": ""
@@ -12100,7 +12100,7 @@
 			"60ef3cb3-ba99-4603-ae67-7b078970d540",
 			"c55770a5-0e9d-4a62-95dc-4aedd3c629e6"
 		],
-		"title": "Kan persoonlijke en andere gegevens invullen op de meeste alledaagse formulieren (bijvoorbeeld om een bankrekening te openen of een aangetekende brief te sturen).",
+		"title": "Kan persoonlijke en andere gegevens invullen op de meeste alledaagse formulieren.",
 		"id": "b8ae978d-660d-4bf7-8ec2-4c3d3f3032d5",
 		"prefix": "",
 		"description": ""
@@ -12145,7 +12145,7 @@
 			"2fe027dc-95a3-46fb-9211-2caed3f54e1c",
 			"1bda5085-ea23-496c-8959-ee2d0c61fdc7"
 		],
-		"title": "Kan formulieren waarin meer informatie gevraagd wordt gedetailleerd invullen.",
+		"title": "Kan formulieren waarin om meer informatie gevraagd wordt gedetailleerd invullen.",
 		"id": "20bfabb4-aaa3-411f-ab7e-649e86912642",
 		"prefix": "",
 		"description": ""
