@@ -10875,8 +10875,10 @@
 			"bf9c3263-a4cc-47d9-966b-643126327efb",
 			"193dcb46-c46b-465f-9eb3-5a9650f9de61"
 		],
-		"title": "Kan zich redden in minder alledaagse situaties in winkels, restaurants, postkantoren en banken.",
-		"id": "53f95fb6-e080-4eb9-9491-ec85191cde30"
+		"title": "Kan zich redden in minder alledaagse situaties in winkels, postkantoren, banken enzovoort.",
+		"id": "53f95fb6-e080-4eb9-9491-ec85191cde30",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10888,8 +10890,10 @@
 			"595ef9d5-1570-4def-a8c8-a34ecb6818c4",
 			"8c00c1cc-3faf-4b97-870b-5798a5c2c35d"
 		],
-		"title": "Kan een klacht uiten, afhandelen, doorgeven.",
-		"id": "9ca79239-434c-4d79-a731-a2f3ce714e6d"
+		"title": "Kan een klacht indienen.",
+		"id": "9ca79239-434c-4d79-a731-a2f3ce714e6d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10898,8 +10902,10 @@
 		"erk_voorbeeld_id": [
 			"1e9a0922-d466-4622-8fd3-18a727540496"
 		],
-		"title": "Kan omgaan met de meeste situaties die kunnen optreden wanneer hij of zij een reis boekt bij een reisagent of tijdens het reizen zelf.",
-		"id": "0284fac4-7416-43a3-80da-a4471c5def6a"
+		"title": "Kan omgaan met de meeste situaties die kunnen optreden bij het boeken van een reis bij een reisagent of tijdens het reizen zelf.",
+		"id": "0284fac4-7416-43a3-80da-a4471c5def6a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -10908,8 +10914,10 @@
 		"erk_voorbeeld_id": [
 			"8d95993e-f12f-4fcb-b11b-e42dc38fa207"
 		],
-		"title": "Kan eisen formuleren en gedetailleerde vragen stellen met betrekking tot complexere diensten, bijvoorbeeld huurovereenkomsten.",
-		"id": "222971a0-5893-419a-9f83-f4f5c4aaa10d"
+		"title": "Kan eisen formuleren en gedetailleerde vragen stellen met betrekking tot complexere diensten.",
+		"id": "222971a0-5893-419a-9f83-f4f5c4aaa10d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
