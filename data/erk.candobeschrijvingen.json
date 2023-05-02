@@ -11191,8 +11191,10 @@
 			"5f421a97-74ab-43a6-a86b-fbe531b6945b",
 			"7e773401-8b07-459f-853b-cd7c3f206dfc"
 		],
-		"title": "Kan direct feitelijke informatie achterhalen en doorgeven.",
-		"id": "b8750b0d-d84d-412c-8d1a-2a07b5de2971"
+		"title": "Kan met praktische alledaagse behoeften omgaan: eenduidige feitelijke informatie achterhalen en doorgeven.",
+		"id": "b8750b0d-d84d-412c-8d1a-2a07b5de2971",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -11237,8 +11239,10 @@
 			"63497777-21d0-406f-a049-b8e86d11fe31",
 			"5a695774-221e-4754-be5c-d23f9ced49a5"
 		],
-		"title": "Kan korte, eenvoudige opdrachten en aanwijzingen geven en opvolgen, zoals uitleggen hoe men ergens kan komen.",
-		"id": "6cc1ac72-0fcd-4e42-b790-b20bd6a140a2"
+		"title": "Kan eenvoudige aanwijzingen en instructies geven en opvolgen, zoals uitleggen hoe men ergens kan komen.",
+		"id": "6cc1ac72-0fcd-4e42-b790-b20bd6a140a2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
