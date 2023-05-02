@@ -1671,8 +1671,10 @@
 			"a6a02567-9e44-4608-b4eb-4995a27a3dcc",
 			"46c6027a-a026-45e6-a787-fc6f01b52e09"
 		],
-		"title": "Zaken regelen",
-		"id": "6615ae9c-e940-4203-816a-1affa8c50028"
+		"title": "Goederen en diensten verkrijgen",
+		"id": "6615ae9c-e940-4203-816a-1affa8c50028",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
