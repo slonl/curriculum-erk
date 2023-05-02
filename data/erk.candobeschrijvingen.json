@@ -10946,8 +10946,10 @@
 			"41f7f41e-b87e-4aa0-a371-2a6ffa6a78b2",
 			"cbea91b8-bbff-41d7-9ad7-be824abca970"
 		],
-		"title": "Kan een klacht op adequate wijze afhendelen, telefonisch en face-to-face.",
-		"id": "25f12553-d02f-45b1-9871-916e67e5996c"
+		"title": "Kan een klacht op adequate wijze afhandelen, telefonisch en face-to-face.",
+		"id": "25f12553-d02f-45b1-9871-916e67e5996c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
