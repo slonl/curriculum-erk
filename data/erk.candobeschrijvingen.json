@@ -13226,5 +13226,32 @@
 		"prefix": "",
 		"title": "Kan een conversatie of discussie voeren, maar is soms moeilijk te volgen bij het precies uitdrukken van de boodschap.",
 		"description": ""
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"id": "a3f87325-c5ae-4264-ac0b-54d7e520cac1",
+		"prefix": "",
+		"title": "Kan over het algemeen volgen wat er gezegd wordt en indien nodig een gedeelte herhalen van wat iemand gezegd heeft om wederzijds begrip te bevestigen.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"id": "57e82d3d-04ec-4dfe-9b2d-384e31136328",
+		"prefix": "",
+		"title": "Kan volgen wat er gezegd wordt, al moet er soms gevraagd worden om herhaling of verduidelijking indien de discussie snel of uitvoerig is.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"id": "eb2ef413-2e89-4cac-a737-f92caff0c2d7",
+		"prefix": "",
+		"title": "Kan gedetailleerde aanwijzingen op betrouwbare wijze begrijpen.",
+		"description": ""
 	}
 ]
