@@ -9921,8 +9921,10 @@
 			"6798219b-42d3-4ad7-8f1b-55abd3826615",
 			"c61460dd-199e-4fc4-b349-2da0942ff4ae"
 		],
-		"title": "Kan gevoelens uiten en op gevoelens van anderen reageren.",
-		"id": "a46983dc-7b59-430b-a12e-768784351d4e"
+		"title": "Kan gevoelens van verrassing, geluk, verdriet, belangstelling, onverschilligheid, enzovoort, uitdrukken en beantwoorden.",
+		"id": "a46983dc-7b59-430b-a12e-768784351d4e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -13196,6 +13198,33 @@
 		"id": "e9103a6b-2a21-46e0-b685-ee101ad83afd",
 		"prefix": "",
 		"title": "Kan in eenvoudige bewoordingen eigen gevoelens uitdrukken en dank uitspreken.\n",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"id": "2e0d0578-7900-4ca8-a872-3ec48e1a122b",
+		"prefix": "",
+		"title": "Kan onvoorbereid deelnemen aan gesprekken over vertrouwde onderwerpen.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"id": "745b6955-8efb-4eb9-b537-d0567a9fd652",
+		"prefix": "",
+		"title": "Kan helder gearticuleerde taal in alledaagse conversatie volgen, maar zal soms moeten vragen om herhaling van bepaalde woorden.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"id": "39fad118-d11a-4822-9c89-61b4d6eccafd",
+		"prefix": "",
+		"title": "Kan een conversatie of discussie voeren, maar is soms moeilijk te volgen bij het precies uitdrukken van de boodschap.",
 		"description": ""
 	}
 ]
