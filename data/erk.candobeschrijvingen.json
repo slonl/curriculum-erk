@@ -11675,8 +11675,10 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan korte, eenvoudige gestandaardiseerde notities schrijven over zaken die direct nodig zijn.",
-		"id": "3737e953-1d2b-442c-b25e-db064bca180f"
+		"title": "Kan korte, eenvoudige, gestandaardiseerde notities opstellen over zaken die direct nodig zijn.",
+		"id": "3737e953-1d2b-442c-b25e-db064bca180f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -11705,7 +11707,7 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan zich helder en precies uitdrukken, en daarbij flexibel en doeltreffend een verband leggen met de geadresseerde.",
+		"title": "Kan zich helder en precies uitdrukken en daarbij flexibel en doeltreffend een verband leggen met de geadresseerde.",
 		"id": "aec49108-22ca-432d-a699-8ad63d3c5fe5",
 		"prefix": "",
 		"description": ""
@@ -11714,8 +11716,10 @@
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan zich in een passende toon en stijl uitdrukken in vrijwel elk type formele en informele schriftelijke interactie.",
-		"id": "2a4eac26-d743-4528-ac2a-f918abc62b65"
+		"title": "Kan zich in een passende toon en stijl uitdrukken in vrijwel elk type formele en informele interactie.",
+		"id": "2a4eac26-d743-4528-ac2a-f918abc62b65",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
