@@ -13161,5 +13161,41 @@
 		"prefix": "",
 		"title": "Kan vrijwel alle klanken van de doeltaal articuleren; sommige kenmerken van een accent dat is overgehouden uit een andere taal of andere talen kunnen merkbaar zijn, maar dit is niet van invloed op de verstaanbaarheid.",
 		"description": ""
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"id": "4ad8dfc8-9c57-4151-a783-8f6a3ca04d25",
+		"prefix": "",
+		"title": "Kan sociaal contact leggen (bijvoorbeeld begroeten en afscheid nemen, voorstellen, bedanken).",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"id": "b9154f93-499c-4792-a31d-39f0208ff2f2",
+		"prefix": "",
+		"title": "Kan over het algemeen heldere standaardtaal begrijpen over vertrouwde zaken, mits het mogelijk is om te vragen om herhaling of herformulering.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"id": "c78f5ae1-bdf9-47cd-9aee-6001a523c61e",
+		"prefix": "",
+		"title": "Kan deelnemen aan korte gesprekken over belangwekkende onderwerpen in een alledaagse context.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"id": "e9103a6b-2a21-46e0-b685-ee101ad83afd",
+		"prefix": "",
+		"title": "Kan in eenvoudige bewoordingen eigen gevoelens uitdrukken en dank uitspreken.\n",
+		"description": ""
 	}
 ]
