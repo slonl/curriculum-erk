@@ -13253,5 +13253,14 @@
 		"prefix": "",
 		"title": "Kan gedetailleerde aanwijzingen op betrouwbare wijze begrijpen.",
 		"description": ""
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"id": "c0ba47c6-31c0-47eb-b00d-9cf527478b8d",
+		"prefix": "",
+		"title": "Kan over het algemeen het onderwerp herkennen van de discussie die plaatsvindt, mits deze langzaam en duidelijk wordt gevoerd.",
+		"description": ""
 	}
 ]
