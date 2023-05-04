@@ -12225,8 +12225,10 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan korte, eenvoudige informatie over zichzelf online plaatsen (bijvoorbeeld relatiestatus, nationaliteit, beroep), mits hij of zij deze kan selecteren in een menu en/of gebruik kan maken van een online-vertaalhulpmiddel.",
-		"id": "ab6cbdd4-c42b-4556-ad7c-ffd445c4f0a0"
+		"title": "Kan korte, eenvoudige mededelingen over zichzelf online plaatsen, mits die uit een menu kunnen worden geselecteerd en/of het gebruik van een online-vertaalhulpmiddel mogelijk is.",
+		"id": "ab6cbdd4-c42b-4556-ad7c-ffd445c4f0a0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -12239,22 +12241,28 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan standaarduitdrukkingen en combinaties van eenvoudige woorden gebruiken om korte positieve en negatieve reacties te plaatsen op eenvoudige online berichten en de daarin ingesloten links en media en kan antwoorden op verdere opmerkingen met standaarduitdrukkingen om te bedanken of excuses aan te bieden.",
-		"id": "20b34dbe-77c0-4d43-b4e4-9ba7f4c77b1e"
+		"title": "Kan standaarduitdrukkingen en combinaties van eenvoudige woorden gebruiken om korte positieve en negatieve reacties te plaatsen op eenvoudige berichten op internet en de daarin ingesloten koppelingen en media en kan antwoorden op verdere opmerkingen met standaarduitdrukkingen om te bedanken of excuses aan te bieden.",
+		"id": "20b34dbe-77c0-4d43-b4e4-9ba7f4c77b1e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan zeer eenvoudige berichten op internet schrijven en persoonlijke berichten online plaatsen als een reeks zeer korte zinnen over hobby's, voorkeuren/afkeuren enzovoort, met behulp van een vertaalhulpmiddel.",
-		"id": "bcd2cae7-92e5-4830-8dcd-c5315f3dbbae"
+		"title": "Kan zeer eenvoudige berichten en persoonlijke berichten op internet formuleren als een reeks zeer korte zinnen over hobby's, voorkeuren/afkeuren enzovoort, met behulp van een vertaalhulpmiddel.",
+		"id": "bcd2cae7-92e5-4830-8dcd-c5315f3dbbae",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan online korte positieve of negatieve opmerkingen plaatsen over ingesloten links en media, gebruikmakend van een repertoire van elementaire taal, hoewel hij of zij hiervoor meestal een online vertaalhulpmiddel of andere bronnen zal moeten gebruiken.",
-		"id": "cddd8979-8442-4895-acc3-cc7aa91a76bb"
+		"title": "Kan online korte positieve of negatieve opmerkingen plaatsen over ingesloten koppelingen en media, gebruikmakend van een repertoire van elementaire taal, hoewel hiervoor meestal een online vertaalhulpmiddel of andere bronnen nodig zijn.",
+		"id": "cddd8979-8442-4895-acc3-cc7aa91a76bb",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -12278,22 +12286,28 @@
 		"erk_voorbeeld_id": [
 			"1a9efce4-e0a6-4561-a288-d594d2bfce7a"
 		],
-		"title": "Kan reageren op online berichten van andere mensen, mits ze geschreven zijn in eenvoudige taal, en op ingesloten media reageren door op een eenvoudige manier gevoelens van verbazing, belangstelling en onverschilligheid uit te drukken.",
-		"id": "525d3fae-e205-4253-8393-651c7459c3f5"
+		"title": "Kan reageren op berichten op internet van andere mensen, mits ze geschreven zijn in eenvoudige taal, en op ingesloten media reageren door op een eenvoudige manier gevoelens van verbazing, belangstelling en onverschilligheid uit te drukken.",
+		"id": "525d3fae-e205-4253-8393-651c7459c3f5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan korte, beschrijvende berichten online plaatsen over alledaagse zaken, sociale activiteiten en gevoelens, met eenvoudige basisdetails.",
-		"id": "2a013459-601b-4693-a03c-88da5a0d31e4"
+		"title": "Kan korte, beschrijvende berichten op internet plaatsen over alledaagse zaken, sociale activiteiten en gevoelens, met eenvoudige basisdetails.",
+		"id": "2a013459-601b-4693-a03c-88da5a0d31e4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan zich voorstellen en eenvoudige uitwisselingen aangaan online, door vragen te stellen en beantwoorden en ideeën uit te wisselen over voorspelbare alledaagse onderwerpen, mits er genoeg tijd is om antwoorden te formuleren en hij of zij slechts één gesprekspartner tegelijk heeft.",
-		"id": "ec45e4c8-9f88-4f63-8af9-ae6e01a25d0d"
+		"title": "Kan zich online voorstellen en eenvoudige uitwisselingen aangaan, door vragen te stellen en beantwoorden en ideeën uit te wisselen over voorspelbare alledaagse onderwerpen, mits er genoeg tijd is om antwoorden te formuleren en er slechts één gesprekspartner tegelijk is.",
+		"id": "ec45e4c8-9f88-4f63-8af9-ae6e01a25d0d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -12303,8 +12317,10 @@
 			"47be4729-b375-45b2-bba1-e9469f1622bb",
 			"f76f4106-ec22-4ccb-986d-4c41e6774f79"
 		],
-		"title": "Kan persoonlijke berichten online plaatsen over ervaringen, gevoelens en gebeurtenissen en in enig detail afzonderlijk reageren op de commentaren van anderen, hoewel lexicale beperkingen soms zorgen voor herhaling en ongepaste formuleringen.",
-		"id": "9e36fd2c-817a-4f61-8bdc-1548d7009242"
+		"title": "Kan persoonlijke berichten op internet plaatsen over ervaringen, gevoelens en gebeurtenissen en in enig detail afzonderlijk reageren op de commentaren van anderen, hoewel lexicale beperkingen soms zorgen voor herhaling en ongepaste formuleringen.",
+		"id": "9e36fd2c-817a-4f61-8bdc-1548d7009242",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -12315,22 +12331,28 @@
 			"3a3b6568-4803-48b4-94ce-dcf667c5d7f1",
 			"92a347ce-844c-407d-ab9d-61063800a167"
 		],
-		"title": "Kan een begrijpelijke bijdrage leveren aan een onlinediscussie over een vertrouwd belangwekkend onderwerp, mits hij of zij de tekst kan voorbereiden en onlinehulpmiddelen kan gebruiken om gaten in de talenkennis op te vullen en te controleren of alles klopt.",
-		"id": "db6b8ad5-bb4d-4571-b931-287870163831"
+		"title": "Kan een begrijpelijke bijdrage leveren aan een onlinediscussie over een vertrouwd belangwekkend onderwerp, mits voorbereiding vooraf en gebruik van onlinehulpmiddelen mogelijk is om gaten in de talenkennis op te vullen en te controleren of alles klopt.",
+		"id": "db6b8ad5-bb4d-4571-b931-287870163831",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan online berichten plaatsen over sociale gebeurtenissen, ervaringen en activiteiten en daarbij verwijzen naar ingesloten links en media en persoonlijke gevoelens delen.",
-		"id": "96a0c42a-a0b6-481d-ab9d-33825764edb4"
+		"title": "Kan online verslag doen van sociale gebeurtenissen, ervaringen en activiteiten en daarbij verwijzen naar ingesloten koppelingen en media en persoonlijke gevoelens delen.",
+		"id": "96a0c42a-a0b6-481d-ab9d-33825764edb4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan deelnemen aan realtime online-uitwisselingen met meer dan één deelnemer en daarbij de communicatieve bedoelingen van elke bijdrage herkennen, maar begrijpt mogelijk niet alle details of implicaties zonder verdere uitleg.",
-		"id": "ef411fc1-a588-4a27-8785-f545ca0fcb87"
+		"title": "Kan deelnemen aan rechtstreekse online-uitwisselingen met meer dan één deelnemer en daarbij de communicatieve bedoelingen van elke bijdrage herkennen, maar begrijpt mogelijk niet alle details of implicaties zonder verdere uitleg.",
+		"id": "ef411fc1-a588-4a27-8785-f545ca0fcb87",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -12346,8 +12368,10 @@
 		"erk_voorbeeld_id": [
 			"049480c0-14c4-4d66-9ef4-e8c933861cb6"
 		],
-		"title": "Kan deelnemen aan online-uitwisselingen tussen verschillende deelnemers en effectief zijn of haar bijdragen in verband brengen met eerdere in de discussie, mits een moderator helpt de discussie te leiden.",
-		"id": "bb76e429-693d-4688-9f85-426e95a68bac"
+		"title": "Kan deelnemen aan online-uitwisselingen tussen verschillende deelnemers en effectief de eigen bijdragen in verband brengen met eerdere in de discussie, mits een moderator helpt de discussie te leiden.",
+		"id": "bb76e429-693d-4688-9f85-426e95a68bac",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -12364,57 +12388,73 @@
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan deelnemen aan online-uitwisselingen en daarbij zijn of haar bijdragen in verband brengen met andere in de discussie, culturele implicaties begrijpen en er correct op reageren.",
-		"id": "c2bd3690-4aa9-45c1-9a30-601c907e3595"
+		"title": "Kan deelnemen aan online-uitwisselingen en daarbij de eigen bijdragen in verband brengen met andere in de discussie, culturele implicaties begrijpen en er adequaat op reageren.",
+		"id": "c2bd3690-4aa9-45c1-9a30-601c907e3595",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan argumenten evalueren, herformuleren en ter discussie stellen in een professionele of academische live onlinebespreking of -discussie.",
-		"id": "6a013e3c-7c75-4317-a871-31ff512481c0"
+		"title": "Kan argumenten evalueren, herformuleren en ter discussie stellen in een professionele of academische rechtstreekse onlinebespreking of -discussie.",
+		"id": "6a013e3c-7c75-4317-a871-31ff512481c0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan zijn of haar register afstemmen op de context van de online-interactie en zo nodig binnen dezelfde uitwisseling overschakelen van het ene naar het andere register.",
-		"id": "43ae381e-32d2-48c7-91ff-2031bbbf182b"
+		"title": "Kan het register afstemmen op de context van de online-interactie en zo nodig binnen dezelfde uitwisseling overschakelen van het ene naar het andere register.",
+		"id": "43ae381e-32d2-48c7-91ff-2031bbbf182b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan effectief deelnemen aan live professionele of academische onlinediscussies en daarbij zo nodig meer verduidelijking geven of vragen met betrekking tot complexe, abstracte kwesties.",
-		"id": "ea0331ef-0146-4fc4-bc65-8a95c356f530"
+		"title": "Kan effectief deelnemen aan rechtstreekse professionele of academische online discussies en daarbij zo nodig meer verduidelijking geven of vragen met betrekking tot complexe, abstracte kwesties.",
+		"id": "ea0331ef-0146-4fc4-bc65-8a95c356f530",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan realtime online-uitwisselingen aangaan met verschillende deelnemers en de communicatieve bedoelingen en culturele implicaties van de verschillende bijdragen begrijpen.",
-		"id": "b5e0bcff-032a-4fce-9c44-393f71af6b49"
+		"title": "Kan rechtstreekse online uitwisselingen aangaan met verschillende deelnemers en de communicatieve bedoelingen en culturele implicaties van de verschillende bijdragen begrijpen.",
+		"id": "b5e0bcff-032a-4fce-9c44-393f71af6b49",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan gemakkelijk en snel zijn of haar register en stijl aanpassen aan verschillende onlineomgevingen, communicatiedoelen en taalhandelingen.",
-		"id": "a51fbda4-2196-49fd-b8da-e2452c719d2e"
+		"title": "Kan gemakkelijk en snel register en stijl aanpassen aan verschillende online omgevingen, communicatiedoelen en taalhandelingen.",
+		"id": "a51fbda4-2196-49fd-b8da-e2452c719d2e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan inspelen op en effectief omgaan met mogelijke misverstanden (waaronder culturele), communicatieproblemen en emotionele reacties die zich voordoen in een onlinediscussie.",
-		"id": "87c69a28-b27d-42df-94ab-cb1d34e7de58"
+		"title": "Kan inspelen op en effectief omgaan met mogelijke misverstanden (waaronder culturele), communicatieproblemen en emotionele reacties in een online discussie.",
+		"id": "87c69a28-b27d-42df-94ab-cb1d34e7de58",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan zich duidelijk en nauwkeurig uitdrukken in een realtime onlinediscussie en daarbij de taal flexibel en met gevoel afstemmen op de context, met inbegrip van emotioneel, dubbelzinnig en humoristisch taalgebruik.",
-		"id": "b3168b1c-34f3-4dde-955a-62c8329a230f"
+		"title": "Kan zich duidelijk en nauwkeurig uitdrukken in een rechtstreekse online discussie en daarbij de taal flexibel en met gevoel afstemmen op de context, met inbegrip van emotioneel, dubbelzinnig en humoristisch taalgebruik.",
+		"id": "b3168b1c-34f3-4dde-955a-62c8329a230f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
