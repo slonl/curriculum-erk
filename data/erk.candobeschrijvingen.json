@@ -12460,15 +12460,19 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan iets selecteren (bijvoorbeeld een product, maat, kleur kiezen) in een eenvoudig aankoop- of aanvraagformulier online, mits er visuele ondersteuning is.",
-		"id": "d8574f57-fd7e-4b77-9634-3a2b0c9f25da"
+		"title": "Kan keuzes maken in een eenvoudig aankoop- of aanvraagformulier online, mits er visuele ondersteuning is.",
+		"id": "d8574f57-fd7e-4b77-9634-3a2b0c9f25da",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan een zeer eenvoudige onlineaankoop of -aanvraag doen en daarbij elementaire persoonlijke gegevens verstrekken (zoals naam, e-mailadres of telefoonnummer).",
-		"id": "563e3bda-4688-4a23-8b7b-e95cbd8528a1"
+		"title": "Kan een zeer eenvoudige online aankoop of aanvraag doen en daarbij elementaire persoonlijke gegevens verstrekken.",
+		"id": "563e3bda-4688-4a23-8b7b-e95cbd8528a1",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -12481,29 +12485,37 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan elementaire vragen stellen over de beschikbaarheid of eigenschap van een product.",
-		"id": "9bbe77a4-d597-4684-876d-17e33b7c197a"
+		"title": "Kan elementaire vragen stellen over de beschikbaarheid van een product of eigenschap.",
+		"id": "9bbe77a4-d597-4684-876d-17e33b7c197a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan eenvoudige onlinetransacties uitvoeren (zoals goederen bestellen of inschrijven voor een cursus) door een onlineformulier of -vragenlijst in te vullen, persoonlijke gegevens te verstrekken, akkoord te bevestigen met algemene voorwaarden, extra services te weigeren enzovoort.",
-		"id": "f69a34e2-3873-4e04-a7f4-a6f5c6e18712"
+		"title": "Kan eenvoudige online transacties uitvoeren door een online formulier of -vragenlijst in te vullen, persoonlijke gegevens te verstrekken, akkoord te gaan met algemene voorwaarden, extra services te weigeren enzovoort.",
+		"id": "f69a34e2-3873-4e04-a7f4-a6f5c6e18712",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan online interactief samenwerken aan een eenvoudige taak met een helpende partner en daarbij reageren op basisinstructies en opheldering vragen, mits er enkele visuele hulpmiddelen zoals afbeeldingen, statistieken of grafieken zijn om de betreffende concepten te verduidelijken.",
-		"id": "d577930d-749e-4925-bca3-e3b6a076f31a"
+		"title": "Kan online interactief samenwerken aan een eenvoudige taak met een helpende partner en daarbij reageren op basisinstructies en opheldering vragen, mits er visuele hulpmiddelen zoals afbeeldingen, statistieken of grafieken zijn om de betreffende concepten te verduidelijken.",
+		"id": "d577930d-749e-4925-bca3-e3b6a076f31a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan standaarduitdrukkingen gebruiken om te reageren op routineproblemen die zich voordoen tijdens onlinetransacties (bijvoorbeeld met betrekking tot de beschikbaarheid van modellen en speciale aanbiedingen, leverdata, adressen enzovoort).",
-		"id": "19109b73-4541-41cb-87c2-8bfb4e811297"
+		"title": "Kan standaarduitdrukkingen gebruiken om te reageren op routineproblemen die zich voordoen tijdens online transacties.",
+		"id": "19109b73-4541-41cb-87c2-8bfb4e811297",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -12517,35 +12529,45 @@
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
 		"title": "Kan online interactief met een partner of kleine groep aan een project werken, mits er visuele hulpmiddelen zijn zoals afbeeldingen, statistieken en grafieken om complexere begrippen te verduidelijken.",
-		"id": "5c9743d1-e2b9-4e0c-af9d-1a0a95e4644c"
+		"id": "5c9743d1-e2b9-4e0c-af9d-1a0a95e4644c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan deelnemen aan samenwerkende of transactionele uitwisselingen online die eenvoudige verduidelijking of uitleg van relevante details vereisen, zoals inschrijven voor een cursus, rondleiding of evenement of een lidmaatschap aanvragen.",
-		"id": "7e9d36f9-202b-4625-9b43-913100749014"
+		"title": "Kan deelnemen aan samenwerkende of transactionele uitwisselingen online die eenvoudige verduidelijking of uitleg van relevante details vereisen.",
+		"id": "7e9d36f9-202b-4625-9b43-913100749014",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan online-interactie aangaan met een groep die aan een project werkt door directe instructies op te volgen, opheldering te vragen en te helpen de gedeelde taken te volbrengen.",
-		"id": "48b12a81-63f6-45a4-bca9-15dbde121a10"
+		"title": "Kan online interactie aangaan met een groep die aan een project werkt door directe instructies op te volgen, opheldering te vragen en te helpen de gedeelde taken te volbrengen.",
+		"id": "48b12a81-63f6-45a4-bca9-15dbde121a10",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan deelnemen aan onlinetransacties die een uitgebreide uitwisseling van informatie vereisen, mits de gesprekspartners complexe taal vermijden en bereid zijn zo nodig dingen te herhalen of opnieuw te formuleren.",
-		"id": "0e7a6dcc-dbc9-4f31-b65f-8b263ed82208"
+		"title": "Kan deelnemen aan online transacties die een uitgebreide uitwisseling van informatie vereisen, mits de gesprekspartners complexe taal vermijden en bereid zijn zo nodig dingen te herhalen of opnieuw te formuleren.",
+		"id": "0e7a6dcc-dbc9-4f31-b65f-8b263ed82208",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
 		"title": "Kan online samenwerken met een groep die aan een project werkt door voorstellen te motiveren, opheldering te vragen en een ondersteunende rol te spelen om gedeelde taken te volbrengen.",
-		"id": "086becaa-d7cf-4049-b01c-9bdba3a246c3"
+		"id": "086becaa-d7cf-4049-b01c-9bdba3a246c3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -12558,15 +12580,19 @@
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan deelnemen aan samenwerkende of transactionele uitwisselingen online binnen zijn of haar vakgebied(en) waarbij moet worden onderhandeld over voorwaarden en gecompliceerde details en speciale vereisten moeten worden uitgelegd.",
-		"id": "0a16dc41-a63e-4f06-b787-539ce48651e8"
+		"title": "Kan deelnemen aan samenwerkende of transactionele uitwisselingen online binnen het eigen vakgebied(en) waarbij moet worden onderhandeld over voorwaarden en gecompliceerde details en speciale vereisten moeten worden uitgelegd.",
+		"id": "0a16dc41-a63e-4f06-b787-539ce48651e8",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan een leidende rol vervullen in onlinesamenwerking binnen zijn of haar vakgebied(en) en zorgen dat de groepsleden zich met een taak blijven bezighouden door hen te herinneren aan hun rol, verantwoordelijkheid en deadlines om de gestelde doelen te bereiken.",
-		"id": "bfafd2ab-5e97-48ec-8099-30e7c87df5ef"
+		"title": "Kan een leidende rol vervullen in online samenwerking binnen het eigen vakgebied(en) en zorgen dat de groepsleden zich met een taak blijven bezighouden door hen te herinneren aan hun rol, verantwoordelijkheid en deadline om de gestelde doelen te bereiken.",
+		"id": "bfafd2ab-5e97-48ec-8099-30e7c87df5ef",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -12579,22 +12605,28 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan deelnemen aan complexe projecten waarvoor samen moet worden geschreven en herschreven, alsmede andere vormen van onlinesamenwerking, waarbij instructies nauwkeurig moeten worden opgevolgd en overgebracht om het doel te bereiken.",
-		"id": "6c26f642-9643-4afa-8c2e-a39e1ddb7aea"
+		"title": "Kan deelnemen aan complexe projecten waarvoor samen moet worden geschreven en herschreven, alsmede andere vormen van online samenwerking, waarbij instructies nauwkeurig moeten worden opgevolgd en overgebracht om het doel te bereiken.\n",
+		"id": "6c26f642-9643-4afa-8c2e-a39e1ddb7aea",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan omgaan met complexe onlinetransacties in een dienstverlenende rol (bijvoorbeeld toepassingen met gecompliceerde vereisten) en daarbij de taal flexibel aanpassen om de discussie en onderhandeling te leiden.",
-		"id": "fe86870b-5617-4e4a-af09-a2b6ad85fa2a"
+		"title": "Kan omgaan met complexe online transacties in een dienstverlenende rol (bijvoorbeeld toepassingen met gecompliceerde vereisten) en daarbij de taal flexibel aanpassen om de discussie en onderhandeling te leiden.",
+		"id": "fe86870b-5617-4e4a-af09-a2b6ad85fa2a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan een groep coördineren die samenwerkt aan een onlineproject en daarbij gedetailleerde instructies formuleren en herzien, voorstellen van teamleden evalueren en verduidelijking geven om de gedeelde taken te kunnen volbrengen.",
-		"id": "26d67c8f-0c70-47a3-83ec-3f6ded510738"
+		"title": "Kan een groep coördineren die samenwerkt aan een online project en daarbij gedetailleerde instructies formuleren en herzien, voorstellen van teamleden evalueren en verduidelijking geven om de gedeelde taken te kunnen volbrengen.",
+		"id": "26d67c8f-0c70-47a3-83ec-3f6ded510738",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
