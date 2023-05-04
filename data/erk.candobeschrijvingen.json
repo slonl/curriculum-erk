@@ -13388,5 +13388,104 @@
 		"prefix": "",
 		"title": "Kan alle noodzakelijke informatie verkrijgen van een toeristenbureau, mits van een heldere, niet-specialistische aard.",
 		"description": ""
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"id": "5927970b-f2b0-46f2-b8f3-630566b0ccc4",
+		"prefix": "",
+		"title": "Kan een aantal vertrouwde woorden begrijpen en herkent essentiële informatie (bijvoorbeeld getallen, prijzen, data en dagen van de week), mits deze zeer langzaam wordt overgebracht en zo nodig wordt herhaald.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"id": "093b3545-be1c-44de-b470-cfc1a8a75ecb",
+		"prefix": "",
+		"title": "Kan eenvoudige persoonlijke informatie begrijpen (bijvoorbeeld naam, leeftijd, woonplaats, afkomst) als andere mensen zich persoonlijk langzaam en duidelijk voorstellen, en kan vragen over deze onderwerpen begrijpen, hoewel de vragen misschien wel herhaald moeten worden.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"id": "f2c1a7f3-03d3-49b9-9055-d9e2132a4c52",
+		"prefix": "",
+		"title": "Kan eenvoudige vragen over zichzelf begrijpen (bijvoorbeeld naam, leeftijd en adres), als de vraag langzaam en duidelijk gesteld wordt.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"id": "62c6d281-1d1a-47dd-9e23-d5d334079b94",
+		"prefix": "",
+		"title": "Kan zorgvuldig en langzaam geformuleerde vragen en instructies begrijpen en korte, eenvoudige aanwijzingen volgen.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"id": "356583dd-795f-41f5-b5e4-b6521ba1e52a",
+		"prefix": "",
+		"title": "Kan alledaagse uitdrukkingen begrijpen, gericht op de vervulling van eenvoudige behoeften van concrete aard, die rechtstreeks, helder, langzaam en met herhalingen worden gezegd door een welwillende gesprekspartner.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"id": "013da4f8-567e-41f9-8a81-85849d5b1db3",
+		"prefix": "",
+		"title": "Kan begrijpen wat helder, langzaam en rechtstreeks wordt gezegd in eenvoudige alledaagse conversatie; kan tot begrip worden gebracht als de gesprekspartner daarvoor de moeite neemt.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"id": "622fd486-4b11-4490-abb5-7aa3b67340e8",
+		"prefix": "",
+		"title": "Kan genoeg begrijpen om eenvoudige routinegesprekken te voeren zonder bovenmatige inspanning.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"id": "91fdb183-716b-4fd3-9e79-e7ff39a301b0",
+		"prefix": "",
+		"title": "Kan over het algemeen heldere standaardtaal begrijpen over vertrouwde zaken, mits af en toe om herhaling of herformulering gevraagd kan worden.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"id": "5047dbe7-ac95-4681-ace3-4df0b830c92d",
+		"prefix": "",
+		"title": "Kan tot in de details begrijpen wat gezegd wordt in standaardtaal, of een vertrouwde variëteit, zelfs in een lawaaierige omgeving.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"id": "37f04ec6-8687-4428-9554-27e48a4bbd09",
+		"prefix": "",
+		"title": "Kan een gesprekspartner tot in de details begrijpen over abstracte en complexe onderwerpen van gespecialiseerde aard buiten het eigen vakgebied, al moet de gesprekspartner misschien af en toe een detail bevestigen, vooral wanneer de taalvariëteit niet vertrouwd is.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"id": "b4bebfb7-e270-44cf-aaf5-ceed66b88a11",
+		"prefix": "",
+		"title": "Kan iedere gesprekspartner begrijpen, ook over abstracte en complexe onderwerpen van gespecialiseerde aard buiten het eigen vakgebied, mits in de gelegenheid om te wennen aan een minder vertrouwde taalvariëteit.",
+		"description": ""
 	}
 ]
