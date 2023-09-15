@@ -435,7 +435,8 @@
 		"title": "De beurt nemen",
 		"id": "29d1ec67-459c-48b1-86cf-d8559b7e5da9",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"erk_candobeschrijving_id": [
