@@ -5730,7 +5730,10 @@
 			"4b80aecd-4362-4251-8e8b-3a1b77942e71"
 		],
 		"title": "Kan door meelezen eenvoudig audiovisueel materiaal begrijpen.",
-		"id": "c028b8ae-26b5-4981-8073-30af2fbe7c39"
+		"id": "c028b8ae-26b5-4981-8073-30af2fbe7c39",
+		"prefix": "",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"niveau_id": [
@@ -7568,7 +7571,10 @@
 			"2b935b50-13b5-4f58-9e8c-6c4791ffd3af"
 		],
 		"title": "Kan tot in de details begrijpen wat er tegen hem of haar gezegd wordt, zelfs in een lawaaierige omgeving.",
-		"id": "60965140-c9c4-4114-807b-30d47ea678ff"
+		"id": "60965140-c9c4-4114-807b-30d47ea678ff",
+		"prefix": "",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"niveau_id": [
@@ -10777,7 +10783,10 @@
 			"5f67fef1-ee84-446a-81ee-149b6c9868c7"
 		],
 		"title": "Kan afspraken maken.",
-		"id": "3c514bb6-e475-41ab-91a7-5e95259352ac"
+		"id": "3c514bb6-e475-41ab-91a7-5e95259352ac",
+		"prefix": "",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"niveau_id": [
@@ -10879,7 +10888,10 @@
 			"1093f6e4-6f05-47c5-8337-d3e0f0a63f5d"
 		],
 		"title": "Kan een eenvoudig gesprek aan een balie voeren.",
-		"id": "231b1a55-4583-423d-8a4e-132d1aa2661d"
+		"id": "231b1a55-4583-423d-8a4e-132d1aa2661d",
+		"prefix": "",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"niveau_id": [
