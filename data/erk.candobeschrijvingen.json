@@ -1563,14 +1563,20 @@
 		],
 		"title": "Geen descriptoren beschikbaar.",
 		"isempty": true,
-		"id": "17994d02-4d49-442e-b27d-08b5c0a7087b"
+		"id": "17994d02-4d49-442e-b27d-08b5c0a7087b",
+		"prefix": "",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
 		"title": "Kan om aandacht vragen.",
-		"id": "42b7206f-bcfb-47ca-b31d-881cc54f2634"
+		"id": "42b7206f-bcfb-47ca-b31d-881cc54f2634",
+		"prefix": "",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"niveau_id": [
