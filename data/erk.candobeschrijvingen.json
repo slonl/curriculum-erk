@@ -994,7 +994,8 @@
 		],
 		"title": "Geen descriptoren beschikbaar.",
 		"isempty": true,
-		"id": "3da2eefb-7fd1-456c-a83b-91030d6b7ee9"
+		"id": "3da2eefb-7fd1-456c-a83b-91030d6b7ee9",
+		"deleted": 1
 	},
 	{
 		"niveau_id": [
@@ -1389,7 +1390,8 @@
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
 		"title": "Kan films volgen waarin een aanzienlijke hoeveelheid plat taalgebruik en idiomatische uitdrukkingen wordt gebruikt.",
-		"id": "278cf864-508e-458f-85ad-200943728da7"
+		"id": "278cf864-508e-458f-85ad-200943728da7",
+		"deleted": 1
 	},
 	{
 		"niveau_id": [
@@ -1552,7 +1554,8 @@
 		],
 		"title": "Geen descriptoren beschikbaar.",
 		"isempty": true,
-		"id": "c32b621d-a9a1-4360-bd26-6303d24bcd8a"
+		"id": "c32b621d-a9a1-4360-bd26-6303d24bcd8a",
+		"deleted": 1
 	},
 	{
 		"niveau_id": [
