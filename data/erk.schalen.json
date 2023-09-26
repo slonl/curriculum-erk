@@ -72,7 +72,8 @@
 		"algemeen": true,
 		"id": "07a24446-88b0-4597-a06f-c8419429781c",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -147,7 +148,8 @@
 		"algemeen": true,
 		"id": "115a7f2d-9b5d-4f8f-addc-d4d4c382243a",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -313,7 +315,8 @@
 		"title": "Algemene fonologische beheersing",
 		"id": "cdcfe652-82d9-4b8e-a52d-062e8d258566",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -330,7 +333,8 @@
 		"title": "Klankarticulatie",
 		"id": "20206dda-ab8f-470a-a06d-e56090634228",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -395,7 +399,8 @@
 		"title": "Sociolinguïstische passendheid",
 		"id": "404c023a-b8c1-405a-8b09-a3e565a5650d",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -672,7 +677,8 @@
 		"title": "Een geschreven tekst mondeling vertalen",
 		"id": "c7fc2181-3edb-43ff-9302-4477cc6de76e",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -804,7 +810,8 @@
 		"title": "Communicatie bevorderen in gevoelige situaties en bij onenigheid",
 		"id": "b350bcbb-483f-4e23-8a62-a9ddf3b82a87",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -829,7 +836,8 @@
 		"title": "Samenwerkende interactie tussen peers bevorderen",
 		"id": "5a301d2f-8c3d-47fe-a632-07c2f22f26c5",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1035,7 +1043,8 @@
 		"title": "Oriënterend lezen",
 		"id": "cc8a1f60-efcc-4cec-8229-932dbe29e51c",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1070,7 +1079,8 @@
 		"title": "Lezen voor informatie en argumentatie",
 		"id": "f84f75e7-1ba0-4694-b9cf-8bafe075d3cb",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1093,7 +1103,8 @@
 		"title": "Instructies lezen",
 		"id": "4ad54d56-d668-4a0b-80f5-3b9d76dd322d",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1170,7 +1181,8 @@
 			"0ecd3e9c-f849-4d06-a578-04e8bfd54c31"
 		],
 		"title": "Luisteren als lid van een aanwezig publiek",
-		"id": "763a4d0a-b18b-4da3-b664-6bf2cdf2f237"
+		"id": "763a4d0a-b18b-4da3-b664-6bf2cdf2f237",
+		"dirty": true
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1219,7 +1231,8 @@
 		"title": "Luisteren naar audiomedia en geluidsopnames",
 		"id": "d78f5af9-1b28-4f68-bab2-f6ecff7807e9",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1263,7 +1276,8 @@
 		"title": "Een gesprekspartner begrijpen",
 		"id": "c2fc92d9-59b8-4728-91db-7739b36f99c8",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1556,7 +1570,8 @@
 		"title": "Conversatie",
 		"id": "dc9b22ba-50af-4f34-8cc1-342824b3188e",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1590,7 +1605,8 @@
 		"title": "Informele discussie",
 		"id": "734d5846-fb5e-4909-9b98-fc626f1b37dc",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1621,7 +1637,8 @@
 		"title": "Formele discussie",
 		"id": "ea558d3d-9f2c-4a89-9672-63bff61bc8cd",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1648,7 +1665,8 @@
 		"title": "Doelgerichte samenwerking",
 		"id": "f54ad8e1-973e-45fa-88c5-93bff5fe4d3f",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1683,7 +1701,8 @@
 		"title": "Goederen en diensten verkrijgen",
 		"id": "6615ae9c-e940-4203-816a-1affa8c50028",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1748,7 +1767,8 @@
 		"title": "Interviewen en geïnterviewd worden",
 		"id": "4c95ffe3-c80f-408c-93e9-25a6d33cd643",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1769,7 +1789,8 @@
 		"title": "Gebruik van telecommunicatie",
 		"id": "f95a83cd-5069-4077-8f77-a87d9b038b24",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1805,7 +1826,8 @@
 		"title": "Correspondentie",
 		"id": "cee09d1a-168e-4c74-8712-884db522b163",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1831,7 +1853,8 @@
 		"title": "Notities, berichten en formulieren",
 		"id": "a26a7f2d-328b-456e-8f36-6444bdf118f4",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1966,6 +1989,7 @@
 			"9c2527c0-dd36-49d0-a664-3903d0561ebb",
 			"26c46aab-a8fc-4344-aab0-629a737f7215",
 			"4eeb0a15-7980-413c-84d0-c24bdb8bb89a"
-		]
+		],
+		"unreleased": true
 	}
 ]
