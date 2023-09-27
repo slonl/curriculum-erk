@@ -1,1 +1,2677 @@
-[]
+[
+	{
+		"erk_candobeschrijving_id": [
+			"c32b621d-a9a1-4360-bd26-6303d24bcd8a",
+			"17994d02-4d49-442e-b27d-08b5c0a7087b",
+			"42b7206f-bcfb-47ca-b31d-881cc54f2634",
+			"7bf57895-7308-4898-9dda-5443f6b1968f",
+			"89bb8166-56c7-4f42-ae80-c01371166e69",
+			"642ad548-8f07-42e6-8372-6f8fe0165519",
+			"377cd88d-9607-465f-8b0a-b59720f54158",
+			"2bf33f5a-9546-4a48-9fe3-5abd3b5e3fe8",
+			"8519cf97-dd8c-4a11-b1f0-37fea44632bd",
+			"d5caa829-fbc2-48e9-bcf2-e7be1246e85e",
+			"fff4a49f-09fa-40c5-9b59-eb97145b0ad8",
+			"80d7ca8f-354b-44cd-981a-dc6e8c26c2e5",
+			"8b64f1ce-bc2b-49f5-8829-b4df6910081e"
+		],
+		"title": "De beurt nemen",
+		"id": "29d1ec67-459c-48b1-86cf-d8559b7e5da9",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"isempty": true,
+		"id": "3da2eefb-7fd1-456c-a83b-91030d6b7ee9",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan films volgen waarin een aanzienlijke hoeveelheid plat taalgebruik en idiomatische uitdrukkingen wordt gebruikt.",
+		"id": "278cf864-508e-458f-85ad-200943728da7",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"isempty": true,
+		"id": "c32b621d-a9a1-4360-bd26-6303d24bcd8a",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"isempty": true,
+		"id": "17994d02-4d49-442e-b27d-08b5c0a7087b",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan om aandacht vragen.",
+		"id": "42b7206f-bcfb-47ca-b31d-881cc54f2634",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan eenvoudige technieken toepassen om een kort gesprek te beginnen, gaande te houden of te beëindigen.",
+		"id": "7bf57895-7308-4898-9dda-5443f6b1968f",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"title": "Kan een eenvoudig rechtstreeks gesprek beginnen, gaande houden en beëindigen.",
+		"id": "89bb8166-56c7-4f42-ae80-c01371166e69",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"a94b005d-9697-49f6-897a-0ad6516044f9"
+		],
+		"title": "Kan een eenvoudig rechtstreeks gesprek beginnen, gaande houden en beëindigen over onderwerpen die vertrouwd of van persoonlijk belang zijn.",
+		"id": "642ad548-8f07-42e6-8372-6f8fe0165519",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+		],
+		"title": "Kan ingrijpen in een discussie over een vertrouwd onderwerp en de juiste frase gebruiken om aan het woord te komen.",
+		"id": "377cd88d-9607-465f-8b0a-b59720f54158",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan standaardzinnen gebruiken (bijvoorbeeld ‘Dat is een moeilijk te beantwoorden vraag’) om tijd te winnen en de beurt te behouden tijdens het zoeken naar woorden.",
+		"id": "2bf33f5a-9546-4a48-9fe3-5abd3b5e3fe8",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"title": "Kan een gesprek beginnen, op de juiste ogenblikken de beurt nemen en de conversatie beëindigen wanneer dat nodig is, zij het niet altijd op elegante wijze.",
+		"id": "8519cf97-dd8c-4a11-b1f0-37fea44632bd",
+		"prefix": "",
+		"description": "",
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"title": "Kan op gepaste wijze een gesprek beginnen, onderhouden en beëindigen, en daarbij doeltreffend beurten nemen.",
+		"id": "d5caa829-fbc2-48e9-bcf2-e7be1246e85e",
+		"prefix": "",
+		"description": "",
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"title": "Kan op toepasselijke wijze ingrijpen in een discussie en daarvoor de juiste taal gebruiken.",
+		"id": "fff4a49f-09fa-40c5-9b59-eb97145b0ad8",
+		"prefix": "",
+		"description": "",
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"title": "Kan een toepasselijke frase kiezen uit parate gespreksfuncties om opmerkingen zo in te leiden dat de aandacht van de toehoorders wordt getrokken, of om tijd te winnen en de aandacht vast te houden tijdens het nadenken.",
+		"id": "80d7ca8f-354b-44cd-981a-dc6e8c26c2e5",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Geen descriptoren beschikbaar, zie C1.",
+		"isempty": true,
+		"id": "8b64f1ce-bc2b-49f5-8829-b4df6910081e",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"isempty": true,
+		"id": "be86a199-2f72-471e-8d4d-524187a0fe1c",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"00c26ce4-a34d-4b4b-bce1-4e51538e9e33",
+			"0e2b80e5-318b-4e4e-843e-7ce969f21b93",
+			"052e8a78-2549-4f79-be48-ae5e840584e5",
+			"21cde22b-4a1b-4b6b-93b9-2be940e72722",
+			"172bb940-9ece-412d-8082-3e4da266b531",
+			"f7975687-fcae-44c8-bb38-5b12843ba118"
+		],
+		"title": "Kan in lijsten, overzichten en formulieren specifieke informatie vinden en begrijpen.",
+		"id": "969c0656-bb09-412e-abaf-e9ed5094d17e",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"938dfe2f-26eb-41bc-8336-43d2cc094088",
+			"f6b23e21-6419-4c1b-9748-ae71fe82b415",
+			"2528d576-c4d5-4781-b3ea-13ce18463243",
+			"986a12c1-8056-49c2-afc3-d8b4a01feda6",
+			"e3c6c063-6b72-4af0-9a6f-4c5e267fb33d"
+		],
+		"title": "Kan in korte informatieve teksten informatie over personen en plaatsen begrijpen.",
+		"id": "f6d43991-3896-454f-b0b8-d5e6530bd700",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"07c6b295-5743-4707-8e8b-a255de3daebd",
+			"4b80aecd-4362-4251-8e8b-3a1b77942e71"
+		],
+		"title": "Kan door meelezen eenvoudig audiovisueel materiaal begrijpen.",
+		"id": "c028b8ae-26b5-4981-8073-30af2fbe7c39",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"fe6e42e3-22d1-4232-9e25-aa7ed130f024",
+			"a804710e-b051-48f2-baf9-8001639d9c42",
+			"7349e2fa-acc5-476e-97de-56bfd46e34bb",
+			"019dc584-896e-467b-9771-5c5459a0c803",
+			"f58a4f2d-a3ed-45ff-9748-9d9971b6095e",
+			"d1435e2f-9e3b-48be-a6e1-37023cba50a2"
+		],
+		"title": "Kan in korte, duidelijk gesproken teksten, getallen en bekende woorden verstaan die gericht zijn aan de luisteraar.",
+		"id": "d93533ca-e786-495d-9622-dcdc83af9f40",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"7e301080-1e4e-4783-9e4c-614c4546beed"
+		],
+		"title": "Kan korte, eenvoudige waarschuwingen begrijpen die gericht zijn aan de luisteraar.",
+		"id": "73f38d19-d845-4f57-ba35-53b3d1c3200c",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"43d5de7f-4a65-4030-9f5c-136068b91ae4",
+			"6911a530-d06a-4cbc-9b8a-e3c11dc78bf3",
+			"00e13eb2-4e0c-4366-8455-8036d50ce23a",
+			"a13a9a5c-128d-47ef-aa27-c766761fe332",
+			"67f998e7-6cec-43e3-9cb8-840a56d2cec2",
+			"561e53e3-74e0-4f1b-a50e-5dca172b245a",
+			"fc1f776e-2164-4424-bc0d-afd49e6a0cbf",
+			"1aa0da66-06e6-4fda-ad16-f8ca084c2514"
+		],
+		"title": "Kan in vertrouwde situaties eenvoudige, feitelijke informatie begrijpen.",
+		"id": "2e993aac-5b2e-4f3e-8cf9-f934c1f7d3ea",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"9731342f-2129-41fa-b7c9-fc0ef3cb7c0d",
+			"b7516ed8-0ac7-4550-bd66-f9d6ca3ccde3",
+			"3eb85a2a-999c-4e85-9a61-7842a7c89894",
+			"b5152c0c-ee80-44ef-891b-6a27a0d0f998",
+			"c18f285f-5b7e-43ea-9b5c-af98db83628f",
+			"619bfddb-625b-4de5-b171-cce6f0b8127b",
+			"b1811e45-4776-4b1d-a6c7-908bb197b54e",
+			"9a542d88-e090-47b6-8bf7-3ebb0eadbd8a",
+			"d22e9a58-5ab9-4a7f-bcb1-9bb9e0318f36"
+		],
+		"title": "Kan een korte uitleg begrijpen.",
+		"id": "93856017-4193-49a3-ab3e-29a18eeeb445",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"296f7e24-95d5-4497-815d-1473bc648cba",
+			"8b06428c-e260-4f47-924a-e2a29beaf4a8"
+		],
+		"title": "Kan het onderwerp bepalen van korte kijk-/luisterteksten.",
+		"id": "de7787be-81d6-4573-88d6-8bc987e72679",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Nog geen descriptoren beschikbaar op dit niveau.",
+		"id": "c37b1110-a468-488a-943c-f6f0554aac50",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan eenvoudige, persoonlijke informatie begrijpen (bijvoorbeeld naam, leeftijd, woonplaats, afkomst) als andere mensen zich voorstellen, mits deze mensen langzaam en duidelijk rechtstreeks tegen hem of haar praten, en kan vragen begrijpen over deze onderwerpen die aan hem of haar worden gesteld, hoewel de vragen misschien wel herhaald moeten worden.",
+		"id": "190087ac-5f8d-4953-aaeb-022a81ab10b9",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025"
+		],
+		"title": "Kan een aantal vertrouwde woorden begrijpen en essentiële informatie herkennen zoals getallen, prijzen, data en dagen van de week, mits er zeer langzaam wordt gesproken en zo nodig wordt herhaald.",
+		"id": "23d7dc02-b7c5-4060-8c3b-aaa46f3460f3",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"02db21bd-dae2-4b4d-bff8-cb8fc22ac2a3",
+			"b92df3f0-b244-4f0a-a26e-c68b215e1c91",
+			"cd9a437c-e145-401d-8b07-62e4016b6579",
+			"f4d73e67-2579-4a8c-a8e9-823fc525dd51",
+			"3e944171-e0ba-4a50-b956-107d6ba13698",
+			"d47b1c0f-6871-4323-b98c-d870f4f3d1a9"
+		],
+		"title": "Kan alledaagse uitdrukkingen begrijpen, gericht op de vervulling van eenvoudige behoeften van concrete aard, die rechtstreeks tot hem of haar worden gezegd in heldere, langzame en herhaalde bewoordingen door een sympathieke spreker.",
+		"id": "5d1c2a79-873c-4dc9-a392-07a1ebeb089d",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"1e1995bc-bba0-4f5b-82cf-632650f75cb7",
+			"004c5df0-f584-453d-920a-89a4357b8403",
+			"0ee830a0-5bde-478e-9897-66a2a3718efd",
+			"d7c36bb4-4c20-446f-862b-e038a57be285",
+			"4ecf661a-1073-4417-a0d9-f2fdb15c87b2"
+		],
+		"title": "Kan tot hem of haar gerichte vragen en instructies verstaan en korte, eenvoudige aanwijzingen volgen.",
+		"id": "92e22e90-3f28-4726-bec2-7e892b2ac6ba",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"6f6a6eff-28bf-4dae-a018-1501127d2626",
+			"4319d286-d157-4948-8634-b1ad9af1c028",
+			"391f9319-6c6e-4807-a2f1-938f743e85b2",
+			"29a0ed29-9ccb-4d55-977d-6cf722f53633",
+			"d0cb432c-9cab-4ed1-b00f-7d65567f2b1f"
+		],
+		"title": "Kan begrijpen wat rechtstreeks tot hem of haar wordt gezegd in eenvoudige alledaagse conversatie; kan tot begrip worden gebracht als de spreker daarvoor de moeite neemt.",
+		"id": "b2586e16-ed38-49d2-93e5-f80d354464c5",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"erk_voorbeeld_id": [
+			"8cb96fb1-f79f-4482-bb99-c48e10a5c884",
+			"bcfd75d4-8e1f-4697-805e-8043a3fbc705",
+			"50d4626e-e8cc-471f-8a42-943431929a33",
+			"79a6dd3b-42a1-46a9-8ae1-d917ed555d48",
+			"e55907ad-303e-47fd-b3da-9e29d92ecacb",
+			"e2d0fad5-74f4-4624-bac2-fbcc8ab5fe2d",
+			"6726cfd2-2fce-46e8-a93e-e10e7b14d0db"
+		],
+		"title": "Kan genoeg begrijpen om eenvoudige routinegesprekken te voeren zonder bovenmatige inspanning.",
+		"id": "1b60bf77-34ad-40f2-b51c-b8bf0b7381c8",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"erk_voorbeeld_id": [
+			"98976ab5-5f11-4511-b8db-1b782ba2cd7c",
+			"63a51cb5-8916-4a8d-9d70-d236c80482df",
+			"06b267ea-1296-4f3c-9b2c-2bdb710c7fdf"
+		],
+		"title": "Kan over het algemeen heldere, tot hem of haar gerichte gesproken standaardtaal begrijpen over vertrouwde zaken, mits hij of zij an en toe om herhaling of herformulering kan vragen.",
+		"id": "1b71e258-9eb7-4f4c-8cae-f4726a20930b",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"4e1f688c-a14b-41a3-9a32-e722762d353a",
+			"35512682-91e6-42f0-b1ea-184a4ccfd01c",
+			"487a9972-8408-472c-b5ee-1b44d3f39381",
+			"2b935b50-13b5-4f58-9e8c-6c4791ffd3af"
+		],
+		"title": "Kan tot in de details begrijpen wat er tegen hem of haar gezegd wordt, zelfs in een lawaaierige omgeving.",
+		"id": "60965140-c9c4-4114-807b-30d47ea678ff",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"erk_voorbeeld_id": [
+			"09092339-77fb-40c8-aa64-aba4e42f369e",
+			"2ab2de2f-363d-462a-bef6-3a5a2f901967",
+			"8a543878-2384-490e-a0c6-d5462d21e1de",
+			"91bdf750-5ad5-4523-8abf-e6f6b9527b89",
+			"f693aa84-d1e7-47e5-83e5-12804fcdd8c2"
+		],
+		"title": "Kan tot in de details gesproken woord begrijpen over abstracte en complexe onderwerpen van gespecialiseerde aard buiten het eigen vakgebied, al moet hij of zij misschien af en toe een detail laten bevestigen, vooral wanneer sprake is van regionaal getint taalgebruik.",
+		"id": "3d76d1d0-a90e-4b2b-990c-9cf72c31104a",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"erk_voorbeeld_id": [
+			"e3011d1f-34e8-4855-bf41-06b5bb584abd",
+			"4bc9c9ad-2013-4480-856b-f08fab208a5a",
+			"e28c1da4-b01a-4fa6-9f18-626d61467bfb"
+		],
+		"title": "Kan iedere moedertaalspreker als gesprekspartner begrijpen, ook over abstracte en complexe onderwerpen van gespecialiseerde aard buiten het eigen vakgebied, mits in de gelegenheid om te wennen aan regionaal getint taalgebruik.",
+		"id": "d97a612e-0050-48ec-b902-4fbe042a8350",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+		],
+		"title": "Nog geen inhoud beschikbaar, we werken eraan.",
+		"id": "09af54c2-930f-4c9a-84e2-6f3aef23d057",
+		"isempty": true,
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"2dcfc0af-b687-4cd8-bfd6-cc08d80c6bbc",
+			"64a7f006-bf4c-43e5-bd22-01fdbba1c2c5",
+			"7645d983-c14e-4f26-af28-e2b2f162a6ec",
+			"5f67fef1-ee84-446a-81ee-149b6c9868c7"
+		],
+		"title": "Kan afspraken maken.",
+		"id": "3c514bb6-e475-41ab-91a7-5e95259352ac",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+		],
+		"erk_voorbeeld_id": [
+			"818eef70-b226-4a34-b447-7ede0d93306c",
+			"e794edc1-8bb0-40e8-b2f8-cc5008ae86bc",
+			"593b9f40-f73e-4c87-ba64-5cfad6a3d496",
+			"1093f6e4-6f05-47c5-8337-d3e0f0a63f5d"
+		],
+		"title": "Kan een eenvoudig gesprek aan een balie voeren.",
+		"id": "231b1a55-4583-423d-8a4e-132d1aa2661d",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"cff433fa-6348-4b8e-a23a-ce253f9ff634",
+			"f7f9adea-976d-4215-b6a6-3cc4ff91382e",
+			"ea8f131f-3969-46ad-b33c-2fcbd8c6fd0a"
+		],
+		"title": "Kan onderhandelen.",
+		"id": "0c81d37c-aeea-45ef-97bc-cdd8e4fe5b45",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"667b67b1-3f51-4342-9408-31998d3aa49d",
+			"8eaf8dc3-7dd7-46e0-bf92-e05cbd36f6e2",
+			"41f7f41e-b87e-4aa0-a371-2a6ffa6a78b2",
+			"cbea91b8-bbff-41d7-9ad7-be824abca970"
+		],
+		"title": "Kan een klacht op adequate wijze afhandelen, telefonisch en face-to-face.",
+		"id": "25f12553-d02f-45b1-9871-916e67e5996c",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"id": "a017eb09-272d-460c-9e8e-056ad7e20e0d",
+		"prefix": "",
+		"title": "Kan begrijpen wanneer anderen zich voorstellen aan elkaar.",
+		"description": "",
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"title": "Via een zoekmachine zoals Google een duikschool of scooterverhuurbedrijf (DL).",
+		"id": "00c26ce4-a34d-4b4b-bce1-4e51538e9e33",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een taalcursus in een brochure of op een website (OPL).",
+		"id": "0e2b80e5-318b-4e4e-843e-7ce969f21b93",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Gerechten op een eenvoudige menukaart (DL).",
+		"id": "052e8a78-2549-4f79-be48-ae5e840584e5",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De benodigde bus-, tram-, metro- of treinverbinding in het busboekje, een (electronisch) informatiebord of op een app (DL).",
+		"id": "21cde22b-4a1b-4b6b-93b9-2be940e72722",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een programma in een tv-gids of een film in een (online) weekagenda of een download-programma (DL, PU).",
+		"id": "172bb940-9ece-412d-8082-3e4da266b531",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Opdrachtbonnen of bestelformulieren in verband met een bestelling (WE).",
+		"id": "f7975687-fcae-44c8-bb38-5b12843ba118",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Bij een fotobijschrift in een populair tijdschrift de leeftijd, woonplaats en het aantal kinderen van de geportretteerde ster (DL).",
+		"id": "938dfe2f-26eb-41bc-8336-43d2cc094088",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een beschrijving van een camping of pretpark (DL).",
+		"id": "f6b23e21-6419-4c1b-9748-ae71fe82b415",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een eenvoudige biografie van een artiest of filmacteur (DL).",
+		"id": "2528d576-c4d5-4781-b3ea-13ce18463243",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Persoonlijke gegevens van personen op een sociaal netwerk (DL).",
+		"id": "986a12c1-8056-49c2-afc3-d8b4a01feda6",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De beschrijvingen van vakantiewoningen in verschillende toeristische gebieden (DL).",
+		"id": "e3c6c063-6b72-4af0-9a6f-4c5e267fb33d",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Beknopte teksten op dia's van een PowerPointpresentatie over een vertrouwd onderwerp, zoals een spreekbeurt over een huisdier (OPL).",
+		"id": "07c6b295-5743-4707-8e8b-a255de3daebd",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Nieuwsberichten van online kinderzenders waarbij tekst en audio tegelijk aangeboden worden (DL).",
+		"id": "4b80aecd-4362-4251-8e8b-3a1b77942e71",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "In een omgeroepen bericht op een station je eigen naam herkennen (PU).",
+		"id": "fe6e42e3-22d1-4232-9e25-aa7ed130f024",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De instructies begrijpen van een talencursus op computer of video: luister eerst, zeg dan na (OPL).",
+		"id": "a804710e-b051-48f2-baf9-8001639d9c42",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Op tv en radio sportuitslagen van bekende clubs/bekende sporters begrijpen (DL).",
+		"id": "7349e2fa-acc5-476e-97de-56bfd46e34bb",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Uit een mededeling van een buitenlandse kennis over een concert opmaken om welke groep het gaat, wanneer het concert is, wat het kost (DL).",
+		"id": "019dc584-896e-467b-9771-5c5459a0c803",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "In een omgeroepen bericht prijzen van producten begrijpen (DL).",
+		"id": "f58a4f2d-a3ed-45ff-9748-9d9971b6095e",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "In een reportage op de radio tijden in hele uren, dagen van de week en maanden verstaan (DL).",
+		"id": "d1435e2f-9e3b-48be-a6e1-37023cba50a2",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Uitingen als pas op, dat is heet, niet doen, dat is gevaarlijk (DL).",
+		"id": "7e301080-1e4e-4783-9e4c-614c4546beed",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Waar en wanneer elkaar te ontmoeten voor bezoek aan een bioscoop (DL).",
+		"id": "43d5de7f-4a65-4030-9f5c-136068b91ae4",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Data voor het inleveren van (huis)werk (OPL, WE).",
+		"id": "6911a530-d06a-4cbc-9b8a-e3c11dc78bf3",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De belangrijkste veiligheidsvoorschriften bij een bezoek van buitenlandse gasten aan een bedrijf of school (OPL, WE).",
+		"id": "00e13eb2-4e0c-4366-8455-8036d50ce23a",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Waar en wanneer je kunt inschrijven voor een cursus in het buitenland (OPL).",
+		"id": "a13a9a5c-128d-47ef-aa27-c766761fe332",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De bekendmaking van een groepsindeling tijdens een uitwisseling (OPL).",
+		"id": "67f998e7-6cec-43e3-9cb8-840a56d2cec2",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Vragen bij een hotelbalie of campingreceptie (PU).",
+		"id": "561e53e3-74e0-4f1b-a50e-5dca172b245a",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een standaardbestelling in een café of restaurant (PU).",
+		"id": "fc1f776e-2164-4424-bc0d-afd49e6a0cbf",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Alle tijden (DL, PU).",
+		"id": "1aa0da66-06e6-4fda-ad16-f8ca084c2514",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Waar je treinkaartjes kunt kopen (PU).",
+		"id": "9731342f-2129-41fa-b7c9-fc0ef3cb7c0d",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Waar een volgende activiteit op een campusterrein begint en hoe je daar komt (DL).",
+		"id": "b7516ed8-0ac7-4550-bd66-f9d6ca3ccde3",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een korte routebeschrijving (DL, PU).",
+		"id": "3eb85a2a-999c-4e85-9a61-7842a7c89894",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Aanwijzingen van verkeerspolitie over omrijden bij een wegstremming (PU).",
+		"id": "b5152c0c-ee80-44ef-891b-6a27a0d0f998",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Instructies van een docent of leidinggevende over het uitvoeren van een oefening of opdracht (OPL, WE).",
+		"id": "c18f285f-5b7e-43ea-9b5c-af98db83628f",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Instructies van een arts over het innemen van medicijnen, het afmaken van een kuur (PU).",
+		"id": "619bfddb-625b-4de5-b171-cce6f0b8127b",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Waar de kantine is en wanneer die open is (OPL, WE).",
+		"id": "b1811e45-4776-4b1d-a6c7-908bb197b54e",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Waar bepaalde dingen liggen of waar een persoon zich bevindt in een huis of een gebouw (DL).",
+		"id": "9a542d88-e090-47b6-8bf7-3ebb0eadbd8a",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Waar je kampeerplaats of hotelkamer zich bevindt (DL).",
+		"id": "d22e9a58-5ab9-4a7f-bcb1-9bb9e0318f36",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Iemand vertelt in een videoboodschap hoe zijn naam luidt, hoe oud hij is, wat hij in zijn vrije tijd doet en waar hij woont (DL).",
+		"id": "296f7e24-95d5-4497-815d-1473bc648cba",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Onderwerpen in een buitenlands jeugdjournaal (DL).",
+		"id": "8b06428c-e260-4f47-924a-e2a29beaf4a8",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Uitdrukkingen die behoren bij begroeting of afscheid (DL).",
+		"id": "02db21bd-dae2-4b4d-bff8-cb8fc22ac2a3",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Uitdrukkingen die behoren bij bedanken (DL).",
+		"id": "b92df3f0-b244-4f0a-a26e-c68b215e1c91",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Uitwisseling van (gespelde) adresgegevens (DL).",
+		"id": "cd9a437c-e145-401d-8b07-62e4016b6579",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Uitdrukkingen die gebruikt worden als iemand zich voorstelt (DL).",
+		"id": "f4d73e67-2579-4a8c-a8e9-823fc525dd51",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Uitdrukkingen om iemand te beschrijven (DL).",
+		"id": "3e944171-e0ba-4a50-b956-107d6ba13698",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Begrijpen wat iets kost, om welke hoeveelheden het gaat (DL).",
+		"id": "d47b1c0f-6871-4323-b98c-d870f4f3d1a9",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Uitingen als deur dicht doen, niet roken, licht uit/aan (DL).",
+		"id": "1e1995bc-bba0-4f5b-82cf-632650f75cb7",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Schoolregels als pet af, jas uit, boeken open/dicht (OPL).",
+		"id": "004c5df0-f584-453d-920a-89a4357b8403",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Op welke bladzijde een oefening opgezocht moet worden (OPL).",
+		"id": "0ee830a0-5bde-478e-9897-66a2a3718efd",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Uitleg over hoe je op een bepaalde plek komt zoals rechtdoor, de trap op, eerste deur links (DL).",
+		"id": "d7c36bb4-4c20-446f-862b-e038a57be285",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Vragen of iets begrepen is, of een vraag of opdracht herhaald moet worden (DL, OPL).",
+		"id": "4ecf661a-1073-4417-a0d9-f2fdb15c87b2",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een uitnodiging voor een feestje, uitstapje enzovoort (DL).",
+		"id": "6f6a6eff-28bf-4dae-a018-1501127d2626",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De voorkeur of afkeer met betrekking tot sport, muziek, schoolvakken (DL).",
+		"id": "4319d286-d157-4948-8634-b1ad9af1c028",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een voorstel om gezamenlijk iets te ondernemen (zwemmen, eten, muziekoptreden) (DL).",
+		"id": "391f9319-6c6e-4807-a2f1-938f743e85b2",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een reactie in antwoord op een verzoek om een inlichting (DL, OPL, PU).",
+		"id": "29a0ed29-9ccb-4d55-977d-6cf722f53633",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een compliment voor de wijze waarop jij je in de vreemde taal weet te uiten (DL, WE).",
+		"id": "d0cb432c-9cab-4ed1-b00f-7d65567f2b1f",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een gesprek over wat iemand in het weekend heeft gedaan (DL).",
+		"id": "8cb96fb1-f79f-4482-bb99-c48e10a5c884",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een gesprek over hoe het met iemand gaat (DL).",
+		"id": "bcfd75d4-8e1f-4697-805e-8043a3fbc705",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een gesprek over het weer (DL).",
+		"id": "50d4626e-e8cc-471f-8a42-943431929a33",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een gesprek over wat iemand de volgende dag/week gaat doen (DL).",
+		"id": "79a6dd3b-42a1-46a9-8ae1-d917ed555d48",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een gesprek over eenvoudige, dagelijkse gewoontes (DL).",
+		"id": "e55907ad-303e-47fd-b3da-9e29d92ecacb",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Vragen over familie, gezinssamenstelling, huis, woonplaats, land (DL).",
+		"id": "e2d0fad5-74f4-4624-bac2-fbcc8ab5fe2d",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een gesprek over eten en drinken (DL).",
+		"id": "6726cfd2-2fce-46e8-a93e-e10e7b14d0db",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een gesprek over sport, kleding, vrijetijdsbesteding (DL).",
+		"id": "98976ab5-5f11-4511-b8db-1b782ba2cd7c",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een gesprek over vrienden, school, zakgeld, bijbaantje (DL).",
+		"id": "63a51cb5-8916-4a8d-9d70-d236c80482df",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een gesprek over uitgaan, films, muziek, media (DL).",
+		"id": "06b267ea-1296-4f3c-9b2c-2bdb710c7fdf",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Tijdens een borrel in een plaatselijk café na afloop van een conferentie (WE).",
+		"id": "4e1f688c-a14b-41a3-9a32-e722762d353a",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Tijdens een rondleiding in een druk bezocht museum (DL).",
+		"id": "35512682-91e6-42f0-b1ea-184a4ccfd01c",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een gesprek onder uitwisselingsscholieren of -studenten in een drukke pauze (OPL).",
+		"id": "487a9972-8408-472c-b5ee-1b44d3f39381",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een uitleg tijdens een excursie in een fabriekshal (OPL, WE).",
+		"id": "2b935b50-13b5-4f58-9e8c-6c4791ffd3af",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een uitvoerig verslag van de open dag op een buitenlandse universiteit die een vriend heeft bezocht (OPL).",
+		"id": "09092339-77fb-40c8-aa64-aba4e42f369e",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een grap met een ingewikkelde clou of met toespelingen (DL).",
+		"id": "2ab2de2f-363d-462a-bef6-3a5a2f901967",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een radio-interview met een Nobelprijswinnaar (DL).",
+		"id": "8a543878-2384-490e-a0c6-d5462d21e1de",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De uitleg van een arts over een medische behandeling die hij of zij ondergaan heeft (DL).",
+		"id": "91bdf750-5ad5-4523-8abf-e6f6b9527b89",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een situatie waarin formeel toegelicht wordt waarom iemands verzoek voor een stageplaats is afgewezen (WE).",
+		"id": "f693aa84-d1e7-47e5-83e5-12804fcdd8c2",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een discussie naar aanleiding van Europese verkiezingen over de invloed van de media op ons kiesgedrag (OPL, DL).",
+		"id": "e3011d1f-34e8-4855-bf41-06b5bb584abd",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een verhit gesprek naar aanleiding van een internationale studieavond over duurzame ontwikkeling en mensenrechten (OPL, WE).",
+		"id": "4bc9c9ad-2013-4480-856b-f08fab208a5a",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een discussie ter gelegenheid van de viering van 1 mei over mensen die de dupe zijn van slechte arbeidsomstandigheden, uitbuiting en onrecht (DL, OPL, WE).",
+		"id": "e28c1da4-b01a-4fa6-9f18-626d61467bfb",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een telefonische afspraak maken met de tandarts (PU).",
+		"id": "2dcfc0af-b687-4cd8-bfd6-cc08d80c6bbc",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Met een vriend via bijvoorbeeld Facetime afspreken waar en hoe laat je elkaar treft (DL).",
+		"id": "64a7f006-bf4c-43e5-bd22-01fdbba1c2c5",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een datum prikken voor een avondje uit (DL).",
+		"id": "7645d983-c14e-4f26-af28-e2b2f162a6ec",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Afspraken maken voor het inhalen van een toets (OPL).",
+		"id": "5f67fef1-ee84-446a-81ee-149b6c9868c7",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Bij de plaatselijke VVV een kamer reserveren, om een plattegrondvragen en naar de belangrijkste bezienswaardigheden informeren (PU).",
+		"id": "818eef70-b226-4a34-b447-7ede0d93306c",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Inchecken bij een jeugdherberg of een hotel (PU).",
+		"id": "e794edc1-8bb0-40e8-b2f8-cc5008ae86bc",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Medicijnen afhalen bij de apotheek (PU).",
+		"id": "593b9f40-f73e-4c87-ba64-5cfad6a3d496",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Informeren naar kortingen voor buitenlandse scholieren bij het loket van een museum (PU).",
+		"id": "1093f6e4-6f05-47c5-8337-d3e0f0a63f5d",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Over groepskorting tijdens een buitenlandse reis (PU).",
+		"id": "cff433fa-6348-4b8e-a23a-ce253f9ff634",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Op een gepaste manier met de docent over een gegeven opdracht (OPL).",
+		"id": "f7f9adea-976d-4215-b6a6-3cc4ff91382e",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Over leveringsvoorwaarden van producten en diensten (WE).",
+		"id": "ea8f131f-3969-46ad-b33c-2fcbd8c6fd0a",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Van een gast in een hotel, over de slechte service (WE).",
+		"id": "667b67b1-3f51-4342-9408-31998d3aa49d",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Van een klant in een winkel, over een slecht werkend apparaat (WE).",
+		"id": "8eaf8dc3-7dd7-46e0-bf92-e05cbd36f6e2",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Van een zakenrelatie, bij het te laat of verkeerd leveren van goederen (WE).",
+		"id": "41f7f41e-b87e-4aa0-a371-2a6ffa6a78b2",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Met een leverancier telefonisch bespreken wat te doen met een partij verkeerd afgeleverde producten (PU, WE).",
+		"id": "cbea91b8-bbff-41d7-9ad7-be824abca970",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Aangeven dat je iets niet begrijpt (DL).",
+		"id": "adf4e2b5-844e-451d-b671-d15307785b4d",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Vragen om herhaling, om langzamer te spreken of iets uit te leggen (DL).",
+		"id": "ce7fb3f9-d3cb-455d-b0ec-949c9731a70c",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "--",
+		"id": "8052429f-2924-420a-bc88-02e4bc7b884c",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_lesidee"
+		]
+	},
+	{
+		"erk_schaal_id": [
+			"f8d91c39-870b-4976-a036-ed1ffb9da094",
+			"29d1ec67-459c-48b1-86cf-d8559b7e5da9",
+			"2839c055-88c0-440f-8280-011bf8f1c6e8",
+			"79bcff13-6725-4659-8ede-a82da82983c1",
+			"582c9a5c-11c5-4e38-a9e8-a470d4f9d1bd",
+			"b40f3fa1-a82b-4949-a089-42785adb1b9c"
+		],
+		"title": "Pragmatisch",
+		"id": "96d01289-97ec-4024-89f5-4f49c3937e8c",
+		"replacedBy": [
+			"0dd846f2-6d6d-4d93-8c03-6edff22d5a00"
+		],
+		"types": [
+			"erk_categorie"
+		]
+	},
+	{
+		"erk_schaal_id": [
+			"1c11e637-5eaf-45f3-8410-44a6a75c1006",
+			"3c802231-529e-4d76-9aab-40eae8225fe8",
+			"288b6f87-8d9e-4c03-b887-d7781510db71",
+			"5ec53958-4390-49c0-b4bc-35e24e631d85",
+			"97154fe6-5225-4793-bb6e-9d68910e78b3",
+			"e2b6da00-13a1-42c8-af8a-13ff4a5b5392",
+			"c7fc2181-3edb-43ff-9302-4477cc6de76e",
+			"274c92c2-56cb-4cf3-8039-b791ee79f595"
+		],
+		"title": "Mediation van teksten",
+		"id": "debbe411-e0f9-416e-9a75-dcd2af41556b",
+		"replacedBy": [
+			"8c8cab3b-1836-4004-b00d-6f9cb2b79d1d"
+		],
+		"types": [
+			"erk_taalactiviteit"
+		]
+	},
+	{
+		"erk_schaal_id": [
+			"6b7ef9da-3d67-45e7-9aec-6a70c8e7ab73",
+			"888afb31-15ae-489e-99f4-27a3bcac1863",
+			"763a4d0a-b18b-4da3-b664-6bf2cdf2f237",
+			"2f6b5a57-8b14-4834-afdd-cbf4638b6d71",
+			"d78f5af9-1b28-4f68-bab2-f6ecff7807e9",
+			"237545d1-b66f-4fe7-9b45-b3bb7f127563",
+			"c2fc92d9-59b8-4728-91db-7739b36f99c8"
+		],
+		"title": "Luisteren (en kijken)",
+		"id": "f46c1c83-1d83-442a-8a59-ac4c8b61c7a3",
+		"replacedBy": [
+			"afae608c-357b-4715-b43d-564bb20ec8a6"
+		],
+		"types": [
+			"erk_taalactiviteit"
+		]
+	},
+	{
+		"erk_schaal_id": [
+			"a512cbf4-9be1-4afb-bd08-ea113b2eaff7",
+			"dc9b22ba-50af-4f34-8cc1-342824b3188e",
+			"734d5846-fb5e-4909-9b98-fc626f1b37dc",
+			"ea558d3d-9f2c-4a89-9672-63bff61bc8cd",
+			"f54ad8e1-973e-45fa-88c5-93bff5fe4d3f",
+			"6615ae9c-e940-4203-816a-1affa8c50028",
+			"f3cd3e9f-d4c1-447c-99b6-ecafe851bc27",
+			"4c95ffe3-c80f-408c-93e9-25a6d33cd643",
+			"f95a83cd-5069-4077-8f77-a87d9b038b24"
+		],
+		"title": "Gesprekken voeren",
+		"id": "23a3939b-0b8b-4570-9f63-8f64ad81fac2",
+		"replacedBy": [
+			"bf2db3ca-e388-4ef3-8dd7-cc8865f427ea"
+		],
+		"types": [
+			"erk_taalactiviteit"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"edff4aab-39aa-45ab-9d32-496e96de9f8e",
+			"caa4a885-9a4e-4946-80c3-f103665bcef6",
+			"9a8439b8-0070-404e-801c-de964bac99fd",
+			"f30a8712-f95f-4813-a0bf-129137bc6599",
+			"2505e69a-971a-4548-ae8b-f20549437de9",
+			"ab794139-c0f2-4eb0-bc4e-58d7ed5f8e91",
+			"09af54c2-930f-4c9a-84e2-6f3aef23d057",
+			"0ebbf8ea-8b10-4bf8-b1f4-820a7f62c8cd",
+			"fda68ab9-f3a5-438d-b6ad-51efbe64b23d",
+			"6458e5e0-a98e-4389-902c-7f411858d2c4"
+		],
+		"title": "Schriftelijke productie algemeen",
+		"algemeen": true,
+		"id": "07a24446-88b0-4597-a06f-c8419429781c",
+		"replacedBy": [
+			"1a3879b3-9b01-4217-b59d-1484fbbbbac6"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"1b8b0363-cccc-4a3f-a8ca-7f086b1fd382",
+			"cc7f9b6c-ac73-4c38-87a4-1e77681338fb",
+			"a69229df-441d-4886-b599-a9c32285cfd4",
+			"9d9ae659-936b-4844-b92b-bfa10c6b3b63",
+			"138a64cb-9f96-43e7-b283-93b58d06fe14",
+			"14255d2b-40c2-4b1f-8203-b895a64d7659",
+			"84b3820e-d427-4bbd-a2f4-59c28ae8d43a",
+			"67887bcb-0a07-4474-b686-a6c451b5e018",
+			"54d13f76-d214-4207-a2ac-b500ff3cac78",
+			"897eb63c-6aa7-40f1-aaf3-ee7899737445",
+			"a7f44b6e-654b-4e99-a937-42238c6d997c",
+			"2912504b-3099-4eaf-a1eb-0c34fb5652e6",
+			"f7b6aba9-a98c-471b-aef0-b3c538431e95",
+			"0cf9a7ea-85c6-4d3d-a0f6-c5c7082ee1fe",
+			"9a016ef4-2ef6-4d1d-967c-c28272be31a6",
+			"95de5e6e-99d8-4084-86ac-8c897d1c9733",
+			"9711a071-1b87-45cf-90c5-5d5682dddf58",
+			"09ba4e0a-549f-47f8-b99c-2eae91884e1e",
+			"5dbad89e-a6db-4853-9d90-84838bcaca95",
+			"16f3779d-1db1-4586-a2b3-58cad76ab527",
+			"3a92b0f0-3326-4ece-a260-7e0f17f011ca",
+			"072dba46-bc42-44d2-8a09-037158229e8f"
+		],
+		"title": "Mediation algemeen",
+		"algemeen": true,
+		"id": "115a7f2d-9b5d-4f8f-addc-d4d4c382243a",
+		"replacedBy": [
+			"9c44be1e-9f4c-4ec7-824e-6bcd85df93ff"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"a550691a-20ca-416c-9d1d-77987f597f4b",
+			"ca035e36-5634-4856-b099-4bf8d2571e47",
+			"f9fe9ec3-60e0-46b4-8797-f5b453448a29",
+			"95cceed7-537c-4ed7-bc95-43fedbbc3044",
+			"c44413d8-ff61-4e63-aa62-e6ee827845cc",
+			"cb1173c7-c751-41e8-a5e5-19fd03257594",
+			"3734d072-c521-4504-b327-6ecf9ce91f05"
+		],
+		"title": "Fonologische beheersing",
+		"id": "cdcfe652-82d9-4b8e-a52d-062e8d258566",
+		"replacedBy": [
+			"d722c753-4ccc-4dc7-a8ea-3418f11bbaf1"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"3da2eefb-7fd1-456c-a83b-91030d6b7ee9",
+			"26079d79-4f81-4e37-8b3f-04cb6a2254c9",
+			"fb7ac37f-7919-450a-9a5c-f238f7ef76c9",
+			"af072326-9f7e-4ca0-998d-4a0a981ea0e6",
+			"401ad9cc-a880-467e-80d9-b21296d0fd27",
+			"9d52de7b-b6d9-4c87-b1c6-3084203a2213",
+			"483037b3-0e4c-4da7-8516-f31641ae7891",
+			"e5cb2875-5f76-4dcb-a267-dd2f2ff0eaf3",
+			"06fb525f-cecb-4b4b-bb3a-53692841a8b6",
+			"f5fd0d25-8803-4b57-aafa-9c0763d7b0e1"
+		],
+		"title": "Klankarticulatie",
+		"id": "20206dda-ab8f-470a-a06d-e56090634228",
+		"replacedBy": [
+			"34d80237-aba8-4a3b-9b4e-9bfe4c206f7e"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"c6e9a10b-eec1-4df1-9b9a-a9d738d6483a",
+			"de16b182-0ea2-48bf-88f4-483920719c16",
+			"2dd73fb9-03d6-4aae-a31b-a1c67693c4d3",
+			"42ff69b4-58c4-444b-b48f-a1451d6cde00",
+			"43d28964-bcde-413a-93b4-5c77fdc88933",
+			"83865d05-5e3c-4d19-9882-ce709ec717a6",
+			"df2d6b39-4232-44be-8a43-312218d51210",
+			"6531cb80-6352-4ea1-918a-59495b78dec5",
+			"1f285e83-03b7-45c7-8851-7bc08344f046",
+			"92249dcf-5d36-47a7-a310-b4592e396969",
+			"c10e6950-b08b-48e1-8d25-e457fe268ac9",
+			"9d2e9ed0-07c7-459a-8531-80e8c8a14896",
+			"a91b55aa-9e0c-4a73-b103-cb015427ee71",
+			"64bbd780-56b7-465a-b6ae-b381779d5e60",
+			"fffd081e-8abe-403b-b020-103d3f20c619",
+			"9142086c-fea9-478a-ba8e-d89b59face3d",
+			"331286bf-0a53-4607-b802-94c41cd3f44d",
+			"466227aa-8c9c-45a1-be23-bcb4ad299dc3",
+			"278cf864-508e-458f-85ad-200943728da7",
+			"6b10789b-0b69-4db9-90d3-04ea9aa8661e",
+			"5d1bce5a-6f92-4f73-8bcf-5bec726d4426",
+			"ca583caf-e011-4e79-9750-b29dcfec3583",
+			"186d9b92-572c-4a3a-8ceb-a96e4fed32f3",
+			"4ea7a83a-37a5-4f52-856b-3faa8debe83e",
+			"9c489fda-e924-4d90-9c44-6524a5b040e6"
+		],
+		"title": "Sociolinguïstisch adequaat taalgebruik",
+		"id": "404c023a-b8c1-405a-8b09-a3e565a5650d",
+		"replacedBy": [
+			"11432906-f443-49a3-bc7d-80695ead39f2"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"d661a7f2-d01d-4974-8350-50e7499dc837",
+			"fdb270ae-322b-4200-ab71-593b7920f18a",
+			"1cf8f22e-405e-4284-bab6-f4d75e55a9fc",
+			"12005822-1c57-4750-88c8-af163f35c9d9",
+			"158fb445-06b8-4d9f-876c-0bd9f76fe7bd",
+			"8a58b121-2534-4b8e-a635-7a7cba0c9eaf",
+			"df5a5fbc-3160-410b-8226-1fb6e96e95c9",
+			"ca6cd51a-f84a-42af-97f3-727eac935807",
+			"23a8d168-f8db-4693-afa7-e46c1ab249f2",
+			"c3a33e7f-bb54-40d0-b4bc-e2f5201a2535",
+			"9d67170e-f684-4c40-924a-4c27fd3bce99",
+			"d6b3b755-2dc3-4d5a-a2a3-70ded33e0eed",
+			"b4363969-441b-4f26-b35a-ae36947186da",
+			"e4ea4d9e-0307-40c5-bd51-ddc5604ffcb0",
+			"32dd56ec-7188-4e64-8ed6-5caf63bbb27a",
+			"57265efe-ac25-4e52-b8ed-d970b928bd7e",
+			"9c2527c0-dd36-49d0-a664-3903d0561ebb",
+			"26c46aab-a8fc-4344-aab0-629a737f7215",
+			"4eeb0a15-7980-413c-84d0-c24bdb8bb89a"
+		],
+		"title": "Een geschreven tekst mondeling vertalen",
+		"id": "c7fc2181-3edb-43ff-9302-4477cc6de76e",
+		"replacedBy": [
+			"eb3a241a-afa5-4c42-8e33-89fc52ed29bb"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"35bd4ec0-bbf0-451a-b339-07632659a9ea",
+			"2814bf9d-0860-4073-8ff9-0829a82d338e",
+			"b467297d-f405-4a09-8550-cf569f757990",
+			"be86a199-2f72-471e-8d4d-524187a0fe1c",
+			"64eb8cef-562f-4958-9f3c-22b8bf8cc3bf",
+			"31511d9f-c1db-4fc0-bdf6-cb412f5b3116",
+			"7fb24168-30be-4166-a0bb-58fe9370e6d1",
+			"5abdd282-9237-429a-8897-cffcbf2735b9",
+			"933a220c-4735-4416-b17a-6a2288ba8551",
+			"46e7e2d4-86aa-4fc6-97d1-5eb9b3ef9ea6",
+			"bed9dbc0-98fa-412a-85a2-47c82ae95377",
+			"0c233539-bcb8-4610-bc79-6fb7d29030ce",
+			"29afbeed-b002-467b-b312-afeff3bff56d",
+			"9887724e-8119-48e3-877d-eb2e7cfdf773",
+			"b5a1af87-8313-4c35-9311-d75b240a2a7c",
+			"45092f85-5a10-4bd4-9355-baf85f4f6e83",
+			"6427a9c9-b6ef-4091-93e3-b8b1b1f09678"
+		],
+		"title": "Communicatie bevorderen in gevoelige situaties en bij onenigheid",
+		"id": "b350bcbb-483f-4e23-8a62-a9ddf3b82a87",
+		"replacedBy": [
+			"19cbc7e0-7747-4f96-9737-6fecc6308414"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"cdef8be1-1c74-452a-9e54-4fc460e0d7de",
+			"29d97f8e-9932-4a1c-84ca-6b9088e05ac8",
+			"88450e9c-c099-45b4-b13e-b770db875829",
+			"9e54ba16-a9e9-47eb-a326-4becef2599f0",
+			"750322a6-05d1-4fd4-afdf-eca512d1cff8",
+			"320d26c4-ed50-404a-b894-7ff240a5bcc5",
+			"7cffdb32-eccc-4481-bf36-118c12ef2284",
+			"fa1a3075-bc45-4f2f-9b81-f6d7e6a8a68b",
+			"5b8cdb71-6c54-45cc-965c-acd64023b1ba",
+			"cffc9b0b-45ed-4213-85b1-b2daa9bde91d",
+			"7910abfb-0db5-4b60-a8b7-5a2fb5643515",
+			"3b47b7a7-4c63-4d14-963e-0ab8585f8a00",
+			"e2e2ddc9-32a6-41d0-bed8-ae46e635ed65",
+			"fd72ff5d-00fa-4a38-b040-b27d2ebfc5d2",
+			"d4e67dc5-b342-414e-9927-e667cdc14fcf",
+			"cf2065cf-d42e-406a-9de8-fdcb14e1f82b"
+		],
+		"title": "Samenwerkende interactie tussen peers bevorderen",
+		"id": "5a301d2f-8c3d-47fe-a632-07c2f22f26c5",
+		"replacedBy": [
+			"1a409f1c-2aaf-47e5-be44-2da7439a5e80"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"ae6d2251-af9b-4acf-822f-ff7f096fcb34",
+			"6c0a727d-1905-4cc5-b02e-1de0f6ab14de",
+			"4e7d6999-4727-4ce4-9fef-56920a89e8f3",
+			"cb3b4f2f-21ef-4ff1-9679-ce15381010f8",
+			"e81a6946-dc84-4e69-9337-56a619ab2543",
+			"966d183f-50cc-4b65-b9bb-0fc642e69982",
+			"89f06600-fe2b-427d-b7b3-2ea60062a8db",
+			"8196c8ce-cf61-4cf3-a0bb-e6ed688fbaaa",
+			"17d24ad6-7741-4bd3-9b4d-a088f8ccb927",
+			"cdc78249-b016-4936-8b1a-7d7a2a703c59",
+			"b2186256-c768-47d3-b64b-243e34325ff7",
+			"92d56700-66c7-4044-8646-4b0792bc6b0a",
+			"a31f9ad2-16f9-4c75-9dd8-a8c97cae2c82",
+			"166aab40-d4ee-49a8-9b4d-ed05e8492559",
+			"586680d1-bb74-4ebe-840f-b5ad4fd63334",
+			"8d203fdf-97ea-47a0-9ead-f4d03828176c",
+			"69321888-830d-4a25-a128-53fd47923cfb"
+		],
+		"title": "Correspondentie lezen",
+		"id": "b6252d39-570d-4a94-8406-24cf24166049",
+		"replacedBy": [
+			"9e6ea45c-0abd-4d95-a679-6767ff369066"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"ecb66b87-692f-482f-8b98-f7edf2aef8bb",
+			"fbb1b6ab-e254-4861-b072-9dd2d66b8b58",
+			"c8a9096e-8f5c-4571-b716-b464fa4581e8",
+			"955fdb46-91fd-4766-9b75-e1ade83e4bbf",
+			"f2d3faeb-be01-4a8b-8bec-f74538851352",
+			"9476e45d-6671-44bc-9d3b-8c6fe25c32a2",
+			"9e05c4ee-0fcb-4d05-b357-fb525923d8fb",
+			"fc3df715-580d-4a4f-b3ec-fb439ff7b0c3",
+			"969c0656-bb09-412e-abaf-e9ed5094d17e",
+			"c696b269-51e3-4dd9-8450-6e9281ef668b",
+			"f62bce04-fc2e-4f14-8972-38548a771d85",
+			"435bf870-93e9-4e3c-9869-d6a00d42699a",
+			"9b446577-e625-411e-af68-a53e26d5d1fc",
+			"f49d38f2-9515-445d-af0b-ef38fc85839b",
+			"78c22d9f-1374-4a0d-ba47-026fdfbad40d",
+			"c608ff01-a52a-4a5e-b32d-bcc658d32134",
+			"470f7f51-f776-461e-b09c-9f776dfca55f",
+			"85090750-5a31-41c9-a0bb-250959d7f06c",
+			"01944565-7f64-4f36-996f-e49f73cc0190",
+			"c64a9a87-da0f-406e-811a-2ce93380f19e",
+			"dc6ff4f1-0b4c-4289-9f41-e9f7df96c311",
+			"b1599d83-086a-4c68-9c45-0765fce0b473",
+			"e31153e7-76ba-4caf-b0de-eb10a3c0feee",
+			"105b5a76-6a22-48ad-bcbd-bb656d59907e"
+		],
+		"title": "Oriënterend lezen",
+		"id": "cc8a1f60-efcc-4cec-8229-932dbe29e51c",
+		"replacedBy": [
+			"f1d2351d-e784-4aff-a605-365afe3dfed5"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"6d699dd2-105c-4a11-af9c-4b9404b94407",
+			"5b03f33e-4f70-411e-98ee-fb0c16ebf299",
+			"30f51b5b-7c5a-43ee-bacf-bd28090ca7c2",
+			"f6d43991-3896-454f-b0b8-d5e6530bd700",
+			"86fa9f20-95d5-41d7-ad47-836132c25daf",
+			"14a07f2d-7ed2-4c47-b32e-e233ffc64a0b",
+			"cd0372de-333e-4bcc-9593-20b87c7e954a",
+			"f01d051b-fc0f-4d50-a2dc-101a422d08eb",
+			"7329e348-5afe-4f8e-a903-8872809858bc",
+			"c028b8ae-26b5-4981-8073-30af2fbe7c39",
+			"525c1f43-bf1f-4bed-82a0-afcfa7bff6f1",
+			"6faf9c89-0470-457a-bbd1-586ef35cd56d",
+			"b8a2c25f-b77f-46e9-8a38-3e937878d746",
+			"ba8cc088-311c-4ad6-8b3b-e9fbd1a8d045",
+			"9521a874-b8d8-4f6d-b013-f6e107a30c0f",
+			"7fe0e268-e9cf-4017-803c-d25fe863aebc",
+			"338b8886-864e-442b-bf50-8c921939ac35",
+			"517ae16f-a8d9-43b3-9954-06d09fbcbe2c",
+			"80ca95b9-5638-4747-85a4-97dcba7a0bc6",
+			"7fde1925-2719-4b70-a960-3b6180f3b0d1",
+			"347cefaa-7f64-4144-99fb-b342c7a8d165",
+			"7898411b-0dec-4178-ac3b-23f58a4252c8",
+			"bd8986e3-248b-4ab9-8aa5-0fbf7b6a5d3b",
+			"348896fa-05b2-484b-94ce-47db6f240ba7",
+			"8a215ab9-de53-43f1-a0c9-73d88bba94a0",
+			"32049b12-ef30-4cc5-b71c-8dac0f03a5ee",
+			"dbc20102-aa16-4c55-856d-f195c8fec5a4",
+			"d48e70d5-5c06-4aa5-bcab-bace71d1d9d3",
+			"a5da7f97-279b-4f97-8b43-41c5c9023b36"
+		],
+		"title": "Lezen voor informatie en argumentatie",
+		"id": "f84f75e7-1ba0-4694-b9cf-8bafe075d3cb",
+		"replacedBy": [
+			"94c30107-47d0-4131-9296-e504487d1a7b"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"b7b8fdeb-ff55-4c39-951e-53d82b899d74",
+			"2ce03d9e-b8c0-403c-bf2e-5dddeb056f14",
+			"5c496867-cbaa-4d16-b16d-6ae9c1d2609f",
+			"d5f00649-d472-4109-9b25-62cd3f0f6e5b",
+			"3450788c-ea9d-4922-bece-16f1e3e3ae22",
+			"e8f7ae27-b142-415d-bc17-4fe417b225b2",
+			"476650fa-c1bd-4c32-901e-e9e025f9eb40",
+			"4f839307-d6db-43ac-9892-bbe7c5a561a9",
+			"96fd9851-9240-41c9-8327-7e79e90b9644",
+			"23935d1f-903a-4c1a-93c9-a5ac958d0f7c",
+			"f8f896da-a443-4881-bcaf-e8e5e3355d95",
+			"e56e4202-41d8-40b7-bf6f-146a5852adf1",
+			"93a2ac44-64bb-4104-8122-9a60118ee66c",
+			"285902e4-2b92-4acd-ae8f-17be4eab6dd4"
+		],
+		"title": "Instructies lezen",
+		"id": "4ad54d56-d668-4a0b-80f5-3b9d76dd322d",
+		"replacedBy": [
+			"ebe2b28a-7837-4dab-ab6d-af9c28e56419"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"c76abfa3-2671-4653-8c9e-1d964ad8aae0",
+			"eeb7f581-58fc-4c4d-966f-cc67050c3f67",
+			"2886a357-4212-4fd0-812a-97e750cd349f",
+			"e1283508-a49a-45c5-add5-c55bc8fe89fa",
+			"75886083-7e27-4242-9b46-93ec5610c985",
+			"3e8f27f6-5eb4-415c-a328-31dba0fcbad7",
+			"2b18df0a-1794-4b7d-b11d-eacf6123a902",
+			"9d12b673-ed5c-47df-b918-38d08870564b",
+			"15ade611-e56e-4d28-9069-e5d17e74f25b",
+			"985e1caf-4bef-49c5-a705-21997d137ce2",
+			"baaf813a-fe2c-4c79-ba90-5f3e3fe30bd8",
+			"8b3239fd-5282-4576-a121-045bf2abd5d4",
+			"1e91a800-0034-42d4-a72c-37c7a3128d42",
+			"1e6cf28a-6f2c-48ff-8fe7-cff2d927b9e1",
+			"54277213-6cf8-4c5f-8a95-6fc9445604b4",
+			"f5994fdf-cdbd-4cc8-8918-c733e0f9de0b",
+			"3e9d29a7-3923-4530-af8b-99400270b671"
+		],
+		"title": "Interactie tussen andere sprekers begrijpen",
+		"id": "888afb31-15ae-489e-99f4-27a3bcac1863",
+		"replacedBy": [
+			"8a050ffb-4f9b-4533-b9ca-e679cd10e72e"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"c13024a5-ff6f-436d-83fd-8109f78b3046",
+			"5230ca1d-2761-40c8-9549-731f4fa2dbf0",
+			"d2d9114c-c9a2-4c82-a7c5-133d942288f5",
+			"5d0452e6-fd35-4ded-8cc2-430d2de681f6",
+			"ffd80356-0437-4574-8be0-69274fa01a74",
+			"d8c537bf-9801-4f07-b548-fbe27ff20ada",
+			"b9001e64-33f7-4227-a929-68d76e5eebc7",
+			"419e4330-8e6c-42b0-96e9-ae6bc78c96b8",
+			"9f8af39c-6494-4916-a04b-9a7a37c00677",
+			"b0cd2688-4ed5-4f9c-82b4-a835a66e6ffa",
+			"63a36f7e-5fc8-47ab-9f55-781a7b5a24c2",
+			"4fb8ee4f-3dd6-4c93-85e4-5e9e653bd6bf",
+			"6e619896-f881-42d5-a12f-5db39b5be2ab",
+			"9e18d957-79bb-4d40-a6e6-7d446ececd33",
+			"ce63c6fc-c43b-4491-9dcd-22835cd56bbc",
+			"75b6f405-e00b-4a49-a1f5-d09ca326e284",
+			"ffc17a16-fd4a-4a0c-8907-3fbe1c1eb7bc",
+			"e14ec448-4e40-4061-9a6c-4104492d7ac1",
+			"b3beaf4b-735d-4f68-8b19-2be651b7ee26"
+		],
+		"title": "Luisteren als lid van een aanwezig publiek",
+		"id": "763a4d0a-b18b-4da3-b664-6bf2cdf2f237",
+		"replacedBy": [
+			"7b6ce918-952b-4ee7-931e-2ab5b4cec3b9"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"94f4b4cf-b716-41e5-92dd-94e3d414e36c",
+			"b963d353-134d-4cb6-a8d7-167149f71063",
+			"d93533ca-e786-495d-9622-dcdc83af9f40",
+			"73f38d19-d845-4f57-ba35-53b3d1c3200c",
+			"1001dc29-8286-4385-a6ea-cfdff3ad43a3",
+			"cd453a9a-6cc5-488f-8a99-5190b07936c7",
+			"2e993aac-5b2e-4f3e-8cf9-f934c1f7d3ea",
+			"93856017-4193-49a3-ab3e-29a18eeeb445",
+			"1e584b80-38f3-402a-b4ae-a9f0347f7f40",
+			"0402d289-cec5-4759-b92d-ef2c488934d1",
+			"95880ab7-30d1-45fe-a1f5-d3f9a19737d7",
+			"c99e284a-1b32-4d90-9e1c-9ef5008770e5",
+			"a7e7b2a2-ba00-4492-b4c8-910a439075b9",
+			"d9b6ba9a-a837-4146-bd42-7ec2e6294e77",
+			"96d059fe-5c49-4c27-a2fd-056888f61c0b",
+			"d51929fe-8b67-4a5e-a69d-a153847c634f",
+			"1877a790-4984-4dfb-9424-e6212ae79b4f",
+			"cc3ae904-17f2-49da-966b-1175451c4c8d",
+			"c1778a80-b307-4f02-9824-f08e215a049c"
+		],
+		"title": "Luisteren naar mededelingen en instructies",
+		"id": "2f6b5a57-8b14-4834-afdd-cbf4638b6d71",
+		"replacedBy": [
+			"c1024d20-7719-4758-9214-77a009232d73"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"776c1dfb-12de-411b-b922-bedc95182e8d",
+			"de7787be-81d6-4573-88d6-8bc987e72679",
+			"421913ab-36df-4798-8313-7f92d3416ae3",
+			"f9d22297-6760-46e0-a33d-d5c6a83bf2f2",
+			"4f3ad3b6-6d2a-42ca-bd93-29a204492eea",
+			"af6eac1f-181f-4e79-86f5-04e5981f9350",
+			"153a82e5-b136-4dd9-a994-2668da724ddc",
+			"4f80d193-cc8e-4c29-9688-36b14c75d03e",
+			"642d5966-e23a-44cd-b307-68722603832c",
+			"fabccf83-71c7-4ae8-935c-c102f6ee6391",
+			"8cb4eb96-d42c-4ab3-945a-546fb19a3684",
+			"a37fe4ec-4684-45bd-b173-85e9cfef92b3",
+			"dc131930-5c4e-4df9-881a-82ad72091ded"
+		],
+		"title": "Luisteren naar audiomedia en geluidsopnames",
+		"id": "d78f5af9-1b28-4f68-bab2-f6ecff7807e9",
+		"replacedBy": [
+			"df5e1e91-7948-4290-8b62-2c22e3e539c7"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"884ce79c-c32f-481e-9416-f4a87fac3489",
+			"da3fc5cc-86d6-4406-96b9-0741807bff87",
+			"e7be54b5-e8e4-4046-992d-4a3f42288858",
+			"a174b376-2f4a-49d6-9207-0b29f3dd3506",
+			"f9033d2b-b1a2-40d1-b5ae-03c055dd7bbb",
+			"b2b26422-6688-4caa-af84-e0bfcd7d2ff3",
+			"364d585d-7101-4f8b-9a31-ea3b469e4893",
+			"f34f11fc-4b70-48fa-b780-ca7d7dd77739",
+			"74547df2-7641-42b5-9a3b-20ca6956dc4b",
+			"a4874474-f8d7-4586-a7ff-33010c84e281",
+			"8548bc03-be81-4640-8bfe-7b468174b346",
+			"7485a0ba-64ac-4cce-9a39-8ab9352b404e",
+			"a4e72d02-6618-4e23-ae23-dc960bfb8530",
+			"b3b3f57f-dfbc-4c20-b562-bb6530833fdd"
+		],
+		"title": "Kijken en luisteren naar tv, film en video",
+		"id": "237545d1-b66f-4fe7-9b45-b3bb7f127563",
+		"replacedBy": [
+			"a903a7d3-e335-4aff-badd-733d5873da98"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"c37b1110-a468-488a-943c-f6f0554aac50",
+			"190087ac-5f8d-4953-aaeb-022a81ab10b9",
+			"23d7dc02-b7c5-4060-8c3b-aaa46f3460f3",
+			"5d1c2a79-873c-4dc9-a392-07a1ebeb089d",
+			"92e22e90-3f28-4726-bec2-7e892b2ac6ba",
+			"b2586e16-ed38-49d2-93e5-f80d354464c5",
+			"1b60bf77-34ad-40f2-b51c-b8bf0b7381c8",
+			"1b71e258-9eb7-4f4c-8cae-f4726a20930b",
+			"ee786f73-5130-4784-bdcb-72294255f80c",
+			"60965140-c9c4-4114-807b-30d47ea678ff",
+			"3d76d1d0-a90e-4b2b-990c-9cf72c31104a",
+			"d97a612e-0050-48ec-b902-4fbe042a8350"
+		],
+		"title": "Een gesprekspartner begrijpen",
+		"id": "c2fc92d9-59b8-4728-91db-7739b36f99c8",
+		"replacedBy": [
+			"42e321ef-5254-478f-a219-3e513a967926"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"b501877c-4568-41d0-ba38-a0b157eb2bca",
+			"1079fff3-bc59-45e7-92e1-389d887ab13e",
+			"9005d56b-83e9-4094-bcd2-78c15e729d7a",
+			"152d3735-df96-457c-95f7-f2e3b6019144",
+			"7dd28099-86e6-4e9e-8c45-aae139116be3",
+			"18675bae-2b51-418a-a1c1-bcf4e6499e8d",
+			"7eb6af66-16ac-4975-bc51-a88d8e068bbf",
+			"25a92aee-9d4e-4bec-8783-fae1b5a932d7",
+			"972b6bfd-8c46-416c-97ad-d01a2e27ffe1",
+			"7881ba68-0c36-4c4f-8fca-9020e262451e",
+			"653c400c-00d3-4892-9e6c-68916319dfb2",
+			"9728ba70-aea0-4dd7-97ca-85ec02770aba",
+			"0a9fddc3-8e4b-45f9-bd1a-a064eea95d6a",
+			"a46983dc-7b59-430b-a12e-768784351d4e",
+			"b6c9d2d5-0b01-48fe-b3ae-f6123fd010f0",
+			"2fd935d0-1492-432a-b31d-d54341d14ac9",
+			"39c10a16-3ab2-4ac2-ad4e-98c2cdfc3266",
+			"7d2ff702-7b3f-40d4-88fe-60b24d170ac0",
+			"8e4b43e3-d595-4545-ad29-b8502023da85",
+			"b7f9a435-f699-4223-b650-2b0dda25f0c3",
+			"5cfad0e0-7849-419f-ad7c-7f297802068a",
+			"34e16c39-c179-4d53-9227-e6a32374dce1",
+			"d59dac41-f724-48f8-81ba-2fb94e5b14e6"
+		],
+		"title": "Conversatie",
+		"id": "dc9b22ba-50af-4f34-8cc1-342824b3188e",
+		"replacedBy": [
+			"84c0e01a-b06d-4ae0-abc8-9f0e19bed1d1"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"d0e29fd6-a2a1-4fdb-bdad-9a93d1e89420",
+			"27f1c720-1c7f-478e-a4e9-883cfcd29ecc",
+			"d3646046-7ee2-4dcf-ab90-25bc070a2970",
+			"365b76d9-7b4f-4f13-be3c-689514646e8c",
+			"6959084a-ec20-47fb-9d66-d29f90b0bd2c",
+			"1f780765-d9a1-40f0-8260-89d438a302b8",
+			"23d67b7d-d490-4daf-9644-5199605d2a86",
+			"9196e2ea-3297-4366-b838-1fb0ce27ca31",
+			"feb38eec-8ab0-4cb7-a159-33eb30ed3ac4",
+			"753800dc-ed6f-4ad8-a994-8a103c14b0d6",
+			"d7c346bb-85e2-4250-9782-6ac08ea5b657",
+			"8aa3f957-be8d-4097-b1e9-7958934ed186",
+			"18af88c1-259b-4be4-96d4-bf2e83b2788b",
+			"61b7d8dc-cbd1-4d6b-8d75-2451d4ee4150",
+			"ecd3d300-9d32-4b18-842a-c45a7c27dbfc",
+			"b2c945fe-07a0-42f9-aa99-13f276e77fb0",
+			"892d8ed7-09b5-41bb-b82e-e45099333e27",
+			"39592240-955b-4a71-a92f-ea85b422fcae",
+			"1771b512-3d02-4212-86fe-f123f78d88fb"
+		],
+		"title": "Informele discussie",
+		"id": "734d5846-fb5e-4909-9b98-fc626f1b37dc",
+		"replacedBy": [
+			"2248310b-a8f4-43e2-9134-0bfe57eb3ea2"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"0a3dc9f7-b25f-4de3-a4b8-e6265ae6abe8",
+			"837e898f-853a-4f25-bc61-5c34f0ebbae9",
+			"b870e481-be5c-4037-be0d-8d49fbcb2e83",
+			"c6fa1afe-cae8-4bde-9983-a18c257f09c0",
+			"b3538e46-8808-4711-8e6c-7b10ecffe9f7",
+			"273cf468-9964-4b25-9a45-2aa0a8079e51",
+			"2b95d156-eba8-407b-b5b4-93370f00ac4b",
+			"280927b8-8c42-4638-93c6-f5a93291a208",
+			"58db4a54-e1ae-45df-9732-62e0d3082456",
+			"21658526-f05c-4608-9b1c-b763b6d73eb0",
+			"a6068ec6-25e3-42b1-9124-967f0e1b4a49",
+			"0e492794-fac5-4fff-82ac-7e6a3115fd0d",
+			"cbe35a5d-648a-46b5-84ad-a94a1a312572",
+			"3d7e1626-b3f0-430d-97d5-36a0846dab6f",
+			"ebb3423a-ed35-41a3-b420-4d83ddbfdace",
+			"057a1b4f-b199-4659-9e0b-12992328f4d1",
+			"ab786297-5985-4ceb-bb5e-640113ba6be3",
+			"d4de0a88-20c0-457b-b098-37cbc0453950"
+		],
+		"title": "Formele discussie",
+		"id": "ea558d3d-9f2c-4a89-9672-63bff61bc8cd",
+		"replacedBy": [
+			"9ad3c66b-c24f-4550-a395-9e6ab092ae74"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"4628a4a3-6bd2-4aa9-87e4-7b09a552c4f2",
+			"d47ef991-b241-40ba-9128-550343453017",
+			"f134bca5-bb36-46ef-988c-c6060d5a49ef",
+			"d5599dee-64d5-4890-8ba8-207be036149b",
+			"63872ad7-e176-4279-8607-822d6c847b62",
+			"a8852c4d-04d3-4e0c-a624-2b52fb01bfa3",
+			"0af24d12-6083-416b-871a-043a98a4851d",
+			"f6848031-a4e5-450c-8060-483d39296ead",
+			"e02f2860-93a7-4c04-bd0b-5d9a733820a7",
+			"ca467d58-07d9-437c-aeee-e73308f354cb",
+			"b6361938-a6ae-437c-9d67-55ca2e640e28",
+			"6eef7689-99ea-4c53-bd60-08a4b04ae0af",
+			"28f1889f-c5fa-4552-938c-8fc4faca72eb"
+		],
+		"title": "Doelgerichte samenwerking",
+		"id": "f54ad8e1-973e-45fa-88c5-93bff5fe4d3f",
+		"replacedBy": [
+			"5799b433-cf4a-446a-87d0-758dc5396f3c"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"ffc6dda8-a46c-44d2-a16d-d2aae62e290b",
+			"4e318106-29d1-4199-ab9d-542a48c63f97",
+			"04ad473b-081b-4e44-a862-a34b04f21c0d",
+			"0b063143-4588-476c-bd2f-3191492a35d9",
+			"3c514bb6-e475-41ab-91a7-5e95259352ac",
+			"a359a18d-64e6-4678-908c-08fd9d95244b",
+			"74744afb-ed5a-4a27-8597-fe5e8f325b3e",
+			"deb0ec9c-3f6f-4560-ae2d-a62b17a774c0",
+			"651e7df7-3b37-4b9d-ad38-f43c69a75c15",
+			"7036850c-fdd1-4698-9cdc-c8da40b4af62",
+			"20d4b2b5-38fa-4e44-bb46-84ace17eef98",
+			"231b1a55-4583-423d-8a4e-132d1aa2661d",
+			"19a833b1-031c-4eed-b5cd-4ee60ddd068d",
+			"e6fc51ef-ed27-4074-beb7-fe2426c84343",
+			"05c101e5-d091-414e-9d2c-bde5b0c9b773",
+			"f6d224ed-989e-4dd2-abf1-28ea2497a4aa",
+			"df2ab55a-584a-4a89-a102-42e3e526e018",
+			"22660ff7-7004-436c-b7c7-0060e604ff7f",
+			"53f95fb6-e080-4eb9-9491-ec85191cde30",
+			"9ca79239-434c-4d79-a731-a2f3ce714e6d",
+			"0284fac4-7416-43a3-80da-a4471c5def6a",
+			"222971a0-5893-419a-9f83-f4f5c4aaa10d",
+			"56974c81-2de7-4810-a5b3-8643598179ff",
+			"0c81d37c-aeea-45ef-97bc-cdd8e4fe5b45",
+			"25f12553-d02f-45b1-9871-916e67e5996c",
+			"798fe14e-da3f-4dd3-8b41-3b78d60470c0",
+			"93de4a8f-891e-4434-b4ba-4fc1d0443d9d",
+			"a6a02567-9e44-4608-b4eb-4995a27a3dcc",
+			"46c6027a-a026-45e6-a787-fc6f01b52e09"
+		],
+		"title": "Zaken regelen",
+		"id": "6615ae9c-e940-4203-816a-1affa8c50028",
+		"replacedBy": [
+			"46da4dbb-119f-4e60-b123-f8489eb6a973"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"1681a46e-a40b-47ff-88b8-c3b5b9d90e96",
+			"9092db6b-465c-44de-8509-fa17466464ea",
+			"31aa5ee5-4c44-4829-b461-0d16cd6f96d9",
+			"b1b82297-6d23-49f8-b017-5ab7776f81f4",
+			"7c366196-9458-4f54-a1cb-4f12c7f37ca5",
+			"b17d6c61-af85-4c09-9b4b-4a8595ce25c6",
+			"3c2e155d-3e0d-4d04-a6a7-33ca11bcd7c6",
+			"d9a0c7d0-efea-4ed2-a602-265192d491ca",
+			"4aee360d-9a6d-4761-9133-42e46623b536",
+			"af9ff6b8-eef9-4d28-b35a-53c9ec811817",
+			"dcfd637c-04fc-43c8-8994-b9d0b32117c1",
+			"38876d16-fafb-4550-bd0f-1fd8098f680c",
+			"ff7397f2-c640-49e0-918d-92bac15ab93a"
+		],
+		"title": "Interviewen en geïnterviewd worden",
+		"id": "4c95ffe3-c80f-408c-93e9-25a6d33cd643",
+		"replacedBy": [
+			"ea517e75-3591-41c7-9cd9-f3aa6eec3493"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"841e6ae9-62d1-407c-85be-70b74f3239ec",
+			"76213ae0-4c29-4baa-b432-69100d7480bc",
+			"a88bfa78-dd04-44aa-a83c-49a693445e45",
+			"37b99b23-a6c8-4ded-9455-be0428e8e0fd",
+			"8cab275e-a5c0-4300-a80e-284ad95fdba6",
+			"6dda07da-0bb2-4479-b76f-9758e2bdc4d0",
+			"6465373a-bfbe-45b5-90d0-68a787dea751",
+			"a855210c-52ae-4ad0-ad26-f1cacb7f70ff",
+			"9186bb05-9a68-498b-99b2-c2a2732ba290",
+			"9274647b-1a32-40e6-a4fe-d5afe90ae03d",
+			"df0eabfd-851f-4a02-bd11-fc41b6fb7e98",
+			"35797f43-39ef-4947-a705-3d97ece1d226"
+		],
+		"title": "Gebruik van telecommunicatie",
+		"id": "f95a83cd-5069-4077-8f77-a87d9b038b24",
+		"replacedBy": [
+			"dd1a4f52-d2c2-40a0-a049-3a6091f2b0cc"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"d6d77cc5-80a3-4366-9842-c38fcbb35bcb",
+			"007322df-7d79-4eaa-956b-1eff00b0b155",
+			"bfbe3bf5-a5e0-49f2-868e-236463ec83a7",
+			"634f3bba-748e-4893-afe5-3efe4d52344b",
+			"edcd0775-cd98-4c37-9d18-864cdb7e5116",
+			"2558a315-e490-495a-8068-7a4fcc86ad73",
+			"61e95db6-d4a9-4954-9d66-78ac0454e9fa",
+			"9a808595-9b41-4102-b253-cc6e1d0742e2",
+			"4e8cd9ab-ce8e-492e-994c-a3c99f83cc28",
+			"b2ae8e68-857c-4fdc-9a0a-5bd918c48d09",
+			"b513b863-7c77-4b45-9d1b-49e8d6e15846",
+			"78922b92-aba3-4701-b00c-928bf98da076",
+			"fdaef983-86f8-43b6-a123-2ec5d1d2b31b",
+			"8ed69c62-4233-4e84-ae79-6b51c867d531",
+			"f857c79c-ca55-4648-be72-bf8bd1e9142b",
+			"c1410290-6f14-43ce-a712-eb0d600efef3",
+			"351fbc64-cfb7-4170-abb1-bce11dccc59f",
+			"7132e29c-6302-4904-971d-845308c87453",
+			"cb2d18e5-2dcc-40a0-8a9c-9220ee1b5e77",
+			"a1cc7907-c92a-4214-9d6d-7f9dd0ecafe1",
+			"31485864-a037-4255-bb9b-36cc6fb40eae",
+			"a9c8ff36-86e7-485b-8c2e-6c0b03006d51",
+			"5303d3f3-321f-413b-aecb-3d1f1afcdf29",
+			"a5690ae4-d69a-45a6-9ec4-9e2df6511470",
+			"2dd115cb-aa9d-416e-93c4-a2ac71cc5ffa",
+			"bf3c2209-78b9-494f-a9cc-cb52eab39de8",
+			"48d19ee8-16b3-4d62-989e-9da63c6eb3da"
+		],
+		"title": "Correspondentie",
+		"id": "cee09d1a-168e-4c74-8712-884db522b163",
+		"replacedBy": [
+			"cf9b8ada-1bda-4ebf-a82d-8334fb8f309e"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"7f42c98f-02e0-447a-a70e-c1c6a53ca3ee",
+			"36696bb3-9ec3-4e92-8f48-6566234f2865",
+			"a1fbf322-cdbe-480e-9022-8244d3fc7f23",
+			"7b5b22da-47af-435a-b61b-8c7b9870736d",
+			"5822997e-750e-412f-bc99-9e8f7c879b1e",
+			"df0e7855-d5f2-4ae0-bd12-718b4e059acc",
+			"b8ae978d-660d-4bf7-8ec2-4c3d3f3032d5",
+			"519182a3-8bb6-4600-88ef-8407abd970d2",
+			"9af458f9-b800-4078-b6c9-2d5ab9d0d27e",
+			"20bfabb4-aaa3-411f-ab7e-649e86912642",
+			"84e15228-9d29-4d21-a1be-c8797a0a9165",
+			"4b73feb9-daeb-4331-812c-5da874657d23",
+			"efa5b5ce-fa10-484a-b4b9-f43e3433e3ee",
+			"c9f6a8b4-397f-42c6-8309-dcd3ffabb4ea",
+			"76496082-7acf-44d5-b96a-7a4baff026c9",
+			"46ba45a1-ee8e-441f-a08c-7c8e2fcc8186",
+			"6698b73b-bbd4-4ee0-a863-350faa2baa7d"
+		],
+		"title": "Notities, berichten en formulieren",
+		"id": "a26a7f2d-328b-456e-8f36-6444bdf118f4",
+		"replacedBy": [
+			"7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"74fd1d13-524e-4bc1-8015-ed5267ee81a0",
+			"2c125fe4-eb17-46b1-9f29-fcba6444d839",
+			"6b94c2b6-31a9-4f17-a0a2-48918a91e5e5",
+			"78f847e7-55d1-48a8-b3a3-9e963bc535a3",
+			"175c423e-f032-46e5-b49f-3141e706d1d7",
+			"84f2cfd4-c5a4-4b61-abb3-bb606bf0e134",
+			"2cf731c2-427c-44d7-8bf8-7a70f4a3ec5d",
+			"b02ccc75-7919-4694-b8b1-565d41d54669",
+			"d343b4dd-fa17-4b49-9315-ae1d44830ef6"
+		],
+		"title": "Kan dingen opzoeken in of kiezen uit een lijst.",
+		"id": "9e05c4ee-0fcb-4d05-b357-fb525923d8fb",
+		"replacedBy": [
+			"ae4a03c1-746e-4194-81a3-db71e9b2f966"
+		],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"title": "Geen descriptoren beschikbaar.",
+		"isempty": true,
+		"id": "c1778a80-b307-4f02-9824-f08e215a049c",
+		"replacedBy": [
+			"e8f7cec7-2cb9-43e0-9e25-1d72b37fe948"
+		],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"erk_voorbeeld_id": [
+			"96cfd07e-d596-4644-92e2-2253b060d04f",
+			"e87ba1e8-86b9-4264-8f56-308b16b70b64"
+		],
+		"title": "Kan de hoofdpunten verstaan van nieuwsberichten op de radio en van eenvoudiger opgenomen materiaal over vertrouwde onderwerpen dat betrekkelijk langzaam en helder wordt uitgesproken.",
+		"id": "af6eac1f-181f-4e79-86f5-04e5981f9350",
+		"replacedBy": [
+			"aae69d73-554b-4a21-80fc-a7dd119ca2b9"
+		],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"title": "Kan spontaan afwijken van een voorbereide tekst en ingaan op belangwekkende punten die vanuit het publiek worden aangedragen, en drukt zich daarbij vaak opmerkelijk vloeiend en gemakkelijk uit.",
+		"id": "aaf28e91-7212-49d3-a6ea-a05145841ca0",
+		"replacedBy": [
+			"59f43c28-82f1-4111-9779-9b87c345fd66"
+		],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"title": "Taalcompetenties",
+		"id": "a1b9682f-9c16-4b04-b5e0-4411c3c92ff4",
+		"erk_categorie_id": [
+			"af6bb85e-635e-4da2-aa7e-f5e9a8928b1f",
+			"f88ebd19-f337-45e0-bedc-6aa6f5fb3ebc",
+			"96d01289-97ec-4024-89f5-4f49c3937e8c"
+		],
+		"replacedBy": [
+			"0d32bd37-b03d-4180-9bc4-7d825e593ffe"
+		],
+		"types": [
+			"erk_gebied"
+		]
+	},
+	{
+		"title": "Receptief",
+		"id": "ceb938f3-f704-47eb-8f43-ba9c867024f5",
+		"prefix": "",
+		"description": "",
+		"erk_taalactiviteit_id": [
+			"68201111-0883-4307-9811-dde3e373633f",
+			"f46c1c83-1d83-442a-8a59-ac4c8b61c7a3",
+			"68303ea2-5938-4975-823c-bcd67950e59f"
+		],
+		"replacedBy": [
+			"3a61dd77-be62-4d61-971e-df99402aa69d"
+		],
+		"types": [
+			"erk_categorie"
+		]
+	},
+	{
+		"erk_taalactiviteit_id": [
+			"23a3939b-0b8b-4570-9f63-8f64ad81fac2",
+			"889fcb75-63d9-4ee2-a32d-9b06d695170f",
+			"05a808e1-1b89-4011-a967-bd2484b58df7",
+			"faa17847-ec74-4f9f-8b0f-791d1211a20b"
+		],
+		"title": "Interactie",
+		"id": "9b4030c8-47f7-41f3-bf94-fe64f2e1916e",
+		"replacedBy": [
+			"ab4f195f-a85b-4b1c-9802-970d1d303d32"
+		],
+		"types": [
+			"erk_categorie"
+		]
+	},
+	{
+		"erk_taalactiviteit_id": [
+			"ee5030de-1459-4e55-83a1-044ae0b8d06f",
+			"debbe411-e0f9-416e-9a75-dcd2af41556b",
+			"64f88ea3-3b84-4819-ab5f-696f672ea945",
+			"62971353-3ec4-45a8-b41a-f48167b4e61a",
+			"f07812b1-8bab-4d0c-9009-36151c784a17",
+			"fd1f1e06-1486-4764-a443-c2f09b2683d9"
+		],
+		"title": "Mediation",
+		"id": "ba228579-63ef-40ac-ba04-a5a80accdc01",
+		"replacedBy": [
+			"048b0f45-ab63-4d82-9dc0-6301de707379"
+		],
+		"types": [
+			"erk_categorie"
+		]
+	},
+	{
+		"erk_schaal_id": [
+			"efe99201-fc12-4060-9c21-8e8f643dc45d",
+			"0e4d2901-3363-4db7-a767-ed0505565eb0",
+			"0c5eb3d2-7c6d-4878-95e7-2e20087c675c",
+			"eae8fbf3-1d39-41c2-a47a-4e6392b486e8",
+			"cdcfe652-82d9-4b8e-a52d-062e8d258566",
+			"20206dda-ab8f-470a-a06d-e56090634228",
+			"4f96f0c1-3ec2-4a3f-95a2-57d4fa4d0d16",
+			"4f30b1d8-0a71-403d-932d-5d4c1704d87a"
+		],
+		"title": "Linguïstisch",
+		"id": "af6bb85e-635e-4da2-aa7e-f5e9a8928b1f",
+		"replacedBy": [
+			"7fa1edc7-5ab2-45db-a68c-60dd25e489ca"
+		],
+		"types": [
+			"erk_categorie"
+		]
+	},
+	{
+		"erk_schaal_id": [
+			"404c023a-b8c1-405a-8b09-a3e565a5650d"
+		],
+		"title": "Sociolinguïstisch",
+		"id": "f88ebd19-f337-45e0-bedc-6aa6f5fb3ebc",
+		"replacedBy": [
+			"1c45d329-3404-4d0b-9cf0-378a58719cd6"
+		],
+		"types": [
+			"erk_categorie"
+		]
+	},
+	{
+		"erk_schaal_id": [
+			"115a7f2d-9b5d-4f8f-addc-d4d4c382243a"
+		],
+		"title": "Mediation - algemeen",
+		"id": "ee5030de-1459-4e55-83a1-044ae0b8d06f",
+		"replacedBy": [
+			"327b8d3b-604a-49b7-a3b3-892d0830218f"
+		],
+		"types": [
+			"erk_taalactiviteit"
+		]
+	},
+	{
+		"erk_schaal_id": [
+			"e4386ae9-5148-46db-a9e3-fba6ab3d08a8",
+			"8071a4c5-bbf1-4f88-a55f-4f9f7f91f2a8",
+			"b350bcbb-483f-4e23-8a62-a9ddf3b82a87"
+		],
+		"title": "Mediation van communicatie",
+		"id": "62971353-3ec4-45a8-b41a-f48167b4e61a",
+		"replacedBy": [
+			"f79460fd-a90d-40ad-9950-e07d896d04f2"
+		],
+		"types": [
+			"erk_taalactiviteit"
+		]
+	},
+	{
+		"erk_schaal_id": [
+			"5a301d2f-8c3d-47fe-a632-07c2f22f26c5",
+			"025616e1-cb16-4faf-875d-dfad8b846847",
+			"e39d1e09-4773-454f-84f7-b6c45a191926",
+			"f86eb171-d684-4e6d-b403-f4e6dd343ae5"
+		],
+		"title": "Mediation van concepten",
+		"id": "f07812b1-8bab-4d0c-9009-36151c784a17",
+		"replacedBy": [
+			"3eee4dab-75e9-42f6-9719-32a38aef17dc"
+		],
+		"types": [
+			"erk_taalactiviteit"
+		]
+	},
+	{
+		"title": "Lezen",
+		"id": "68201111-0883-4307-9811-dde3e373633f",
+		"prefix": "",
+		"description": "",
+		"erk_schaal_id": [
+			"34c9a621-408a-4ed3-a74c-73138b8fb165",
+			"b6252d39-570d-4a94-8406-24cf24166049",
+			"cc8a1f60-efcc-4cec-8229-932dbe29e51c",
+			"f84f75e7-1ba0-4694-b9cf-8bafe075d3cb",
+			"4ad54d56-d668-4a0b-80f5-3b9d76dd322d",
+			"422129cb-4739-49bc-a174-64275fe10134"
+		],
+		"replacedBy": [
+			"f988a967-98bf-4121-94cb-fed287afc1cd"
+		],
+		"types": [
+			"erk_taalactiviteit"
+		]
+	},
+	{
+		"erk_schaal_id": [
+			"07a24446-88b0-4597-a06f-c8419429781c",
+			"df863aea-cbd5-4bcb-92f0-6c68bbb3f47e",
+			"194edda5-0ddd-483f-ad19-8d0ca77cef60"
+		],
+		"title": "Schrijven",
+		"id": "ce159d61-5ff5-449b-87cf-fc39765dfe95",
+		"replacedBy": [
+			"33031416-48fb-49a1-aafa-b07467f0f245"
+		],
+		"types": [
+			"erk_taalactiviteit"
+		]
+	},
+	{
+		"erk_schaal_id": [
+			"4d3158af-be89-467f-8009-64703e7e2f10",
+			"cee09d1a-168e-4c74-8712-884db522b163",
+			"a26a7f2d-328b-456e-8f36-6444bdf118f4"
+		],
+		"title": "Schriftelijke interactie",
+		"id": "889fcb75-63d9-4ee2-a32d-9b06d695170f",
+		"replacedBy": [
+			"51b9fb3a-e63d-4e5d-9d24-e2996e9de40b"
+		],
+		"types": [
+			"erk_taalactiviteit"
+		]
+	},
+	{
+		"erk_candobeschrijving_id": [
+			"20fedfab-eb10-4464-a149-fc3ffa904d26",
+			"9f3158d6-cf89-4a17-9f56-0aee01292079",
+			"a3746a59-d34e-4063-b316-b463a95e5554",
+			"bff06568-eaee-4549-9a3d-3d8c16f63ece",
+			"0e2cbf50-4956-44f3-97c4-34887db1eec5",
+			"4d8968eb-4768-460d-9ec1-1c69f8883918",
+			"d8e8536a-0e97-46f1-91a8-6fb3a8c0af16",
+			"e4819c57-b3a4-4c18-bd5e-c711b8e713d5",
+			"001dc9a3-2aa1-48bb-a9d8-5f4c769b5e4c",
+			"302c5b9a-64f4-4895-9e42-a900ba537448",
+			"4f7b2fef-03ed-4226-835b-1048282bd6fa",
+			"64b2f980-90fd-47b2-8e04-de3552e8b3ae",
+			"aaf28e91-7212-49d3-a6ea-a05145841ca0",
+			"8f354a36-0c99-4610-ba8c-253b1bc3d7a6",
+			"9013a860-6f49-4245-9c61-bceb0d8c72a8",
+			"d210c32a-f573-4f78-818d-70d2aa2030ff",
+			"377ea636-326d-4850-bcf2-385848ccf42c",
+			"844eb136-6083-48aa-aebd-bf0bfe82ddde",
+			"de9b2f12-78ae-4192-9c3e-afaecf6b9ddb",
+			"893b3c11-bba3-4c3e-b31f-8fb695c77542"
+		],
+		"title": "Een publiek toespreken",
+		"id": "6af43835-e5e6-464b-bfd6-4901e06b9bba",
+		"replacedBy": [
+			"09a907d3-e6ed-459b-802d-f10db60fe6d7"
+		],
+		"types": [
+			"erk_schaal"
+		]
+	},
+	{
+		"title": "Taalactiviteiten",
+		"id": "5b8735d8-16d9-45bd-b806-32c6fa936aa0",
+		"prefix": "",
+		"description": "",
+		"erk_categorie_id": [
+			"9b4030c8-47f7-41f3-bf94-fe64f2e1916e",
+			"69c2a979-f6e6-45d1-b147-08702d6887b7",
+			"ceb938f3-f704-47eb-8f43-ba9c867024f5",
+			"ba228579-63ef-40ac-ba04-a5a80accdc01"
+		],
+		"replacedBy": [
+			"f4861407-d923-4c72-a47f-c9c6c2331c98"
+		],
+		"types": [
+			"erk_gebied"
+		]
+	},
+	{
+		"erk_taalactiviteit_id": [
+			"49524ae3-0d53-4bd2-bd96-b26f2814f2a9",
+			"ce159d61-5ff5-449b-87cf-fc39765dfe95",
+			"882df096-63b5-4d04-8cb9-9f345c66851e"
+		],
+		"title": "Productief",
+		"id": "69c2a979-f6e6-45d1-b147-08702d6887b7",
+		"replacedBy": [
+			"9c04c2ee-e5dc-45a9-b869-b16731daedcf"
+		],
+		"types": [
+			"erk_categorie"
+		]
+	},
+	{
+		"erk_schaal_id": [
+			"f7c487bd-c63a-4877-8f0f-560d3a283267",
+			"9e9f5b26-13da-410f-886a-1e2dbb05b2ff",
+			"cdc8a132-9af3-4cc7-9be2-11b8f8f16c83",
+			"d8b05f01-6979-4c4e-8be1-c1cae7e065f7",
+			"9231a11a-ffc4-49d0-a03f-b63a879f1329",
+			"6af43835-e5e6-464b-bfd6-4901e06b9bba"
+		],
+		"title": "Spreken",
+		"id": "49524ae3-0d53-4bd2-bd96-b26f2814f2a9",
+		"replacedBy": [
+			"2d06d563-d66a-445a-ba39-ee74866e49a8"
+		],
+		"types": [
+			"erk_taalactiviteit"
+		]
+	}
+]

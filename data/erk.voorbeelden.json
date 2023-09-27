@@ -296,36 +296,6 @@
 		"id": "9e800ef2-a906-481c-ac98-a0b8036eb9a5"
 	},
 	{
-		"title": "Via een zoekmachine zoals Google een duikschool of scooterverhuurbedrijf (DL).",
-		"id": "00c26ce4-a34d-4b4b-bce1-4e51538e9e33",
-		"deleted": 1
-	},
-	{
-		"title": "Een taalcursus in een brochure of op een website (OPL).",
-		"id": "0e2b80e5-318b-4e4e-843e-7ce969f21b93",
-		"deleted": 1
-	},
-	{
-		"title": "Gerechten op een eenvoudige menukaart (DL).",
-		"id": "052e8a78-2549-4f79-be48-ae5e840584e5",
-		"deleted": 1
-	},
-	{
-		"title": "De benodigde bus-, tram-, metro- of treinverbinding in het busboekje, een (electronisch) informatiebord of op een app (DL).",
-		"id": "21cde22b-4a1b-4b6b-93b9-2be940e72722",
-		"deleted": 1
-	},
-	{
-		"title": "Een programma in een tv-gids of een film in een (online) weekagenda of een download-programma (DL, PU).",
-		"id": "172bb940-9ece-412d-8082-3e4da266b531",
-		"deleted": 1
-	},
-	{
-		"title": "Opdrachtbonnen of bestelformulieren in verband met een bestelling (WE).",
-		"id": "f7975687-fcae-44c8-bb38-5b12843ba118",
-		"deleted": 1
-	},
-	{
 		"title": "Aanwijzingen op een strand al: zwemmen toegestaan als de groene vlag gehesen is (PU).",
 		"id": "e2325368-a04a-45b3-92a6-12d23b92b87c"
 	},
@@ -486,31 +456,6 @@
 		"id": "89ee25fe-69d2-4146-85c7-853ae0e8df8b"
 	},
 	{
-		"title": "Bij een fotobijschrift in een populair tijdschrift de leeftijd, woonplaats en het aantal kinderen van de geportretteerde ster (DL).",
-		"id": "938dfe2f-26eb-41bc-8336-43d2cc094088",
-		"deleted": 1
-	},
-	{
-		"title": "Een beschrijving van een camping of pretpark (DL).",
-		"id": "f6b23e21-6419-4c1b-9748-ae71fe82b415",
-		"deleted": 1
-	},
-	{
-		"title": "Een eenvoudige biografie van een artiest of filmacteur (DL).",
-		"id": "2528d576-c4d5-4781-b3ea-13ce18463243",
-		"deleted": 1
-	},
-	{
-		"title": "Persoonlijke gegevens van personen op een sociaal netwerk (DL).",
-		"id": "986a12c1-8056-49c2-afc3-d8b4a01feda6",
-		"deleted": 1
-	},
-	{
-		"title": "De beschrijvingen van vakantiewoningen in verschillende toeristische gebieden (DL).",
-		"id": "e3c6c063-6b72-4af0-9a6f-4c5e267fb33d",
-		"deleted": 1
-	},
-	{
 		"title": "Een persoonlijk profiel op sociale media, bijvoorbeeld Facebook (DL, OPL).",
 		"id": "c254c1af-4924-4d24-a98c-50dfb4d16f21"
 	},
@@ -545,16 +490,6 @@
 	{
 		"title": "Korte artikeltjes over actuele onderwerpen, zoals sport, dorpsfeesten, politieberichten, in een plaatselijke krant (DL).",
 		"id": "fd19de6d-6a17-4073-904c-2556217349b5"
-	},
-	{
-		"title": "Beknopte teksten op dia's van een PowerPointpresentatie over een vertrouwd onderwerp, zoals een spreekbeurt over een huisdier (OPL).",
-		"id": "07c6b295-5743-4707-8e8b-a255de3daebd",
-		"deleted": 1
-	},
-	{
-		"title": "Nieuwsberichten van online kinderzenders waarbij tekst en audio tegelijk aangeboden worden (DL).",
-		"id": "4b80aecd-4362-4251-8e8b-3a1b77942e71",
-		"deleted": 1
 	},
 	{
 		"title": "Een artikel in een populaire en/of regionale krant over actualiteit, hobby of sport (DL).",
@@ -1113,132 +1048,12 @@
 		"id": "0dfe434b-b42a-440c-8bd3-dac2550c62e4"
 	},
 	{
-		"title": "In een omgeroepen bericht op een station je eigen naam herkennen (PU).",
-		"id": "fe6e42e3-22d1-4232-9e25-aa7ed130f024",
-		"deleted": 1
-	},
-	{
-		"title": "De instructies begrijpen van een talencursus op computer of video: luister eerst, zeg dan na (OPL).",
-		"id": "a804710e-b051-48f2-baf9-8001639d9c42",
-		"deleted": 1
-	},
-	{
-		"title": "Op tv en radio sportuitslagen van bekende clubs/bekende sporters begrijpen (DL).",
-		"id": "7349e2fa-acc5-476e-97de-56bfd46e34bb",
-		"deleted": 1
-	},
-	{
-		"title": "Uit een mededeling van een buitenlandse kennis over een concert opmaken om welke groep het gaat, wanneer het concert is, wat het kost (DL).",
-		"id": "019dc584-896e-467b-9771-5c5459a0c803",
-		"deleted": 1
-	},
-	{
-		"title": "In een omgeroepen bericht prijzen van producten begrijpen (DL).",
-		"id": "f58a4f2d-a3ed-45ff-9748-9d9971b6095e",
-		"deleted": 1
-	},
-	{
-		"title": "In een reportage op de radio tijden in hele uren, dagen van de week en maanden verstaan (DL).",
-		"id": "d1435e2f-9e3b-48be-a6e1-37023cba50a2",
-		"deleted": 1
-	},
-	{
-		"title": "Uitingen als pas op, dat is heet, niet doen, dat is gevaarlijk (DL).",
-		"id": "7e301080-1e4e-4783-9e4c-614c4546beed",
-		"deleted": 1
-	},
-	{
 		"title": "De vertrektijden op een station (PU).",
 		"id": "4d73b8f1-452c-4d14-a630-e3f6ae06c39f"
 	},
 	{
 		"title": "De aanbiedingen via een omroep in het warenhuis (PU).",
 		"id": "60a41f43-c074-49bc-b754-64840f2f58bf"
-	},
-	{
-		"title": "Waar en wanneer elkaar te ontmoeten voor bezoek aan een bioscoop (DL).",
-		"id": "43d5de7f-4a65-4030-9f5c-136068b91ae4",
-		"deleted": 1
-	},
-	{
-		"title": "Data voor het inleveren van (huis)werk (OPL, WE).",
-		"id": "6911a530-d06a-4cbc-9b8a-e3c11dc78bf3",
-		"deleted": 1
-	},
-	{
-		"title": "De belangrijkste veiligheidsvoorschriften bij een bezoek van buitenlandse gasten aan een bedrijf of school (OPL, WE).",
-		"id": "00e13eb2-4e0c-4366-8455-8036d50ce23a",
-		"deleted": 1
-	},
-	{
-		"title": "Waar en wanneer je kunt inschrijven voor een cursus in het buitenland (OPL).",
-		"id": "a13a9a5c-128d-47ef-aa27-c766761fe332",
-		"deleted": 1
-	},
-	{
-		"title": "De bekendmaking van een groepsindeling tijdens een uitwisseling (OPL).",
-		"id": "67f998e7-6cec-43e3-9cb8-840a56d2cec2",
-		"deleted": 1
-	},
-	{
-		"title": "Vragen bij een hotelbalie of campingreceptie (PU).",
-		"id": "561e53e3-74e0-4f1b-a50e-5dca172b245a",
-		"deleted": 1
-	},
-	{
-		"title": "Een standaardbestelling in een café of restaurant (PU).",
-		"id": "fc1f776e-2164-4424-bc0d-afd49e6a0cbf",
-		"deleted": 1
-	},
-	{
-		"title": "Alle tijden (DL, PU).",
-		"id": "1aa0da66-06e6-4fda-ad16-f8ca084c2514",
-		"deleted": 1
-	},
-	{
-		"title": "Waar je treinkaartjes kunt kopen (PU).",
-		"id": "9731342f-2129-41fa-b7c9-fc0ef3cb7c0d",
-		"deleted": 1
-	},
-	{
-		"title": "Waar een volgende activiteit op een campusterrein begint en hoe je daar komt (DL).",
-		"id": "b7516ed8-0ac7-4550-bd66-f9d6ca3ccde3",
-		"deleted": 1
-	},
-	{
-		"title": "Een korte routebeschrijving (DL, PU).",
-		"id": "3eb85a2a-999c-4e85-9a61-7842a7c89894",
-		"deleted": 1
-	},
-	{
-		"title": "Aanwijzingen van verkeerspolitie over omrijden bij een wegstremming (PU).",
-		"id": "b5152c0c-ee80-44ef-891b-6a27a0d0f998",
-		"deleted": 1
-	},
-	{
-		"title": "Instructies van een docent of leidinggevende over het uitvoeren van een oefening of opdracht (OPL, WE).",
-		"id": "c18f285f-5b7e-43ea-9b5c-af98db83628f",
-		"deleted": 1
-	},
-	{
-		"title": "Instructies van een arts over het innemen van medicijnen, het afmaken van een kuur (PU).",
-		"id": "619bfddb-625b-4de5-b171-cce6f0b8127b",
-		"deleted": 1
-	},
-	{
-		"title": "Waar de kantine is en wanneer die open is (OPL, WE).",
-		"id": "b1811e45-4776-4b1d-a6c7-908bb197b54e",
-		"deleted": 1
-	},
-	{
-		"title": "Waar bepaalde dingen liggen of waar een persoon zich bevindt in een huis of een gebouw (DL).",
-		"id": "9a542d88-e090-47b6-8bf7-3ebb0eadbd8a",
-		"deleted": 1
-	},
-	{
-		"title": "Waar je kampeerplaats of hotelkamer zich bevindt (DL).",
-		"id": "d22e9a58-5ab9-4a7f-bcb1-9bb9e0318f36",
-		"deleted": 1
 	},
 	{
 		"title": "Hoe je een fotokopie maakt (DL).",
@@ -1367,16 +1182,6 @@
 	{
 		"title": "De instructies voor een ingewikkeld nieuw proces, zoals het afstellen van een machine of het uitvoeren van een proef (WE, OPL).",
 		"id": "43f9329f-01f2-4468-992f-663b1142015b"
-	},
-	{
-		"title": "Iemand vertelt in een videoboodschap hoe zijn naam luidt, hoe oud hij is, wat hij in zijn vrije tijd doet en waar hij woont (DL).",
-		"id": "296f7e24-95d5-4497-815d-1473bc648cba",
-		"deleted": 1
-	},
-	{
-		"title": "Onderwerpen in een buitenlands jeugdjournaal (DL).",
-		"id": "8b06428c-e260-4f47-924a-e2a29beaf4a8",
-		"deleted": 1
 	},
 	{
 		"title": "Het weerbericht op de radio: kan ik morgen naar het strand? (DL).",
@@ -1591,136 +1396,6 @@
 		"id": "6ab9bdd2-9530-46d6-8c37-dcc20c029d12"
 	},
 	{
-		"title": "Uitdrukkingen die behoren bij begroeting of afscheid (DL).",
-		"id": "02db21bd-dae2-4b4d-bff8-cb8fc22ac2a3",
-		"deleted": 1
-	},
-	{
-		"title": "Uitdrukkingen die behoren bij bedanken (DL).",
-		"id": "b92df3f0-b244-4f0a-a26e-c68b215e1c91",
-		"deleted": 1
-	},
-	{
-		"title": "Uitwisseling van (gespelde) adresgegevens (DL).",
-		"id": "cd9a437c-e145-401d-8b07-62e4016b6579",
-		"deleted": 1
-	},
-	{
-		"title": "Uitdrukkingen die gebruikt worden als iemand zich voorstelt (DL).",
-		"id": "f4d73e67-2579-4a8c-a8e9-823fc525dd51",
-		"deleted": 1
-	},
-	{
-		"title": "Uitdrukkingen om iemand te beschrijven (DL).",
-		"id": "3e944171-e0ba-4a50-b956-107d6ba13698",
-		"deleted": 1
-	},
-	{
-		"title": "Begrijpen wat iets kost, om welke hoeveelheden het gaat (DL).",
-		"id": "d47b1c0f-6871-4323-b98c-d870f4f3d1a9",
-		"deleted": 1
-	},
-	{
-		"title": "Uitingen als deur dicht doen, niet roken, licht uit/aan (DL).",
-		"id": "1e1995bc-bba0-4f5b-82cf-632650f75cb7",
-		"deleted": 1
-	},
-	{
-		"title": "Schoolregels als pet af, jas uit, boeken open/dicht (OPL).",
-		"id": "004c5df0-f584-453d-920a-89a4357b8403",
-		"deleted": 1
-	},
-	{
-		"title": "Op welke bladzijde een oefening opgezocht moet worden (OPL).",
-		"id": "0ee830a0-5bde-478e-9897-66a2a3718efd",
-		"deleted": 1
-	},
-	{
-		"title": "Uitleg over hoe je op een bepaalde plek komt zoals rechtdoor, de trap op, eerste deur links (DL).",
-		"id": "d7c36bb4-4c20-446f-862b-e038a57be285",
-		"deleted": 1
-	},
-	{
-		"title": "Vragen of iets begrepen is, of een vraag of opdracht herhaald moet worden (DL, OPL).",
-		"id": "4ecf661a-1073-4417-a0d9-f2fdb15c87b2",
-		"deleted": 1
-	},
-	{
-		"title": "Een uitnodiging voor een feestje, uitstapje enzovoort (DL).",
-		"id": "6f6a6eff-28bf-4dae-a018-1501127d2626",
-		"deleted": 1
-	},
-	{
-		"title": "De voorkeur of afkeer met betrekking tot sport, muziek, schoolvakken (DL).",
-		"id": "4319d286-d157-4948-8634-b1ad9af1c028",
-		"deleted": 1
-	},
-	{
-		"title": "Een voorstel om gezamenlijk iets te ondernemen (zwemmen, eten, muziekoptreden) (DL).",
-		"id": "391f9319-6c6e-4807-a2f1-938f743e85b2",
-		"deleted": 1
-	},
-	{
-		"title": "Een reactie in antwoord op een verzoek om een inlichting (DL, OPL, PU).",
-		"id": "29a0ed29-9ccb-4d55-977d-6cf722f53633",
-		"deleted": 1
-	},
-	{
-		"title": "Een compliment voor de wijze waarop jij je in de vreemde taal weet te uiten (DL, WE).",
-		"id": "d0cb432c-9cab-4ed1-b00f-7d65567f2b1f",
-		"deleted": 1
-	},
-	{
-		"title": "Een gesprek over wat iemand in het weekend heeft gedaan (DL).",
-		"id": "8cb96fb1-f79f-4482-bb99-c48e10a5c884",
-		"deleted": 1
-	},
-	{
-		"title": "Een gesprek over hoe het met iemand gaat (DL).",
-		"id": "bcfd75d4-8e1f-4697-805e-8043a3fbc705",
-		"deleted": 1
-	},
-	{
-		"title": "Een gesprek over het weer (DL).",
-		"id": "50d4626e-e8cc-471f-8a42-943431929a33",
-		"deleted": 1
-	},
-	{
-		"title": "Een gesprek over wat iemand de volgende dag/week gaat doen (DL).",
-		"id": "79a6dd3b-42a1-46a9-8ae1-d917ed555d48",
-		"deleted": 1
-	},
-	{
-		"title": "Een gesprek over eenvoudige, dagelijkse gewoontes (DL).",
-		"id": "e55907ad-303e-47fd-b3da-9e29d92ecacb",
-		"deleted": 1
-	},
-	{
-		"title": "Vragen over familie, gezinssamenstelling, huis, woonplaats, land (DL).",
-		"id": "e2d0fad5-74f4-4624-bac2-fbcc8ab5fe2d",
-		"deleted": 1
-	},
-	{
-		"title": "Een gesprek over eten en drinken (DL).",
-		"id": "6726cfd2-2fce-46e8-a93e-e10e7b14d0db",
-		"deleted": 1
-	},
-	{
-		"title": "Een gesprek over sport, kleding, vrijetijdsbesteding (DL).",
-		"id": "98976ab5-5f11-4511-b8db-1b782ba2cd7c",
-		"deleted": 1
-	},
-	{
-		"title": "Een gesprek over vrienden, school, zakgeld, bijbaantje (DL).",
-		"id": "63a51cb5-8916-4a8d-9d70-d236c80482df",
-		"deleted": 1
-	},
-	{
-		"title": "Een gesprek over uitgaan, films, muziek, media (DL).",
-		"id": "06b267ea-1296-4f3c-9b2c-2bdb710c7fdf",
-		"deleted": 1
-	},
-	{
 		"title": "Reisplannen voor de volgende vakantie (DL).",
 		"id": "4d884e03-fcc2-4471-a1cb-1382315a44eb"
 	},
@@ -1735,66 +1410,6 @@
 	{
 		"title": "Gesprekken over koetjes en kalfjes (DL).",
 		"id": "2cbc1e21-4a89-4d37-ac98-e0408fe08f30"
-	},
-	{
-		"title": "Tijdens een borrel in een plaatselijk café na afloop van een conferentie (WE).",
-		"id": "4e1f688c-a14b-41a3-9a32-e722762d353a",
-		"deleted": 1
-	},
-	{
-		"title": "Tijdens een rondleiding in een druk bezocht museum (DL).",
-		"id": "35512682-91e6-42f0-b1ea-184a4ccfd01c",
-		"deleted": 1
-	},
-	{
-		"title": "Een gesprek onder uitwisselingsscholieren of -studenten in een drukke pauze (OPL).",
-		"id": "487a9972-8408-472c-b5ee-1b44d3f39381",
-		"deleted": 1
-	},
-	{
-		"title": "Een uitleg tijdens een excursie in een fabriekshal (OPL, WE).",
-		"id": "2b935b50-13b5-4f58-9e8c-6c4791ffd3af",
-		"deleted": 1
-	},
-	{
-		"title": "Een uitvoerig verslag van de open dag op een buitenlandse universiteit die een vriend heeft bezocht (OPL).",
-		"id": "09092339-77fb-40c8-aa64-aba4e42f369e",
-		"deleted": 1
-	},
-	{
-		"title": "Een grap met een ingewikkelde clou of met toespelingen (DL).",
-		"id": "2ab2de2f-363d-462a-bef6-3a5a2f901967",
-		"deleted": 1
-	},
-	{
-		"title": "Een radio-interview met een Nobelprijswinnaar (DL).",
-		"id": "8a543878-2384-490e-a0c6-d5462d21e1de",
-		"deleted": 1
-	},
-	{
-		"title": "De uitleg van een arts over een medische behandeling die hij of zij ondergaan heeft (DL).",
-		"id": "91bdf750-5ad5-4523-8abf-e6f6b9527b89",
-		"deleted": 1
-	},
-	{
-		"title": "Een situatie waarin formeel toegelicht wordt waarom iemands verzoek voor een stageplaats is afgewezen (WE).",
-		"id": "f693aa84-d1e7-47e5-83e5-12804fcdd8c2",
-		"deleted": 1
-	},
-	{
-		"title": "Een discussie naar aanleiding van Europese verkiezingen over de invloed van de media op ons kiesgedrag (OPL, DL).",
-		"id": "e3011d1f-34e8-4855-bf41-06b5bb584abd",
-		"deleted": 1
-	},
-	{
-		"title": "Een verhit gesprek naar aanleiding van een internationale studieavond over duurzame ontwikkeling en mensenrechten (OPL, WE).",
-		"id": "4bc9c9ad-2013-4480-856b-f08fab208a5a",
-		"deleted": 1
-	},
-	{
-		"title": "Een discussie ter gelegenheid van de viering van 1 mei over mensen die de dupe zijn van slechte arbeidsomstandigheden, uitbuiting en onrecht (DL, OPL, WE).",
-		"id": "e28c1da4-b01a-4fa6-9f18-626d61467bfb",
-		"deleted": 1
 	},
 	{
 		"title": "Over je uiterlijk, je leeftijd, je familiesamenstelling (DL).",
@@ -3653,26 +3268,6 @@
 		"id": "f7909113-678d-447e-9521-88c7ad2ad1ef"
 	},
 	{
-		"title": "Een telefonische afspraak maken met de tandarts (PU).",
-		"id": "2dcfc0af-b687-4cd8-bfd6-cc08d80c6bbc",
-		"deleted": 1
-	},
-	{
-		"title": "Met een vriend via bijvoorbeeld Facetime afspreken waar en hoe laat je elkaar treft (DL).",
-		"id": "64a7f006-bf4c-43e5-bd22-01fdbba1c2c5",
-		"deleted": 1
-	},
-	{
-		"title": "Een datum prikken voor een avondje uit (DL).",
-		"id": "7645d983-c14e-4f26-af28-e2b2f162a6ec",
-		"deleted": 1
-	},
-	{
-		"title": "Afspraken maken voor het inhalen van een toets (OPL).",
-		"id": "5f67fef1-ee84-446a-81ee-149b6c9868c7",
-		"deleted": 1
-	},
-	{
 		"title": "Iets te leen vragen (DL).",
 		"id": "09c6e4b2-1218-49f0-a8a7-78961982366a"
 	},
@@ -3781,26 +3376,6 @@
 		"id": "aee51767-41b7-40ff-ad47-3b0e764ad9ca"
 	},
 	{
-		"title": "Bij de plaatselijke VVV een kamer reserveren, om een plattegrondvragen en naar de belangrijkste bezienswaardigheden informeren (PU).",
-		"id": "818eef70-b226-4a34-b447-7ede0d93306c",
-		"deleted": 1
-	},
-	{
-		"title": "Inchecken bij een jeugdherberg of een hotel (PU).",
-		"id": "e794edc1-8bb0-40e8-b2f8-cc5008ae86bc",
-		"deleted": 1
-	},
-	{
-		"title": "Medicijnen afhalen bij de apotheek (PU).",
-		"id": "593b9f40-f73e-4c87-ba64-5cfad6a3d496",
-		"deleted": 1
-	},
-	{
-		"title": "Informeren naar kortingen voor buitenlandse scholieren bij het loket van een museum (PU).",
-		"id": "1093f6e4-6f05-47c5-8337-d3e0f0a63f5d",
-		"deleted": 1
-	},
-	{
 		"title": "In een restaurant aan de ober laten weten dat er iet mis is het het eten, bijvoorbeeld dat het koud is (PU).",
 		"id": "385f40f7-6dcd-4dcc-b310-14627089ca16"
 	},
@@ -3905,41 +3480,6 @@
 		"id": "482dc912-ce00-495d-a2ae-ef3e4fcd54c4"
 	},
 	{
-		"title": "Over groepskorting tijdens een buitenlandse reis (PU).",
-		"id": "cff433fa-6348-4b8e-a23a-ce253f9ff634",
-		"deleted": 1
-	},
-	{
-		"title": "Op een gepaste manier met de docent over een gegeven opdracht (OPL).",
-		"id": "f7f9adea-976d-4215-b6a6-3cc4ff91382e",
-		"deleted": 1
-	},
-	{
-		"title": "Over leveringsvoorwaarden van producten en diensten (WE).",
-		"id": "ea8f131f-3969-46ad-b33c-2fcbd8c6fd0a",
-		"deleted": 1
-	},
-	{
-		"title": "Van een gast in een hotel, over de slechte service (WE).",
-		"id": "667b67b1-3f51-4342-9408-31998d3aa49d",
-		"deleted": 1
-	},
-	{
-		"title": "Van een klant in een winkel, over een slecht werkend apparaat (WE).",
-		"id": "8eaf8dc3-7dd7-46e0-bf92-e05cbd36f6e2",
-		"deleted": 1
-	},
-	{
-		"title": "Van een zakenrelatie, bij het te laat of verkeerd leveren van goederen (WE).",
-		"id": "41f7f41e-b87e-4aa0-a371-2a6ffa6a78b2",
-		"deleted": 1
-	},
-	{
-		"title": "Met een leverancier telefonisch bespreken wat te doen met een partij verkeerd afgeleverde producten (PU, WE).",
-		"id": "cbea91b8-bbff-41d7-9ad7-be824abca970",
-		"deleted": 1
-	},
-	{
 		"title": "De financiële aansprakelijkheid voor schade aan een (vakantie)woning bespreken (PU, WE).",
 		"id": "568b1d13-c1e6-4bb3-a5a1-0072534e3ee8"
 	},
@@ -3962,16 +3502,6 @@
 	{
 		"title": "Genoegdoening vragen in een hotel als het gehuurde niet in overeenstemming is met de afspraken (PU).",
 		"id": "9721dd5f-2c35-43de-abe1-2114d4251520"
-	},
-	{
-		"title": "Aangeven dat je iets niet begrijpt (DL).",
-		"id": "adf4e2b5-844e-451d-b671-d15307785b4d",
-		"deleted": 1
-	},
-	{
-		"title": "Vragen om herhaling, om langzamer te spreken of iets uit te leggen (DL).",
-		"id": "ce7fb3f9-d3cb-455d-b0ec-949c9731a70c",
-		"deleted": 1
 	},
 	{
 		"title": "Vragen waar het station, de wc of een pinautomaat is DL).",
