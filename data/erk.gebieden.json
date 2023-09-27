@@ -1,26 +1,5 @@
 [
 	{
-		"title": "Taalactiviteiten",
-		"id": "5b8735d8-16d9-45bd-b806-32c6fa936aa0",
-		"prefix": "",
-		"description": "",
-		"erk_categorie_id": [
-			"9b4030c8-47f7-41f3-bf94-fe64f2e1916e",
-			"69c2a979-f6e6-45d1-b147-08702d6887b7",
-			"ceb938f3-f704-47eb-8f43-ba9c867024f5",
-			"ba228579-63ef-40ac-ba04-a5a80accdc01"
-		]
-	},
-	{
-		"title": "Taalcompetenties",
-		"id": "a1b9682f-9c16-4b04-b5e0-4411c3c92ff4",
-		"erk_categorie_id": [
-			"af6bb85e-635e-4da2-aa7e-f5e9a8928b1f",
-			"f88ebd19-f337-45e0-bedc-6aa6f5fb3ebc",
-			"96d01289-97ec-4024-89f5-4f49c3937e8c"
-		]
-	},
-	{
 		"erk_schaal_id": [
 			"56b546a4-2e91-4666-b608-1bd95cd20191",
 			"2c4d10cc-63f0-40a7-a9fe-8e7f8ec0c09f",
@@ -28,5 +7,32 @@
 		],
 		"title": "Meertalige en pluriculturele competenties",
 		"id": "7a0a41fe-586b-4722-8d2b-4c5a5b864155"
+	},
+	{
+		"title": "Taalcompetenties",
+		"id": "0d32bd37-b03d-4180-9bc4-7d825e593ffe",
+		"erk_categorie_id": [
+			"7fa1edc7-5ab2-45db-a68c-60dd25e489ca",
+			"1c45d329-3404-4d0b-9cf0-378a58719cd6",
+			"0dd846f2-6d6d-4d93-8c03-6edff22d5a00"
+		],
+		"replaces": [
+			"a1b9682f-9c16-4b04-b5e0-4411c3c92ff4"
+		]
+	},
+	{
+		"title": "Taalactiviteiten",
+		"id": "f4861407-d923-4c72-a47f-c9c6c2331c98",
+		"prefix": "",
+		"description": "",
+		"erk_categorie_id": [
+			"ab4f195f-a85b-4b1c-9802-970d1d303d32",
+			"9c04c2ee-e5dc-45a9-b869-b16731daedcf",
+			"3a61dd77-be62-4d61-971e-df99402aa69d",
+			"048b0f45-ab63-4d82-9dc0-6301de707379"
+		],
+		"replaces": [
+			"5b8735d8-16d9-45bd-b806-32c6fa936aa0"
+		]
 	}
 ]
