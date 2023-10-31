@@ -1,0 +1,22 @@
+[
+	{
+		"title": "Luisteren",
+		"id": "c2e324e4-13f5-41ef-8485-7d09973c5241",
+		"prefix": "",
+		"description": "",
+		"erk_taalprofieltekst_id": [
+			"82c1c495-c6ad-41e9-b980-3368cf45fe59"
+		],
+		"erk_schaal_id": [
+			"1c11e637-5eaf-45f3-8410-44a6a75c1006",
+			"3c802231-529e-4d76-9aab-40eae8225fe8",
+			"288b6f87-8d9e-4c03-b887-d7781510db71",
+			"5ec53958-4390-49c0-b4bc-35e24e631d85",
+			"97154fe6-5225-4793-bb6e-9d68910e78b3",
+			"e2b6da00-13a1-42c8-af8a-13ff4a5b5392",
+			"c7fc2181-3edb-43ff-9302-4477cc6de76e",
+			"274c92c2-56cb-4cf3-8039-b791ee79f595",
+			"a14a5054-9279-4da8-b56e-64e64fec6e69"
+		]
+	}
+]
