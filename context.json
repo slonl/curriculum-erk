@@ -139,6 +139,7 @@
                 "prefix": {
                     "type": "string"
                 },
+				"strategie" : { "type" : "boolean" },
 				"erk_schaal_id" : {
 					"allOf": [
 						{

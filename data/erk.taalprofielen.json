@@ -8,15 +8,27 @@
 			"82c1c495-c6ad-41e9-b980-3368cf45fe59"
 		],
 		"erk_schaal_id": [
-			"1c11e637-5eaf-45f3-8410-44a6a75c1006",
-			"3c802231-529e-4d76-9aab-40eae8225fe8",
-			"288b6f87-8d9e-4c03-b887-d7781510db71",
-			"5ec53958-4390-49c0-b4bc-35e24e631d85",
-			"97154fe6-5225-4793-bb6e-9d68910e78b3",
-			"e2b6da00-13a1-42c8-af8a-13ff4a5b5392",
-			"c7fc2181-3edb-43ff-9302-4477cc6de76e",
-			"274c92c2-56cb-4cf3-8039-b791ee79f595",
-			"a14a5054-9279-4da8-b56e-64e64fec6e69"
+			"2c4d10cc-63f0-40a7-a9fe-8e7f8ec0c09f",
+			"f8d91c39-870b-4976-a036-ed1ffb9da094",
+			"bd84c917-4e9c-40af-a1f4-79c81b1de7ea",
+			"a512cbf4-9be1-4afb-bd08-ea113b2eaff7",
+			"cf9b8ada-1bda-4ebf-a82d-8334fb8f309e"
+		]
+	},
+	{
+		"title": "Spreken",
+		"id": "ae85b497-aa3d-4a56-8e23-01b1aa96436c",
+		"prefix": "",
+		"description": "",
+		"erk_taalprofieltekst_id": [
+			"82c1c495-c6ad-41e9-b980-3368cf45fe59"
+		],
+		"erk_schaal_id": [
+			"2c4d10cc-63f0-40a7-a9fe-8e7f8ec0c09f",
+			"f8d91c39-870b-4976-a036-ed1ffb9da094",
+			"bd84c917-4e9c-40af-a1f4-79c81b1de7ea",
+			"a512cbf4-9be1-4afb-bd08-ea113b2eaff7",
+			"cf9b8ada-1bda-4ebf-a82d-8334fb8f309e"
 		]
 	}
 ]
