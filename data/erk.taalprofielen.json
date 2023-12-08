@@ -1,0 +1,34 @@
+[
+	{
+		"title": "Luisteren",
+		"id": "c2e324e4-13f5-41ef-8485-7d09973c5241",
+		"prefix": "",
+		"description": "",
+		"erk_taalprofieltekst_id": [
+			"82c1c495-c6ad-41e9-b980-3368cf45fe59"
+		],
+		"erk_schaal_id": [
+			"2c4d10cc-63f0-40a7-a9fe-8e7f8ec0c09f",
+			"f8d91c39-870b-4976-a036-ed1ffb9da094",
+			"bd84c917-4e9c-40af-a1f4-79c81b1de7ea",
+			"a512cbf4-9be1-4afb-bd08-ea113b2eaff7",
+			"cf9b8ada-1bda-4ebf-a82d-8334fb8f309e"
+		]
+	},
+	{
+		"title": "Spreken",
+		"id": "ae85b497-aa3d-4a56-8e23-01b1aa96436c",
+		"prefix": "",
+		"description": "",
+		"erk_taalprofieltekst_id": [
+			"82c1c495-c6ad-41e9-b980-3368cf45fe59"
+		],
+		"erk_schaal_id": [
+			"2c4d10cc-63f0-40a7-a9fe-8e7f8ec0c09f",
+			"f8d91c39-870b-4976-a036-ed1ffb9da094",
+			"bd84c917-4e9c-40af-a1f4-79c81b1de7ea",
+			"a512cbf4-9be1-4afb-bd08-ea113b2eaff7",
+			"cf9b8ada-1bda-4ebf-a82d-8334fb8f309e"
+		]
+	}
+]

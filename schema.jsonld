@@ -15,6 +15,12 @@
 		"erk_vakleergebied": {
 			"@id": "erk:#erk_vakleergebied"
 		},
+		"erk_taalprofiel": {
+			"@id": "erk:#erk_taalprofiel"
+		},
+		"erk_taalprofieltekst": {
+			"@id": "erk:#erk_taalprofieltekst"
+		},
 		"erk_gebied": {
 			"@id": "erk:#erk_gebied"
 		},
