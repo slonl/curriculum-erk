@@ -16,8 +16,120 @@
 		]
 	},
 	{
+		"title": "Lezen",
+		"id": "fb43549d-68f6-4c79-9496-1ee4228ecabd",
+		"prefix": "",
+		"description": "",
+		"erk_taalprofieltekst_id": [
+			"82c1c495-c6ad-41e9-b980-3368cf45fe59"
+		],
+		"erk_schaal_id": [
+			"2c4d10cc-63f0-40a7-a9fe-8e7f8ec0c09f",
+			"f8d91c39-870b-4976-a036-ed1ffb9da094",
+			"bd84c917-4e9c-40af-a1f4-79c81b1de7ea",
+			"a512cbf4-9be1-4afb-bd08-ea113b2eaff7",
+			"cf9b8ada-1bda-4ebf-a82d-8334fb8f309e"
+		]
+	},
+	{
 		"title": "Spreken",
 		"id": "ae85b497-aa3d-4a56-8e23-01b1aa96436c",
+		"prefix": "",
+		"description": "",
+		"erk_taalprofieltekst_id": [
+			"82c1c495-c6ad-41e9-b980-3368cf45fe59"
+		],
+		"erk_schaal_id": [
+			"2c4d10cc-63f0-40a7-a9fe-8e7f8ec0c09f",
+			"f8d91c39-870b-4976-a036-ed1ffb9da094",
+			"bd84c917-4e9c-40af-a1f4-79c81b1de7ea",
+			"a512cbf4-9be1-4afb-bd08-ea113b2eaff7",
+			"cf9b8ada-1bda-4ebf-a82d-8334fb8f309e"
+		]
+	},
+	{
+		"title": "Schrijven",
+		"id": "caa5abc9-a898-49f0-8bc6-0044f97ba647",
+		"prefix": "",
+		"description": "",
+		"erk_taalprofieltekst_id": [
+			"82c1c495-c6ad-41e9-b980-3368cf45fe59"
+		],
+		"erk_schaal_id": [
+			"2c4d10cc-63f0-40a7-a9fe-8e7f8ec0c09f",
+			"f8d91c39-870b-4976-a036-ed1ffb9da094",
+			"bd84c917-4e9c-40af-a1f4-79c81b1de7ea",
+			"a512cbf4-9be1-4afb-bd08-ea113b2eaff7",
+			"cf9b8ada-1bda-4ebf-a82d-8334fb8f309e"
+		]
+	},
+	{
+		"title": "Mondelinge interactie",
+		"id": "2ae674cf-b84b-4140-9945-b81d82fdb676",
+		"prefix": "",
+		"description": "",
+		"erk_taalprofieltekst_id": [
+			"82c1c495-c6ad-41e9-b980-3368cf45fe59"
+		],
+		"erk_schaal_id": [
+			"2c4d10cc-63f0-40a7-a9fe-8e7f8ec0c09f",
+			"f8d91c39-870b-4976-a036-ed1ffb9da094",
+			"bd84c917-4e9c-40af-a1f4-79c81b1de7ea",
+			"a512cbf4-9be1-4afb-bd08-ea113b2eaff7",
+			"cf9b8ada-1bda-4ebf-a82d-8334fb8f309e"
+		]
+	},
+	{
+		"title": "Schriftelijke interactie",
+		"id": "d47571ef-f29e-4d41-8530-7162722a94b3",
+		"prefix": "",
+		"description": "",
+		"erk_taalprofieltekst_id": [
+			"82c1c495-c6ad-41e9-b980-3368cf45fe59"
+		],
+		"erk_schaal_id": [
+			"2c4d10cc-63f0-40a7-a9fe-8e7f8ec0c09f",
+			"f8d91c39-870b-4976-a036-ed1ffb9da094",
+			"bd84c917-4e9c-40af-a1f4-79c81b1de7ea",
+			"a512cbf4-9be1-4afb-bd08-ea113b2eaff7",
+			"cf9b8ada-1bda-4ebf-a82d-8334fb8f309e"
+		]
+	},
+	{
+		"title": "Online interactie",
+		"id": "1e2d45a0-0f43-4ea1-9926-31b1d10df861",
+		"prefix": "",
+		"description": "",
+		"erk_taalprofieltekst_id": [
+			"82c1c495-c6ad-41e9-b980-3368cf45fe59"
+		],
+		"erk_schaal_id": [
+			"2c4d10cc-63f0-40a7-a9fe-8e7f8ec0c09f",
+			"f8d91c39-870b-4976-a036-ed1ffb9da094",
+			"bd84c917-4e9c-40af-a1f4-79c81b1de7ea",
+			"a512cbf4-9be1-4afb-bd08-ea113b2eaff7",
+			"cf9b8ada-1bda-4ebf-a82d-8334fb8f309e"
+		]
+	},
+	{
+		"title": "Mediation",
+		"id": "9e3f3cac-8178-42fd-bf97-2cbbc6989332",
+		"prefix": "",
+		"description": "",
+		"erk_taalprofieltekst_id": [
+			"82c1c495-c6ad-41e9-b980-3368cf45fe59"
+		],
+		"erk_schaal_id": [
+			"2c4d10cc-63f0-40a7-a9fe-8e7f8ec0c09f",
+			"f8d91c39-870b-4976-a036-ed1ffb9da094",
+			"bd84c917-4e9c-40af-a1f4-79c81b1de7ea",
+			"a512cbf4-9be1-4afb-bd08-ea113b2eaff7",
+			"cf9b8ada-1bda-4ebf-a82d-8334fb8f309e"
+		]
+	},
+	{
+		"title": "Fictie en Literatuur",
+		"id": "38099198-619a-4453-9dad-5ca5b0ba5782",
 		"prefix": "",
 		"description": "",
 		"erk_taalprofieltekst_id": [
