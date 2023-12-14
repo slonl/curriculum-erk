@@ -136,10 +136,8 @@
         "erk_taalactiviteit": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
             "properties": {
-                "prefix": {
-                    "type": "string"
-                },
-				"strategie" : { "type" : "boolean" },
+                "prefix": { "type": "string" },
+				"category" : { "type" : "string" },
 				"erk_schaal_id" : {
 					"allOf": [
 						{
@@ -157,10 +155,9 @@
         "erk_schaal": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
             "properties": {
-                "prefix": {
-                    "type": "string"
-                },
+                "prefix": { "type": "string" },
 				"algemeen" : { "type" : "boolean" },
+				"category" : { "type" : "string" },
 				"erk_candobeschrijving_id" : {
 					"allOf": [
 						{
