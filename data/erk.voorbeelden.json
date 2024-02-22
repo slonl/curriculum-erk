@@ -4422,5 +4422,17 @@
 		"prefix": "",
 		"title": "Een gids kunnen volgen op locatie, bv een gids in een natuurgebied.",
 		"description": ""
+	},
+	{
+		"id": "995de68f-117f-4695-b2be-7203a01abec6",
+		"prefix": "",
+		"title": "Een demonstratie volgen van de biologiedocent tijdens een practicum.",
+		"description": ""
+	},
+	{
+		"id": "1815c249-248c-499d-8082-c4d42d3a425f",
+		"prefix": "",
+		"title": "Een presentatie volgen van een reisbestemming op een vakantiebeurs.",
+		"description": ""
 	}
 ]
