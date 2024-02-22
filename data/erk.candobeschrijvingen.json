@@ -6482,7 +6482,11 @@
 		"title": "Kan directe, korte voordrachten over vertrouwde onderwerpen globaal volgen, mits deze worden gehouden in helder gearticuleerde standaardtaal of in een vertrouwde taalvariëteit.",
 		"id": "d8c537bf-9801-4f07-b548-fbe27ff20ada",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"712622ef-5ae0-4abc-8809-6a97ec255add",
+			"ade0c51c-8e4b-4606-b9a8-85267459169a"
+		]
 	},
 	{
 		"niveau_id": [
