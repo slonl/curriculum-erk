@@ -4410,5 +4410,17 @@
 		"prefix": "",
 		"title": "Een demonstratie volgen van een bepaald gerecht, waarbij de kok de stappen mondeling toelicht. ",
 		"description": ""
+	},
+	{
+		"id": "712622ef-5ae0-4abc-8809-6a97ec255add",
+		"prefix": "",
+		"title": "Voorlichting kunnen volgen van een mogelijke vervolgopleiding.",
+		"description": ""
+	},
+	{
+		"id": "ade0c51c-8e4b-4606-b9a8-85267459169a",
+		"prefix": "",
+		"title": "Een gids kunnen volgen op locatie, bv een gids in een natuurgebied.",
+		"description": ""
 	}
 ]
