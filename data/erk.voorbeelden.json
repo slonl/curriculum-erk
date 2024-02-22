@@ -932,20 +932,28 @@
 		"id": "b28d9822-5903-4678-a643-1e89a25ea7a0"
 	},
 	{
-		"title": "Een presentatie van studiegenoten over een uitwisselingsweek (OPL).",
-		"id": "9eedf0c2-323b-482c-a460-729c82ad8f71"
+		"title": "Een presentatie volgen van studiegenoten over een uitwisselingsweek.",
+		"id": "9eedf0c2-323b-482c-a460-729c82ad8f71",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een les op een uitwisselingsschool over een bekend onderwerp (OPL).",
-		"id": "558023c7-4c7f-4610-8f92-36b09ad5f26d"
+		"title": "Een les volgen op een uitwisselingsschool over een bekend onderwerp.",
+		"id": "558023c7-4c7f-4610-8f92-36b09ad5f26d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een praatje over veiligheid op de werkvloer tijdens een buitenlandse stage (OPL, WE).",
-		"id": "40f6defd-46be-4eb3-b320-0177538bfc6d"
+		"title": "Een praatje volgen over veiligheid op de werkvloer tijdens een buitenlandse stage.",
+		"id": "40f6defd-46be-4eb3-b320-0177538bfc6d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een uitleg van een collega over een probleem in de uitvoering van de dagelijkse werkzaamheden (WE).",
-		"id": "185ea516-82f4-433a-9e53-c8e3d40696b3"
+		"title": "Een uitleg volgen van een collega over een probleem in de uitvoering van de dagelijkse werkzaamheden.",
+		"id": "185ea516-82f4-433a-9e53-c8e3d40696b3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een college in het buitenland (OPL).",
@@ -4379,7 +4387,78 @@
 		"id": "7978e53e-1fe6-40da-8931-75601ba2afb7",
 		"prefix": "",
 		"title": "Eenvoudige informatie begrijpen tijdens een rondleiding:\n- door je nieuwe school\n- in de sportschool\n- bij een gastgezin\n- op je werk tijdens je eerste werkdag",
-		"description": "",
-		"deleted": 1
+		"description": ""
+	},
+	{
+		"id": "b9c57adb-d268-4cc1-a567-a3a808cbc0ed",
+		"prefix": "",
+		"title": "Eenvoudige informatie begrijpen tijdens een rondleiding: door je nieuwe school, in de sportschool, bij een gastgezin, op je werk tijdens je eerste werkdag.\n",
+		"description": ""
+	},
+	{
+		"id": "bc398c70-316b-4f70-8a67-1a85037001f4",
+		"prefix": "",
+		"title": "Een spreekbeurt volgen van klasgenoten, bijvoorbeeld een presentatie van een sectorwerkstuk.",
+		"description": ""
+	},
+	{
+		"id": "935c8e38-d382-47a5-bfb8-12c250837fcf",
+		"prefix": "",
+		"title": "Een presentatie volgen over de nieuwe indeling van de werkplekken of de lokalen.",
+		"description": ""
+	},
+	{
+		"id": "3c750893-c888-4a38-93f5-a8027e4bbb85",
+		"prefix": "",
+		"title": "Bij de start van het studiejaar: een presentatie volgen over de opbouw van het studiejaar zoals bijvoorbeeld welke vakken, welke periode, toetsing.",
+		"description": ""
+	},
+	{
+		"id": "0b039e02-7ee7-4f38-a699-9da9df25647e",
+		"prefix": "",
+		"title": "Een demonstratie volgen van een bepaald gerecht, waarbij de kok de stappen mondeling toelicht. ",
+		"description": ""
+	},
+	{
+		"id": "712622ef-5ae0-4abc-8809-6a97ec255add",
+		"prefix": "",
+		"title": "Voorlichting kunnen volgen van een mogelijke vervolgopleiding.",
+		"description": ""
+	},
+	{
+		"id": "ade0c51c-8e4b-4606-b9a8-85267459169a",
+		"prefix": "",
+		"title": "Een gids kunnen volgen op locatie, bijvoorbeeld een gids in een natuurgebied.",
+		"description": ""
+	},
+	{
+		"id": "995de68f-117f-4695-b2be-7203a01abec6",
+		"prefix": "",
+		"title": "Een demonstratie volgen van de biologiedocent tijdens een practicum.",
+		"description": ""
+	},
+	{
+		"id": "1815c249-248c-499d-8082-c4d42d3a425f",
+		"prefix": "",
+		"title": "Een presentatie volgen van een reisbestemming op een vakantiebeurs.",
+		"description": ""
+	},
+	{
+		"id": "33af9c5e-9266-4c70-886c-4d6aca72e67f",
+		"prefix": "",
+		"title": "Een presentatie tijdens een congresbezoek volgen.",
+		"description": ""
+	},
+	{
+		"id": "67ff12a6-65bf-4f6b-bac3-045083738afa",
+		"prefix": "",
+		"title": "Een rondleiding begrijpen in een museum over de natuur.",
+		"description": ""
+	},
+	{
+		"id": "692c249e-4955-40c0-9b29-cff31af1d2be",
+		"prefix": "",
+		"title": "Een spreekbeurt volgen van een klasgenoot.",
+		"description": ""
 	}
 ]
