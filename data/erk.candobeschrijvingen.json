@@ -6441,7 +6441,12 @@
 		"title": "Kan een zeer eenvoudige en goed gestructureerde presentatie of demonstratie over een vertrouwd onderwerp volgen, mits deze geïllustreerd wordt met dia's, concrete voorbeelden of diagrammen, en langzaam, duidelijk en met herhaling wordt overgebracht.",
 		"id": "d2d9114c-c9a2-4c82-a7c5-133d942288f5",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"66e2dc7f-df34-4e2c-abbb-bac6b49e17b0",
+			"2f745a61-4ecb-4676-b03e-1b4f76113c82",
+			"55e4d9e7-7d54-425b-ab48-13e9b2e624eb"
+		]
 	},
 	{
 		"niveau_id": [
