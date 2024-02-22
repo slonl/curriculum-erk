@@ -4440,5 +4440,17 @@
 		"prefix": "",
 		"title": "Een presentatie tijdens een congresbezoek volgen.",
 		"description": ""
+	},
+	{
+		"id": "67ff12a6-65bf-4f6b-bac3-045083738afa",
+		"prefix": "",
+		"title": "Een rondleiding begrijpen in een museum over de natuur.",
+		"description": ""
+	},
+	{
+		"id": "692c249e-4955-40c0-9b29-cff31af1d2be",
+		"prefix": "",
+		"title": "Een spreekbeurt volgen van een klasgenoot.",
+		"description": ""
 	}
 ]
