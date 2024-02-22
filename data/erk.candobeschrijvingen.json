@@ -6509,7 +6509,11 @@
 		"title": "Kan globaal begrijpen wat wordt gezegd in een directe monoloog, als er duidelijk en relatief langzaam wordt gesproken.",
 		"id": "419e4330-8e6c-42b0-96e9-ae6bc78c96b8",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"67ff12a6-65bf-4f6b-bac3-045083738afa",
+			"692c249e-4955-40c0-9b29-cff31af1d2be"
+		]
 	},
 	{
 		"niveau_id": [
