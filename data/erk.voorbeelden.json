@@ -4344,5 +4344,17 @@
 		"prefix": "",
 		"title": "Een rondleiding door de school begrijpen, bijvoorbeeld tijdens een uitwisseling.",
 		"description": ""
+	},
+	{
+		"id": "4ce558aa-cd6d-4735-85cd-4e7d616e2778",
+		"prefix": "",
+		"title": "Een eenvoudig of reeds bekend prentenboek, verhaaltje of sprookje dat wordt voorgelezen, begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "ff2fbffa-c7ba-45e1-b96c-2e0720dc19f6",
+		"prefix": "",
+		"title": "In een nieuwe klas: klasgenoten begrijpen die kort iets over zichzelf vertellen in simpele bewoordingen. ",
+		"description": ""
 	}
 ]
