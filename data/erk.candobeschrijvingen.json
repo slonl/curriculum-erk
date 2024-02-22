@@ -6495,7 +6495,12 @@
 		"title": "Kan een directe congrespresentatie of demonstratie met visuele ondersteuning (bijvoorbeeld dia's, hand-outs) over een onderwerp of product in het eigen vakgebied volgen en de uitleg die wordt gegeven, begrijpen.",
 		"id": "b9001e64-33f7-4227-a929-68d76e5eebc7",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"fa3317ee-48ec-44fe-b382-e529e7376a24",
+			"995de68f-117f-4695-b2be-7203a01abec6",
+			"1815c249-248c-499d-8082-c4d42d3a425f"
+		]
 	},
 	{
 		"niveau_id": [
