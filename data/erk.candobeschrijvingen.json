@@ -6566,7 +6566,14 @@
 		"title": "Kan, in een lezing of voordracht, hoofd- en bijzaken van elkaar onderscheiden, mits ze in standaardtaal of in een vertrouwde taalvariëteit wordt gegeven.",
 		"id": "4fb8ee4f-3dd6-4c93-85e4-5e9e653bd6bf",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"7edb7b7a-69f8-474a-9374-f819034e3052",
+			"cdda1e2d-2e4a-4568-ad28-be5379797787",
+			"b00cfa8c-b64b-49d0-bb08-d50157fecdfa",
+			"76977840-80b5-457a-8177-699a27f70273",
+			"b9d4e9b5-11ae-4fce-96aa-a77077b20f85"
+		]
 	},
 	{
 		"niveau_id": [
