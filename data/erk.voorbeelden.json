@@ -4485,5 +4485,23 @@
 		"prefix": "",
 		"title": "Hoofd- en bijzaken onderscheiden in een online voorlichting van een instelling voor vervolgonderwijs.",
 		"description": ""
+	},
+	{
+		"id": "ef80201e-fbb1-4ee3-8ea8-d19aafb1e4ae",
+		"prefix": "",
+		"title": "Een lezing begrijpen over bijvoorbeeld duurzaamheid of het bereiken van klimaatdoelen.",
+		"description": ""
+	},
+	{
+		"id": "6fb2ca03-e233-4a5c-b625-fcc4495013bc",
+		"prefix": "",
+		"title": "Een debat volgen over een politiek onderwerp zoals bij bijvoorbeeld presidentiële verkiezingen.",
+		"description": ""
+	},
+	{
+		"id": "71ab0bc0-f319-4b85-881f-fcc181028404",
+		"prefix": "",
+		"title": "Een lezing volgen over het gebruik van social media in het onderwijs.",
+		"description": ""
 	}
 ]
