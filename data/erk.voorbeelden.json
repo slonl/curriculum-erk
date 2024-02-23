@@ -956,20 +956,28 @@
 		"description": ""
 	},
 	{
-		"title": "Een college in het buitenland (OPL).",
-		"id": "c672ee14-6c1e-4c11-bfee-717addc1ff85"
+		"title": "Een les volgen op een middelbare school tijdens een internationale uitwisseling.",
+		"id": "c672ee14-6c1e-4c11-bfee-717addc1ff85",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Historische achtergrondinformatie in een beschrijving van bezienswaardigheden tijdens een excursie (PU).",
-		"id": "ac1d8e29-9850-4de0-b725-4f52a4ba3ae0"
+		"title": "Historische achtergrondinformatie volgen in een beschrijving van bezienswaardigheden tijdens een excursie.",
+		"id": "ac1d8e29-9850-4de0-b725-4f52a4ba3ae0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De bespreking van onderzoeksresultaten tijdens een gastles van een buienlandse docent (OPL).",
-		"id": "602f0302-e008-4592-bd2c-9fce6c069d6a"
+		"title": "De bespreking volgen van onderzoeksresultaten tijdens een gastles van een buitenlandse docent.",
+		"id": "602f0302-e008-4592-bd2c-9fce6c069d6a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een inleiding over het studieprogramma van een buitenlandse opleiding (OPL).",
-		"id": "fbe5ed59-8dd9-41f5-9330-d6e5409d72b0"
+		"title": "Een inleiding volgen over het studieprogramma van een buitenlandse opleiding.",
+		"id": "fbe5ed59-8dd9-41f5-9330-d6e5409d72b0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een uiteenzetting op een vakbeurs waarin de eigen producten worden vergeleken met die van de concurrenten (WE).",
