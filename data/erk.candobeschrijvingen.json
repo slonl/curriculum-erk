@@ -12536,7 +12536,14 @@
 		"id": "0ecd3e9c-f849-4d06-a578-04e8bfd54c31",
 		"prefix": "",
 		"title": "Kan grappen of dubbelzinnigheden in een presentatie begrijpen.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"df4b2ad4-909f-4ba3-b789-c8ecc2bbb9ae"
+		],
+		"erk_lesidee_id": [
+			"61f196f2-9770-4e17-b71a-9dfe9f8bff26",
+			"26944ecb-11d3-4065-835b-844fa50756f8"
+		]
 	},
 	{
 		"niveau_id": [
