@@ -992,28 +992,38 @@
 		"id": "e952bd73-a163-4ce1-8d1e-7494f5bdf68f"
 	},
 	{
-		"title": "Een rondetafelgesprek over de opvang van bootvluchtelingen (DL).",
-		"id": "0189e098-99b5-40d0-a8ed-08dc71943934"
+		"title": "Een rondetafelgesprek volgen over de opvang van bootvluchtelingen.",
+		"id": "0189e098-99b5-40d0-a8ed-08dc71943934",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De voordracht van een onderzoeker tijdens een congres (OPL, WE).",
-		"id": "cbd3be0d-988b-42f5-b8e9-54446b724184"
+		"title": "De voordracht volgen van een onderzoeker tijdens een congres.",
+		"id": "cbd3be0d-988b-42f5-b8e9-54446b724184",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een presentatie over ontwikkelingen op het gebied van computergebruik binnen het onderwijs (OPL).",
-		"id": "08de22c4-00e2-4940-9dce-9aaa6995475e"
+		"title": "Een presentatie volgen over ontwikkelingen op het gebied van computergebruik binnen het onderwijs.",
+		"id": "08de22c4-00e2-4940-9dce-9aaa6995475e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een voordracht van een buitenlandse schrijver over zijn of haar laatste boek (OPL).",
-		"id": "957c4dbe-5e92-4ecf-878e-8f725629d749"
+		"title": "Een voordracht volgen van een buitenlandse schrijver over het laatst geschreven boek.",
+		"id": "957c4dbe-5e92-4ecf-878e-8f725629d749",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een betoog van een gastdocent over een abstract onderwerp buiten het eigen vakgebied (OPL).",
 		"id": "7ec43c80-e128-41b9-b57b-9e83271316a9"
 	},
 	{
-		"title": "Een vaktechnische presentatie waarin de voor- en nadelen van een nieuw product worden beschreven (OPL, WE).",
-		"id": "d5667540-61ff-4359-a85d-f08d60253664"
+		"title": "Een vaktechnische presentatie volgen waarin de voor- en nadelen van een nieuw product worden beschreven.",
+		"id": "d5667540-61ff-4359-a85d-f08d60253664",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "De houdingen van en de verhoudingen tussen personen, ook als die niet expliciet vermeld worden (DL).",
