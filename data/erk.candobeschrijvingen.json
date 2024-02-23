@@ -6537,7 +6537,13 @@
 		"title": "Kan een onderscheid maken tussen de hoofdlijnen en de ondersteunende details in standaardvoordrachten over vertrouwde onderwerpen, mits ze in duidelijk gearticuleerde standaardtaal of in een vertrouwde taalvariëteit worden gegeven.",
 		"id": "b0cd2688-4ed5-4f9c-82b4-a835a66e6ffa",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"8312a8cb-d15d-4f07-9ea5-b323dea783cb",
+			"2b89f87d-bea3-4c69-a7ac-234771fcfd16",
+			"ac20c707-e9dc-4065-ac55-57f4a5b36543",
+			"a121b067-8737-4fe7-9241-92691d930400"
+		]
 	},
 	{
 		"niveau_id": [
