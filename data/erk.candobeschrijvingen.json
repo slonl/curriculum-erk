@@ -6552,7 +6552,12 @@
 		"title": "Kan complexe argumentatie in een duidelijk gearticuleerde voordracht over een redelijk vertrouwd onderwerp begrijpen.",
 		"id": "63a36f7e-5fc8-47ab-9f55-781a7b5a24c2",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"ef80201e-fbb1-4ee3-8ea8-d19aafb1e4ae",
+			"6fb2ca03-e233-4a5c-b625-fcc4495013bc",
+			"71ab0bc0-f319-4b85-881f-fcc181028404"
+		]
 	},
 	{
 		"niveau_id": [
