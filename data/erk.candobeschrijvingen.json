@@ -6582,7 +6582,15 @@
 		"title": "Kan het standpunt van de spreker herkennen en dat onderscheiden van de feiten die worden genoemd.",
 		"id": "6e619896-f881-42d5-a12f-5db39b5be2ab",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"b3f5412c-e009-4159-af17-c1e2732b6702",
+			"33930b79-d3ba-4912-b7c2-0c7049de1646",
+			"e50dffc4-6794-49b1-9382-383c87f5934e",
+			"e50dffc4-6794-49b1-9382-383c87f5934e",
+			"76a0a449-9097-47cf-b80e-e7da7eb93eb8",
+			"76a0a449-9097-47cf-b80e-e7da7eb93eb8"
+		]
 	},
 	{
 		"niveau_id": [
