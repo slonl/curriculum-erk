@@ -4461,5 +4461,29 @@
 		"prefix": "",
 		"title": "Een spreekbeurt volgen van een klasgenoot.",
 		"description": ""
+	},
+	{
+		"id": "8312a8cb-d15d-4f07-9ea5-b323dea783cb",
+		"prefix": "",
+		"title": "Hoofd- en bijzaken onderscheiden in een spreekbeurt over het klimaat.",
+		"description": ""
+	},
+	{
+		"id": "2b89f87d-bea3-4c69-a7ac-234771fcfd16",
+		"prefix": "",
+		"title": "Hoofdlijnen en ondersteunende details onderscheiden in een presentatie over een sport zoals surfen of hockey.",
+		"description": ""
+	},
+	{
+		"id": "ac20c707-e9dc-4065-ac55-57f4a5b36543",
+		"prefix": "",
+		"title": "Hoofdlijnen en ondersteunende details onderscheiden in een informatiebijeenkomst over een nieuw jeugdhonk of dorpshuis.",
+		"description": ""
+	},
+	{
+		"id": "a121b067-8737-4fe7-9241-92691d930400",
+		"prefix": "",
+		"title": "Hoofd- en bijzaken onderscheiden in een online voorlichting van een instelling voor vervolgonderwijs.",
+		"description": ""
 	}
 ]
