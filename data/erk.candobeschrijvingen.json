@@ -6614,7 +6614,13 @@
 		"title": "Kan het standpunt van de spreker over actuele onderwerpen of onderwerpen die betrekking hebben op het eigen specialisatiegebied begrijpen, mits er standaardtaal of een vertrouwde  taalvariëteit wordt gebruikt.",
 		"id": "ce63c6fc-c43b-4491-9dcd-22835cd56bbc",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"3cf1c9cc-d208-4e35-84a1-b17b722bf7f7",
+			"de3271e3-151b-499e-bc9e-79438d21ee1b",
+			"ee3ba0af-ea3e-4ec1-8033-c0ae0ca2f469",
+			"2f7cb0d0-fdf6-41c7-a7db-8184f8c77ebf"
+		]
 	},
 	{
 		"niveau_id": [
