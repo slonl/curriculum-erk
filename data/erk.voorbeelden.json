@@ -4653,5 +4653,35 @@
 		"prefix": "",
 		"title": "In de supermarkt: uitleg over waar je iets kunt vinden.",
 		"description": ""
+	},
+	{
+		"id": "5b4a7d9c-e2e7-42ff-ba92-ea7e7797d83a",
+		"prefix": "",
+		"title": "Een omroepbericht in het zwembad/de dierentuin: over hoeveel tijd het gaat sluiten.",
+		"description": ""
+	},
+	{
+		"id": "488f67e0-bd58-4e84-8b99-bbe16fce3352",
+		"prefix": "",
+		"title": "Een omroepbericht bij een actie voor het goede doel: hoeveel geld er tot nu toe opgehaald is.",
+		"description": ""
+	},
+	{
+		"id": "a19b3c63-48a2-4f15-9a71-599b40c1132e",
+		"prefix": "",
+		"title": "Een omroepbericht op het station: hoe laat de vertraagde trein vertrekt.",
+		"description": ""
+	},
+	{
+		"id": "c7f9bf56-e30c-4509-9314-7b76808d36bf",
+		"prefix": "",
+		"title": "Een omroepbericht in het sportstadion: wat de tussenstand is van de wedstrijd.",
+		"description": ""
+	},
+	{
+		"id": "58de51e5-1978-4e56-9a37-af7e989c1764",
+		"prefix": "",
+		"title": "Een omroepbericht op een kermis: wat de prijs is voor een bepaalde attractie.",
+		"description": ""
 	}
 ]
