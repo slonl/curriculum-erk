@@ -6812,7 +6812,11 @@
 		"title": "Kan omroepberichten op luchthavens en stations en in vliegtuigen, bussen en treinen begrijpen, mits ze duidelijk gearticuleerd worden en sprake is van minimale storende (auditieve en/of visuele) achtergrondruis.",
 		"id": "d9b6ba9a-a837-4146-bd42-7ec2e6294e77",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"80eedc1d-d5bc-4c9f-9b88-e9af4c434c96",
+			"4513029b-a39d-4adc-863e-996419778d34"
+		]
 	},
 	{
 		"niveau_id": [
