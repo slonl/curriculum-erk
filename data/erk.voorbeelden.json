@@ -804,8 +804,10 @@
 		"id": "c68a992e-3b4b-4bd4-be2c-e5e52f9d2ca6"
 	},
 	{
-		"title": "In een winkel een gesprek tussen een klant en een verkoopmedewerker begrijpen (PU).",
-		"id": "2ba4b3b4-e85c-4e3a-92e8-ecc707c93d7e"
+		"title": "In een winkel een gesprek tussen een klant en een verkoopmedewerker begrijpen over waar een product (melk, brood, koek) staat.",
+		"id": "2ba4b3b4-e85c-4e3a-92e8-ecc707c93d7e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Als toehoorder bij een bijeenkomst van de leerlingenraad tijdens een uitwisseling met een partnerschool (OPL).",
@@ -4956,6 +4958,24 @@
 		"id": "e4018fd3-a8da-423a-a03b-f67977963478",
 		"prefix": "",
 		"title": "Uit een gesprek in een televisieserie opmaken welke hobby's de acteurs hebben.",
+		"description": ""
+	},
+	{
+		"id": "d217eae8-48db-4b34-8d1e-acbaa5c7a95c",
+		"prefix": "",
+		"title": "Op het station luisteren naar een gesprek tussen een medereiziger en de conducteur en daaruit opmaken hoe laat een bepaalde trein vertrekt.",
+		"description": ""
+	},
+	{
+		"id": "a0b425b6-8f70-41ad-a4ea-6809c5e78046",
+		"prefix": "",
+		"title": "Bij de kapper begrijpen waar de klant en de kapper van de stoel naast jou over praten.",
+		"description": ""
+	},
+	{
+		"id": "29bb2adb-faf8-48e0-8cf0-ae1d2ba0e6e8",
+		"prefix": "",
+		"title": "In de rij van een attractie op een pretpark opmaken uit een gesprek tussen twee vriendinnen hoe hun kamers eruit zien.",
 		"description": ""
 	}
 ]
