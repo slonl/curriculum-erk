@@ -6753,7 +6753,15 @@
 		"title": "Kan een reeks instructies voor vertrouwde, dagelijkse activiteiten zoals sport, koken enzovoort begrijpen en volgen als ze langzaam en duidelijk worden overgebracht.",
 		"id": "0402d289-cec5-4759-b92d-ef2c488934d1",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"06e5479f-3901-4659-a236-85b76801205a",
+			"ee22cc9a-35d0-4cda-b253-c99935824259",
+			"fe35ba3f-6bc8-4953-858c-356e3f50e59d",
+			"fe186009-404d-4b34-818f-15ddb852e4b5",
+			"1c08d666-d3fe-4eba-a392-b38d5e7b1f98",
+			"e289f9e4-1ba6-4471-bab9-86088934153d"
+		]
 	},
 	{
 		"niveau_id": [
