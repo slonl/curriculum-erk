@@ -6681,7 +6681,12 @@
 		"title": "Kan korte, eenvoudige instructies voor handelingen begrijpen, zoals 'Stop', 'Doe de deur dicht' enzovoort, als ze langzaam een-op-een worden gegeven, ondersteund worden door afbeeldingen of handgebaren en, zo nodig, worden herhaald.",
 		"id": "94f4b4cf-b716-41e5-92dd-94e3d414e36c",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"178b6f91-da33-4418-b3d4-cb903a879015",
+			"dfa5b26a-8842-4d3b-a125-3ca1f144a5e2",
+			"7b66288e-8c75-4baa-bd75-7bfa5f82247f"
+		]
 	},
 	{
 		"niveau_id": [
