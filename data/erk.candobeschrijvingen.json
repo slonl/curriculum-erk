@@ -6838,7 +6838,13 @@
 		"title": "Kan gedetailleerde instructies goed genoeg begrijpen om ze met succes te kunnen opvolgen.",
 		"id": "d51929fe-8b67-4a5e-a69d-a153847c634f",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"09a3fa8a-79ff-4372-a090-36a8355450c0",
+			"f2795491-d94d-4bbd-a85c-8858887b3e21",
+			"8a1ef43c-13cf-4594-94e0-80c21338525f",
+			"f90660e1-9abf-4173-a15e-f8e2803aa4bb"
+		]
 	},
 	{
 		"niveau_id": [
