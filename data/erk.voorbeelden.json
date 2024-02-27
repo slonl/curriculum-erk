@@ -1166,32 +1166,46 @@
 		"id": "8f6d5489-a0f5-4886-97c9-5ee4ca886765"
 	},
 	{
-		"title": "Een mededeling in de trein over plotselinge en onverwachte oorzaken voor vertragingen en consequenties voor reisvervolg (PU).",
-		"id": "0b64ef6b-cfc7-42c3-9b9d-cd45da5a06eb"
+		"title": "Een mededeling begrijpen in de trein over plotselinge en onverwachte oorzaken voor vertragingen en consequenties voor reisvervolg.",
+		"id": "0b64ef6b-cfc7-42c3-9b9d-cd45da5a06eb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Mededelingen hoe het stadion te verlaten na een voetbalwedstrijd (PU).",
-		"id": "52a5fb07-5b76-4dc1-8e06-a181d1533fa8"
+		"title": "Mededelingen begrijpen hoe het stadion te verlaten na een voetbalwedstrijd.",
+		"id": "52a5fb07-5b76-4dc1-8e06-a181d1533fa8",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De aankondiging van een brandoefening die via een slecht geluidssysteem ban bedrijf of school wordt omgeroepen (OPL).",
-		"id": "d7f00d42-f019-4312-a55d-9882e99238e4"
+		"title": "De aankondiging begrijpen van een brandoefening die via een slecht geluidssysteem van bedrijf of school wordt omgeroepen.",
+		"id": "d7f00d42-f019-4312-a55d-9882e99238e4",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Onvoorspelbare mededelingen tijdens een sportwedstrijd in een stadion (PU).",
-		"id": "6ee5efd1-6a00-4900-9478-15dbb00fca03"
+		"title": "Onvoorspelbare mededelingen begrijpen tijdens een sportwedstrijd in een stadion.",
+		"id": "6ee5efd1-6a00-4900-9478-15dbb00fca03",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Verkeersinformatie over omleidingsroutes en extra files, rij- en weersomstandigheden op de autoradio (DL, PU).",
-		"id": "6507746a-7a7e-4a54-b060-a72604d06d70"
+		"title": "Verkeersinformatie begrijpen over omleidingsroutes en extra files, rij- en weersomstandigheden op de autoradio.",
+		"id": "6507746a-7a7e-4a54-b060-a72604d06d70",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De opgenomen uitleg via een luidspreker van een boot tijdens een watertour (DL).",
-		"id": "0003b8d6-e579-4054-b070-99ba67d1665d"
+		"title": "De opgenomen uitleg begrijpen via een luidspreker van een boot tijdens een watertour.",
+		"id": "0003b8d6-e579-4054-b070-99ba67d1665d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De opname van een toespraak uit de jaren 40 (OPL).",
-		"id": "5c93d949-b649-4ccf-a2a6-1db75afff6d5"
+		"title": "Informatie halen uit de opname van een toespraak uit de jaren 40.",
+		"id": "5c93d949-b649-4ccf-a2a6-1db75afff6d5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "De beschrijving van een nieuwe procedure voor het toedienen van medicatie aan patiënten (WE).",
