@@ -4863,5 +4863,17 @@
 		"prefix": "",
 		"title": "Een gedetailleerde routebeschrijving volgen naar een bestemming waarvoor je een aantal keren moet overstappen.",
 		"description": ""
+	},
+	{
+		"id": "80eedc1d-d5bc-4c9f-9b88-e9af4c434c96",
+		"prefix": "",
+		"title": "Een omroepbericht begrijpen op een vliegveld over vertraagde of geannuleerde vluchten en waar passagiers zich kunnen melden.",
+		"description": ""
+	},
+	{
+		"id": "4513029b-a39d-4adc-863e-996419778d34",
+		"prefix": "",
+		"title": "Reisinformatie begrijpen op een station over een alternatieve bij een vertraging.",
+		"description": ""
 	}
 ]
