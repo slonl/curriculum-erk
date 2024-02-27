@@ -6704,7 +6704,14 @@
 		"title": "Kan begrijpen waar iets is als iemand langzaam en duidelijk vertelt waar iets is en datgene zich in de directe omgeving bevindt.",
 		"id": "1001dc29-8286-4385-a6ea-cfdff3ad43a3",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"263763ed-be2d-4b70-ac61-af2b16d01250",
+			"fa7e9506-f142-4d2e-b6ac-be3320f88a0d",
+			"9dcb8af0-904c-4ab5-ad51-6df3615988f6",
+			"39227819-27ee-43fc-a36e-c1f49acdb1c5",
+			"d6176cda-6157-47af-acb8-38233d84dc92"
+		]
 	},
 	{
 		"niveau_id": [
