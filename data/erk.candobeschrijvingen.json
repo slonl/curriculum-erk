@@ -12611,7 +12611,13 @@
 		"id": "bdcb7c1f-5ad9-4806-b530-9f23bb117af8",
 		"prefix": "",
 		"title": "Kan elementaire instructies begrijpen over tijden, data, getallen e.d. en over routinetaken en routineopdrachten die uitgevoerd moeten worden.\n",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"87ac5c94-8c66-40b0-99e6-6f68fdf072a6",
+			"8e793f20-52e0-4847-83f6-b766c660af42",
+			"b724967f-c6a4-445e-86b1-b7e242ea869d",
+			"85e7e5bd-f9f5-4ddc-8e4a-45468129065a"
+		]
 	},
 	{
 		"niveau_id": [
