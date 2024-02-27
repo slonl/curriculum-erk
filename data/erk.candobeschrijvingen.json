@@ -6738,13 +6738,10 @@
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"erk_voorbeeld_id": [
-			"bc07896e-e9b4-475a-b881-dac8ffc66aed",
-			"5826e709-fa47-4019-916a-ef182e882916",
-			"f7a44175-0311-45e2-9694-a0bcd24a6437"
-		],
 		"title": "Kan aanwijzingen begrijpen over de werking van vertrouwde apparaten, mits het apparaat voorhanden is.",
-		"id": "1e584b80-38f3-402a-b4ae-a9f0347f7f40"
+		"id": "1e584b80-38f3-402a-b4ae-a9f0347f7f40",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
