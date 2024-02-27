@@ -6767,7 +6767,12 @@
 		"title": "Kan eenvoudige mededelingen begrijpen (bijvoorbeeld van een bioscoopprogramma of sportevenement, over een vertraagde trein) als ze langzaam en duidelijk worden overgebracht.",
 		"id": "95880ab7-30d1-45fe-a1f5-d3f9a19737d7",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"fb6715c8-d6d2-4c9e-9704-ca7dd7531408",
+			"a0d2a125-a9cf-4af9-8817-bc38e269f830",
+			"e8835efc-1fed-4c43-9169-d8571158091c"
+		]
 	},
 	{
 		"niveau_id": [
