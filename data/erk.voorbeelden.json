@@ -4737,5 +4737,29 @@
 		"prefix": "",
 		"title": "Een korte routebeschrijving, bijvoorbeeld hoe je vanuit een bepaald punt naar het gemeentehuis kunt lopen, met de bus naar het huis van een vriend kunt gaan, met de trein naar de hoofdstad kunt reizen, naar het startpunt van een bepaalde sportactiviteit kunt lopen.",
 		"description": ""
+	},
+	{
+		"id": "87ac5c94-8c66-40b0-99e6-6f68fdf072a6",
+		"prefix": "",
+		"title": "Instructies van een arts over het innemen van medicijnen, het afmaken van een kuur.",
+		"description": ""
+	},
+	{
+		"id": "8e793f20-52e0-4847-83f6-b766c660af42",
+		"prefix": "",
+		"title": "Instructies voor het spelen van een bekend spel op het schoolplein.",
+		"description": ""
+	},
+	{
+		"id": "b724967f-c6a4-445e-86b1-b7e242ea869d",
+		"prefix": "",
+		"title": "Aanwijzingen van een telefonische computer om bij een bepaalde afdeling terecht te komen: toets 1 voor de klantenservice, toets 2 voor een medewerker.",
+		"description": ""
+	},
+	{
+		"id": "85e7e5bd-f9f5-4ddc-8e4a-45468129065a",
+		"prefix": "",
+		"title": "Instructies van een trainer op de sportclub over de inhoud van een training.",
+		"description": ""
 	}
 ]
