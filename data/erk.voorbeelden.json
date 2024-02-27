@@ -4797,5 +4797,23 @@
 		"prefix": "",
 		"title": "Instructies in eenvoudige bewoordingen begrijpen voor het bereiden van een gerecht.",
 		"description": ""
+	},
+	{
+		"id": "fb6715c8-d6d2-4c9e-9704-ca7dd7531408",
+		"prefix": "",
+		"title": "Een kort en duidelijk omroepbericht begrijpen op het station dat de trein naar X vandaag vertrekt van spoor Y vanwege een defecte trein.",
+		"description": ""
+	},
+	{
+		"id": "a0d2a125-a9cf-4af9-8817-bc38e269f830",
+		"prefix": "",
+		"title": "Omroepberichten begrijpen tijdens een sportdag of sportevenement over de afgelasting van een bepaald onderdeel vanwege weersomstandigheden. ",
+		"description": ""
+	},
+	{
+		"id": "e8835efc-1fed-4c43-9169-d8571158091c",
+		"prefix": "",
+		"title": "Eenvoudige aankondigingen begrijpen van een festivalprogramma, zoals de verplaatsing van een act met de bijbehorende reden.",
+		"description": ""
 	}
 ]
