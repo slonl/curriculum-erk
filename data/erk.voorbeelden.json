@@ -1208,20 +1208,28 @@
 		"description": ""
 	},
 	{
-		"title": "De beschrijving van een nieuwe procedure voor het toedienen van medicatie aan patiënten (WE).",
-		"id": "6f91a04f-3565-4658-a109-51e7e33281ce"
+		"title": "De beschrijving van een nieuwe procedure voor het toedienen van medicatie aan patiënten.",
+		"id": "6f91a04f-3565-4658-a109-51e7e33281ce",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De technische specificaties bij het doorbellen van een offerte voor een product of dienst (WE).",
-		"id": "23485b38-1326-48ff-90a6-6d8f7122fa48"
+		"title": "De technische specificaties bij het doorbellen van een offerte voor een product of dienst.",
+		"id": "23485b38-1326-48ff-90a6-6d8f7122fa48",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De uitleg van een monteur over de installatie van een nieuwe tv of computer inclusief het gebruik van digitale diensten (DL).",
-		"id": "805ca887-db2d-4322-9932-f9c938407af7"
+		"title": "De uitleg van een monteur over de installatie van zonnepanelen inclusief het gebruik van digitale diensten.",
+		"id": "805ca887-db2d-4322-9932-f9c938407af7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De instructies voor een ingewikkeld nieuw proces, zoals het afstellen van een machine of het uitvoeren van een proef (WE, OPL).",
-		"id": "43f9329f-01f2-4468-992f-663b1142015b"
+		"title": "De instructie voor een ingewikkeld nieuw proces, zoals het afstellen van een machine of het uitvoeren van een proef.",
+		"id": "43f9329f-01f2-4468-992f-663b1142015b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Het weerbericht op de radio: kan ik morgen naar het strand? (DL).",
