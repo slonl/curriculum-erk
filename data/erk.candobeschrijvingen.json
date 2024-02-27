@@ -6264,7 +6264,12 @@
 		"title": "Kan korte, eenvoudige sociale uitwisselingen globaal volgen als ze zeer langzaam en duidelijk worden uitgevoerd.",
 		"id": "75886083-7e27-4242-9b46-93ec5610c985",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"ee382282-664f-42d9-b734-3a20ced0a79e",
+			"44ac919c-2e25-4995-b140-4f3132901ebd",
+			"d63f3b67-1750-4ed1-9bea-37bbe7653e99"
+		]
 	},
 	{
 		"niveau_id": [
