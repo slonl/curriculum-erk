@@ -6794,16 +6794,16 @@
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
 		"erk_voorbeeld_id": [
-			"c46aafd1-fa6b-4c95-882a-1620bb077668",
-			"4aca726d-4f13-4ea2-b89d-cd7334c279cb",
-			"45b52c1a-faac-47ac-935e-b2bf4a14af36",
-			"1da9f807-3b47-43ac-b17a-d393085f4ebb",
-			"be00b677-4f40-46eb-be6a-fba399272984",
-			"093c1d23-ee24-43d0-bdd0-ebedb446f067",
-			"f1a1eb72-09f2-4611-bb45-a6fecfd1e208"
+			"eb35a6d7-0dc3-4357-aee2-eeb7e7af4813",
+			"b257d77d-0e12-4c69-aa74-3821f229d8b1",
+			"c7710d73-6b48-4df7-96eb-7f6f735ca1a1",
+			"512011e6-7248-467e-8f5f-435f95ca0c6b",
+			"dfa986db-180b-453c-a4b8-1db5c20294e8"
 		],
 		"title": "Kan gedetailleerde aanwijzingen volgen.",
-		"id": "a7e7b2a2-ba00-4492-b4c8-910a439075b9"
+		"id": "a7e7b2a2-ba00-4492-b4c8-910a439075b9",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
