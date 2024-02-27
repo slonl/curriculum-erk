@@ -818,12 +818,16 @@
 		"id": "e0542d2f-5a0e-4706-9518-8b6332b6a17c"
 	},
 	{
-		"title": "Een gesprek over een uitstapje tussen familieleden in een gastgezin (DL).",
-		"id": "5bc9c360-2145-44f2-bd55-fc2c006f425e"
+		"title": "Een discussie tussen familieleden in een gastgezin over de invulling van een uitstapje.",
+		"id": "5bc9c360-2145-44f2-bd55-fc2c006f425e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een gesprek over wat er die dag gedaan moet worden tussen docent en leerlingen (OPL). (ZOU IK OMDRAAIEN)",
-		"id": "c243db93-75f8-4cf7-bc18-ad7aeb036e78"
+		"title": "Een discussie tussen docent en leerlingen over de hoeveelheid huiswerk.",
+		"id": "c243db93-75f8-4cf7-bc18-ad7aeb036e78",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een gesprek tijdens een uitwisseling met een buitenlandse partnerschool (OPL).",
@@ -4994,6 +4998,12 @@
 		"id": "44ac919c-2e25-4995-b140-4f3132901ebd",
 		"prefix": "",
 		"title": "Bij een fietsverhuurbedrijf het gesprek volgen tussen een klant en een medewerker.",
+		"description": ""
+	},
+	{
+		"id": "ed51dbd4-1fae-4642-a377-7347f4491aff",
+		"prefix": "",
+		"title": "Een discussie tussen vrienden over de beleving van een film of boek.",
 		"description": ""
 	}
 ]
