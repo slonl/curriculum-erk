@@ -6779,15 +6779,15 @@
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
 		"erk_voorbeeld_id": [
-			"d281cef9-467d-43bf-8c76-6d604c29ef79",
-			"4a65f5bc-00d0-4fc5-8054-87794f4b271b",
-			"bd4d0dbc-451c-4a85-8f24-107e23e12b6a",
-			"e9d49660-49f6-432e-a79c-473db20d75ca",
-			"7403444d-46d9-4a24-8b25-9aec8e651843",
-			"4cc8bc89-9788-4081-a878-e11ce0b3db6d"
+			"bb2a8292-b934-4681-9890-a77f5d0d1650",
+			"bb2a8292-b934-4681-9890-a77f5d0d1650",
+			"d3886a46-13e3-419f-9798-64b2c5020d4f",
+			"88994139-d6d8-4d1d-80b8-24247ea02406"
 		],
 		"title": "Kan eenvoudige technische informatie begrijpen.",
-		"id": "c99e284a-1b32-4d90-9e1c-9ef5008770e5"
+		"id": "c99e284a-1b32-4d90-9e1c-9ef5008770e5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
