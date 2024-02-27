@@ -12599,7 +12599,10 @@
 		"id": "f5f426b3-da7a-44d2-a94a-9f75271a74b4",
 		"prefix": "",
 		"title": "Kan eenvoudige aanwijzingen begrijpen over de juiste weg te voet of per openbaar vervoer van X naar Y.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"5a6bc1a1-f712-4a32-8cd4-58b5ca738762"
+		]
 	},
 	{
 		"niveau_id": [
