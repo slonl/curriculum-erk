@@ -6687,6 +6687,11 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
+		"erk_voorbeeld_id": [
+			"8193ddc8-4376-4f8f-ac03-a0b14232eb1f",
+			"bf7efaf1-f906-4a92-b5d4-8139d3e2b0c2",
+			"485c25df-eef0-4a6a-aa67-8d6007ba9c09"
+		],
 		"title": "Kan opdrachten begrijpen die zorgvuldig en langzaam worden geformuleerd, en kan korte, eenvoudige aanwijzingen volgen.",
 		"id": "b963d353-134d-4cb6-a8d7-167149f71063",
 		"prefix": "",
