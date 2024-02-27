@@ -6235,7 +6235,12 @@
 		"title": "Kan enkele uitdrukkingen begrijpen als mensen over zichzelf, hun familie, school, hobby's of de omgeving praten, mits ze dat langzaam en duidelijk doen.",
 		"id": "2886a357-4212-4fd0-812a-97e750cd349f",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"016cd287-f0f1-4149-a7f1-121d4cac3f72",
+			"a88a573b-4982-476d-951b-179c983af5bd",
+			"e4018fd3-a8da-423a-a03b-f67977963478"
+		]
 	},
 	{
 		"niveau_id": [
