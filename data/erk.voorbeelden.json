@@ -4623,5 +4623,35 @@
 		"prefix": "",
 		"title": "Eenvoudige opdrachten van de leraar begrijpen zoals: Pak je potlood, Wijs de rode bal aan, Open je boek op pagina drie.",
 		"description": ""
+	},
+	{
+		"id": "263763ed-be2d-4b70-ac61-af2b16d01250",
+		"prefix": "",
+		"title": "In het klaslokaal: uitleg begrijpen over waar bepaalde spullen liggen, bijvoorbeeld: de potloden liggen in de linker kast naast de woordenboeken.",
+		"description": ""
+	},
+	{
+		"id": "fa7e9506-f142-4d2e-b6ac-be3320f88a0d",
+		"prefix": "",
+		"title": "Op het schoolplein: uitleg begrijpen over waar iemand zich verstopt heeft.",
+		"description": ""
+	},
+	{
+		"id": "9dcb8af0-904c-4ab5-ad51-6df3615988f6",
+		"prefix": "",
+		"title": "Op je logeeradres: uitleg over waar de wificode staat.",
+		"description": ""
+	},
+	{
+		"id": "39227819-27ee-43fc-a36e-c1f49acdb1c5",
+		"prefix": "",
+		"title": "Thuis: uitleg over waar de oplader van de mobiele telefoon ligt.",
+		"description": ""
+	},
+	{
+		"id": "d6176cda-6157-47af-acb8-38233d84dc92",
+		"prefix": "",
+		"title": "In de supermarkt: uitleg over waar je iets kunt vinden.",
+		"description": ""
 	}
 ]
