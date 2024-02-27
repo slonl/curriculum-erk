@@ -4701,5 +4701,35 @@
 		"prefix": "",
 		"title": "Tijdens een bezoek begrijpen: kom binnen, ga zitten.",
 		"description": ""
+	},
+	{
+		"id": "955032f4-6d59-44c4-8d9d-87d6a5bc0340",
+		"prefix": "",
+		"title": "Begrijpen wat het huiswerk is en wanneer je dat moet inleveren.",
+		"description": ""
+	},
+	{
+		"id": "552e30bc-b66d-4c27-ac11-1c6dc95db0ae",
+		"prefix": "",
+		"title": "De bekendmaking van een groepsindeling begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "574b2f68-53cc-4eef-b06f-4f7f9375f159",
+		"prefix": "",
+		"title": "Mededelingen tijdens een excursie begrijpen, bijvoorbeeld waar en wanneer de lunch wordt geserveerd.",
+		"description": ""
+	},
+	{
+		"id": "79187e1a-8e4a-4404-8b63-0dfbc76f1d1c",
+		"prefix": "",
+		"title": "Tijdens een les of vergadering de mededeling begrijpen dat de bijeenkomst langer gaat duren dan gepland.",
+		"description": ""
+	},
+	{
+		"id": "bcf53839-ebdc-4750-9b11-69e4b88ceee8",
+		"prefix": "",
+		"title": "In de dierentuin: de aankondiging van de voederdemonstraties begrijpen, bijvoorbeeld bij welke dieren en hoe laat.",
+		"description": ""
 	}
 ]
