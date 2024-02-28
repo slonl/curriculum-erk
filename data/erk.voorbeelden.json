@@ -1262,12 +1262,16 @@
 		"description": ""
 	},
 	{
-		"title": "Het weerbericht op de radio: kan ik morgen naar het strand? (DL).",
-		"id": "9a2e053c-0515-405d-a28e-e770e94afa59"
+		"title": "Het weerbericht op de radio: kan ik morgen naar het strand?",
+		"id": "9a2e053c-0515-405d-a28e-e770e94afa59",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Sportuitslagen op de radio, over een bekende sport en met betrekking tot een bekende club of sporter: heeft mijn favoriet gewonnen? (DL).",
-		"id": "dd4f9dc7-bc76-4fc0-bcd9-c0b93b1d21e4"
+		"title": "Sportuitslagen op de radio, over een bekende sport en met betrekking tot een bekende club of sporter: heeft mijn favoriet gewonnen.",
+		"id": "dd4f9dc7-bc76-4fc0-bcd9-c0b93b1d21e4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een bericht op de radio over een file op een autoweg: hoe moet ik omrijden? (DL).",
@@ -5218,6 +5222,12 @@
 		"id": "ad8798c3-2556-4504-aac6-b1f29aadd83b",
 		"prefix": "",
 		"title": "Een bericht op de radio over waar er files staan en hoe lang deze zijn zoals bijvoorbeeld aantal kilometer, vertraging in tijd.",
+		"description": ""
+	},
+	{
+		"id": "db3adba4-c976-45fb-80fc-3a5fdbdc2cc9",
+		"prefix": "",
+		"title": "Een aankondiging op de radio: naam van het liedje dat gespeeld gaat worden na de reclame plus de naam van de artiest.",
 		"description": ""
 	}
 ]
