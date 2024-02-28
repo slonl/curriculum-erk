@@ -6919,7 +6919,13 @@
 		"title": "Kan bekende woorden, namen en getallen in simpele, korte opnamen herkennen, mits ze heel langzaam en duidelijk worden overgebracht.",
 		"id": "776c1dfb-12de-411b-b922-bedc95182e8d",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"a952e35f-57c0-4db8-8533-4245e316998c",
+			"8df0018f-5813-48af-8b10-6205a7107df9",
+			"bece64a3-3793-40c1-a05c-e0722ca34125",
+			"b0d0940f-4eb0-410d-a6fc-17713d3d7de2"
+		]
 	},
 	{
 		"niveau_id": [
