@@ -12623,7 +12623,12 @@
 		"id": "38eb1ecd-8bab-4c7f-a8d2-8c86bd54bda7",
 		"prefix": "",
 		"title": "Kan concrete informatie oppikken in korte opnamen over vertrouwde, alledaagse onderwerpen, als die informatie heel langzaam en duidelijk wordt overgebracht.\n",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"a0e803c3-9b13-4bec-9309-52c693082051",
+			"8a7cac47-c4f7-47f4-bac2-09ee3010cb02",
+			"4804dfc8-7789-4f71-b29e-7dc0c99c63d5"
+		]
 	},
 	{
 		"niveau_id": [
