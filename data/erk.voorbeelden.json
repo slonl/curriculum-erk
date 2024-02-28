@@ -5051,5 +5051,23 @@
 		"prefix": "",
 		"title": "Een discussie volgen over een actueel onderwerp.",
 		"description": ""
+	},
+	{
+		"id": "613aa83c-df90-4683-b797-b164c62c4984",
+		"prefix": "",
+		"title": "Op een buitenlandse school andere scholieren volgen die praten over cultuurverschillen tussen het gastland en het eigen land.",
+		"description": ""
+	},
+	{
+		"id": "0b9f7365-d66e-478a-8dc1-b24932ea9dda",
+		"prefix": "",
+		"title": "Een conversatie volgen in een druk café over een onderwerp uit de actualiteit.",
+		"description": ""
+	},
+	{
+		"id": "438ba232-6cd1-455e-84ef-eaee9c3bcd7e",
+		"prefix": "",
+		"title": "De conversatie volgen tussen toeschouwers bij een sportwedstrijd over de spelende teams.",
+		"description": ""
 	}
 ]
