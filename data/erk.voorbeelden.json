@@ -908,24 +908,34 @@
 		"id": "32810531-4380-4a4f-a95c-ba2a26ded4a2"
 	},
 	{
-		"title": "Een discussie over een nieuwe treindienstregeling (DL).",
-		"id": "134fc59a-5084-4553-b9e5-1815f0bd6bbe"
+		"title": "Een geanimeerde discussie volgen over een nieuwe treindienstregeling.",
+		"id": "134fc59a-5084-4553-b9e5-1815f0bd6bbe",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een gesprek waarin onvrede wordt geuit over een nieuwe schoolregel (OPL).",
-		"id": "adb88dfd-bcbd-459d-8e2a-1e47025accdb"
+		"title": "Een uitbundig gesprek volgen waarin onvrede wordt geuit over een nieuwe schoolregel.",
+		"id": "adb88dfd-bcbd-459d-8e2a-1e47025accdb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een enthousiaste uitwisseling van ideeën in verband met een te plannen schoolreis (OPL).",
-		"id": "58ceeab0-a4d1-47b9-a0a2-dc191f8f202f"
+		"title": "Een enthousiaste uitwisseling volgen van ideeën in verband met een te plannen schoolreis.",
+		"id": "58ceeab0-a4d1-47b9-a0a2-dc191f8f202f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een discussie van buitenlandse scholieren voor en tegen het gedogen van softdrugs (OPL).",
-		"id": "cc60c350-cd8b-4e99-8f27-230e4c811c31"
+		"title": "Een levendige discussie volgen van buitenlandse scholieren over de voors en tegens van het gedogen van softdrugs.",
+		"id": "cc60c350-cd8b-4e99-8f27-230e4c811c31",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De verschillende standpunten en posities van partijen tijdens een onderhandelingsgesprek over een bekend onderwerp (WE).",
-		"id": "a5b3b8ed-9146-4e94-b5ef-7dc35a94087a"
+		"title": "De verschillende standpunten en posities van partijen volgen tijdens een onderhandelingsgesprek over een bekend onderwerp.",
+		"id": "a5b3b8ed-9146-4e94-b5ef-7dc35a94087a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een discussie van experts over het verbeteren van werkgelegenheid voor jongeren (DL, OPL).",
