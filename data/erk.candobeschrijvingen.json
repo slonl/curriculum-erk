@@ -6977,7 +6977,10 @@
 		"title": "Kan begrijpen wat mensen in een interview vertellen over hun vrijetijdsbesteding, in het bijzonder wat ze wel en niet leuk vinden om te doen, mits ze dit langzaam en duidelijk doen.",
 		"id": "153a82e5-b136-4dd9-a994-2668da724ddc",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"cece08d7-b550-491d-9c7f-616414dc2773"
+		]
 	},
 	{
 		"niveau_id": [
