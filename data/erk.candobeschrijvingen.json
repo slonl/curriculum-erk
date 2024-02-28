@@ -6378,7 +6378,10 @@
 		"title": "Kan het chronologische verloop in een langer informeel betoog volgen.",
 		"id": "1e91a800-0034-42d4-a72c-37c7a3128d42",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"52a95493-7c7e-4111-bea4-77dd8b90ea89"
+		]
 	},
 	{
 		"niveau_id": [
