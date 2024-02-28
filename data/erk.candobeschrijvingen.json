@@ -6438,7 +6438,11 @@
 		"title": "Kan de sociaal-culturele implicaties herkennen van het grootste deel van de taal die in informele discussies in een natuurlijk tempo wordt gebruikt.",
 		"id": "3e9d29a7-3923-4530-af8b-99400270b671",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"303599e2-985d-4383-a9d8-cb55a5eeab84",
+			"d83411bd-34e9-40a3-b369-6dc7517b0fcc"
+		]
 	},
 	{
 		"niveau_id": [
