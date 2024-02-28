@@ -6363,7 +6363,13 @@
 		"title": "Kan de voornaamste argumenten voor of tegen een standpunt of idee herkennen in een discussie die in duidelijke standaardtaal of in een vertrouwde taalvariëteit wordt gevoerd.",
 		"id": "8b3239fd-5282-4576-a121-045bf2abd5d4",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"1840259c-3396-4bfb-b6fb-7abc019bfdc7",
+			"7a748646-af28-4ad6-a20e-7681f8cd8cab",
+			"7a748646-af28-4ad6-a20e-7681f8cd8cab",
+			"3a36ca37-3d28-4b82-9db7-9e3b04d832bb"
+		]
 	},
 	{
 		"niveau_id": [
