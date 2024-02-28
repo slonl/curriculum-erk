@@ -842,24 +842,32 @@
 		"id": "4a3df905-2162-4cfa-b1b6-0de78e8927da"
 	},
 	{
-		"title": "Een discussie onder buitenlandse scholieren over het gedogen van softdrugs (OPL).",
-		"id": "0948cc56-2a30-4718-a481-f4fce38f0015"
+		"title": "Een discussie volgen onder buitenlandse scholieren over het gebruiken van softdrugs.",
+		"id": "0948cc56-2a30-4718-a481-f4fce38f0015",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een discussie over een eerlijker verdeling van de werkzaamheden tijdens een stage of vakantiebaantje in het buitenland (OPL, WE).",
-		"id": "72a79a50-415d-49e5-b0f5-e36da1b31c58"
+		"title": "Een discussie volgen over een eerlijker verdeling van de werkzaamheden tijdens een stage of vakantiebaantje in het buitenland.",
+		"id": "72a79a50-415d-49e5-b0f5-e36da1b31c58",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een gesprek tussen buitenlandse leeftijdgenoten over muziek (DL).",
-		"id": "e87eed41-063b-469a-9324-e7b2282743bc"
+		"title": "Een gesprek volgen tussen buitenlandse leeftijdgenoten over muziek.",
+		"id": "e87eed41-063b-469a-9324-e7b2282743bc",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een gesprek tussen medereizigers in een trein of bus over onveiligheid op straat (DL).",
 		"id": "bfa10ad1-08ac-4469-b21f-2661a442655a"
 	},
 	{
-		"title": "Tijdens een werkoverleg een gesprek tussen collega's over uitgevoerde werkzaamheden (WE).",
-		"id": "83fba2fa-bb66-49fd-9738-562c3c805bcf"
+		"title": "Een gesprek volgen tussen collega's over uitgevoerde werkzaamheden.",
+		"id": "83fba2fa-bb66-49fd-9738-562c3c805bcf",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "De hoofdpunten van een beschrijving van bezienswaardigheden tijdens een excursie (PU).",
