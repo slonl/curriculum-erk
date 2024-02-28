@@ -6423,7 +6423,13 @@
 		"title": "Kan de houding bepalen van elke deelnemer aan een levendige discussie met overlappende beurten, afwijkingen van het onderwerp en spreektaaluitdrukkingen, als die discussie in een natuurlijk tempo en in vertrouwde taalvariëteiten wordt gevoerd.",
 		"id": "f5994fdf-cdbd-4cc8-8918-c733e0f9de0b",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"b087c6a2-ffa0-4c7c-b731-332553e1f5f0",
+			"9ffd571a-c42b-4f08-be38-ba4deae546b0",
+			"31ed4f65-d654-46be-94ff-3731d2e97a66",
+			"25609645-cec8-4e44-ad63-ccd77c0a25ad"
+		]
 	},
 	{
 		"niveau_id": [
