@@ -1348,28 +1348,40 @@
 		"description": ""
 	},
 	{
-		"title": "Een documentaire over het leven van een aantal glamourvoetballers (DL).",
-		"id": "a0209ac3-827e-4613-8db1-9b56a0003e15"
+		"title": "Een documentaire begrijpen over het leven van een aantal glamourvoetballers.",
+		"id": "a0209ac3-827e-4613-8db1-9b56a0003e15",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een interview met een lokale ondernemer op de radio (WE, OPL).",
-		"id": "4c24e565-9fc7-49bf-a677-f5292e9900f6"
+		"title": "Een interview begrijpen met een lokale ondernemer op de radio.",
+		"id": "4c24e565-9fc7-49bf-a677-f5292e9900f6",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een podcast van een deejay over een bepaalde muziekstroming (DL).",
-		"id": "9116c799-7e6c-4250-a2f5-6a5845fb3eaa"
+		"title": "Een podcast begrijpen van een deejay over een bepaalde muziekstroming.",
+		"id": "9116c799-7e6c-4250-a2f5-6a5845fb3eaa",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een acteur over zijn nieuwe film (DL).",
-		"id": "debc2e9d-62ab-4386-bc17-37a52198d633"
+		"title": "Een acteur begrijpen die praat over zijn nieuwe film.",
+		"id": "debc2e9d-62ab-4386-bc17-37a52198d633",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een discussieprogramma over een gevoelig/controversieel onderwerp (DL).",
-		"id": "a7275545-a6c3-48a5-b0bb-cd58eb838808"
+		"title": "In een discussieprogramma over een gevoelig/controversieel onderwerp de stemming en toon van de spreker herkennen.",
+		"id": "a7275545-a6c3-48a5-b0bb-cd58eb838808",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een kritisch/ironische documentaire oer een hamburgerketen (DL).",
-		"id": "bd44b40e-be4f-4cd9-908e-af9f13621f4f"
+		"title": "Een kritische/ironische toon herkennen in een documentaire over een hamburgerketen.",
+		"id": "bd44b40e-be4f-4cd9-908e-af9f13621f4f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een reportage over schrijnende gevallen van kinderarbeid (DL).",
