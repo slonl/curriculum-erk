@@ -6305,7 +6305,12 @@
 		"title": "Kan in een langzaam en duidelijk gevoerde discussie herkennen of mensen het wel of niet met elkaar eens zijn.\n",
 		"id": "9d12b673-ed5c-47df-b918-38d08870564b",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"57f54bd2-23a2-4548-b98d-4f26937a2b27",
+			"82391cc0-5775-4a4c-b4a0-c6b63d559b64",
+			"8cfe1294-d1a7-4718-9ee3-610353e8c632"
+		]
 	},
 	{
 		"niveau_id": [
