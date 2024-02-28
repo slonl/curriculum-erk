@@ -5005,5 +5005,23 @@
 		"prefix": "",
 		"title": "Een discussie tussen vrienden over de beleving van een film of boek.",
 		"description": ""
+	},
+	{
+		"id": "57f54bd2-23a2-4548-b98d-4f26937a2b27",
+		"prefix": "",
+		"title": "Een discussie in een vriendengroep over de vraag welk sportteam het beste is.",
+		"description": ""
+	},
+	{
+		"id": "82391cc0-5775-4a4c-b4a0-c6b63d559b64",
+		"prefix": "",
+		"title": "Tijdens een uitwisseling met een partnerschool: de bijeenkomst van de leerlingenraad gaat over het gebruik van mobiele telefoons in de klas.",
+		"description": ""
+	},
+	{
+		"id": "8cfe1294-d1a7-4718-9ee3-610353e8c632",
+		"prefix": "",
+		"title": "In de bioscoop: na afloop van de film, een discussie tussen bezoekers over de film begrijpen.",
+		"description": ""
 	}
 ]
