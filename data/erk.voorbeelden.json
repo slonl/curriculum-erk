@@ -5069,5 +5069,23 @@
 		"prefix": "",
 		"title": "De conversatie volgen tussen toeschouwers bij een sportwedstrijd over de spelende teams.",
 		"description": ""
+	},
+	{
+		"id": "1840259c-3396-4bfb-b6fb-7abc019bfdc7",
+		"prefix": "",
+		"title": "In een gesprek tussen buitenlandse leeftijdgenoten de voordelen en nadelen van een nieuw computerspel herkennen.",
+		"description": ""
+	},
+	{
+		"id": "7a748646-af28-4ad6-a20e-7681f8cd8cab",
+		"prefix": "",
+		"title": "In een gesprek tussen vrienden in een café de voors en tegens van hun studieplannen herkennen.",
+		"description": ""
+	},
+	{
+		"id": "3a36ca37-3d28-4b82-9db7-9e3b04d832bb",
+		"prefix": "",
+		"title": "Tijdens een buitenlandse stage in een gesprek tussen collega's de voors en tegens herkennen over een op handen zijnde reorganisatie.",
+		"description": ""
 	}
 ]
