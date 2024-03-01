@@ -7250,7 +7250,10 @@
 		"isempty": true,
 		"id": "b3b3f57f-dfbc-4c20-b562-bb6530833fdd",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"5706876a-fdfe-45b0-abe5-682ffabd0e62"
+		]
 	},
 	{
 		"niveau_id": [
