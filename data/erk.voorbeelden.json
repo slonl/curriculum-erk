@@ -20,28 +20,38 @@
 		"id": "67b161ba-b2da-4b76-916e-cd8479ff354e"
 	},
 	{
-		"title": "Een bevestiging van aanschaf van een product (DL).",
-		"id": "1ff43de2-074a-4519-8e5c-9fdc38d17d59"
+		"title": "Een simpele aankoopbevestiging van een product.",
+		"id": "1ff43de2-074a-4519-8e5c-9fdc38d17d59",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een kort bericht (app) met de herinnering voor een afspraak, met datum, tijd en plaats (DL).",
-		"id": "9fab514a-544f-4eb9-b754-d1c8854953b3"
+		"title": "Een digitaal bericht met de herinnering voor een tandartsafspraak, met datum, tijd en plaats.",
+		"id": "9fab514a-544f-4eb9-b754-d1c8854953b3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een digitaal bericht waarin staat dat de zender er direct aankomt (DL, WE).",
 		"id": "996d7bb7-22e5-4f95-ae84-0375f55cef9a"
 	},
 	{
-		"title": "Een ansichtkaart met vakantiegroeten of vakantiegroeten of Facebook (DL).",
-		"id": "8c76cda9-cd79-47d5-bf1f-bce3aca977e0"
+		"title": "Een aankondiging op sociale media voor een concert van je favoriete artiest.",
+		"id": "8c76cda9-cd79-47d5-bf1f-bce3aca977e0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een e-mail met bevestiging van de aankomsttijd van een buitenlandse gast (WE).",
-		"id": "c2abe5e2-4f79-47a5-b5a1-4fbd2d6a970e"
+		"title": "Een e-mail met de plaats en tijd voor je volgende sportwedstrijd.",
+		"id": "c2abe5e2-4f79-47a5-b5a1-4fbd2d6a970e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een voorstel om iets te doen, wanneer en waar af te spreken (DL).",
-		"id": "8c9cb5f5-e80b-4b0f-9207-99737a58ea41"
+		"title": "Een kort berichtje van vrienden met het voorstel om komend weekend naar de bioscoop te gaan.",
+		"id": "8c9cb5f5-e80b-4b0f-9207-99737a58ea41",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een mededeling over weer en verblijfplaats tijdens de vakantie (DL).",
