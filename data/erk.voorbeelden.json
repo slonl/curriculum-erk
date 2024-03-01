@@ -5523,5 +5523,23 @@
 		"prefix": "",
 		"title": "De hoofdpunten/belangrijkste informatie opmaken uit een chatbericht met een uitnodiging voor een filmavond bij vrienden.",
 		"description": ""
+	},
+	{
+		"id": "7bf7102c-f3d3-4a68-a173-8eb45dc60df2",
+		"prefix": "",
+		"title": "Uit een zeer eenvoudig berichtje opmaken in welk lokaal er morgen les is.",
+		"description": ""
+	},
+	{
+		"id": "0823f4c2-fec2-434f-a480-5edff78048eb",
+		"prefix": "",
+		"title": "Uit een zeer eenvoudig berichtje van vrienden opmaken dat ze iets later komen.",
+		"description": ""
+	},
+	{
+		"id": "db3fbcd9-c696-4a51-bbec-a1b58aa74b21",
+		"prefix": "",
+		"title": "Uit een zeer eenvoudig briefje op de deur opmaken dat de bel stuk is.",
+		"description": ""
 	}
 ]
