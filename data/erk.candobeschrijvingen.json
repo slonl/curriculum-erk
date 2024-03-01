@@ -7126,7 +7126,12 @@
 		"title": "Kan een televisiereclame of een trailer voor of scène uit een film volgen en kan begrijpen over welke onderwerpen het gaat, mits de beelden het begrip sterk ondersteunen en er duidelijk en relatief langzaam wordt gesproken.",
 		"id": "f9033d2b-b1a2-40d1-b5ae-03c055dd7bbb",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"fd136119-9776-49d6-961c-0ca40e041a75",
+			"346a29cb-0d55-4838-84c7-bb11a8c23a7d",
+			"45222c4e-d8f5-44df-a7d9-eb62b0fdf265"
+		]
 	},
 	{
 		"niveau_id": [
