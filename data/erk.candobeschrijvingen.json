@@ -4974,11 +4974,6 @@
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
 		"erk_voorbeeld_id": [
-			"653b16d3-e8bb-4ad4-a039-94974f5b96e4",
-			"076783f0-c981-47f0-b2e3-6ed96119844b",
-			"3eae0012-e07e-4329-a1d3-2fcbe88cea96",
-			"9fdd6b92-8490-4f46-9020-969c9ed66995",
-			"67b161ba-b2da-4b76-916e-cd8479ff354e",
 			"a441b204-9500-491c-8283-9e99beeef6da"
 		],
 		"title": "Kan korte, eenvoudige berichten op brief- of ansichtkaarten begrijpen.",
@@ -5021,7 +5016,10 @@
 		"title": "Kan een eenvoudige persoonlijke brief of e-mail of een eenvoudig persoonlijk bericht op het internet begrijpen waarin de schrijver over vertrouwde onderwerpen schrijft (zoals vrienden of familie) of vragen over deze onderwerpen stelt.",
 		"id": "966d183f-50cc-4b65-b9bb-0fc642e69982",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"4cc78db9-453e-4a80-869d-ebfafa41b287"
+		]
 	},
 	{
 		"niveau_id": [
