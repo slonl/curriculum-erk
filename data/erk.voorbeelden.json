@@ -1470,12 +1470,16 @@
 		"id": "47b24f8b-27e1-428b-8942-6b445fa275e0"
 	},
 	{
-		"title": "Korte documentaires over de natuur, vrije tijd (DL).",
-		"id": "5f49a20b-31b0-4ff3-94a3-c4526a7ee694"
+		"title": "Korte documentaires begrijpen over de natuur, vrije tijd.",
+		"id": "5f49a20b-31b0-4ff3-94a3-c4526a7ee694",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een verhaal over het leven van een bekende persoonlijkheid, zoals een sportheld, popster, acteur (PU).",
-		"id": "d2e81caf-fb66-4946-9c0b-4d27bc4af323"
+		"title": "Een documentaire begrijpen over het leven van een bekende persoonlijkheid, zoals een sportheld, een popster, een acteur.",
+		"id": "d2e81caf-fb66-4946-9c0b-4d27bc4af323",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een interview met een bekende persoonlijkheid uit de wereld van sport, film of tv (DL, PU).",
