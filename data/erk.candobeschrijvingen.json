@@ -7074,7 +7074,10 @@
 		"title": "Kan het onderwerp van een videodocument herkennen op basis van visuele informatie en voorkennis.",
 		"id": "884ce79c-c32f-481e-9416-f4a87fac3489",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"3a25a6fb-f7fe-4767-8ce0-47fa68e0d2a9"
+		]
 	},
 	{
 		"niveau_id": [
