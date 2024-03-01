@@ -5132,15 +5132,15 @@
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
 		"erk_voorbeeld_id": [
-			"5a52cd71-61d7-4598-9c93-ff07f7956c64",
 			"266786f0-09dc-4990-8811-daa4c99d3dd0",
 			"db541519-c40f-4e2b-8f8d-99952ff068a9",
 			"2e53b2ab-44a4-4520-9c08-148505a92f27",
-			"3eab023d-705e-4822-9f0f-ecd03ea3ba6d",
-			"e4dc4acf-3f74-40bd-bb9b-a1cf81f84e32"
+			"3eab023d-705e-4822-9f0f-ecd03ea3ba6d"
 		],
 		"title": "Kan alle correspondentie begrijpen, een enkele keer met behulp van een woordenboek.",
-		"id": "166aab40-d4ee-49a8-9b4d-ed05e8492559"
+		"id": "166aab40-d4ee-49a8-9b4d-ed05e8492559",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
