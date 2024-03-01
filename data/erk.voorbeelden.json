@@ -5621,5 +5621,17 @@
 		"prefix": "",
 		"title": "Een verslag van de persoonlijke beleving van een sportwedstrijd waar diegene aan deelgenomen heeft begrijpen.",
 		"description": ""
+	},
+	{
+		"id": "96df5af8-23ad-48b4-957f-90c6f96a350e",
+		"prefix": "",
+		"title": "Een verzoek begrijpen om mee te doen aan een e-mailactie ten bate van een maatschappelijk belang en dit delen met je vrienden.",
+		"description": ""
+	},
+	{
+		"id": "8e59ab0f-e61f-45f2-b1e5-eb2513ece1de",
+		"prefix": "",
+		"title": "Een oproepbrief begrijpen voor een inzamelingsactie en delen met je volgers.",
+		"description": ""
 	}
 ]
