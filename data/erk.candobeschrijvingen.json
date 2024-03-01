@@ -5173,7 +5173,10 @@
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
 		"title": "Kan specialistische, formele correspondentie over een complex onderwerp begrijpen.",
-		"id": "69321888-830d-4a25-a128-53fd47923cfb"
+		"id": "69321888-830d-4a25-a128-53fd47923cfb",
+		"erk_voorbeeld_id": [
+			"b3d62d42-3472-4d46-972e-002f65315bdb"
+		]
 	},
 	{
 		"niveau_id": [
