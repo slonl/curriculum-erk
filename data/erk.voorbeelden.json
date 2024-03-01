@@ -1384,12 +1384,16 @@
 		"description": ""
 	},
 	{
-		"title": "Een reportage over schrijnende gevallen van kinderarbeid (DL).",
-		"id": "4d99ee4d-b79a-4392-918e-53d7b59c861f"
+		"title": "Een reportage begrijpen en daarin de standpunten en houdingen herkennen over schrijnende gevallen van kinderarbeid.",
+		"id": "4d99ee4d-b79a-4392-918e-53d7b59c861f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een debatover klassengrootte of de opwarming van de aarde (OPL, DL).",
-		"id": "8adff60d-14d3-4998-b551-694f4a815c72"
+		"title": "Een debat begrijpen en daarin de standpunten en houdingen herkennen over klassengrootte of de opwarming van de aarde.",
+		"id": "8adff60d-14d3-4998-b551-694f4a815c72",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een documentaire over de invloed van schommelende olieprijzen op economische groei (PU).",
@@ -5294,6 +5298,12 @@
 		"id": "1cad8c04-251c-4fc0-ad55-a172c20c54d3",
 		"prefix": "",
 		"title": "Een hoofdstuk begrijpen van een luisterboek passend bij de belevingswereld.",
+		"description": ""
+	},
+	{
+		"id": "e51ec1ce-743d-4e3b-932e-dbdcefa8e590",
+		"prefix": "",
+		"title": "Een podcast begrijpen en daarin de standpunten en houdingen herkennen over een literaire onderwerp.",
 		"description": ""
 	}
 ]
