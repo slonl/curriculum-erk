@@ -7210,7 +7210,11 @@
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
 		"title": "Kan de belangrijkste punten oppikken van argumenten en discussies in nieuws- en actualiteitenprogramma's.",
-		"id": "8548bc03-be81-4640-8bfe-7b468174b346"
+		"id": "8548bc03-be81-4640-8bfe-7b468174b346",
+		"erk_voorbeeld_id": [
+			"cd3e0ee3-c0ca-4dfd-9668-d715fce86e96",
+			"85357d41-dd22-4cb9-a142-4cc8eeb89206"
+		]
 	},
 	{
 		"niveau_id": [
