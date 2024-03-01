@@ -5121,7 +5121,11 @@
 		"title": "Kan begrijpen wat in een persoonlijke e-mail of een persoonlijk bericht wordt gezegd, zelfs als er enige spreektaal wordt gebruikt.",
 		"id": "a31f9ad2-16f9-4c75-9dd8-a8c97cae2c82",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"1fadc074-1b65-4527-ac42-4225f897c4fe",
+			"08829adf-9a44-4f6c-90d2-85bbc5dd5935"
+		]
 	},
 	{
 		"niveau_id": [
