@@ -5671,5 +5671,17 @@
 		"prefix": "",
 		"title": "Een forum op de website van een politieke partij of een maatschappelijke organisatie begrijpen.",
 		"description": ""
+	},
+	{
+		"id": "e048e287-cb50-467a-b64a-7f86512b4354",
+		"prefix": "",
+		"title": "Een chatgesprek begrijpen waarin mensen ervaringen uitwisselen.",
+		"description": ""
+	},
+	{
+		"id": "9365e01b-c9c2-472b-a14f-0b80c36f8c4a",
+		"prefix": "",
+		"title": "Persoonlijke berichten in een werkgerelateerde groepsapp of e-mail begrijpen.",
+		"description": ""
 	}
 ]
