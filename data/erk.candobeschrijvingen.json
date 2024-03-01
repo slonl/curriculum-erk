@@ -5162,7 +5162,11 @@
 		"title": "Kan slang, idiomatische uitdrukkingen en grappen in persoonlijke correspondentie begrijpen.",
 		"id": "8d203fdf-97ea-47a0-9ead-f4d03828176c",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"e048e287-cb50-467a-b64a-7f86512b4354",
+			"9365e01b-c9c2-472b-a14f-0b80c36f8c4a"
+		]
 	},
 	{
 		"niveau_id": [
