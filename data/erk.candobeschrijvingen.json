@@ -4949,7 +4949,11 @@
 		"title": "Kan uit een brief, kaart of e-mail opmaken voor wat voor gelegenheid er wordt uitgenodigd en op welke dag, tijd en locatie het evenement plaatsvindt.",
 		"id": "ae6d2251-af9b-4acf-822f-ff7f096fcb34",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"48ce1844-52e0-4b79-8443-919faeb617b1",
+			"0120562e-22b8-4b8e-985f-562c3fc48fbd"
+		]
 	},
 	{
 		"niveau_id": [
