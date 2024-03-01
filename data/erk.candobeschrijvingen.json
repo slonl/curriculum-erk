@@ -4962,7 +4962,12 @@
 		"title": "Kan tijden en plaatsen herkennen in zeer eenvoudige briefjes en tekstberichten van vrienden of collega's, bijvoorbeeld 'Ben om 4 uur terug' of 'In de vergaderruimte', mits er geen afkortingen in zijn gebruikt.",
 		"id": "6c0a727d-1905-4cc5-b02e-1de0f6ab14de",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"7bf7102c-f3d3-4a68-a173-8eb45dc60df2",
+			"0823f4c2-fec2-434f-a480-5edff78048eb",
+			"db3fbcd9-c696-4a51-bbec-a1b58aa74b21"
+		]
 	},
 	{
 		"niveau_id": [
