@@ -1396,12 +1396,16 @@
 		"description": ""
 	},
 	{
-		"title": "Een documentaire over de invloed van schommelende olieprijzen op economische groei (PU).",
-		"id": "dd18f734-7067-483f-b1df-6db3f6b055f7"
+		"title": "Een documentaire over de invloed van schommelende energieprijzen op economische groei.",
+		"id": "dd18f734-7067-483f-b1df-6db3f6b055f7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een politiek debat (PU).",
-		"id": "d03915ac-5352-4572-8e57-803959c5d9e7"
+		"title": "Een politiek debat.",
+		"id": "d03915ac-5352-4572-8e57-803959c5d9e7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Nieuwsberichten over bekende personen en plaatsen (DL).",
