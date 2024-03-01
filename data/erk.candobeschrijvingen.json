@@ -7086,7 +7086,11 @@
 		"title": "Kan vertrouwde woorden en frasen herkennen, onderwerpen in de hoofdpunten van het nieuws onderscheiden en veel van de producten in reclameboodschappen identificeren door visuele informatie en algemene kennis te gebruiken.",
 		"id": "da3fc5cc-86d6-4406-96b9-0741807bff87",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"80422d49-e47e-4b72-b5af-6ce19fe874dc",
+			"f91e8641-f46f-4967-9b9d-b4abe25f143d"
+		]
 	},
 	{
 		"niveau_id": [
@@ -7094,8 +7098,7 @@
 		],
 		"erk_voorbeeld_id": [
 			"b06b9fbf-f508-4c9d-9e0e-426da82aca23",
-			"99f3dd56-1d9f-4ffb-bd5e-c1b395debb02",
-			"14b92d3b-f587-45c3-931a-c291cacfecb7"
+			"99f3dd56-1d9f-4ffb-bd5e-c1b395debb02"
 		],
 		"title": "Kan veranderingen van onderwerp volgen in een feitelijk nieuwsbericht op televisie en zich een indruk vormen van de belangrijkste inhoud.",
 		"id": "e7be54b5-e8e4-4046-992d-4a3f42288858",
