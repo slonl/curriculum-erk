@@ -12731,7 +12731,13 @@
 		"id": "19971876-3f1f-46c9-9c1a-fcb1de2d6597",
 		"prefix": "",
 		"title": "Kan tot in detail de argumenten begrijpen die worden gepresenteerd in veeleisende televisie-uitzendingen zoals actualiteitenprogramma's, interviews, discussieprogramma's en talkshows.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"d35ea824-555e-446c-bc23-bf96e419c508",
+			"ad11ca48-d8c0-4e2c-8df0-2c425ec74ec1",
+			"7a59353e-1980-4af3-bb87-04304ba34c66",
+			"a4050384-6882-46d6-8a5f-14b7cfc3d786"
+		]
 	},
 	{
 		"niveau_id": [
