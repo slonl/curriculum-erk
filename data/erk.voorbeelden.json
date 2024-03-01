@@ -126,16 +126,22 @@
 		"id": "9a1916aa-7001-4e5a-8c99-c7767f93e093"
 	},
 	{
-		"title": "De beschrijving van gevoelens of wensen (DL).",
-		"id": "07ff8c66-25a6-4fe7-917e-83e99957b0c2"
+		"title": "De mening begrijpen van een correspondentiepartner over school of opleiding.",
+		"id": "07ff8c66-25a6-4fe7-917e-83e99957b0c2",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een verslag van gebeurtenissen (DL).",
-		"id": "5a214186-f243-46bd-ba28-85468194b581"
+		"title": "Een bericht van de correspondentiepartner begrijpen over diens eigen toekomstplannen en ambities.",
+		"id": "5a214186-f243-46bd-ba28-85468194b581",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een verzoek om mee te doen aan een e-mail-actie ten bate van een maatschappelijk belang (DL).",
-		"id": "c8dd2048-c975-462d-8c96-1463e13db9be"
+		"title": "Een verslag van een ingrijpende gebeurtenis en hoe de correspondentiepartner zich erbij voelde begrijpen.",
+		"id": "c8dd2048-c975-462d-8c96-1463e13db9be",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een bevestigingsbrief begrijpen van een bedrijf voor een buitenlandse stage (OPL).",
