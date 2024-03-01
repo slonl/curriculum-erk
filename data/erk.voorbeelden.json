@@ -1428,16 +1428,22 @@
 		"id": "14b92d3b-f587-45c3-931a-c291cacfecb7"
 	},
 	{
-		"title": "Een bericht over een ramp; aardbeving, grote brand, neerstorten vliegtuig (DL).",
-		"id": "89efbeeb-cfb5-480a-ba00-e5dc495056f2"
+		"title": "Een bericht begrijpen over een ramp, bijvoorbeeld een aardbeving, een grote brand, het neerstorten van een vliegtuig.",
+		"id": "89efbeeb-cfb5-480a-ba00-e5dc495056f2",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een bericht over het huwelijk van bekende personen (DL).",
-		"id": "be7ce271-959b-4c49-8e7c-a95f1bff6c9b"
+		"title": "Een bericht begrijpen over het huwelijk van bekende personen.",
+		"id": "be7ce271-959b-4c49-8e7c-a95f1bff6c9b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een item over transfers in het voetbal (DL).",
-		"id": "ba0ee599-ee1d-4cf5-8d79-b4aa574ab374"
+		"title": "Een item begrijpen over transfers in het voetbal.",
+		"id": "ba0ee599-ee1d-4cf5-8d79-b4aa574ab374",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een verslag van een terroristische aanslag (DL).",
