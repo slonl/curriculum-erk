@@ -7138,12 +7138,13 @@
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
 		"erk_voorbeeld_id": [
-			"940fa686-288d-4ce1-b33d-a1fe38316983",
 			"97a520b6-c30a-4954-91a5-7c2a6e7ffac9",
 			"8c33a425-703a-41d4-b3c8-34a824d0636e"
 		],
 		"title": "Kan veel films volgen waarin een groot deel van de verhaallijn wordt gedragen door visuele effecten en actiescènes en die helder worden gepresenteerd in directe taal.",
-		"id": "b2b26422-6688-4caa-af84-e0bfcd7d2ff3"
+		"id": "b2b26422-6688-4caa-af84-e0bfcd7d2ff3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
