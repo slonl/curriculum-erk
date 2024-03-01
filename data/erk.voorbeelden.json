@@ -74,12 +74,16 @@
 		"id": "a4dec6c3-4d85-4659-81ee-32dab6ab9f72"
 	},
 	{
-		"title": "Een bevestiging van een vakantieverblijf per e-mail (DL).",
-		"id": "19b23471-3d0b-4134-9d45-c6cbe7d55c0c"
+		"title": "Een bevestiging van een vakantieverblijf per e-mail begrijpen.",
+		"id": "19b23471-3d0b-4134-9d45-c6cbe7d55c0c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een bericht van een officiële instantie over een tijdelijk parkeerverbod dichtbij de camping waar je verblijft (PU).",
-		"id": "1f5e16c8-c610-48a7-ba3e-4832c9a78471"
+		"title": "Een bericht van een officiële instantie over een tijdelijk parkeerverbod begrijpen.",
+		"id": "1f5e16c8-c610-48a7-ba3e-4832c9a78471",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "In een (stage)bedrijf een brief over het opnemen van verlofdagen (OPL, WE).",
@@ -90,12 +94,16 @@
 		"id": "191cf233-f45c-42d5-a908-1fb24b008242"
 	},
 	{
-		"title": "De gegevens van een bestelling of order in een bijlage bij een e-mail (WE).",
-		"id": "36438b6b-6d93-409f-9393-df5d57edbd69"
+		"title": "De gegevens van een bestelling in een bijlage bij een e-mail begrijpen, bijvoorbeeld voor je nieuwe telefoon, game of kleding.",
+		"id": "36438b6b-6d93-409f-9393-df5d57edbd69",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een bericht van een officiële instantie/school/instituut of bedrijf waar de leerling is toegelaten (OPL, WE).",
-		"id": "32671bad-f6cc-4fbf-8d94-7f54632813da"
+		"title": "Een bericht van een school, instituut of instantie begrijpen dat je bent toegelaten voor een cursus.",
+		"id": "32671bad-f6cc-4fbf-8d94-7f54632813da",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "De beschrijving van een feest (DL).",
