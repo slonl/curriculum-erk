@@ -1454,12 +1454,16 @@
 		"id": "940fa686-288d-4ce1-b33d-a1fe38316983"
 	},
 	{
-		"title": "Een avonturenfilm met een eenvoudige verhaallijn en een duidelijk onderscheid tussen de 'goeden' en de 'kwaden' (DL).",
-		"id": "97a520b6-c30a-4954-91a5-7c2a6e7ffac9"
+		"title": "Een avonturenfilm volgen met een eenvoudige verhaallijn en een duidelijk onderscheid tussen goed en kwaad.",
+		"id": "97a520b6-c30a-4954-91a5-7c2a6e7ffac9",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een jeugdfilm met een eenvoudige verhaallijn (DL, OPL).",
-		"id": "8c33a425-703a-41d4-b3c8-34a824d0636e"
+		"title": "Een jeugdfilm volgen met een eenvoudige verhaallijn.",
+		"id": "8c33a425-703a-41d4-b3c8-34a824d0636e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Reclamefilmpjes met een duidelijk verhaal erin (PU).",
