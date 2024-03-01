@@ -5583,5 +5583,29 @@
 		"prefix": "",
 		"title": "Een brief, e-mail of (chat-)bericht begrijpen van een correspondentiepartner over de opening van een filiaal van je favoriete winkel, tips voor het uitgaan in een bekende stad, een (geslaagd/afgelast) schoolfeest, een nieuwe eenvoudige game.",
 		"description": ""
+	},
+	{
+		"id": "8d71d5bb-e796-434f-a7de-c28784026a8a",
+		"prefix": "",
+		"title": "Een beschrijving van een feest begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "97d23846-1680-40c7-80b3-5b01adbb9510",
+		"prefix": "",
+		"title": "Een beschrijving van de correspondentiepartner over diens bijbaantje begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "1eaeb61e-f22b-41f7-9205-a900df016c18",
+		"prefix": "",
+		"title": "Een beschrijving van de persoonlijke ervaringen met een nieuwe opleiding of een nieuwe baan of stage begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "ebf2666d-e213-4f84-8ff8-8aee6e9bd5dd",
+		"prefix": "",
+		"title": "Een verslag van de persoonlijke beleving van een sportwedstrijd waar diegene aan deelgenomen heeft begrijpen.",
+		"description": ""
 	}
 ]
