@@ -144,32 +144,46 @@
 		"description": ""
 	},
 	{
-		"title": "Een bevestigingsbrief begrijpen van een bedrijf voor een buitenlandse stage (OPL).",
-		"id": "7a3e721e-7009-42ff-8eca-32a664c25e6b"
+		"title": "Een bevestigingsbrief begrijpen van een bedrijf voor een buitenlandse stage.",
+		"id": "7a3e721e-7009-42ff-8eca-32a664c25e6b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De juistheid van gemaakte afspraken controleren in een bevestigingsbrief of e-mail, zoals bij het huren van een appartement, een schooluitwisseling, een bedrijfsbezoek (PU, OPL, WE).",
-		"id": "8c47660b-7484-4b5a-985b-459d53c3946e"
+		"title": "De juistheid van gemaakte afspraken begrijpen en controleren in een bevestigingsbrief of e-mail, zoals bij het huren van een appartement, een schooluitwisseling, een bedrijfsbezoek.",
+		"id": "8c47660b-7484-4b5a-985b-459d53c3946e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Bij een klacht inschatten wat er aan de hand is en wat er gedaan moet worden (WE).",
-		"id": "81b828b3-972c-4996-8c21-75c37722bf6e"
+		"title": "Een klacht begrijpen en kunnen inschatten wat er aan de hand is en wat er gedaan moet worden.",
+		"id": "81b828b3-972c-4996-8c21-75c37722bf6e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vaststellen of de introductiebrief van een potentiële partnerschool of nieuwe firma interessant genoeg is om contact op te nemen (OPL, WE).",
-		"id": "ac428ffb-1d4f-491b-97cb-ca0be73cf363"
+		"title": "Een oproep begrijpen op het internet waarbij ze testpersonen zoeken voor een nieuw parfum.",
+		"id": "ac428ffb-1d4f-491b-97cb-ca0be73cf363",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Bij deelname aan een internationaal project het werkstuk aanpassen op basis van opmerkingen van de buitenlandse partner (OPL).",
-		"id": "fcef1796-ce7b-4012-bc72-d3daa9e4d19c"
+		"title": "Vacatures voor internationale vakantiebaantjes op sociale media begrijpen.",
+		"id": "fcef1796-ce7b-4012-bc72-d3daa9e4d19c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een bevestiging van de uitwisselingsschool dat de tijdelijke vervoerskaart klaarligt (OPL).",
-		"id": "5be8ec6b-77e3-454c-8905-e28390291c07"
+		"title": "Een bevestiging begrijpen van de uitwisselingsschool dat de tijdelijke vervoerskaart klaarligt.",
+		"id": "5be8ec6b-77e3-454c-8905-e28390291c07",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een verzoek om informatie begrijpen om vervolgens de juiste gegevens te kunnen verzamelen (WE).",
-		"id": "aeb7d053-8c40-4412-91d9-b1e93bf282e6"
+		"title": "Een verzoek om informatie begrijpen om vervolgens de juiste gegevens te kunnen verzamelen.",
+		"id": "aeb7d053-8c40-4412-91d9-b1e93bf282e6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een brief van een buitenlandse vriend of familielid waarin deze een complex persoonlijk of zakelijk probleem beschrijft (DL).",
