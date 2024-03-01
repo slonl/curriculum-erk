@@ -1548,8 +1548,10 @@
 		"description": ""
 	},
 	{
-		"title": "Speelfilms met veel 'slang' (DL).",
-		"id": "6ab9bdd2-9530-46d6-8c37-dcc20c029d12"
+		"title": "Een speelfilm volgen met veel 'slang'.",
+		"id": "6ab9bdd2-9530-46d6-8c37-dcc20c029d12",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Reisplannen voor de volgende vakantie (DL).",
@@ -5448,6 +5450,12 @@
 		"id": "85357d41-dd22-4cb9-a142-4cc8eeb89206",
 		"prefix": "",
 		"title": "De belangrijkste punten halen uit een live praatprogramma over de actualiteit met gasten uit politiek en cultuur.",
+		"description": ""
+	},
+	{
+		"id": "e356c6e5-4811-4006-8c47-f665ec7cc015",
+		"prefix": "",
+		"title": "Een serie via een streamingsdienst volgen over het leven op het platteland in de 19e eeuw.",
 		"description": ""
 	}
 ]
