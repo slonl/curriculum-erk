@@ -5057,7 +5057,14 @@
 		"title": "Kan directe persoonlijke brieven, e-mails of berichten begrijpen waarin betrekkelijk gedetailleerd verslag wordt gedaan van gebeurtenissen en ervaringen.",
 		"id": "17d24ad6-7741-4bd3-9b4d-a088f8ccb927",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"8d71d5bb-e796-434f-a7de-c28784026a8a",
+			"97d23846-1680-40c7-80b3-5b01adbb9510",
+			"97d23846-1680-40c7-80b3-5b01adbb9510",
+			"1eaeb61e-f22b-41f7-9205-a900df016c18",
+			"ebf2666d-e213-4f84-8ff8-8aee6e9bd5dd"
+		]
 	},
 	{
 		"niveau_id": [
