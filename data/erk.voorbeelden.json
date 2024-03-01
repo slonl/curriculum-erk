@@ -1318,12 +1318,16 @@
 		"id": "f01c8a6f-2808-48ac-b1f6-40db7ad2334a"
 	},
 	{
-		"title": "Een eenvoudig programma over een actueel of maatschappelijk onderwerp (DL, PU).",
-		"id": "96cfd07e-d596-4644-92e2-2253b060d04f"
+		"title": "Een eenvoudig programma begrijpen over een actueel of maatschappelijk onderwerp.",
+		"id": "96cfd07e-d596-4644-92e2-2253b060d04f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Verkeersinformatie, met aanwijzingen over omleidingen (PU).",
-		"id": "e87ba1e8-86b9-4264-8f56-308b16b70b64"
+		"title": "Verkeersinformatie begrijpen met aanwijzingen over omleidingen.",
+		"id": "e87ba1e8-86b9-4264-8f56-308b16b70b64",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een verslag van een vakantie (DL).",
@@ -5320,6 +5324,18 @@
 		"id": "5df508f8-6973-4029-8699-43524db4f35d",
 		"prefix": "",
 		"title": "Een commercial begrijpen, bijvoorbeeld van een reisbureau over hun nieuwe, compleet verzorgde rondreis, een telecomprovider over het voordeligste telefoonabonnement, een verzekeringsmaatschappij over een nieuw soort verzekering, de aankondiging van een nieuw product, bijvoorbeeld een game of modeartikel.",
+		"description": ""
+	},
+	{
+		"id": "01a94e8f-7e0d-456d-a302-29f3c9cf2f7a",
+		"prefix": "",
+		"title": "Een podcast begrijpen voor en door jongeren.",
+		"description": ""
+	},
+	{
+		"id": "91f58241-8bed-4ffe-bdfa-6e813197dde7",
+		"prefix": "",
+		"title": "Een radioprogramma of een opname op sociale media begrijpen over nieuw verschenen boeken voor de zomervakantie.",
 		"description": ""
 	}
 ]
