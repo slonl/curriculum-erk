@@ -7151,12 +7151,13 @@
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
 		"erk_voorbeeld_id": [
-			"47b24f8b-27e1-428b-8942-6b445fa275e0",
 			"5f49a20b-31b0-4ff3-94a3-c4526a7ee694",
 			"d2e81caf-fb66-4946-9c0b-4d27bc4af323"
 		],
 		"title": "Kan de hoofdpunten vatten van televisieprogramma's over vertrouwde onderwerpen wanneer deze betrekkelijk langzaam en helder worden gepresenteerd.",
-		"id": "364d585d-7101-4f8b-9a31-ea3b469e4893"
+		"id": "364d585d-7101-4f8b-9a31-ea3b469e4893",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
