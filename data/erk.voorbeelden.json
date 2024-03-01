@@ -1412,12 +1412,16 @@
 		"description": ""
 	},
 	{
-		"title": "Nieuwsberichten over bekende personen en plaatsen (DL).",
-		"id": "b06b9fbf-f508-4c9d-9e0e-426da82aca23"
+		"title": "De nieuwslezer volgen die een reportage over een treinstoring afrondt en daarna een item over een vulkaanuitbarsting aankondigt.",
+		"id": "b06b9fbf-f508-4c9d-9e0e-426da82aca23",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Sportuitzendingen (DL).",
-		"id": "99f3dd56-1d9f-4ffb-bd5e-c1b395debb02"
+		"title": "De nieuwslezer volgen die na het bespreken van het sportnieuws overschakelt naar de studio waar de weersvoorspellingen worden gepresenteerd.",
+		"id": "99f3dd56-1d9f-4ffb-bd5e-c1b395debb02",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Nieuwsberichten over mondiale onderwerpen als klimaatverandering en terrorisme (DL).",
@@ -5342,6 +5346,18 @@
 		"id": "3a25a6fb-f7fe-4767-8ce0-47fa68e0d2a9",
 		"prefix": "",
 		"title": "Het onderwerp herkennen in een korte video over een bezienswaardigheid in een bekende stad, een kort filmpje waarin een kind vertelt over een huisdier, een kort verslag (filmpje/vlog) van een sportdag op school, een korte animatie of videoclip van een bekend liedje of rijmpje.",
+		"description": ""
+	},
+	{
+		"id": "80422d49-e47e-4b72-b5af-6ce19fe874dc",
+		"prefix": "",
+		"title": "Een overzicht van actuele onderwerpen in een buitenlands jeugdjournaal begrijpen, bijvoorbeeld welke onderwerpen in deze aflevering van het jeugdjournaal worden behandeld.",
+		"description": ""
+	},
+	{
+		"id": "f91e8641-f46f-4967-9b9d-b4abe25f143d",
+		"prefix": "",
+		"title": "Televisiereclames voor verschillende producten begrijpen, zoals voor auto's, games, kleding, mobiele telefoons of speelgoed.",
 		"description": ""
 	}
 ]
