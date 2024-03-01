@@ -186,8 +186,10 @@
 		"description": ""
 	},
 	{
-		"title": "Een brief van een buitenlandse vriend of familielid waarin deze een complex persoonlijk of zakelijk probleem beschrijft (DL).",
-		"id": "2d40c41b-b647-41ca-ab80-ffe4b180c676"
+		"title": "Een brief begrijpen waarin een buitenlandse vriend of familielid een complex persoonlijk of zakelijk probleem beschrijft.",
+		"id": "2d40c41b-b647-41ca-ab80-ffe4b180c676",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Ideeën van een correspondentiepartner over vriendschap, relaties, werk, het milieu (DL).",
@@ -198,24 +200,34 @@
 		"id": "1a337a51-0f3a-47e5-ad16-b1c22a7ddeb2"
 	},
 	{
-		"title": "Een reactie op een klacht of verzoek om schadevergoeding (DL, WE).",
-		"id": "b06c5428-6b19-412f-83b1-8d86e82ac4f2"
+		"title": "Een reactie op een klacht of verzoek om schadevergoeding begrijpen.",
+		"id": "b06c5428-6b19-412f-83b1-8d86e82ac4f2",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een wervingsbrief van een buitenlandse beurs voor deelname aan een vakbeurs (WE).",
-		"id": "f0cdc59b-df13-4f86-a2ec-676c601ff25a"
+		"title": "Een wervingsbrief voor deelname aan een buitenlandse vakbeurs begrijpen.",
+		"id": "f0cdc59b-df13-4f86-a2ec-676c601ff25a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een antwoord op een brief of e-mail met een verzoek om informatie over een toekomstige studie of een onderzoeksprogramma (OPL, WE).",
-		"id": "c075ead6-54cc-47a6-b2f7-93c9ecd3ce99"
+		"title": "Een antwoord op een brief of e-mail begrijpen met een verzoek om informatie over een toekomstige studie of een onderzoeksprogramma.",
+		"id": "c075ead6-54cc-47a6-b2f7-93c9ecd3ce99",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De bevestiging van een onderwijsinstantie over het toekennen van studiefinanciering (OPL).",
-		"id": "cf1ae937-757b-4c14-9ec5-1aac04e284ba"
+		"title": "De bevestiging begrijpen van een onderwijsinstantie over het toekennen van studiefinanciering.",
+		"id": "cf1ae937-757b-4c14-9ec5-1aac04e284ba",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een proces-verbaal van een bekeuring wegens te hard rijden (PU).",
-		"id": "fcdbe7e8-dd60-413c-b6f1-532f7f88602c"
+		"title": "Een proces-verbaal van een bekeuring begrijpen.",
+		"id": "fcdbe7e8-dd60-413c-b6f1-532f7f88602c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een recensie in een wetenschappelijk tijdschrift (OPL, DL).",
