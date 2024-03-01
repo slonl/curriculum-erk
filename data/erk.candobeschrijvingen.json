@@ -5149,7 +5149,11 @@
 		"title": "Kan impliciete en expliciete houdingen, emoties en meningen in e-mails, discussiefora, vlogs/blogs enzovoort begrijpen, eventueel na herlezing van de tekst en met gebruik van naslagwerken.",
 		"id": "586680d1-bb74-4ebe-840f-b5ad4fd63334",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"e4dc4acf-3f74-40bd-bb9b-a1cf81f84e32",
+			"013eedcb-45f8-423f-b7e9-2d6f914fd198"
+		]
 	},
 	{
 		"niveau_id": [
