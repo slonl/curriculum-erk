@@ -5091,7 +5091,11 @@
 		"title": "Kan formele correspondentie over minder vertrouwde onderwerpen goed genoeg begrijpen om die aan iemand anders door te sturen.",
 		"id": "b2186256-c768-47d3-b64b-243e34325ff7",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"96df5af8-23ad-48b4-957f-90c6f96a350e",
+			"8e59ab0f-e61f-45f2-b1e5-eb2513ece1de"
+		]
 	},
 	{
 		"niveau_id": [
