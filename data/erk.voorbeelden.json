@@ -1524,20 +1524,28 @@
 		"description": ""
 	},
 	{
-		"title": "Een documentaire over Wildlife (DL).",
-		"id": "fafad5fd-8125-46bc-adae-9057ebdd8b1e"
+		"title": "Een documentaire begrijpen over wildlife.",
+		"id": "fafad5fd-8125-46bc-adae-9057ebdd8b1e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een actualiteitenrubriek met daarin een live uitgezonden vraaggesprek (DL).",
-		"id": "d5cd8fa3-5bab-4810-9553-a219355c9013"
+		"title": "Een actualiteitenrubriek begrijpen met daarin een live uitgezonden vraaggesprek.",
+		"id": "d5cd8fa3-5bab-4810-9553-a219355c9013",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een modern toneelstuk over een vertrouwd thema (DL).",
-		"id": "78920736-b534-417f-884a-410d1c433bfc"
+		"title": "Een modern toneelstuk begrijpen over een vertrouwd thema.",
+		"id": "78920736-b534-417f-884a-410d1c433bfc",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Films zoals thrillers, romantische komedies, historische drama's enzovoort (DL).",
-		"id": "3d508def-9225-4fda-9111-fcdd3705fd9c"
+		"title": "Films begrijpen zoals thrillers, romantische komedies, historische drama's enzovoort.",
+		"id": "3d508def-9225-4fda-9111-fcdd3705fd9c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Speelfilms met veel 'slang' (DL).",
