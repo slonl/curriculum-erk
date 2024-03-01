@@ -258,8 +258,10 @@
 		"description": ""
 	},
 	{
-		"title": "Ingezonden reacties op online artikelen in kwaliteitskranten of vaktijdschriften met maatschappelijke relevantie (DL, OPL).",
-		"id": "e4dc4acf-3f74-40bd-bb9b-a1cf81f84e32"
+		"title": "Ingezonden reacties op online artikelen in kwaliteitskranten of vaktijdschriften met maatschappelijke relevantie begrijpen.",
+		"id": "e4dc4acf-3f74-40bd-bb9b-a1cf81f84e32",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Programma, tijdstip en prijs van een evenement (PU).",
