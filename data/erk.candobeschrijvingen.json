@@ -7234,7 +7234,13 @@
 		"title": "Kan nuances en impliciete betekenissen begrijpen in de meeste films, toneelstukken en televisieprogramma's, mits hierin standaardtaal of een vertrouwde taalvariëteit wordt gebruikt.",
 		"id": "a4e72d02-6618-4e23-ae23-dc960bfb8530",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"f3d9da89-647d-4e2e-8521-7a2554a139a1",
+			"9dceb9ca-5099-49c3-a9b0-ee5d36616905",
+			"9dc20e16-b3cd-45ca-b350-7de5c3716ace",
+			"ee724e5c-7db3-472c-ab4d-6ae5dbfa0ea4"
+		]
 	},
 	{
 		"niveau_id": [
