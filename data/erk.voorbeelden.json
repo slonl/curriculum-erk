@@ -234,20 +234,28 @@
 		"id": "5a52cd71-61d7-4598-9c93-ff07f7956c64"
 	},
 	{
-		"title": "Een brief van een buitenlandse notaris over een erfenis (DL).",
-		"id": "266786f0-09dc-4990-8811-daa4c99d3dd0"
+		"title": "Een brief van een buitenlandse notaris over een erfenis begrijpen.",
+		"id": "266786f0-09dc-4990-8811-daa4c99d3dd0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een dagvaarding (DL).",
-		"id": "db541519-c40f-4e2b-8f8d-99952ff068a9"
+		"title": "Een dagvaarding begrijpen.",
+		"id": "db541519-c40f-4e2b-8f8d-99952ff068a9",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een roman in briefvorm (DL, OPL).",
-		"id": "2e53b2ab-44a4-4520-9c08-148505a92f27"
+		"title": "Een briefroman begrijpen.",
+		"id": "2e53b2ab-44a4-4520-9c08-148505a92f27",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een toelichting op de toelichtingscriteria en aanmeldingsprocedures voor studie in het buitenland (OPL).",
-		"id": "3eab023d-705e-4822-9f0f-ecd03ea3ba6d"
+		"title": "Een toelichting op de toelichtingscriteria en aanmeldingsprocedures voor studie in het buitenland begrijpen.",
+		"id": "3eab023d-705e-4822-9f0f-ecd03ea3ba6d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Ingezonden reacties op online artikelen in kwaliteitskranten of vaktijdschriften met maatschappelijke relevantie (DL, OPL).",
