@@ -1647,13 +1647,14 @@
 			"38eb1ecd-8bab-4c7f-a8d2-8c86bd54bda7",
 			"993fceed-43f8-4a6b-987e-7cea41d16421"
 		],
-		"title": "Luisteren naar audiomedia en geluidsopnames",
+		"title": "Gesproken media begrijpen",
 		"id": "df5e1e91-7948-4290-8b62-2c22e3e539c7",
 		"prefix": "",
 		"description": "",
 		"replaces": [
 			"d78f5af9-1b28-4f68-bab2-f6ecff7807e9"
-		]
+		],
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
