@@ -1509,13 +1509,14 @@
 			"d48e70d5-5c06-4aa5-bcab-bace71d1d9d3",
 			"a5da7f97-279b-4f97-8b43-41c5c9023b36"
 		],
-		"title": "Lezen voor informatie en argumentatie",
+		"title": "Lezen ter informatie/argumentatie",
 		"id": "94c30107-47d0-4131-9296-e504487d1a7b",
 		"prefix": "",
 		"description": "",
 		"replaces": [
 			"f84f75e7-1ba0-4694-b9cf-8bafe075d3cb"
-		]
+		],
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
