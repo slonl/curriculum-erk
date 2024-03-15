@@ -1,6 +1,6 @@
 [
 	{
-		"title": "Leesvaardigheid algemeen",
+		"title": "Lezen algemeen",
 		"id": "34c9a621-408a-4ed3-a74c-73138b8fb165",
 		"prefix": "",
 		"description": "",
@@ -16,7 +16,8 @@
 			"a5f57db6-22c9-4080-911f-359e6694b32d",
 			"752a4889-ed8f-4152-be2e-0ba45033735e",
 			"20e84aea-29a8-4ea0-9c0d-cfe48570ba06"
-		]
+		],
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
