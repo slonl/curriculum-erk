@@ -37,9 +37,12 @@
 			"be5df90c-dffa-4e56-afae-222d8b1bf7be",
 			"41610433-0390-498c-9f1c-fed0f31306a5"
 		],
-		"title": "Luistervaardigheid algemeen",
+		"title": "Luisteren algemeen",
 		"algemeen": true,
-		"id": "6b7ef9da-3d67-45e7-9aec-6a70c8e7ab73"
+		"id": "6b7ef9da-3d67-45e7-9aec-6a70c8e7ab73",
+		"prefix": "",
+		"description": "",
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
