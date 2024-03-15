@@ -1679,13 +1679,14 @@
 			"b3b3f57f-dfbc-4c20-b562-bb6530833fdd",
 			"19971876-3f1f-46c9-9c1a-fcb1de2d6597"
 		],
-		"title": "Kijken en luisteren naar tv, film en video",
+		"title": "Kijken naar tv, film en video",
 		"id": "a903a7d3-e335-4aff-badd-733d5873da98",
 		"prefix": "",
 		"description": "",
 		"replaces": [
 			"237545d1-b66f-4fe7-9b45-b3bb7f127563"
-		]
+		],
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
