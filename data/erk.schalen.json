@@ -1590,11 +1590,14 @@
 			"b3beaf4b-735d-4f68-8b19-2be651b7ee26",
 			"0ecd3e9c-f849-4d06-a578-04e8bfd54c31"
 		],
-		"title": "Luisteren als lid van een aanwezig publiek",
+		"title": "Begrijpen als lid van een aanwezig publiek",
 		"id": "7b6ce918-952b-4ee7-931e-2ab5b4cec3b9",
 		"replaces": [
 			"763a4d0a-b18b-4da3-b664-6bf2cdf2f237"
-		]
+		],
+		"prefix": "",
+		"description": "",
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
