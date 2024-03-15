@@ -1559,13 +1559,14 @@
 			"f5994fdf-cdbd-4cc8-8918-c733e0f9de0b",
 			"3e9d29a7-3923-4530-af8b-99400270b671"
 		],
-		"title": "Interactie tussen andere sprekers begrijpen",
+		"title": "Gesprek tussen andere sprekers begrijpen",
 		"id": "8a050ffb-4f9b-4533-b9ca-e679cd10e72e",
 		"prefix": "",
 		"description": "",
 		"replaces": [
 			"888afb31-15ae-489e-99f4-27a3bcac1863"
-		]
+		],
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
