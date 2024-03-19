@@ -5201,7 +5201,13 @@
 		"title": "Kan informatie over plaatsen, tijden en prijzen op posters, folders en aankondigingen vinden.",
 		"id": "fbb1b6ab-e254-4861-b072-9dd2d66b8b58",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"28218396-eaeb-47eb-9837-31f1217b468a",
+			"3abf4be6-d1a8-4c04-834f-5d233b08573a",
+			"55f3f4b3-e281-4b78-baa8-1c96534b7147",
+			"691bb465-02d7-4ba3-9d82-e7a8150d9c81"
+		]
 	},
 	{
 		"niveau_id": [
