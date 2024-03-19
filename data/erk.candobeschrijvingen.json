@@ -5408,7 +5408,12 @@
 		"title": "Kan directe, feitelijke teksten in tijdschriften, brochures of op het internet snel doorlezen om te bepalen waar ze over gaan en te besluiten of ze informatie bevatten die van pas kan komen.",
 		"id": "85090750-5a31-41c9-a0bb-250959d7f06c",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"c429abe4-3436-476f-ac40-8cdd9463df78",
+			"cb28cdc0-ee7e-40cf-bd12-2e71eedd7e49",
+			"3bafeea5-9e2e-41a3-8911-e3e21d3dcdcf"
+		]
 	},
 	{
 		"niveau_id": [
