@@ -5816,7 +5816,14 @@
 		"title": "Kan eenvoudige aanwijzingen begrijpen bij apparaten die men aantreft in het dagelijks leven.",
 		"id": "2ce03d9e-b8c0-403c-bf2e-5dddeb056f14",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"f3a58550-5357-4e4f-9409-89d5148f47e9",
+			"027f9335-c98a-45b8-a44d-ee3fd3fa55ee",
+			"b834c28d-b94c-4d3f-8908-74962f93ae3e",
+			"02f699a9-2a8d-4e02-8a15-b22effc132d3",
+			"2e068fea-0655-46ba-a75b-a9c3655eb54b"
+		]
 	},
 	{
 		"niveau_id": [
