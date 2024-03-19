@@ -6525,5 +6525,35 @@
 		"prefix": "",
 		"title": "De redenering herkennen in een discussie op een forum over een onderwerp binnen het eigen interessegebied, bijvoorbeeld over een vuurwerkverbod of jongerenwelzijn.",
 		"description": ""
+	},
+	{
+		"id": "44a3dd04-9377-4a1d-86f4-a47a368fa7fc",
+		"prefix": "",
+		"title": "Een stelling herkennen op een krantensite met diverse reacties.",
+		"description": ""
+	},
+	{
+		"id": "ef29d271-0414-4f8f-b760-7185ab3cba5f",
+		"prefix": "",
+		"title": "Standpunten in een artikel over de arbeidsmarktrelevantie van een toekomstige studie herkennen.",
+		"description": ""
+	},
+	{
+		"id": "05520ed8-ead9-4c72-82b8-a2eb3e9f6906",
+		"prefix": "",
+		"title": "Twee nieuwsberichten op verschillende nieuwssites vergelijken.",
+		"description": ""
+	},
+	{
+		"id": "4ba05ac8-3a18-45d3-8f1d-ab9c8a98920a",
+		"prefix": "",
+		"title": "De objectieve waarnemingen en de persoonlijke mening van de auteur onderscheiden in een blog.",
+		"description": ""
+	},
+	{
+		"id": "d429337c-42f6-4d57-bb3a-1f76b2bebd78",
+		"prefix": "",
+		"title": "Het verschil herkennen tussen feitelijke informatie en de mening van de auteur in een review.",
+		"description": ""
 	}
 ]
