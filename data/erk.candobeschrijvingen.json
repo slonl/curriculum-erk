@@ -5639,7 +5639,12 @@
 		"title": "Kan de belangrijkste informatie oppikken in korte krantenberichten of eenvoudige artikelen waarin cijfers, namen, illustraties en titels een belangrijke rol spelen en de betekenis van de tekst ondersteunen.",
 		"id": "b8a2c25f-b77f-46e9-8a38-3e937878d746",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"aa6c1ba5-1c4f-4d63-b5c8-04bc344cf3c5",
+			"773f70c2-a1f8-4f57-80a4-619584c25780",
+			"ff8de0ea-e4b3-4a98-b5bf-98c86d6ca266"
+		]
 	},
 	{
 		"niveau_id": [
