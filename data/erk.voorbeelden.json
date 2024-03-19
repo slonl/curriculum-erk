@@ -6303,5 +6303,29 @@
 		"prefix": "",
 		"title": "Een fotoverslag van een rondreis begrijpen met korte begeleidende teksten.",
 		"description": ""
+	},
+	{
+		"id": "462ff688-82cd-4674-b625-5447f75a7f48",
+		"prefix": "",
+		"title": "Een brochure met de beschrijving van verschillende shows in een pretpark.",
+		"description": ""
+	},
+	{
+		"id": "98801543-1fce-4104-ad62-4f316a0ee700",
+		"prefix": "",
+		"title": "Een brochure met animatie-activiteiten op de camping of in de buurt van een hotel.",
+		"description": ""
+	},
+	{
+		"id": "b5f6566b-396e-4877-bb97-a081992d653a",
+		"prefix": "",
+		"title": "Op een muziekfestival, de route van de parkeerplaats naar het festivalterrein.",
+		"description": ""
+	},
+	{
+		"id": "14bf9f31-2bc8-451e-83e3-0aeef8f65d8c",
+		"prefix": "",
+		"title": "De beschrijving van het recent gebouwde vogelpark in de brochure van de dierentuin.",
+		"description": ""
 	}
 ]
