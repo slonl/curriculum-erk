@@ -5242,7 +5242,13 @@
 		"title": "Kan elementaire informatie in hotels begrijpen, bijvoorbeeld hoe laat maaltijden worden geserveerd.",
 		"id": "f2d3faeb-be01-4a8b-8bec-f74538851352",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"f149cfa5-8c66-437d-af87-ea6ffce5c564",
+			"3d3fb72f-cb39-40ae-ac17-1957ac82a7af",
+			"f6458f03-cdd6-4fca-ad86-c0dfb6e2274e",
+			"9c47ec5f-30c0-4909-9f33-829929aa8b84"
+		]
 	},
 	{
 		"niveau_id": [
