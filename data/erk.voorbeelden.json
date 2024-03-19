@@ -580,24 +580,32 @@
 		"description": ""
 	},
 	{
-		"title": "Een eenvoudig stripverhaal in een jongerentijdschrift (DL).",
-		"id": "f59887ef-08e8-4772-8d32-3adb5ca16207"
+		"title": "Een zeer eenvoudige beschrijving begrijpen van een activiteit op een vakantiepark.",
+		"id": "f59887ef-08e8-4772-8d32-3adb5ca16207",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een zeer eenvoudige beschrijving van een (taal)cursus in een folder (OPL).",
-		"id": "1175cd54-6757-4be0-90bd-e67cc13d087c"
+		"title": "Een geïllustreerd weerbericht begrijpen.",
+		"id": "1175cd54-6757-4be0-90bd-e67cc13d087c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een kort geïllustreerd weerbericht (DL).",
 		"id": "11952988-9ed4-4cbb-9bdf-81bed6aaed6e"
 	},
 	{
-		"title": "Een nieuwssite voor jongeren (DL, OPL).",
-		"id": "27f4b6c3-9247-4264-a395-6a36bdf7a68c"
+		"title": "Persoonlijke informatie begrijpen bij het portret van een idool, ondersteund met afbeeldingen.",
+		"id": "27f4b6c3-9247-4264-a395-6a36bdf7a68c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De woorden op de menubalk (inhoud) van een online jeugdtijdschrift (DL).",
-		"id": "89ee25fe-69d2-4146-85c7-853ae0e8df8b"
+		"title": "Een overzicht van de sportuitslagen in de krant of op een website lezen.",
+		"id": "89ee25fe-69d2-4146-85c7-853ae0e8df8b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een persoonlijk profiel op sociale media, bijvoorbeeld Facebook (DL, OPL).",
