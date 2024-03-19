@@ -5464,7 +5464,10 @@
 		"title": "Kan verschillende bronnen (artikelen, rapporten, websites, boeken enzovoort) in het eigen vakgebied en in verwante vakgebieden parallel snel doorlezen en de relevantie en de bruikbaarheid van specifieke onderdelen voor het betreffende doel vaststellen.",
 		"id": "b1599d83-086a-4c68-9c45-0765fce0b473",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"49b0a709-44a8-47e4-8c6c-8b8bff435e90"
+		]
 	},
 	{
 		"niveau_id": [
