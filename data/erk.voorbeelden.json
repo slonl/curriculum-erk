@@ -5759,5 +5759,29 @@
 		"prefix": "",
 		"title": "In het lesrooster vinden op welke dag en op welke tijd een bepaald vak gegeven wordt.",
 		"description": ""
+	},
+	{
+		"id": "5e3f1a86-7065-43bf-94a7-93d3825d0fad",
+		"prefix": "",
+		"title": "In een overzicht de openingstijden van een instelling opzoeken, bijvoorbeeld bibliotheek of sportclub.",
+		"description": ""
+	},
+	{
+		"id": "42aaa15f-995d-4f3e-aa98-ad740de8044c",
+		"prefix": "",
+		"title": "Eenvoudige huiswerkaankondigingen in de digitale leeromgeving begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "853e317a-4ed3-4591-aa3f-385ed1528aa7",
+		"prefix": "",
+		"title": "Een voedselverpakking lezen om op te zoeken of er bepaalde ingrediënten in zitten.",
+		"description": ""
+	},
+	{
+		"id": "95f71f33-d32e-4ffd-b860-56b20a10344a",
+		"prefix": "",
+		"title": "Een poster met de beschrijving van een verdwaald huisdier begrijpen.",
+		"description": ""
 	}
 ]
