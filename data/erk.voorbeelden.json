@@ -6365,5 +6365,23 @@
 		"prefix": "",
 		"title": "De profielen van leerlingen op de muren van het klaslokaal, waarin ze iets over zichzelf vertellen.",
 		"description": ""
+	},
+	{
+		"id": "ecd8db91-97fc-44af-ac23-34e8d43c902d",
+		"prefix": "",
+		"title": "Een artikel over een popfestival: begrijpen welke artiesten er speelden en of men de optredens goed vond of niet.",
+		"description": ""
+	},
+	{
+		"id": "960ae28e-a1e7-4873-909f-26352c9efe50",
+		"prefix": "",
+		"title": "Een bericht begrijpen over een staking in het openbaar vervoer op de site van de vervoerder: kun je met het openbaar vervoer op je bestemming komen?",
+		"description": ""
+	},
+	{
+		"id": "cf781e02-b52a-4a08-9128-fb0296c7ecc1",
+		"prefix": "",
+		"title": "Een bericht begrijpen op intranet over de studiedag van je school of werk: wat was het onderwerp van die dag en wie waren de sprekers?",
+		"description": ""
 	}
 ]
