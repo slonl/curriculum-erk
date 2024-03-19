@@ -834,16 +834,22 @@
 		"description": ""
 	},
 	{
-		"title": "Vak- en wetenschappelijke literatuur op het eigen vakterrein (OPL, WE).",
-		"id": "fbbecd60-6704-4e80-b757-e85baf74b78c"
+		"title": "Vak- en wetenschappelijke literatuur lezen en de standpunten van de auteurs met elkaar vergelijken.",
+		"id": "fbbecd60-6704-4e80-b757-e85baf74b78c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vakliteratuur buiten het eigen vak- of interessegebied (DL, OPL, WE).",
-		"id": "2e246ec0-6063-47fc-ba4d-cfc1555baa97"
+		"title": "Non-fictie boeken over maatschappelijke kwesties doorgronden.",
+		"id": "2e246ec0-6063-47fc-ba4d-cfc1555baa97",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Artikelen in wetenschappelijke bijlagen van kranten of tijdschriften (DL).",
-		"id": "49e7f1f2-aba0-4c30-9fb2-dfcd24605193"
+		"title": "Houdingen van de schrijvers van artikelen in kwaliteitskranten of tijdschriften herkennen.",
+		"id": "49e7f1f2-aba0-4c30-9fb2-dfcd24605193",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Kan zeer eenvoudige, korte en goed gestructureerde instructies begrijpen.",
