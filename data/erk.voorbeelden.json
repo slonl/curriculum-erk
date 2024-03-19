@@ -684,16 +684,22 @@
 		"description": ""
 	},
 	{
-		"title": "Informatie over producten, materialen apparaten uit technische rapporten op het eigen vakterrein (OPL, WE).",
-		"id": "303424fb-7d14-4f79-8962-cd86f8e1f603"
+		"title": "Informatie over producten, materialen, apparaten uit het eigen vakgebied.",
+		"id": "303424fb-7d14-4f79-8962-cd86f8e1f603",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Biografische informatie over een kunstenaar, schrijver, sportman/vrouw in een tijdschrift of op een website (DL, OPL).",
-		"id": "7ead643a-e991-45cd-8f1d-cb304369525c"
+		"title": "Biografische informatie over een kunstenaar, schrijver, sporter in een tijdschrift of op een website.",
+		"id": "7ead643a-e991-45cd-8f1d-cb304369525c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een verslag van een werkbespreking of projectgroepvergadering (OPL, WE).",
-		"id": "1cebdbe2-fc1a-48c0-a6b1-60f1bfd54fee"
+		"title": "Een verslag van een werkbespreking of projectgroep vergadering.",
+		"id": "1cebdbe2-fc1a-48c0-a6b1-60f1bfd54fee",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Eenvoudige voorlichtingsmateriaal van overheden of onderwijsinstellingen (PU, OPL).",
