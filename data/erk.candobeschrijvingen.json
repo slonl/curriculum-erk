@@ -5365,7 +5365,14 @@
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
 		"title": "Kan beoordelen of een artikel, verslag of recensie over het gewenste onderwerp gaat.",
-		"id": "78c22d9f-1374-4a0d-ba47-026fdfbad40d"
+		"id": "78c22d9f-1374-4a0d-ba47-026fdfbad40d",
+		"erk_voorbeeld_id": [
+			"a13a94a1-a467-40c4-83e6-8824f23bbdb7",
+			"5eacba2f-0590-429a-86c5-3f56b285e715",
+			"4aa3cde6-d08a-439b-b9a9-69a133b397a3",
+			"49693ca6-fb0b-44f8-b88b-4fc2df0ecf55",
+			"f4f6aced-4a59-4a1d-81ed-2c10c1619fed"
+		]
 	},
 	{
 		"niveau_id": [
