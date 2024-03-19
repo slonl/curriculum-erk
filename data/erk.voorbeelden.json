@@ -5783,5 +5783,17 @@
 		"prefix": "",
 		"title": "Een poster met de beschrijving van een verdwaald huisdier begrijpen.",
 		"description": ""
+	},
+	{
+		"id": "8f9dfb3f-50b7-4cdd-856a-fca0098c8679",
+		"prefix": "",
+		"title": "Wegwijzers in een museum waar de tentoonstelling of lift is.",
+		"description": ""
+	},
+	{
+		"id": "438ef5f8-7eab-463e-8be6-7cc3c6122c9e",
+		"prefix": "",
+		"title": "In een overdekt winkelcentrum waar de muziekwinkel is.",
+		"description": ""
 	}
 ]
