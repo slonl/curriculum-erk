@@ -536,20 +536,28 @@
 		"id": "6d012f8f-e682-463c-a6ea-15e0b1a9b704"
 	},
 	{
-		"title": "Artikelen in een krant of informatie op internet voor het maken van een werkstuk (OPL).",
-		"id": "9c92be39-da37-4f4a-8a94-e916d6509837"
+		"title": "Artikelen in een landelijke kwaliteitskrant, opinieblad of op internet.",
+		"id": "9c92be39-da37-4f4a-8a94-e916d6509837",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een lijst met publicaties op eigen vak- of interessegebied, opgeleverd door een zoekmachine (DL, OPL, WE).",
-		"id": "15e186ab-6bb2-4aa9-8a26-604757716745"
+		"title": "Een lijst met publicaties op eigen vak- of interessegebied, opgeleverd door een zoekmachine.",
+		"id": "15e186ab-6bb2-4aa9-8a26-604757716745",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Berichten in een internetnieuwsgroep op eigen vak- of interessegebied (DL, OPL, WE).",
-		"id": "232dbb93-01b4-45d6-9989-7489e33cd92e"
+		"title": "Berichten in een internetnieuwsgroep.",
+		"id": "232dbb93-01b4-45d6-9989-7489e33cd92e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Passages in een studieboek bij het voorbereiden van een toets of profielwerkstuk (OPL).",
-		"id": "6bf41c92-f1c7-4844-bba7-ea2b721c5dd0"
+		"title": "Passages in een studieboek of een onderzoeksverslag bij het voorbereiden van een toets of profielwerkstuk.",
+		"id": "6bf41c92-f1c7-4844-bba7-ea2b721c5dd0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Onderzoeksverslagen over een bestudeerd onderwerp (OPL, WE).",
