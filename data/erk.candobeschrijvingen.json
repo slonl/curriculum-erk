@@ -5719,7 +5719,13 @@
 		"title": "Kan directe, feitelijke teksten begrijpen over onderwerpen die te maken hebben met de eigen interesses of studie.",
 		"id": "80ca95b9-5638-4747-85a4-97dcba7a0bc6",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"4394f1d7-aa4f-4ffc-9240-db42d9084cd2",
+			"55ca22ba-4f98-4f4f-9ec0-909ad92adbb9",
+			"290de6b7-ccff-45e8-8e04-e438298e51c4",
+			"dce2e492-23f2-4847-ab0d-05003130c35f"
+		]
 	},
 	{
 		"niveau_id": [
