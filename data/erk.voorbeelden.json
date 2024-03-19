@@ -608,16 +608,22 @@
 		"description": ""
 	},
 	{
-		"title": "Een persoonlijk profiel op sociale media, bijvoorbeeld Facebook (DL, OPL).",
-		"id": "c254c1af-4924-4d24-a98c-50dfb4d16f21"
+		"title": "Een artikel over het dagelijks leven van jongeren in verschillende landen.",
+		"id": "c254c1af-4924-4d24-a98c-50dfb4d16f21",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een programma voor een excursie of zomercursus (DL, WE, OPL).",
-		"id": "99e7fd32-5578-4239-919c-31232f5a8e0d"
+		"title": "Een artikel over hoe in een bepaalde cultuur verjaardagen worden gevierd.",
+		"id": "99e7fd32-5578-4239-919c-31232f5a8e0d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een kort verslag van een bijeenkomst of gebeurtenis (XX).",
-		"id": "aa27f6fb-0566-42f4-ba54-3372a7c54755"
+		"title": "Een beschrijving van een jaarlijks cultureel festival.",
+		"id": "aa27f6fb-0566-42f4-ba54-3372a7c54755",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Over een hobby of vrijetijdsbesteding (DL).",
