@@ -6353,5 +6353,17 @@
 		"prefix": "",
 		"title": "De beschrijving van een cursus op een bepaald vakgebied, bijvoorbeeld een talencursus of een cursus computerprogrammeren.",
 		"description": ""
+	},
+	{
+		"id": "928a0384-500a-4f27-b191-1d7bb5243906",
+		"prefix": "",
+		"title": "Een persoonlijk profiel op sociale media, bijvoorbeeld een datingsite.",
+		"description": ""
+	},
+	{
+		"id": "511b89d5-f7f6-42a8-9f25-49929fbcfc75",
+		"prefix": "",
+		"title": "De profielen van leerlingen op de muren van het klaslokaal, waarin ze iets over zichzelf vertellen.",
+		"description": ""
 	}
 ]
