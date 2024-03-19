@@ -5859,5 +5859,23 @@
 		"prefix": "",
 		"title": "Informatie begrijpen over het gebruik van het zwembad.",
 		"description": ""
+	},
+	{
+		"id": "c67dafae-1019-4d57-ad81-1e2f2a0d31ed",
+		"prefix": "",
+		"title": "Een recept begrijpen: welke ingrediënten zijn nodig, hoe lang moet het in de oven?",
+		"description": ""
+	},
+	{
+		"id": "c556d9a0-f889-48b1-8c2b-35b7553139ac",
+		"prefix": "",
+		"title": "In een reisgids praktische informatie over de bestemming lezen: welke toeristische attracties moet je gezien hebben, waar vind je de gezelligste restaurants.",
+		"description": ""
+	},
+	{
+		"id": "c8f04f7f-8caf-4415-be88-71552eaa1957",
+		"prefix": "",
+		"title": "Een recensie van een film begrijpen: welk genre, welke acteurs, is de film de moeite waard.",
+		"description": ""
 	}
 ]
