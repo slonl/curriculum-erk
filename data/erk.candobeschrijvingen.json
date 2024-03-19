@@ -5749,7 +5749,11 @@
 		"title": "Kan de belangrijkste conclusies herkennen in argumenterende teksten die van heldere signalen voorzien zijn.",
 		"id": "347cefaa-7f64-4144-99fb-b342c7a8d165",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"84c676ae-0cff-46bf-b668-6f0a4c143c93",
+			"674fd32a-cd7d-405f-8017-f4d59b7833c7"
+		]
 	},
 	{
 		"niveau_id": [
