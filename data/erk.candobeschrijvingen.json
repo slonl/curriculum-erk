@@ -5789,7 +5789,14 @@
 		"title": "Kan herkennen wanneer een tekst feitelijke informatie geeft en wanneer de tekst bedoeld is om de lezers ergens van te overtuigen.",
 		"id": "348896fa-05b2-484b-94ce-47db6f240ba7",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"44a3dd04-9377-4a1d-86f4-a47a368fa7fc",
+			"ef29d271-0414-4f8f-b760-7185ab3cba5f",
+			"05520ed8-ead9-4c72-82b8-a2eb3e9f6906",
+			"4ba05ac8-3a18-45d3-8f1d-ab9c8a98920a",
+			"d429337c-42f6-4d57-bb3a-1f76b2bebd78"
+		]
 	},
 	{
 		"niveau_id": [
