@@ -5226,10 +5226,14 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan in winkels wegwijzers (bijvoorbeeld informatie over welke afdeling op welke verdieping is) en aanwijzingen (bijvoorbeeld waar de lift is) begrijpen.",
+		"title": "Kan in winkels wegwijzers en aanwijzingen begrijpen.",
 		"id": "955fdb46-91fd-4766-9b75-e1ade83e4bbf",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"8f9dfb3f-50b7-4cdd-856a-fca0098c8679",
+			"438ef5f8-7eab-463e-8be6-7cc3c6122c9e"
+		]
 	},
 	{
 		"niveau_id": [
