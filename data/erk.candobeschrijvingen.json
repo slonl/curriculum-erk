@@ -5849,7 +5849,11 @@
 		"title": "Kan instructies op etiketten van geneesmiddelen begrijpen als ze zijn uitgedrukt in de vorm van een eenvoudig gebod (bijvoorbeeld 'Innemen voor de maaltijd' of 'Niet innemen als u moet rijden').",
 		"id": "d5f00649-d472-4109-9b25-62cd3f0f6e5b",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"500f6b32-2639-4e24-b859-068ae9299e5a",
+			"500f6b32-2639-4e24-b859-068ae9299e5a"
+		]
 	},
 	{
 		"niveau_id": [
