@@ -946,24 +946,34 @@
 		"description": ""
 	},
 	{
-		"title": "Instructies voor het installeren van computerprogramma's en randapparatuur als een scanner of printer (DL, OPL, WE).",
-		"id": "2e93d10c-0357-457c-851d-8ef2920e48c7"
+		"title": "Instructies kunnen voor het installeren van computerprogramma’s, scanners of printers.",
+		"id": "2e93d10c-0357-457c-851d-8ef2920e48c7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Instructies voor het maken van een eigen webpagina (DL, OPL, WE).",
-		"id": "5ebb969a-ab7c-4a08-8cf6-eff409936378"
+		"title": "Instructies voor het bouwen van een eigen webpagina.",
+		"id": "5ebb969a-ab7c-4a08-8cf6-eff409936378",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Instructies voor het gebruik van webapplicaties ter ondersteuning van een presentatie of het online verkrijgen van feedback (OPL, WE).",
-		"id": "d029fb64-fb1f-48e1-a766-5bd63bcdd6aa"
+		"title": "Instructies voor het gebruik van webapplicaties ter ondersteuning van een presentatie.",
+		"id": "d029fb64-fb1f-48e1-a766-5bd63bcdd6aa",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Richtlijnen voor het aanvragen en afleggen van tentamens en examens (OPL).",
-		"id": "e84de488-9c15-4fec-a398-3d55bfa0bfdf"
+		"title": "Richtlijnen voor het aanvragen en afleggen van tentamens en examens.",
+		"id": "e84de488-9c15-4fec-a398-3d55bfa0bfdf",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een handboek om te leren omgaan met een nieuwe machine (WE).",
-		"id": "40f36ae9-3ec6-4f29-bf76-30ff493044f2"
+		"title": "Instructies voor de bediening van een nieuwe kassa.",
+		"id": "40f36ae9-3ec6-4f29-bf76-30ff493044f2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Over de spelregels van een nieuw, complex computerspel (DL).",
@@ -6204,6 +6214,12 @@
 		"id": "f685e9d1-77bc-44f9-be51-18b747b8efbe",
 		"prefix": "",
 		"title": "Een handleiding bij het aanleggen van zonnepanelen of een warmtepomp.",
+		"description": ""
+	},
+	{
+		"id": "e9d86176-d711-4823-b09b-648d9df7ca60",
+		"prefix": "",
+		"title": "Instructies voor het gebruik van een nieuw betalingssysteem.",
 		"description": ""
 	}
 ]
