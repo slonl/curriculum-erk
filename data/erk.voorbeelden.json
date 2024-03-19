@@ -5795,5 +5795,29 @@
 		"prefix": "",
 		"title": "In een overdekt winkelcentrum waar de muziekwinkel is.",
 		"description": ""
+	},
+	{
+		"id": "f149cfa5-8c66-437d-af87-ea6ffce5c564",
+		"prefix": "",
+		"title": "Informatie begrijpen over het gebruik van de wificode.",
+		"description": ""
+	},
+	{
+		"id": "3d3fb72f-cb39-40ae-ac17-1957ac82a7af",
+		"prefix": "",
+		"title": "Informatie begrijpen over het tijdstip om uit te checken op de dag van vertrek.",
+		"description": ""
+	},
+	{
+		"id": "f6458f03-cdd6-4fca-ad86-c0dfb6e2274e",
+		"prefix": "",
+		"title": "Informatie begrijpen over het gebruik van de televisie.",
+		"description": ""
+	},
+	{
+		"id": "9c47ec5f-30c0-4909-9f33-829929aa8b84",
+		"prefix": "",
+		"title": "Informatie begrijpen over het gebruik van het zwembad.",
+		"description": ""
 	}
 ]
