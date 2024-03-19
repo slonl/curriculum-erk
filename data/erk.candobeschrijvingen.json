@@ -5760,7 +5760,10 @@
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
 		"title": "Kan de redenering herkennen in de behandeling van een kwestie, zij het niet noodzakelijkerwijs tot in de details.",
-		"id": "7898411b-0dec-4178-ac3b-23f58a4252c8"
+		"id": "7898411b-0dec-4178-ac3b-23f58a4252c8",
+		"erk_voorbeeld_id": [
+			"d73d5ec9-1480-418a-abe6-bc76595043d0"
+		]
 	},
 	{
 		"niveau_id": [
