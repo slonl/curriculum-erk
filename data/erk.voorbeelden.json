@@ -470,20 +470,28 @@
 		"description": ""
 	},
 	{
-		"title": "In een aantal websites informatie zoeken voor een werkstuk (OPL).",
-		"id": "03aea529-cd3d-4190-a732-968aa907c2ce"
+		"title": "Een aantal websites snel doorlezen om informatie te vinden voor een werkstuk.",
+		"id": "03aea529-cd3d-4190-a732-968aa907c2ce",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een tijdschrift informatie zoeken over een nieuw computerspel, over een gezonde leefstijl voor sporters, relaties (DL).",
-		"id": "cada4c21-e512-4b9d-8f0b-905bda42a4ab"
+		"title": "Tijdschriften rond een bepaald thema snel doorlezen om informatie te vinden over bijvoorbeeld een nieuw computerspel of gezonde leefstijl voor sporters.",
+		"id": "cada4c21-e512-4b9d-8f0b-905bda42a4ab",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aan de hand van websites van bedrijven een stageplek of baan zoeken (OPL, WE).",
-		"id": "7915d54c-5658-4fcc-b4e4-e09a39c86a60"
+		"title": "Websites van bedrijven snel doorlezen om een overzicht te maken van mogelijke stageplekken of banen.",
+		"id": "7915d54c-5658-4fcc-b4e4-e09a39c86a60",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een regionale krant recensies zoeken over culturele activiteiten (DL).",
-		"id": "6e6befed-72c9-4934-bff0-9aa64c1d0c34"
+		"title": "Een regionale krant snel doorlezen om culturele activiteiten te vinden, die je het komend weekend kunt ondernemen.",
+		"id": "6e6befed-72c9-4934-bff0-9aa64c1d0c34",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Fraudebepalingen in een examenreglement (OPL).",
