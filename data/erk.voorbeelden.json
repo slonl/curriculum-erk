@@ -6475,5 +6475,29 @@
 		"prefix": "",
 		"title": "Een tekst over een onderwerp gerelateerd aan diens opleiding.",
 		"description": ""
+	},
+	{
+		"id": "49f42a7b-1a86-4829-b33b-18abc56d4760",
+		"prefix": "",
+		"title": "Een artikel in een muziekblad over de opkomst van een nieuwe popgroep of een nieuw muziekgenre.",
+		"description": ""
+	},
+	{
+		"id": "d88f3327-f476-4c3d-8136-a87ad7a65f2c",
+		"prefix": "",
+		"title": "Kritische bijdragen in een online discussieforum.",
+		"description": ""
+	},
+	{
+		"id": "eb510da3-455a-41ad-b113-47967cabdb85",
+		"prefix": "",
+		"title": "Een opinieartikel of een interview over een actueel thema.",
+		"description": ""
+	},
+	{
+		"id": "514c483b-7aa9-4e03-87d2-1f7bdfad3a97",
+		"prefix": "",
+		"title": "Een ingezonden brief in een reactie op een gebeurtenis die in de media heeft gestaan.",
+		"description": ""
 	}
 ]
