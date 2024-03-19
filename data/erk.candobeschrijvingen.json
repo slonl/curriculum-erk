@@ -5770,9 +5770,7 @@
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
 		"erk_voorbeeld_id": [
-			"d348e4ed-a831-4b02-9164-828709fcfd81",
 			"6e546731-69b7-4204-8784-fb76aeadfca5",
-			"deef063c-86bb-4b5a-9f0c-62690be81d36",
 			"59f2ef73-b494-4b1f-b481-67b6513a7581",
 			"eebe2a40-dbd6-42ac-92fc-cdc5b5f08933",
 			"0a770473-2abe-4355-bf61-6eb9bc1cedb2",
@@ -5780,7 +5778,9 @@
 			"597a4ca7-1739-4c1c-91fd-2053f8b1b4b3"
 		],
 		"title": "Kan artikelen en verslagen over hedendaagse problemen begrijpen, waarin de schrijvers bepaalde stellingen of standpunten innemen.",
-		"id": "bd8986e3-248b-4ab9-8aa5-0fbf7b6a5d3b"
+		"id": "bd8986e3-248b-4ab9-8aa5-0fbf7b6a5d3b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
