@@ -824,8 +824,10 @@
 		"description": ""
 	},
 	{
-		"title": "De bereidingswijze op verpakkingen van voedingsmiddelen (DL).",
-		"id": "8b768a33-ac68-42fa-9db8-b4c7cfc78ada"
+		"title": "De bereidingswijze begrijpen op verpakkingen van voedingsmiddelen.",
+		"id": "8b768a33-ac68-42fa-9db8-b4c7cfc78ada",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een verkorte instructie voor een nieuwe mobiele telefoon (DL).",
@@ -844,20 +846,28 @@
 		"id": "416bf01b-1e2b-427a-81d5-8fa19a3a0996"
 	},
 	{
-		"title": "Instructies in een lift: wat te doen in geval van nood (PU).",
-		"id": "3ea0d028-311c-47a6-a54c-63dc6084204a"
+		"title": "Instructies begrijpen in een lift: wat te doen in geval van nood.",
+		"id": "3ea0d028-311c-47a6-a54c-63dc6084204a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Instructies bij het kopen van online tickets, bijvoorbeeld voor evenementen, musea, popconcerten (PU).",
-		"id": "c9f0d8f2-7916-4c84-b46a-ab4c70e98070"
+		"title": "Instructies begrijpen bij het kopen van online tickets, bijvoorbeeld voor evenementen, musea, popconcerten.",
+		"id": "c9f0d8f2-7916-4c84-b46a-ab4c70e98070",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Recepten voor het bakken van een taart/cake (DL).",
-		"id": "c6452fdf-84af-466d-9e2d-d07d788a482c"
+		"title": "Instructies begrijpen bij het kopen van online vliegtickets en het online inchecken.",
+		"id": "c6452fdf-84af-466d-9e2d-d07d788a482c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Instructies in een taalmethode (OPL).",
-		"id": "cd887937-aa71-4bce-a0ef-6109db6da72a"
+		"title": "Instructies begrijpen bij een sport of spel.",
+		"id": "cd887937-aa71-4bce-a0ef-6109db6da72a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Veiligheidsvoorschriften in een vliegtuig (PU).",
@@ -6102,6 +6112,12 @@
 		"id": "2e068fea-0655-46ba-a75b-a9c3655eb54b",
 		"prefix": "",
 		"title": "De gebruiksaanwijzing op een brandblusser.",
+		"description": ""
+	},
+	{
+		"id": "faf15d75-206f-4eae-89d3-0a1f691e3f85",
+		"prefix": "",
+		"title": "Aanwijzingen begrijpen over het retourneren van gehuurde spullen, bijvoorbeeld schaatsen of een fiets.",
 		"description": ""
 	}
 ]
