@@ -5353,7 +5353,12 @@
 		"title": "Kan op de etiketten van voedingsmiddelen en medicijnen belangrijke informatie vinden over de bereiding en het gebruik ervan.",
 		"id": "f49d38f2-9515-445d-af0b-ef38fc85839b",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"2ca35244-636c-4e54-8d5f-9fd602f0d583",
+			"cc233eb3-6b8e-4b05-ac0d-6200df14b76a",
+			"2e90bf7d-7e8e-4e28-a73e-3b46b2b97db7"
+		]
 	},
 	{
 		"niveau_id": [
