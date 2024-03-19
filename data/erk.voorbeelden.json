@@ -976,20 +976,28 @@
 		"description": ""
 	},
 	{
-		"title": "Over de spelregels van een nieuw, complex computerspel (DL).",
-		"id": "49d8a128-1144-424c-b470-027ee5d15ac0"
+		"title": "De spelregels van een nieuw, complex computerspel.",
+		"id": "49d8a128-1144-424c-b470-027ee5d15ac0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over de uitvoering van proeven, ook in een nieuw vakgebied (OPL, WE).",
-		"id": "67f5990d-c593-4c2f-8f43-5a85e5cccdd8"
+		"title": "De aanwijzingen bij de uitvoering van een proef.",
+		"id": "67f5990d-c593-4c2f-8f43-5a85e5cccdd8",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over de verwerking van onderzoeksgegevens in een dataverwerkingsprogramma in de computer (OPL, WE).",
-		"id": "d030c935-ed9a-4f9b-bac5-6c73dbd11a05"
+		"title": "De verwerking van onderzoeksgegevens in een dataverwerkingsprogramma in de computer.",
+		"id": "d030c935-ed9a-4f9b-bac5-6c73dbd11a05",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over de installatie en het onderhoud van nieuwe machines (WE).",
-		"id": "fe610f89-186d-4d00-8b25-ee4ce0acb63c"
+		"title": "Complexe instructies voor de installatie en het onderhoud van nieuwe apparaten.",
+		"id": "fe610f89-186d-4d00-8b25-ee4ce0acb63c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Gesprekken over persoonlijke gegevens zoals waar ze vandaan komen, wat ze doen, welke leeftijd ze hebben (DL, OPL).",
