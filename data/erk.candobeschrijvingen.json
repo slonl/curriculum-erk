@@ -5803,7 +5803,12 @@
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
 		"title": "Kan verschillende structuren in betogende teksten herkennen: argumenten voor en tegen, presentatie van probleem en oplossingen en causale verbanden.",
-		"id": "8a215ab9-de53-43f1-a0c9-73d88bba94a0"
+		"id": "8a215ab9-de53-43f1-a0c9-73d88bba94a0",
+		"erk_voorbeeld_id": [
+			"74f7c1b4-f972-44b0-b682-5c1feaa49cda",
+			"631417f4-a6aa-457d-9558-22c38b132e7b",
+			"86080cfb-d6b3-476b-9b2d-b35d965aa47d"
+		]
 	},
 	{
 		"niveau_id": [
