@@ -940,8 +940,10 @@
 		"description": ""
 	},
 	{
-		"title": "Borden met veiligheidsregels in het openbaar vervoer (PU).",
-		"id": "75b91f6a-a344-4947-8562-6b2fc2b78589"
+		"title": "Borden met veiligheidsregels in het openbaar vervoer.",
+		"id": "75b91f6a-a344-4947-8562-6b2fc2b78589",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Instructies voor het installeren van computerprogramma's en randapparatuur als een scanner of printer (DL, OPL, WE).",
@@ -6178,6 +6180,18 @@
 		"id": "d51d3184-257b-4be0-bc32-003a18be2dd6",
 		"prefix": "",
 		"title": "Een handleiding voor de aansluiting van geluidsapparatuur.",
+		"description": ""
+	},
+	{
+		"id": "741006d6-288f-4b94-bbd3-adbf43fc1b0a",
+		"prefix": "",
+		"title": "Waarschuwingen over brandbaarheid of explosiegevaar van stoffen op verpakkingen.",
+		"description": ""
+	},
+	{
+		"id": "608ae285-53d5-4e26-bd32-25ddf169b403",
+		"prefix": "",
+		"title": "Instructies over waar de reddingsvesten liggen tijdens een boottocht en wat te doen in geval van nood.",
 		"description": ""
 	}
 ]
