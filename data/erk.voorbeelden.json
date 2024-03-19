@@ -5877,5 +5877,23 @@
 		"prefix": "",
 		"title": "Een recensie van een film begrijpen: welk genre, welke acteurs, is de film de moeite waard.",
 		"description": ""
+	},
+	{
+		"id": "83059bc3-4739-4b37-85fb-0636f1ee8b79",
+		"prefix": "",
+		"title": "De pagina van een webshop voor tweedehands scooters begrijpen: welke scooters worden aangeboden, welke kenmerken hebben de scooters.",
+		"description": ""
+	},
+	{
+		"id": "f8f594b3-e0c1-4c3a-97ae-2fe29318e391",
+		"prefix": "",
+		"title": "De werking en kwaliteit van mobiele telefoons vergelijken in een consumentengids of website.",
+		"description": ""
+	},
+	{
+		"id": "a048cc23-ae57-4a65-a1b0-3c5681f89073",
+		"prefix": "",
+		"title": "De kenmerken van verschillende digitale camera’s met elkaar vergelijken: welke camera voldoet het meest aan jouw wensen?",
+		"description": ""
 	}
 ]
