@@ -744,24 +744,32 @@
 		"id": "d348e4ed-a831-4b02-9164-828709fcfd81"
 	},
 	{
-		"title": "Een krantenartikel over het nu van strenge veiligheidsmaatregelen bij voetbalwedstrijden (OPL).",
-		"id": "6e546731-69b7-4204-8784-fb76aeadfca5"
+		"title": "Een krantenartikel over het nu van strenge veiligheidsmaatregelen bij voetbalwedstrijden.",
+		"id": "6e546731-69b7-4204-8784-fb76aeadfca5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een recensie van een boek, film of theatervoorstelling (DL).",
 		"id": "deef063c-86bb-4b5a-9f0c-62690be81d36"
 	},
 	{
-		"title": "Een column in een krant of tijdschrift (DL).",
-		"id": "59f2ef73-b494-4b1f-b481-67b6513a7581"
+		"title": "Een column in een krant of tijdschrift.",
+		"id": "59f2ef73-b494-4b1f-b481-67b6513a7581",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Reacties op online artikelen over maatschappelijk relevane thema's (DL).",
-		"id": "eebe2a40-dbd6-42ac-92fc-cdc5b5f08933"
+		"title": "Reacties op online artikelen over maatschappelijk relevante thema's.",
+		"id": "eebe2a40-dbd6-42ac-92fc-cdc5b5f08933",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Reacties van mensen op een foto, artikel of video op sociale media met betrekking tot sociale en actuele vraagstukken (DL).",
-		"id": "0a770473-2abe-4355-bf61-6eb9bc1cedb2"
+		"title": "Reacties van mensen op een foto, artikel of video op sociale media met betrekking tot sociale en actuele vraagstukken.",
+		"id": "0a770473-2abe-4355-bf61-6eb9bc1cedb2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een stelling op een krantensite met de diverse reacties (DL).",
