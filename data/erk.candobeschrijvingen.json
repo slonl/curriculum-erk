@@ -5859,10 +5859,13 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan een eenvoudig recept volgen, vooral als er afbeeldingen aanwezig zijn om de belangrijkste stappen te illustreren.",
+		"title": "Kan een eenvoudig recept volgen, vooral als er afbeeldingen aanwezig zijn die de belangrijkste stappen illustreren.",
 		"id": "3450788c-ea9d-4922-bece-16f1e3e3ae22",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"c205a631-56b4-4240-aeb0-c50637f951dd"
+		]
 	},
 	{
 		"niveau_id": [
