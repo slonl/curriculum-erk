@@ -264,8 +264,10 @@
 		"description": ""
 	},
 	{
-		"title": "Programma, tijdstip en prijs van een evenement (PU).",
-		"id": "eabb8938-394e-4986-82f1-ed1fbb116844"
+		"title": "Programma van een festival: hoe laat treedt welke band waar op en waar zijn de eetkraampjes?",
+		"id": "eabb8938-394e-4986-82f1-ed1fbb116844",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Plaats, data en toegangstijden bij een tentoonstelling of bezienswaardigheid (DL).",
@@ -276,16 +278,20 @@
 		"id": "e4798324-da10-4744-9770-be0b44e6636d"
 	},
 	{
-		"title": "Een poster met de beschrijving van een verdwaald huisdier (DL).",
-		"id": "91e82d2e-b9a0-411f-b316-6128ae54df60"
+		"title": "Een mededelingenbord in de dierentuin: hoe laat worden de apen gevoerd en kan het publiek hierbij aanwezig zijn?",
+		"id": "91e82d2e-b9a0-411f-b316-6128ae54df60",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "De plattegrond van een winkelcentrum (PU).",
 		"id": "e3456db9-4ea1-487e-8e30-c180d1dec596"
 	},
 	{
-		"title": "Vertrektijden op het vliegveld (PU).",
-		"id": "5dc7e8b8-7069-4396-87c8-7b4d6fa3bf6c"
+		"title": "De vertrektijden van de bootdienst naar het eiland.",
+		"id": "5dc7e8b8-7069-4396-87c8-7b4d6fa3bf6c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Eenvoudige gerechten op een menukaart (DL).",
