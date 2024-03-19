@@ -5860,7 +5860,12 @@
 		"title": "Kan de fijnere details en de implicaties van een ingewikkeld verslag of artikel begrijpen, zelfs als het buiten het eigen specialisatiegebied ligt.",
 		"id": "a5da7f97-279b-4f97-8b43-41c5c9023b36",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"6beb9895-c1fa-4f88-9b13-ccf061e5bfc8",
+			"c646745b-aaeb-4146-8010-8d5d8d0aba5d",
+			"3e54281f-1ab8-4b4f-bb29-17cddc828dec"
+		]
 	},
 	{
 		"niveau_id": [
