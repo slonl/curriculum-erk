@@ -5599,7 +5599,11 @@
 		"title": "Kan het meeste begrijpen van wat mensen over zichzelf vertellen in een persoonlijke advertentie of in een persoonlijk bericht op internet en van wat ze zeggen leuk te vinden in andere mensen.",
 		"id": "7329e348-5afe-4f8e-a903-8872809858bc",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"928a0384-500a-4f27-b191-1d7bb5243906",
+			"511b89d5-f7f6-42a8-9f25-49929fbcfc75"
+		]
 	},
 	{
 		"niveau_id": [
