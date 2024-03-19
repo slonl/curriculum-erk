@@ -5496,7 +5496,14 @@
 		"title": "Kan de meest eenvoudige informatiebronnen begrijpen zoals het menu van een fastfoodrestaurant dat geïllustreerd is met foto's, of een geïllustreerd verhaal dat in zeer eenvoudige, alledaagse woorden is geformuleerd.",
 		"id": "6d699dd2-105c-4a11-af9c-4b9404b94407",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"566ec0c6-bfa6-42f9-a5c4-944dbc4d4c6a",
+			"849ebc65-8240-4a4e-9070-7b032b5d71d8",
+			"9be9be16-3898-46d2-a7cc-b6b7e43d2697",
+			"92b9e9e9-b505-40a4-800e-bb0d216232b9",
+			"e7e12b47-d91c-4292-b8da-9da9da663e56"
+		]
 	},
 	{
 		"niveau_id": [
