@@ -5939,5 +5939,35 @@
 		"prefix": "",
 		"title": "Bereidingsinstructies begrijpen bij een maaltijdpakket.",
 		"description": ""
+	},
+	{
+		"id": "a13a94a1-a467-40c4-83e6-8824f23bbdb7",
+		"prefix": "",
+		"title": "Een uittreksel van een artikel op geschiktheid beoordelen, bijvoorbeeld of het gebruikt kan worden voor een schrijfopdracht.",
+		"description": ""
+	},
+	{
+		"id": "5eacba2f-0590-429a-86c5-3f56b285e715",
+		"prefix": "",
+		"title": "Kopjes en sleutelwoorden van tekst beoordelen op geschiktheid.",
+		"description": ""
+	},
+	{
+		"id": "4aa3cde6-d08a-439b-b9a9-69a133b397a3",
+		"prefix": "",
+		"title": "Op basis van een recensie bepalen of je een boek wel of niet gaat lezen, of film gaat zien.",
+		"description": ""
+	},
+	{
+		"id": "49693ca6-fb0b-44f8-b88b-4fc2df0ecf55",
+		"prefix": "",
+		"title": "Informatie vinden over een specifiek natuurgebied of een route op verschillende websites.",
+		"description": ""
+	},
+	{
+		"id": "f4f6aced-4a59-4a1d-81ed-2c10c1619fed",
+		"prefix": "",
+		"title": "Een schifting maken in een bronnenlijst uit een zoekopdracht.",
+		"description": ""
 	}
 ]
