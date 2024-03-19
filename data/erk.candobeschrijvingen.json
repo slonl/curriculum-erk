@@ -5663,16 +5663,13 @@
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
 		"erk_voorbeeld_id": [
-			"8db93a28-fdc8-4459-ab8f-6fe41f275532",
-			"1bd6dadb-6f89-475e-b254-f8bcca32a387",
-			"3c8723a5-2391-45b3-bdee-974827a5c8ba",
-			"ed205914-8601-4f6d-9675-f092ef0cb988",
-			"1eb50595-2fc5-4a8a-84f7-789d90f65d5f",
 			"83fdd003-a6bd-4d8f-9bf6-b3a126f0753d",
 			"c62ea0ff-0ddd-4c44-8ffc-06dc26f0208b"
 		],
 		"title": "Kan belangrijke punten herkennen in eenduidige krantenartikelen over vertrouwde onderwerpen.",
-		"id": "9521a874-b8d8-4f6d-b013-f6e107a30c0f"
+		"id": "9521a874-b8d8-4f6d-b013-f6e107a30c0f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
