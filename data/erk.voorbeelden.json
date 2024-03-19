@@ -806,24 +806,32 @@
 		"id": "d3d60235-4e35-4ee0-b0cb-bf6d1e115502"
 	},
 	{
-		"title": "De conclusie van een onderzoek over de consequenties van de aanleg van een snelweg door een natuurgebied (PU, OPL).",
-		"id": "433ca510-fb02-44c9-b77f-f742bb3f9256"
+		"title": "De conclusies van een onderzoek over de consequenties van de aanleg van een snelweg door een natuurgebied.",
+		"id": "433ca510-fb02-44c9-b77f-f742bb3f9256",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Het advies van een extern bureau over het personeelsbeleid van een bedrijf of over de onvrede van de buurt door geluidsoverlast of verkeershinder (PU, OPL).",
 		"id": "740d2bae-0b01-407d-be92-56aceace27a4"
 	},
 	{
-		"title": "Een studieboek op een nieuw vakterrein (OPL, WE).",
-		"id": "23e2ed19-710b-4805-b4e7-f7a6c30628c2"
+		"title": "Een studieboek over een nieuw onderwerp.",
+		"id": "23e2ed19-710b-4805-b4e7-f7a6c30628c2",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Historische informatie over een stad of bouwwerk (DL, OPL).",
-		"id": "4f527343-a748-47d2-99ef-105d89a454cb"
+		"title": "Historische informatie over een stad of bouwwerk.",
+		"id": "4f527343-a748-47d2-99ef-105d89a454cb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Populair wetenschappelijke artikelen over een maatschappelijk relevant probleem (DL).",
-		"id": "63edbb27-328e-4bf5-a732-88e195aa835e"
+		"title": "Populair wetenschappelijke artikelen over een maatschappelijk relevant probleem.",
+		"id": "63edbb27-328e-4bf5-a732-88e195aa835e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Vak- en wetenschappelijke literatuur op het eigen vakterrein (OPL, WE).",
