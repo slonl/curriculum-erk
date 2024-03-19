@@ -870,24 +870,32 @@
 		"description": ""
 	},
 	{
-		"title": "Veiligheidsvoorschriften in een vliegtuig (PU).",
-		"id": "e7d0e825-5d51-4239-9c5f-b6922adbbf3e"
+		"title": "Veiligheidsvoorschriften in een vliegtuig, bij het betreden van een pretpark, sporthal of op de werkplek.",
+		"id": "e7d0e825-5d51-4239-9c5f-b6922adbbf3e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Foutmeldingen in computer- en e-mailprogramma's (XX).",
-		"id": "6af67f99-2f85-4730-b2b5-6450e341e991"
+		"title": "Foutmeldingen in computer- en e-mailprogramma's.",
+		"id": "6af67f99-2f85-4730-b2b5-6450e341e991",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Instructies met betrekking tot veiligheid op de werkplek (WE, OPL).",
 		"id": "3413fa5b-55c1-4b60-b1ba-dc4326b506b0"
 	},
 	{
-		"title": "Regels in een museum (PU).",
-		"id": "0b0f2a76-4a37-4f63-af37-fec2a9b005f5"
+		"title": "Gedragsregels in een museum.",
+		"id": "0b0f2a76-4a37-4f63-af37-fec2a9b005f5",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Voorschriften in openbare gebouwen bij toiletten of over aansprakelijkheid bij een garderobe (PU).",
-		"id": "87fe0774-22df-4110-abb1-b9f193a34028"
+		"title": "Voorschriften in openbare gebouwen bij toiletten of over aansprakelijkheid bij een garderobe.",
+		"id": "87fe0774-22df-4110-abb1-b9f193a34028",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een handleiding bij een mobiele telefoon (DL).",
