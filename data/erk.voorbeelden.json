@@ -6383,5 +6383,17 @@
 		"prefix": "",
 		"title": "Een bericht begrijpen op intranet over de studiedag van je school of werk: wat was het onderwerp van die dag en wie waren de sprekers?",
 		"description": ""
+	},
+	{
+		"id": "f126e3bb-a643-4aa9-9f55-039d41e28514",
+		"prefix": "",
+		"title": "Een nieuwsblog op een (jeugd)nieuwswebsite, bijvoorbeeld over een sportwedstrijd.",
+		"description": ""
+	},
+	{
+		"id": "38febf95-37f0-409a-af99-c1b8d560da48",
+		"prefix": "",
+		"title": "Een nieuwsbericht op een nieuwswebsite, bijvoorbeeld over het gebruik van sociale media.",
+		"description": ""
 	}
 ]
