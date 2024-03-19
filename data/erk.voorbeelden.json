@@ -494,20 +494,28 @@
 		"description": ""
 	},
 	{
-		"title": "Fraudebepalingen in een examenreglement (OPL).",
-		"id": "acb7a7d9-9de7-4187-89be-3b7ac9baf199"
+		"title": "Overgangsnormen in een reglement van de (partner)school.",
+		"id": "acb7a7d9-9de7-4187-89be-3b7ac9baf199",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Bekostigingsvoorwaarden in een beschrijving van een uitwisselingsprogramma in het buitenland (OPL).",
-		"id": "740ee0d9-38d3-4ddc-853c-4d0715a0fdd1"
+		"title": "Bekostigingsvoorwaarden in een beschrijving van een uitwisselingsprogramma in het buitenland.",
+		"id": "740ee0d9-38d3-4ddc-853c-4d0715a0fdd1",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De juiste aanwijzing in een helpprogramma bij een computerprobleem (XX).",
-		"id": "705d8a6e-b190-4fe7-bf7b-e456fc11104f"
+		"title": "De juiste aanwijzing in een helpprogramma bij een computerprobleem.",
+		"id": "705d8a6e-b190-4fe7-bf7b-e456fc11104f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Marktinformatie over een bepaald product (OPL, WE).",
-		"id": "b21ef640-437a-4e2e-a23d-bfbfe5fb0a63"
+		"title": "Marktinformatie over een bepaald product.",
+		"id": "b21ef640-437a-4e2e-a23d-bfbfe5fb0a63",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Kranten- of tijdschriftartikelen (DL, OPL).",
@@ -518,8 +526,10 @@
 		"id": "bc254b3b-8b68-48d0-8702-00e8a266e369"
 	},
 	{
-		"title": "Buitenlandse Wikipedia-lemma's (OPL, WE, DL).",
-		"id": "81315041-54da-4c02-b455-e0f976923ec0"
+		"title": "Wikipedia-lemma's.",
+		"id": "81315041-54da-4c02-b455-e0f976923ec0",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Studieteksten (OPL).",
