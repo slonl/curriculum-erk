@@ -5214,7 +5214,13 @@
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
 		"title": "Kan vertrouwde namen, woorden en zeer essentiële zinsdelen herkennen op eenvoudige kennisgevingen in de meeste alledaagse situaties.",
-		"id": "c8a9096e-8f5c-4571-b716-b464fa4581e8"
+		"id": "c8a9096e-8f5c-4571-b716-b464fa4581e8",
+		"erk_voorbeeld_id": [
+			"5e3f1a86-7065-43bf-94a7-93d3825d0fad",
+			"42aaa15f-995d-4f3e-aa98-ad740de8044c",
+			"853e317a-4ed3-4591-aa3f-385ed1528aa7",
+			"95f71f33-d32e-4ffd-b860-56b20a10344a"
+		]
 	},
 	{
 		"niveau_id": [
