@@ -910,12 +910,16 @@
 		"description": ""
 	},
 	{
-		"title": "Een recept voor het maken van een regionaal gerecht (DL).",
-		"id": "5a22af10-11a9-4fdc-8bb7-e1696e314602"
+		"title": "Een recept volgen voor het maken van een regionaal gerecht uit een pak.",
+		"id": "5a22af10-11a9-4fdc-8bb7-e1696e314602",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Instructies bij een computerspelletje of een gezelschapsspel (DL).",
-		"id": "c367528a-989e-40c4-9141-dee642b68c03"
+		"title": "Instructies volgen bij een gezelschapsspel.",
+		"id": "c367528a-989e-40c4-9141-dee642b68c03",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "De helpfunctie in een tekstverwerkingsprogramma (XX).",
@@ -930,8 +934,10 @@
 		"id": "a51d6c08-02a2-4ee0-8ce8-96ee8e497bc9"
 	},
 	{
-		"title": "Instructies voor het invullen van een schadeformulier bij een aanrijding (PU).",
-		"id": "886d8fe3-b2d6-4973-a772-9cc3fad50e4d"
+		"title": "De retourinstructies bij een online aankoop.",
+		"id": "886d8fe3-b2d6-4973-a772-9cc3fad50e4d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Borden met veiligheidsregels in het openbaar vervoer (PU).",
