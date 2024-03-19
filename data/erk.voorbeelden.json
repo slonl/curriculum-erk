@@ -6267,5 +6267,35 @@
 		"prefix": "",
 		"title": "Een poster voor een film, concert of voorstelling begrijpen.",
 		"description": ""
+	},
+	{
+		"id": "c4c6b79d-203a-4bdb-9b79-a3eb4bb0f115",
+		"prefix": "",
+		"title": "Een eenvoudige biografie van een artiest, acteur, sporter of influencer over leeftijd, hobby's, relaties.",
+		"description": ""
+	},
+	{
+		"id": "968268b5-5182-4988-ade9-9babec31e8d5",
+		"prefix": "",
+		"title": "Persoonlijke gegevens begrijpen van personen op een sociaal netwerk: hobby's, studie, beroep.",
+		"description": ""
+	},
+	{
+		"id": "99aeb132-6bae-4fd2-9434-39aa70e987c0",
+		"prefix": "",
+		"title": "Een kort nieuwsbericht begrijpen over een muziekfestival of een sportwedstrijd.",
+		"description": ""
+	},
+	{
+		"id": "d87ca106-2f6c-49d1-98cb-053b35686bf0",
+		"prefix": "",
+		"title": "Een beschrijving van kenmerken van diersoorten begrijpen in een tijdschrift voor kinderen.",
+		"description": ""
+	},
+	{
+		"id": "deb848a4-219d-49c4-acd4-e016dee3073d",
+		"prefix": "",
+		"title": "Een fotoverslag van een rondreis begrijpen met korte begeleidende teksten.",
+		"description": ""
 	}
 ]
