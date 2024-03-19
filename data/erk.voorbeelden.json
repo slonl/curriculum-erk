@@ -5735,5 +5735,29 @@
 		"prefix": "",
 		"title": "Toeristische bewegwijzering in een stad: centrum, museum, parkeerplaats.",
 		"description": ""
+	},
+	{
+		"id": "28218396-eaeb-47eb-9837-31f1217b468a",
+		"prefix": "",
+		"title": "De toegangsprijs van een evenement of een attractiepark vinden op een website.",
+		"description": ""
+	},
+	{
+		"id": "3abf4be6-d1a8-4c04-834f-5d233b08573a",
+		"prefix": "",
+		"title": "De openingstijden van de dierentuin of een museum vinden in een folder.",
+		"description": ""
+	},
+	{
+		"id": "55f3f4b3-e281-4b78-baa8-1c96534b7147",
+		"prefix": "",
+		"title": "Op een flyer zien waar een bekende markt is in de stad.",
+		"description": ""
+	},
+	{
+		"id": "691bb465-02d7-4ba3-9d82-e7a8150d9c81",
+		"prefix": "",
+		"title": "In het lesrooster vinden op welke dag en op welke tijd een bepaald vak gegeven wordt.",
+		"description": ""
 	}
 ]
