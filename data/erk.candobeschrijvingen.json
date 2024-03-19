@@ -5185,7 +5185,14 @@
 		"title": "Kan eenvoudige alledaagse borden zoals 'Parkeren', 'Station', 'Eetzaal', 'Niet roken' enzovoort begrijpen.",
 		"id": "ecb66b87-692f-482f-8b98-f7edf2aef8bb",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"2bd54491-3157-4529-8ec9-c95fd9699b9a",
+			"14127ccf-b50c-4b0f-80fe-7ae09bd085a2",
+			"9d43528c-5b86-4c03-bc84-6df17967d64e",
+			"3bb855a2-724c-4dd5-826b-caf6c109d5c3",
+			"ebdd8ac0-c1f9-4ee3-938f-ab8ac2255788"
+		]
 	},
 	{
 		"niveau_id": [
