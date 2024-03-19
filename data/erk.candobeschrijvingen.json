@@ -5731,10 +5731,16 @@
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan korte teksten begrijpen over onderwerpen die vertrouwd zijn of betrekking hebben op actuele kwesties, en waarin mensen hun mening geven (bijvoorbeeld kritische bijdragen aan een online discussieforum of ingezonden brieven).",
+		"title": "Kan korte teksten begrijpen over onderwerpen die vertrouwd zijn of betrekking hebben op actuele kwesties, en waarin mensen hun mening geven.",
 		"id": "7fde1925-2719-4b70-a960-3b6180f3b0d1",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"49f42a7b-1a86-4829-b33b-18abc56d4760",
+			"d88f3327-f476-4c3d-8136-a87ad7a65f2c",
+			"eb510da3-455a-41ad-b113-47967cabdb85",
+			"514c483b-7aa9-4e03-87d2-1f7bdfad3a97"
+		]
 	},
 	{
 		"niveau_id": [
