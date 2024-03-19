@@ -374,28 +374,40 @@
 		"description": ""
 	},
 	{
-		"title": "Aanwijzingen op een strand al: zwemmen toegestaan als de groene vlag gehesen is (PU).",
-		"id": "e2325368-a04a-45b3-92a6-12d23b92b87c"
+		"title": "Aanwijzingen op een strand, bijvoorbeeld zwemmen toegestaan bij groene vlag, niet lopen in de duinen, honden mogen los tussen datum x en y.",
+		"id": "e2325368-a04a-45b3-92a6-12d23b92b87c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Routeaanwijzingen bij een verkeersomleiding (PU).",
-		"id": "371432b5-14a0-42c3-8fba-527172bea38b"
+		"title": "Routeaanwijzingen bij een verkeersomleiding kunnen volgen, bijvoorbeeld volg de P-route.",
+		"id": "371432b5-14a0-42c3-8fba-527172bea38b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Informatieborden op de weg of snelweg (PU).",
-		"id": "6dcf2b4c-6692-49f4-abde-77adcfe0003e"
+		"title": "Informatieborden op de weg of snelweg begrijpen: filegevaar, wegwerkzaamheden, omleidingen, volgende tankstation over 25 km.",
+		"id": "6dcf2b4c-6692-49f4-abde-77adcfe0003e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Informatieborden in een VVV-kantoor, bank, museum, toeristische attracties (PU).",
-		"id": "486008b7-c114-47e9-968f-da9527ebb1ef"
+		"title": "Informatieborden in een VVV-kantoor, bank, museum, toeristische attracties, bijvoorbeeld: deze balie gaat sluiten, wachttijd 10 minuten.",
+		"id": "486008b7-c114-47e9-968f-da9527ebb1ef",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Informatieborden op een station of luchthaven (PU).",
-		"id": "0e513afd-43eb-4db3-9b6e-e24365543bc2"
+		"title": "Informatieborden op een station of luchthaven, bijvoorbeeld: heeft een vlucht vertraging, is de trein gecanceld?",
+		"id": "0e513afd-43eb-4db3-9b6e-e24365543bc2",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Waarschuwingsborden op een bouwplaats als: niet betreden, melden bij de uitvoerder (PU, WE).",
-		"id": "99223dcd-7bb7-48b2-9d23-4e919a92be6e"
+		"title": "Waarschuwingsborden op een bouwplaats als: niet betreden, melden bij de uitvoerder.",
+		"id": "99223dcd-7bb7-48b2-9d23-4e919a92be6e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een folder over de voorzieningen van een camping of een hotel (DL).",
