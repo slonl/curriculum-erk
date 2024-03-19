@@ -6451,5 +6451,29 @@
 		"prefix": "",
 		"title": "Een wedstrijdverslag in het krantje van de sportvereniging.",
 		"description": ""
+	},
+	{
+		"id": "4394f1d7-aa4f-4ffc-9240-db42d9084cd2",
+		"prefix": "",
+		"title": "Een artikel in een populaire en/of regionale krant over actualiteit, hobby of sport.",
+		"description": ""
+	},
+	{
+		"id": "55ca22ba-4f98-4f4f-9ec0-909ad92adbb9",
+		"prefix": "",
+		"title": "Een website over reizen of studie in het buitenland.",
+		"description": ""
+	},
+	{
+		"id": "290de6b7-ccff-45e8-8e04-e438298e51c4",
+		"prefix": "",
+		"title": "Een reisgids.",
+		"description": ""
+	},
+	{
+		"id": "dce2e492-23f2-4847-ab0d-05003130c35f",
+		"prefix": "",
+		"title": "Een tekst over een onderwerp gerelateerd aan diens opleiding.",
+		"description": ""
 	}
 ]
