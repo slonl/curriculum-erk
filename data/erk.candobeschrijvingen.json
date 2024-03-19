@@ -5886,8 +5886,16 @@
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan korte schriftelijke instructies begrijpen die stap voor stap geïllustreerd zijn (bijvoorbeeld voor het installeren van nieuwe technologie).",
-		"id": "476650fa-c1bd-4c32-901e-e9e025f9eb40"
+		"title": "Kan korte schriftelijke instructies begrijpen die stap voor stap geïllustreerd zijn.",
+		"id": "476650fa-c1bd-4c32-901e-e9e025f9eb40",
+		"prefix": "",
+		"description": "",
+		"erk_voorbeeld_id": [
+			"7df54d65-3f76-4da7-b371-395b34baa1e6",
+			"768ebd86-2076-4e70-b6e6-c28d95676337",
+			"0d130a3c-1b7d-4786-b481-ec60f1439a1e",
+			"cfd5a699-6a0a-4db2-a701-1098b989a8f6"
+		]
 	},
 	{
 		"niveau_id": [
