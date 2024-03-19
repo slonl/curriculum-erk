@@ -672,12 +672,16 @@
 		"id": "1eb50595-2fc5-4a8a-84f7-789d90f65d5f"
 	},
 	{
-		"title": "Het 'wie-wat-waar' in krantenartikelen over een overval, een ongeluk, een rel (DL).",
-		"id": "83fdd003-a6bd-4d8f-9bf6-b3a126f0753d"
+		"title": "In een krantenartikel het ‘wie-wat-waar’ herkennen over een overval, een ongeluk, een rel.",
+		"id": "83fdd003-a6bd-4d8f-9bf6-b3a126f0753d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Nieuws op teletekst (DL).",
-		"id": "c62ea0ff-0ddd-4c44-8ffc-06dc26f0208b"
+		"title": "De hoofdlijnen uit artikelen en berichten op een nieuwssite herkennen, die gaan over vertrouwde onderwerpen zoals sport of muziek.",
+		"id": "c62ea0ff-0ddd-4c44-8ffc-06dc26f0208b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Informatie over producten, materialen apparaten uit technische rapporten op het eigen vakterrein (OPL, WE).",
