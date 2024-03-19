@@ -5305,7 +5305,12 @@
 		"title": "Kan specifieke informatie vinden in praktische, concrete, voorspelbare teksten (bijvoorbeeld reisgidsen, recepten), mits eenvoudige taal is gebruikt.",
 		"id": "f62bce04-fc2e-4f14-8972-38548a771d85",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"c67dafae-1019-4d57-ad81-1e2f2a0d31ed",
+			"c556d9a0-f889-48b1-8c2b-35b7553139ac",
+			"c8f04f7f-8caf-4415-be88-71552eaa1957"
+		]
 	},
 	{
 		"niveau_id": [
