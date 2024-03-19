@@ -646,8 +646,10 @@
 		"id": "f1494a03-56fd-4593-9051-3838007611ab"
 	},
 	{
-		"title": "Korte artikeltjes over actuele onderwerpen, zoals sport, dorpsfeesten, politieberichten, in een plaatselijke krant (DL).",
-		"id": "fd19de6d-6a17-4073-904c-2556217349b5"
+		"title": "De hoofdlijnen in korte nieuwsberichten over hobby's of vrijetijdsbesteding, mode en gezondheid, (huis)dieren, sport en sportwedstrijden, bekende sterren, artiesten, acteurs, influencers, feesten en vieringen.\n",
+		"id": "fd19de6d-6a17-4073-904c-2556217349b5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een artikel in een populaire en/of regionale krant over actualiteit, hobby of sport (DL).",
