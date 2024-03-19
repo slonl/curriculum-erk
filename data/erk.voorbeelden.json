@@ -420,40 +420,54 @@
 		"description": ""
 	},
 	{
-		"title": "Een folder over de voorzieningen van een camping of een hotel (DL).",
-		"id": "be415708-8f2a-41b3-b064-20c3357ddcea"
+		"title": "Een folder over de voorzieningen van een camping of een hotel.",
+		"id": "be415708-8f2a-41b3-b064-20c3357ddcea",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een brochure van een pretpark (DL).",
-		"id": "e2dbe0d8-e306-4943-9bb0-d3f6e66f6246"
+		"title": "Een informatiefolder over een reis of studie in het buitenland.",
+		"id": "e2dbe0d8-e306-4943-9bb0-d3f6e66f6246",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een informatiefolder over een reis of studie in het buitenland (DL, OPL).",
-		"id": "af7455e7-196f-4b2d-a036-ae9a35add72d"
+		"title": "Een huurcontract voor een kamer in een studentenflat.",
+		"id": "af7455e7-196f-4b2d-a036-ae9a35add72d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een huurcontract voor een kamer in een studentenflat (DL).",
 		"id": "6ada7482-2f65-4438-9367-fc53e374001a"
 	},
 	{
-		"title": "Een overzicht van regels voor een tijdelijke werkvergunning (WE).",
-		"id": "1f8d5bc6-5b67-4d71-81fd-7a57bed1c4f9"
+		"title": "Een overzicht met regels voor een tijdelijke werkvergunning.",
+		"id": "1f8d5bc6-5b67-4d71-81fd-7a57bed1c4f9",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Voorwaarden bij het huren van een scooter, bromfiets, auto (PU).",
-		"id": "8d3207e8-5866-433d-9114-60bdd6269ceb"
+		"title": "De voorwaarden bij het huren van een scooter, bromfiets, auto.",
+		"id": "8d3207e8-5866-433d-9114-60bdd6269ceb",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een toelichting bij een boete (PU).",
 		"id": "a6b3fe85-c552-430c-8b62-edac519fa608"
 	},
 	{
-		"title": "Een overzicht van arbeidsvoorwaarden van een (stage)bedrijf als: vakantie, opzegtermijn, onkostenvergoeding (WE, OPL).",
-		"id": "d24b0a4d-9a75-4b88-b979-6819351e118b"
+		"title": "Relevante arbeidsvoorwaarden van een (stage)bedrijf zoals vakantie, opzegtermijn, onkostenvergoeding.",
+		"id": "d24b0a4d-9a75-4b88-b979-6819351e118b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Standaardoffertes (WE).",
-		"id": "3f56928d-df79-42e9-92b2-976dc28be165"
+		"title": "Standaardoffertes.",
+		"id": "3f56928d-df79-42e9-92b2-976dc28be165",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "In een aantal websites informatie zoeken voor een werkstuk (OPL).",
@@ -5894,6 +5908,12 @@
 		"id": "a048cc23-ae57-4a65-a1b0-3c5681f89073",
 		"prefix": "",
 		"title": "De kenmerken van verschillende digitale camera’s met elkaar vergelijken: welke camera voldoet het meest aan jouw wensen?",
+		"description": ""
+	},
+	{
+		"id": "33d563bc-0020-41cf-b63b-dda8c9d4fc03",
+		"prefix": "",
+		"title": "In de online brochure van de (partner)school vinden welke activiteiten er aangeboden worden buiten het reguliere rooster.",
 		"description": ""
 	}
 ]
