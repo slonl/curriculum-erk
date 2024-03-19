@@ -780,20 +780,26 @@
 		"id": "597a4ca7-1739-4c1c-91fd-2053f8b1b4b3"
 	},
 	{
-		"title": "Materiaal voor een eigen onderzoeksproject (OPL).",
-		"id": "687336f6-ac20-454e-92d1-b3316174f54f"
+		"title": "Materiaal voor een eigen onderzoeksproject, het profielwerkstuk of het honoursprogramma van de school.",
+		"id": "687336f6-ac20-454e-92d1-b3316174f54f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Materiaal voor het profielwerkstuk of het Honoursprogramma van de school (OPL).",
 		"id": "d6401815-3fc0-4d45-a7a3-83c3e251e577"
 	},
 	{
-		"title": "Verslag van een trainersoverleg in een sportcomplex (OPL, WE).",
-		"id": "5ac27c99-3693-4475-a3af-7c5dc6898ccb"
+		"title": "Verslag van een trainersoverleg in een sportcontext.",
+		"id": "5ac27c99-3693-4475-a3af-7c5dc6898ccb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Verslagen van een afdelingsoverleg of de ondernemingsraad (WE).",
-		"id": "8ceee6d0-7327-4ba2-b820-162efc799072"
+		"title": "Een beleidsstuk op de stageplek.",
+		"id": "8ceee6d0-7327-4ba2-b820-162efc799072",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Relevante informatie via Twitter volgen (XX).",
