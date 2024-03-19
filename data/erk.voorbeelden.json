@@ -898,12 +898,16 @@
 		"description": ""
 	},
 	{
-		"title": "Een handleiding bij een mobiele telefoon (DL).",
-		"id": "83f4050f-e34c-4ad7-9c79-c1567fdb4728"
+		"title": "Een handleiding bij een mobiele telefoon.",
+		"id": "83f4050f-e34c-4ad7-9c79-c1567fdb4728",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een instructie bij een kopieerapparaat, een printer, een beamer (XX).",
-		"id": "5421b2c8-3fd5-4d7f-b929-7c4bcb43ffd1"
+		"title": "Een instructie bij een kopieerapparaat, een printer, een beamer.",
+		"id": "5421b2c8-3fd5-4d7f-b929-7c4bcb43ffd1",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een recept voor het maken van een regionaal gerecht (DL).",
@@ -6162,6 +6166,12 @@
 		"id": "cfd5a699-6a0a-4db2-a701-1098b989a8f6",
 		"prefix": "",
 		"title": "Korte, schriftelijke instructies voor het bereiden van een gerecht.",
+		"description": ""
+	},
+	{
+		"id": "d51d3184-257b-4be0-bc32-003a18be2dd6",
+		"prefix": "",
+		"title": "Een handleiding voor de aansluiting van geluidsapparatuur.",
 		"description": ""
 	}
 ]
