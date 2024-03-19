@@ -702,16 +702,22 @@
 		"description": ""
 	},
 	{
-		"title": "Eenvoudige voorlichtingsmateriaal van overheden of onderwijsinstellingen (PU, OPL).",
-		"id": "11bbdd2f-13cc-4b13-9b19-e0b164306090"
+		"title": "Eenvoudig voorlichtingsmateriaal van overheden of onderwijsinstellingen.",
+		"id": "11bbdd2f-13cc-4b13-9b19-e0b164306090",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een verklarende tekst bij tabellen, grafieken, schema's (OPL, WE).",
-		"id": "0bdd57a4-4c8b-4b92-b9b7-b3ca41d61478"
+		"title": "Een verklarende tekst bij tabellen, grafieken, schema's.",
+		"id": "0bdd57a4-4c8b-4b92-b9b7-b3ca41d61478",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Achtergrondinformatie uitgereikt bij een presentatie of op een vakbeurs (WE).",
-		"id": "54a3a018-4f5e-4947-a0c0-de4f00809308"
+		"title": "Achtergrondinformatie bij een presentatie, een museum of op een vakbeurs.",
+		"id": "54a3a018-4f5e-4947-a0c0-de4f00809308",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "De ondertiteling van een eenvoudige film, soap of tv-programma (DL, PU).",
