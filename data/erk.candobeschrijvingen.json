@@ -5626,7 +5626,11 @@
 		"title": "Kan de grote lijnen van een nieuwsbericht over een vertrouwd soort gebeurtenis volgen, mits de inhoud vertrouwd en voorspelbaar is.",
 		"id": "6faf9c89-0470-457a-bbd1-586ef35cd56d",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"f126e3bb-a643-4aa9-9f55-039d41e28514",
+			"38febf95-37f0-409a-af99-c1b8d560da48"
+		]
 	},
 	{
 		"niveau_id": [
