@@ -5524,10 +5524,17 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan korte teksten begrijpen over onderwerpen waar persoonlijke belangstelling voor is (bijvoorbeeld korte nieuwsberichten over sport, muziek, reizen of verhalen enzovoort), mits ze in heel eenvoudige taal zijn geformuleerd en ondersteund worden door illustraties en afbeeldingen.",
+		"title": "Kan korte teksten begrijpen over onderwerpen waar persoonlijke belangstelling voor is, mits ze in heel eenvoudige taal zijn geformuleerd en ondersteund worden door illustraties en afbeeldingen.",
 		"id": "30f51b5b-7c5a-43ee-bacf-bd28090ca7c2",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"c4c6b79d-203a-4bdb-9b79-a3eb4bb0f115",
+			"968268b5-5182-4988-ade9-9babec31e8d5",
+			"99aeb132-6bae-4fd2-9434-39aa70e987c0",
+			"d87ca106-2f6c-49d1-98cb-053b35686bf0",
+			"deb848a4-219d-49c4-acd4-e016dee3073d"
+		]
 	},
 	{
 		"niveau_id": [
