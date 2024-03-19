@@ -720,8 +720,10 @@
 		"description": ""
 	},
 	{
-		"title": "De ondertiteling van een eenvoudige film, soap of tv-programma (DL, PU).",
-		"id": "116c67f4-c61c-4ebb-9d43-38c1c63caf19"
+		"title": "De ondertiteling van een film of nieuws.",
+		"id": "116c67f4-c61c-4ebb-9d43-38c1c63caf19",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "De ondertiteling van het nieuws (DL).",
@@ -732,8 +734,10 @@
 		"id": "4062d7d1-e5e0-40c4-ae0d-a9820eeb467a"
 	},
 	{
-		"title": "De teksten van liedjes (karaoke) (DL).",
-		"id": "92fca2fe-4587-4c26-a847-c32cbf5176d5"
+		"title": "De ondertiteling bij een liedje.",
+		"id": "92fca2fe-4587-4c26-a847-c32cbf5176d5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Artikelen over een milieuvraagstuk als input voor een profielwerkstuk (OPL).",
