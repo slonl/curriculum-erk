@@ -5584,7 +5584,13 @@
 		"title": "Kan een korte, feitelijke beschrijving of een kort, feitelijk verslag binnen het eigen vakgebied begrijpen, mits eenvoudige taal is gebruikt en de tekst geen onvoorspelbare details bevat.",
 		"id": "f01d051b-fc0f-4d50-a2dc-101a422d08eb",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"76203959-d773-483e-b472-d55dbf7e6523",
+			"ca3aa18b-40a1-4708-b5c7-af59ac432a87",
+			"f0edef26-bd65-447f-81dc-4a79d27357ef",
+			"b89235ca-d204-4c4c-8149-b7460289f78b"
+		]
 	},
 	{
 		"niveau_id": [
