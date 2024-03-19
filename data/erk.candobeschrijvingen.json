@@ -5612,7 +5612,12 @@
 		"title": "Kan specifieke informatie herkennen in eenvoudig schriftelijk materiaal, zoals brieven, brochures en korte krantenartikelen waarin gebeurtenissen worden beschreven.",
 		"id": "525c1f43-bf1f-4bed-82a0-afcfa7bff6f1",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"ecd8db91-97fc-44af-ac23-34e8d43c902d",
+			"960ae28e-a1e7-4873-909f-26352c9efe50",
+			"cf781e02-b52a-4a08-9128-fb0296c7ecc1"
+		]
 	},
 	{
 		"niveau_id": [
