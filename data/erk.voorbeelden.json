@@ -294,24 +294,34 @@
 		"description": ""
 	},
 	{
-		"title": "Eenvoudige gerechten op een menukaart (DL).",
-		"id": "74fd1d13-524e-4bc1-8015-ed5267ee81a0"
+		"title": "Met een digitale zoekmachine het dichtstbijzijnde zwembad opzoeken.",
+		"id": "74fd1d13-524e-4bc1-8015-ed5267ee81a0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Het bestelnummer of de prijs van een bekend artikel in een catalogus (DL, WE).",
-		"id": "2c125fe4-eb17-46b1-9f29-fcba6444d839"
+		"title": "Een taalcursus voor gevorderden opzoeken in een brochure of op een website.",
+		"id": "2c125fe4-eb17-46b1-9f29-fcba6444d839",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Afdelingen van een warenhuis op een informatiebord (DL).",
-		"id": "6b94c2b6-31a9-4f17-a0a2-48918a91e5e5"
+		"title": "De benodigde bus-/tram-/metro- of treinverbinding opzoeken in het busboekje, een informatiebord of op een app.",
+		"id": "6b94c2b6-31a9-4f17-a0a2-48918a91e5e5",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Plaats- en straatnamen in een dienstregeling van het openbaar vervoer (DL).",
-		"id": "78f847e7-55d1-48a8-b3a3-9e963bc535a3"
+		"title": "Opdrachtbonnen of bestelformulieren in verband met een bestelling nakijken: is je bestelling compleet?",
+		"id": "78f847e7-55d1-48a8-b3a3-9e963bc535a3",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een aanbieding in een folder van een supermarkt (DL).",
-		"id": "175c423e-f032-46e5-b49f-3141e706d1d7"
+		"title": "Op een eenvoudige menukaart de lekkerste pasta uitzoeken.",
+		"id": "175c423e-f032-46e5-b49f-3141e706d1d7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een artikel op een kassabon om de prijs te controleren (DL).",
