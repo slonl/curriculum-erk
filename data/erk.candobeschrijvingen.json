@@ -12831,7 +12831,13 @@
 		"id": "2f44fb43-bea9-4f09-8e16-8d6dd10f6a8c",
 		"prefix": "",
 		"title": "Kan korte, eenvoudige geschreven aanwijzingen opvolgen (bijvoorbeeld om van X naar Y te gaan).",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"6427b9a9-0fb9-42be-bba2-320a1bea86b9",
+			"05657d31-fa63-4475-841f-a8c6cf2ff554",
+			"21118102-9fa0-4d19-aa5a-4c0eca3cf472",
+			"af9c002b-f473-4ea3-afdd-541f15002cb6"
+		]
 	},
 	{
 		"niveau_id": [
