@@ -800,20 +800,28 @@
 		"id": "b8870240-a5de-4702-80d2-0962366f32fb"
 	},
 	{
-		"title": "De vluchtroute in een hotelkamer (PU).",
-		"id": "f570ffe3-0e88-4c1f-beba-5de36442d9ce"
+		"title": "(Verbods-)borden en waarschuwingen in het verkeer begrijpen: stop, niet parkeren, omleiding. ",
+		"id": "f570ffe3-0e88-4c1f-beba-5de36442d9ce",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Eenvoudige instructies voor een activiteit in een pretpark of toeristische attractie (DL, PU).",
-		"id": "fb5e7b50-e770-4fed-9aa8-60f07fc793a2"
+		"title": "Borden in de dierentuin begrijpen: niet voeren, let op je tas, blijf op de paden.",
+		"id": "fb5e7b50-e770-4fed-9aa8-60f07fc793a2",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Opschriften op stickers van medicijnen als: 3x per dag met water innemen, tijdens de maaltijd (DE).",
-		"id": "e01af722-641a-47b2-970c-159b6a1f1f9c"
+		"title": "Instructies in de publieke ruimte begrijpen: niet eten of drinken, niet roken, wc defect.",
+		"id": "e01af722-641a-47b2-970c-159b6a1f1f9c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Instructies bij lesmateriaal als: vul in, kruis aan, luister naar de tekst, print deze oefening (OPL).",
-		"id": "b4dd5edd-673b-45f2-b2cc-e576f5988bfe"
+		"title": "Eenvoudige instructies op het scherm van een computer of smartphone begrijpen: downloaden, printen.",
+		"id": "b4dd5edd-673b-45f2-b2cc-e576f5988bfe",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "De bereidingswijze op verpakkingen van voedingsmiddelen (DL).",
