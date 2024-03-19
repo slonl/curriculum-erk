@@ -6073,5 +6073,35 @@
 		"prefix": "",
 		"title": "Een bord met veiligheidsinstructies bij een attractie: minimale leeftijd en lengte, veiligheidsbeugel dicht, niet eten en drinken.",
 		"description": ""
+	},
+	{
+		"id": "f3a58550-5357-4e4f-9409-89d5148f47e9",
+		"prefix": "",
+		"title": "Instructies op apparaten als geldautomaat, automaat voor bus- en treinkaartjes, snackautomaten, betaalautomaten in parkeergarages.",
+		"description": ""
+	},
+	{
+		"id": "027f9335-c98a-45b8-a44d-ee3fd3fa55ee",
+		"prefix": "",
+		"title": "Instructies op het scherm van computers en smartphones (zoals bijvoorbeeld updates en veiligheidsmeldingen.",
+		"description": ""
+	},
+	{
+		"id": "b834c28d-b94c-4d3f-8908-74962f93ae3e",
+		"prefix": "",
+		"title": "Instructies over wat te doen met de router als de wifi niet werkt.",
+		"description": ""
+	},
+	{
+		"id": "02f699a9-2a8d-4e02-8a15-b22effc132d3",
+		"prefix": "",
+		"title": "Instructies voor toegang tot openbare toiletten, bijvoorbeeld op een station of tankstation.",
+		"description": ""
+	},
+	{
+		"id": "2e068fea-0655-46ba-a75b-a9c3655eb54b",
+		"prefix": "",
+		"title": "De gebruiksaanwijzing op een brandblusser.",
+		"description": ""
 	}
 ]
