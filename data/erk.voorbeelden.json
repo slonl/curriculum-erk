@@ -6395,5 +6395,23 @@
 		"prefix": "",
 		"title": "Een nieuwsbericht op een nieuwswebsite, bijvoorbeeld over het gebruik van sociale media.",
 		"description": ""
+	},
+	{
+		"id": "aa6c1ba5-1c4f-4d63-b5c8-04bc344cf3c5",
+		"prefix": "",
+		"title": "In een artikel, de informatie begrijpen uit een visueel overzicht van de verspreiding van talen in de wereld.",
+		"description": ""
+	},
+	{
+		"id": "773f70c2-a1f8-4f57-80a4-619584c25780",
+		"prefix": "",
+		"title": "Een krantenbericht begrijpen over prijsstijgingen of dalingen in het afgelopen jaar, met behulp van een grafiek.",
+		"description": ""
+	},
+	{
+		"id": "ff8de0ea-e4b3-4a98-b5bf-98c86d6ca266",
+		"prefix": "",
+		"title": "De belangrijke informatie in een artikel begrijpen met een aantal infographics over het gebruik van sociale mediakanalen door verschillende doelgroepen.",
+		"description": ""
 	}
 ]
