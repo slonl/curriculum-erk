@@ -5969,5 +5969,23 @@
 		"prefix": "",
 		"title": "Een schifting maken in een bronnenlijst uit een zoekopdracht.",
 		"description": ""
+	},
+	{
+		"id": "924faf34-0974-4ddd-80a1-6049ed1c7de2",
+		"prefix": "",
+		"title": "Een advertentie voor vrijwilligerswerk in een woon-zorg centrum.",
+		"description": ""
+	},
+	{
+		"id": "c8a01fcf-40fc-4d0d-9ebe-4d8db955cf5c",
+		"prefix": "",
+		"title": "Een aankondiging met programma, historie en traditie van een dorpsfeest.",
+		"description": ""
+	},
+	{
+		"id": "4ac19074-40bd-4088-9734-40971d09e291",
+		"prefix": "",
+		"title": "Een advertentie van verschillende soorten draadloze oortjes.",
+		"description": ""
 	}
 ]
