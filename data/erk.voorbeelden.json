@@ -330,36 +330,48 @@
 		"id": "d343b4dd-fa17-4b49-9315-ae1d44830ef6"
 	},
 	{
-		"title": "In een toeristische folder een activiteit of bezienswaardigheid uitzoeken voor een dagje uit (DL).",
-		"id": "5f4ac6af-aab7-46b9-a6eb-a5854769679f"
+		"title": "In een toeristische folder een activiteit of bezienswaardigheid uitzoeken voor een dagje uit.",
+		"id": "5f4ac6af-aab7-46b9-a6eb-a5854769679f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Op een garantiebewijs bij een apparaat opzoeken hoe lang de garantietermijn is (DL).",
-		"id": "dedda0f5-c752-4409-b024-a9a4eeecbdda"
+		"title": "Op een garantiebewijs bij een apparaat opzoeken hoe lang de garantietermijn is.",
+		"id": "dedda0f5-c752-4409-b024-a9a4eeecbdda",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "In het overzicht van huisregels van een hostel opzoeken hoe laat het stil moet zijn (OPL, WE).",
 		"id": "dbcb8d93-51e8-4c61-9b32-94df164a30b5"
 	},
 	{
-		"title": "Online voorbeelden van het gebruik van een woord of uitdrukking opzoeken (OPL).",
-		"id": "1a2fc4e7-72b7-4feb-8aec-152932d1e95b"
+		"title": "Online voorbeelden van het gebruik van een woord of uitdrukking opzoeken en begrijpen.",
+		"id": "1a2fc4e7-72b7-4feb-8aec-152932d1e95b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "De goede betekenis van een woord opzoeken in een eenvoudig woordenboek (OPL).",
 		"id": "6ee3c3c5-1313-4917-88ab-1f76d10c3c09"
 	},
 	{
-		"title": "Voor een voorstelling, evenement, excursie (DL).",
-		"id": "466d56dc-c672-4bb6-8ca6-002c64e73128"
+		"title": "In een eenvoudig woordenboek de juiste betekenis passend bij de context opzoeken.",
+		"id": "466d56dc-c672-4bb6-8ca6-002c64e73128",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Voor (tweedehands) sportartikelen, kleding, electronica, meubels, keukenspullen (DL).",
-		"id": "a133d9d4-bae3-4d21-a449-090739f576ba"
+		"title": "Advertenties voor een voorstelling, evenement of excursie begrijpen, zoals bijvoorbeeld wat, waar, wanneer, prijs.",
+		"id": "a133d9d4-bae3-4d21-a449-090739f576ba",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Personeelsadvertenties voor een (vakantie)baan of stageplek (OPL, WE).",
-		"id": "9e800ef2-a906-481c-ac98-a0b8036eb9a5"
+		"title": "Advertenties voor sportartikelen, kleding, elektronica, meubels, keukenspullen begrijpen: wat wordt er verkocht, hoeveel kost het, waar kun je het kopen.",
+		"id": "9e800ef2-a906-481c-ac98-a0b8036eb9a5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Aanwijzingen op een strand al: zwemmen toegestaan als de groene vlag gehesen is (PU).",
