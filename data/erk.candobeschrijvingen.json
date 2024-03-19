@@ -5557,7 +5557,13 @@
 		"title": "Kan informatie begrijpen in geïllustreerde brochures en plattegronden, bijvoorbeeld de belangrijkste attracties van een stad.",
 		"id": "14a07f2d-7ed2-4c47-b32e-e233ffc64a0b",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"462ff688-82cd-4674-b625-5447f75a7f48",
+			"98801543-1fce-4104-ad62-4f316a0ee700",
+			"b5f6566b-396e-4877-bb97-a081992d653a",
+			"14bf9f31-2bc8-451e-83e3-0aeef8f65d8c"
+		]
 	},
 	{
 		"niveau_id": [
