@@ -5944,7 +5944,11 @@
 		"title": "Kan instructies en procedures in de vorm van een lopende tekst begrijpen, bijvoorbeeld in een handleiding, mits het type proces of product bekend is.",
 		"id": "f8f896da-a443-4881-bcaf-e8e5e3355d95",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"8027801e-021f-409c-b705-74396dd19513",
+			"f685e9d1-77bc-44f9-be51-18b747b8efbe"
+		]
 	},
 	{
 		"niveau_id": [
