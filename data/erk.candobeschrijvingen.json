@@ -5705,12 +5705,12 @@
 		],
 		"erk_voorbeeld_id": [
 			"116c67f4-c61c-4ebb-9d43-38c1c63caf19",
-			"f45bb222-c44a-4d59-9acf-f29651552667",
-			"4062d7d1-e5e0-40c4-ae0d-a9820eeb467a",
 			"92fca2fe-4587-4c26-a847-c32cbf5176d5"
 		],
 		"title": "Kan door meelezen alledaags audiovisueel materiaal begrijpen.",
-		"id": "517ae16f-a8d9-43b3-9954-06d09fbcbe2c"
+		"id": "517ae16f-a8d9-43b3-9954-06d09fbcbe2c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
