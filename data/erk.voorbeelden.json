@@ -6329,5 +6329,29 @@
 		"prefix": "",
 		"title": "De beschrijving van het recent gebouwde vogelpark in de brochure van de dierentuin.",
 		"description": ""
+	},
+	{
+		"id": "76203959-d773-483e-b472-d55dbf7e6523",
+		"prefix": "",
+		"title": "Een kort verslag van een studiedag georganiseerd door de werkgever.",
+		"description": ""
+	},
+	{
+		"id": "ca3aa18b-40a1-4708-b5c7-af59ac432a87",
+		"prefix": "",
+		"title": "Een vacature voor een vakantiebaantje of stage.",
+		"description": ""
+	},
+	{
+		"id": "f0edef26-bd65-447f-81dc-4a79d27357ef",
+		"prefix": "",
+		"title": "Informatie over het programma van een congres rondom het eigen vakgebied.",
+		"description": ""
+	},
+	{
+		"id": "b89235ca-d204-4c4c-8149-b7460289f78b",
+		"prefix": "",
+		"title": "De beschrijving van een cursus op een bepaald vakgebied, bijvoorbeeld een talencursus of een cursus computerprogrammeren.",
+		"description": ""
 	}
 ]
