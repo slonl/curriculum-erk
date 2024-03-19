@@ -6593,5 +6593,23 @@
 		"prefix": "",
 		"title": "Voor het script ter voorbereiding op deelname aan een debat, argumenten voor en tegen uit verschillende bronnen wegen.",
 		"description": ""
+	},
+	{
+		"id": "6beb9895-c1fa-4f88-9b13-ccf061e5bfc8",
+		"prefix": "",
+		"title": "Een onderzoeksverslag in een vakblad/journal.",
+		"description": ""
+	},
+	{
+		"id": "c646745b-aaeb-4146-8010-8d5d8d0aba5d",
+		"prefix": "",
+		"title": "Wetenschappelijke artikelen.",
+		"description": ""
+	},
+	{
+		"id": "3e54281f-1ab8-4b4f-bb29-17cddc828dec",
+		"prefix": "",
+		"title": "Een artikel in een populair wetenschappelijk magazine.",
+		"description": ""
 	}
 ]
