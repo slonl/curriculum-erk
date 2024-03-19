@@ -5379,7 +5379,12 @@
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
 		"title": "Kan de belangrijke informatie begrijpen in simpele, duidelijk opgestelde advertenties in kranten of tijdschriften, mits er niet te veel afkortingen in staan.",
-		"id": "c608ff01-a52a-4a5e-b32d-bcc658d32134"
+		"id": "c608ff01-a52a-4a5e-b32d-bcc658d32134",
+		"erk_voorbeeld_id": [
+			"924faf34-0974-4ddd-80a1-6049ed1c7de2",
+			"c8a01fcf-40fc-4d0d-9ebe-4d8db955cf5c",
+			"4ac19074-40bd-4088-9734-40971d09e291"
+		]
 	},
 	{
 		"niveau_id": [
