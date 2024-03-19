@@ -6139,5 +6139,29 @@
 		"prefix": "",
 		"title": "Een eenvoudig recept volgen uit een tijdschrift, kookboek of van een receptenwebsite.",
 		"description": ""
+	},
+	{
+		"id": "7df54d65-3f76-4da7-b371-395b34baa1e6",
+		"prefix": "",
+		"title": "Een stappenplan voor het installeren van een spelcomputer of printer.",
+		"description": ""
+	},
+	{
+		"id": "768ebd86-2076-4e70-b6e6-c28d95676337",
+		"prefix": "",
+		"title": "Een handleiding voor huishoudelijke apparaten.",
+		"description": ""
+	},
+	{
+		"id": "0d130a3c-1b7d-4786-b481-ec60f1439a1e",
+		"prefix": "",
+		"title": "Schriftelijke instructies voor het uitvoeren van een medische zelftest.",
+		"description": ""
+	},
+	{
+		"id": "cfd5a699-6a0a-4db2-a701-1098b989a8f6",
+		"prefix": "",
+		"title": "Korte, schriftelijke instructies voor het bereiden van een gerecht.",
+		"description": ""
 	}
 ]
