@@ -2602,24 +2602,34 @@
 		"id": "bf4236c6-ac97-47f6-9001-df98fd857b0a"
 	},
 	{
-		"title": "Een portret van vrienden (DL).",
-		"id": "ba33911e-85a1-4593-96a0-97e648d3e3d1"
+		"title": "Het schrijven van een grappig portret van vrienden.",
+		"id": "ba33911e-85a1-4593-96a0-97e648d3e3d1",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een verhaal over school of opleiding (OPL, WE).",
-		"id": "bf4ad768-98bb-4275-834a-4c7c8a8536cc"
+		"title": "Het schrijven van een dagboekfragment van je persoonlijke ervaringen op school, opleiding of werk.",
+		"id": "bf4ad768-98bb-4275-834a-4c7c8a8536cc",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een beschrijving van een bezochte plaats met een schoolreis (DL, OPL).",
-		"id": "6d53c606-28aa-4cde-96cc-35f33f2a4e32"
+		"title": "Een beschrijving van een bezochte bezienswaardigheid tijdens een schoolreis.",
+		"id": "6d53c606-28aa-4cde-96cc-35f33f2a4e32",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een bericht op een sociaal netwerk over het schoolfeest (DL).",
-		"id": "2ff69cd6-eb09-4611-bec1-885881470089"
+		"title": "Het schrijven van een verslag op een sociaal netwerk over het schoolfeest.",
+		"id": "2ff69cd6-eb09-4611-bec1-885881470089",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een blog over een bezoek aan een stad (DL).",
-		"id": "5c46c0ff-51d1-4ede-91af-6a890c2163d1"
+		"title": "Het schrijven van een persoonlijke blog over een bezoek aan een stad.",
+		"id": "5c46c0ff-51d1-4ede-91af-6a890c2163d1",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Wat voor vervolgopleiding je gaat kiezen en waarom (OPL).",
