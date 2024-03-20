@@ -2932,12 +2932,16 @@
 		"description": ""
 	},
 	{
-		"title": "Een essay over het recht op een rookvrije werkruimte, in het kader van een project op school of een beleidsvergadering op het werk (OPL, WE).",
-		"id": "53445e9f-4b1e-454f-8291-eb11a04f058e"
+		"title": "Een beschouwing over het gebruik van het metrische systeem ten opzichte van het imperiale systeem.",
+		"id": "53445e9f-4b1e-454f-8291-eb11a04f058e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een voorstel voor de aanpak van een project of opdracht (OPL, WE).",
-		"id": "2309040e-2bd0-4c95-aa78-a9eed3188112"
+		"title": "Een uiteenzetting over een controversieel thema zoals geopolitieke implicaties of over meertaligheid in het onderwijs.",
+		"id": "2309040e-2bd0-4c95-aa78-a9eed3188112",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een toelichting waarom je het niet eens bent met een idee voor een gezamenlijke activiteit van een partnerschool/-stad en een alternatief (PU, OPL, WE).",
