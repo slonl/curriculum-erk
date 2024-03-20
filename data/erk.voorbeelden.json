@@ -2908,20 +2908,28 @@
 		"id": "9a5961c8-b574-47f6-9913-1ad249d64a00"
 	},
 	{
-		"title": "In een handout als samenvatting van onderzoeken bij een presentatie (OPL, WE).",
-		"id": "df5788b3-c8cf-4a60-ba1c-2fae18609276"
+		"title": "Een hand-out schrijven als samenvatting van onderzoeken bij een presentatie.",
+		"id": "df5788b3-c8cf-4a60-ba1c-2fae18609276",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Uit diverse beschrijvingen van producten of diensten, ten behoeve van de keuze voor een product of dienst (WE).",
-		"id": "c4b91268-6e70-4329-9529-16eb604fad72"
+		"title": "Uit diverse beschrijvingen van producten of diensten een verslag schrijven ten behoeve van het maken van een keuze hiervan.",
+		"id": "c4b91268-6e70-4329-9529-16eb604fad72",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Toeristische informatie, als achtergrondinformatie voor een klant of voor buitenlandse gasten (DL, WE).",
-		"id": "1e89f416-5fa4-4f4b-933f-cbd429699d0b"
+		"title": "Toeristische informatie samenstellen als achtergrondinformatie voor een klant of voor buitenlandse gasten.",
+		"id": "1e89f416-5fa4-4f4b-933f-cbd429699d0b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een samenvatting van de hoofdpunten van nieuwsberichten, vraaggesprekken of documentaires, met meningen, argumenten en discussiepunten (DL).",
-		"id": "7331c066-b766-4036-844f-20b2715f073c"
+		"title": "In een samenvatting schrijven van de hoofdpunten van nieuwsberichten, vraaggesprekken of documentaires, met meningen, argumenten en discussiepunten.",
+		"id": "7331c066-b766-4036-844f-20b2715f073c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een essay over het recht op een rookvrije werkruimte, in het kader van een project op school of een beleidsvergadering op het werk (OPL, WE).",
