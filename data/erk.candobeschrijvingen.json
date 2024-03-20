@@ -8913,7 +8913,10 @@
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
 		"title": "Kan een recensie schrijven over een film, boek of toneelstuk.",
-		"id": "3731746f-598a-40e1-b526-8ed43128662d"
+		"id": "3731746f-598a-40e1-b526-8ed43128662d",
+		"erk_voorbeeld_id": [
+			"5b631436-7024-409c-bb76-6db77b051f96"
+		]
 	},
 	{
 		"niveau_id": [
