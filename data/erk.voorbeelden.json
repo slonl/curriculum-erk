@@ -2836,32 +2836,44 @@
 		"description": ""
 	},
 	{
-		"title": "Een verslag van gehouden straatinterviews in het kader van een project (OPL).",
-		"id": "592ce9d7-2ccf-4cc5-a411-d8806eb68bb2"
+		"title": "Een verslag van gehouden straatinterviews in het kader van een project.",
+		"id": "592ce9d7-2ccf-4cc5-a411-d8806eb68bb2",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een verslag over een eenvoudig onderzoekje in een plaats in het buitenland (OPL).",
-		"id": "125e510b-cb32-45dc-bd1b-c7493599240f"
+		"title": "Een verslag over een eenvoudig onderzoekje in een plaats in het buitenland.",
+		"id": "125e510b-cb32-45dc-bd1b-c7493599240f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een samenvatting van een (kranten)artikel over een bepaald onderwerp (OPL, WE).",
-		"id": "a94a0312-65e7-47af-b75d-2f26ada87fdf"
+		"title": "Een samenvatting van een (kranten)artikel over een bepaald onderwerp.",
+		"id": "a94a0312-65e7-47af-b75d-2f26ada87fdf",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een voorstel voor een excursieprogramma aan een buitenlandse partner op grond van toeristische informatie (OPL, WE).",
-		"id": "78c53945-df7b-4275-a5cb-31a26adad7e2"
+		"title": "Een voorstel voor een excursieprogramma aan een buitenlandse partner op grond van toeristische informatie.",
+		"id": "78c53945-df7b-4275-a5cb-31a26adad7e2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een tekst voor een partnerschool over de eigen woonplaats met de belangrijkste bezienswaardigheden (OPL).",
 		"id": "f6a7c3bb-43bc-4178-9732-8988ff0fa00f"
 	},
 	{
-		"title": "Een hand-out met de belangrijkste punten voor een referaat/presentatie over een boek (OPL).",
-		"id": "74f1083d-703b-498a-bb18-3baa6a4fe595"
+		"title": "Een hand-out met de belangrijkste punten voor een presentatie over een boek.",
+		"id": "74f1083d-703b-498a-bb18-3baa6a4fe595",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een toelichting van de belangrijkste stappen in een werkverslag en een opsomming van wat nog moet gebeuren (WE).",
-		"id": "1872c133-eb5d-4b53-9a49-448dbace9883"
+		"title": "Een toelichting van de belangrijkste stappen in een werkverslag en een opsomming van wat nog moet gebeuren.",
+		"id": "1872c133-eb5d-4b53-9a49-448dbace9883",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Over een actualiteit in het nieuws (DL).",
