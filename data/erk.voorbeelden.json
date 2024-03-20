@@ -6627,5 +6627,23 @@
 		"prefix": "",
 		"title": "Het beschrijven van je eigen kamer, je klaslokaal, de woonkamer van een vriend, een kamer in je vakantieverblijf.",
 		"description": ""
+	},
+	{
+		"id": "5507bc79-82f1-4618-9b01-2ecc7dcba76a",
+		"prefix": "",
+		"title": "Op een zelfgemaakte tekening schrijven wat erop staat.",
+		"description": ""
+	},
+	{
+		"id": "d7e82bcd-a37a-41f6-b8e6-0f47b6e21bea",
+		"prefix": "",
+		"title": "Beschrijven van een voorwerp, bijvoorbeeld: ‘Dat is een auto. De auto is klein en rood'.",
+		"description": ""
+	},
+	{
+		"id": "441e268f-9e74-4d2a-bcff-645b686f0ac5",
+		"prefix": "",
+		"title": "Beschrijven van een kledingstuk. \"Dit is mijn trui. De trui is zacht en warm.\"",
+		"description": ""
 	}
 ]
