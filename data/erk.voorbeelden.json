@@ -2714,24 +2714,34 @@
 		"description": ""
 	},
 	{
-		"title": "Een opstel over de oorzaken en gevolgen van een actueel conflict (OPL).",
-		"id": "b87d3595-b7b3-42c5-bfe7-59ef76839a91"
+		"title": "Een levendige beschrijving in een dagboek van een bijzondere gebeurtenis.",
+		"id": "b87d3595-b7b3-42c5-bfe7-59ef76839a91",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een ingezonden brief aan een lokale krant over het gebrek aan logies voor jeugdige toeristen (DL).",
-		"id": "f59b5c84-0613-4f96-91cb-72fa2a1f86f9"
+		"title": "Een luchtige blog op sociale media over opvoeding en/of educatie.",
+		"id": "f59b5c84-0613-4f96-91cb-72fa2a1f86f9",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een artikel voor de schoolkrant van een partnerschool met commentaar op het bezoek aan het plaatselijke museum (OPL).",
-		"id": "e6229970-8a4c-40cc-9773-1217db72e8b6"
+		"title": "Een artikel voor de schoolkrant van een partnerschool met commentaar op het bezoek aan het plaatselijke museum.",
+		"id": "e6229970-8a4c-40cc-9773-1217db72e8b6",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een stukje voor de bedrijfsnieuwsbrief over de historie van de lokale vestiging (WE).",
-		"id": "d5ab3e4b-7615-4646-bfed-01b20c65afc3"
+		"title": "Een stukje voor de bedrijfsnieuwsbrief over de historie van de lokale vestiging.",
+		"id": "d5ab3e4b-7615-4646-bfed-01b20c65afc3",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een recensie van een boek, film of toneelstuk (DL, OPL).",
-		"id": "2df3f2d5-8cf2-4650-8649-dc66b98d6eea"
+		"title": "Een biografie van een fictief persoon.",
+		"id": "2df3f2d5-8cf2-4650-8649-dc66b98d6eea",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een familiegeschiedenis (DL, OPL).",
