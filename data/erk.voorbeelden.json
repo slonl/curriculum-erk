@@ -2662,24 +2662,34 @@
 		"description": ""
 	},
 	{
-		"title": "In een blog tijdens een verblijf in het buitenland (DL).",
-		"id": "e0c7f767-d6a4-4acb-b93b-dc70a27f146a"
+		"title": "Op sociale media over een bezocht traditioneel festival kunnen berichten tijdens een verblijf in het buitenland.",
+		"id": "e0c7f767-d6a4-4acb-b93b-dc70a27f146a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een persoonlijk reisverslag dat per e-mail rondgestuurd wordt aan een internationale vriendengroep (DL).",
-		"id": "31ec2a02-0201-49e9-ac53-1f5df09d5b4c"
+		"title": "In een artikel voor school- of bedrijfskrant over een uitstapje, voorstelling of excursie kunnen schrijven.",
+		"id": "31ec2a02-0201-49e9-ac53-1f5df09d5b4c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een artikel voor de school- of bedrijfskrant over een uitstapje of excursie, met commentaar op de kwaliteit van het gebodene (OPL, WE).",
-		"id": "80a05651-41ac-4f3d-94d0-ae2613560fa8"
+		"title": "Een blog schrijven over hoe jouw droomreis eruit zou zien als je een miljoen had geworden.",
+		"id": "80a05651-41ac-4f3d-94d0-ae2613560fa8",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over de ervaringen naar aanleiding van een bezoek aan een concert/festival (DL).",
-		"id": "d25c60a0-dcb1-4ae6-aed1-259136b30dec"
+		"title": "Een persoonlijk reisverslag schrijven dat per e-mail rondgestuurd wordt aan een internationale vriendengroep.",
+		"id": "d25c60a0-dcb1-4ae6-aed1-259136b30dec",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een evaluatie naar aanleiding van deelname aan een cursus of conferentie (OPL, WE).",
-		"id": "f710d106-1dbb-4464-acc6-90142a0faee5"
+		"title": "Berichten over een verblijf bij een Spaans gezin tijdens een uitwisseling.",
+		"id": "f710d106-1dbb-4464-acc6-90142a0faee5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "In het examendossier een stuk met persoonlijk commentaar op een film of een boek (OPL).",
