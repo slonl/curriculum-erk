@@ -9207,7 +9207,13 @@
 		"title": "Kan een passende inleiding en conclusie opstellen bij een langer verslag, artikel of proefschrift over een complex academisch of professioneel onderwerp, mits het onderwerp binnen de eigen interessesfeer valt en er een mogelijkheid is tot herschrijving en herziening.",
 		"id": "338078de-b98c-452b-97f5-f75e2b4d1ce0",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"8a5d87d5-8f09-4765-b52f-fb6a14a34785",
+			"b4b9e135-0dca-47b6-a51c-69f151ece36f",
+			"78cf8a22-9410-4307-9008-aa4d3824e556",
+			"a24f13ca-09cf-4418-8f1d-8e35b19a4175"
+		]
 	},
 	{
 		"niveau_id": [
