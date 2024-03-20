@@ -3038,12 +3038,16 @@
 		"description": ""
 	},
 	{
-		"title": "Een samenvatting van verschillende bronnen die ook voor mensen die de inhoud niet kennen begrijpelijk en bruikbaar is door gebruik te maken van een (redeneer)schema (DL, OPL, WE).",
-		"id": "07fd1861-ed51-4b86-b7c8-aefc1fc85e19"
+		"title": "Een goed gestructureerd rapport over een politiek debat.",
+		"id": "07fd1861-ed51-4b86-b7c8-aefc1fc85e19",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een inleiding op een hoofdstuk die de lezer een goed beeld geeft van wat er in het betreffende hoofdstuk aan bod komt en hoe het hoofdstuk gestructureerd is (OPL, WE).",
-		"id": "6c0c62b6-1392-44a6-b617-998bc79b85ce"
+		"title": "Het verslag van een opiniepeiling.",
+		"id": "6c0c62b6-1392-44a6-b617-998bc79b85ce",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een kritisch oordeel over een wetenschappelijk artikel (OPL).",
@@ -7082,6 +7086,12 @@
 		"id": "9f02f04e-e880-4c8b-ae5d-cb725c17c557",
 		"prefix": "",
 		"title": "Een betoog over het internationale vrouwenrecht.",
+		"description": ""
+	},
+	{
+		"id": "6b2b2ec3-7d12-42c4-9190-fd0f8f941e8c",
+		"prefix": "",
+		"title": "Een inleiding op een hoofdstuk die de lezer een goed beeld geeft van wat er in het betreffende hoofdstuk aan bod komt en hoe het hoofdstuk gestructureerd is.",
 		"description": ""
 	}
 ]
