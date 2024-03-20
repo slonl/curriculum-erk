@@ -6637,13 +6637,13 @@
 	{
 		"id": "d7e82bcd-a37a-41f6-b8e6-0f47b6e21bea",
 		"prefix": "",
-		"title": "Beschrijven van een voorwerp, bijvoorbeeld: ‘Dat is een auto. De auto is klein en rood'.",
+		"title": "Beschrijven van een voorwerp, bijvoorbeeld: 'Dat is een auto. De auto is klein en rood.'",
 		"description": ""
 	},
 	{
 		"id": "441e268f-9e74-4d2a-bcff-645b686f0ac5",
 		"prefix": "",
-		"title": "Beschrijven van een kledingstuk. \"Dit is mijn trui. De trui is zacht en warm.\"",
+		"title": "Beschrijven van een kledingstuk. 'Dit is mijn trui. De trui is zacht en warm.'",
 		"description": ""
 	}
 ]
