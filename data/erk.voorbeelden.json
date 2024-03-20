@@ -3000,12 +3000,16 @@
 		"description": ""
 	},
 	{
-		"title": "Een ingezonden brief aan een buitenlandse krant in de aangrenzende regio over bijvoorbeeld grensoverschrijdende vraagstukken (PU).",
-		"id": "aa38c9df-6277-437b-ac8f-9752ad52117f"
+		"title": "Een betoog over gelijke rechten van de LHBTIQ+ gemeenschap.",
+		"id": "aa38c9df-6277-437b-ac8f-9752ad52117f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een argumentatie die het belang van een internationaal project voor een groep potentiële projectpartners duidelijk maakt (WE).",
-		"id": "2e6a8c3a-8458-4907-9dea-ec33e2dc0e45"
+		"title": "Een betoog over schending van mensenrechten, nucleaire energie of een geopolitieke kwestie.",
+		"id": "2e6a8c3a-8458-4907-9dea-ec33e2dc0e45",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een scriptie of onderzoeksverslag (OPL, WE).",
@@ -7048,6 +7052,12 @@
 		"id": "a24f13ca-09cf-4418-8f1d-8e35b19a4175",
 		"prefix": "",
 		"title": "Een uitgebreidere herformulering van de stelling in een beschouwing of betoog.",
+		"description": ""
+	},
+	{
+		"id": "8dbf7e86-f46d-4509-a2a4-149e148c719d",
+		"prefix": "",
+		"title": "Een betoog waarin je eigen standpunten verwoordt over euthanasie.",
 		"description": ""
 	}
 ]
