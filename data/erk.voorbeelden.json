@@ -2632,24 +2632,34 @@
 		"description": ""
 	},
 	{
-		"title": "Wat voor vervolgopleiding je gaat kiezen en waarom (OPL).",
-		"id": "a6545583-877a-43ec-824b-35ce8362fb63"
+		"title": "Duo-schrijven met iemand anders, waarbij je om-en-om een zin schrijft.",
+		"id": "a6545583-877a-43ec-824b-35ce8362fb63",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Hoe je ideale leefomgeving eruit ziet (OPL).",
-		"id": "540ca487-1d1a-4dea-9d81-988312cc1660"
+		"title": "Het schrijven van een verhaal op basis van een foto, kaartje of plaatje.",
+		"id": "540ca487-1d1a-4dea-9d81-988312cc1660",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De voor- en nadelen van vroeg kinderen krijgen (OPL).",
-		"id": "cfe34e04-08c1-4de0-ba58-1cd9bb2d8fe4"
+		"title": "Een bestaand verhaal herschrijven vanuit een ander perspectief.",
+		"id": "cfe34e04-08c1-4de0-ba58-1cd9bb2d8fe4",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Het meeschrijven aan een doorlopend verhaal op een internetpagina (PU).",
-		"id": "1062e135-696e-45e5-ba1d-5d6d81750048"
+		"title": "Een nieuw eind schrijven aan een bestaand verhaal.",
+		"id": "1062e135-696e-45e5-ba1d-5d6d81750048",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een dialoog bij een strip (DL).",
-		"id": "c55ef547-f2ca-4776-8497-73d3053a68a7"
+		"title": "Een opzet maken voor een eigen boek.",
+		"id": "c55ef547-f2ca-4776-8497-73d3053a68a7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "In een blog tijdens een verblijf in het buitenland (DL).",
