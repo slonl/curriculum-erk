@@ -2952,12 +2952,16 @@
 		"id": "8e12c759-8678-4ba1-add9-eb4e60842cdf"
 	},
 	{
-		"title": "Conclusies trekken en weergeven uit de resultaten van een peiling op school over de inrichting van de nieuwe kantine (OPL).",
-		"id": "75bd9ea9-c9d6-46a5-b494-585639ad1b6f"
+		"title": "Conclusies trekken en weergeven uit de resultaten van een peiling op school over de inrichting van de nieuwe kantine.",
+		"id": "75bd9ea9-c9d6-46a5-b494-585639ad1b6f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Voor- en nadelen van verschillende studiekeuzes in beeld brengen (OPL).",
-		"id": "d4b27253-a765-4cef-8b3f-39596df82980"
+		"title": "Voor- en nadelen van verschillende studiekeuzes in beeld brengen.",
+		"id": "d4b27253-a765-4cef-8b3f-39596df82980",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Naar aanleiding van een werkoverleg of bespreking met een expert buiten school voor een profielwerkstuk (OPL, WE).",
