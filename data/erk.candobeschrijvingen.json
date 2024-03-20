@@ -8696,7 +8696,10 @@
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
 		"title": "Kan in zeer eenvoudige taal beschrijven hoe een kamer eruitziet.",
-		"id": "09091310-ec23-4728-af63-e68f44c6eb85"
+		"id": "09091310-ec23-4728-af63-e68f44c6eb85",
+		"erk_voorbeeld_id": [
+			"fc93345d-ac60-4044-9568-a1732eb5a6a0"
+		]
 	},
 	{
 		"niveau_id": [
