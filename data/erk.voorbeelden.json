@@ -2512,16 +2512,22 @@
 		"description": ""
 	},
 	{
-		"title": "Uiterlijk en biografische gegevens van een familielid, vriend, jezelf of van een zelf verzonnen persoon (DL).",
-		"id": "827af40a-fcf0-435c-b40a-0c6c5798281b"
+		"title": "Een gedicht over iemands karaktereigenschappen.",
+		"id": "827af40a-fcf0-435c-b40a-0c6c5798281b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Karaktereigenschappen (DL).",
-		"id": "d186ff1f-7743-42bf-a2da-b6f1ec13f0b8"
+		"title": "Een kort gedicht met een dier als hoofdpersoon.",
+		"id": "d186ff1f-7743-42bf-a2da-b6f1ec13f0b8",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Uiterlijk en biografische gegevens van een filmster, idool uit de popmuziek of sportheld (DL, OPL).",
-		"id": "613dd3f9-e71c-4132-a765-cd588ea751ad"
+		"title": "Uiterlijk en biografische gegevens van een familielid, vriend, jezelf of van een zelfverzonnen persoon voor een schrijfopdracht.",
+		"id": "613dd3f9-e71c-4132-a765-cd588ea751ad",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Eigen dorp/stad/huis (DL, OPL).",
@@ -6664,6 +6670,12 @@
 		"id": "fb2d0910-294b-4819-b172-3c31708aa810",
 		"prefix": "",
 		"title": "Beschrijven van je muziekoptreden.",
+		"description": ""
+	},
+	{
+		"id": "5d7d4b8f-5a1a-49b2-8b1f-33b829af179e",
+		"prefix": "",
+		"title": "Uiterlijk en biografische gegevens van een filmster, idool uit de popmuziek of sportheld voor een werkstuk.",
 		"description": ""
 	}
 ]
