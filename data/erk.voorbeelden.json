@@ -3050,28 +3050,40 @@
 		"description": ""
 	},
 	{
-		"title": "Een kritisch oordeel over een wetenschappelijk artikel (OPL).",
-		"id": "d99ab2a6-c22c-4af4-8e42-c43551644be9"
+		"title": "Een kritische review over een wetenschappelijk artikel.",
+		"id": "d99ab2a6-c22c-4af4-8e42-c43551644be9",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een recensie van een literair werk (OPL, WE).",
-		"id": "eaabef29-d8eb-402c-85d9-cca77b75eb36"
+		"title": "Een recensie van een literair werk.",
+		"id": "eaabef29-d8eb-402c-85d9-cca77b75eb36",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een volledig en nauwkeurig verslag van een college, seminar of werkgroep (OPL, WE).",
-		"id": "bd3bf74f-925e-4c30-93d5-58d69376a4af"
+		"title": "Een volledig en nauwkeurig verslag van een college, seminar of werkgroep.",
+		"id": "bd3bf74f-925e-4c30-93d5-58d69376a4af",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een passend verslag van een experiment, met theoretische onderbouwing en conclusies (OPL, WE).",
-		"id": "471552da-ef59-4982-996a-8d74fd577008"
+		"title": "Een passend verslag van een experiment, met theoretische onderbouwing en conclusies.",
+		"id": "471552da-ef59-4982-996a-8d74fd577008",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een beschouwend artikel voor een tijdschrift over een specialistisch onderwerp (OPL, WE).",
-		"id": "f92a2500-ffe1-44f7-a8eb-eb03920a1abd"
+		"title": "Een beschouwend artikel voor een tijdschrift over een specialistisch onderwerp.",
+		"id": "f92a2500-ffe1-44f7-a8eb-eb03920a1abd",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een (master)scriptie (OPL).",
-		"id": "b7952665-21b8-45c8-b831-d17134b93423"
+		"title": "Een (master)scriptie.",
+		"id": "b7952665-21b8-45c8-b831-d17134b93423",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Uitdrukkingen die behoren bij begroeting of afscheid (DL).",
@@ -7092,6 +7104,18 @@
 		"id": "6b2b2ec3-7d12-42c4-9190-fd0f8f941e8c",
 		"prefix": "",
 		"title": "Een inleiding op een hoofdstuk die de lezer een goed beeld geeft van wat er in het betreffende hoofdstuk aan bod komt en hoe het hoofdstuk gestructureerd is.",
+		"description": ""
+	},
+	{
+		"id": "539d432a-7d3c-4b98-91f2-429a2fee6d15",
+		"prefix": "",
+		"title": "Een betoog over een actueel, controversieel onderwerp zoals bijvoorbeeld de stikstofproblematiek.",
+		"description": ""
+	},
+	{
+		"id": "7ff685b0-939a-49ec-a6a8-824f2894b9b7",
+		"prefix": "",
+		"title": "Een beschouwing over een literaire stroming.",
 		"description": ""
 	}
 ]
