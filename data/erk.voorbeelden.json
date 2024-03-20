@@ -6665,7 +6665,7 @@
 	{
 		"id": "f3edda67-111a-4eaa-baaf-d7708fd2309d",
 		"prefix": "",
-		"title": "Het schrijven van eenvoudige zinnen, bijvoorbeeld in een dagboek of een e-mail, over familie en vrienden, je huis en je woonplaats, je werk/beroep of het werk/beroep van je ouders, je school of opleiding, je eigen werkplek en dagelijkse werkzaamheden.",
+		"title": "Het schrijven van het slot van korte verhalende teksten met behulp van een woordenboek.",
 		"description": ""
 	},
 	{
@@ -6678,6 +6678,18 @@
 		"id": "5d7d4b8f-5a1a-49b2-8b1f-33b829af179e",
 		"prefix": "",
 		"title": "Uiterlijk en biografische gegevens van een filmster, idool uit de popmuziek of sportheld voor een werkstuk.",
+		"description": ""
+	},
+	{
+		"id": "e39a8257-e1d1-4e39-b3c5-269732a20db7",
+		"prefix": "",
+		"title": "Tekstballonnen bij een stripverhaal invullen.",
+		"description": ""
+	},
+	{
+		"id": "4e657187-bf98-496f-970c-31c326469cbf",
+		"prefix": "",
+		"title": "Een inleiding schrijven voor een zelfgemaakt boekje over je huisdieren of hobby.",
 		"description": ""
 	}
 ]
