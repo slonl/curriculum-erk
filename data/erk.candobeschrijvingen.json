@@ -9112,7 +9112,12 @@
 		"title": "Kan een tekst produceren over een actueel onderwerp binnen de eigen persoonlijke interessesfeer, en daarbij eenvoudige taal gebruiken om de voor- en nadelen op te sommen en de eigen mening te onderbouwen.",
 		"id": "abb128db-e99e-412c-986a-1ddb3355de6e",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"a68fe7fd-d3fe-4a26-8a01-a75e065fe4fb",
+			"b362dcfc-5fc5-4aa8-a6b7-52e7e6b5d2bc",
+			"9d781315-dba6-4ec4-8b78-89b4892b03b4"
+		]
 	},
 	{
 		"niveau_id": [
