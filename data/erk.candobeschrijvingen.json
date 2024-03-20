@@ -8996,7 +8996,12 @@
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
 		"title": "Kan op passende wijze gebruikmaken van idioom en humor om het effect van de tekst te versterken.",
-		"id": "175594ed-3b5f-40a6-8420-7109718a4d97"
+		"id": "175594ed-3b5f-40a6-8420-7109718a4d97",
+		"erk_voorbeeld_id": [
+			"214d4eb2-deb3-4c23-91dc-6fb9609bcb2a",
+			"1d14039d-f4ba-47cd-8129-32f02617a3ae",
+			"5487d3f4-485c-497e-a0d5-a01a73492cdd"
+		]
 	},
 	{
 		"niveau_id": [
