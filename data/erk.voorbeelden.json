@@ -2768,24 +2768,34 @@
 		"description": ""
 	},
 	{
-		"title": "Een column in een studentenblad (OPL).",
-		"id": "32f59915-fd94-48d0-a770-f9f698546e6a"
+		"title": "Een column in een studentenblad.",
+		"id": "32f59915-fd94-48d0-a770-f9f698546e6a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een humoristische blog over een sociale gebeurtenis van de studentenvereniging (OPL).",
-		"id": "9edb8853-cf62-4a5e-8b18-7d083a510bcb"
+		"title": "Een humoristische blog over een sociale gebeurtenis van de studentenvereniging.",
+		"id": "9edb8853-cf62-4a5e-8b18-7d083a510bcb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een verhaal over jeugdervaringen voor een verhalenwedstrijd (PU).",
-		"id": "e04b0f33-0999-4c7c-9cf5-fbe1481432b9"
+		"title": "Een verhaal over jeugdervaringen voor een verhalenwedstrijd.",
+		"id": "e04b0f33-0999-4c7c-9cf5-fbe1481432b9",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een grappige beschrijving van het dagelijks reilen en zeilen in de eigen stad/streek in het kader van een stedenproject (PU).",
-		"id": "96ee9613-2dc5-433c-ae94-cf38e33f75f5"
+		"title": "Een grappige beschrijving van het dagelijks reilen en zeilen in de eigen stad/streek in het kader van een stedenproject.",
+		"id": "96ee9613-2dc5-433c-ae94-cf38e33f75f5",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een fantasieverhaal )DL).",
-		"id": "76e5ed76-33b2-4d9a-b89a-feb0f803c1d6"
+		"title": "Een fantasieverhaal.",
+		"id": "76e5ed76-33b2-4d9a-b89a-feb0f803c1d6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een script voor een toneelstuk (DL, OPL, WE).",
@@ -6854,6 +6864,12 @@
 		"id": "a5bc248d-85f2-4987-8665-6f89e5b3a2fc",
 		"prefix": "",
 		"title": "Een script van een rollenspel of speech.",
+		"description": ""
+	},
+	{
+		"id": "52333bb6-6bec-4f44-9dfb-645cccc2b07e",
+		"prefix": "",
+		"title": "Een luchtige tekst over het jaarlijkse uitje van de sportvereniging.",
 		"description": ""
 	}
 ]
