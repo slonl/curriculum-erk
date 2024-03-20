@@ -7025,5 +7025,29 @@
 		"prefix": "",
 		"title": "Een beschrijving van een onderwijskundig systeem.",
 		"description": ""
+	},
+	{
+		"id": "8a5d87d5-8f09-4765-b52f-fb6a14a34785",
+		"prefix": "",
+		"title": "Een introductie en conclusie schrijven van eigen profielwerkstuk of scriptie.",
+		"description": ""
+	},
+	{
+		"id": "b4b9e135-0dca-47b6-a51c-69f151ece36f",
+		"prefix": "",
+		"title": "Een sprekersvoorstel voor een congres schrijven.",
+		"description": ""
+	},
+	{
+		"id": "78cf8a22-9410-4307-9008-aa4d3824e556",
+		"prefix": "",
+		"title": "Een aandachtstrekker schrijven in de introductie van een beschouwing of betoog.",
+		"description": ""
+	},
+	{
+		"id": "a24f13ca-09cf-4418-8f1d-8e35b19a4175",
+		"prefix": "",
+		"title": "Een uitgebreidere herformulering van de stelling in een beschouwing of betoog.",
+		"description": ""
 	}
 ]
