@@ -8892,7 +8892,11 @@
 		"title": "Kan een eenvoudige recensie schrijven over een film, boek of tv-programma met de inzet van beperkt taalbereik.",
 		"id": "b683ae4f-4eec-4cac-adcd-82150775a23a",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"6243a9f4-d864-4c04-b5e4-fcaa05d7ae2c",
+			"93f5b44f-e40a-4a11-af00-490915338192"
+		]
 	},
 	{
 		"niveau_id": [
