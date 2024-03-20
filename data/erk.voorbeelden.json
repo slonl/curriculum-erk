@@ -2568,24 +2568,34 @@
 		"description": ""
 	},
 	{
-		"title": "Hoe je afgelopen vakantie is geweest (DL).",
-		"id": "1df16d6c-c0d4-4798-a5f2-5cc64506757c"
+		"title": "Beschrijven aan vrienden hoe je afgelopen vakantie is geweest.",
+		"id": "1df16d6c-c0d4-4798-a5f2-5cc64506757c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Wat je afgelopen weekend hebt gedaan (DL).",
-		"id": "4a61461f-1bb9-44ee-9230-e8b844bd47f4"
+		"title": "Beschrijven aan klasgenoten wat je afgelopen weekend hebt gedaan.",
+		"id": "4a61461f-1bb9-44ee-9230-e8b844bd47f4",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Hoe je vroeger was (DL).",
-		"id": "e97c7538-0cae-47ca-8837-6c5694916256"
+		"title": "Beschrijven aan je nieuwe liefde hoe je vroeger was.",
+		"id": "e97c7538-0cae-47ca-8837-6c5694916256",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Hoe je een uitwisseling of schoolreis hebt ervaren (DL, OPL).",
-		"id": "139dd289-89d2-449b-a0e5-8ca2b0228461"
+		"title": "Beschrijven aan de docent hoe je een uitwisseling of schoolreis hebt ervaren.",
+		"id": "139dd289-89d2-449b-a0e5-8ca2b0228461",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Wat het best bevallen is tijdens een uitwisseling (DL, OPL).",
-		"id": "3f9be35c-43ea-461c-bea8-7e7f0a63e0e6"
+		"title": "Beschrijven in een portfolio hoe je een stageperiode hebt ervaren.",
+		"id": "3f9be35c-43ea-461c-bea8-7e7f0a63e0e6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Hoe je een stageperiode hebt ervaren (OPL).",
