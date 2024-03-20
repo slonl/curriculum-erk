@@ -6871,5 +6871,23 @@
 		"prefix": "",
 		"title": "Een luchtige tekst over het jaarlijkse uitje van de sportvereniging.",
 		"description": ""
+	},
+	{
+		"id": "214d4eb2-deb3-4c23-91dc-6fb9609bcb2a",
+		"prefix": "",
+		"title": "Een humoristisch gedicht met woordgrappen naar aanleiding van een persoonlijke ervaring.",
+		"description": ""
+	},
+	{
+		"id": "1d14039d-f4ba-47cd-8129-32f02617a3ae",
+		"prefix": "",
+		"title": "Een column voor een krant met een kritische en humoristische blik.",
+		"description": ""
+	},
+	{
+		"id": "5487d3f4-485c-497e-a0d5-a01a73492cdd",
+		"prefix": "",
+		"title": "Een grappige rap met gebruik van straattaal.",
+		"description": ""
 	}
 ]
