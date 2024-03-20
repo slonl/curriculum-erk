@@ -2550,8 +2550,10 @@
 		"id": "39864610-9654-4806-81d2-8b5673ac6f69"
 	},
 	{
-		"title": "Welk werk/welke opleiding je gedaan hebt (OPL, WE).",
-		"id": "225bdeae-7a4f-447a-8200-2895dc939b01"
+		"title": "Het schrijven van eenvoudige zinnen, bijvoorbeeld in een dagboek of een e-mail, over je familie en vrienden, je huis en je woonplaats, je werk/beroep of het werk/beroep van je ouders, je school of opleiding, je eigen werkplek en dagelijkse werkzaamheden.",
+		"id": "225bdeae-7a4f-447a-8200-2895dc939b01",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Over gebeurtenissen op vakantie (DL).",
