@@ -6913,5 +6913,29 @@
 		"prefix": "",
 		"title": "Het schrijven van een tekst met eenvoudige informatie over een huisdier, hobby of bekende artiest.",
 		"description": ""
+	},
+	{
+		"id": "990fd943-b574-4044-86df-62c4428fd121",
+		"prefix": "",
+		"title": "Een infographic schrijven over het effect van CO2-uitstoot.",
+		"description": ""
+	},
+	{
+		"id": "a6d5a936-172d-419c-bfe7-8c157c1a3eb7",
+		"prefix": "",
+		"title": "Een stappenplan schrijven van de werking van een apparaat waarmee je zelf bekend mee bent, zoals een printer of telefoon.",
+		"description": ""
+	},
+	{
+		"id": "bfec0ffd-0143-43ca-bd58-5c6901e92d23",
+		"prefix": "",
+		"title": "Een stappenplan schrijven voor hoe je een schooltaak uitvoert, zoals het geven van een presentatie.",
+		"description": ""
+	},
+	{
+		"id": "02c502cb-db3b-4605-b286-c5d71cab525c",
+		"prefix": "",
+		"title": "Een poster waarin je verslag doet van de opbrengsten van een schoolproject, zoals over de gezonde school of een kunstproject.",
+		"description": ""
 	}
 ]
