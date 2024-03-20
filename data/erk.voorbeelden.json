@@ -2560,8 +2560,10 @@
 		"id": "03f6fc86-3e64-4c64-9b29-390f369322f0"
 	},
 	{
-		"title": "Over het leven in de verre toekomst (DL).",
-		"id": "e2a16e0e-67aa-4bcd-8f0b-09440daa518f"
+		"title": "Een eenvoudig verhaal over leven in de verre toekomst op een andere planeet.",
+		"id": "e2a16e0e-67aa-4bcd-8f0b-09440daa518f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Hoe je afgelopen vakantie is geweest (DL).",
@@ -6690,6 +6692,12 @@
 		"id": "4e657187-bf98-496f-970c-31c326469cbf",
 		"prefix": "",
 		"title": "Een inleiding schrijven voor een zelfgemaakt boekje over je huisdieren of hobby.",
+		"description": ""
+	},
+	{
+		"id": "fb2a0398-eb81-4676-8bb5-cf2b1e7de1d2",
+		"prefix": "",
+		"title": "Een eenvoudig verhaal over een zelfbedacht sprookje.",
 		"description": ""
 	}
 ]
