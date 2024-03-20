@@ -3016,20 +3016,26 @@
 		"id": "421e53d7-6bf0-4e6f-a246-50c950362d8e"
 	},
 	{
-		"title": "Een analyse van tegenvallende bedrijfs-, school-, onderzoeksresultaten (WE, OPL).",
-		"id": "28d90ed3-73f4-4964-abd9-3b4247655f85"
+		"title": "Een analyse van tegenvallende bedrijfs-, school-, onderzoeksresultaten.",
+		"id": "28d90ed3-73f4-4964-abd9-3b4247655f85",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een betoog waarin je eigen standpunten verwoordt over euthanasie (OPL).",
 		"id": "8dc8cb81-bd32-475a-9345-0252f4942072"
 	},
 	{
-		"title": "Een opstel over alternatieve energie (DL, OPL).",
-		"id": "641c2d12-5c05-46ce-bc9a-12e258044800"
+		"title": "Een opstel over alternatieve energie.",
+		"id": "641c2d12-5c05-46ce-bc9a-12e258044800",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een samenvatting van verschillende krantenartikelen over een actueel onderwerp (OPL, WE).",
-		"id": "c10d9002-ac5b-40d4-b213-7e0f87221f98"
+		"title": "Een beschouwing over de abortuswet.",
+		"id": "c10d9002-ac5b-40d4-b213-7e0f87221f98",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een samenvatting van verschillende bronnen die ook voor mensen die de inhoud niet kennen begrijpelijk en bruikbaar is door gebruik te maken van een (redeneer)schema (DL, OPL, WE).",
