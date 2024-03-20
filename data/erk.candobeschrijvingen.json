@@ -9062,8 +9062,16 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan een onderwerp presenteren in een kort verslag of een poster, met gebruik van foto's en korte tekstblokken.",
-		"id": "d6321ce9-8a7b-48ba-b522-38694a48a5f6"
+		"title": "Kan een onderwerp presenteren in een kort verslag of een poster, met behulp van foto's en korte tekstblokken.",
+		"id": "d6321ce9-8a7b-48ba-b522-38694a48a5f6",
+		"prefix": "",
+		"description": "",
+		"erk_voorbeeld_id": [
+			"990fd943-b574-4044-86df-62c4428fd121",
+			"a6d5a936-172d-419c-bfe7-8c157c1a3eb7",
+			"bfec0ffd-0143-43ca-bd58-5c6901e92d23",
+			"02c502cb-db3b-4605-b286-c5d71cab525c"
+		]
 	},
 	{
 		"niveau_id": [
