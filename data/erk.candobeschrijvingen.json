@@ -9248,7 +9248,12 @@
 		"title": "Kan meerdere perspectieven op complexe academische of professionele onderwerpen uiteenzetten en daarbij onderscheid maken tussen de eigen ideeën en meningen en die uit de bronnen.",
 		"id": "9d5f8459-1084-44c9-a158-c48084851c8b",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"91d0ef98-e2ae-4753-ac1b-401d90fb9b86",
+			"6107262b-b560-4df7-9970-f3b0ec8b88b1",
+			"9f02f04e-e880-4c8b-ae5d-cb725c17c557"
+		]
 	},
 	{
 		"niveau_id": [
