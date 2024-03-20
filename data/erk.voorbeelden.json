@@ -2964,28 +2964,40 @@
 		"description": ""
 	},
 	{
-		"title": "Naar aanleiding van een werkoverleg of bespreking met een expert buiten school voor een profielwerkstuk (OPL, WE).",
-		"id": "50551221-3481-41d2-8a3d-c916114cc3cc"
+		"title": "Naar aanleiding van een werkoverleg of bespreking met een expert buiten school voor een profielwerkstuk.",
+		"id": "50551221-3481-41d2-8a3d-c916114cc3cc",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Naar aanleiding van een telefoongesprek met een deskundige over een bepaald onderwerp (OPL, WE).",
-		"id": "950cd490-4587-41fe-8280-1d0f2a8ca6e4"
+		"title": "Naar aanleiding van een telefoongesprek met een deskundige over een bepaald onderwerp.",
+		"id": "950cd490-4587-41fe-8280-1d0f2a8ca6e4",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over de voortgang van een stage, project, excursie, zakenreis: een beschrijving plus een evaluatie (OPL, WE).",
-		"id": "f2a4b492-8694-4a35-ae86-82b050903978"
+		"title": "Over de voortgang van een stage, project, excursie, zakenreis: een beschrijving plus een evaluatie.",
+		"id": "f2a4b492-8694-4a35-ae86-82b050903978",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over een reis voor vrienden waarin meer dan alleen het feitelijke wie-wat-waar wordt beschreven (DL).",
-		"id": "aa25e20f-7bf9-4bca-ba9a-bcd80ded5594"
+		"title": "Over een reis voor vrienden waarin meer dan alleen het feitelijke wie-wat-waar wordt beschreven.",
+		"id": "aa25e20f-7bf9-4bca-ba9a-bcd80ded5594",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In het kader van een experiment waarin ervaring met een nieuw product of nieuwe procedure wordt opgedaan (PU).",
-		"id": "7fd62e73-ede6-4e91-97c9-06297e45ec07"
+		"title": "In het kader van een experiment waarin ervaring met een nieuw product of nieuwe procedure wordt opgedaan.",
+		"id": "7fd62e73-ede6-4e91-97c9-06297e45ec07",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Met een persoonlijke mening naar aanleiding van een actuele gebeurtenis (PU).",
-		"id": "458a750c-2d21-4a9d-be61-1a6eb58c9ea9"
+		"title": "Met een persoonlijke mening naar aanleiding van een actuele gebeurtenis.",
+		"id": "458a750c-2d21-4a9d-be61-1a6eb58c9ea9",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een ingezonden brief aan een buitenlandse krant in de aangrenzende regio over bijvoorbeeld grensoverschrijdende vraagstukken (PU).",
