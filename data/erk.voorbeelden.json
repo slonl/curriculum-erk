@@ -2696,16 +2696,22 @@
 		"id": "57fe9ada-c3c0-4b5e-ba4b-7539e9d63a13"
 	},
 	{
-		"title": "Voor een clubblad of schoolkrant van de partnerclub/-school de voor- en nadelen van de eigen woonplaats beschrijven (DL, OPL).",
-		"id": "daa2ae2a-2361-4a76-b63e-8b07396f3fed"
+		"title": "In een artikel voor een clubblad of schoolkrant de voordelen van de eigen sport of woonplaats in detail beschrijven.",
+		"id": "daa2ae2a-2361-4a76-b63e-8b07396f3fed",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Je ervaringen op de stageplek beschrijven en met voorbeelden illustreren (OPL).",
-		"id": "fb690117-a5e5-4928-965a-c314c4eb73de"
+		"title": "In het personeelsblad de ervaringen als werknemer kunnen beschrijven en met voorbeelden illustreren.",
+		"id": "fb690117-a5e5-4928-965a-c314c4eb73de",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een persoonlijke brief aan een vriend/in studiedoelen beschrijven (DL).",
-		"id": "10959742-4ea4-4ebb-933b-92505ee679c4"
+		"title": "In het studieblad aangeven waarom je voor een bepaalde studie gekozen hebt en wat je studiedoelen zijn.",
+		"id": "10959742-4ea4-4ebb-933b-92505ee679c4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een opstel over de oorzaken en gevolgen van een actueel conflict (OPL).",
@@ -6764,6 +6770,12 @@
 		"id": "22c2a532-e191-4fc2-9876-359cfb8c6523",
 		"prefix": "",
 		"title": "Een kort verslag schrijven over een gastles en wat je daarvan vond.",
+		"description": ""
+	},
+	{
+		"id": "586d1b13-743e-4d0a-acd0-610fe42b43f7",
+		"prefix": "",
+		"title": "Een column schrijven voor een natuurblad waarin je vertelt over je liefde voor de natuur.",
 		"description": ""
 	}
 ]
