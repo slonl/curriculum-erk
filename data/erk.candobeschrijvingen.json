@@ -8862,7 +8862,13 @@
 		"title": "Kan over ervaringen berichten en daarbij gevoelens en reacties beschrijven in eenvoudige samenhangende tekst.\n",
 		"id": "2f27b7bd-85e8-40ec-aa0f-83e498478bc4",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"7c2f09bb-de25-408a-955f-55bb24748623",
+			"bd6628c6-94e4-4aaf-84df-e3abe928e170",
+			"64fb2569-34cd-4383-93c7-60234025b200",
+			"22c2a532-e191-4fc2-9876-359cfb8c6523"
+		]
 	},
 	{
 		"niveau_id": [
