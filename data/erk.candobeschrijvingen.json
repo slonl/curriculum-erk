@@ -8899,7 +8899,10 @@
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
 		"title": "Kan de chronologische volgorde in een verhalende tekst duidelijk aangeven.",
-		"id": "6467149d-90aa-4fef-89ce-67563612e4a2"
+		"id": "6467149d-90aa-4fef-89ce-67563612e4a2",
+		"erk_voorbeeld_id": [
+			"081960ac-2ac6-44a3-81dd-03cfbd9d29b2"
+		]
 	},
 	{
 		"niveau_id": [
