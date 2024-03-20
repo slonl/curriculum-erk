@@ -8953,8 +8953,14 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan een gedetailleerde kritische recensie van culturele evenementen (bijvoorbeeld toneelstukken, films, concerten) of literaire werken schrijven.",
-		"id": "b1dfb253-76cd-484f-b16a-26642103cbbb"
+		"title": "Kan een gedetailleerde kritische recensie van culturele evenementen of literaire werken schrijven.",
+		"id": "b1dfb253-76cd-484f-b16a-26642103cbbb",
+		"prefix": "",
+		"description": "",
+		"erk_voorbeeld_id": [
+			"63f3bf05-5d90-4648-b66f-6bd62dba5988",
+			"35d92c95-f1f2-4d62-a033-bb077f68b55a"
+		]
 	},
 	{
 		"niveau_id": [
