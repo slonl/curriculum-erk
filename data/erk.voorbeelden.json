@@ -2744,20 +2744,28 @@
 		"description": ""
 	},
 	{
-		"title": "Een familiegeschiedenis (DL, OPL).",
-		"id": "2f81fe79-8e37-450e-b736-a40cc2b83263"
+		"title": "Een saga of familiegeschiedenis.",
+		"id": "2f81fe79-8e37-450e-b736-a40cc2b83263",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Wat en hoe je iets hebt beleefd (DL, OPL).",
-		"id": "3c548271-c8d4-4976-92fc-182e4b610afd"
+		"title": "Wat en hoe je iets hebt beleefd.",
+		"id": "3c548271-c8d4-4976-92fc-182e4b610afd",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een opstel over een vrij onderwerp (OPL).",
-		"id": "e0c90623-2b6f-494b-bfc3-04f7eec697cb"
+		"title": "Een opstel met een originele insteek over een vrij onderwerp.",
+		"id": "e0c90623-2b6f-494b-bfc3-04f7eec697cb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een grappig of spannend verhaal of anekdote voor een nieuwsbrief of tijdschrift (DL).",
-		"id": "c56c7f5e-be3c-42ca-b0b9-da2c8326ffa7"
+		"title": "Een grappig of spannend verhaal of anekdote voor een nieuwsbrief of tijdschrift.",
+		"id": "c56c7f5e-be3c-42ca-b0b9-da2c8326ffa7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een column in een studentenblad (OPL).",
