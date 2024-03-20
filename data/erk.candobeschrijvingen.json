@@ -8848,11 +8848,12 @@
 			"31ec2a02-0201-49e9-ac53-1f5df09d5b4c",
 			"80a05651-41ac-4f3d-94d0-ae2613560fa8",
 			"d25c60a0-dcb1-4ae6-aed1-259136b30dec",
-			"f710d106-1dbb-4464-acc6-90142a0faee5",
-			"57fe9ada-c3c0-4b5e-ba4b-7539e9d63a13"
+			"f710d106-1dbb-4464-acc6-90142a0faee5"
 		],
-		"title": "Kan schrijven over een gebeurtenis, waargebeurd of verbeeld.",
-		"id": "4587a3d6-2d74-4e67-8261-8850e1bb5ac7"
+		"title": "Kan berichten over een gebeurtenis, waargebeurd of verbeeld.",
+		"id": "4587a3d6-2d74-4e67-8261-8850e1bb5ac7",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
