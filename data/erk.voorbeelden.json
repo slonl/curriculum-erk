@@ -6843,5 +6843,17 @@
 		"prefix": "",
 		"title": "Een recensie van een toneelstuk, film of concert in een muziekblad.",
 		"description": ""
+	},
+	{
+		"id": "b0e36c85-a435-4d0d-bf20-4597a463fa48",
+		"prefix": "",
+		"title": "Een column in een stadskrant.",
+		"description": ""
+	},
+	{
+		"id": "a5bc248d-85f2-4987-8665-6f89e5b3a2fc",
+		"prefix": "",
+		"title": "Een script van een rollenspel of speech.",
+		"description": ""
 	}
 ]
