@@ -8728,10 +8728,13 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan een inleiding tot een verhaal opstellen of een verhaal voortzetten, mits een woordenboek en referentiemateriaal kan worden geraadpleegd (bijvoorbeeld tabellen met werkwoordvervoegingen in een lesboek).",
+		"title": "Kan een inleiding tot een verhaal opstellen of een verhaal voortzetten, mits een woordenboek en referentiemateriaal kan worden geraadpleegd.",
 		"id": "33a08644-cd2f-4d16-a801-8986e0ca90e0",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"f3edda67-111a-4eaa-baaf-d7708fd2309d"
+		]
 	},
 	{
 		"niveau_id": [
