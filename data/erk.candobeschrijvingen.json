@@ -8688,8 +8688,15 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan eenvoudige woorden en frasen gebruiken om bepaalde alledaagse voorwerpen te beschrijven (bijvoorbeeld de kleur van een auto, of deze groot of klein is).",
-		"id": "b78bac47-67d6-480e-a700-c75a349326ce"
+		"title": "Kan eenvoudige woorden en frasen gebruiken om bepaalde alledaagse voorwerpen te beschrijven.",
+		"id": "b78bac47-67d6-480e-a700-c75a349326ce",
+		"prefix": "",
+		"description": "",
+		"erk_voorbeeld_id": [
+			"5507bc79-82f1-4618-9b01-2ecc7dcba76a",
+			"d7e82bcd-a37a-41f6-b8e6-0f47b6e21bea",
+			"441e268f-9e74-4d2a-bcff-645b686f0ac5"
+		]
 	},
 	{
 		"niveau_id": [
