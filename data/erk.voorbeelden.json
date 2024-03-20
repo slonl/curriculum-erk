@@ -2458,24 +2458,34 @@
 		"id": "b61a8f40-51cb-4cb0-8686-79d36cd0ca55"
 	},
 	{
-		"title": "Bij het maken van een klassenportret iets opschrijven over jezelf, waar je woont, of je broers of zussen hebt (OPL).",
-		"id": "afd4acbe-1d3c-4ac1-bd3a-df21d185a608"
+		"title": "Bij het maken van een klassenportret iets opschrijven over jezelf, je leeftijd, je familie, je woonplaats, je hobby's, je huisdieren.",
+		"id": "afd4acbe-1d3c-4ac1-bd3a-df21d185a608",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een serie plaatjes beschrijven in een test of in de taalles (OPL).",
-		"id": "2d51b4bf-669a-4d84-ae2f-cfeceb24411d"
+		"title": "Plaatjes van voorwerpen en mensen uit een stripboek of een tijdschrift in grote lijnen beschrijven.",
+		"id": "2d51b4bf-669a-4d84-ae2f-cfeceb24411d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een bijschrift toevoegen aan een foto (DL).",
-		"id": "192a5afd-77b7-465b-9449-df0c6bd5aee2"
+		"title": "Een eenvoudig bijschrift toevoegen aan een foto van jezelf of van een bekend persoon.",
+		"id": "192a5afd-77b7-465b-9449-df0c6bd5aee2",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een foto met een paar woorden inleiden (DL).",
-		"id": "dab95e03-2a8b-4774-a4fb-c6a57ea54d6e"
+		"title": "Een poster over de hoofdpersoon uit een (prenten-)boek maken.",
+		"id": "dab95e03-2a8b-4774-a4fb-c6a57ea54d6e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een profiel invullen op een sociaal netwerk (DL).",
-		"id": "7d814f75-45b9-4fb9-8b9c-38e9c9951eb4"
+		"title": "Een profiel invullen op een sociaal netwerk (achternaam, leeftijd, woonplaats, hobby's).",
+		"id": "7d814f75-45b9-4fb9-8b9c-38e9c9951eb4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een gerecht met ingrediënten (DL).",
