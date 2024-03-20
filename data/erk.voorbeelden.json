@@ -2824,12 +2824,16 @@
 		"id": "63ea1289-6e31-47c5-b24f-9eb5d928e41c"
 	},
 	{
-		"title": "Een verslag van uitgevoerde werkzaamheden tijdens een stage, schoolproject of internationaal project (OPL, WE).",
-		"id": "c1dcd0cb-e975-4b4c-83de-0a863d059d54"
+		"title": "Een verslag schrijven van uitgevoerde werkzaamheden tijdens een stage, schoolproject of internationaal project.",
+		"id": "c1dcd0cb-e975-4b4c-83de-0a863d059d54",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een beschrijving van wat gedaan, wat gezien en wat bezocht is tijdens een werkbezoek of excursie voor de buitenlandse partner of begeleider (OPL, WE).",
-		"id": "fd35472c-d18f-4090-85b5-845e0fc74949"
+		"title": "Een beschrijving schrijven van wat gedaan, gezien en bezocht is tijdens een werkbezoek of excursie voor de buitenlandse partner of begeleider.",
+		"id": "fd35472c-d18f-4090-85b5-845e0fc74949",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een verslag van gehouden straatinterviews in het kader van een project (OPL).",
@@ -6936,6 +6940,12 @@
 		"id": "02c502cb-db3b-4605-b286-c5d71cab525c",
 		"prefix": "",
 		"title": "Een poster waarin je verslag doet van de opbrengsten van een schoolproject, zoals over de gezonde school of een kunstproject.",
+		"description": ""
+	},
+	{
+		"id": "5821ce27-2de5-42ed-ac28-899c879774b2",
+		"prefix": "",
+		"title": "Een werkverslag schrijven, zoals een zorgverslag of een 'reparatieverslag' van een monteur. ",
 		"description": ""
 	}
 ]
