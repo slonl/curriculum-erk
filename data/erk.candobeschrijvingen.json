@@ -9052,7 +9052,11 @@
 		"title": "Kan eenvoudige teksten produceren over vertrouwde belangwekkende onderwerpen en daarbij zinnen verbinden met verbindingswoorden als 'en', 'omdat' of 'maar'.",
 		"id": "e86de57c-f68d-4508-812a-9f1415cbb196",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"b5e5f1eb-087a-487e-9230-0f9c951e00a8",
+			"01ddfab4-0b2b-4b99-befd-c3d22c7cea5d"
+		]
 	},
 	{
 		"niveau_id": [
