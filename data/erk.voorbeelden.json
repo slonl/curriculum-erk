@@ -6831,5 +6831,11 @@
 		"prefix": "",
 		"title": "Een recensie in een nieuwsbrief over een première in het filmhuis of een bezoek aan een theatervoorstelling.",
 		"description": ""
+	},
+	{
+		"id": "35d92c95-f1f2-4d62-a033-bb077f68b55a",
+		"prefix": "",
+		"title": "Een kritische blog op een literaire website.",
+		"description": ""
 	}
 ]
