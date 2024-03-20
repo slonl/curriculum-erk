@@ -8802,11 +8802,12 @@
 			"4a61461f-1bb9-44ee-9230-e8b844bd47f4",
 			"e97c7538-0cae-47ca-8837-6c5694916256",
 			"139dd289-89d2-449b-a0e5-8ca2b0228461",
-			"3f9be35c-43ea-461c-bea8-7e7f0a63e0e6",
-			"bf4236c6-ac97-47f6-9001-df98fd857b0a"
+			"3f9be35c-43ea-461c-bea8-7e7f0a63e0e6"
 		],
 		"title": "Kan zeer kort en elementair gebeurtenissen, activiteiten in het verleden en persoonlijke ervaringen beschrijven.",
-		"id": "403c2deb-cce6-4902-bee7-7c76c1d1b594"
+		"id": "403c2deb-cce6-4902-bee7-7c76c1d1b594",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
