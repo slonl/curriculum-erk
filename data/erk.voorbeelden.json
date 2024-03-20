@@ -2488,20 +2488,28 @@
 		"description": ""
 	},
 	{
-		"title": "Een gerecht met ingrediënten (DL).",
-		"id": "f6097bc5-2ca1-4365-8b19-1625387ee85c"
+		"title": "Het schrijven van een verslag van een uitstapje, schoolreisje of excursie.",
+		"id": "f6097bc5-2ca1-4365-8b19-1625387ee85c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een uitstapje (DL).",
-		"id": "38a5c0e5-d820-49d5-908c-8d18719e09f5"
+		"title": "Beschrijven van een sportwedstrijd waar je aan meegedaan hebt.",
+		"id": "38a5c0e5-d820-49d5-908c-8d18719e09f5",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Je dagelijkse routine (DL).",
-		"id": "7425e257-2a22-44b7-9426-6e8a7e81df82"
+		"title": "Beschrijven van een stad of streek die je bezocht hebt.",
+		"id": "7425e257-2a22-44b7-9426-6e8a7e81df82",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Je eigen sport of hobby (DL).",
-		"id": "b9ad7fd4-93cf-479f-929a-61624e19325a"
+		"title": "Beschrijven van mensen die je ontmoet hebt op een feestje.",
+		"id": "b9ad7fd4-93cf-479f-929a-61624e19325a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Uiterlijk en biografische gegevens van een familielid, vriend, jezelf of van een zelf verzonnen persoon (DL).",
@@ -6650,6 +6658,12 @@
 		"id": "f3edda67-111a-4eaa-baaf-d7708fd2309d",
 		"prefix": "",
 		"title": "Het schrijven van eenvoudige zinnen, bijvoorbeeld in een dagboek of een e-mail, over familie en vrienden, je huis en je woonplaats, je werk/beroep of het werk/beroep van je ouders, je school of opleiding, je eigen werkplek en dagelijkse werkzaamheden.",
+		"description": ""
+	},
+	{
+		"id": "fb2d0910-294b-4819-b172-3c31708aa810",
+		"prefix": "",
+		"title": "Beschrijven van je muziekoptreden.",
 		"description": ""
 	}
 ]
