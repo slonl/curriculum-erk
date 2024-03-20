@@ -9037,10 +9037,13 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan schriftelijk indrukken en meningen geven over onderwerpen binnen de persoonlijke interessesfeer (zoals levensstijl en cultuur, verhalen), gebruikmakend van elementaire alledaagse woorden en uitdrukkingen.",
+		"title": "Kan schriftelijk indrukken en meningen geven over onderwerpen binnen de persoonlijke interessesfeer, gebruikmakend van elementaire alledaagse woorden en uitdrukkingen.",
 		"id": "2d15804f-f832-4a57-bef2-fa07bfe9028f",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"d0731555-7c41-47ec-b27c-58a0ba551691"
+		]
 	},
 	{
 		"niveau_id": [
