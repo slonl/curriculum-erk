@@ -9177,7 +9177,11 @@
 		"title": "Kan een gedetailleerde beschrijving van een complex proces produceren.",
 		"id": "089822dd-71e2-4065-9fa9-0477e418bf60",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"7a8b0c79-928e-42fa-8690-6ac0de5565d5",
+			"d35dddfc-02c8-4028-a615-3a6770268e77"
+		]
 	},
 	{
 		"niveau_id": [
