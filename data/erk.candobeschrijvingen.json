@@ -6875,7 +6875,10 @@
 		"title": "Kan conclusies trekken, ook als verbanden of implicaties niet expliciet worden benoemd.",
 		"id": "b3beaf4b-735d-4f68-8b19-2be651b7ee26",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"3ed0e0f5-2d41-48de-bc89-7ed5b9277ad7"
+		]
 	},
 	{
 		"niveau_id": [
