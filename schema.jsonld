@@ -15,6 +15,33 @@
 		"erk_vakleergebied": {
 			"@id": "erk:#erk_vakleergebied"
 		},
+		"erk_taalprofiel": {
+			"@id": "erk:#erk_taalprofiel"
+		},
+		"erk_taalprofieltekst": {
+			"@id": "erk:#erk_taalprofieltekst"
+		},
+		"erk_gebied": {
+			"@id": "erk:#erk_gebied"
+		},
+		"erk_categorie": {
+			"@id": "erk:#erk_categorie"
+		},
+		"erk_taalactiviteit": {
+			"@id": "erk:#erk_taalactiviteit"
+		},
+		"erk_schaal": {
+			"@id": "erk:#erk_schaal"
+		},
+		"erk_candobeschrijving": {
+			"@id": "erk:#erk_candobeschrijving"
+		},
+		"erk_voorbeeld": {
+			"@id": "erk:#erk_voorbeeld"
+		},
+		"erk_lesidee": {
+			"@id": "erk:#erk_lesidee"
+		},
 		"deprecated": {
 			"@id": "erk:#Deprecated"
 		}

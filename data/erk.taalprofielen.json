@@ -1,0 +1,245 @@
+[
+	{
+		"title": "Luisteren",
+		"id": "c2e324e4-13f5-41ef-8485-7d09973c5241",
+		"prefix": "",
+		"description": "",
+		"erk_taalprofieltekst_id": [
+			"82c1c495-c6ad-41e9-b980-3368cf45fe59"
+		],
+		"erk_schaal_id": [
+			"bd84c917-4e9c-40af-a1f4-79c81b1de7ea",
+			"2c4d10cc-63f0-40a7-a9fe-8e7f8ec0c09f",
+			"56b546a4-2e91-4666-b608-1bd95cd20191",
+			"6b7ef9da-3d67-45e7-9aec-6a70c8e7ab73",
+			"8a050ffb-4f9b-4533-b9ca-e679cd10e72e",
+			"7b6ce918-952b-4ee7-931e-2ab5b4cec3b9",
+			"c1024d20-7719-4758-9214-77a009232d73",
+			"df5e1e91-7948-4290-8b62-2c22e3e539c7",
+			"a903a7d3-e335-4aff-badd-733d5873da98"
+		]
+	},
+	{
+		"title": "Lezen",
+		"id": "fb43549d-68f6-4c79-9496-1ee4228ecabd",
+		"prefix": "",
+		"description": "",
+		"erk_taalprofieltekst_id": [
+			"82c1c495-c6ad-41e9-b980-3368cf45fe59"
+		],
+		"erk_schaal_id": [
+			"bd84c917-4e9c-40af-a1f4-79c81b1de7ea",
+			"2c4d10cc-63f0-40a7-a9fe-8e7f8ec0c09f",
+			"56b546a4-2e91-4666-b608-1bd95cd20191",
+			"34c9a621-408a-4ed3-a74c-73138b8fb165",
+			"9e6ea45c-0abd-4d95-a679-6767ff369066",
+			"f1d2351d-e784-4aff-a605-365afe3dfed5",
+			"94c30107-47d0-4131-9296-e504487d1a7b",
+			"ebe2b28a-7837-4dab-ab6d-af9c28e56419"
+		]
+	},
+	{
+		"title": "Spreken",
+		"id": "ae85b497-aa3d-4a56-8e23-01b1aa96436c",
+		"prefix": "",
+		"description": "",
+		"erk_taalprofieltekst_id": [
+			"82c1c495-c6ad-41e9-b980-3368cf45fe59"
+		],
+		"erk_schaal_id": [
+			"0e4d2901-3363-4db7-a767-ed0505565eb0",
+			"0c5eb3d2-7c6d-4878-95e7-2e20087c675c",
+			"eae8fbf3-1d39-41c2-a47a-4e6392b486e8",
+			"d722c753-4ccc-4dc7-a8ea-3418f11bbaf1",
+			"f8d91c39-870b-4976-a036-ed1ffb9da094",
+			"2839c055-88c0-440f-8280-011bf8f1c6e8",
+			"b40f3fa1-a82b-4949-a089-42785adb1b9c",
+			"b5fa8270-82cb-4caf-85af-771dae587ce5",
+			"7eedab9f-6032-4612-9192-eda528716123",
+			"2f1fb645-9cae-46ff-ba74-6be7b7404c43",
+			"af5d9bfe-ebe7-47d2-b5aa-e1566bda4c51",
+			"c7e36039-a22b-4493-9463-3640568c7ff8",
+			"39345624-d45d-43bf-9881-f4370daaf18e",
+			"43c6393f-a27c-4499-8bbd-13439c68d994",
+			"d39d33ff-4b79-4a91-81f3-62ae431c351e",
+			"f7c487bd-c63a-4877-8f0f-560d3a283267",
+			"9e9f5b26-13da-410f-886a-1e2dbb05b2ff",
+			"cdc8a132-9af3-4cc7-9be2-11b8f8f16c83",
+			"d8b05f01-6979-4c4e-8be1-c1cae7e065f7",
+			"9231a11a-ffc4-49d0-a03f-b63a879f1329",
+			"09a907d3-e6ed-459b-802d-f10db60fe6d7"
+		]
+	},
+	{
+		"title": "Schrijven",
+		"id": "caa5abc9-a898-49f0-8bc6-0044f97ba647",
+		"prefix": "",
+		"description": "",
+		"erk_taalprofieltekst_id": [
+			"82c1c495-c6ad-41e9-b980-3368cf45fe59"
+		],
+		"erk_schaal_id": [
+			"0e4d2901-3363-4db7-a767-ed0505565eb0",
+			"0c5eb3d2-7c6d-4878-95e7-2e20087c675c",
+			"eae8fbf3-1d39-41c2-a47a-4e6392b486e8",
+			"4f30b1d8-0a71-403d-932d-5d4c1704d87a",
+			"f8d91c39-870b-4976-a036-ed1ffb9da094",
+			"2839c055-88c0-440f-8280-011bf8f1c6e8",
+			"79bcff13-6725-4659-8ede-a82da82983c1",
+			"582c9a5c-11c5-4e38-a9e8-a470d4f9d1bd",
+			"b5fa8270-82cb-4caf-85af-771dae587ce5",
+			"c7e36039-a22b-4493-9463-3640568c7ff8",
+			"43c6393f-a27c-4499-8bbd-13439c68d994",
+			"1a3879b3-9b01-4217-b59d-1484fbbbbac6",
+			"df863aea-cbd5-4bcb-92f0-6c68bbb3f47e",
+			"194edda5-0ddd-483f-ad19-8d0ca77cef60"
+		]
+	},
+	{
+		"title": "Mondelinge interactie",
+		"id": "2ae674cf-b84b-4140-9945-b81d82fdb676",
+		"prefix": "",
+		"description": "",
+		"erk_taalprofieltekst_id": [
+			"82c1c495-c6ad-41e9-b980-3368cf45fe59"
+		],
+		"erk_schaal_id": [
+			"582c9a5c-11c5-4e38-a9e8-a470d4f9d1bd",
+			"0e4d2901-3363-4db7-a767-ed0505565eb0",
+			"0c5eb3d2-7c6d-4878-95e7-2e20087c675c",
+			"eae8fbf3-1d39-41c2-a47a-4e6392b486e8",
+			"d722c753-4ccc-4dc7-a8ea-3418f11bbaf1",
+			"f8d91c39-870b-4976-a036-ed1ffb9da094",
+			"2839c055-88c0-440f-8280-011bf8f1c6e8",
+			"b40f3fa1-a82b-4949-a089-42785adb1b9c",
+			"a9f73ec2-8d84-4f8f-b9e4-e6712291ff6f",
+			"9e2640f9-d6ff-422f-a735-976577f2ec3e",
+			"5c6520f8-39cd-40e8-8b88-0d7554ec85b7",
+			"bd84c917-4e9c-40af-a1f4-79c81b1de7ea",
+			"b5fa8270-82cb-4caf-85af-771dae587ce5",
+			"7eedab9f-6032-4612-9192-eda528716123",
+			"2f1fb645-9cae-46ff-ba74-6be7b7404c43",
+			"af5d9bfe-ebe7-47d2-b5aa-e1566bda4c51",
+			"c7e36039-a22b-4493-9463-3640568c7ff8",
+			"39345624-d45d-43bf-9881-f4370daaf18e",
+			"43c6393f-a27c-4499-8bbd-13439c68d994",
+			"56b546a4-2e91-4666-b608-1bd95cd20191",
+			"e4386ae9-5148-46db-a9e3-fba6ab3d08a8",
+			"a512cbf4-9be1-4afb-bd08-ea113b2eaff7",
+			"42e321ef-5254-478f-a219-3e513a967926",
+			"84c0e01a-b06d-4ae0-abc8-9f0e19bed1d1",
+			"2248310b-a8f4-43e2-9134-0bfe57eb3ea2",
+			"9ad3c66b-c24f-4550-a395-9e6ab092ae74",
+			"5799b433-cf4a-446a-87d0-758dc5396f3c",
+			"46da4dbb-119f-4e60-b123-f8489eb6a973",
+			"f3cd3e9f-d4c1-447c-99b6-ecafe851bc27",
+			"ea517e75-3591-41c7-9cd9-f3aa6eec3493",
+			"dd1a4f52-d2c2-40a0-a049-3a6091f2b0cc"
+		]
+	},
+	{
+		"title": "Schriftelijke interactie",
+		"id": "d47571ef-f29e-4d41-8530-7162722a94b3",
+		"prefix": "",
+		"description": "",
+		"erk_taalprofieltekst_id": [
+			"82c1c495-c6ad-41e9-b980-3368cf45fe59"
+		],
+		"erk_schaal_id": [
+			"0e4d2901-3363-4db7-a767-ed0505565eb0",
+			"0c5eb3d2-7c6d-4878-95e7-2e20087c675c",
+			"eae8fbf3-1d39-41c2-a47a-4e6392b486e8",
+			"4f30b1d8-0a71-403d-932d-5d4c1704d87a",
+			"f8d91c39-870b-4976-a036-ed1ffb9da094",
+			"2839c055-88c0-440f-8280-011bf8f1c6e8",
+			"79bcff13-6725-4659-8ede-a82da82983c1",
+			"582c9a5c-11c5-4e38-a9e8-a470d4f9d1bd",
+			"bd84c917-4e9c-40af-a1f4-79c81b1de7ea",
+			"b5fa8270-82cb-4caf-85af-771dae587ce5",
+			"c7e36039-a22b-4493-9463-3640568c7ff8",
+			"43c6393f-a27c-4499-8bbd-13439c68d994",
+			"4d3158af-be89-467f-8009-64703e7e2f10",
+			"cf9b8ada-1bda-4ebf-a82d-8334fb8f309e",
+			"7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e"
+		]
+	},
+	{
+		"title": "Online interactie",
+		"id": "1e2d45a0-0f43-4ea1-9926-31b1d10df861",
+		"prefix": "",
+		"description": "",
+		"erk_taalprofieltekst_id": [
+			"82c1c495-c6ad-41e9-b980-3368cf45fe59"
+		],
+		"erk_schaal_id": [
+			"d722c753-4ccc-4dc7-a8ea-3418f11bbaf1",
+			"b40f3fa1-a82b-4949-a089-42785adb1b9c",
+			"0e4d2901-3363-4db7-a767-ed0505565eb0",
+			"0c5eb3d2-7c6d-4878-95e7-2e20087c675c",
+			"eae8fbf3-1d39-41c2-a47a-4e6392b486e8",
+			"4f30b1d8-0a71-403d-932d-5d4c1704d87a",
+			"f8d91c39-870b-4976-a036-ed1ffb9da094",
+			"2839c055-88c0-440f-8280-011bf8f1c6e8",
+			"79bcff13-6725-4659-8ede-a82da82983c1",
+			"582c9a5c-11c5-4e38-a9e8-a470d4f9d1bd",
+			"bd84c917-4e9c-40af-a1f4-79c81b1de7ea",
+			"a9f73ec2-8d84-4f8f-b9e4-e6712291ff6f",
+			"9e2640f9-d6ff-422f-a735-976577f2ec3e",
+			"5c6520f8-39cd-40e8-8b88-0d7554ec85b7",
+			"d39d33ff-4b79-4a91-81f3-62ae431c351e",
+			"56b546a4-2e91-4666-b608-1bd95cd20191",
+			"e4386ae9-5148-46db-a9e3-fba6ab3d08a8",
+			"4310f8f2-049f-4387-a979-6fe10c0c7d60",
+			"20572757-2806-414c-bd0b-f6e5ee2bab5e"
+		]
+	},
+	{
+		"title": "Mediation",
+		"id": "9e3f3cac-8178-42fd-bf97-2cbbc6989332",
+		"prefix": "",
+		"description": "",
+		"erk_taalprofieltekst_id": [
+			"82c1c495-c6ad-41e9-b980-3368cf45fe59"
+		],
+		"erk_schaal_id": [
+			"1c11e637-5eaf-45f3-8410-44a6a75c1006",
+			"3c802231-529e-4d76-9aab-40eae8225fe8",
+			"288b6f87-8d9e-4c03-b887-d7781510db71",
+			"5ec53958-4390-49c0-b4bc-35e24e631d85",
+			"97154fe6-5225-4793-bb6e-9d68910e78b3",
+			"e2b6da00-13a1-42c8-af8a-13ff4a5b5392",
+			"a14a5054-9279-4da8-b56e-64e64fec6e69",
+			"eb3a241a-afa5-4c42-8e33-89fc52ed29bb",
+			"274c92c2-56cb-4cf3-8039-b791ee79f595",
+			"1a409f1c-2aaf-47e5-be44-2da7439a5e80",
+			"025616e1-cb16-4faf-875d-dfad8b846847",
+			"e39d1e09-4773-454f-84f7-b6c45a191926",
+			"f86eb171-d684-4e6d-b403-f4e6dd343ae5",
+			"e4386ae9-5148-46db-a9e3-fba6ab3d08a8",
+			"8071a4c5-bbf1-4f88-a55f-4f9f7f91f2a8",
+			"19cbc7e0-7747-4f96-9737-6fecc6308414",
+			"af5d9bfe-ebe7-47d2-b5aa-e1566bda4c51",
+			"c7e36039-a22b-4493-9463-3640568c7ff8",
+			"39345624-d45d-43bf-9881-f4370daaf18e",
+			"43c6393f-a27c-4499-8bbd-13439c68d994",
+			"be0692e3-3ac9-4274-8c4e-0791ddb16c0b"
+		]
+	},
+	{
+		"title": "Fictie waaronder Literatuur",
+		"id": "38099198-619a-4453-9dad-5ca5b0ba5782",
+		"prefix": "",
+		"description": "",
+		"erk_taalprofieltekst_id": [
+			"82c1c495-c6ad-41e9-b980-3368cf45fe59"
+		],
+		"erk_schaal_id": [
+			"bd84c917-4e9c-40af-a1f4-79c81b1de7ea",
+			"2c4d10cc-63f0-40a7-a9fe-8e7f8ec0c09f",
+			"56b546a4-2e91-4666-b608-1bd95cd20191",
+			"422129cb-4739-49bc-a174-64275fe10134",
+			"4653ae86-aea9-4a1f-b228-8ea08a529afa",
+			"59de7906-e16b-4fb3-9887-6c19a7d6bef9"
+		]
+	}
+]

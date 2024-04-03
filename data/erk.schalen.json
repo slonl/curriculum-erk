@@ -1,6 +1,6 @@
 [
 	{
-		"title": "Leesvaardigheid algemeen",
+		"title": "Lezen algemeen",
 		"id": "34c9a621-408a-4ed3-a74c-73138b8fb165",
 		"prefix": "",
 		"description": "",
@@ -16,7 +16,8 @@
 			"a5f57db6-22c9-4080-911f-359e6694b32d",
 			"752a4889-ed8f-4152-be2e-0ba45033735e",
 			"20e84aea-29a8-4ea0-9c0d-cfe48570ba06"
-		]
+		],
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -37,9 +38,12 @@
 			"be5df90c-dffa-4e56-afae-222d8b1bf7be",
 			"41610433-0390-498c-9f1c-fed0f31306a5"
 		],
-		"title": "Luistervaardigheid algemeen",
+		"title": "Luisteren algemeen",
 		"algemeen": true,
-		"id": "6b7ef9da-3d67-45e7-9aec-6a70c8e7ab73"
+		"id": "6b7ef9da-3d67-45e7-9aec-6a70c8e7ab73",
+		"prefix": "",
+		"description": "",
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -147,6 +151,7 @@
 			"d063df25-25b3-44f0-ba66-98c803c71cb9",
 			"28e6b965-145a-43d6-a703-8100197f915a"
 		],
+		"category": "Pluricultureel",
 		"title": "Voortbouwen op pluricultureel repertoire",
 		"id": "56b546a4-2e91-4666-b608-1bd95cd20191"
 	},
@@ -607,6 +612,7 @@
 			"885a8eff-1273-403c-b829-cf7fb34a011a",
 			"da62fc08-ca2a-4e77-9565-a495e4227a90"
 		],
+		"category": "Pluricultureel",
 		"title": "Interculturele ruimte mogelijk maken",
 		"id": "e4386ae9-5148-46db-a9e3-fba6ab3d08a8"
 	},
@@ -1503,13 +1509,14 @@
 			"d48e70d5-5c06-4aa5-bcab-bace71d1d9d3",
 			"a5da7f97-279b-4f97-8b43-41c5c9023b36"
 		],
-		"title": "Lezen voor informatie en argumentatie",
+		"title": "Lezen ter informatie/argumentatie",
 		"id": "94c30107-47d0-4131-9296-e504487d1a7b",
 		"prefix": "",
 		"description": "",
 		"replaces": [
 			"f84f75e7-1ba0-4694-b9cf-8bafe075d3cb"
-		]
+		],
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1540,11 +1547,9 @@
 	{
 		"erk_candobeschrijving_id": [
 			"c76abfa3-2671-4653-8c9e-1d964ad8aae0",
-			"eeb7f581-58fc-4c4d-966f-cc67050c3f67",
 			"2886a357-4212-4fd0-812a-97e750cd349f",
 			"e1283508-a49a-45c5-add5-c55bc8fe89fa",
 			"75886083-7e27-4242-9b46-93ec5610c985",
-			"3e8f27f6-5eb4-415c-a328-31dba0fcbad7",
 			"2b18df0a-1794-4b7d-b11d-eacf6123a902",
 			"9d12b673-ed5c-47df-b918-38d08870564b",
 			"15ade611-e56e-4d28-9069-e5d17e74f25b",
@@ -1557,13 +1562,14 @@
 			"f5994fdf-cdbd-4cc8-8918-c733e0f9de0b",
 			"3e9d29a7-3923-4530-af8b-99400270b671"
 		],
-		"title": "Interactie tussen andere sprekers begrijpen",
+		"title": "Gesprek tussen andere sprekers begrijpen",
 		"id": "8a050ffb-4f9b-4533-b9ca-e679cd10e72e",
 		"prefix": "",
 		"description": "",
 		"replaces": [
 			"888afb31-15ae-489e-99f4-27a3bcac1863"
-		]
+		],
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1583,16 +1589,18 @@
 			"9e18d957-79bb-4d40-a6e6-7d446ececd33",
 			"ce63c6fc-c43b-4491-9dcd-22835cd56bbc",
 			"75b6f405-e00b-4a49-a1f5-d09ca326e284",
-			"ffc17a16-fd4a-4a0c-8907-3fbe1c1eb7bc",
 			"e14ec448-4e40-4061-9a6c-4104492d7ac1",
 			"b3beaf4b-735d-4f68-8b19-2be651b7ee26",
 			"0ecd3e9c-f849-4d06-a578-04e8bfd54c31"
 		],
-		"title": "Luisteren als lid van een aanwezig publiek",
+		"title": "Begrijpen als lid van een aanwezig publiek",
 		"id": "7b6ce918-952b-4ee7-931e-2ab5b4cec3b9",
 		"replaces": [
 			"763a4d0a-b18b-4da3-b664-6bf2cdf2f237"
-		]
+		],
+		"prefix": "",
+		"description": "",
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1600,7 +1608,6 @@
 			"b963d353-134d-4cb6-a8d7-167149f71063",
 			"1001dc29-8286-4385-a6ea-cfdff3ad43a3",
 			"cd453a9a-6cc5-488f-8a99-5190b07936c7",
-			"1e584b80-38f3-402a-b4ae-a9f0347f7f40",
 			"0402d289-cec5-4759-b92d-ef2c488934d1",
 			"95880ab7-30d1-45fe-a1f5-d3f9a19737d7",
 			"c99e284a-1b32-4d90-9e1c-9ef5008770e5",
@@ -1615,13 +1622,14 @@
 			"f5f426b3-da7a-44d2-a94a-9f75271a74b4",
 			"bdcb7c1f-5ad9-4806-b530-9f23bb117af8"
 		],
-		"title": "Luisteren naar mededelingen en instructies",
+		"title": "Mededelingen en instructies begrijpen",
 		"id": "c1024d20-7719-4758-9214-77a009232d73",
 		"prefix": "",
 		"description": "",
 		"replaces": [
 			"2f6b5a57-8b14-4834-afdd-cbf4638b6d71"
-		]
+		],
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1640,13 +1648,14 @@
 			"38eb1ecd-8bab-4c7f-a8d2-8c86bd54bda7",
 			"993fceed-43f8-4a6b-987e-7cea41d16421"
 		],
-		"title": "Luisteren naar audiomedia en geluidsopnames",
+		"title": "Gesproken media begrijpen",
 		"id": "df5e1e91-7948-4290-8b62-2c22e3e539c7",
 		"prefix": "",
 		"description": "",
 		"replaces": [
 			"d78f5af9-1b28-4f68-bab2-f6ecff7807e9"
-		]
+		],
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1666,13 +1675,14 @@
 			"b3b3f57f-dfbc-4c20-b562-bb6530833fdd",
 			"19971876-3f1f-46c9-9c1a-fcb1de2d6597"
 		],
-		"title": "Kijken en luisteren naar tv, film en video",
+		"title": "Naar tv, film en video kijken",
 		"id": "a903a7d3-e335-4aff-badd-733d5873da98",
 		"prefix": "",
 		"description": "",
 		"replaces": [
 			"237545d1-b66f-4fe7-9b45-b3bb7f127563"
-		]
+		],
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [

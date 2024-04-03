@@ -2673,5 +2673,1328 @@
 		"types": [
 			"erk_taalactiviteit"
 		]
+	},
+	{
+		"niveau_id": [
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+		],
+		"erk_voorbeeld_id": [
+			"c68a992e-3b4b-4bd4-be2c-e5e52f9d2ca6"
+		],
+		"title": "Kan begrijpen wanneer anderen zich voorstellen aan elkaar.",
+		"id": "eeb7f581-58fc-4c4d-966f-cc67050c3f67",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"erk_voorbeeld_id": [
+			"5c24a422-80ad-4335-9982-735bd4a64604",
+			"e0542d2f-5a0e-4706-9518-8b6332b6a17c"
+		],
+		"title": "Kan over het algemeen veranderingen van onderwerp volgen in formele discussies die betrekking hebben op het eigen vakgebied.",
+		"id": "3e8f27f6-5eb4-415c-a328-31dba0fcbad7",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"50fd5672-94d8-4445-b988-bb198f5515f4"
+		],
+		"erk_voorbeeld_id": [
+			"be3fa0dd-19bc-4f6d-9004-3b989eb5a13a",
+			"981df76e-3866-4a48-a146-5d36e0ba4a0e"
+		],
+		"title": "Kan een toneelstuk volgen.",
+		"id": "ffc17a16-fd4a-4a0c-8907-3fbe1c1eb7bc",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"niveau_id": [
+			"620710de-54d2-48b5-93ab-40888732aab7"
+		],
+		"title": "Kan aanwijzingen begrijpen over de werking van vertrouwde apparaten, mits het apparaat voorhanden is.",
+		"id": "1e584b80-38f3-402a-b4ae-a9f0347f7f40",
+		"prefix": "",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_candobeschrijving"
+		]
+	},
+	{
+		"title": "Een kerst-, nieuwjaars- of verjaardagskaart, beterschap (DL).",
+		"id": "653b16d3-e8bb-4ad4-a039-94974f5b96e4",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een rouwkaart of een geboortekaartje (DL).",
+		"id": "076783f0-c981-47f0-b2e3-6ed96119844b",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een uitnodiging voor een (trouw)feest (DL).",
+		"id": "3eae0012-e07e-4329-a1d3-2fcbe88cea96",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een vakantiekaart (DL).",
+		"id": "9fdd6b92-8490-4f46-9020-969c9ed66995",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een toegangskaart voor een concert, sportwedstrijd, festival (DL).",
+		"id": "67b161ba-b2da-4b76-916e-cd8479ff354e",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een digitaal bericht waarin staat dat de zender er direct aankomt (DL, WE).",
+		"id": "996d7bb7-22e5-4f95-ae84-0375f55cef9a",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een mededeling over weer en verblijfplaats tijdens de vakantie (DL).",
+		"id": "f4f2039f-b31c-4f85-a1fb-25ca10f5d6c7",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een mededeling over het welbevinden van een correspondentievriend/in (DL).",
+		"id": "c9a53be9-18ce-4922-8011-d42b0e92730e",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een mededeling met informatie over de school van een correspondentievriend/in (DL).",
+		"id": "5cf2900b-83be-4444-9142-4907026d0dc2",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Het maken, bevestigen of verzetten van een afspraak (XX).",
+		"id": "e4f90d37-ec4f-4003-b3b5-ecad2565053c",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De bevestiging van een reservering of van een online aankoop (DL).",
+		"id": "a4dec6c3-4d85-4659-81ee-32dab6ab9f72",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "In een (stage)bedrijf een brief over het opnemen van verlofdagen (OPL, WE).",
+		"id": "ea8ac336-c26d-4da6-a64c-d9a33295d79c",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een uitnodiging voor een cursus of vakantiereis (PU, OPL).",
+		"id": "191cf233-f45c-42d5-a908-1fb24b008242",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De beschrijving van een feest (DL).",
+		"id": "c85d62a3-0bd4-4a0c-b1d5-e137fe9bbdc4",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Informatie over een vriendje of vriendinnetje (DL).",
+		"id": "74dc4cc9-c9a6-4669-90d2-7a88708077d9",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Informatie over een hobby (DL, PU).",
+		"id": "1c52325f-b821-4e5a-a0e2-713521b5faff",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De mening van de correspondentiepartner over school of opleiding (DL, OPL).",
+		"id": "65f836f8-937d-4cce-b3d4-b02f52edd648",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De beschrijving van een bijbaantje van de correspondentiepartner (DL, OPL).",
+		"id": "9a1916aa-7001-4e5a-8c99-c7767f93e093",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Ideeën van een correspondentiepartner over vriendschap, relaties, werk, het milieu (DL).",
+		"id": "03d08c93-7bfd-4558-890b-ee6f0917e3b3",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een brief over een sportuitwisseling, een gastgezin (DL).",
+		"id": "1a337a51-0f3a-47e5-ad16-b1c22a7ddeb2",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een recensie in een wetenschappelijk tijdschrift (OPL, DL).",
+		"id": "5a52cd71-61d7-4598-9c93-ff07f7956c64",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Plaats, data en toegangstijden bij een tentoonstelling of bezienswaardigheid (DL).",
+		"id": "577c4670-c852-4b50-b721-85db0dd1710d",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Plaats en tijdstip van een evenement op de camping (DL).",
+		"id": "e4798324-da10-4744-9770-be0b44e6636d",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De plattegrond van een winkelcentrum (PU).",
+		"id": "e3456db9-4ea1-487e-8e30-c180d1dec596",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een artikel op een kassabon om de prijs te controleren (DL).",
+		"id": "84f2cfd4-c5a4-4b61-abb3-bb606bf0e134",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De openingstijden van een winkel of instelling in een overzicht (DL).",
+		"id": "2cf731c2-427c-44d7-8bf8-7a70f4a3ec5d",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Vertrektijden in een reisschema (DL).",
+		"id": "b02ccc75-7919-4694-b8b1-565d41d54669",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Het telefoonnummer van een dokter in een hotelgids of campinginformatie (DL).",
+		"id": "d343b4dd-fa17-4b49-9315-ae1d44830ef6",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "In het overzicht van huisregels van een hostel opzoeken hoe laat het stil moet zijn (OPL, WE).",
+		"id": "dbcb8d93-51e8-4c61-9b32-94df164a30b5",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De goede betekenis van een woord opzoeken in een eenvoudig woordenboek (OPL).",
+		"id": "6ee3c3c5-1313-4917-88ab-1f76d10c3c09",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een huurcontract voor een kamer in een studentenflat (DL).",
+		"id": "6ada7482-2f65-4438-9367-fc53e374001a",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een toelichting bij een boete (PU).",
+		"id": "a6b3fe85-c552-430c-8b62-edac519fa608",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Kranten- of tijdschriftartikelen (DL, OPL).",
+		"id": "d5ac6cb6-87b3-4016-9719-514be79715ae",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Blogs (DL).",
+		"id": "bc254b3b-8b68-48d0-8702-00e8a266e369",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Studieteksten (OPL).",
+		"id": "6d012f8f-e682-463c-a6ea-15e0b1a9b704",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Onderzoeksverslagen over een bestudeerd onderwerp (OPL, WE).",
+		"id": "5179f15f-8d6a-49c9-8036-c7d6996a7b53",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Artikelen over onderwerpen van algemeen belang in een landelijke kwaliteitskrant of opinieblad (DL, OPL, WE).",
+		"id": "25d04b97-7bb5-4e79-99e3-5462cc32bf7d",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een kort geïllustreerd weerbericht (DL).",
+		"id": "11952988-9ed4-4cbb-9bdf-81bed6aaed6e",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Over een hobby of vrijetijdsbesteding (DL).",
+		"id": "436d1553-fd98-4b67-bec2-456bbedb41d3",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Over mode en lichaamsverzorging (DL).",
+		"id": "0119e538-5b17-4346-9fad-6b916911c563",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Over (huis)dieren (DL).",
+		"id": "3a45cb6f-8469-4bce-8d7f-3227270348d5",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een interview met leden van een bekende band in een jongerentijdschrift (DL).",
+		"id": "5e1eda78-c695-4d4e-ade1-d1c06a235c3b",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een aan het taalniveau van de leerder aangepast kort verhaal ('graded reader') (OPL).",
+		"id": "f1494a03-56fd-4593-9051-3838007611ab",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een artikel in een populaire en/of regionale krant over actualiteit, hobby of sport (DL).",
+		"id": "8db93a28-fdc8-4459-ab8f-6fe41f275532",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een artikel in een muziekblad over de opkomst van een nieuwe popgroep (DL).",
+		"id": "1bd6dadb-6f89-475e-b254-f8bcca32a387",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Artikelen over onderwerpen op het eigen interesseterrein in populairwetenschappelijke tijdschriften voor de jeugd (DL, OPL).",
+		"id": "3c8723a5-2391-45b3-bdee-974827a5c8ba",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een artikel in een jongerentijdschrift over veilig vrijen (DL, OPL).",
+		"id": "ed205914-8601-4f6d-9675-f092ef0cb988",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Websites over reizen of studie in het buitenland (DL, OPL).",
+		"id": "1eb50595-2fc5-4a8a-84f7-789d90f65d5f",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De ondertiteling van het nieuws (DL).",
+		"id": "f45bb222-c44a-4d59-9acf-f29651552667",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Beknopte teksten op dia's van een PowerPointpresentatie over een alledaags onderwerp, zoals een vakantiebestemming (OPL).",
+		"id": "4062d7d1-e5e0-40c4-ae0d-a9820eeb467a",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Artikelen over een milieuvraagstuk als input voor een profielwerkstuk (OPL).",
+		"id": "d348e4ed-a831-4b02-9164-828709fcfd81",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een recensie van een boek, film of theatervoorstelling (DL).",
+		"id": "deef063c-86bb-4b5a-9f0c-62690be81d36",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Materiaal voor het profielwerkstuk of het Honoursprogramma van de school (OPL).",
+		"id": "d6401815-3fc0-4d45-a7a3-83c3e251e577",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Relevante informatie via Twitter volgen (XX).",
+		"id": "d3d60235-4e35-4ee0-b0cb-bf6d1e115502",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Het advies van een extern bureau over het personeelsbeleid van een bedrijf of over de onvrede van de buurt door geluidsoverlast of verkeershinder (PU, OPL).",
+		"id": "740d2bae-0b01-407d-be92-56aceace27a4",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Kan zeer eenvoudige, korte en goed gestructureerde instructies begrijpen.",
+		"id": "33095535-9507-468b-ba19-1423c641224b",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een zeer korte routebeschrijving als: rechtdoor en dan links (DL).",
+		"id": "769a5a53-3c1f-4886-b326-9e8c34c48910",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De bewegwijzering in een groot gebouw (PU, OPL, WE).",
+		"id": "b8870240-a5de-4702-80d2-0962366f32fb",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een verkorte instructie voor een nieuwe mobiele telefoon (DL).",
+		"id": "307c4005-edd9-4729-8f7d-c38b8069e662",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Instructies op apparaten als een telefooncel, geldautomaat, automaat voor bus- en treinkaartjes (PU).",
+		"id": "fdaeb597-a1e6-40a5-8549-a4f0bba7e788",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De gebruiksaanwijzing op een brandblusser (PU).",
+		"id": "4cd303de-316a-4b4e-b6b0-46abae8a36ee",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een kaart op een hotelkamer: wat te doen in geval van brand in een hotel (PU).",
+		"id": "416bf01b-1e2b-427a-81d5-8fa19a3a0996",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Instructies met betrekking tot veiligheid op de werkplek (WE, OPL).",
+		"id": "3413fa5b-55c1-4b60-b1ba-dc4326b506b0",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De helpfunctie in een tekstverwerkingsprogramma (XX).",
+		"id": "3a5a29f8-aab8-4fae-9836-b97a5fedf37b",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een eenvoudig geschreven bijsluiter bij medicijnen (DL).",
+		"id": "067f2a82-2a69-436c-bb35-76336c7dc6e9",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een handleiding voor het oplossen van een storing bij een bekend apparaat (WE).",
+		"id": "a51d6c08-02a2-4ee0-8ce8-96ee8e497bc9",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Gesprekken over persoonlijke gegevens zoals waar ze vandaan komen, wat ze doen, welke leeftijd ze hebben (DL, OPL).",
+		"id": "c68a992e-3b4b-4bd4-be2c-e5e52f9d2ca6",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Als toehoorder bij een bijeenkomst van de leerlingenraad tijdens een uitwisseling met een partnerschool (OPL).",
+		"id": "5c24a422-80ad-4335-9982-735bd4a64604",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Als toehoorder bij een werkgroep of seminar (OPL, WE).",
+		"id": "e0542d2f-5a0e-4706-9518-8b6332b6a17c",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een gesprek tijdens een uitwisseling met een buitenlandse partnerschool (OPL).",
+		"id": "5b04262f-e910-4923-bb65-14d1324dcf6b",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een gesprek over daginvulling (DL,OPL).",
+		"id": "b2d5d763-7522-4d32-bdf2-eb4f24377cef",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een gesprek op straat, in een winkel, café, trein, station over het weer (DL).",
+		"id": "4a3df905-2162-4cfa-b1b6-0de78e8927da",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een gesprek tussen medereizigers in een trein of bus over onveiligheid op straat (DL).",
+		"id": "bfa10ad1-08ac-4469-b21f-2661a442655a",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een inleiding van de directeur tijdens een bezoek aan een buitenlandse school (OPL).",
+		"id": "836af0ea-76b0-4426-8301-f80d61b1859b",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De belangrijkste punten van een uiteenzetting door een student over een uitgevoerd project (OPL).",
+		"id": "075ba615-780f-4032-af6a-5e7094395088",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De voornaamste punten bij de beschrijving van een proef, procedure of onderzoek tijdens een gastles van een buitenlandse docent (OPL).",
+		"id": "e8bf720c-b3a5-4c5d-9db3-4cbf9f91592d",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een beschrijving van de nieuwste versie van een apparaat uit het eigen vakgebied tijdens een presentatie op een beurs (OPL, WE).",
+		"id": "4dbef1b4-afbd-434e-bca6-bfa436c3c971",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een praatje van een activiteitenbegeleidster in een buitenlands hotel of op een camping (DL).",
+		"id": "6c494963-bdc1-46cc-a9d6-fbdb574e2a3c",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een gesprek tussen buitenlandse leeftijdgenoten over een nieuw computerspel (DL).",
+		"id": "000448e6-5ac9-4993-b342-910cf4bf8665",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een gesprek tussen vrienden in een café over hun studieplannen (OPL).",
+		"id": "92f50aa0-abd3-4f10-8f0e-a3f770f5a95f",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Tijdens een buitenlandse stage een gesprek tussen collega's over een op handen zijnde reorganisatie (WE).",
+		"id": "32810531-4380-4a4f-a95c-ba2a26ded4a2",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een gesprek over strategisch beleid tijdens een bijeenkomst van de ondernemingsraad of studentenraad (OPL, WE).",
+		"id": "986d7028-1181-4390-99f2-64d46a9db5f1",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een korte rondleiding op het vakantieadres (PU).",
+		"id": "99371723-069e-4ed0-b95d-700feb863eaa",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een rondleiding in het koninklijk paleis (PU).",
+		"id": "b28d9822-5903-4678-a643-1e89a25ea7a0",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een uiteenzetting op een vakbeurs waarin de eigen producten worden vergeleken met die van de concurrenten (WE).",
+		"id": "7ff91dea-85b8-4c18-87c5-2051dcc5f7a7",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een technische demonstratie waarin informatie wordt gegeven over de werking van een nieuwe machine (WE).",
+		"id": "289482e2-5f4f-46ea-9a5a-0445dbb97f42",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een presentatie over een vaktechnisch onderwerp tijdens een internationale conferentie (WE, OPL).",
+		"id": "e952bd73-a163-4ce1-8d1e-7494f5bdf68f",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een betoog van een gastdocent over een abstract onderwerp buiten het eigen vakgebied (OPL).",
+		"id": "7ec43c80-e128-41b9-b57b-9e83271316a9",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De houdingen van en de verhoudingen tussen personen, ook als die niet expliciet vermeld worden (DL).",
+		"id": "be3fa0dd-19bc-4f6d-9004-3b989eb5a13a",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De handeling(en), ook als die niet precies chronologisch zijn en/of op dezelfde plek plaatsvinden (DL).",
+		"id": "981df76e-3866-4a48-a146-5d36e0ba4a0e",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een cabareteske toespraak waarin iemand alle registers van dubbelzinnigheid, ironie, sarcasme enzovoort opentrekt (DL).",
+		"id": "d164563b-4ba2-4ab5-87f6-5c8d64e39b8a",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Uitingen als deur dicht doen, niet roken, licht uit/aan (DL).",
+		"id": "a52cf940-ec66-4255-bedb-63aa72d589cb",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Schoolregels als pet af, jas uit, boeken open/dicht (OPL).",
+		"id": "760135e8-3232-493a-8d29-087427337add",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Op welke bladzijde een oefening opgezocht moet worden (OPL).",
+		"id": "e54dcf5b-8ebb-4941-ab97-c68f7c932d70",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Uitleg over hoe je op een bepaalde plek komt zoals rechtdoor, de trap op, de eerste deur links (DL).",
+		"id": "e3925e8e-383c-4ee2-b9c2-f4505fe9661d",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Vragen of iets begrepen is, of een vraag of opdracht herhaald moet worden (DL, OPL).",
+		"id": "0dfe434b-b42a-440c-8bd3-dac2550c62e4",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De vertrektijden op een station (PU).",
+		"id": "4d73b8f1-452c-4d14-a630-e3f6ae06c39f",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De aanbiedingen via een omroep in het warenhuis (PU).",
+		"id": "60a41f43-c074-49bc-b754-64840f2f58bf",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Hoe je een fotokopie maakt (DL).",
+		"id": "bc07896e-e9b4-475a-b881-dac8ffc66aed",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Hoe de frisdrankautomaat werkt (DL)",
+		"id": "5826e709-fa47-4019-916a-ef182e882916",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Hoe een smartphone, laptop of tablet werkt (DL).",
+		"id": "f7a44175-0311-45e2-9694-a0bcd24a6437",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "M.b.t. het programmeren van je magnetron of de interactieve televisie (DL).",
+		"id": "d281cef9-467d-43bf-8c76-6d604c29ef79",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "M.b.t. bedieningsvoorschriften voor alledaagse apparatuur, zoals een mobiele telefoon (DL).",
+		"id": "4a65f5bc-00d0-4fc5-8054-87794f4b271b",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "M.b.t. het installeren van een programma op de computer (DL, OPL, WE).",
+		"id": "bd4d0dbc-451c-4a85-8f24-107e23e12b6a",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "M.b.t. het installeren van een app op je smartphone of tablet (DL, OPL, WE).",
+		"id": "e9d49660-49f6-432e-a79c-473db20d75ca",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De uitleg van een monteur over de bediening van een nieuwe machine (WE).",
+		"id": "7403444d-46d9-4a24-8b25-9aec8e651843",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De uitleg over geavanceerde functies op een fotokopieerapparaat (WE).",
+		"id": "4cc8bc89-9788-4081-a878-e11ce0b3db6d",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Over het dagprogramma voor een schoolreis (OPL).",
+		"id": "c46aafd1-fa6b-4c95-882a-1620bb077668",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "M.b.t. reisinformatie die telefonisch verstrekt wordt (PU).",
+		"id": "4aca726d-4f13-4ea2-b89d-cd7334c279cb",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Over de voorbereiding op een toets, examen of werkstuk (OPL).",
+		"id": "45b52c1a-faac-47ac-935e-b2bf4a14af36",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een telefonisch bericht waarin inlichtingen worden gegeven of een probleem wordt uitgelegd (WE, DL).",
+		"id": "1da9f807-3b47-43ac-b17a-d393085f4ebb",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Instructies van een sportinstructeur, zoals bij skiën of zeilen (PU).",
+		"id": "be00b677-4f40-46eb-be6a-fba399272984",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Wat te doen als de (frisdrank)automaat niet goed werkt, wie moet je bellen, hoe krijg je je geld terug? (PU).",
+		"id": "093c1d23-ee24-43d0-bdd0-ebedb446f067",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een gedetailleerde routebeschrijving naar een bestemming waarvoor je een aantal keren moet overstappen (DL, PU).",
+		"id": "f1a1eb72-09f2-4611-bb45-a6fecfd1e208",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De aankondigingen op een station over hoe je moet omreizen tijdens een treinstaking (PU).",
+		"id": "a2501d32-c2f6-4858-b6fc-0e711970fc25",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De aanwijzingen van een arts over de behandeling van een kwaal of verwonding (PU).",
+		"id": "9f7e211b-0bf3-4cbb-a194-bdd0b3cc1a32",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De telefonische instructies van een helpdeskmedewerker over het oplossen van een computerstoring (PU, WE).",
+		"id": "3a648eff-59ce-43e1-b9da-2b4280143be3",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De aanwijzingen van een projectleider over de administratieve afhandeling van een internationaal project (OPL, WE).",
+		"id": "23b0dbb0-c5db-44b1-a18d-2591ff3ff0df",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Als audiotoerist in het buitenland met een speciale koptelefoon zonder moeite rondgeleid worden door een museum of toeristische attractie (PU).",
+		"id": "8f6d5489-a0f5-4886-97c9-5ee4ca886765",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een bericht op de radio over een file op een autoweg: hoe moet ik omrijden? (DL).",
+		"id": "5e07d8f2-483b-4fb2-abfc-ed15ff7085d8",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een kort en duidelijk omroepbericht op het station dat de trein X vandaag vertrekt van spoor Y (DL).",
+		"id": "60b5547d-d0e0-47cd-b223-8209439487e5",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Reclameberichten in winkels (\"nu in de aanbieding...\") (DL, PU).",
+		"id": "d0f094be-8687-456a-88eb-d010ffbf2885",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "De onderwerpen van een nieuwsuitzending (DL).",
+		"id": "c9fb0871-2ea4-4fe3-902c-059aa7d0b62a",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Aanwijzingen van een telefonische computer om bij een bepaalde afdeling terecht te komen (PU, WE).",
+		"id": "06999f33-98e1-46d5-a635-825575e06cba",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Het weerbericht (DL).",
+		"id": "162302bf-78ea-4871-bed9-c0716c3cb8c6",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Concertaankondigingen (PU).",
+		"id": "8911416f-42af-4908-8f51-31c03e209bd7",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Sportuitslagen (DL).",
+		"id": "f01c8a6f-2808-48ac-b1f6-40db7ad2334a",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een verslag van een vakantie (DL).",
+		"id": "e3792f7e-874c-4a03-a71a-f40eae03e8da",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Nieuwsberichten over mondiale onderwerpen als klimaatverandering en terrorisme (DL).",
+		"id": "14b92d3b-f587-45c3-931a-c291cacfecb7",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een verslag van een terroristische aanslag (DL).",
+		"id": "d719e735-691d-48f5-ab6b-c375443e26a2",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een soap (DL).",
+		"id": "940fa686-288d-4ce1-b33d-a1fe38316983",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Reclamefilmpjes met een duidelijk verhaal erin (PU).",
+		"id": "47b24f8b-27e1-428b-8942-6b445fa275e0",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Eigen dorp/stad/huis (DL, OPL).",
+		"id": "050cb6c5-346b-4fbe-9d43-71f5176ecc40",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Het werk van je ouders (DL).",
+		"id": "7ab1e808-3257-48d1-a40d-dd0bbe06b685",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Vrijetijdsbesteding (DL).",
+		"id": "2c394218-8669-4f5e-8c81-96a003b2fdff",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "School, rooster en vakken (OPL).",
+		"id": "3cac1b41-dc36-46d0-8091-b551b811575d",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Eigen werkplek en dagelijkse werkzaamheden (OPL, WE).",
+		"id": "39864610-9654-4806-81d2-8b5673ac6f69",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Hoe je een stageperiode hebt ervaren (OPL).",
+		"id": "bf4236c6-ac97-47f6-9001-df98fd857b0a",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "In het examendossier een stuk met persoonlijk commentaar op een film of een boek (OPL).",
+		"id": "57fe9ada-c3c0-4b5e-ba4b-7539e9d63a13",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een grappig gedicht naar aanleiding van een persoonlijke ervaring (DL, OPL, WE).",
+		"id": "82453243-88a6-4fbb-b75f-7043065ad3fb",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een column voor een krant met een kritische en humoristische blik (DL, PU).",
+		"id": "63ea1289-6e31-47c5-b24f-9eb5d928e41c",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een tekst voor een partnerschool over de eigen woonplaats met de belangrijkste bezienswaardigheden (OPL).",
+		"id": "f6a7c3bb-43bc-4178-9732-8988ff0fa00f",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Naar aanleiding van een interview met een echte of verzonnen persoon (DL).",
+		"id": "9da040c8-c7e7-431c-ab7b-446133325764",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "In het kader van een schrijfwedstrijd, als opdracht voor een Olympiade (DL, OPL).",
+		"id": "9a5961c8-b574-47f6-9913-1ad249d64a00",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een toelichting waarom je het niet eens bent met een idee voor een gezamenlijke activiteit van een partnerschool/-stad en een alternatief (PU, OPL, WE).",
+		"id": "e296068d-10e2-4497-bea9-b0a512a125bb",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een eenvoudig (technisch) rapport waarin voors en tegens van bepaalde producten, diensten of machines worden beschreven en afgewogen (WE).",
+		"id": "8e12c759-8678-4ba1-add9-eb4e60842cdf",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een scriptie of onderzoeksverslag (OPL, WE).",
+		"id": "421e53d7-6bf0-4e6f-a246-50c950362d8e",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"title": "Een betoog waarin je eigen standpunten verwoordt over euthanasie (OPL).",
+		"id": "8dc8cb81-bd32-475a-9345-0252f4942072",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"id": "807dd596-4b50-4883-883f-cfb10842e036",
+		"prefix": "",
+		"title": "Voor voorbeelden zie C1.",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"id": "6c4b60fa-c703-4789-86af-6bf07cf21b47",
+		"prefix": "",
+		"title": "Voor voorbeelden zie C1.",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"id": "5706876a-fdfe-45b0-abe5-682ffabd0e62",
+		"prefix": "",
+		"title": "Voor voorbeelden zie C1.",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"id": "10d31670-66e2-4bb4-97f5-cc0f17ad1730",
+		"prefix": "",
+		"title": "Persoonlijke bevindingen over een serie schrijven op een forum.",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"id": "6e2be288-041c-4fba-b1f1-de8a80274ff0",
+		"prefix": "",
+		"title": "Een recensie over een musical schrijven voor de schoolkrant.",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"id": "7978e53e-1fe6-40da-8931-75601ba2afb7",
+		"prefix": "",
+		"title": "Eenvoudige informatie begrijpen tijdens een rondleiding:\n- door je nieuwe school\n- in de sportschool\n- bij een gastgezin\n- op je werk tijdens je eerste werkdag",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_voorbeeld"
+		]
+	},
+	{
+		"id": "61f196f2-9770-4e17-b71a-9dfe9f8bff26",
+		"prefix": "",
+		"title": "Een stand-up comedian begrijpen.",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_lesidee"
+		]
+	},
+	{
+		"id": "26944ecb-11d3-4065-835b-844fa50756f8",
+		"prefix": "",
+		"title": "Humor in een persiflage begrijpen.",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"erk_lesidee"
+		]
 	}
 ]

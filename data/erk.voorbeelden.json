@@ -1,587 +1,567 @@
 [
 	{
-		"title": "Een kerst-, nieuwjaars- of verjaardagskaart, beterschap (DL).",
-		"id": "653b16d3-e8bb-4ad4-a039-94974f5b96e4"
+		"title": "Een simpele aankoopbevestiging van een product.",
+		"id": "1ff43de2-074a-4519-8e5c-9fdc38d17d59",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een rouwkaart of een geboortekaartje (DL).",
-		"id": "076783f0-c981-47f0-b2e3-6ed96119844b"
+		"title": "Een digitaal bericht met de herinnering voor een tandartsafspraak, met datum, tijd en plaats.",
+		"id": "9fab514a-544f-4eb9-b754-d1c8854953b3",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een uitnodiging voor een (trouw)feest (DL).",
-		"id": "3eae0012-e07e-4329-a1d3-2fcbe88cea96"
+		"title": "Een aankondiging op sociale media voor een concert van je favoriete artiest.",
+		"id": "8c76cda9-cd79-47d5-bf1f-bce3aca977e0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een vakantiekaart (DL).",
-		"id": "9fdd6b92-8490-4f46-9020-969c9ed66995"
+		"title": "Een e-mail met de plaats en tijd voor je volgende sportwedstrijd.",
+		"id": "c2abe5e2-4f79-47a5-b5a1-4fbd2d6a970e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een toegangskaart voor een concert, sportwedstrijd, festival (DL).",
-		"id": "67b161ba-b2da-4b76-916e-cd8479ff354e"
+		"title": "Een kort berichtje van vrienden met het voorstel om komend weekend naar de bioscoop te gaan.",
+		"id": "8c9cb5f5-e80b-4b0f-9207-99737a58ea41",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een bevestiging van aanschaf van een product (DL).",
-		"id": "1ff43de2-074a-4519-8e5c-9fdc38d17d59"
+		"title": "Een bevestiging van een vakantieverblijf per e-mail begrijpen.",
+		"id": "19b23471-3d0b-4134-9d45-c6cbe7d55c0c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een kort bericht (app) met de herinnering voor een afspraak, met datum, tijd en plaats (DL).",
-		"id": "9fab514a-544f-4eb9-b754-d1c8854953b3"
+		"title": "Een bericht van een officiële instantie over een tijdelijk parkeerverbod begrijpen.",
+		"id": "1f5e16c8-c610-48a7-ba3e-4832c9a78471",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een digitaal bericht waarin staat dat de zender er direct aankomt (DL, WE).",
-		"id": "996d7bb7-22e5-4f95-ae84-0375f55cef9a"
+		"title": "De gegevens van een bestelling in een bijlage bij een e-mail begrijpen, bijvoorbeeld voor je nieuwe telefoon, game of kleding.",
+		"id": "36438b6b-6d93-409f-9393-df5d57edbd69",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een ansichtkaart met vakantiegroeten of vakantiegroeten of Facebook (DL).",
-		"id": "8c76cda9-cd79-47d5-bf1f-bce3aca977e0"
+		"title": "Een bericht van een school, instituut of instantie begrijpen dat je bent toegelaten voor een cursus.",
+		"id": "32671bad-f6cc-4fbf-8d94-7f54632813da",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een e-mail met bevestiging van de aankomsttijd van een buitenlandse gast (WE).",
-		"id": "c2abe5e2-4f79-47a5-b5a1-4fbd2d6a970e"
+		"title": "De mening begrijpen van een correspondentiepartner over school of opleiding.",
+		"id": "07ff8c66-25a6-4fe7-917e-83e99957b0c2",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een voorstel om iets te doen, wanneer en waar af te spreken (DL).",
-		"id": "8c9cb5f5-e80b-4b0f-9207-99737a58ea41"
+		"title": "Een bericht van de correspondentiepartner begrijpen over diens eigen toekomstplannen en ambities.",
+		"id": "5a214186-f243-46bd-ba28-85468194b581",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een mededeling over weer en verblijfplaats tijdens de vakantie (DL).",
-		"id": "f4f2039f-b31c-4f85-a1fb-25ca10f5d6c7"
+		"title": "Een verslag van een ingrijpende gebeurtenis en hoe de correspondentiepartner zich erbij voelde begrijpen.",
+		"id": "c8dd2048-c975-462d-8c96-1463e13db9be",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een mededeling over het welbevinden van een correspondentievriend/in (DL).",
-		"id": "c9a53be9-18ce-4922-8011-d42b0e92730e"
+		"title": "Een bevestigingsbrief begrijpen van een bedrijf voor een buitenlandse stage.",
+		"id": "7a3e721e-7009-42ff-8eca-32a664c25e6b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een mededeling met informatie over de school van een correspondentievriend/in (DL).",
-		"id": "5cf2900b-83be-4444-9142-4907026d0dc2"
+		"title": "De juistheid van gemaakte afspraken begrijpen en controleren in een bevestigingsbrief of e-mail, zoals bij het huren van een appartement, een schooluitwisseling, een bedrijfsbezoek.",
+		"id": "8c47660b-7484-4b5a-985b-459d53c3946e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Het maken, bevestigen of verzetten van een afspraak (XX).",
-		"id": "e4f90d37-ec4f-4003-b3b5-ecad2565053c"
+		"title": "Een klacht begrijpen en kunnen inschatten wat er aan de hand is en wat er gedaan moet worden.",
+		"id": "81b828b3-972c-4996-8c21-75c37722bf6e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De bevestiging van een reservering of van een online aankoop (DL).",
-		"id": "a4dec6c3-4d85-4659-81ee-32dab6ab9f72"
+		"title": "Een oproep begrijpen op het internet waarbij ze testpersonen zoeken voor een nieuw parfum.",
+		"id": "ac428ffb-1d4f-491b-97cb-ca0be73cf363",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een bevestiging van een vakantieverblijf per e-mail (DL).",
-		"id": "19b23471-3d0b-4134-9d45-c6cbe7d55c0c"
+		"title": "Vacatures voor internationale vakantiebaantjes op sociale media begrijpen.",
+		"id": "fcef1796-ce7b-4012-bc72-d3daa9e4d19c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een bericht van een officiële instantie over een tijdelijk parkeerverbod dichtbij de camping waar je verblijft (PU).",
-		"id": "1f5e16c8-c610-48a7-ba3e-4832c9a78471"
+		"title": "Een bevestiging begrijpen van de uitwisselingsschool dat de tijdelijke vervoerskaart klaarligt.",
+		"id": "5be8ec6b-77e3-454c-8905-e28390291c07",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een (stage)bedrijf een brief over het opnemen van verlofdagen (OPL, WE).",
-		"id": "ea8ac336-c26d-4da6-a64c-d9a33295d79c"
+		"title": "Een verzoek om informatie begrijpen om vervolgens de juiste gegevens te kunnen verzamelen.",
+		"id": "aeb7d053-8c40-4412-91d9-b1e93bf282e6",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een uitnodiging voor een cursus of vakantiereis (PU, OPL).",
-		"id": "191cf233-f45c-42d5-a908-1fb24b008242"
+		"title": "Een brief begrijpen waarin een buitenlandse vriend of familielid een complex persoonlijk of zakelijk probleem beschrijft.",
+		"id": "2d40c41b-b647-41ca-ab80-ffe4b180c676",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De gegevens van een bestelling of order in een bijlage bij een e-mail (WE).",
-		"id": "36438b6b-6d93-409f-9393-df5d57edbd69"
+		"title": "Een reactie op een klacht of verzoek om schadevergoeding begrijpen.",
+		"id": "b06c5428-6b19-412f-83b1-8d86e82ac4f2",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een bericht van een officiële instantie/school/instituut of bedrijf waar de leerling is toegelaten (OPL, WE).",
-		"id": "32671bad-f6cc-4fbf-8d94-7f54632813da"
+		"title": "Een wervingsbrief voor deelname aan een buitenlandse vakbeurs begrijpen.",
+		"id": "f0cdc59b-df13-4f86-a2ec-676c601ff25a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De beschrijving van een feest (DL).",
-		"id": "c85d62a3-0bd4-4a0c-b1d5-e137fe9bbdc4"
+		"title": "Een antwoord op een brief of e-mail begrijpen met een verzoek om informatie over een toekomstige studie of een onderzoeksprogramma.",
+		"id": "c075ead6-54cc-47a6-b2f7-93c9ecd3ce99",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Informatie over een vriendje of vriendinnetje (DL).",
-		"id": "74dc4cc9-c9a6-4669-90d2-7a88708077d9"
+		"title": "De bevestiging begrijpen van een onderwijsinstantie over het toekennen van studiefinanciering.",
+		"id": "cf1ae937-757b-4c14-9ec5-1aac04e284ba",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Informatie over een hobby (DL, PU).",
-		"id": "1c52325f-b821-4e5a-a0e2-713521b5faff"
+		"title": "Een proces-verbaal van een bekeuring begrijpen.",
+		"id": "fcdbe7e8-dd60-413c-b6f1-532f7f88602c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De mening van de correspondentiepartner over school of opleiding (DL, OPL).",
-		"id": "65f836f8-937d-4cce-b3d4-b02f52edd648"
+		"title": "Een brief van een buitenlandse notaris over een erfenis begrijpen.",
+		"id": "266786f0-09dc-4990-8811-daa4c99d3dd0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De beschrijving van een bijbaantje van de correspondentiepartner (DL, OPL).",
-		"id": "9a1916aa-7001-4e5a-8c99-c7767f93e093"
+		"title": "Een dagvaarding begrijpen.",
+		"id": "db541519-c40f-4e2b-8f8d-99952ff068a9",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De beschrijving van gevoelens of wensen (DL).",
-		"id": "07ff8c66-25a6-4fe7-917e-83e99957b0c2"
+		"title": "Een briefroman begrijpen.",
+		"id": "2e53b2ab-44a4-4520-9c08-148505a92f27",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een verslag van gebeurtenissen (DL).",
-		"id": "5a214186-f243-46bd-ba28-85468194b581"
+		"title": "Een toelichting op de toelichtingscriteria en aanmeldingsprocedures voor studie in het buitenland begrijpen.",
+		"id": "3eab023d-705e-4822-9f0f-ecd03ea3ba6d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een verzoek om mee te doen aan een e-mail-actie ten bate van een maatschappelijk belang (DL).",
-		"id": "c8dd2048-c975-462d-8c96-1463e13db9be"
+		"title": "Ingezonden reacties op online artikelen in kwaliteitskranten of vaktijdschriften met maatschappelijke relevantie begrijpen.",
+		"id": "e4dc4acf-3f74-40bd-bb9b-a1cf81f84e32",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een bevestigingsbrief begrijpen van een bedrijf voor een buitenlandse stage (OPL).",
-		"id": "7a3e721e-7009-42ff-8eca-32a664c25e6b"
+		"title": "Programma van een festival: hoe laat treedt welke band waar op en waar zijn de eetkraampjes?",
+		"id": "eabb8938-394e-4986-82f1-ed1fbb116844",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De juistheid van gemaakte afspraken controleren in een bevestigingsbrief of e-mail, zoals bij het huren van een appartement, een schooluitwisseling, een bedrijfsbezoek (PU, OPL, WE).",
-		"id": "8c47660b-7484-4b5a-985b-459d53c3946e"
+		"title": "Een mededelingenbord in de dierentuin: hoe laat worden de apen gevoerd en kan het publiek hierbij aanwezig zijn?",
+		"id": "91e82d2e-b9a0-411f-b316-6128ae54df60",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Bij een klacht inschatten wat er aan de hand is en wat er gedaan moet worden (WE).",
-		"id": "81b828b3-972c-4996-8c21-75c37722bf6e"
+		"title": "De vertrektijden van de bootdienst naar het eiland.",
+		"id": "5dc7e8b8-7069-4396-87c8-7b4d6fa3bf6c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vaststellen of de introductiebrief van een potentiële partnerschool of nieuwe firma interessant genoeg is om contact op te nemen (OPL, WE).",
-		"id": "ac428ffb-1d4f-491b-97cb-ca0be73cf363"
+		"title": "Met een digitale zoekmachine het dichtstbijzijnde zwembad opzoeken.",
+		"id": "74fd1d13-524e-4bc1-8015-ed5267ee81a0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Bij deelname aan een internationaal project het werkstuk aanpassen op basis van opmerkingen van de buitenlandse partner (OPL).",
-		"id": "fcef1796-ce7b-4012-bc72-d3daa9e4d19c"
+		"title": "Een taalcursus voor gevorderden opzoeken in een brochure of op een website.",
+		"id": "2c125fe4-eb17-46b1-9f29-fcba6444d839",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een bevestiging van de uitwisselingsschool dat de tijdelijke vervoerskaart klaarligt (OPL).",
-		"id": "5be8ec6b-77e3-454c-8905-e28390291c07"
+		"title": "De benodigde bus-/tram-/metro- of treinverbinding opzoeken in het busboekje, een informatiebord of op een app.",
+		"id": "6b94c2b6-31a9-4f17-a0a2-48918a91e5e5",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een verzoek om informatie begrijpen om vervolgens de juiste gegevens te kunnen verzamelen (WE).",
-		"id": "aeb7d053-8c40-4412-91d9-b1e93bf282e6"
+		"title": "Opdrachtbonnen of bestelformulieren in verband met een bestelling nakijken: is je bestelling compleet?",
+		"id": "78f847e7-55d1-48a8-b3a3-9e963bc535a3",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een brief van een buitenlandse vriend of familielid waarin deze een complex persoonlijk of zakelijk probleem beschrijft (DL).",
-		"id": "2d40c41b-b647-41ca-ab80-ffe4b180c676"
+		"title": "Op een eenvoudige menukaart de lekkerste pasta uitzoeken.",
+		"id": "175c423e-f032-46e5-b49f-3141e706d1d7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Ideeën van een correspondentiepartner over vriendschap, relaties, werk, het milieu (DL).",
-		"id": "03d08c93-7bfd-4558-890b-ee6f0917e3b3"
+		"title": "In een toeristische folder een activiteit of bezienswaardigheid uitzoeken voor een dagje uit.",
+		"id": "5f4ac6af-aab7-46b9-a6eb-a5854769679f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een brief over een sportuitwisseling, een gastgezin (DL).",
-		"id": "1a337a51-0f3a-47e5-ad16-b1c22a7ddeb2"
+		"title": "Op een garantiebewijs bij een apparaat opzoeken hoe lang de garantietermijn is.",
+		"id": "dedda0f5-c752-4409-b024-a9a4eeecbdda",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een reactie op een klacht of verzoek om schadevergoeding (DL, WE).",
-		"id": "b06c5428-6b19-412f-83b1-8d86e82ac4f2"
+		"title": "Online voorbeelden van het gebruik van een woord of uitdrukking opzoeken en begrijpen.",
+		"id": "1a2fc4e7-72b7-4feb-8aec-152932d1e95b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een wervingsbrief van een buitenlandse beurs voor deelname aan een vakbeurs (WE).",
-		"id": "f0cdc59b-df13-4f86-a2ec-676c601ff25a"
+		"title": "In een eenvoudig woordenboek de juiste betekenis passend bij de context opzoeken.",
+		"id": "466d56dc-c672-4bb6-8ca6-002c64e73128",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een antwoord op een brief of e-mail met een verzoek om informatie over een toekomstige studie of een onderzoeksprogramma (OPL, WE).",
-		"id": "c075ead6-54cc-47a6-b2f7-93c9ecd3ce99"
+		"title": "Advertenties voor een voorstelling, evenement of excursie begrijpen, zoals bijvoorbeeld wat, waar, wanneer, prijs.",
+		"id": "a133d9d4-bae3-4d21-a449-090739f576ba",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De bevestiging van een onderwijsinstantie over het toekennen van studiefinanciering (OPL).",
-		"id": "cf1ae937-757b-4c14-9ec5-1aac04e284ba"
+		"title": "Advertenties voor sportartikelen, kleding, elektronica, meubels, keukenspullen begrijpen: wat wordt er verkocht, hoeveel kost het, waar kun je het kopen.",
+		"id": "9e800ef2-a906-481c-ac98-a0b8036eb9a5",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een proces-verbaal van een bekeuring wegens te hard rijden (PU).",
-		"id": "fcdbe7e8-dd60-413c-b6f1-532f7f88602c"
+		"title": "Aanwijzingen op een strand, bijvoorbeeld zwemmen toegestaan bij groene vlag, niet lopen in de duinen, honden mogen los tussen datum x en y.",
+		"id": "e2325368-a04a-45b3-92a6-12d23b92b87c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een recensie in een wetenschappelijk tijdschrift (OPL, DL).",
-		"id": "5a52cd71-61d7-4598-9c93-ff07f7956c64"
+		"title": "Routeaanwijzingen bij een verkeersomleiding kunnen volgen, bijvoorbeeld volg de P-route.",
+		"id": "371432b5-14a0-42c3-8fba-527172bea38b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een brief van een buitenlandse notaris over een erfenis (DL).",
-		"id": "266786f0-09dc-4990-8811-daa4c99d3dd0"
+		"title": "Informatieborden op de weg of snelweg begrijpen: filegevaar, wegwerkzaamheden, omleidingen, volgende tankstation over 25 km.",
+		"id": "6dcf2b4c-6692-49f4-abde-77adcfe0003e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een dagvaarding (DL).",
-		"id": "db541519-c40f-4e2b-8f8d-99952ff068a9"
+		"title": "Informatieborden in een VVV-kantoor, bank, museum, toeristische attracties, bijvoorbeeld: deze balie gaat sluiten, wachttijd 10 minuten.",
+		"id": "486008b7-c114-47e9-968f-da9527ebb1ef",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een roman in briefvorm (DL, OPL).",
-		"id": "2e53b2ab-44a4-4520-9c08-148505a92f27"
+		"title": "Informatieborden op een station of luchthaven, bijvoorbeeld: heeft een vlucht vertraging, is de trein gecanceld?",
+		"id": "0e513afd-43eb-4db3-9b6e-e24365543bc2",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een toelichting op de toelichtingscriteria en aanmeldingsprocedures voor studie in het buitenland (OPL).",
-		"id": "3eab023d-705e-4822-9f0f-ecd03ea3ba6d"
+		"title": "Waarschuwingsborden op een bouwplaats als: niet betreden, melden bij de uitvoerder.",
+		"id": "99223dcd-7bb7-48b2-9d23-4e919a92be6e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Ingezonden reacties op online artikelen in kwaliteitskranten of vaktijdschriften met maatschappelijke relevantie (DL, OPL).",
-		"id": "e4dc4acf-3f74-40bd-bb9b-a1cf81f84e32"
+		"title": "Een folder over de voorzieningen van een camping of een hotel.",
+		"id": "be415708-8f2a-41b3-b064-20c3357ddcea",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Programma, tijdstip en prijs van een evenement (PU).",
-		"id": "eabb8938-394e-4986-82f1-ed1fbb116844"
+		"title": "Een informatiefolder over een reis of studie in het buitenland.",
+		"id": "e2dbe0d8-e306-4943-9bb0-d3f6e66f6246",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Plaats, data en toegangstijden bij een tentoonstelling of bezienswaardigheid (DL).",
-		"id": "577c4670-c852-4b50-b721-85db0dd1710d"
+		"title": "Een huurcontract voor een kamer in een studentenflat.",
+		"id": "af7455e7-196f-4b2d-a036-ae9a35add72d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Plaats en tijdstip van een evenement op de camping (DL).",
-		"id": "e4798324-da10-4744-9770-be0b44e6636d"
+		"title": "Een overzicht met regels voor een tijdelijke werkvergunning.",
+		"id": "1f8d5bc6-5b67-4d71-81fd-7a57bed1c4f9",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een poster met de beschrijving van een verdwaald huisdier (DL).",
-		"id": "91e82d2e-b9a0-411f-b316-6128ae54df60"
+		"title": "De voorwaarden bij het huren van een scooter, bromfiets, auto.",
+		"id": "8d3207e8-5866-433d-9114-60bdd6269ceb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De plattegrond van een winkelcentrum (PU).",
-		"id": "e3456db9-4ea1-487e-8e30-c180d1dec596"
+		"title": "Relevante arbeidsvoorwaarden van een (stage)bedrijf zoals vakantie, opzegtermijn, onkostenvergoeding.",
+		"id": "d24b0a4d-9a75-4b88-b979-6819351e118b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vertrektijden op het vliegveld (PU).",
-		"id": "5dc7e8b8-7069-4396-87c8-7b4d6fa3bf6c"
+		"title": "Standaardoffertes.",
+		"id": "3f56928d-df79-42e9-92b2-976dc28be165",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Eenvoudige gerechten op een menukaart (DL).",
-		"id": "74fd1d13-524e-4bc1-8015-ed5267ee81a0"
+		"title": "Een aantal websites snel doorlezen om informatie te vinden voor een werkstuk.",
+		"id": "03aea529-cd3d-4190-a732-968aa907c2ce",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Het bestelnummer of de prijs van een bekend artikel in een catalogus (DL, WE).",
-		"id": "2c125fe4-eb17-46b1-9f29-fcba6444d839"
+		"title": "Tijdschriften rond een bepaald thema snel doorlezen om informatie te vinden over bijvoorbeeld een nieuw computerspel of gezonde leefstijl voor sporters.",
+		"id": "cada4c21-e512-4b9d-8f0b-905bda42a4ab",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Afdelingen van een warenhuis op een informatiebord (DL).",
-		"id": "6b94c2b6-31a9-4f17-a0a2-48918a91e5e5"
+		"title": "Websites van bedrijven snel doorlezen om een overzicht te maken van mogelijke stageplekken of banen.",
+		"id": "7915d54c-5658-4fcc-b4e4-e09a39c86a60",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Plaats- en straatnamen in een dienstregeling van het openbaar vervoer (DL).",
-		"id": "78f847e7-55d1-48a8-b3a3-9e963bc535a3"
+		"title": "Een regionale krant snel doorlezen om culturele activiteiten te vinden, die je het komend weekend kunt ondernemen.",
+		"id": "6e6befed-72c9-4934-bff0-9aa64c1d0c34",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een aanbieding in een folder van een supermarkt (DL).",
-		"id": "175c423e-f032-46e5-b49f-3141e706d1d7"
+		"title": "Overgangsnormen in een reglement van de (partner)school.",
+		"id": "acb7a7d9-9de7-4187-89be-3b7ac9baf199",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een artikel op een kassabon om de prijs te controleren (DL).",
-		"id": "84f2cfd4-c5a4-4b61-abb3-bb606bf0e134"
+		"title": "Bekostigingsvoorwaarden in een beschrijving van een uitwisselingsprogramma in het buitenland.",
+		"id": "740ee0d9-38d3-4ddc-853c-4d0715a0fdd1",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De openingstijden van een winkel of instelling in een overzicht (DL).",
-		"id": "2cf731c2-427c-44d7-8bf8-7a70f4a3ec5d"
+		"title": "De juiste aanwijzing in een helpprogramma bij een computerprobleem.",
+		"id": "705d8a6e-b190-4fe7-bf7b-e456fc11104f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vertrektijden in een reisschema (DL).",
-		"id": "b02ccc75-7919-4694-b8b1-565d41d54669"
+		"title": "Marktinformatie over een bepaald product.",
+		"id": "b21ef640-437a-4e2e-a23d-bfbfe5fb0a63",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Het telefoonnummer van een dokter in een hotelgids of campinginformatie (DL).",
-		"id": "d343b4dd-fa17-4b49-9315-ae1d44830ef6"
+		"title": "Wikipedia-lemma's.",
+		"id": "81315041-54da-4c02-b455-e0f976923ec0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een toeristische folder een activiteit of bezienswaardigheid uitzoeken voor een dagje uit (DL).",
-		"id": "5f4ac6af-aab7-46b9-a6eb-a5854769679f"
+		"title": "Artikelen in een landelijke kwaliteitskrant, opinieblad of op internet.",
+		"id": "9c92be39-da37-4f4a-8a94-e916d6509837",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Op een garantiebewijs bij een apparaat opzoeken hoe lang de garantietermijn is (DL).",
-		"id": "dedda0f5-c752-4409-b024-a9a4eeecbdda"
+		"title": "Een lijst met publicaties op eigen vak- of interessegebied, opgeleverd door een zoekmachine.",
+		"id": "15e186ab-6bb2-4aa9-8a26-604757716745",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In het overzicht van huisregels van een hostel opzoeken hoe laat het stil moet zijn (OPL, WE).",
-		"id": "dbcb8d93-51e8-4c61-9b32-94df164a30b5"
+		"title": "Berichten in een internetnieuwsgroep.",
+		"id": "232dbb93-01b4-45d6-9989-7489e33cd92e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Online voorbeelden van het gebruik van een woord of uitdrukking opzoeken (OPL).",
-		"id": "1a2fc4e7-72b7-4feb-8aec-152932d1e95b"
+		"title": "Passages in een studieboek of een onderzoeksverslag bij het voorbereiden van een toets of profielwerkstuk.",
+		"id": "6bf41c92-f1c7-4844-bba7-ea2b721c5dd0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De goede betekenis van een woord opzoeken in een eenvoudig woordenboek (OPL).",
-		"id": "6ee3c3c5-1313-4917-88ab-1f76d10c3c09"
+		"title": "Boodschap en intenties in politieke reclames begrijpen.",
+		"id": "4b18f7c3-7773-4c69-ab9e-bedfc5bdbb54",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Voor een voorstelling, evenement, excursie (DL).",
-		"id": "466d56dc-c672-4bb6-8ca6-002c64e73128"
+		"title": "De inhoud van een initiatief in de promotie van activiteiten van culturele instellingen begrijpen.",
+		"id": "c754bae8-8f8a-46fb-8ef3-0eb441931aef",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Voor (tweedehands) sportartikelen, kleding, electronica, meubels, keukenspullen (DL).",
-		"id": "a133d9d4-bae3-4d21-a449-090739f576ba"
+		"title": "Een zeer eenvoudige beschrijving begrijpen van een activiteit op een vakantiepark.",
+		"id": "f59887ef-08e8-4772-8d32-3adb5ca16207",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Personeelsadvertenties voor een (vakantie)baan of stageplek (OPL, WE).",
-		"id": "9e800ef2-a906-481c-ac98-a0b8036eb9a5"
+		"title": "Een geïllustreerd weerbericht begrijpen.",
+		"id": "1175cd54-6757-4be0-90bd-e67cc13d087c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aanwijzingen op een strand al: zwemmen toegestaan als de groene vlag gehesen is (PU).",
-		"id": "e2325368-a04a-45b3-92a6-12d23b92b87c"
+		"title": "Persoonlijke informatie begrijpen bij het portret van een idool, ondersteund met afbeeldingen.",
+		"id": "27f4b6c3-9247-4264-a395-6a36bdf7a68c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Routeaanwijzingen bij een verkeersomleiding (PU).",
-		"id": "371432b5-14a0-42c3-8fba-527172bea38b"
+		"title": "Een overzicht van de sportuitslagen in de krant of op een website lezen.",
+		"id": "89ee25fe-69d2-4146-85c7-853ae0e8df8b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Informatieborden op de weg of snelweg (PU).",
-		"id": "6dcf2b4c-6692-49f4-abde-77adcfe0003e"
+		"title": "Een artikel over het dagelijks leven van jongeren in verschillende landen.",
+		"id": "c254c1af-4924-4d24-a98c-50dfb4d16f21",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Informatieborden in een VVV-kantoor, bank, museum, toeristische attracties (PU).",
-		"id": "486008b7-c114-47e9-968f-da9527ebb1ef"
+		"title": "Een artikel over hoe in een bepaalde cultuur verjaardagen worden gevierd.",
+		"id": "99e7fd32-5578-4239-919c-31232f5a8e0d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Informatieborden op een station of luchthaven (PU).",
-		"id": "0e513afd-43eb-4db3-9b6e-e24365543bc2"
+		"title": "Een beschrijving van een jaarlijks cultureel festival.",
+		"id": "aa27f6fb-0566-42f4-ba54-3372a7c54755",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Waarschuwingsborden op een bouwplaats als: niet betreden, melden bij de uitvoerder (PU, WE).",
-		"id": "99223dcd-7bb7-48b2-9d23-4e919a92be6e"
+		"title": "De hoofdlijnen in korte nieuwsberichten over hobby's of vrijetijdsbesteding, mode en gezondheid, (huis)dieren, sport en sportwedstrijden, bekende sterren, artiesten, acteurs, influencers, feesten en vieringen.\n",
+		"id": "fd19de6d-6a17-4073-904c-2556217349b5",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een folder over de voorzieningen van een camping of een hotel (DL).",
-		"id": "be415708-8f2a-41b3-b064-20c3357ddcea"
+		"title": "In een krantenartikel het ‘wie-wat-waar’ herkennen over een overval, een ongeluk, een rel.",
+		"id": "83fdd003-a6bd-4d8f-9bf6-b3a126f0753d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een brochure van een pretpark (DL).",
-		"id": "e2dbe0d8-e306-4943-9bb0-d3f6e66f6246"
+		"title": "De hoofdlijnen uit artikelen en berichten op een nieuwssite herkennen, die gaan over vertrouwde onderwerpen zoals sport of muziek.",
+		"id": "c62ea0ff-0ddd-4c44-8ffc-06dc26f0208b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een informatiefolder over een reis of studie in het buitenland (DL, OPL).",
-		"id": "af7455e7-196f-4b2d-a036-ae9a35add72d"
+		"title": "Informatie over producten, materialen, apparaten uit het eigen vakgebied.",
+		"id": "303424fb-7d14-4f79-8962-cd86f8e1f603",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een huurcontract voor een kamer in een studentenflat (DL).",
-		"id": "6ada7482-2f65-4438-9367-fc53e374001a"
+		"title": "Biografische informatie over een kunstenaar, schrijver, sporter in een tijdschrift of op een website.",
+		"id": "7ead643a-e991-45cd-8f1d-cb304369525c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een overzicht van regels voor een tijdelijke werkvergunning (WE).",
-		"id": "1f8d5bc6-5b67-4d71-81fd-7a57bed1c4f9"
+		"title": "Een verslag van een werkbespreking of projectgroep vergadering.",
+		"id": "1cebdbe2-fc1a-48c0-a6b1-60f1bfd54fee",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Voorwaarden bij het huren van een scooter, bromfiets, auto (PU).",
-		"id": "8d3207e8-5866-433d-9114-60bdd6269ceb"
+		"title": "Eenvoudig voorlichtingsmateriaal van overheden of onderwijsinstellingen.",
+		"id": "11bbdd2f-13cc-4b13-9b19-e0b164306090",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een toelichting bij een boete (PU).",
-		"id": "a6b3fe85-c552-430c-8b62-edac519fa608"
+		"title": "Een verklarende tekst bij tabellen, grafieken, schema's.",
+		"id": "0bdd57a4-4c8b-4b92-b9b7-b3ca41d61478",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een overzicht van arbeidsvoorwaarden van een (stage)bedrijf als: vakantie, opzegtermijn, onkostenvergoeding (WE, OPL).",
-		"id": "d24b0a4d-9a75-4b88-b979-6819351e118b"
+		"title": "Achtergrondinformatie bij een presentatie, een museum of op een vakbeurs.",
+		"id": "54a3a018-4f5e-4947-a0c0-de4f00809308",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Standaardoffertes (WE).",
-		"id": "3f56928d-df79-42e9-92b2-976dc28be165"
+		"title": "De ondertiteling van een film of nieuws.",
+		"id": "116c67f4-c61c-4ebb-9d43-38c1c63caf19",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een aantal websites informatie zoeken voor een werkstuk (OPL).",
-		"id": "03aea529-cd3d-4190-a732-968aa907c2ce"
+		"title": "De ondertiteling bij een liedje.",
+		"id": "92fca2fe-4587-4c26-a847-c32cbf5176d5",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een tijdschrift informatie zoeken over een nieuw computerspel, over een gezonde leefstijl voor sporters, relaties (DL).",
-		"id": "cada4c21-e512-4b9d-8f0b-905bda42a4ab"
+		"title": "Een krantenartikel over het nu van strenge veiligheidsmaatregelen bij voetbalwedstrijden.",
+		"id": "6e546731-69b7-4204-8784-fb76aeadfca5",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aan de hand van websites van bedrijven een stageplek of baan zoeken (OPL, WE).",
-		"id": "7915d54c-5658-4fcc-b4e4-e09a39c86a60"
+		"title": "Een column in een krant of tijdschrift.",
+		"id": "59f2ef73-b494-4b1f-b481-67b6513a7581",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een regionale krant recensies zoeken over culturele activiteiten (DL).",
-		"id": "6e6befed-72c9-4934-bff0-9aa64c1d0c34"
+		"title": "Reacties op online artikelen over maatschappelijk relevante thema's.",
+		"id": "eebe2a40-dbd6-42ac-92fc-cdc5b5f08933",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Fraudebepalingen in een examenreglement (OPL).",
-		"id": "acb7a7d9-9de7-4187-89be-3b7ac9baf199"
-	},
-	{
-		"title": "Bekostigingsvoorwaarden in een beschrijving van een uitwisselingsprogramma in het buitenland (OPL).",
-		"id": "740ee0d9-38d3-4ddc-853c-4d0715a0fdd1"
-	},
-	{
-		"title": "De juiste aanwijzing in een helpprogramma bij een computerprobleem (XX).",
-		"id": "705d8a6e-b190-4fe7-bf7b-e456fc11104f"
-	},
-	{
-		"title": "Marktinformatie over een bepaald product (OPL, WE).",
-		"id": "b21ef640-437a-4e2e-a23d-bfbfe5fb0a63"
-	},
-	{
-		"title": "Kranten- of tijdschriftartikelen (DL, OPL).",
-		"id": "d5ac6cb6-87b3-4016-9719-514be79715ae"
-	},
-	{
-		"title": "Blogs (DL).",
-		"id": "bc254b3b-8b68-48d0-8702-00e8a266e369"
-	},
-	{
-		"title": "Buitenlandse Wikipedia-lemma's (OPL, WE, DL).",
-		"id": "81315041-54da-4c02-b455-e0f976923ec0"
-	},
-	{
-		"title": "Studieteksten (OPL).",
-		"id": "6d012f8f-e682-463c-a6ea-15e0b1a9b704"
-	},
-	{
-		"title": "Artikelen in een krant of informatie op internet voor het maken van een werkstuk (OPL).",
-		"id": "9c92be39-da37-4f4a-8a94-e916d6509837"
-	},
-	{
-		"title": "Een lijst met publicaties op eigen vak- of interessegebied, opgeleverd door een zoekmachine (DL, OPL, WE).",
-		"id": "15e186ab-6bb2-4aa9-8a26-604757716745"
-	},
-	{
-		"title": "Berichten in een internetnieuwsgroep op eigen vak- of interessegebied (DL, OPL, WE).",
-		"id": "232dbb93-01b4-45d6-9989-7489e33cd92e"
-	},
-	{
-		"title": "Passages in een studieboek bij het voorbereiden van een toets of profielwerkstuk (OPL).",
-		"id": "6bf41c92-f1c7-4844-bba7-ea2b721c5dd0"
-	},
-	{
-		"title": "Onderzoeksverslagen over een bestudeerd onderwerp (OPL, WE).",
-		"id": "5179f15f-8d6a-49c9-8036-c7d6996a7b53"
-	},
-	{
-		"title": "Artikelen over onderwerpen van algemeen belang in een landelijke kwaliteitskrant of opinieblad (DL, OPL, WE).",
-		"id": "25d04b97-7bb5-4e79-99e3-5462cc32bf7d"
-	},
-	{
-		"title": "Het aanbod van woningen, met veel afkortingen en specifieke begrippen (DL).",
-		"id": "4b18f7c3-7773-4c69-ab9e-bedfc5bdbb54"
-	},
-	{
-		"title": "Vacatures voor meer complexe functies op het eigen vakgebied (WE).",
-		"id": "c754bae8-8f8a-46fb-8ef3-0eb441931aef"
-	},
-	{
-		"title": "Een eenvoudig stripverhaal in een jongerentijdschrift (DL).",
-		"id": "f59887ef-08e8-4772-8d32-3adb5ca16207"
-	},
-	{
-		"title": "Een zeer eenvoudige beschrijving van een (taal)cursus in een folder (OPL).",
-		"id": "1175cd54-6757-4be0-90bd-e67cc13d087c"
-	},
-	{
-		"title": "Een kort geïllustreerd weerbericht (DL).",
-		"id": "11952988-9ed4-4cbb-9bdf-81bed6aaed6e"
-	},
-	{
-		"title": "Een nieuwssite voor jongeren (DL, OPL).",
-		"id": "27f4b6c3-9247-4264-a395-6a36bdf7a68c"
-	},
-	{
-		"title": "De woorden op de menubalk (inhoud) van een online jeugdtijdschrift (DL).",
-		"id": "89ee25fe-69d2-4146-85c7-853ae0e8df8b"
-	},
-	{
-		"title": "Een persoonlijk profiel op sociale media, bijvoorbeeld Facebook (DL, OPL).",
-		"id": "c254c1af-4924-4d24-a98c-50dfb4d16f21"
-	},
-	{
-		"title": "Een programma voor een excursie of zomercursus (DL, WE, OPL).",
-		"id": "99e7fd32-5578-4239-919c-31232f5a8e0d"
-	},
-	{
-		"title": "Een kort verslag van een bijeenkomst of gebeurtenis (XX).",
-		"id": "aa27f6fb-0566-42f4-ba54-3372a7c54755"
-	},
-	{
-		"title": "Over een hobby of vrijetijdsbesteding (DL).",
-		"id": "436d1553-fd98-4b67-bec2-456bbedb41d3"
-	},
-	{
-		"title": "Over mode en lichaamsverzorging (DL).",
-		"id": "0119e538-5b17-4346-9fad-6b916911c563"
-	},
-	{
-		"title": "Over (huis)dieren (DL).",
-		"id": "3a45cb6f-8469-4bce-8d7f-3227270348d5"
-	},
-	{
-		"title": "Een interview met leden van een bekende band in een jongerentijdschrift (DL).",
-		"id": "5e1eda78-c695-4d4e-ade1-d1c06a235c3b"
-	},
-	{
-		"title": "Een aan het taalniveau van de leerder aangepast kort verhaal ('graded reader') (OPL).",
-		"id": "f1494a03-56fd-4593-9051-3838007611ab"
-	},
-	{
-		"title": "Korte artikeltjes over actuele onderwerpen, zoals sport, dorpsfeesten, politieberichten, in een plaatselijke krant (DL).",
-		"id": "fd19de6d-6a17-4073-904c-2556217349b5"
-	},
-	{
-		"title": "Een artikel in een populaire en/of regionale krant over actualiteit, hobby of sport (DL).",
-		"id": "8db93a28-fdc8-4459-ab8f-6fe41f275532"
-	},
-	{
-		"title": "Een artikel in een muziekblad over de opkomst van een nieuwe popgroep (DL).",
-		"id": "1bd6dadb-6f89-475e-b254-f8bcca32a387"
-	},
-	{
-		"title": "Artikelen over onderwerpen op het eigen interesseterrein in populairwetenschappelijke tijdschriften voor de jeugd (DL, OPL).",
-		"id": "3c8723a5-2391-45b3-bdee-974827a5c8ba"
-	},
-	{
-		"title": "Een artikel in een jongerentijdschrift over veilig vrijen (DL, OPL).",
-		"id": "ed205914-8601-4f6d-9675-f092ef0cb988"
-	},
-	{
-		"title": "Websites over reizen of studie in het buitenland (DL, OPL).",
-		"id": "1eb50595-2fc5-4a8a-84f7-789d90f65d5f"
-	},
-	{
-		"title": "Het 'wie-wat-waar' in krantenartikelen over een overval, een ongeluk, een rel (DL).",
-		"id": "83fdd003-a6bd-4d8f-9bf6-b3a126f0753d"
-	},
-	{
-		"title": "Nieuws op teletekst (DL).",
-		"id": "c62ea0ff-0ddd-4c44-8ffc-06dc26f0208b"
-	},
-	{
-		"title": "Informatie over producten, materialen apparaten uit technische rapporten op het eigen vakterrein (OPL, WE).",
-		"id": "303424fb-7d14-4f79-8962-cd86f8e1f603"
-	},
-	{
-		"title": "Biografische informatie over een kunstenaar, schrijver, sportman/vrouw in een tijdschrift of op een website (DL, OPL).",
-		"id": "7ead643a-e991-45cd-8f1d-cb304369525c"
-	},
-	{
-		"title": "Een verslag van een werkbespreking of projectgroepvergadering (OPL, WE).",
-		"id": "1cebdbe2-fc1a-48c0-a6b1-60f1bfd54fee"
-	},
-	{
-		"title": "Eenvoudige voorlichtingsmateriaal van overheden of onderwijsinstellingen (PU, OPL).",
-		"id": "11bbdd2f-13cc-4b13-9b19-e0b164306090"
-	},
-	{
-		"title": "Een verklarende tekst bij tabellen, grafieken, schema's (OPL, WE).",
-		"id": "0bdd57a4-4c8b-4b92-b9b7-b3ca41d61478"
-	},
-	{
-		"title": "Achtergrondinformatie uitgereikt bij een presentatie of op een vakbeurs (WE).",
-		"id": "54a3a018-4f5e-4947-a0c0-de4f00809308"
-	},
-	{
-		"title": "De ondertiteling van een eenvoudige film, soap of tv-programma (DL, PU).",
-		"id": "116c67f4-c61c-4ebb-9d43-38c1c63caf19"
-	},
-	{
-		"title": "De ondertiteling van het nieuws (DL).",
-		"id": "f45bb222-c44a-4d59-9acf-f29651552667"
-	},
-	{
-		"title": "Beknopte teksten op dia's van een PowerPointpresentatie over een alledaags onderwerp, zoals een vakantiebestemming (OPL).",
-		"id": "4062d7d1-e5e0-40c4-ae0d-a9820eeb467a"
-	},
-	{
-		"title": "De teksten van liedjes (karaoke) (DL).",
-		"id": "92fca2fe-4587-4c26-a847-c32cbf5176d5"
-	},
-	{
-		"title": "Artikelen over een milieuvraagstuk als input voor een profielwerkstuk (OPL).",
-		"id": "d348e4ed-a831-4b02-9164-828709fcfd81"
-	},
-	{
-		"title": "Een krantenartikel over het nu van strenge veiligheidsmaatregelen bij voetbalwedstrijden (OPL).",
-		"id": "6e546731-69b7-4204-8784-fb76aeadfca5"
-	},
-	{
-		"title": "Een recensie van een boek, film of theatervoorstelling (DL).",
-		"id": "deef063c-86bb-4b5a-9f0c-62690be81d36"
-	},
-	{
-		"title": "Een column in een krant of tijdschrift (DL).",
-		"id": "59f2ef73-b494-4b1f-b481-67b6513a7581"
-	},
-	{
-		"title": "Reacties op online artikelen over maatschappelijk relevane thema's (DL).",
-		"id": "eebe2a40-dbd6-42ac-92fc-cdc5b5f08933"
-	},
-	{
-		"title": "Reacties van mensen op een foto, artikel of video op sociale media met betrekking tot sociale en actuele vraagstukken (DL).",
-		"id": "0a770473-2abe-4355-bf61-6eb9bc1cedb2"
+		"title": "Reacties van mensen op een foto, artikel of video op sociale media met betrekking tot sociale en actuele vraagstukken.",
+		"id": "0a770473-2abe-4355-bf61-6eb9bc1cedb2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een stelling op een krantensite met de diverse reacties (DL).",
@@ -592,808 +572,730 @@
 		"id": "597a4ca7-1739-4c1c-91fd-2053f8b1b4b3"
 	},
 	{
-		"title": "Materiaal voor een eigen onderzoeksproject (OPL).",
-		"id": "687336f6-ac20-454e-92d1-b3316174f54f"
+		"title": "Materiaal voor een eigen onderzoeksproject, het profielwerkstuk of het honoursprogramma van de school.",
+		"id": "687336f6-ac20-454e-92d1-b3316174f54f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Materiaal voor het profielwerkstuk of het Honoursprogramma van de school (OPL).",
-		"id": "d6401815-3fc0-4d45-a7a3-83c3e251e577"
+		"title": "Verslag van een trainersoverleg in een sportcontext.",
+		"id": "5ac27c99-3693-4475-a3af-7c5dc6898ccb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Verslag van een trainersoverleg in een sportcomplex (OPL, WE).",
-		"id": "5ac27c99-3693-4475-a3af-7c5dc6898ccb"
+		"title": "Een beleidsstuk op de stageplek.",
+		"id": "8ceee6d0-7327-4ba2-b820-162efc799072",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Verslagen van een afdelingsoverleg of de ondernemingsraad (WE).",
-		"id": "8ceee6d0-7327-4ba2-b820-162efc799072"
+		"title": "De conclusies van een onderzoek over de consequenties van de aanleg van een snelweg door een natuurgebied.",
+		"id": "433ca510-fb02-44c9-b77f-f742bb3f9256",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Relevante informatie via Twitter volgen (XX).",
-		"id": "d3d60235-4e35-4ee0-b0cb-bf6d1e115502"
+		"title": "Een studieboek over een nieuw onderwerp.",
+		"id": "23e2ed19-710b-4805-b4e7-f7a6c30628c2",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De conclusie van een onderzoek over de consequenties van de aanleg van een snelweg door een natuurgebied (PU, OPL).",
-		"id": "433ca510-fb02-44c9-b77f-f742bb3f9256"
+		"title": "Historische informatie over een stad of bouwwerk.",
+		"id": "4f527343-a748-47d2-99ef-105d89a454cb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Het advies van een extern bureau over het personeelsbeleid van een bedrijf of over de onvrede van de buurt door geluidsoverlast of verkeershinder (PU, OPL).",
-		"id": "740d2bae-0b01-407d-be92-56aceace27a4"
+		"title": "Populair wetenschappelijke artikelen over een maatschappelijk relevant probleem.",
+		"id": "63edbb27-328e-4bf5-a732-88e195aa835e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een studieboek op een nieuw vakterrein (OPL, WE).",
-		"id": "23e2ed19-710b-4805-b4e7-f7a6c30628c2"
+		"title": "Vak- en wetenschappelijke literatuur lezen en de standpunten van de auteurs met elkaar vergelijken.",
+		"id": "fbbecd60-6704-4e80-b757-e85baf74b78c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Historische informatie over een stad of bouwwerk (DL, OPL).",
-		"id": "4f527343-a748-47d2-99ef-105d89a454cb"
+		"title": "Non-fictie boeken over maatschappelijke kwesties doorgronden.",
+		"id": "2e246ec0-6063-47fc-ba4d-cfc1555baa97",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Populair wetenschappelijke artikelen over een maatschappelijk relevant probleem (DL).",
-		"id": "63edbb27-328e-4bf5-a732-88e195aa835e"
+		"title": "Houdingen van de schrijvers van artikelen in kwaliteitskranten of tijdschriften herkennen.",
+		"id": "49e7f1f2-aba0-4c30-9fb2-dfcd24605193",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vak- en wetenschappelijke literatuur op het eigen vakterrein (OPL, WE).",
-		"id": "fbbecd60-6704-4e80-b757-e85baf74b78c"
+		"title": "(Verbods-)borden en waarschuwingen in het verkeer begrijpen: stop, niet parkeren, omleiding. ",
+		"id": "f570ffe3-0e88-4c1f-beba-5de36442d9ce",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vakliteratuur buiten het eigen vak- of interessegebied (DL, OPL, WE).",
-		"id": "2e246ec0-6063-47fc-ba4d-cfc1555baa97"
+		"title": "Borden in de dierentuin begrijpen: niet voeren, let op je tas, blijf op de paden.",
+		"id": "fb5e7b50-e770-4fed-9aa8-60f07fc793a2",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Artikelen in wetenschappelijke bijlagen van kranten of tijdschriften (DL).",
-		"id": "49e7f1f2-aba0-4c30-9fb2-dfcd24605193"
+		"title": "Instructies in de publieke ruimte begrijpen: niet eten of drinken, niet roken, wc defect.",
+		"id": "e01af722-641a-47b2-970c-159b6a1f1f9c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Kan zeer eenvoudige, korte en goed gestructureerde instructies begrijpen.",
-		"id": "33095535-9507-468b-ba19-1423c641224b"
+		"title": "Eenvoudige instructies op het scherm van een computer of smartphone begrijpen: downloaden, printen.",
+		"id": "b4dd5edd-673b-45f2-b2cc-e576f5988bfe",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een zeer korte routebeschrijving als: rechtdoor en dan links (DL).",
-		"id": "769a5a53-3c1f-4886-b326-9e8c34c48910"
+		"title": "De bereidingswijze begrijpen op verpakkingen van voedingsmiddelen.",
+		"id": "8b768a33-ac68-42fa-9db8-b4c7cfc78ada",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De bewegwijzering in een groot gebouw (PU, OPL, WE).",
-		"id": "b8870240-a5de-4702-80d2-0962366f32fb"
+		"title": "Instructies begrijpen in een lift: wat te doen in geval van nood.",
+		"id": "3ea0d028-311c-47a6-a54c-63dc6084204a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De vluchtroute in een hotelkamer (PU).",
-		"id": "f570ffe3-0e88-4c1f-beba-5de36442d9ce"
+		"title": "Instructies begrijpen bij het kopen van online tickets, bijvoorbeeld voor evenementen, musea, popconcerten.",
+		"id": "c9f0d8f2-7916-4c84-b46a-ab4c70e98070",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Eenvoudige instructies voor een activiteit in een pretpark of toeristische attractie (DL, PU).",
-		"id": "fb5e7b50-e770-4fed-9aa8-60f07fc793a2"
+		"title": "Instructies begrijpen bij het kopen van online vliegtickets en het online inchecken.",
+		"id": "c6452fdf-84af-466d-9e2d-d07d788a482c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Opschriften op stickers van medicijnen als: 3x per dag met water innemen, tijdens de maaltijd (DE).",
-		"id": "e01af722-641a-47b2-970c-159b6a1f1f9c"
+		"title": "Instructies begrijpen bij een sport of spel.",
+		"id": "cd887937-aa71-4bce-a0ef-6109db6da72a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Instructies bij lesmateriaal als: vul in, kruis aan, luister naar de tekst, print deze oefening (OPL).",
-		"id": "b4dd5edd-673b-45f2-b2cc-e576f5988bfe"
+		"title": "Veiligheidsvoorschriften in een vliegtuig, bij het betreden van een pretpark, sporthal of op de werkplek.",
+		"id": "e7d0e825-5d51-4239-9c5f-b6922adbbf3e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De bereidingswijze op verpakkingen van voedingsmiddelen (DL).",
-		"id": "8b768a33-ac68-42fa-9db8-b4c7cfc78ada"
+		"title": "Foutmeldingen in computer- en e-mailprogramma's.",
+		"id": "6af67f99-2f85-4730-b2b5-6450e341e991",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een verkorte instructie voor een nieuwe mobiele telefoon (DL).",
-		"id": "307c4005-edd9-4729-8f7d-c38b8069e662"
+		"title": "Gedragsregels in een museum.",
+		"id": "0b0f2a76-4a37-4f63-af37-fec2a9b005f5",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Instructies op apparaten als een telefooncel, geldautomaat, automaat voor bus- en treinkaartjes (PU).",
-		"id": "fdaeb597-a1e6-40a5-8549-a4f0bba7e788"
+		"title": "Voorschriften in openbare gebouwen bij toiletten of over aansprakelijkheid bij een garderobe.",
+		"id": "87fe0774-22df-4110-abb1-b9f193a34028",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De gebruiksaanwijzing op een brandblusser (PU).",
-		"id": "4cd303de-316a-4b4e-b6b0-46abae8a36ee"
+		"title": "Een handleiding bij een mobiele telefoon.",
+		"id": "83f4050f-e34c-4ad7-9c79-c1567fdb4728",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een kaart op een hotelkamer: wat te doen in geval van brand in een hotel (PU).",
-		"id": "416bf01b-1e2b-427a-81d5-8fa19a3a0996"
+		"title": "Een instructie bij een kopieerapparaat, een printer, een beamer.",
+		"id": "5421b2c8-3fd5-4d7f-b929-7c4bcb43ffd1",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Instructies in een lift: wat te doen in geval van nood (PU).",
-		"id": "3ea0d028-311c-47a6-a54c-63dc6084204a"
+		"title": "Een recept volgen voor het maken van een regionaal gerecht uit een pak.",
+		"id": "5a22af10-11a9-4fdc-8bb7-e1696e314602",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Instructies bij het kopen van online tickets, bijvoorbeeld voor evenementen, musea, popconcerten (PU).",
-		"id": "c9f0d8f2-7916-4c84-b46a-ab4c70e98070"
+		"title": "Instructies volgen bij een gezelschapsspel.",
+		"id": "c367528a-989e-40c4-9141-dee642b68c03",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Recepten voor het bakken van een taart/cake (DL).",
-		"id": "c6452fdf-84af-466d-9e2d-d07d788a482c"
+		"title": "De retourinstructies bij een online aankoop.",
+		"id": "886d8fe3-b2d6-4973-a772-9cc3fad50e4d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Instructies in een taalmethode (OPL).",
-		"id": "cd887937-aa71-4bce-a0ef-6109db6da72a"
+		"title": "Borden met veiligheidsregels in het openbaar vervoer.",
+		"id": "75b91f6a-a344-4947-8562-6b2fc2b78589",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Veiligheidsvoorschriften in een vliegtuig (PU).",
-		"id": "e7d0e825-5d51-4239-9c5f-b6922adbbf3e"
+		"title": "Instructies kunnen voor het installeren van computerprogramma’s, scanners of printers.",
+		"id": "2e93d10c-0357-457c-851d-8ef2920e48c7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Foutmeldingen in computer- en e-mailprogramma's (XX).",
-		"id": "6af67f99-2f85-4730-b2b5-6450e341e991"
+		"title": "Instructies voor het bouwen van een eigen webpagina.",
+		"id": "5ebb969a-ab7c-4a08-8cf6-eff409936378",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Instructies met betrekking tot veiligheid op de werkplek (WE, OPL).",
-		"id": "3413fa5b-55c1-4b60-b1ba-dc4326b506b0"
+		"title": "Instructies voor het gebruik van webapplicaties ter ondersteuning van een presentatie.",
+		"id": "d029fb64-fb1f-48e1-a766-5bd63bcdd6aa",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Regels in een museum (PU).",
-		"id": "0b0f2a76-4a37-4f63-af37-fec2a9b005f5"
+		"title": "Richtlijnen voor het aanvragen en afleggen van tentamens en examens.",
+		"id": "e84de488-9c15-4fec-a398-3d55bfa0bfdf",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Voorschriften in openbare gebouwen bij toiletten of over aansprakelijkheid bij een garderobe (PU).",
-		"id": "87fe0774-22df-4110-abb1-b9f193a34028"
+		"title": "Instructies voor de bediening van een nieuwe kassa.",
+		"id": "40f36ae9-3ec6-4f29-bf76-30ff493044f2",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een handleiding bij een mobiele telefoon (DL).",
-		"id": "83f4050f-e34c-4ad7-9c79-c1567fdb4728"
+		"title": "De spelregels van een nieuw, complex computerspel.",
+		"id": "49d8a128-1144-424c-b470-027ee5d15ac0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een instructie bij een kopieerapparaat, een printer, een beamer (XX).",
-		"id": "5421b2c8-3fd5-4d7f-b929-7c4bcb43ffd1"
+		"title": "De aanwijzingen bij de uitvoering van een proef.",
+		"id": "67f5990d-c593-4c2f-8f43-5a85e5cccdd8",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een recept voor het maken van een regionaal gerecht (DL).",
-		"id": "5a22af10-11a9-4fdc-8bb7-e1696e314602"
+		"title": "De verwerking van onderzoeksgegevens in een dataverwerkingsprogramma in de computer.",
+		"id": "d030c935-ed9a-4f9b-bac5-6c73dbd11a05",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Instructies bij een computerspelletje of een gezelschapsspel (DL).",
-		"id": "c367528a-989e-40c4-9141-dee642b68c03"
+		"title": "Complexe instructies voor de installatie en het onderhoud van nieuwe apparaten.",
+		"id": "fe610f89-186d-4d00-8b25-ee4ce0acb63c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De helpfunctie in een tekstverwerkingsprogramma (XX).",
-		"id": "3a5a29f8-aab8-4fae-9836-b97a5fedf37b"
+		"title": "In een winkel een gesprek tussen een klant en een verkoopmedewerker begrijpen over waar een product (melk, brood, koek) staat.",
+		"id": "2ba4b3b4-e85c-4e3a-92e8-ecc707c93d7e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een eenvoudig geschreven bijsluiter bij medicijnen (DL).",
-		"id": "067f2a82-2a69-436c-bb35-76336c7dc6e9"
+		"title": "Een discussie tussen familieleden in een gastgezin over de invulling van een uitstapje.",
+		"id": "5bc9c360-2145-44f2-bd55-fc2c006f425e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een handleiding voor het oplossen van een storing bij een bekend apparaat (WE).",
-		"id": "a51d6c08-02a2-4ee0-8ce8-96ee8e497bc9"
+		"title": "Een discussie tussen docent en leerlingen over de hoeveelheid huiswerk.",
+		"id": "c243db93-75f8-4cf7-bc18-ad7aeb036e78",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Instructies voor het invullen van een schadeformulier bij een aanrijding (PU).",
-		"id": "886d8fe3-b2d6-4973-a772-9cc3fad50e4d"
+		"title": "Een discussie volgen onder buitenlandse scholieren over het gebruiken van softdrugs.",
+		"id": "0948cc56-2a30-4718-a481-f4fce38f0015",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Borden met veiligheidsregels in het openbaar vervoer (PU).",
-		"id": "75b91f6a-a344-4947-8562-6b2fc2b78589"
+		"title": "Een discussie volgen over een eerlijker verdeling van de werkzaamheden tijdens een stage of vakantiebaantje in het buitenland.",
+		"id": "72a79a50-415d-49e5-b0f5-e36da1b31c58",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Instructies voor het installeren van computerprogramma's en randapparatuur als een scanner of printer (DL, OPL, WE).",
-		"id": "2e93d10c-0357-457c-851d-8ef2920e48c7"
+		"title": "Een gesprek volgen tussen buitenlandse leeftijdgenoten over muziek.",
+		"id": "e87eed41-063b-469a-9324-e7b2282743bc",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Instructies voor het maken van een eigen webpagina (DL, OPL, WE).",
-		"id": "5ebb969a-ab7c-4a08-8cf6-eff409936378"
+		"title": "Een gesprek volgen tussen collega's over uitgevoerde werkzaamheden.",
+		"id": "83fba2fa-bb66-49fd-9738-562c3c805bcf",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Instructies voor het gebruik van webapplicaties ter ondersteuning van een presentatie of het online verkrijgen van feedback (OPL, WE).",
-		"id": "d029fb64-fb1f-48e1-a766-5bd63bcdd6aa"
+		"title": "De hoofdpunten van een gesprek volgen van toeristen over bezienswaardigheden tijdens een excursie.",
+		"id": "bd3ca725-85e2-4285-b9bd-2d5c5c626af7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Richtlijnen voor het aanvragen en afleggen van tentamens en examens (OPL).",
-		"id": "e84de488-9c15-4fec-a398-3d55bfa0bfdf"
+		"title": "Een geanimeerde discussie volgen over een nieuwe treindienstregeling.",
+		"id": "134fc59a-5084-4553-b9e5-1815f0bd6bbe",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een handboek om te leren omgaan met een nieuwe machine (WE).",
-		"id": "40f36ae9-3ec6-4f29-bf76-30ff493044f2"
+		"title": "Een uitbundig gesprek volgen waarin onvrede wordt geuit over een nieuwe schoolregel.",
+		"id": "adb88dfd-bcbd-459d-8e2a-1e47025accdb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over de spelregels van een nieuw, complex computerspel (DL).",
-		"id": "49d8a128-1144-424c-b470-027ee5d15ac0"
+		"title": "Een enthousiaste uitwisseling volgen van ideeën in verband met een te plannen schoolreis.",
+		"id": "58ceeab0-a4d1-47b9-a0a2-dc191f8f202f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over de uitvoering van proeven, ook in een nieuw vakgebied (OPL, WE).",
-		"id": "67f5990d-c593-4c2f-8f43-5a85e5cccdd8"
+		"title": "Een levendige discussie volgen van buitenlandse scholieren over de voors en tegens van het gedogen van softdrugs.",
+		"id": "cc60c350-cd8b-4e99-8f27-230e4c811c31",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over de verwerking van onderzoeksgegevens in een dataverwerkingsprogramma in de computer (OPL, WE).",
-		"id": "d030c935-ed9a-4f9b-bac5-6c73dbd11a05"
+		"title": "De verschillende standpunten en posities van partijen volgen tijdens een onderhandelingsgesprek over een bekend onderwerp.",
+		"id": "a5b3b8ed-9146-4e94-b5ef-7dc35a94087a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over de installatie en het onderhoud van nieuwe machines (WE).",
-		"id": "fe610f89-186d-4d00-8b25-ee4ce0acb63c"
+		"title": "Een discussie kunnen volgen van experts over het verbeteren van werkgelegenheid voor jongeren.",
+		"id": "a1decd2d-0cae-459f-90b2-7dfaaaf29430",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Gesprekken over persoonlijke gegevens zoals waar ze vandaan komen, wat ze doen, welke leeftijd ze hebben (DL, OPL).",
-		"id": "c68a992e-3b4b-4bd4-be2c-e5e52f9d2ca6"
+		"title": "Een gesprek kunnen volgen over strategisch beleid tijdens een bijeenkomst van de ondernemingsraad of studentenraad.",
+		"id": "5c6cf0e4-f753-422f-be7a-04d497d11330",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een winkel een gesprek tussen een klant en een verkoopmedewerker begrijpen (PU).",
-		"id": "2ba4b3b4-e85c-4e3a-92e8-ecc707c93d7e"
+		"title": "Een presentatie volgen van studiegenoten over een uitwisselingsweek.",
+		"id": "9eedf0c2-323b-482c-a460-729c82ad8f71",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Als toehoorder bij een bijeenkomst van de leerlingenraad tijdens een uitwisseling met een partnerschool (OPL).",
-		"id": "5c24a422-80ad-4335-9982-735bd4a64604"
+		"title": "Een les volgen op een uitwisselingsschool over een bekend onderwerp.",
+		"id": "558023c7-4c7f-4610-8f92-36b09ad5f26d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Als toehoorder bij een werkgroep of seminar (OPL, WE).",
-		"id": "e0542d2f-5a0e-4706-9518-8b6332b6a17c"
+		"title": "Een praatje volgen over veiligheid op de werkvloer tijdens een buitenlandse stage.",
+		"id": "40f6defd-46be-4eb3-b320-0177538bfc6d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een gesprek over een uitstapje tussen familieleden in een gastgezin (DL).",
-		"id": "5bc9c360-2145-44f2-bd55-fc2c006f425e"
+		"title": "Een uitleg volgen van een collega over een probleem in de uitvoering van de dagelijkse werkzaamheden.",
+		"id": "185ea516-82f4-433a-9e53-c8e3d40696b3",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een gesprek over wat er die dag gedaan moet worden tussen docent en leerlingen (OPL). (ZOU IK OMDRAAIEN)",
-		"id": "c243db93-75f8-4cf7-bc18-ad7aeb036e78"
+		"title": "Een les volgen op een middelbare school tijdens een internationale uitwisseling.",
+		"id": "c672ee14-6c1e-4c11-bfee-717addc1ff85",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een gesprek tijdens een uitwisseling met een buitenlandse partnerschool (OPL).",
-		"id": "5b04262f-e910-4923-bb65-14d1324dcf6b"
+		"title": "Historische achtergrondinformatie volgen in een beschrijving van bezienswaardigheden tijdens een excursie.",
+		"id": "ac1d8e29-9850-4de0-b725-4f52a4ba3ae0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een gesprek over daginvulling (DL,OPL).",
-		"id": "b2d5d763-7522-4d32-bdf2-eb4f24377cef"
+		"title": "De bespreking volgen van onderzoeksresultaten tijdens een gastles van een buitenlandse docent.",
+		"id": "602f0302-e008-4592-bd2c-9fce6c069d6a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een gesprek op straat, in een winkel, café, trein, station over het weer (DL).",
-		"id": "4a3df905-2162-4cfa-b1b6-0de78e8927da"
+		"title": "Een inleiding volgen over het studieprogramma van een buitenlandse opleiding.",
+		"id": "fbe5ed59-8dd9-41f5-9330-d6e5409d72b0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een discussie onder buitenlandse scholieren over het gedogen van softdrugs (OPL).",
-		"id": "0948cc56-2a30-4718-a481-f4fce38f0015"
+		"title": "Een rondetafelgesprek volgen over de opvang van bootvluchtelingen.",
+		"id": "0189e098-99b5-40d0-a8ed-08dc71943934",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een discussie over een eerlijker verdeling van de werkzaamheden tijdens een stage of vakantiebaantje in het buitenland (OPL, WE).",
-		"id": "72a79a50-415d-49e5-b0f5-e36da1b31c58"
+		"title": "De voordracht volgen van een onderzoeker tijdens een congres.",
+		"id": "cbd3be0d-988b-42f5-b8e9-54446b724184",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een gesprek tussen buitenlandse leeftijdgenoten over muziek (DL).",
-		"id": "e87eed41-063b-469a-9324-e7b2282743bc"
+		"title": "Een presentatie volgen over ontwikkelingen op het gebied van computergebruik binnen het onderwijs.",
+		"id": "08de22c4-00e2-4940-9dce-9aaa6995475e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een gesprek tussen medereizigers in een trein of bus over onveiligheid op straat (DL).",
-		"id": "bfa10ad1-08ac-4469-b21f-2661a442655a"
+		"title": "Een voordracht volgen van een buitenlandse schrijver over het laatst geschreven boek.",
+		"id": "957c4dbe-5e92-4ecf-878e-8f725629d749",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Tijdens een werkoverleg een gesprek tussen collega's over uitgevoerde werkzaamheden (WE).",
-		"id": "83fba2fa-bb66-49fd-9738-562c3c805bcf"
+		"title": "Een vaktechnische presentatie volgen waarin de voor- en nadelen van een nieuw product worden beschreven.",
+		"id": "d5667540-61ff-4359-a85d-f08d60253664",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De hoofdpunten van een beschrijving van bezienswaardigheden tijdens een excursie (PU).",
-		"id": "bd3ca725-85e2-4285-b9bd-2d5c5c626af7"
+		"title": "Op een protestbijeenkomst een debat volgen over de beperking op het bezit van kernwapens.",
+		"id": "48cc0fe1-2914-4a34-aed5-e56233ccb84f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een inleiding van de directeur tijdens een bezoek aan een buitenlandse school (OPL).",
-		"id": "836af0ea-76b0-4426-8301-f80d61b1859b"
+		"title": "Op een literaire avond een dichter volgen die uit eigen werk voorleest. ",
+		"id": "fc6f14d3-760d-4e27-af26-12e33dd451da",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De belangrijkste punten van een uiteenzetting door een student over een uitgevoerd project (OPL).",
-		"id": "075ba615-780f-4032-af6a-5e7094395088"
+		"title": "Alle dialogen tussen acteurs volgen die een toneelstuk uitvoeren.",
+		"id": "8b56837c-19ee-4faa-9c12-dff8f38902ab",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De voornaamste punten bij de beschrijving van een proef, procedure of onderzoek tijdens een gastles van een buitenlandse docent (OPL).",
-		"id": "e8bf720c-b3a5-4c5d-9db3-4cbf9f91592d"
+		"title": "Teksten van liedjes volgen tijdens een cultureel evenement.",
+		"id": "dd5e5969-23d4-43f2-a6fe-5d88c083609a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een beschrijving van de nieuwste versie van een apparaat uit het eigen vakgebied tijdens een presentatie op een beurs (OPL, WE).",
-		"id": "4dbef1b4-afbd-434e-bca6-bfa436c3c971"
+		"title": "Een mededeling begrijpen in de trein over plotselinge en onverwachte oorzaken voor vertragingen en consequenties voor reisvervolg.",
+		"id": "0b64ef6b-cfc7-42c3-9b9d-cd45da5a06eb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een praatje van een activiteitenbegeleidster in een buitenlands hotel of op een camping (DL).",
-		"id": "6c494963-bdc1-46cc-a9d6-fbdb574e2a3c"
+		"title": "Mededelingen begrijpen hoe het stadion te verlaten na een voetbalwedstrijd.",
+		"id": "52a5fb07-5b76-4dc1-8e06-a181d1533fa8",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een gesprek tussen buitenlandse leeftijdgenoten over een nieuw computerspel (DL).",
-		"id": "000448e6-5ac9-4993-b342-910cf4bf8665"
+		"title": "De aankondiging begrijpen van een brandoefening die via een slecht geluidssysteem van bedrijf of school wordt omgeroepen.",
+		"id": "d7f00d42-f019-4312-a55d-9882e99238e4",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een gesprek tussen vrienden in een café over hun studieplannen (OPL).",
-		"id": "92f50aa0-abd3-4f10-8f0e-a3f770f5a95f"
+		"title": "Onvoorspelbare mededelingen begrijpen tijdens een sportwedstrijd in een stadion.",
+		"id": "6ee5efd1-6a00-4900-9478-15dbb00fca03",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Tijdens een buitenlandse stage een gesprek tussen collega's over een op handen zijnde reorganisatie (WE).",
-		"id": "32810531-4380-4a4f-a95c-ba2a26ded4a2"
+		"title": "Verkeersinformatie begrijpen over omleidingsroutes en extra files, rij- en weersomstandigheden op de autoradio.",
+		"id": "6507746a-7a7e-4a54-b060-a72604d06d70",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een discussie over een nieuwe treindienstregeling (DL).",
-		"id": "134fc59a-5084-4553-b9e5-1815f0bd6bbe"
+		"title": "De opgenomen uitleg begrijpen via een luidspreker van een boot tijdens een watertour.",
+		"id": "0003b8d6-e579-4054-b070-99ba67d1665d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een gesprek waarin onvrede wordt geuit over een nieuwe schoolregel (OPL).",
-		"id": "adb88dfd-bcbd-459d-8e2a-1e47025accdb"
+		"title": "Informatie halen uit de opname van een toespraak uit de jaren 40.",
+		"id": "5c93d949-b649-4ccf-a2a6-1db75afff6d5",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een enthousiaste uitwisseling van ideeën in verband met een te plannen schoolreis (OPL).",
-		"id": "58ceeab0-a4d1-47b9-a0a2-dc191f8f202f"
+		"title": "De beschrijving van een nieuwe procedure voor het toedienen van medicatie aan patiënten.",
+		"id": "6f91a04f-3565-4658-a109-51e7e33281ce",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een discussie van buitenlandse scholieren voor en tegen het gedogen van softdrugs (OPL).",
-		"id": "cc60c350-cd8b-4e99-8f27-230e4c811c31"
+		"title": "De technische specificaties bij het doorbellen van een offerte voor een product of dienst.",
+		"id": "23485b38-1326-48ff-90a6-6d8f7122fa48",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De verschillende standpunten en posities van partijen tijdens een onderhandelingsgesprek over een bekend onderwerp (WE).",
-		"id": "a5b3b8ed-9146-4e94-b5ef-7dc35a94087a"
+		"title": "De uitleg van een monteur over de installatie van zonnepanelen inclusief het gebruik van digitale diensten.",
+		"id": "805ca887-db2d-4322-9932-f9c938407af7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een discussie van experts over het verbeteren van werkgelegenheid voor jongeren (DL, OPL).",
-		"id": "a1decd2d-0cae-459f-90b2-7dfaaaf29430"
+		"title": "De instructie voor een ingewikkeld nieuw proces, zoals het afstellen van een machine of het uitvoeren van een proef.",
+		"id": "43f9329f-01f2-4468-992f-663b1142015b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een gesprek over de komende verkiezingen op de radio of televisie (DL).",
-		"id": "5c6cf0e4-f753-422f-be7a-04d497d11330"
+		"title": "Het weerbericht op de radio: kan ik morgen naar het strand?",
+		"id": "9a2e053c-0515-405d-a28e-e770e94afa59",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een gesprek over strategisch beleid tijdens een bijeenkomst van de ondernemingsraad of studentenraad (OPL, WE).",
-		"id": "986d7028-1181-4390-99f2-64d46a9db5f1"
+		"title": "Sportuitslagen op de radio, over een bekende sport en met betrekking tot een bekende club of sporter: heeft mijn favoriet gewonnen.",
+		"id": "dd4f9dc7-bc76-4fc0-bcd9-c0b93b1d21e4",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een korte rondleiding op het vakantieadres (PU).",
-		"id": "99371723-069e-4ed0-b95d-700feb863eaa"
+		"title": "Een bericht van een bedrijf of instelling op een antwoordapparaat over hun openingstijden.",
+		"id": "722a59d5-5207-4399-9bff-51c19ebec917",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een rondleiding in het koninklijk paleis (PU).",
-		"id": "b28d9822-5903-4678-a643-1e89a25ea7a0"
+		"title": "Een bericht van een buitenlandse logé op voicemail of whatsapp: ik kom een half uurtje later.",
+		"id": "12c69fe6-2529-43ce-8f41-0caf4b62e344",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een presentatie van studiegenoten over een uitwisselingsweek (OPL).",
-		"id": "9eedf0c2-323b-482c-a460-729c82ad8f71"
+		"title": "Een eenvoudig programma begrijpen over een actueel of maatschappelijk onderwerp.",
+		"id": "96cfd07e-d596-4644-92e2-2253b060d04f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een les op een uitwisselingsschool over een bekend onderwerp (OPL).",
-		"id": "558023c7-4c7f-4610-8f92-36b09ad5f26d"
+		"title": "Verkeersinformatie begrijpen met aanwijzingen over omleidingen.",
+		"id": "e87ba1e8-86b9-4264-8f56-308b16b70b64",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een praatje over veiligheid op de werkvloer tijdens een buitenlandse stage (OPL, WE).",
-		"id": "40f6defd-46be-4eb3-b320-0177538bfc6d"
+		"title": "Een informatief programma begrijpen over een historisch of actueel onderwerp.",
+		"id": "3a55b6c3-db19-4b02-819c-80c1196e82cf",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een uitleg van een collega over een probleem in de uitvoering van de dagelijkse werkzaamheden (WE).",
-		"id": "185ea516-82f4-433a-9e53-c8e3d40696b3"
+		"title": "Een programma begrijpen over vrijetijdsactiviteiten.",
+		"id": "5d08f220-cf5a-4588-b1b3-ef10cc8472fe",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een college in het buitenland (OPL).",
-		"id": "c672ee14-6c1e-4c11-bfee-717addc1ff85"
+		"title": "Een reisprogramma begrijpen over een land dat iemands persoonlijke interesse heeft.",
+		"id": "e337201f-6933-4a55-8f10-0b2d5605b8d3",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Historische achtergrondinformatie in een beschrijving van bezienswaardigheden tijdens een excursie (PU).",
-		"id": "ac1d8e29-9850-4de0-b725-4f52a4ba3ae0"
+		"title": "Een documentaire begrijpen over het leven van een aantal glamourvoetballers.",
+		"id": "a0209ac3-827e-4613-8db1-9b56a0003e15",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De bespreking van onderzoeksresultaten tijdens een gastles van een buienlandse docent (OPL).",
-		"id": "602f0302-e008-4592-bd2c-9fce6c069d6a"
+		"title": "Een interview begrijpen met een lokale ondernemer op de radio.",
+		"id": "4c24e565-9fc7-49bf-a677-f5292e9900f6",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een inleiding over het studieprogramma van een buitenlandse opleiding (OPL).",
-		"id": "fbe5ed59-8dd9-41f5-9330-d6e5409d72b0"
+		"title": "Een podcast begrijpen van een deejay over een bepaalde muziekstroming.",
+		"id": "9116c799-7e6c-4250-a2f5-6a5845fb3eaa",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een uiteenzetting op een vakbeurs waarin de eigen producten worden vergeleken met die van de concurrenten (WE).",
-		"id": "7ff91dea-85b8-4c18-87c5-2051dcc5f7a7"
+		"title": "Een acteur begrijpen die praat over zijn nieuwe film.",
+		"id": "debc2e9d-62ab-4386-bc17-37a52198d633",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een technische demonstratie waarin informatie wordt gegeven over de werking van een nieuwe machine (WE).",
-		"id": "289482e2-5f4f-46ea-9a5a-0445dbb97f42"
+		"title": "In een discussieprogramma over een gevoelig/controversieel onderwerp de stemming en toon van de spreker herkennen.",
+		"id": "a7275545-a6c3-48a5-b0bb-cd58eb838808",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een presentatie over een vaktechnisch onderwerp tijdens een internationale conferentie (WE, OPL).",
-		"id": "e952bd73-a163-4ce1-8d1e-7494f5bdf68f"
+		"title": "Een kritische/ironische toon herkennen in een documentaire over een hamburgerketen.",
+		"id": "bd44b40e-be4f-4cd9-908e-af9f13621f4f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een rondetafelgesprek over de opvang van bootvluchtelingen (DL).",
-		"id": "0189e098-99b5-40d0-a8ed-08dc71943934"
+		"title": "Een reportage begrijpen en daarin de standpunten en houdingen herkennen over schrijnende gevallen van kinderarbeid.",
+		"id": "4d99ee4d-b79a-4392-918e-53d7b59c861f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De voordracht van een onderzoeker tijdens een congres (OPL, WE).",
-		"id": "cbd3be0d-988b-42f5-b8e9-54446b724184"
+		"title": "Een debat begrijpen en daarin de standpunten en houdingen herkennen over klassengrootte of de opwarming van de aarde.",
+		"id": "8adff60d-14d3-4998-b551-694f4a815c72",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een presentatie over ontwikkelingen op het gebied van computergebruik binnen het onderwijs (OPL).",
-		"id": "08de22c4-00e2-4940-9dce-9aaa6995475e"
+		"title": "Een documentaire over de invloed van schommelende energieprijzen op economische groei.",
+		"id": "dd18f734-7067-483f-b1df-6db3f6b055f7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een voordracht van een buitenlandse schrijver over zijn of haar laatste boek (OPL).",
-		"id": "957c4dbe-5e92-4ecf-878e-8f725629d749"
+		"title": "Een politiek debat.",
+		"id": "d03915ac-5352-4572-8e57-803959c5d9e7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een betoog van een gastdocent over een abstract onderwerp buiten het eigen vakgebied (OPL).",
-		"id": "7ec43c80-e128-41b9-b57b-9e83271316a9"
+		"title": "De nieuwslezer volgen die een reportage over een treinstoring afrondt en daarna een item over een vulkaanuitbarsting aankondigt.",
+		"id": "b06b9fbf-f508-4c9d-9e0e-426da82aca23",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een vaktechnische presentatie waarin de voor- en nadelen van een nieuw product worden beschreven (OPL, WE).",
-		"id": "d5667540-61ff-4359-a85d-f08d60253664"
+		"title": "De nieuwslezer volgen die na het bespreken van het sportnieuws overschakelt naar de studio waar de weersvoorspellingen worden gepresenteerd.",
+		"id": "99f3dd56-1d9f-4ffb-bd5e-c1b395debb02",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De houdingen van en de verhoudingen tussen personen, ook als die niet expliciet vermeld worden (DL).",
-		"id": "be3fa0dd-19bc-4f6d-9004-3b989eb5a13a"
+		"title": "Een bericht begrijpen over een ramp, bijvoorbeeld een aardbeving, een grote brand, het neerstorten van een vliegtuig.",
+		"id": "89efbeeb-cfb5-480a-ba00-e5dc495056f2",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De handeling(en), ook als die niet precies chronologisch zijn en/of op dezelfde plek plaatsvinden (DL).",
-		"id": "981df76e-3866-4a48-a146-5d36e0ba4a0e"
+		"title": "Een bericht begrijpen over het huwelijk van bekende personen.",
+		"id": "be7ce271-959b-4c49-8e7c-a95f1bff6c9b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Op een protestbijeenkomst een debat over de beperking op het bezit van kernwapens volgen (DL).",
-		"id": "48cc0fe1-2914-4a34-aed5-e56233ccb84f"
+		"title": "Een item begrijpen over transfers in het voetbal.",
+		"id": "ba0ee599-ee1d-4cf5-8d79-b4aa574ab374",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Op een literaire avond een dichter die uit eigen werk voorleest (DL, OPL).",
-		"id": "fc6f14d3-760d-4e27-af26-12e33dd451da"
+		"title": "Een avonturenfilm volgen met een eenvoudige verhaallijn en een duidelijk onderscheid tussen goed en kwaad.",
+		"id": "97a520b6-c30a-4954-91a5-7c2a6e7ffac9",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Alle dialogen tussen acteurs die een toneelstuk uitvoeren (DL).",
-		"id": "8b56837c-19ee-4faa-9c12-dff8f38902ab"
+		"title": "Een jeugdfilm volgen met een eenvoudige verhaallijn.",
+		"id": "8c33a425-703a-41d4-b3c8-34a824d0636e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een cabareteske toespraak waarin iemand alle registers van dubbelzinnigheid, ironie, sarcasme enzovoort opentrekt (DL).",
-		"id": "d164563b-4ba2-4ab5-87f6-5c8d64e39b8a"
+		"title": "Korte documentaires begrijpen over de natuur, vrije tijd.",
+		"id": "5f49a20b-31b0-4ff3-94a3-c4526a7ee694",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Teksten van liedjes tijdens een cultureel evenement (PU).",
-		"id": "dd5e5969-23d4-43f2-a6fe-5d88c083609a"
+		"title": "Een documentaire begrijpen over het leven van een bekende persoonlijkheid, zoals een sportheld, een popster, een acteur.",
+		"id": "d2e81caf-fb66-4946-9c0b-4d27bc4af323",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Uitingen als deur dicht doen, niet roken, licht uit/aan (DL).",
-		"id": "a52cf940-ec66-4255-bedb-63aa72d589cb"
+		"title": "Een interview begrijpen met een bekende persoonlijkheid uit de wereld van sport, film of tv.",
+		"id": "fda114ba-f1d4-48fb-bfc9-149ee8ae8111",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Schoolregels als pet af, jas uit, boeken open/dicht (OPL).",
-		"id": "760135e8-3232-493a-8d29-087427337add"
+		"title": "Een programma begrijpen over een gebeurtenis of een stad of streek in het land waar de doeltaal wordt gesproken.",
+		"id": "3e6ed190-c434-48e3-9e12-a97c8bcd5f5a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Op welke bladzijde een oefening opgezocht moet worden (OPL).",
-		"id": "e54dcf5b-8ebb-4941-ab97-c68f7c932d70"
+		"title": "Een video begrijpen waarin een demonstratie wordt gegeven van klantvriendelijk gedrag.",
+		"id": "dcdec748-0015-4292-9c8b-7334b57076fc",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Uitleg over hoe je op een bepaalde plek komt zoals rechtdoor, de trap op, de eerste deur links (DL).",
-		"id": "e3925e8e-383c-4ee2-b9c2-f4505fe9661d"
+		"title": "Een documentaire of actualiteitenrubriek begrijpen.",
+		"id": "969eb0ca-e5a5-4873-b8d1-46251332535f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vragen of iets begrepen is, of een vraag of opdracht herhaald moet worden (DL, OPL).",
-		"id": "0dfe434b-b42a-440c-8bd3-dac2550c62e4"
+		"title": "Een discussieprogramma begrijpen.",
+		"id": "a06e522a-bf78-462a-b228-b959da4d7a9e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De vertrektijden op een station (PU).",
-		"id": "4d73b8f1-452c-4d14-a630-e3f6ae06c39f"
+		"title": "Een talkshow begrijpen.",
+		"id": "15fe49cd-0260-4252-bc34-26e1cbc3a256",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De aanbiedingen via een omroep in het warenhuis (PU).",
-		"id": "60a41f43-c074-49bc-b754-64840f2f58bf"
+		"title": "Informatieve programma's begrijpen over populairwetenschappelijke onderwerpen.",
+		"id": "5667bd1c-328d-43d3-8e52-f5a8ea9af90e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Hoe je een fotokopie maakt (DL).",
-		"id": "bc07896e-e9b4-475a-b881-dac8ffc66aed"
+		"title": "Een documentaire begrijpen over wildlife.",
+		"id": "fafad5fd-8125-46bc-adae-9057ebdd8b1e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Hoe de frisdrankautomaat werkt (DL)",
-		"id": "5826e709-fa47-4019-916a-ef182e882916"
+		"title": "Een actualiteitenrubriek begrijpen met daarin een live uitgezonden vraaggesprek.",
+		"id": "d5cd8fa3-5bab-4810-9553-a219355c9013",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Hoe een smartphone, laptop of tablet werkt (DL).",
-		"id": "f7a44175-0311-45e2-9694-a0bcd24a6437"
+		"title": "Een modern toneelstuk begrijpen over een vertrouwd thema.",
+		"id": "78920736-b534-417f-884a-410d1c433bfc",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "M.b.t. het programmeren van je magnetron of de interactieve televisie (DL).",
-		"id": "d281cef9-467d-43bf-8c76-6d604c29ef79"
+		"title": "Films begrijpen zoals thrillers, romantische komedies, historische drama's enzovoort.",
+		"id": "3d508def-9225-4fda-9111-fcdd3705fd9c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "M.b.t. bedieningsvoorschriften voor alledaagse apparatuur, zoals een mobiele telefoon (DL).",
-		"id": "4a65f5bc-00d0-4fc5-8054-87794f4b271b"
-	},
-	{
-		"title": "M.b.t. het installeren van een programma op de computer (DL, OPL, WE).",
-		"id": "bd4d0dbc-451c-4a85-8f24-107e23e12b6a"
-	},
-	{
-		"title": "M.b.t. het installeren van een app op je smartphone of tablet (DL, OPL, WE).",
-		"id": "e9d49660-49f6-432e-a79c-473db20d75ca"
-	},
-	{
-		"title": "De uitleg van een monteur over de bediening van een nieuwe machine (WE).",
-		"id": "7403444d-46d9-4a24-8b25-9aec8e651843"
-	},
-	{
-		"title": "De uitleg over geavanceerde functies op een fotokopieerapparaat (WE).",
-		"id": "4cc8bc89-9788-4081-a878-e11ce0b3db6d"
-	},
-	{
-		"title": "Over het dagprogramma voor een schoolreis (OPL).",
-		"id": "c46aafd1-fa6b-4c95-882a-1620bb077668"
-	},
-	{
-		"title": "M.b.t. reisinformatie die telefonisch verstrekt wordt (PU).",
-		"id": "4aca726d-4f13-4ea2-b89d-cd7334c279cb"
-	},
-	{
-		"title": "Over de voorbereiding op een toets, examen of werkstuk (OPL).",
-		"id": "45b52c1a-faac-47ac-935e-b2bf4a14af36"
-	},
-	{
-		"title": "Een telefonisch bericht waarin inlichtingen worden gegeven of een probleem wordt uitgelegd (WE, DL).",
-		"id": "1da9f807-3b47-43ac-b17a-d393085f4ebb"
-	},
-	{
-		"title": "Instructies van een sportinstructeur, zoals bij skiën of zeilen (PU).",
-		"id": "be00b677-4f40-46eb-be6a-fba399272984"
-	},
-	{
-		"title": "Wat te doen als de (frisdrank)automaat niet goed werkt, wie moet je bellen, hoe krijg je je geld terug? (PU).",
-		"id": "093c1d23-ee24-43d0-bdd0-ebedb446f067"
-	},
-	{
-		"title": "Een gedetailleerde routebeschrijving naar een bestemming waarvoor je een aantal keren moet overstappen (DL, PU).",
-		"id": "f1a1eb72-09f2-4611-bb45-a6fecfd1e208"
-	},
-	{
-		"title": "De aankondigingen op een station over hoe je moet omreizen tijdens een treinstaking (PU).",
-		"id": "a2501d32-c2f6-4858-b6fc-0e711970fc25"
-	},
-	{
-		"title": "De aanwijzingen van een arts over de behandeling van een kwaal of verwonding (PU).",
-		"id": "9f7e211b-0bf3-4cbb-a194-bdd0b3cc1a32"
-	},
-	{
-		"title": "De telefonische instructies van een helpdeskmedewerker over het oplossen van een computerstoring (PU, WE).",
-		"id": "3a648eff-59ce-43e1-b9da-2b4280143be3"
-	},
-	{
-		"title": "De aanwijzingen van een projectleider over de administratieve afhandeling van een internationaal project (OPL, WE).",
-		"id": "23b0dbb0-c5db-44b1-a18d-2591ff3ff0df"
-	},
-	{
-		"title": "Als audiotoerist in het buitenland met een speciale koptelefoon zonder moeite rondgeleid worden door een museum of toeristische attractie (PU).",
-		"id": "8f6d5489-a0f5-4886-97c9-5ee4ca886765"
-	},
-	{
-		"title": "Een mededeling in de trein over plotselinge en onverwachte oorzaken voor vertragingen en consequenties voor reisvervolg (PU).",
-		"id": "0b64ef6b-cfc7-42c3-9b9d-cd45da5a06eb"
-	},
-	{
-		"title": "Mededelingen hoe het stadion te verlaten na een voetbalwedstrijd (PU).",
-		"id": "52a5fb07-5b76-4dc1-8e06-a181d1533fa8"
-	},
-	{
-		"title": "De aankondiging van een brandoefening die via een slecht geluidssysteem ban bedrijf of school wordt omgeroepen (OPL).",
-		"id": "d7f00d42-f019-4312-a55d-9882e99238e4"
-	},
-	{
-		"title": "Onvoorspelbare mededelingen tijdens een sportwedstrijd in een stadion (PU).",
-		"id": "6ee5efd1-6a00-4900-9478-15dbb00fca03"
-	},
-	{
-		"title": "Verkeersinformatie over omleidingsroutes en extra files, rij- en weersomstandigheden op de autoradio (DL, PU).",
-		"id": "6507746a-7a7e-4a54-b060-a72604d06d70"
-	},
-	{
-		"title": "De opgenomen uitleg via een luidspreker van een boot tijdens een watertour (DL).",
-		"id": "0003b8d6-e579-4054-b070-99ba67d1665d"
-	},
-	{
-		"title": "De opname van een toespraak uit de jaren 40 (OPL).",
-		"id": "5c93d949-b649-4ccf-a2a6-1db75afff6d5"
-	},
-	{
-		"title": "De beschrijving van een nieuwe procedure voor het toedienen van medicatie aan patiënten (WE).",
-		"id": "6f91a04f-3565-4658-a109-51e7e33281ce"
-	},
-	{
-		"title": "De technische specificaties bij het doorbellen van een offerte voor een product of dienst (WE).",
-		"id": "23485b38-1326-48ff-90a6-6d8f7122fa48"
-	},
-	{
-		"title": "De uitleg van een monteur over de installatie van een nieuwe tv of computer inclusief het gebruik van digitale diensten (DL).",
-		"id": "805ca887-db2d-4322-9932-f9c938407af7"
-	},
-	{
-		"title": "De instructies voor een ingewikkeld nieuw proces, zoals het afstellen van een machine of het uitvoeren van een proef (WE, OPL).",
-		"id": "43f9329f-01f2-4468-992f-663b1142015b"
-	},
-	{
-		"title": "Het weerbericht op de radio: kan ik morgen naar het strand? (DL).",
-		"id": "9a2e053c-0515-405d-a28e-e770e94afa59"
-	},
-	{
-		"title": "Sportuitslagen op de radio, over een bekende sport en met betrekking tot een bekende club of sporter: heeft mijn favoriet gewonnen? (DL).",
-		"id": "dd4f9dc7-bc76-4fc0-bcd9-c0b93b1d21e4"
-	},
-	{
-		"title": "Een bericht op de radio over een file op een autoweg: hoe moet ik omrijden? (DL).",
-		"id": "5e07d8f2-483b-4fb2-abfc-ed15ff7085d8"
-	},
-	{
-		"title": "Een kort en duidelijk omroepbericht op het station dat de trein X vandaag vertrekt van spoor Y (DL).",
-		"id": "60b5547d-d0e0-47cd-b223-8209439487e5"
-	},
-	{
-		"title": "Een bericht van een bedrijf of instelling op een antwoordapparaat over hun openingstijden (PU, WE).",
-		"id": "722a59d5-5207-4399-9bff-51c19ebec917"
-	},
-	{
-		"title": "Reclameberichten in winkels (\"nu in de aanbieding...\") (DL, PU).",
-		"id": "d0f094be-8687-456a-88eb-d010ffbf2885"
-	},
-	{
-		"title": "De onderwerpen van een nieuwsuitzending (DL).",
-		"id": "c9fb0871-2ea4-4fe3-902c-059aa7d0b62a"
-	},
-	{
-		"title": "Aanwijzingen van een telefonische computer om bij een bepaalde afdeling terecht te komen (PU, WE).",
-		"id": "06999f33-98e1-46d5-a635-825575e06cba"
-	},
-	{
-		"title": "Bericht van een buitenlandse logee op voicemail of whatsapp: ik kom een half uurtje later (DL).",
-		"id": "12c69fe6-2529-43ce-8f41-0caf4b62e344"
-	},
-	{
-		"title": "Het weerbericht (DL).",
-		"id": "162302bf-78ea-4871-bed9-c0716c3cb8c6"
-	},
-	{
-		"title": "Concertaankondigingen (PU).",
-		"id": "8911416f-42af-4908-8f51-31c03e209bd7"
-	},
-	{
-		"title": "Sportuitslagen (DL).",
-		"id": "f01c8a6f-2808-48ac-b1f6-40db7ad2334a"
-	},
-	{
-		"title": "Een eenvoudig programma over een actueel of maatschappelijk onderwerp (DL, PU).",
-		"id": "96cfd07e-d596-4644-92e2-2253b060d04f"
-	},
-	{
-		"title": "Verkeersinformatie, met aanwijzingen over omleidingen (PU).",
-		"id": "e87ba1e8-86b9-4264-8f56-308b16b70b64"
-	},
-	{
-		"title": "Een verslag van een vakantie (DL).",
-		"id": "e3792f7e-874c-4a03-a71a-f40eae03e8da"
-	},
-	{
-		"title": "Een informatief programma van de schooltelevisie over een historisch of actueel onderwerp (OPL).",
-		"id": "3a55b6c3-db19-4b02-819c-80c1196e82cf"
-	},
-	{
-		"title": "Een programma over de eigen vrije tijd (DL).",
-		"id": "5d08f220-cf5a-4588-b1b3-ef10cc8472fe"
-	},
-	{
-		"title": "Een reisprogramma over een land dat iemands persoonlijke interesse heeft (DL).",
-		"id": "e337201f-6933-4a55-8f10-0b2d5605b8d3"
-	},
-	{
-		"title": "Een documentaire over het leven van een aantal glamourvoetballers (DL).",
-		"id": "a0209ac3-827e-4613-8db1-9b56a0003e15"
-	},
-	{
-		"title": "Een interview met een lokale ondernemer op de radio (WE, OPL).",
-		"id": "4c24e565-9fc7-49bf-a677-f5292e9900f6"
-	},
-	{
-		"title": "Een podcast van een deejay over een bepaalde muziekstroming (DL).",
-		"id": "9116c799-7e6c-4250-a2f5-6a5845fb3eaa"
-	},
-	{
-		"title": "Een acteur over zijn nieuwe film (DL).",
-		"id": "debc2e9d-62ab-4386-bc17-37a52198d633"
-	},
-	{
-		"title": "Een discussieprogramma over een gevoelig/controversieel onderwerp (DL).",
-		"id": "a7275545-a6c3-48a5-b0bb-cd58eb838808"
-	},
-	{
-		"title": "Een kritisch/ironische documentaire oer een hamburgerketen (DL).",
-		"id": "bd44b40e-be4f-4cd9-908e-af9f13621f4f"
-	},
-	{
-		"title": "Een reportage over schrijnende gevallen van kinderarbeid (DL).",
-		"id": "4d99ee4d-b79a-4392-918e-53d7b59c861f"
-	},
-	{
-		"title": "Een debatover klassengrootte of de opwarming van de aarde (OPL, DL).",
-		"id": "8adff60d-14d3-4998-b551-694f4a815c72"
-	},
-	{
-		"title": "Een documentaire over de invloed van schommelende olieprijzen op economische groei (PU).",
-		"id": "dd18f734-7067-483f-b1df-6db3f6b055f7"
-	},
-	{
-		"title": "Een politiek debat (PU).",
-		"id": "d03915ac-5352-4572-8e57-803959c5d9e7"
-	},
-	{
-		"title": "Nieuwsberichten over bekende personen en plaatsen (DL).",
-		"id": "b06b9fbf-f508-4c9d-9e0e-426da82aca23"
-	},
-	{
-		"title": "Sportuitzendingen (DL).",
-		"id": "99f3dd56-1d9f-4ffb-bd5e-c1b395debb02"
-	},
-	{
-		"title": "Nieuwsberichten over mondiale onderwerpen als klimaatverandering en terrorisme (DL).",
-		"id": "14b92d3b-f587-45c3-931a-c291cacfecb7"
-	},
-	{
-		"title": "Een bericht over een ramp; aardbeving, grote brand, neerstorten vliegtuig (DL).",
-		"id": "89efbeeb-cfb5-480a-ba00-e5dc495056f2"
-	},
-	{
-		"title": "Een bericht over het huwelijk van bekende personen (DL).",
-		"id": "be7ce271-959b-4c49-8e7c-a95f1bff6c9b"
-	},
-	{
-		"title": "Een item over transfers in het voetbal (DL).",
-		"id": "ba0ee599-ee1d-4cf5-8d79-b4aa574ab374"
-	},
-	{
-		"title": "Een verslag van een terroristische aanslag (DL).",
-		"id": "d719e735-691d-48f5-ab6b-c375443e26a2"
-	},
-	{
-		"title": "Een soap (DL).",
-		"id": "940fa686-288d-4ce1-b33d-a1fe38316983"
-	},
-	{
-		"title": "Een avonturenfilm met een eenvoudige verhaallijn en een duidelijk onderscheid tussen de 'goeden' en de 'kwaden' (DL).",
-		"id": "97a520b6-c30a-4954-91a5-7c2a6e7ffac9"
-	},
-	{
-		"title": "Een jeugdfilm met een eenvoudige verhaallijn (DL, OPL).",
-		"id": "8c33a425-703a-41d4-b3c8-34a824d0636e"
-	},
-	{
-		"title": "Reclamefilmpjes met een duidelijk verhaal erin (PU).",
-		"id": "47b24f8b-27e1-428b-8942-6b445fa275e0"
-	},
-	{
-		"title": "Korte documentaires over de natuur, vrije tijd (DL).",
-		"id": "5f49a20b-31b0-4ff3-94a3-c4526a7ee694"
-	},
-	{
-		"title": "Een verhaal over het leven van een bekende persoonlijkheid, zoals een sportheld, popster, acteur (PU).",
-		"id": "d2e81caf-fb66-4946-9c0b-4d27bc4af323"
-	},
-	{
-		"title": "Een interview met een bekende persoonlijkheid uit de wereld van sport, film of tv (DL, PU).",
-		"id": "fda114ba-f1d4-48fb-bfc9-149ee8ae8111"
-	},
-	{
-		"title": "Een programma in de vreemde taal over een gebeurtenis of een stad of streek in het land waar de doeltaal wordt gesproken (PU).",
-		"id": "3e6ed190-c434-48e3-9e12-a97c8bcd5f5a"
-	},
-	{
-		"title": "Een video waarin een demonstratie wordt gegeven van klantvriendelijke gedrag (WE).",
-		"id": "dcdec748-0015-4292-9c8b-7334b57076fc"
-	},
-	{
-		"title": "Een documentaire of actualiteitenrubriek (DL, PU).",
-		"id": "969eb0ca-e5a5-4873-b8d1-46251332535f"
-	},
-	{
-		"title": "Een discussieprogramma (DL, OPL).",
-		"id": "a06e522a-bf78-462a-b228-b959da4d7a9e"
-	},
-	{
-		"title": "Een talkshow (DL).",
-		"id": "15fe49cd-0260-4252-bc34-26e1cbc3a256"
-	},
-	{
-		"title": "Informatieve programma's over populairwetenschappelijke onderwerpen (DL, OPL).",
-		"id": "5667bd1c-328d-43d3-8e52-f5a8ea9af90e"
-	},
-	{
-		"title": "Een documentaire over Wildlife (DL).",
-		"id": "fafad5fd-8125-46bc-adae-9057ebdd8b1e"
-	},
-	{
-		"title": "Een actualiteitenrubriek met daarin een live uitgezonden vraaggesprek (DL).",
-		"id": "d5cd8fa3-5bab-4810-9553-a219355c9013"
-	},
-	{
-		"title": "Een modern toneelstuk over een vertrouwd thema (DL).",
-		"id": "78920736-b534-417f-884a-410d1c433bfc"
-	},
-	{
-		"title": "Films zoals thrillers, romantische komedies, historische drama's enzovoort (DL).",
-		"id": "3d508def-9225-4fda-9111-fcdd3705fd9c"
-	},
-	{
-		"title": "Speelfilms met veel 'slang' (DL).",
-		"id": "6ab9bdd2-9530-46d6-8c37-dcc20c029d12"
+		"title": "Een speelfilm volgen met veel 'slang'.",
+		"id": "6ab9bdd2-9530-46d6-8c37-dcc20c029d12",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Reisplannen voor de volgende vakantie (DL).",
@@ -2028,444 +1930,568 @@
 		"id": "b61a8f40-51cb-4cb0-8686-79d36cd0ca55"
 	},
 	{
-		"title": "Bij het maken van een klassenportret iets opschrijven over jezelf, waar je woont, of je broers of zussen hebt (OPL).",
-		"id": "afd4acbe-1d3c-4ac1-bd3a-df21d185a608"
+		"title": "Bij het maken van een klassenportret iets opschrijven over jezelf, je leeftijd, je familie, je woonplaats, je hobby's, je huisdieren.",
+		"id": "afd4acbe-1d3c-4ac1-bd3a-df21d185a608",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een serie plaatjes beschrijven in een test of in de taalles (OPL).",
-		"id": "2d51b4bf-669a-4d84-ae2f-cfeceb24411d"
+		"title": "Plaatjes van voorwerpen en mensen uit een stripboek of een tijdschrift in grote lijnen beschrijven.",
+		"id": "2d51b4bf-669a-4d84-ae2f-cfeceb24411d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een bijschrift toevoegen aan een foto (DL).",
-		"id": "192a5afd-77b7-465b-9449-df0c6bd5aee2"
+		"title": "Een eenvoudig bijschrift toevoegen aan een foto van jezelf of van een bekend persoon.",
+		"id": "192a5afd-77b7-465b-9449-df0c6bd5aee2",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een foto met een paar woorden inleiden (DL).",
-		"id": "dab95e03-2a8b-4774-a4fb-c6a57ea54d6e"
+		"title": "Een poster over de hoofdpersoon uit een (prenten-)boek maken.",
+		"id": "dab95e03-2a8b-4774-a4fb-c6a57ea54d6e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een profiel invullen op een sociaal netwerk (DL).",
-		"id": "7d814f75-45b9-4fb9-8b9c-38e9c9951eb4"
+		"title": "Een profiel invullen op een sociaal netwerk (achternaam, leeftijd, woonplaats, hobby's).",
+		"id": "7d814f75-45b9-4fb9-8b9c-38e9c9951eb4",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een gerecht met ingrediënten (DL).",
-		"id": "f6097bc5-2ca1-4365-8b19-1625387ee85c"
+		"title": "Het schrijven van een verslag van een uitstapje, schoolreisje of excursie.",
+		"id": "f6097bc5-2ca1-4365-8b19-1625387ee85c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een uitstapje (DL).",
-		"id": "38a5c0e5-d820-49d5-908c-8d18719e09f5"
+		"title": "Beschrijven van een sportwedstrijd waar je aan meegedaan hebt.",
+		"id": "38a5c0e5-d820-49d5-908c-8d18719e09f5",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Je dagelijkse routine (DL).",
-		"id": "7425e257-2a22-44b7-9426-6e8a7e81df82"
+		"title": "Beschrijven van een stad of streek die je bezocht hebt.",
+		"id": "7425e257-2a22-44b7-9426-6e8a7e81df82",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Je eigen sport of hobby (DL).",
-		"id": "b9ad7fd4-93cf-479f-929a-61624e19325a"
+		"title": "Beschrijven van mensen die je ontmoet hebt op een feestje.",
+		"id": "b9ad7fd4-93cf-479f-929a-61624e19325a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Uiterlijk en biografische gegevens van een familielid, vriend, jezelf of van een zelf verzonnen persoon (DL).",
-		"id": "827af40a-fcf0-435c-b40a-0c6c5798281b"
+		"title": "Een gedicht over iemands karaktereigenschappen.",
+		"id": "827af40a-fcf0-435c-b40a-0c6c5798281b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Karaktereigenschappen (DL).",
-		"id": "d186ff1f-7743-42bf-a2da-b6f1ec13f0b8"
+		"title": "Een kort gedicht met een dier als hoofdpersoon.",
+		"id": "d186ff1f-7743-42bf-a2da-b6f1ec13f0b8",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Uiterlijk en biografische gegevens van een filmster, idool uit de popmuziek of sportheld (DL, OPL).",
-		"id": "613dd3f9-e71c-4132-a765-cd588ea751ad"
+		"title": "Uiterlijk en biografische gegevens van een familielid, vriend, jezelf of van een zelfverzonnen persoon voor een schrijfopdracht.",
+		"id": "613dd3f9-e71c-4132-a765-cd588ea751ad",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Eigen dorp/stad/huis (DL, OPL).",
-		"id": "050cb6c5-346b-4fbe-9d43-71f5176ecc40"
+		"title": "Het schrijven van eenvoudige zinnen, bijvoorbeeld in een dagboek of een e-mail, over je familie en vrienden, je huis en je woonplaats, je werk/beroep of het werk/beroep van je ouders, je school of opleiding, je eigen werkplek en dagelijkse werkzaamheden.",
+		"id": "225bdeae-7a4f-447a-8200-2895dc939b01",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Het werk van je ouders (DL).",
-		"id": "7ab1e808-3257-48d1-a40d-dd0bbe06b685"
+		"title": "Een eenvoudig verhaal over avonturen van een groep vrienden op vakantie.",
+		"id": "03f6fc86-3e64-4c64-9b29-390f369322f0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vrijetijdsbesteding (DL).",
-		"id": "2c394218-8669-4f5e-8c81-96a003b2fdff"
+		"title": "Een eenvoudig verhaal over leven in de verre toekomst op een andere planeet.",
+		"id": "e2a16e0e-67aa-4bcd-8f0b-09440daa518f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "School, rooster en vakken (OPL).",
-		"id": "3cac1b41-dc36-46d0-8091-b551b811575d"
+		"title": "Beschrijven aan vrienden hoe je afgelopen vakantie is geweest.",
+		"id": "1df16d6c-c0d4-4798-a5f2-5cc64506757c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Eigen werkplek en dagelijkse werkzaamheden (OPL, WE).",
-		"id": "39864610-9654-4806-81d2-8b5673ac6f69"
+		"title": "Beschrijven aan klasgenoten wat je afgelopen weekend hebt gedaan.",
+		"id": "4a61461f-1bb9-44ee-9230-e8b844bd47f4",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Welk werk/welke opleiding je gedaan hebt (OPL, WE).",
-		"id": "225bdeae-7a4f-447a-8200-2895dc939b01"
+		"title": "Beschrijven aan je nieuwe liefde hoe je vroeger was.",
+		"id": "e97c7538-0cae-47ca-8837-6c5694916256",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over gebeurtenissen op vakantie (DL).",
-		"id": "03f6fc86-3e64-4c64-9b29-390f369322f0"
+		"title": "Beschrijven aan de docent hoe je een uitwisseling of schoolreis hebt ervaren.",
+		"id": "139dd289-89d2-449b-a0e5-8ca2b0228461",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over het leven in de verre toekomst (DL).",
-		"id": "e2a16e0e-67aa-4bcd-8f0b-09440daa518f"
+		"title": "Beschrijven in een portfolio hoe je een stageperiode hebt ervaren.",
+		"id": "3f9be35c-43ea-461c-bea8-7e7f0a63e0e6",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Hoe je afgelopen vakantie is geweest (DL).",
-		"id": "1df16d6c-c0d4-4798-a5f2-5cc64506757c"
+		"title": "Het schrijven van een grappig portret van vrienden.",
+		"id": "ba33911e-85a1-4593-96a0-97e648d3e3d1",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Wat je afgelopen weekend hebt gedaan (DL).",
-		"id": "4a61461f-1bb9-44ee-9230-e8b844bd47f4"
+		"title": "Het schrijven van een dagboekfragment van je persoonlijke ervaringen op school, opleiding of werk.",
+		"id": "bf4ad768-98bb-4275-834a-4c7c8a8536cc",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Hoe je vroeger was (DL).",
-		"id": "e97c7538-0cae-47ca-8837-6c5694916256"
+		"title": "Een beschrijving van een bezochte bezienswaardigheid tijdens een schoolreis.",
+		"id": "6d53c606-28aa-4cde-96cc-35f33f2a4e32",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Hoe je een uitwisseling of schoolreis hebt ervaren (DL, OPL).",
-		"id": "139dd289-89d2-449b-a0e5-8ca2b0228461"
+		"title": "Het schrijven van een verslag op een sociaal netwerk over het schoolfeest.",
+		"id": "2ff69cd6-eb09-4611-bec1-885881470089",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Wat het best bevallen is tijdens een uitwisseling (DL, OPL).",
-		"id": "3f9be35c-43ea-461c-bea8-7e7f0a63e0e6"
+		"title": "Het schrijven van een persoonlijke blog over een bezoek aan een stad.",
+		"id": "5c46c0ff-51d1-4ede-91af-6a890c2163d1",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Hoe je een stageperiode hebt ervaren (OPL).",
-		"id": "bf4236c6-ac97-47f6-9001-df98fd857b0a"
+		"title": "Duo-schrijven met iemand anders, waarbij je om-en-om een zin schrijft.",
+		"id": "a6545583-877a-43ec-824b-35ce8362fb63",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een portret van vrienden (DL).",
-		"id": "ba33911e-85a1-4593-96a0-97e648d3e3d1"
+		"title": "Het schrijven van een verhaal op basis van een foto, kaartje of plaatje.",
+		"id": "540ca487-1d1a-4dea-9d81-988312cc1660",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een verhaal over school of opleiding (OPL, WE).",
-		"id": "bf4ad768-98bb-4275-834a-4c7c8a8536cc"
+		"title": "Een bestaand verhaal herschrijven vanuit een ander perspectief.",
+		"id": "cfe34e04-08c1-4de0-ba58-1cd9bb2d8fe4",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een beschrijving van een bezochte plaats met een schoolreis (DL, OPL).",
-		"id": "6d53c606-28aa-4cde-96cc-35f33f2a4e32"
+		"title": "Een nieuw eind schrijven aan een bestaand verhaal.",
+		"id": "1062e135-696e-45e5-ba1d-5d6d81750048",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een bericht op een sociaal netwerk over het schoolfeest (DL).",
-		"id": "2ff69cd6-eb09-4611-bec1-885881470089"
+		"title": "Een opzet maken voor een eigen boek.",
+		"id": "c55ef547-f2ca-4776-8497-73d3053a68a7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een blog over een bezoek aan een stad (DL).",
-		"id": "5c46c0ff-51d1-4ede-91af-6a890c2163d1"
+		"title": "Op sociale media over een bezocht traditioneel festival kunnen berichten tijdens een verblijf in het buitenland.",
+		"id": "e0c7f767-d6a4-4acb-b93b-dc70a27f146a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Wat voor vervolgopleiding je gaat kiezen en waarom (OPL).",
-		"id": "a6545583-877a-43ec-824b-35ce8362fb63"
+		"title": "In een artikel voor school- of bedrijfskrant over een uitstapje, voorstelling of excursie kunnen schrijven.",
+		"id": "31ec2a02-0201-49e9-ac53-1f5df09d5b4c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Hoe je ideale leefomgeving eruit ziet (OPL).",
-		"id": "540ca487-1d1a-4dea-9d81-988312cc1660"
+		"title": "Een blog schrijven over hoe jouw droomreis eruit zou zien als je een miljoen had geworden.",
+		"id": "80a05651-41ac-4f3d-94d0-ae2613560fa8",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De voor- en nadelen van vroeg kinderen krijgen (OPL).",
-		"id": "cfe34e04-08c1-4de0-ba58-1cd9bb2d8fe4"
+		"title": "Een persoonlijk reisverslag schrijven dat per e-mail rondgestuurd wordt aan een internationale vriendengroep.",
+		"id": "d25c60a0-dcb1-4ae6-aed1-259136b30dec",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Het meeschrijven aan een doorlopend verhaal op een internetpagina (PU).",
-		"id": "1062e135-696e-45e5-ba1d-5d6d81750048"
+		"title": "Berichten over een verblijf bij een Spaans gezin tijdens een uitwisseling.",
+		"id": "f710d106-1dbb-4464-acc6-90142a0faee5",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een dialoog bij een strip (DL).",
-		"id": "c55ef547-f2ca-4776-8497-73d3053a68a7"
+		"title": "In een artikel voor een clubblad of schoolkrant de voordelen van de eigen sport of woonplaats in detail beschrijven.",
+		"id": "daa2ae2a-2361-4a76-b63e-8b07396f3fed",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een blog tijdens een verblijf in het buitenland (DL).",
-		"id": "e0c7f767-d6a4-4acb-b93b-dc70a27f146a"
+		"title": "In het personeelsblad de ervaringen als werknemer kunnen beschrijven en met voorbeelden illustreren.",
+		"id": "fb690117-a5e5-4928-965a-c314c4eb73de",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een persoonlijk reisverslag dat per e-mail rondgestuurd wordt aan een internationale vriendengroep (DL).",
-		"id": "31ec2a02-0201-49e9-ac53-1f5df09d5b4c"
+		"title": "In het studieblad aangeven waarom je voor een bepaalde studie gekozen hebt en wat je studiedoelen zijn.",
+		"id": "10959742-4ea4-4ebb-933b-92505ee679c4",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een artikel voor de school- of bedrijfskrant over een uitstapje of excursie, met commentaar op de kwaliteit van het gebodene (OPL, WE).",
-		"id": "80a05651-41ac-4f3d-94d0-ae2613560fa8"
+		"title": "Een levendige beschrijving in een dagboek van een bijzondere gebeurtenis.",
+		"id": "b87d3595-b7b3-42c5-bfe7-59ef76839a91",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over de ervaringen naar aanleiding van een bezoek aan een concert/festival (DL).",
-		"id": "d25c60a0-dcb1-4ae6-aed1-259136b30dec"
+		"title": "Een luchtige blog op sociale media over opvoeding en/of educatie.",
+		"id": "f59b5c84-0613-4f96-91cb-72fa2a1f86f9",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een evaluatie naar aanleiding van deelname aan een cursus of conferentie (OPL, WE).",
-		"id": "f710d106-1dbb-4464-acc6-90142a0faee5"
+		"title": "Een artikel voor de schoolkrant van een partnerschool met commentaar op het bezoek aan het plaatselijke museum.",
+		"id": "e6229970-8a4c-40cc-9773-1217db72e8b6",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In het examendossier een stuk met persoonlijk commentaar op een film of een boek (OPL).",
-		"id": "57fe9ada-c3c0-4b5e-ba4b-7539e9d63a13"
+		"title": "Een stukje voor de bedrijfsnieuwsbrief over de historie van de lokale vestiging.",
+		"id": "d5ab3e4b-7615-4646-bfed-01b20c65afc3",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Voor een clubblad of schoolkrant van de partnerclub/-school de voor- en nadelen van de eigen woonplaats beschrijven (DL, OPL).",
-		"id": "daa2ae2a-2361-4a76-b63e-8b07396f3fed"
+		"title": "Een biografie van een fictief persoon.",
+		"id": "2df3f2d5-8cf2-4650-8649-dc66b98d6eea",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Je ervaringen op de stageplek beschrijven en met voorbeelden illustreren (OPL).",
-		"id": "fb690117-a5e5-4928-965a-c314c4eb73de"
+		"title": "Een saga of familiegeschiedenis.",
+		"id": "2f81fe79-8e37-450e-b736-a40cc2b83263",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een persoonlijke brief aan een vriend/in studiedoelen beschrijven (DL).",
-		"id": "10959742-4ea4-4ebb-933b-92505ee679c4"
+		"title": "Wat en hoe je iets hebt beleefd.",
+		"id": "3c548271-c8d4-4976-92fc-182e4b610afd",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een opstel over de oorzaken en gevolgen van een actueel conflict (OPL).",
-		"id": "b87d3595-b7b3-42c5-bfe7-59ef76839a91"
+		"title": "Een opstel met een originele insteek over een vrij onderwerp.",
+		"id": "e0c90623-2b6f-494b-bfc3-04f7eec697cb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een ingezonden brief aan een lokale krant over het gebrek aan logies voor jeugdige toeristen (DL).",
-		"id": "f59b5c84-0613-4f96-91cb-72fa2a1f86f9"
+		"title": "Een grappig of spannend verhaal of anekdote voor een nieuwsbrief of tijdschrift.",
+		"id": "c56c7f5e-be3c-42ca-b0b9-da2c8326ffa7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een artikel voor de schoolkrant van een partnerschool met commentaar op het bezoek aan het plaatselijke museum (OPL).",
-		"id": "e6229970-8a4c-40cc-9773-1217db72e8b6"
+		"title": "Een column in een studentenblad.",
+		"id": "32f59915-fd94-48d0-a770-f9f698546e6a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een stukje voor de bedrijfsnieuwsbrief over de historie van de lokale vestiging (WE).",
-		"id": "d5ab3e4b-7615-4646-bfed-01b20c65afc3"
+		"title": "Een humoristische blog over een sociale gebeurtenis van de studentenvereniging.",
+		"id": "9edb8853-cf62-4a5e-8b18-7d083a510bcb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een recensie van een boek, film of toneelstuk (DL, OPL).",
-		"id": "2df3f2d5-8cf2-4650-8649-dc66b98d6eea"
+		"title": "Een verhaal over jeugdervaringen voor een verhalenwedstrijd.",
+		"id": "e04b0f33-0999-4c7c-9cf5-fbe1481432b9",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een familiegeschiedenis (DL, OPL).",
-		"id": "2f81fe79-8e37-450e-b736-a40cc2b83263"
+		"title": "Een grappige beschrijving van het dagelijks reilen en zeilen in de eigen stad/streek in het kader van een stedenproject.",
+		"id": "96ee9613-2dc5-433c-ae94-cf38e33f75f5",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Wat en hoe je iets hebt beleefd (DL, OPL).",
-		"id": "3c548271-c8d4-4976-92fc-182e4b610afd"
+		"title": "Een fantasieverhaal.",
+		"id": "76e5ed76-33b2-4d9a-b89a-feb0f803c1d6",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een opstel over een vrij onderwerp (OPL).",
-		"id": "e0c90623-2b6f-494b-bfc3-04f7eec697cb"
+		"title": "Een script voor een toneelstuk.",
+		"id": "828813db-f98f-4f13-8a7b-e04d6954c06a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een grappig of spannend verhaal of anekdote voor een nieuwsbrief of tijdschrift (DL).",
-		"id": "c56c7f5e-be3c-42ca-b0b9-da2c8326ffa7"
+		"title": "Een verhaal waarin de verbeelding de boventoon voert.",
+		"id": "a35bb0f6-b351-4645-b8ce-16aff642ad91",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een column in een studentenblad (OPL).",
-		"id": "32f59915-fd94-48d0-a770-f9f698546e6a"
+		"title": "Een boeiend reisverhaal, mogelijk getint met zelfironie en scherpe commentaren op ervaringen, ontmoetingen en belevenissen.",
+		"id": "b3e36de7-6039-4bc6-bef2-9e3e89acccbc",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een humoristische blog over een sociale gebeurtenis van de studentenvereniging (OPL).",
-		"id": "9edb8853-cf62-4a5e-8b18-7d083a510bcb"
+		"title": "Een verslag schrijven van uitgevoerde werkzaamheden tijdens een stage, schoolproject of internationaal project.",
+		"id": "c1dcd0cb-e975-4b4c-83de-0a863d059d54",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een verhaal over jeugdervaringen voor een verhalenwedstrijd (PU).",
-		"id": "e04b0f33-0999-4c7c-9cf5-fbe1481432b9"
+		"title": "Een beschrijving schrijven van wat gedaan, gezien en bezocht is tijdens een werkbezoek of excursie voor de buitenlandse partner of begeleider.",
+		"id": "fd35472c-d18f-4090-85b5-845e0fc74949",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een grappige beschrijving van het dagelijks reilen en zeilen in de eigen stad/streek in het kader van een stedenproject (PU).",
-		"id": "96ee9613-2dc5-433c-ae94-cf38e33f75f5"
+		"title": "Een verslag van gehouden straatinterviews in het kader van een project.",
+		"id": "592ce9d7-2ccf-4cc5-a411-d8806eb68bb2",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een fantasieverhaal )DL).",
-		"id": "76e5ed76-33b2-4d9a-b89a-feb0f803c1d6"
+		"title": "Een verslag over een eenvoudig onderzoekje in een plaats in het buitenland.",
+		"id": "125e510b-cb32-45dc-bd1b-c7493599240f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een script voor een toneelstuk (DL, OPL, WE).",
-		"id": "828813db-f98f-4f13-8a7b-e04d6954c06a"
+		"title": "Een samenvatting van een (kranten)artikel over een bepaald onderwerp.",
+		"id": "a94a0312-65e7-47af-b75d-2f26ada87fdf",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een verhaal waarin de verbeelding de boventoon voert (DL, OPL, WE).",
-		"id": "a35bb0f6-b351-4645-b8ce-16aff642ad91"
+		"title": "Een voorstel voor een excursieprogramma aan een buitenlandse partner op grond van toeristische informatie.",
+		"id": "78c53945-df7b-4275-a5cb-31a26adad7e2",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een boeiend reisverhaal, mogelijk getint met zelfironie en scherpe commentaren op ervaringen, ontmoetingen en belevenissen (DL, OPL, WE).",
-		"id": "b3e36de7-6039-4bc6-bef2-9e3e89acccbc"
+		"title": "Een hand-out met de belangrijkste punten voor een presentatie over een boek.",
+		"id": "74f1083d-703b-498a-bb18-3baa6a4fe595",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een grappig gedicht naar aanleiding van een persoonlijke ervaring (DL, OPL, WE).",
-		"id": "82453243-88a6-4fbb-b75f-7043065ad3fb"
+		"title": "Een toelichting van de belangrijkste stappen in een werkverslag en een opsomming van wat nog moet gebeuren.",
+		"id": "1872c133-eb5d-4b53-9a49-448dbace9883",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een column voor een krant met een kritische en humoristische blik (DL, PU).",
-		"id": "63ea1289-6e31-47c5-b24f-9eb5d928e41c"
+		"title": "Een essay schrijven over het belang van een rookvrij(e) werkruimte, sportclub of schoolplein.",
+		"id": "a8bea11b-e6d9-47e6-8065-a33d2a0edbce",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een verslag van uitgevoerde werkzaamheden tijdens een stage, schoolproject of internationaal project (OPL, WE).",
-		"id": "c1dcd0cb-e975-4b4c-83de-0a863d059d54"
+		"title": "Een verslag schrijven over een project op school of een werkoverleg.",
+		"id": "0759eb70-c3bd-4d5f-a7ee-fd3cea2f4796",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een beschrijving van wat gedaan, wat gezien en wat bezocht is tijdens een werkbezoek of excursie voor de buitenlandse partner of begeleider (OPL, WE).",
-		"id": "fd35472c-d18f-4090-85b5-845e0fc74949"
+		"title": "Een voorstel voor een plan van aanpak van een project of opdracht schrijven.",
+		"id": "d68cb5c1-e391-41a6-91a6-7e6fd4c90023",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een verslag van gehouden straatinterviews in het kader van een project (OPL).",
-		"id": "592ce9d7-2ccf-4cc5-a411-d8806eb68bb2"
+		"title": "Een toelichting schrijven waarom je het niet eens bent met een idee voor een gezamenlijke activiteit met een partnerschool.",
+		"id": "3e3e7b53-b9b5-4cac-9cb0-85b154aa4537",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een verslag over een eenvoudig onderzoekje in een plaats in het buitenland (OPL).",
-		"id": "125e510b-cb32-45dc-bd1b-c7493599240f"
+		"title": "Een hand-out schrijven als samenvatting van onderzoeken bij een presentatie.",
+		"id": "df5788b3-c8cf-4a60-ba1c-2fae18609276",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een samenvatting van een (kranten)artikel over een bepaald onderwerp (OPL, WE).",
-		"id": "a94a0312-65e7-47af-b75d-2f26ada87fdf"
+		"title": "Uit diverse beschrijvingen van producten of diensten een verslag schrijven ten behoeve van het maken van een keuze hiervan.",
+		"id": "c4b91268-6e70-4329-9529-16eb604fad72",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een voorstel voor een excursieprogramma aan een buitenlandse partner op grond van toeristische informatie (OPL, WE).",
-		"id": "78c53945-df7b-4275-a5cb-31a26adad7e2"
+		"title": "Toeristische informatie samenstellen als achtergrondinformatie voor een klant of voor buitenlandse gasten.",
+		"id": "1e89f416-5fa4-4f4b-933f-cbd429699d0b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een tekst voor een partnerschool over de eigen woonplaats met de belangrijkste bezienswaardigheden (OPL).",
-		"id": "f6a7c3bb-43bc-4178-9732-8988ff0fa00f"
+		"title": "In een samenvatting schrijven van de hoofdpunten van nieuwsberichten, vraaggesprekken of documentaires, met meningen, argumenten en discussiepunten.",
+		"id": "7331c066-b766-4036-844f-20b2715f073c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een hand-out met de belangrijkste punten voor een referaat/presentatie over een boek (OPL).",
-		"id": "74f1083d-703b-498a-bb18-3baa6a4fe595"
+		"title": "Een beschouwing over het gebruik van het metrische systeem ten opzichte van het imperiale systeem.",
+		"id": "53445e9f-4b1e-454f-8291-eb11a04f058e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een toelichting van de belangrijkste stappen in een werkverslag en een opsomming van wat nog moet gebeuren (WE).",
-		"id": "1872c133-eb5d-4b53-9a49-448dbace9883"
+		"title": "Een uiteenzetting over een controversieel thema zoals geopolitieke implicaties of over meertaligheid in het onderwijs.",
+		"id": "2309040e-2bd0-4c95-aa78-a9eed3188112",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over een actualiteit in het nieuws (DL).",
-		"id": "a8bea11b-e6d9-47e6-8065-a33d2a0edbce"
+		"title": "Conclusies trekken en weergeven uit de resultaten van een peiling op school over de inrichting van de nieuwe kantine.",
+		"id": "75bd9ea9-c9d6-46a5-b494-585639ad1b6f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over een gebeurtenis aan de hand van een foto (DL, OPL).",
-		"id": "0759eb70-c3bd-4d5f-a7ee-fd3cea2f4796"
+		"title": "Voor- en nadelen van verschillende studiekeuzes in beeld brengen.",
+		"id": "d4b27253-a765-4cef-8b3f-39596df82980",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over een activiteit voor de schoolkrant (DL, OPL).",
-		"id": "d68cb5c1-e391-41a6-91a6-7e6fd4c90023"
+		"title": "Naar aanleiding van een werkoverleg of bespreking met een expert buiten school voor een profielwerkstuk.",
+		"id": "50551221-3481-41d2-8a3d-c916114cc3cc",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over jezelf voor deelname aan een bepaalde activiteit (DL).",
-		"id": "3e3e7b53-b9b5-4cac-9cb0-85b154aa4537"
+		"title": "Naar aanleiding van een telefoongesprek met een deskundige over een bepaald onderwerp.",
+		"id": "950cd490-4587-41fe-8280-1d0f2a8ca6e4",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Naar aanleiding van een interview met een echte of verzonnen persoon (DL).",
-		"id": "9da040c8-c7e7-431c-ab7b-446133325764"
+		"title": "Over de voortgang van een stage, project, excursie, zakenreis: een beschrijving plus een evaluatie.",
+		"id": "f2a4b492-8694-4a35-ae86-82b050903978",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In het kader van een schrijfwedstrijd, als opdracht voor een Olympiade (DL, OPL).",
-		"id": "9a5961c8-b574-47f6-9913-1ad249d64a00"
+		"title": "Over een reis voor vrienden waarin meer dan alleen het feitelijke wie-wat-waar wordt beschreven.",
+		"id": "aa25e20f-7bf9-4bca-ba9a-bcd80ded5594",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een handout als samenvatting van onderzoeken bij een presentatie (OPL, WE).",
-		"id": "df5788b3-c8cf-4a60-ba1c-2fae18609276"
+		"title": "In het kader van een experiment waarin ervaring met een nieuw product of nieuwe procedure wordt opgedaan.",
+		"id": "7fd62e73-ede6-4e91-97c9-06297e45ec07",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Uit diverse beschrijvingen van producten of diensten, ten behoeve van de keuze voor een product of dienst (WE).",
-		"id": "c4b91268-6e70-4329-9529-16eb604fad72"
+		"title": "Met een persoonlijke mening naar aanleiding van een actuele gebeurtenis.",
+		"id": "458a750c-2d21-4a9d-be61-1a6eb58c9ea9",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Toeristische informatie, als achtergrondinformatie voor een klant of voor buitenlandse gasten (DL, WE).",
-		"id": "1e89f416-5fa4-4f4b-933f-cbd429699d0b"
+		"title": "Een betoog over gelijke rechten van de LHBTIQ+ gemeenschap.",
+		"id": "aa38c9df-6277-437b-ac8f-9752ad52117f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een samenvatting van de hoofdpunten van nieuwsberichten, vraaggesprekken of documentaires, met meningen, argumenten en discussiepunten (DL).",
-		"id": "7331c066-b766-4036-844f-20b2715f073c"
+		"title": "Een betoog over schending van mensenrechten, nucleaire energie of een geopolitieke kwestie.",
+		"id": "2e6a8c3a-8458-4907-9dea-ec33e2dc0e45",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een essay over het recht op een rookvrije werkruimte, in het kader van een project op school of een beleidsvergadering op het werk (OPL, WE).",
-		"id": "53445e9f-4b1e-454f-8291-eb11a04f058e"
+		"title": "Een analyse van tegenvallende bedrijfs-, school-, onderzoeksresultaten.",
+		"id": "28d90ed3-73f4-4964-abd9-3b4247655f85",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een voorstel voor de aanpak van een project of opdracht (OPL, WE).",
-		"id": "2309040e-2bd0-4c95-aa78-a9eed3188112"
+		"title": "Een opstel over alternatieve energie.",
+		"id": "641c2d12-5c05-46ce-bc9a-12e258044800",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een toelichting waarom je het niet eens bent met een idee voor een gezamenlijke activiteit van een partnerschool/-stad en een alternatief (PU, OPL, WE).",
-		"id": "e296068d-10e2-4497-bea9-b0a512a125bb"
+		"title": "Een beschouwing over de abortuswet.",
+		"id": "c10d9002-ac5b-40d4-b213-7e0f87221f98",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een eenvoudig (technisch) rapport waarin voors en tegens van bepaalde producten, diensten of machines worden beschreven en afgewogen (WE).",
-		"id": "8e12c759-8678-4ba1-add9-eb4e60842cdf"
+		"title": "Een goed gestructureerd rapport over een politiek debat.",
+		"id": "07fd1861-ed51-4b86-b7c8-aefc1fc85e19",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Conclusies trekken en weergeven uit de resultaten van een peiling op school over de inrichting van de nieuwe kantine (OPL).",
-		"id": "75bd9ea9-c9d6-46a5-b494-585639ad1b6f"
+		"title": "Het verslag van een opiniepeiling.",
+		"id": "6c0c62b6-1392-44a6-b617-998bc79b85ce",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Voor- en nadelen van verschillende studiekeuzes in beeld brengen (OPL).",
-		"id": "d4b27253-a765-4cef-8b3f-39596df82980"
+		"title": "Een kritische review over een wetenschappelijk artikel.",
+		"id": "d99ab2a6-c22c-4af4-8e42-c43551644be9",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Naar aanleiding van een werkoverleg of bespreking met een expert buiten school voor een profielwerkstuk (OPL, WE).",
-		"id": "50551221-3481-41d2-8a3d-c916114cc3cc"
+		"title": "Een recensie van een literair werk.",
+		"id": "eaabef29-d8eb-402c-85d9-cca77b75eb36",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Naar aanleiding van een telefoongesprek met een deskundige over een bepaald onderwerp (OPL, WE).",
-		"id": "950cd490-4587-41fe-8280-1d0f2a8ca6e4"
+		"title": "Een volledig en nauwkeurig verslag van een college, seminar of werkgroep.",
+		"id": "bd3bf74f-925e-4c30-93d5-58d69376a4af",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over de voortgang van een stage, project, excursie, zakenreis: een beschrijving plus een evaluatie (OPL, WE).",
-		"id": "f2a4b492-8694-4a35-ae86-82b050903978"
+		"title": "Een passend verslag van een experiment, met theoretische onderbouwing en conclusies.",
+		"id": "471552da-ef59-4982-996a-8d74fd577008",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over een reis voor vrienden waarin meer dan alleen het feitelijke wie-wat-waar wordt beschreven (DL).",
-		"id": "aa25e20f-7bf9-4bca-ba9a-bcd80ded5594"
+		"title": "Een beschouwend artikel voor een tijdschrift over een specialistisch onderwerp.",
+		"id": "f92a2500-ffe1-44f7-a8eb-eb03920a1abd",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In het kader van een experiment waarin ervaring met een nieuw product of nieuwe procedure wordt opgedaan (PU).",
-		"id": "7fd62e73-ede6-4e91-97c9-06297e45ec07"
-	},
-	{
-		"title": "Met een persoonlijke mening naar aanleiding van een actuele gebeurtenis (PU).",
-		"id": "458a750c-2d21-4a9d-be61-1a6eb58c9ea9"
-	},
-	{
-		"title": "Een ingezonden brief aan een buitenlandse krant in de aangrenzende regio over bijvoorbeeld grensoverschrijdende vraagstukken (PU).",
-		"id": "aa38c9df-6277-437b-ac8f-9752ad52117f"
-	},
-	{
-		"title": "Een argumentatie die het belang van een internationaal project voor een groep potentiële projectpartners duidelijk maakt (WE).",
-		"id": "2e6a8c3a-8458-4907-9dea-ec33e2dc0e45"
-	},
-	{
-		"title": "Een scriptie of onderzoeksverslag (OPL, WE).",
-		"id": "421e53d7-6bf0-4e6f-a246-50c950362d8e"
-	},
-	{
-		"title": "Een analyse van tegenvallende bedrijfs-, school-, onderzoeksresultaten (WE, OPL).",
-		"id": "28d90ed3-73f4-4964-abd9-3b4247655f85"
-	},
-	{
-		"title": "Een betoog waarin je eigen standpunten verwoordt over euthanasie (OPL).",
-		"id": "8dc8cb81-bd32-475a-9345-0252f4942072"
-	},
-	{
-		"title": "Een opstel over alternatieve energie (DL, OPL).",
-		"id": "641c2d12-5c05-46ce-bc9a-12e258044800"
-	},
-	{
-		"title": "Een samenvatting van verschillende krantenartikelen over een actueel onderwerp (OPL, WE).",
-		"id": "c10d9002-ac5b-40d4-b213-7e0f87221f98"
-	},
-	{
-		"title": "Een samenvatting van verschillende bronnen die ook voor mensen die de inhoud niet kennen begrijpelijk en bruikbaar is door gebruik te maken van een (redeneer)schema (DL, OPL, WE).",
-		"id": "07fd1861-ed51-4b86-b7c8-aefc1fc85e19"
-	},
-	{
-		"title": "Een inleiding op een hoofdstuk die de lezer een goed beeld geeft van wat er in het betreffende hoofdstuk aan bod komt en hoe het hoofdstuk gestructureerd is (OPL, WE).",
-		"id": "6c0c62b6-1392-44a6-b617-998bc79b85ce"
-	},
-	{
-		"title": "Een kritisch oordeel over een wetenschappelijk artikel (OPL).",
-		"id": "d99ab2a6-c22c-4af4-8e42-c43551644be9"
-	},
-	{
-		"title": "Een recensie van een literair werk (OPL, WE).",
-		"id": "eaabef29-d8eb-402c-85d9-cca77b75eb36"
-	},
-	{
-		"title": "Een volledig en nauwkeurig verslag van een college, seminar of werkgroep (OPL, WE).",
-		"id": "bd3bf74f-925e-4c30-93d5-58d69376a4af"
-	},
-	{
-		"title": "Een passend verslag van een experiment, met theoretische onderbouwing en conclusies (OPL, WE).",
-		"id": "471552da-ef59-4982-996a-8d74fd577008"
-	},
-	{
-		"title": "Een beschouwend artikel voor een tijdschrift over een specialistisch onderwerp (OPL, WE).",
-		"id": "f92a2500-ffe1-44f7-a8eb-eb03920a1abd"
-	},
-	{
-		"title": "Een (master)scriptie (OPL).",
-		"id": "b7952665-21b8-45c8-b831-d17134b93423"
+		"title": "Een (master)scriptie.",
+		"id": "b7952665-21b8-45c8-b831-d17134b93423",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Uitdrukkingen die behoren bij begroeting of afscheid (DL).",
@@ -4338,5 +4364,2147 @@
 	{
 		"title": "Meedoen aan een discussiegroep op internet over een actueel onderwerp: de eigen mening geven en standpunten van anderen becommentariëren (DL).",
 		"id": "6f3d13b1-84cc-4920-a8dc-1585a2f279f4"
+	},
+	{
+		"id": "0239c5a5-d3e1-451a-a068-b5cf6840a0e1",
+		"prefix": "",
+		"title": "Een rondleiding door de school begrijpen, bijvoorbeeld tijdens een uitwisseling.",
+		"description": ""
+	},
+	{
+		"id": "4ce558aa-cd6d-4735-85cd-4e7d616e2778",
+		"prefix": "",
+		"title": "Een eenvoudig of reeds bekend prentenboek, verhaaltje of sprookje dat wordt voorgelezen, begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "ff2fbffa-c7ba-45e1-b96c-2e0720dc19f6",
+		"prefix": "",
+		"title": "In een nieuwe klas: klasgenoten begrijpen die kort iets over zichzelf vertellen in simpele bewoordingen. ",
+		"description": ""
+	},
+	{
+		"id": "66e2dc7f-df34-4e2c-abbb-bac6b49e17b0",
+		"prefix": "",
+		"title": "Een spreekbeurt volgen van een klasgenoot over diens huisdier of favoriete boek.",
+		"description": ""
+	},
+	{
+		"id": "2f745a61-4ecb-4676-b03e-1b4f76113c82",
+		"prefix": "",
+		"title": "Een praatje volgen op een open dag van een sportclub of muziekschool.",
+		"description": ""
+	},
+	{
+		"id": "55e4d9e7-7d54-425b-ab48-13e9b2e624eb",
+		"prefix": "",
+		"title": "Een korte demonstratie volgen over veiligheidsvoorschriften, bijvoorbeeld in het vliegtuig.",
+		"description": ""
+	},
+	{
+		"id": "b9c57adb-d268-4cc1-a567-a3a808cbc0ed",
+		"prefix": "",
+		"title": "Eenvoudige informatie begrijpen tijdens een rondleiding: door je nieuwe school, in de sportschool, bij een gastgezin, op je werk tijdens je eerste werkdag.\n",
+		"description": ""
+	},
+	{
+		"id": "bc398c70-316b-4f70-8a67-1a85037001f4",
+		"prefix": "",
+		"title": "Een spreekbeurt volgen van klasgenoten, bijvoorbeeld een presentatie van een sectorwerkstuk.",
+		"description": ""
+	},
+	{
+		"id": "935c8e38-d382-47a5-bfb8-12c250837fcf",
+		"prefix": "",
+		"title": "Een presentatie volgen over de nieuwe indeling van de werkplekken of de lokalen.",
+		"description": ""
+	},
+	{
+		"id": "3c750893-c888-4a38-93f5-a8027e4bbb85",
+		"prefix": "",
+		"title": "Bij de start van het studiejaar: een presentatie volgen over de opbouw van het studiejaar zoals bijvoorbeeld welke vakken, welke periode, toetsing.",
+		"description": ""
+	},
+	{
+		"id": "0b039e02-7ee7-4f38-a699-9da9df25647e",
+		"prefix": "",
+		"title": "Een demonstratie volgen van een bepaald gerecht, waarbij de kok de stappen mondeling toelicht. ",
+		"description": ""
+	},
+	{
+		"id": "712622ef-5ae0-4abc-8809-6a97ec255add",
+		"prefix": "",
+		"title": "Voorlichting kunnen volgen van een mogelijke vervolgopleiding.",
+		"description": ""
+	},
+	{
+		"id": "ade0c51c-8e4b-4606-b9a8-85267459169a",
+		"prefix": "",
+		"title": "Een gids kunnen volgen op locatie, bijvoorbeeld een gids in een natuurgebied.",
+		"description": ""
+	},
+	{
+		"id": "995de68f-117f-4695-b2be-7203a01abec6",
+		"prefix": "",
+		"title": "Een demonstratie volgen van de biologiedocent tijdens een practicum.",
+		"description": ""
+	},
+	{
+		"id": "1815c249-248c-499d-8082-c4d42d3a425f",
+		"prefix": "",
+		"title": "Een presentatie volgen van een reisbestemming op een vakantiebeurs.",
+		"description": ""
+	},
+	{
+		"id": "33af9c5e-9266-4c70-886c-4d6aca72e67f",
+		"prefix": "",
+		"title": "Een presentatie tijdens een congresbezoek volgen.",
+		"description": ""
+	},
+	{
+		"id": "67ff12a6-65bf-4f6b-bac3-045083738afa",
+		"prefix": "",
+		"title": "Een rondleiding begrijpen in een museum over de natuur.",
+		"description": ""
+	},
+	{
+		"id": "692c249e-4955-40c0-9b29-cff31af1d2be",
+		"prefix": "",
+		"title": "Een spreekbeurt volgen van een klasgenoot.",
+		"description": ""
+	},
+	{
+		"id": "8312a8cb-d15d-4f07-9ea5-b323dea783cb",
+		"prefix": "",
+		"title": "Hoofd- en bijzaken onderscheiden in een spreekbeurt over het klimaat.",
+		"description": ""
+	},
+	{
+		"id": "2b89f87d-bea3-4c69-a7ac-234771fcfd16",
+		"prefix": "",
+		"title": "Hoofdlijnen en ondersteunende details onderscheiden in een presentatie over een sport zoals surfen of hockey.",
+		"description": ""
+	},
+	{
+		"id": "ac20c707-e9dc-4065-ac55-57f4a5b36543",
+		"prefix": "",
+		"title": "Hoofdlijnen en ondersteunende details onderscheiden in een informatiebijeenkomst over een nieuw jeugdhonk of dorpshuis.",
+		"description": ""
+	},
+	{
+		"id": "a121b067-8737-4fe7-9241-92691d930400",
+		"prefix": "",
+		"title": "Hoofd- en bijzaken onderscheiden in een online voorlichting van een instelling voor vervolgonderwijs.",
+		"description": ""
+	},
+	{
+		"id": "ef80201e-fbb1-4ee3-8ea8-d19aafb1e4ae",
+		"prefix": "",
+		"title": "Een lezing begrijpen over bijvoorbeeld duurzaamheid of het bereiken van klimaatdoelen.",
+		"description": ""
+	},
+	{
+		"id": "6fb2ca03-e233-4a5c-b625-fcc4495013bc",
+		"prefix": "",
+		"title": "Een debat volgen over een politiek onderwerp zoals bijvoorbeeld bij presidentiële verkiezingen.",
+		"description": ""
+	},
+	{
+		"id": "71ab0bc0-f319-4b85-881f-fcc181028404",
+		"prefix": "",
+		"title": "Een lezing volgen over het gebruik van sociale media in het onderwijs.",
+		"description": ""
+	},
+	{
+		"id": "7edb7b7a-69f8-474a-9374-f819034e3052",
+		"prefix": "",
+		"title": "Hoofd- en bijzaken onderscheiden in een politiek debat of met betrekking tot een politiek onderwerp zoals bij bijvoorbeeld presidentiële verkiezingen.",
+		"description": ""
+	},
+	{
+		"id": "cdda1e2d-2e4a-4568-ad28-be5379797787",
+		"prefix": "",
+		"title": "Hoofd- en bijzaken onderscheiden in een lezing over het gebruik van sociale media in het onderwijs.",
+		"description": ""
+	},
+	{
+		"id": "b00cfa8c-b64b-49d0-bb08-d50157fecdfa",
+		"prefix": "",
+		"title": "Hoofd- en bijzaken onderscheiden in een informatiebijeenkomst over huisvesting voor vluchtelingen.",
+		"description": ""
+	},
+	{
+		"id": "76977840-80b5-457a-8177-699a27f70273",
+		"prefix": "",
+		"title": "Hoofd- en bijzaken onderscheiden in een webinar over ecologische voetafdruk.",
+		"description": ""
+	},
+	{
+		"id": "b9d4e9b5-11ae-4fce-96aa-a77077b20f85",
+		"prefix": "",
+		"title": "Hoofd- en bijzaken onderscheiden in een voordracht van een schrijver op school.",
+		"description": ""
+	},
+	{
+		"id": "b3f5412c-e009-4159-af17-c1e2732b6702",
+		"prefix": "",
+		"title": "Het standpunt van de spreker herkennen in een vergadering van de gemeenteraad over bijvoorbeeld de komst van een zonnepark.",
+		"description": ""
+	},
+	{
+		"id": "33930b79-d3ba-4912-b7c2-0c7049de1646",
+		"prefix": "",
+		"title": "Het standpunt van de spreker herkennen in een toespraak bij een demonstratie.",
+		"description": ""
+	},
+	{
+		"id": "e50dffc4-6794-49b1-9382-383c87f5934e",
+		"prefix": "",
+		"title": "Het standpunt van de spreker herkennen in een debat over een politiek onderwerp zoals bij presidentiële verkiezingen.",
+		"description": ""
+	},
+	{
+		"id": "76a0a449-9097-47cf-b80e-e7da7eb93eb8",
+		"prefix": "",
+		"title": "Het standpunt van de spreker herkennen in een lezing over het gebruik van sociale media in het onderwijs.",
+		"description": ""
+	},
+	{
+		"id": "3cf1c9cc-d208-4e35-84a1-b17b722bf7f7",
+		"prefix": "",
+		"title": "Het standpunt van een gastdocent begrijpen in een betoog over vraagstukken rondom internationale betrekkingen.",
+		"description": ""
+	},
+	{
+		"id": "de3271e3-151b-499e-bc9e-79438d21ee1b",
+		"prefix": "",
+		"title": "Het standpunt van een spreker begrijpen in een uiteenzetting op een vakbeurs waarin de eigen producten worden vergeleken met die van de concurrenten.",
+		"description": ""
+	},
+	{
+		"id": "ee3ba0af-ea3e-4ec1-8033-c0ae0ca2f469",
+		"prefix": "",
+		"title": "Het standpunt van de spreker begrijpen in een technische demonstratie waarin informatie wordt gegeven over de werking van een nieuwe machine.",
+		"description": ""
+	},
+	{
+		"id": "2f7cb0d0-fdf6-41c7-a7db-8184f8c77ebf",
+		"prefix": "",
+		"title": "Het standpunt van de spreker begrijpen in een presentatie over een vaktechnisch onderwerp tijdens een internationale conferentie.",
+		"description": ""
+	},
+	{
+		"id": "df4b2ad4-909f-4ba3-b789-c8ecc2bbb9ae",
+		"prefix": "",
+		"title": "Woordgrappen, ironie en sarcasme in presentaties begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "8193ddc8-4376-4f8f-ac03-a0b14232eb1f",
+		"prefix": "",
+		"title": "De uitleg van een simpele route begrijpen en die opvolgen.",
+		"description": ""
+	},
+	{
+		"id": "bf7efaf1-f906-4a92-b5d4-8139d3e2b0c2",
+		"prefix": "",
+		"title": "Simpele aanwijzingen van de leraar begrijpen zoals: Pet af!",
+		"description": ""
+	},
+	{
+		"id": "485c25df-eef0-4a6a-aa67-8d6007ba9c09",
+		"prefix": "",
+		"title": "Eenvoudige opdrachten van de leraar begrijpen zoals: Pak je potlood, Wijs de rode bal aan, Open je boek op pagina drie.",
+		"description": ""
+	},
+	{
+		"id": "263763ed-be2d-4b70-ac61-af2b16d01250",
+		"prefix": "",
+		"title": "In het klaslokaal: uitleg begrijpen over waar bepaalde spullen liggen, bijvoorbeeld: de potloden liggen in de linker kast naast de woordenboeken.",
+		"description": ""
+	},
+	{
+		"id": "fa7e9506-f142-4d2e-b6ac-be3320f88a0d",
+		"prefix": "",
+		"title": "Op het schoolplein: uitleg begrijpen over waar iemand zich verstopt heeft.",
+		"description": ""
+	},
+	{
+		"id": "9dcb8af0-904c-4ab5-ad51-6df3615988f6",
+		"prefix": "",
+		"title": "Op je logeeradres: uitleg over waar de wificode staat.",
+		"description": ""
+	},
+	{
+		"id": "39227819-27ee-43fc-a36e-c1f49acdb1c5",
+		"prefix": "",
+		"title": "Thuis: uitleg over waar de oplader van de mobiele telefoon ligt.",
+		"description": ""
+	},
+	{
+		"id": "d6176cda-6157-47af-acb8-38233d84dc92",
+		"prefix": "",
+		"title": "In de supermarkt: uitleg over waar je iets kunt vinden.",
+		"description": ""
+	},
+	{
+		"id": "5b4a7d9c-e2e7-42ff-ba92-ea7e7797d83a",
+		"prefix": "",
+		"title": "Een omroepbericht in het zwembad/de dierentuin: over hoeveel tijd het gaat sluiten.",
+		"description": ""
+	},
+	{
+		"id": "488f67e0-bd58-4e84-8b99-bbe16fce3352",
+		"prefix": "",
+		"title": "Een omroepbericht bij een actie voor het goede doel: hoeveel geld er tot nu toe opgehaald is.",
+		"description": ""
+	},
+	{
+		"id": "a19b3c63-48a2-4f15-9a71-599b40c1132e",
+		"prefix": "",
+		"title": "Een omroepbericht op het station: hoe laat de vertraagde trein vertrekt.",
+		"description": ""
+	},
+	{
+		"id": "c7f9bf56-e30c-4509-9314-7b76808d36bf",
+		"prefix": "",
+		"title": "Een omroepbericht in het sportstadion: wat de tussenstand is van de wedstrijd.",
+		"description": ""
+	},
+	{
+		"id": "58de51e5-1978-4e56-9a37-af7e989c1764",
+		"prefix": "",
+		"title": "Een omroepbericht op een kermis: wat de prijs is voor een bepaalde attractie.",
+		"description": ""
+	},
+	{
+		"id": "178b6f91-da33-4418-b3d4-cb903a879015",
+		"prefix": "",
+		"title": "Korte instructies tijdens de les begrijpen: Stop, Doe de deur dicht, Pak de gele bal, We gaan een liedje zingen.",
+		"description": ""
+	},
+	{
+		"id": "dfa5b26a-8842-4d3b-a125-3ca1f144a5e2",
+		"prefix": "",
+		"title": "Korte aanwijzingen van de leraar begrijpen: Pak je boek, Kijk naar het bord, Let op.",
+		"description": ""
+	},
+	{
+		"id": "7b66288e-8c75-4baa-bd75-7bfa5f82247f",
+		"prefix": "",
+		"title": "Tijdens een bezoek begrijpen: kom binnen, ga zitten.",
+		"description": ""
+	},
+	{
+		"id": "955032f4-6d59-44c4-8d9d-87d6a5bc0340",
+		"prefix": "",
+		"title": "Begrijpen wat het huiswerk is en wanneer je dat moet inleveren.",
+		"description": ""
+	},
+	{
+		"id": "552e30bc-b66d-4c27-ac11-1c6dc95db0ae",
+		"prefix": "",
+		"title": "De bekendmaking van een groepsindeling begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "574b2f68-53cc-4eef-b06f-4f7f9375f159",
+		"prefix": "",
+		"title": "Mededelingen tijdens een excursie begrijpen, bijvoorbeeld waar en wanneer de lunch wordt geserveerd.",
+		"description": ""
+	},
+	{
+		"id": "79187e1a-8e4a-4404-8b63-0dfbc76f1d1c",
+		"prefix": "",
+		"title": "Tijdens een les of vergadering de mededeling begrijpen dat de bijeenkomst langer gaat duren dan gepland.",
+		"description": ""
+	},
+	{
+		"id": "bcf53839-ebdc-4750-9b11-69e4b88ceee8",
+		"prefix": "",
+		"title": "In de dierentuin: de aankondiging van de voederdemonstraties begrijpen, bijvoorbeeld bij welke dieren en hoe laat.",
+		"description": ""
+	},
+	{
+		"id": "5a6bc1a1-f712-4a32-8cd4-58b5ca738762",
+		"prefix": "",
+		"title": "Een korte routebeschrijving, bijvoorbeeld hoe je vanuit een bepaald punt naar het gemeentehuis kunt lopen, met de bus naar het huis van een vriend kunt gaan, met de trein naar de hoofdstad kunt reizen, naar het startpunt van een bepaalde sportactiviteit kunt lopen.",
+		"description": ""
+	},
+	{
+		"id": "87ac5c94-8c66-40b0-99e6-6f68fdf072a6",
+		"prefix": "",
+		"title": "Instructies van een arts over het innemen van medicijnen, het afmaken van een kuur.",
+		"description": ""
+	},
+	{
+		"id": "8e793f20-52e0-4847-83f6-b766c660af42",
+		"prefix": "",
+		"title": "Instructies voor het spelen van een bekend spel op het schoolplein.",
+		"description": ""
+	},
+	{
+		"id": "b724967f-c6a4-445e-86b1-b7e242ea869d",
+		"prefix": "",
+		"title": "Aanwijzingen van een telefonische computer om bij een bepaalde afdeling terecht te komen: toets 1 voor de klantenservice, toets 2 voor een medewerker.",
+		"description": ""
+	},
+	{
+		"id": "85e7e5bd-f9f5-4ddc-8e4a-45468129065a",
+		"prefix": "",
+		"title": "Instructies van een trainer op de sportclub over de inhoud van een training.",
+		"description": ""
+	},
+	{
+		"id": "06e5479f-3901-4659-a236-85b76801205a",
+		"prefix": "",
+		"title": "Uitleg begrijpen over hoe bepaalde automaten werken, bijvoorbeeld de kaartautomaat van het openbaar vervoer, de frisdrankautomaat.",
+		"description": ""
+	},
+	{
+		"id": "ee22cc9a-35d0-4cda-b253-c99935824259",
+		"prefix": "",
+		"title": "Uitleg begrijpen over hoe je een kopie maakt, hoe je iets kunt printen.",
+		"description": ""
+	},
+	{
+		"id": "fe35ba3f-6bc8-4953-858c-356e3f50e59d",
+		"prefix": "",
+		"title": "Uitleg begrijpen over hoe een smartphone, laptop of tablet werkt.",
+		"description": ""
+	},
+	{
+		"id": "fe186009-404d-4b34-818f-15ddb852e4b5",
+		"prefix": "",
+		"title": "Instructies begrijpen van een docent of leidinggevende over het uitvoeren van een oefening of opdracht.",
+		"description": ""
+	},
+	{
+		"id": "1c08d666-d3fe-4eba-a392-b38d5e7b1f98",
+		"prefix": "",
+		"title": "Instructies begrijpen bij een game, sport of spel.",
+		"description": ""
+	},
+	{
+		"id": "e289f9e4-1ba6-4471-bab9-86088934153d",
+		"prefix": "",
+		"title": "Instructies in eenvoudige bewoordingen begrijpen voor het bereiden van een gerecht.",
+		"description": ""
+	},
+	{
+		"id": "fb6715c8-d6d2-4c9e-9704-ca7dd7531408",
+		"prefix": "",
+		"title": "Een kort en duidelijk omroepbericht begrijpen op het station dat de trein naar X vandaag vertrekt van spoor Y vanwege een defecte trein.",
+		"description": ""
+	},
+	{
+		"id": "a0d2a125-a9cf-4af9-8817-bc38e269f830",
+		"prefix": "",
+		"title": "Omroepberichten begrijpen tijdens een sportdag of sportevenement over de afgelasting van een bepaald onderdeel vanwege weersomstandigheden. ",
+		"description": ""
+	},
+	{
+		"id": "e8835efc-1fed-4c43-9169-d8571158091c",
+		"prefix": "",
+		"title": "Eenvoudige aankondigingen begrijpen van een festivalprogramma, zoals de verplaatsing van een act met de bijbehorende reden.",
+		"description": ""
+	},
+	{
+		"id": "bb2a8292-b934-4681-9890-a77f5d0d1650",
+		"prefix": "",
+		"title": "Een instructievideo begrijpen van apparaten die dagelijks gebruikt worden zoals een printer of mobiele telefoon.",
+		"description": ""
+	},
+	{
+		"id": "d3886a46-13e3-419f-9798-64b2c5020d4f",
+		"prefix": "",
+		"title": "Een docent begrijpen die instructie geeft over een stuk gereedschap.",
+		"description": ""
+	},
+	{
+		"id": "88994139-d6d8-4d1d-80b8-24247ea02406",
+		"prefix": "",
+		"title": "Een filmpje begrijpen over hoe je een tent in elkaar zet.",
+		"description": ""
+	},
+	{
+		"id": "eb35a6d7-0dc3-4357-aee2-eeb7e7af4813",
+		"prefix": "",
+		"title": "Het dagprogramma volgen tijdens een internationale uitwisseling.",
+		"description": ""
+	},
+	{
+		"id": "b257d77d-0e12-4c69-aa74-3821f229d8b1",
+		"prefix": "",
+		"title": "Gedetailleerde aanwijzingen volgen m.b.t. reisinformatie die telefonisch verstrekt wordt.",
+		"description": ""
+	},
+	{
+		"id": "c7710d73-6b48-4df7-96eb-7f6f735ca1a1",
+		"prefix": "",
+		"title": "Aanwijzingen van de bandleider volgen over de aangepaste uitvoering van een bepaald lied.",
+		"description": ""
+	},
+	{
+		"id": "512011e6-7248-467e-8f5f-435f95ca0c6b",
+		"prefix": "",
+		"title": "Instructies van een sportinstructeur volgen, zoals bij skiën of zeilen.",
+		"description": ""
+	},
+	{
+		"id": "dfa986db-180b-453c-a4b8-1db5c20294e8",
+		"prefix": "",
+		"title": "Een gedetailleerde routebeschrijving volgen naar een bestemming waarvoor je een aantal keren moet overstappen.",
+		"description": ""
+	},
+	{
+		"id": "80eedc1d-d5bc-4c9f-9b88-e9af4c434c96",
+		"prefix": "",
+		"title": "Een omroepbericht begrijpen op een vliegveld over vertraagde of geannuleerde vluchten en waar passagiers zich kunnen melden.",
+		"description": ""
+	},
+	{
+		"id": "4513029b-a39d-4adc-863e-996419778d34",
+		"prefix": "",
+		"title": "Reisinformatie begrijpen op een station over een alternatieve bij een vertraging.",
+		"description": ""
+	},
+	{
+		"id": "07028653-aa0e-4532-86ae-b202af7a6767",
+		"prefix": "",
+		"title": "Een bericht van de docent over een aanpassing in het evaluatieproces.",
+		"description": ""
+	},
+	{
+		"id": "4bff28c0-3d4e-45b9-a682-bd4a6fe38c44",
+		"prefix": "",
+		"title": "Een mededeling over het gebruik van de nieuwe microscopen in het laboratorium.",
+		"description": ""
+	},
+	{
+		"id": "09a3fa8a-79ff-4372-a090-36a8355450c0",
+		"prefix": "",
+		"title": "Een instructiefilmpje voor het ontwerpen van een storyboard.",
+		"description": ""
+	},
+	{
+		"id": "f2795491-d94d-4bbd-a85c-8858887b3e21",
+		"prefix": "",
+		"title": "Instructies voor het leggen van knopen bij zeilen.",
+		"description": ""
+	},
+	{
+		"id": "8a1ef43c-13cf-4594-94e0-80c21338525f",
+		"prefix": "",
+		"title": "Instructies voor het maken van een elektriciteitsplan.",
+		"description": ""
+	},
+	{
+		"id": "f90660e1-9abf-4173-a15e-f8e2803aa4bb",
+		"prefix": "",
+		"title": "Instructies voor het schrijven van een essay.",
+		"description": ""
+	},
+	{
+		"id": "016cd287-f0f1-4149-a7f1-121d4cac3f72",
+		"prefix": "",
+		"title": "Uit een gesprek tussen twee klasgenoten opmaken wat ze komend weekend gaan doen met hun familie.",
+		"description": ""
+	},
+	{
+		"id": "a88a573b-4982-476d-951b-179c983af5bd",
+		"prefix": "",
+		"title": "Uit een gesprek van een groepje medeleerlingen begrijpen wat ze vinden van school en hun woonomgeving.",
+		"description": ""
+	},
+	{
+		"id": "e4018fd3-a8da-423a-a03b-f67977963478",
+		"prefix": "",
+		"title": "Uit een gesprek in een televisieserie opmaken welke hobby's de acteurs hebben.",
+		"description": ""
+	},
+	{
+		"id": "d217eae8-48db-4b34-8d1e-acbaa5c7a95c",
+		"prefix": "",
+		"title": "Op het station luisteren naar een gesprek tussen een medereiziger en de conducteur en daaruit opmaken hoe laat een bepaalde trein vertrekt.",
+		"description": ""
+	},
+	{
+		"id": "a0b425b6-8f70-41ad-a4ea-6809c5e78046",
+		"prefix": "",
+		"title": "Bij de kapper begrijpen waar de klant en de kapper van de stoel naast jou over praten.",
+		"description": ""
+	},
+	{
+		"id": "29bb2adb-faf8-48e0-8cf0-ae1d2ba0e6e8",
+		"prefix": "",
+		"title": "In de rij van een attractie op een pretpark opmaken uit een gesprek tussen twee vriendinnen hoe hun kamers eruit zien.",
+		"description": ""
+	},
+	{
+		"id": "ee382282-664f-42d9-b734-3a20ced0a79e",
+		"prefix": "",
+		"title": "Het begrijpen van een gesprek tussen vrienden over de film die ze gezien hebben.",
+		"description": ""
+	},
+	{
+		"id": "d63f3b67-1750-4ed1-9bea-37bbe7653e99",
+		"prefix": "",
+		"title": "Op een feestje een gesprek begrijpen tussen twee familieleden over hun reizen.",
+		"description": ""
+	},
+	{
+		"id": "44ac919c-2e25-4995-b140-4f3132901ebd",
+		"prefix": "",
+		"title": "Bij een fietsverhuurbedrijf het gesprek volgen tussen een klant en een medewerker.",
+		"description": ""
+	},
+	{
+		"id": "ed51dbd4-1fae-4642-a377-7347f4491aff",
+		"prefix": "",
+		"title": "Een discussie tussen vrienden over de beleving van een film of boek.",
+		"description": ""
+	},
+	{
+		"id": "57f54bd2-23a2-4548-b98d-4f26937a2b27",
+		"prefix": "",
+		"title": "Een discussie in een vriendengroep over de vraag welk sportteam het beste is.",
+		"description": ""
+	},
+	{
+		"id": "82391cc0-5775-4a4c-b4a0-c6b63d559b64",
+		"prefix": "",
+		"title": "Tijdens een uitwisseling met een partnerschool: de bijeenkomst van de leerlingenraad gaat over het gebruik van mobiele telefoons in de klas.",
+		"description": ""
+	},
+	{
+		"id": "8cfe1294-d1a7-4718-9ee3-610353e8c632",
+		"prefix": "",
+		"title": "In de bioscoop: na afloop van de film, een discussie tussen bezoekers over de film begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "5cf7c49f-f738-44d6-b7f6-9c525cc854aa",
+		"prefix": "",
+		"title": "Een gesprek volgen tussen leraar en leerlingen tijdens een bezoek aan een buitenlandse school.",
+		"description": ""
+	},
+	{
+		"id": "c68bec1b-5657-441a-811d-c1c1325e53c2",
+		"prefix": "",
+		"title": "De belangrijkste punten volgen van een uiteenzetting door studenten over een uitgevoerd project.",
+		"description": ""
+	},
+	{
+		"id": "ea4391f6-0df6-4c32-b0d2-92dc7c6ec9d0",
+		"prefix": "",
+		"title": "Een discussie volgen over een actueel onderwerp.",
+		"description": ""
+	},
+	{
+		"id": "613aa83c-df90-4683-b797-b164c62c4984",
+		"prefix": "",
+		"title": "Op een buitenlandse school andere scholieren volgen die praten over cultuurverschillen tussen het gastland en het eigen land.",
+		"description": ""
+	},
+	{
+		"id": "0b9f7365-d66e-478a-8dc1-b24932ea9dda",
+		"prefix": "",
+		"title": "Een conversatie volgen in een druk café over een onderwerp uit de actualiteit.",
+		"description": ""
+	},
+	{
+		"id": "438ba232-6cd1-455e-84ef-eaee9c3bcd7e",
+		"prefix": "",
+		"title": "De conversatie volgen tussen toeschouwers bij een sportwedstrijd over de spelende teams.",
+		"description": ""
+	},
+	{
+		"id": "1840259c-3396-4bfb-b6fb-7abc019bfdc7",
+		"prefix": "",
+		"title": "In een gesprek tussen buitenlandse leeftijdgenoten de voordelen en nadelen van een nieuw computerspel herkennen.",
+		"description": ""
+	},
+	{
+		"id": "7a748646-af28-4ad6-a20e-7681f8cd8cab",
+		"prefix": "",
+		"title": "In een gesprek tussen vrienden in een café de voors en tegens van hun studieplannen herkennen.",
+		"description": ""
+	},
+	{
+		"id": "3a36ca37-3d28-4b82-9db7-9e3b04d832bb",
+		"prefix": "",
+		"title": "Tijdens een buitenlandse stage in een gesprek tussen collega's de voors en tegens herkennen over een op handen zijnde reorganisatie.",
+		"description": ""
+	},
+	{
+		"id": "52a95493-7c7e-4111-bea4-77dd8b90ea89",
+		"prefix": "",
+		"title": "Een informeel betoog volgen op een feestje of familiereünie, bijvoorbeeld over stoppen met roken of over het vliegen naar verre bestemmingen.",
+		"description": ""
+	},
+	{
+		"id": "d1c4153c-57ea-489e-a47f-0c10867c6ccd",
+		"prefix": "",
+		"title": "Een groepsdiscussie kunnen volgen over klimaatdoelen.",
+		"description": ""
+	},
+	{
+		"id": "eed417aa-8349-49a6-b757-2097978f10fa",
+		"prefix": "",
+		"title": "Een debat kunnen volgen over stikstof.",
+		"description": ""
+	},
+	{
+		"id": "a53bf0bf-b976-4c19-8534-31844c7854bb",
+		"prefix": "",
+		"title": "Een gesprek kunnen volgen over fake news.",
+		"description": ""
+	},
+	{
+		"id": "ffe7b5c0-0a42-437e-8bb6-aadb080846a1",
+		"prefix": "",
+		"title": "Een filosofische discussie kunnen volgen over idealisme.",
+		"description": ""
+	},
+	{
+		"id": "b087c6a2-ffa0-4c7c-b731-332553e1f5f0",
+		"prefix": "",
+		"title": "In een gesprek de houdingen van sprekers herkennen over de komende verkiezingen op de radio of televisie.",
+		"description": ""
+	},
+	{
+		"id": "9ffd571a-c42b-4f08-be38-ba4deae546b0",
+		"prefix": "",
+		"title": "In een late night talkshow met verschillende actuele onderwerpen de houdingen van meerdere sprekers herkennen.",
+		"description": ""
+	},
+	{
+		"id": "31ed4f65-d654-46be-94ff-3731d2e97a66",
+		"prefix": "",
+		"title": "In een verkiezingsdebat met meerdere politieke partijen de houdingen van de sprekers herkennen.",
+		"description": ""
+	},
+	{
+		"id": "25609645-cec8-4e44-ad63-ccd77c0a25ad",
+		"prefix": "",
+		"title": "De uiteenlopende meningen van sprekers herkennen in een rondetafelgesprek over actuele zaken.",
+		"description": ""
+	},
+	{
+		"id": "303599e2-985d-4383-a9d8-cb55a5eeab84",
+		"prefix": "",
+		"title": "In een discussie implicaties herkennen over het verbod op het dragen van gezichtsbedekkende kleding.",
+		"description": ""
+	},
+	{
+		"id": "d83411bd-34e9-40a3-b369-6dc7517b0fcc",
+		"prefix": "",
+		"title": "In een gesprek sociaal-culturele implicaties waarnemen tijdens een protest of demonstratie.",
+		"description": ""
+	},
+	{
+		"id": "a952e35f-57c0-4db8-8533-4245e316998c",
+		"prefix": "",
+		"title": "In een geluidsbericht, zoals bijvoorbeeld voicemail, herkennen wanneer je je vrienden gaat ontmoeten.",
+		"description": ""
+	},
+	{
+		"id": "8df0018f-5813-48af-8b10-6205a7107df9",
+		"prefix": "",
+		"title": "Op de radio een zeer eenvoudig weerbericht begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "bece64a3-3793-40c1-a05c-e0722ca34125",
+		"prefix": "",
+		"title": "Enkele woorden in een bekend popliedje herkennen.",
+		"description": ""
+	},
+	{
+		"id": "b0d0940f-4eb0-410d-a6fc-17713d3d7de2",
+		"prefix": "",
+		"title": "De namen van enkele dieren in een kinderliedje of rijmpje over de boerderij herkennen.",
+		"description": ""
+	},
+	{
+		"id": "a0e803c3-9b13-4bec-9309-52c693082051",
+		"prefix": "",
+		"title": "Uit het weerbericht opmaken wat voor weer het vandaag wordt: blijft het droog of gaat het regenen, wat wordt de temperatuur?",
+		"description": ""
+	},
+	{
+		"id": "8a7cac47-c4f7-47f4-bac2-09ee3010cb02",
+		"prefix": "",
+		"title": "Uit een kinderliedje concrete informatie oppikken, zoals over wie het gaat (bijvoorbeeld welke dieren), hoeveel er ergens van zijn (bv hoeveel eendjes) en welke kleuren iets heeft.",
+		"description": ""
+	},
+	{
+		"id": "4804dfc8-7789-4f71-b29e-7dc0c99c63d5",
+		"prefix": "",
+		"title": "In een spraakbericht (zoals voicemail) herkennen waar jouw vrienden je voor uitnodigen (plaats, tijd, soort activiteit).",
+		"description": ""
+	},
+	{
+		"id": "ad8798c3-2556-4504-aac6-b1f29aadd83b",
+		"prefix": "",
+		"title": "Een bericht op de radio over waar er files staan en hoe lang deze zijn zoals bijvoorbeeld aantal kilometer, vertraging in tijd.",
+		"description": ""
+	},
+	{
+		"id": "db3adba4-c976-45fb-80fc-3a5fdbdc2cc9",
+		"prefix": "",
+		"title": "Een aankondiging op de radio: de naam van het liedje dat gespeeld gaat worden na de reclame plus de naam van de artiest.",
+		"description": ""
+	},
+	{
+		"id": "72b9c811-fdba-4a25-ac9d-ede28bb81282",
+		"prefix": "",
+		"title": "Een eenvoudig luisterboek begrijpen waarvan het verhaal al deels bekend is.",
+		"description": ""
+	},
+	{
+		"id": "1da42c6e-d9d7-4000-b136-0216af386c41",
+		"prefix": "",
+		"title": "Een radiofragment begrijpen waarin mensen vertellen over gebeurtenissen die hun leven hebben veranderd.",
+		"description": ""
+	},
+	{
+		"id": "3e7c2748-1cad-4387-ab17-8f1a4583073f",
+		"prefix": "",
+		"title": "Een ingesproken bericht begrijpen van een vriend die vertelt over hoe zijn reis is verlopen.",
+		"description": ""
+	},
+	{
+		"id": "35a910bf-45f2-44a2-bad4-992025c68b90",
+		"prefix": "",
+		"title": "Een korte podcast begrijpen waarin iemand over zijn hobby spreekt.",
+		"description": ""
+	},
+	{
+		"id": "cece08d7-b550-491d-9c7f-616414dc2773",
+		"prefix": "",
+		"title": "Een interview begrijpen met bijvoorbeeld scholieren uit verschillende landen over wat zij vinden van hun vrijetijdsbesteding of met beroemdheden (bijvoorbeeld sporters, acteurs of politici) die vertellen over hun hobby's en wat ze er wel en niet leuk aan vinden.",
+		"description": ""
+	},
+	{
+		"id": "f5e5ffed-f065-4a66-b8bc-54f7c39819f0",
+		"prefix": "",
+		"title": "Een verhaal begrijpen over een spannende gebeurtenis tijdens de vakantie.",
+		"description": ""
+	},
+	{
+		"id": "a80c7353-dc74-4fcd-8499-4d5c8f36d1d6",
+		"prefix": "",
+		"title": "Een samenvatting begrijpen op sociale media over een gelezen boek.",
+		"description": ""
+	},
+	{
+		"id": "1cad8c04-251c-4fc0-ad55-a172c20c54d3",
+		"prefix": "",
+		"title": "Een hoofdstuk begrijpen van een luisterboek passend bij de belevingswereld.",
+		"description": ""
+	},
+	{
+		"id": "e51ec1ce-743d-4e3b-932e-dbdcefa8e590",
+		"prefix": "",
+		"title": "Een podcast begrijpen en daarin de standpunten en houdingen herkennen over een literaire onderwerp.",
+		"description": ""
+	},
+	{
+		"id": "5df508f8-6973-4029-8699-43524db4f35d",
+		"prefix": "",
+		"title": "Een commercial begrijpen, bijvoorbeeld van een reisbureau over hun nieuwe, compleet verzorgde rondreis, een telecomprovider over het voordeligste telefoonabonnement, een verzekeringsmaatschappij over een nieuw soort verzekering, de aankondiging van een nieuw product, bijvoorbeeld een game of modeartikel.",
+		"description": ""
+	},
+	{
+		"id": "01a94e8f-7e0d-456d-a302-29f3c9cf2f7a",
+		"prefix": "",
+		"title": "Een podcast begrijpen voor en door jongeren.",
+		"description": ""
+	},
+	{
+		"id": "91f58241-8bed-4ffe-bdfa-6e813197dde7",
+		"prefix": "",
+		"title": "Een radioprogramma of een opname op sociale media begrijpen over nieuw verschenen boeken voor de zomervakantie.",
+		"description": ""
+	},
+	{
+		"id": "3a25a6fb-f7fe-4767-8ce0-47fa68e0d2a9",
+		"prefix": "",
+		"title": "Het onderwerp herkennen in een korte video over een bezienswaardigheid in een bekende stad, een kort filmpje waarin een kind vertelt over een huisdier, een kort verslag (filmpje/vlog) van een sportdag op school, een korte animatie of videoclip van een bekend liedje of rijmpje.",
+		"description": ""
+	},
+	{
+		"id": "80422d49-e47e-4b72-b5af-6ce19fe874dc",
+		"prefix": "",
+		"title": "Een overzicht van actuele onderwerpen in een buitenlands jeugdjournaal begrijpen, bijvoorbeeld welke onderwerpen in deze aflevering van het jeugdjournaal worden behandeld.",
+		"description": ""
+	},
+	{
+		"id": "f91e8641-f46f-4967-9b9d-b4abe25f143d",
+		"prefix": "",
+		"title": "Televisiereclames voor verschillende producten begrijpen, zoals voor auto's, games, kleding, mobiele telefoons of speelgoed.",
+		"description": ""
+	},
+	{
+		"id": "fd136119-9776-49d6-961c-0ca40e041a75",
+		"prefix": "",
+		"title": "Een trailer begrijpen voor een nieuwe romantische komedie, horrorfilm of thriller.",
+		"description": ""
+	},
+	{
+		"id": "346a29cb-0d55-4838-84c7-bb11a8c23a7d",
+		"prefix": "",
+		"title": "Een korte scène begrijpen uit een film of serie.",
+		"description": ""
+	},
+	{
+		"id": "45222c4e-d8f5-44df-a7d9-eb62b0fdf265",
+		"prefix": "",
+		"title": "Een korte televisiereclame begrijpen van een film die recent in de prijzen is gevallen.",
+		"description": ""
+	},
+	{
+		"id": "5f55d36c-35f3-4662-b90d-c192cedb6a17",
+		"prefix": "",
+		"title": "Op een nieuwsplatform een video begrijpen over het klimaat.",
+		"description": ""
+	},
+	{
+		"id": "2277a214-645e-4d31-a2fb-22b454e898af",
+		"prefix": "",
+		"title": "Een nieuwsvideo begrijpen die gedeeld is op sociale media over een popartiest.",
+		"description": ""
+	},
+	{
+		"id": "ba2cf246-899a-40ad-9922-e4c772742853",
+		"prefix": "",
+		"title": "Een lezing begrijpen op YouTube over een bepaalde muziekstijl.",
+		"description": ""
+	},
+	{
+		"id": "d25c96fd-6dbd-4318-bd72-3dfb3b47c57e",
+		"prefix": "",
+		"title": "Een vlog begrijpen van influencers of semiprofessionele gamers die spelen en computerspellen becommentariëren.",
+		"description": ""
+	},
+	{
+		"id": "cd3e0ee3-c0ca-4dfd-9668-d715fce86e96",
+		"prefix": "",
+		"title": "De belangrijkste punten halen uit een uitzending met achtergronden bij het nieuws.",
+		"description": ""
+	},
+	{
+		"id": "85357d41-dd22-4cb9-a142-4cc8eeb89206",
+		"prefix": "",
+		"title": "De belangrijkste punten halen uit een live praatprogramma over de actualiteit met gasten uit politiek en cultuur.",
+		"description": ""
+	},
+	{
+		"id": "e356c6e5-4811-4006-8c47-f665ec7cc015",
+		"prefix": "",
+		"title": "Een serie via een streamingsdienst volgen over het leven op het platteland in de 19e eeuw.",
+		"description": ""
+	},
+	{
+		"id": "f3d9da89-647d-4e2e-8521-7a2554a139a1",
+		"prefix": "",
+		"title": "Nuances en impliciete betekenis begrijpen in literaire films en/of filmhuis films.",
+		"description": ""
+	},
+	{
+		"id": "9dceb9ca-5099-49c3-a9b0-ee5d36616905",
+		"prefix": "",
+		"title": "De details begrijpen van een verfilming van een bekend toneelstuk.",
+		"description": ""
+	},
+	{
+		"id": "9dc20e16-b3cd-45ca-b350-7de5c3716ace",
+		"prefix": "",
+		"title": "De nuances begrijpen in een documentaire over China.",
+		"description": ""
+	},
+	{
+		"id": "ee724e5c-7db3-472c-ab4d-6ae5dbfa0ea4",
+		"prefix": "",
+		"title": "Een achtergrondreportage bij het nieuws begrijpen over de invloed van schommelende energieprijzen op economische groei.",
+		"description": ""
+	},
+	{
+		"id": "d35ea824-555e-446c-bc23-bf96e419c508",
+		"prefix": "",
+		"title": "Een interview begrijpen met acteurs uit een bekende film.",
+		"description": ""
+	},
+	{
+		"id": "ad11ca48-d8c0-4e2c-8df0-2c425ec74ec1",
+		"prefix": "",
+		"title": "Een praatprogramma begrijpen over de actualiteit.",
+		"description": ""
+	},
+	{
+		"id": "7a59353e-1980-4af3-bb87-04304ba34c66",
+		"prefix": "",
+		"title": "Een late night show begrijpen over een sportief evenement zoals de Olympische Spelen.",
+		"description": ""
+	},
+	{
+		"id": "a4050384-6882-46d6-8a5f-14b7cfc3d786",
+		"prefix": "",
+		"title": "Een actualiteitenprogramma met interviews begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "48ce1844-52e0-4b79-8443-919faeb617b1",
+		"prefix": "",
+		"title": "De hoofdpunten/belangrijkste informatie opmaken uit een uitnodiging voor een (verjaardags-) feest of een bruiloft.",
+		"description": ""
+	},
+	{
+		"id": "0120562e-22b8-4b8e-985f-562c3fc48fbd",
+		"prefix": "",
+		"title": "De hoofdpunten/belangrijkste informatie opmaken uit een chatbericht met een uitnodiging voor een filmavond bij vrienden.",
+		"description": ""
+	},
+	{
+		"id": "7bf7102c-f3d3-4a68-a173-8eb45dc60df2",
+		"prefix": "",
+		"title": "Uit een zeer eenvoudig berichtje opmaken in welk lokaal er morgen les is.",
+		"description": ""
+	},
+	{
+		"id": "0823f4c2-fec2-434f-a480-5edff78048eb",
+		"prefix": "",
+		"title": "Uit een zeer eenvoudig berichtje van vrienden opmaken dat ze iets later komen.",
+		"description": ""
+	},
+	{
+		"id": "db3fbcd9-c696-4a51-bbec-a1b58aa74b21",
+		"prefix": "",
+		"title": "Uit een zeer eenvoudig briefje op de deur opmaken dat de bel stuk is.",
+		"description": ""
+	},
+	{
+		"id": "a441b204-9500-491c-8283-9e99beeef6da",
+		"prefix": "",
+		"title": "Een kerst-, nieuwjaars-, verjaardags-, of  beterschapskaart begrijpen, een rouw- of geboortekaartje begrijpen, een uitnodiging voor een partijtje of feest begrijpen, een ansichtkaart verzonden vanaf een vakantieadres begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "c07f1fa3-ef76-400e-8d99-932b975323ee",
+		"prefix": "",
+		"title": "Een brief of e-mail begrijpen over het weer en de verblijfplaats tijdens iemands vakantie, over hoe het gaat met de correspondentiepartner, over iemands hobby of huisdier, met de vraag om iets mee te nemen voor een etentje of feestje.\n",
+		"description": ""
+	},
+	{
+		"id": "4cc78db9-453e-4a80-869d-ebfafa41b287",
+		"prefix": "",
+		"title": "Een brief, e-mail of (chat-)bericht begrijpen van een correspondentiepartner over de opening van een filiaal van je favoriete winkel, tips voor het uitgaan in een bekende stad, een (geslaagd/afgelast) schoolfeest, een nieuwe eenvoudige game.",
+		"description": ""
+	},
+	{
+		"id": "8d71d5bb-e796-434f-a7de-c28784026a8a",
+		"prefix": "",
+		"title": "Een beschrijving van een feest begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "97d23846-1680-40c7-80b3-5b01adbb9510",
+		"prefix": "",
+		"title": "Een beschrijving van de correspondentiepartner over diens bijbaantje begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "1eaeb61e-f22b-41f7-9205-a900df016c18",
+		"prefix": "",
+		"title": "Een beschrijving van de persoonlijke ervaringen met een nieuwe opleiding of een nieuwe baan of stage begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "ebf2666d-e213-4f84-8ff8-8aee6e9bd5dd",
+		"prefix": "",
+		"title": "Een verslag van de persoonlijke beleving van een sportwedstrijd waar diegene aan deelgenomen heeft begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "96df5af8-23ad-48b4-957f-90c6f96a350e",
+		"prefix": "",
+		"title": "Een verzoek begrijpen om mee te doen aan een e-mailactie ten bate van een maatschappelijk belang en dit delen met je vrienden.",
+		"description": ""
+	},
+	{
+		"id": "8e59ab0f-e61f-45f2-b1e5-eb2513ece1de",
+		"prefix": "",
+		"title": "Een oproepbrief begrijpen voor een inzamelingsactie en delen met je volgers.",
+		"description": ""
+	},
+	{
+		"id": "1fadc074-1b65-4527-ac42-4225f897c4fe",
+		"prefix": "",
+		"title": "Een chatgesprek met af en toe gebruik van spreektaal begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "08829adf-9a44-4f6c-90d2-85bbc5dd5935",
+		"prefix": "",
+		"title": "Ideeën van een correspondentiepartner begrijpen over vriendschap, relaties, werk, het milieu, enzovoort.",
+		"description": ""
+	},
+	{
+		"id": "013eedcb-45f8-423f-b7e9-2d6f914fd198",
+		"prefix": "",
+		"title": "Een forum op de website van een politieke partij of een maatschappelijke organisatie begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "e048e287-cb50-467a-b64a-7f86512b4354",
+		"prefix": "",
+		"title": "Een chatgesprek begrijpen waarin mensen ervaringen uitwisselen.",
+		"description": ""
+	},
+	{
+		"id": "9365e01b-c9c2-472b-a14f-0b80c36f8c4a",
+		"prefix": "",
+		"title": "Persoonlijke berichten in een werkgerelateerde groepsapp of e-mail begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "b3d62d42-3472-4d46-972e-002f65315bdb",
+		"prefix": "",
+		"title": "Een antwoord begrijpen op een inhoudelijke vraag aan een onderzoeksteam n.a.v. een onderzoeksverslag op vakgebied.",
+		"description": ""
+	},
+	{
+		"id": "fb6489a6-5c71-4c62-8f3f-774394955beb",
+		"prefix": "",
+		"title": "Een brief of e-mail begrijpen met de informatie over het retour zenden van een product, de bevestiging van een reservering, informatie over een afspraak bij de tandarts of in het ziekenhuis: wat je mee moet nemen, hoe je er komt met, waar je je moet melden.",
+		"description": ""
+	},
+	{
+		"id": "2bd54491-3157-4529-8ec9-c95fd9699b9a",
+		"prefix": "",
+		"title": "Borden in en rond de school: lokaal, bibliotheek, schoolplein.",
+		"description": ""
+	},
+	{
+		"id": "14127ccf-b50c-4b0f-80fe-7ae09bd085a2",
+		"prefix": "",
+		"title": "Borden in het openbaar vervoer: station, vertrekhal, halte, stiltecoupé.",
+		"description": ""
+	},
+	{
+		"id": "9d43528c-5b86-4c03-bc84-6df17967d64e",
+		"prefix": "",
+		"title": "Borden in het hotel; lift, receptie, ontbijtzaal, niet roken.",
+		"description": ""
+	},
+	{
+		"id": "3bb855a2-724c-4dd5-826b-caf6c109d5c3",
+		"prefix": "",
+		"title": "Borden in winkels en warenhuizen: uitverkoop, paskamer, lift.",
+		"description": ""
+	},
+	{
+		"id": "ebdd8ac0-c1f9-4ee3-938f-ab8ac2255788",
+		"prefix": "",
+		"title": "Toeristische bewegwijzering in een stad: centrum, museum, parkeerplaats.",
+		"description": ""
+	},
+	{
+		"id": "28218396-eaeb-47eb-9837-31f1217b468a",
+		"prefix": "",
+		"title": "De toegangsprijs van een evenement of een attractiepark vinden op een website.",
+		"description": ""
+	},
+	{
+		"id": "3abf4be6-d1a8-4c04-834f-5d233b08573a",
+		"prefix": "",
+		"title": "De openingstijden van de dierentuin of een museum vinden in een folder.",
+		"description": ""
+	},
+	{
+		"id": "55f3f4b3-e281-4b78-baa8-1c96534b7147",
+		"prefix": "",
+		"title": "Op een flyer zien waar een bekende markt is in de stad.",
+		"description": ""
+	},
+	{
+		"id": "691bb465-02d7-4ba3-9d82-e7a8150d9c81",
+		"prefix": "",
+		"title": "In het lesrooster vinden op welke dag en op welke tijd een bepaald vak gegeven wordt.",
+		"description": ""
+	},
+	{
+		"id": "5e3f1a86-7065-43bf-94a7-93d3825d0fad",
+		"prefix": "",
+		"title": "In een overzicht de openingstijden van een instelling opzoeken, bijvoorbeeld bibliotheek of sportclub.",
+		"description": ""
+	},
+	{
+		"id": "42aaa15f-995d-4f3e-aa98-ad740de8044c",
+		"prefix": "",
+		"title": "Eenvoudige huiswerkaankondigingen in de digitale leeromgeving begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "853e317a-4ed3-4591-aa3f-385ed1528aa7",
+		"prefix": "",
+		"title": "Een voedselverpakking lezen om op te zoeken of er bepaalde ingrediënten in zitten.",
+		"description": ""
+	},
+	{
+		"id": "95f71f33-d32e-4ffd-b860-56b20a10344a",
+		"prefix": "",
+		"title": "Een poster met de beschrijving van een verdwaald huisdier begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "8f9dfb3f-50b7-4cdd-856a-fca0098c8679",
+		"prefix": "",
+		"title": "Wegwijzers in een museum waar de tentoonstelling of lift is.",
+		"description": ""
+	},
+	{
+		"id": "438ef5f8-7eab-463e-8be6-7cc3c6122c9e",
+		"prefix": "",
+		"title": "In een overdekt winkelcentrum waar de muziekwinkel is.",
+		"description": ""
+	},
+	{
+		"id": "f149cfa5-8c66-437d-af87-ea6ffce5c564",
+		"prefix": "",
+		"title": "Informatie begrijpen over het gebruik van de wificode.",
+		"description": ""
+	},
+	{
+		"id": "3d3fb72f-cb39-40ae-ac17-1957ac82a7af",
+		"prefix": "",
+		"title": "Informatie begrijpen over het tijdstip om uit te checken op de dag van vertrek.",
+		"description": ""
+	},
+	{
+		"id": "f6458f03-cdd6-4fca-ad86-c0dfb6e2274e",
+		"prefix": "",
+		"title": "Informatie begrijpen over het gebruik van de televisie.",
+		"description": ""
+	},
+	{
+		"id": "9c47ec5f-30c0-4909-9f33-829929aa8b84",
+		"prefix": "",
+		"title": "Informatie begrijpen over het gebruik van het zwembad.",
+		"description": ""
+	},
+	{
+		"id": "c67dafae-1019-4d57-ad81-1e2f2a0d31ed",
+		"prefix": "",
+		"title": "Een recept begrijpen: welke ingrediënten zijn nodig, hoe lang moet het in de oven?",
+		"description": ""
+	},
+	{
+		"id": "c556d9a0-f889-48b1-8c2b-35b7553139ac",
+		"prefix": "",
+		"title": "In een reisgids praktische informatie over de bestemming lezen: welke toeristische attracties moet je gezien hebben, waar vind je de gezelligste restaurants.",
+		"description": ""
+	},
+	{
+		"id": "c8f04f7f-8caf-4415-be88-71552eaa1957",
+		"prefix": "",
+		"title": "Een recensie van een film begrijpen: welk genre, welke acteurs, is de film de moeite waard.",
+		"description": ""
+	},
+	{
+		"id": "83059bc3-4739-4b37-85fb-0636f1ee8b79",
+		"prefix": "",
+		"title": "De pagina van een webshop voor tweedehands scooters begrijpen: welke scooters worden aangeboden, welke kenmerken hebben de scooters.",
+		"description": ""
+	},
+	{
+		"id": "f8f594b3-e0c1-4c3a-97ae-2fe29318e391",
+		"prefix": "",
+		"title": "De werking en kwaliteit van mobiele telefoons vergelijken in een consumentengids of website.",
+		"description": ""
+	},
+	{
+		"id": "a048cc23-ae57-4a65-a1b0-3c5681f89073",
+		"prefix": "",
+		"title": "De kenmerken van verschillende digitale camera’s met elkaar vergelijken: welke camera voldoet het meest aan jouw wensen?",
+		"description": ""
+	},
+	{
+		"id": "33d563bc-0020-41cf-b63b-dda8c9d4fc03",
+		"prefix": "",
+		"title": "In de online brochure van de (partner)school vinden welke activiteiten er aangeboden worden buiten het reguliere rooster.",
+		"description": ""
+	},
+	{
+		"id": "0dd0dcad-1e60-4ea1-be31-e6f3e6668621",
+		"prefix": "",
+		"title": "Op de website van het VVV vinden en begrijpen welke uitgaansmogelijkheden er zijn in een dorp of stad.",
+		"description": ""
+	},
+	{
+		"id": "2ca35244-636c-4e54-8d5f-9fd602f0d583",
+		"prefix": "",
+		"title": "Voedingsmiddelen verzamelen die geschikt zijn voor bepaalde allergieën.",
+		"description": ""
+	},
+	{
+		"id": "cc233eb3-6b8e-4b05-ac0d-6200df14b76a",
+		"prefix": "",
+		"title": "Een bijsluiter van een medicijn begrijpen tegen insectenbeten of hooikoorts.",
+		"description": ""
+	},
+	{
+		"id": "2e90bf7d-7e8e-4e28-a73e-3b46b2b97db7",
+		"prefix": "",
+		"title": "Bereidingsinstructies begrijpen bij een maaltijdpakket.",
+		"description": ""
+	},
+	{
+		"id": "a13a94a1-a467-40c4-83e6-8824f23bbdb7",
+		"prefix": "",
+		"title": "Een uittreksel van een artikel op geschiktheid beoordelen, bijvoorbeeld of het gebruikt kan worden voor een schrijfopdracht.",
+		"description": ""
+	},
+	{
+		"id": "5eacba2f-0590-429a-86c5-3f56b285e715",
+		"prefix": "",
+		"title": "Kopjes en sleutelwoorden van tekst beoordelen op geschiktheid.",
+		"description": ""
+	},
+	{
+		"id": "4aa3cde6-d08a-439b-b9a9-69a133b397a3",
+		"prefix": "",
+		"title": "Op basis van een recensie bepalen of je een boek wel of niet gaat lezen, of film gaat zien.",
+		"description": ""
+	},
+	{
+		"id": "49693ca6-fb0b-44f8-b88b-4fc2df0ecf55",
+		"prefix": "",
+		"title": "Informatie vinden over een specifiek natuurgebied of een route op verschillende websites.",
+		"description": ""
+	},
+	{
+		"id": "f4f6aced-4a59-4a1d-81ed-2c10c1619fed",
+		"prefix": "",
+		"title": "Een schifting maken in een bronnenlijst uit een zoekopdracht.",
+		"description": ""
+	},
+	{
+		"id": "924faf34-0974-4ddd-80a1-6049ed1c7de2",
+		"prefix": "",
+		"title": "Een advertentie voor vrijwilligerswerk in een woon-zorg centrum.",
+		"description": ""
+	},
+	{
+		"id": "c8a01fcf-40fc-4d0d-9ebe-4d8db955cf5c",
+		"prefix": "",
+		"title": "Een aankondiging met programma, historie en traditie van een dorpsfeest.",
+		"description": ""
+	},
+	{
+		"id": "4ac19074-40bd-4088-9734-40971d09e291",
+		"prefix": "",
+		"title": "Een advertentie van verschillende soorten draadloze oortjes.",
+		"description": ""
+	},
+	{
+		"id": "c429abe4-3436-476f-ac40-8cdd9463df78",
+		"prefix": "",
+		"title": "Websites snel doorlezen bij het zoeken naar relevante artikelen voor het profielwerkstuk.",
+		"description": ""
+	},
+	{
+		"id": "cb28cdc0-ee7e-40cf-bd12-2e71eedd7e49",
+		"prefix": "",
+		"title": "Een informatiegids van een stad snel doorlezen vooruitlopend op een excursie.",
+		"description": ""
+	},
+	{
+		"id": "3bafeea5-9e2e-41a3-8911-e3e21d3dcdcf",
+		"prefix": "",
+		"title": "Een website snel doorlezen voor informatie om bij een museum de eigen route te kunnen bepalen.",
+		"description": ""
+	},
+	{
+		"id": "49b0a709-44a8-47e4-8c6c-8b8bff435e90",
+		"prefix": "",
+		"title": "Relevante en bruikbare informatie in verschillende bronnen (eventueel in verschillende talen) zoeken en selecteren voor een essay.",
+		"description": ""
+	},
+	{
+		"id": "6427b9a9-0fb9-42be-bba2-320a1bea86b9",
+		"prefix": "",
+		"title": "Een zeer korte routebeschrijving als: rechtdoor en dan links.",
+		"description": ""
+	},
+	{
+		"id": "05657d31-fa63-4475-841f-a8c6cf2ff554",
+		"prefix": "",
+		"title": "De bewegwijzering in een groot gebouw, zoals een ziekenhuis of warenhuis.",
+		"description": ""
+	},
+	{
+		"id": "21118102-9fa0-4d19-aa5a-4c0eca3cf472",
+		"prefix": "",
+		"title": "Instructies op het scherm van computer of smartphone: opnieuw opstarten, password wijzigen.",
+		"description": ""
+	},
+	{
+		"id": "af9c002b-f473-4ea3-afdd-541f15002cb6",
+		"prefix": "",
+		"title": "Een bord met veiligheidsinstructies bij een attractie: minimale leeftijd en lengte, veiligheidsbeugel dicht, niet eten en drinken.",
+		"description": ""
+	},
+	{
+		"id": "f3a58550-5357-4e4f-9409-89d5148f47e9",
+		"prefix": "",
+		"title": "Instructies op apparaten als geldautomaat, automaat voor bus- en treinkaartjes, snackautomaten, betaalautomaten in parkeergarages.",
+		"description": ""
+	},
+	{
+		"id": "027f9335-c98a-45b8-a44d-ee3fd3fa55ee",
+		"prefix": "",
+		"title": "Instructies op het scherm van computers en smartphones (zoals bijvoorbeeld updates en veiligheidsmeldingen.",
+		"description": ""
+	},
+	{
+		"id": "b834c28d-b94c-4d3f-8908-74962f93ae3e",
+		"prefix": "",
+		"title": "Instructies over wat te doen met de router als de wifi niet werkt.",
+		"description": ""
+	},
+	{
+		"id": "02f699a9-2a8d-4e02-8a15-b22effc132d3",
+		"prefix": "",
+		"title": "Instructies voor toegang tot openbare toiletten, bijvoorbeeld op een station of tankstation.",
+		"description": ""
+	},
+	{
+		"id": "2e068fea-0655-46ba-a75b-a9c3655eb54b",
+		"prefix": "",
+		"title": "De gebruiksaanwijzing op een brandblusser.",
+		"description": ""
+	},
+	{
+		"id": "faf15d75-206f-4eae-89d3-0a1f691e3f85",
+		"prefix": "",
+		"title": "Aanwijzingen begrijpen over het retourneren van gehuurde spullen, bijvoorbeeld schaatsen of een fiets.",
+		"description": ""
+	},
+	{
+		"id": "500f6b32-2639-4e24-b859-068ae9299e5a",
+		"prefix": "",
+		"title": "Instructies voor medicijnen, zoals innemen voor de maaltijd, innemen met water, niet innemen als u moet rijden.",
+		"description": ""
+	},
+	{
+		"id": "c205a631-56b4-4240-aeb0-c50637f951dd",
+		"prefix": "",
+		"title": "Een eenvoudig recept volgen uit een tijdschrift, kookboek of van een receptenwebsite.",
+		"description": ""
+	},
+	{
+		"id": "7df54d65-3f76-4da7-b371-395b34baa1e6",
+		"prefix": "",
+		"title": "Een stappenplan voor het installeren van een spelcomputer of printer.",
+		"description": ""
+	},
+	{
+		"id": "768ebd86-2076-4e70-b6e6-c28d95676337",
+		"prefix": "",
+		"title": "Een handleiding voor huishoudelijke apparaten.",
+		"description": ""
+	},
+	{
+		"id": "0d130a3c-1b7d-4786-b481-ec60f1439a1e",
+		"prefix": "",
+		"title": "Schriftelijke instructies voor het uitvoeren van een medische zelftest.",
+		"description": ""
+	},
+	{
+		"id": "cfd5a699-6a0a-4db2-a701-1098b989a8f6",
+		"prefix": "",
+		"title": "Korte, schriftelijke instructies voor het bereiden van een gerecht.",
+		"description": ""
+	},
+	{
+		"id": "d51d3184-257b-4be0-bc32-003a18be2dd6",
+		"prefix": "",
+		"title": "Een handleiding voor de aansluiting van geluidsapparatuur.",
+		"description": ""
+	},
+	{
+		"id": "741006d6-288f-4b94-bbd3-adbf43fc1b0a",
+		"prefix": "",
+		"title": "Waarschuwingen over brandbaarheid of explosiegevaar van stoffen op verpakkingen.",
+		"description": ""
+	},
+	{
+		"id": "608ae285-53d5-4e26-bd32-25ddf169b403",
+		"prefix": "",
+		"title": "Instructies over waar de reddingsvesten liggen tijdens een boottocht en wat te doen in geval van nood.",
+		"description": ""
+	},
+	{
+		"id": "8027801e-021f-409c-b705-74396dd19513",
+		"prefix": "",
+		"title": "Instructies in een sportschool over het bedienen van apparaten of het volgen van circuittraining.",
+		"description": ""
+	},
+	{
+		"id": "f685e9d1-77bc-44f9-be51-18b747b8efbe",
+		"prefix": "",
+		"title": "Een handleiding bij het aanleggen van zonnepanelen of een warmtepomp.",
+		"description": ""
+	},
+	{
+		"id": "e9d86176-d711-4823-b09b-648d9df7ca60",
+		"prefix": "",
+		"title": "Instructies voor het gebruik van een nieuw betalingssysteem.",
+		"description": ""
+	},
+	{
+		"id": "566ec0c6-bfa6-42f9-a5c4-944dbc4d4c6a",
+		"prefix": "",
+		"title": "Een eenvoudige menukaart begrijpen ondersteund met afbeeldingen.",
+		"description": ""
+	},
+	{
+		"id": "849ebc65-8240-4a4e-9070-7b032b5d71d8",
+		"prefix": "",
+		"title": "Een eenvoudig prentenboek, stripverhaal of cartoon begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "9be9be16-3898-46d2-a7cc-b6b7e43d2697",
+		"prefix": "",
+		"title": "De namen van de dieren begrijpen op een poster.",
+		"description": ""
+	},
+	{
+		"id": "92b9e9e9-b505-40a4-800e-bb0d216232b9",
+		"prefix": "",
+		"title": "De dagplanning of weekplanning van de klas begrijpen, ondersteund met afbeeldingen.",
+		"description": ""
+	},
+	{
+		"id": "e7e12b47-d91c-4292-b8da-9da9da663e56",
+		"prefix": "",
+		"title": "Een poster voor een film, concert of voorstelling begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "c4c6b79d-203a-4bdb-9b79-a3eb4bb0f115",
+		"prefix": "",
+		"title": "Een eenvoudige biografie van een artiest, acteur, sporter of influencer over leeftijd, hobby's, relaties.",
+		"description": ""
+	},
+	{
+		"id": "968268b5-5182-4988-ade9-9babec31e8d5",
+		"prefix": "",
+		"title": "Persoonlijke gegevens begrijpen van personen op een sociaal netwerk: hobby's, studie, beroep.",
+		"description": ""
+	},
+	{
+		"id": "99aeb132-6bae-4fd2-9434-39aa70e987c0",
+		"prefix": "",
+		"title": "Een kort nieuwsbericht begrijpen over een muziekfestival of een sportwedstrijd.",
+		"description": ""
+	},
+	{
+		"id": "d87ca106-2f6c-49d1-98cb-053b35686bf0",
+		"prefix": "",
+		"title": "Een beschrijving van kenmerken van diersoorten begrijpen in een tijdschrift voor kinderen.",
+		"description": ""
+	},
+	{
+		"id": "deb848a4-219d-49c4-acd4-e016dee3073d",
+		"prefix": "",
+		"title": "Een fotoverslag van een rondreis begrijpen met korte begeleidende teksten.",
+		"description": ""
+	},
+	{
+		"id": "462ff688-82cd-4674-b625-5447f75a7f48",
+		"prefix": "",
+		"title": "Een brochure met de beschrijving van verschillende shows in een pretpark.",
+		"description": ""
+	},
+	{
+		"id": "98801543-1fce-4104-ad62-4f316a0ee700",
+		"prefix": "",
+		"title": "Een brochure met animatie-activiteiten op de camping of in de buurt van een hotel.",
+		"description": ""
+	},
+	{
+		"id": "b5f6566b-396e-4877-bb97-a081992d653a",
+		"prefix": "",
+		"title": "Op een muziekfestival, de route van de parkeerplaats naar het festivalterrein.",
+		"description": ""
+	},
+	{
+		"id": "14bf9f31-2bc8-451e-83e3-0aeef8f65d8c",
+		"prefix": "",
+		"title": "De beschrijving van het recent gebouwde vogelpark in de brochure van de dierentuin.",
+		"description": ""
+	},
+	{
+		"id": "76203959-d773-483e-b472-d55dbf7e6523",
+		"prefix": "",
+		"title": "Een kort verslag van een studiedag georganiseerd door de werkgever.",
+		"description": ""
+	},
+	{
+		"id": "ca3aa18b-40a1-4708-b5c7-af59ac432a87",
+		"prefix": "",
+		"title": "Een vacature voor een vakantiebaantje of stage.",
+		"description": ""
+	},
+	{
+		"id": "f0edef26-bd65-447f-81dc-4a79d27357ef",
+		"prefix": "",
+		"title": "Informatie over het programma van een congres rondom het eigen vakgebied.",
+		"description": ""
+	},
+	{
+		"id": "b89235ca-d204-4c4c-8149-b7460289f78b",
+		"prefix": "",
+		"title": "De beschrijving van een cursus op een bepaald vakgebied, bijvoorbeeld een talencursus of een cursus computerprogrammeren.",
+		"description": ""
+	},
+	{
+		"id": "928a0384-500a-4f27-b191-1d7bb5243906",
+		"prefix": "",
+		"title": "Een persoonlijk profiel op sociale media, bijvoorbeeld een datingsite.",
+		"description": ""
+	},
+	{
+		"id": "511b89d5-f7f6-42a8-9f25-49929fbcfc75",
+		"prefix": "",
+		"title": "De profielen van leerlingen op de muren van het klaslokaal, waarin ze iets over zichzelf vertellen.",
+		"description": ""
+	},
+	{
+		"id": "ecd8db91-97fc-44af-ac23-34e8d43c902d",
+		"prefix": "",
+		"title": "Een artikel over een popfestival: begrijpen welke artiesten er speelden en of men de optredens goed vond of niet.",
+		"description": ""
+	},
+	{
+		"id": "960ae28e-a1e7-4873-909f-26352c9efe50",
+		"prefix": "",
+		"title": "Een bericht begrijpen over een staking in het openbaar vervoer op de site van de vervoerder: kun je met het openbaar vervoer op je bestemming komen?",
+		"description": ""
+	},
+	{
+		"id": "cf781e02-b52a-4a08-9128-fb0296c7ecc1",
+		"prefix": "",
+		"title": "Een bericht begrijpen op intranet over de studiedag van je school of werk: wat was het onderwerp van die dag en wie waren de sprekers?",
+		"description": ""
+	},
+	{
+		"id": "f126e3bb-a643-4aa9-9f55-039d41e28514",
+		"prefix": "",
+		"title": "Een nieuwsblog op een (jeugd)nieuwswebsite, bijvoorbeeld over een sportwedstrijd.",
+		"description": ""
+	},
+	{
+		"id": "38febf95-37f0-409a-af99-c1b8d560da48",
+		"prefix": "",
+		"title": "Een nieuwsbericht op een nieuwswebsite, bijvoorbeeld over het gebruik van sociale media.",
+		"description": ""
+	},
+	{
+		"id": "aa6c1ba5-1c4f-4d63-b5c8-04bc344cf3c5",
+		"prefix": "",
+		"title": "In een artikel, de informatie begrijpen uit een visueel overzicht van de verspreiding van talen in de wereld.",
+		"description": ""
+	},
+	{
+		"id": "773f70c2-a1f8-4f57-80a4-619584c25780",
+		"prefix": "",
+		"title": "Een krantenbericht begrijpen over prijsstijgingen of dalingen in het afgelopen jaar, met behulp van een grafiek.",
+		"description": ""
+	},
+	{
+		"id": "ff8de0ea-e4b3-4a98-b5bf-98c86d6ca266",
+		"prefix": "",
+		"title": "De belangrijke informatie in een artikel begrijpen met een aantal infographics over het gebruik van sociale mediakanalen door verschillende doelgroepen.",
+		"description": ""
+	},
+	{
+		"id": "30be79b6-5938-40fc-b302-f713a20fc93e",
+		"prefix": "",
+		"title": "De weersverwachting en windprognose op de plek waar je wilt zeilen.",
+		"description": ""
+	},
+	{
+		"id": "6c79269b-ad4c-4cf3-a934-8e7c00fee98f",
+		"prefix": "",
+		"title": "Een artikel met tips over hoe je thuis energie kunt besparen, de nieuwste mode, gezonde voeding.",
+		"description": ""
+	},
+	{
+		"id": "8dd6d1b5-3684-4221-9166-49bc9c15a320",
+		"prefix": "",
+		"title": "Een wedstrijdverslag in het krantje van de sportvereniging.",
+		"description": ""
+	},
+	{
+		"id": "4394f1d7-aa4f-4ffc-9240-db42d9084cd2",
+		"prefix": "",
+		"title": "Een artikel in een populaire en/of regionale krant over actualiteit, hobby of sport.",
+		"description": ""
+	},
+	{
+		"id": "55ca22ba-4f98-4f4f-9ec0-909ad92adbb9",
+		"prefix": "",
+		"title": "Een website over reizen of studie in het buitenland.",
+		"description": ""
+	},
+	{
+		"id": "290de6b7-ccff-45e8-8e04-e438298e51c4",
+		"prefix": "",
+		"title": "Een reisgids.",
+		"description": ""
+	},
+	{
+		"id": "dce2e492-23f2-4847-ab0d-05003130c35f",
+		"prefix": "",
+		"title": "Een tekst over een onderwerp gerelateerd aan diens opleiding.",
+		"description": ""
+	},
+	{
+		"id": "49f42a7b-1a86-4829-b33b-18abc56d4760",
+		"prefix": "",
+		"title": "Een artikel in een muziekblad over de opkomst van een nieuwe popgroep of een nieuw muziekgenre.",
+		"description": ""
+	},
+	{
+		"id": "d88f3327-f476-4c3d-8136-a87ad7a65f2c",
+		"prefix": "",
+		"title": "Kritische bijdragen in een online discussieforum.",
+		"description": ""
+	},
+	{
+		"id": "eb510da3-455a-41ad-b113-47967cabdb85",
+		"prefix": "",
+		"title": "Een opinieartikel of een interview over een actueel thema.",
+		"description": ""
+	},
+	{
+		"id": "514c483b-7aa9-4e03-87d2-1f7bdfad3a97",
+		"prefix": "",
+		"title": "Een ingezonden brief in een reactie op een gebeurtenis die in de media heeft gestaan.",
+		"description": ""
+	},
+	{
+		"id": "84c676ae-0cff-46bf-b668-6f0a4c143c93",
+		"prefix": "",
+		"title": "In artikelen belangrijke conclusies herkennen over onderwerpen op het eigen interessegebied.",
+		"description": ""
+	},
+	{
+		"id": "674fd32a-cd7d-405f-8017-f4d59b7833c7",
+		"prefix": "",
+		"title": "Belangrijke conclusies herkennen in een jongerentijdschrift over het gebruik van sociale media.",
+		"description": ""
+	},
+	{
+		"id": "d73d5ec9-1480-418a-abe6-bc76595043d0",
+		"prefix": "",
+		"title": "De redenering herkennen in een discussie op een forum over een onderwerp binnen het eigen interessegebied, bijvoorbeeld over een vuurwerkverbod of jongerenwelzijn.",
+		"description": ""
+	},
+	{
+		"id": "44a3dd04-9377-4a1d-86f4-a47a368fa7fc",
+		"prefix": "",
+		"title": "Een stelling herkennen op een krantensite met diverse reacties.",
+		"description": ""
+	},
+	{
+		"id": "ef29d271-0414-4f8f-b760-7185ab3cba5f",
+		"prefix": "",
+		"title": "Standpunten in een artikel over de arbeidsmarktrelevantie van een toekomstige studie herkennen.",
+		"description": ""
+	},
+	{
+		"id": "05520ed8-ead9-4c72-82b8-a2eb3e9f6906",
+		"prefix": "",
+		"title": "Twee nieuwsberichten op verschillende nieuwssites vergelijken.",
+		"description": ""
+	},
+	{
+		"id": "4ba05ac8-3a18-45d3-8f1d-ab9c8a98920a",
+		"prefix": "",
+		"title": "De objectieve waarnemingen en de persoonlijke mening van de auteur onderscheiden in een blog.",
+		"description": ""
+	},
+	{
+		"id": "d429337c-42f6-4d57-bb3a-1f76b2bebd78",
+		"prefix": "",
+		"title": "Het verschil herkennen tussen feitelijke informatie en de mening van de auteur in een review.",
+		"description": ""
+	},
+	{
+		"id": "74f7c1b4-f972-44b0-b682-5c1feaa49cda",
+		"prefix": "",
+		"title": "In artikelen als input voor een profielwerkstuk, het probleem en oplossingen herkennen over een milieuvraagstuk.",
+		"description": ""
+	},
+	{
+		"id": "631417f4-a6aa-457d-9558-22c38b132e7b",
+		"prefix": "",
+		"title": "In teksten over een geschiedkundig thema causale verbanden herkennen.",
+		"description": ""
+	},
+	{
+		"id": "86080cfb-d6b3-476b-9b2d-b35d965aa47d",
+		"prefix": "",
+		"title": "Voor het script ter voorbereiding op deelname aan een debat, argumenten voor en tegen uit verschillende bronnen wegen.",
+		"description": ""
+	},
+	{
+		"id": "6beb9895-c1fa-4f88-9b13-ccf061e5bfc8",
+		"prefix": "",
+		"title": "Een onderzoeksverslag in een vakblad/journal.",
+		"description": ""
+	},
+	{
+		"id": "c646745b-aaeb-4146-8010-8d5d8d0aba5d",
+		"prefix": "",
+		"title": "Wetenschappelijke artikelen.",
+		"description": ""
+	},
+	{
+		"id": "3e54281f-1ab8-4b4f-bb29-17cddc828dec",
+		"prefix": "",
+		"title": "Een artikel in een populair wetenschappelijk magazine.",
+		"description": ""
+	},
+	{
+		"id": "fc93345d-ac60-4044-9568-a1732eb5a6a0",
+		"prefix": "",
+		"title": "Het beschrijven van je eigen kamer, je klaslokaal, de woonkamer van een vriend, een kamer in je vakantieverblijf.",
+		"description": ""
+	},
+	{
+		"id": "5507bc79-82f1-4618-9b01-2ecc7dcba76a",
+		"prefix": "",
+		"title": "Op een zelfgemaakte tekening schrijven wat erop staat.",
+		"description": ""
+	},
+	{
+		"id": "d7e82bcd-a37a-41f6-b8e6-0f47b6e21bea",
+		"prefix": "",
+		"title": "Beschrijven van een voorwerp, bijvoorbeeld: 'Dat is een auto. De auto is klein en rood.'",
+		"description": ""
+	},
+	{
+		"id": "441e268f-9e74-4d2a-bcff-645b686f0ac5",
+		"prefix": "",
+		"title": "Beschrijven van een kledingstuk. 'Dit is mijn trui. De trui is zacht en warm.'",
+		"description": ""
+	},
+	{
+		"id": "f3edda67-111a-4eaa-baaf-d7708fd2309d",
+		"prefix": "",
+		"title": "Het schrijven van het slot van korte verhalende teksten met behulp van een woordenboek.",
+		"description": ""
+	},
+	{
+		"id": "fb2d0910-294b-4819-b172-3c31708aa810",
+		"prefix": "",
+		"title": "Beschrijven van je muziekoptreden.",
+		"description": ""
+	},
+	{
+		"id": "5d7d4b8f-5a1a-49b2-8b1f-33b829af179e",
+		"prefix": "",
+		"title": "Uiterlijk en biografische gegevens van een filmster, idool uit de popmuziek of sportheld voor een werkstuk.",
+		"description": ""
+	},
+	{
+		"id": "e39a8257-e1d1-4e39-b3c5-269732a20db7",
+		"prefix": "",
+		"title": "Tekstballonnen bij een stripverhaal invullen.",
+		"description": ""
+	},
+	{
+		"id": "4e657187-bf98-496f-970c-31c326469cbf",
+		"prefix": "",
+		"title": "Een inleiding schrijven voor een zelfgemaakt boekje over je huisdieren of hobby.",
+		"description": ""
+	},
+	{
+		"id": "fb2a0398-eb81-4676-8bb5-cf2b1e7de1d2",
+		"prefix": "",
+		"title": "Een eenvoudig verhaal over een zelfbedacht sprookje.",
+		"description": ""
+	},
+	{
+		"id": "7c2f09bb-de25-408a-955f-55bb24748623",
+		"prefix": "",
+		"title": "Over eigen ervaringen en bevindingen naar aanleiding van een bezoek aan een concert/festival schrijven.",
+		"description": ""
+	},
+	{
+		"id": "bd6628c6-94e4-4aaf-84df-e3abe928e170",
+		"prefix": "",
+		"title": "Een fictief verhaal over een eigen ervaring en gevoelens kunnen schrijven.",
+		"description": ""
+	},
+	{
+		"id": "64fb2569-34cd-4383-93c7-60234025b200",
+		"prefix": "",
+		"title": "In een post een persoonlijke ervaring beschrijven over deelname aan een cursus of een evenement.",
+		"description": ""
+	},
+	{
+		"id": "22c2a532-e191-4fc2-9876-359cfb8c6523",
+		"prefix": "",
+		"title": "Een kort verslag schrijven over een gastles en wat je daarvan vond.",
+		"description": ""
+	},
+	{
+		"id": "586d1b13-743e-4d0a-acd0-610fe42b43f7",
+		"prefix": "",
+		"title": "Een column schrijven voor een natuurblad waarin je vertelt over je liefde voor de natuur.",
+		"description": ""
+	},
+	{
+		"id": "081960ac-2ac6-44a3-81dd-03cfbd9d29b2",
+		"prefix": "",
+		"title": "De volgorde van gebeurtenissen in een kort (zelfverzonnen) verhaal, gedicht, fabel, songtekst, aangeven.",
+		"description": ""
+	},
+	{
+		"id": "6243a9f4-d864-4c04-b5e4-fcaa05d7ae2c",
+		"prefix": "",
+		"title": "Persoonlijke bevindingen over een serie schrijven op een forum.",
+		"description": ""
+	},
+	{
+		"id": "93f5b44f-e40a-4a11-af00-490915338192",
+		"prefix": "",
+		"title": "Een recensie over een musical schrijven voor de schoolkrant.",
+		"description": ""
+	},
+	{
+		"id": "5b631436-7024-409c-bb76-6db77b051f96",
+		"prefix": "",
+		"title": "Een recensie in een nieuwsbrief over een première in het filmhuis of een bezoek aan een theatervoorstelling.",
+		"description": ""
+	},
+	{
+		"id": "35d92c95-f1f2-4d62-a033-bb077f68b55a",
+		"prefix": "",
+		"title": "Een kritische blog op een literaire website.",
+		"description": ""
+	},
+	{
+		"id": "63f3bf05-5d90-4648-b66f-6bd62dba5988",
+		"prefix": "",
+		"title": "Een recensie van een toneelstuk, film of concert in een muziekblad.",
+		"description": ""
+	},
+	{
+		"id": "b0e36c85-a435-4d0d-bf20-4597a463fa48",
+		"prefix": "",
+		"title": "Een column in een stadskrant.",
+		"description": ""
+	},
+	{
+		"id": "a5bc248d-85f2-4987-8665-6f89e5b3a2fc",
+		"prefix": "",
+		"title": "Een script van een rollenspel of speech.",
+		"description": ""
+	},
+	{
+		"id": "52333bb6-6bec-4f44-9dfb-645cccc2b07e",
+		"prefix": "",
+		"title": "Een luchtige tekst over het jaarlijkse uitje van de sportvereniging.",
+		"description": ""
+	},
+	{
+		"id": "214d4eb2-deb3-4c23-91dc-6fb9609bcb2a",
+		"prefix": "",
+		"title": "Een humoristisch gedicht met woordgrappen naar aanleiding van een persoonlijke ervaring.",
+		"description": ""
+	},
+	{
+		"id": "1d14039d-f4ba-47cd-8129-32f02617a3ae",
+		"prefix": "",
+		"title": "Een column voor een krant met een kritische en humoristische blik.",
+		"description": ""
+	},
+	{
+		"id": "5487d3f4-485c-497e-a0d5-a01a73492cdd",
+		"prefix": "",
+		"title": "Een grappige rap met gebruik van straattaal.",
+		"description": ""
+	},
+	{
+		"id": "d0731555-7c41-47ec-b27c-58a0ba551691",
+		"prefix": "",
+		"title": "Het schrijven van een korte tekst waarin je je mening of indruk geeft over de inhoud van een boek dat je gelezen hebt, de nieuwste trends op het gebied van speelgoed, kleding, muziek, een game, film, of televisieprogramma.",
+		"description": ""
+	},
+	{
+		"id": "b5e5f1eb-087a-487e-9230-0f9c951e00a8",
+		"prefix": "",
+		"title": "Het schrijven van een kort verslag over een excursie, schoolreisje, studiereis, vakantie, wedstrijd of optreden.",
+		"description": ""
+	},
+	{
+		"id": "01ddfab4-0b2b-4b99-befd-c3d22c7cea5d",
+		"prefix": "",
+		"title": "Het schrijven van een tekst met eenvoudige informatie over een huisdier, hobby of bekende artiest.",
+		"description": ""
+	},
+	{
+		"id": "990fd943-b574-4044-86df-62c4428fd121",
+		"prefix": "",
+		"title": "Een infographic schrijven over het effect van CO2-uitstoot.",
+		"description": ""
+	},
+	{
+		"id": "a6d5a936-172d-419c-bfe7-8c157c1a3eb7",
+		"prefix": "",
+		"title": "Een stappenplan schrijven van de werking van een apparaat waarmee je zelf bekend mee bent, zoals een printer of telefoon.",
+		"description": ""
+	},
+	{
+		"id": "bfec0ffd-0143-43ca-bd58-5c6901e92d23",
+		"prefix": "",
+		"title": "Een stappenplan schrijven voor hoe je een schooltaak uitvoert, zoals het geven van een presentatie.",
+		"description": ""
+	},
+	{
+		"id": "02c502cb-db3b-4605-b286-c5d71cab525c",
+		"prefix": "",
+		"title": "Een poster waarin je verslag doet van de opbrengsten van een schoolproject, zoals over de gezonde school of een kunstproject.",
+		"description": ""
+	},
+	{
+		"id": "5821ce27-2de5-42ed-ac28-899c879774b2",
+		"prefix": "",
+		"title": "Een werkverslag schrijven, zoals een zorgverslag of een 'reparatieverslag' van een monteur. ",
+		"description": ""
+	},
+	{
+		"id": "a68fe7fd-d3fe-4a26-8a01-a75e065fe4fb",
+		"prefix": "",
+		"title": "Een betoog schrijven over het belang van ontbijt op school en daarbij ook de nadelen noemen.",
+		"description": ""
+	},
+	{
+		"id": "b362dcfc-5fc5-4aa8-a6b7-52e7e6b5d2bc",
+		"prefix": "",
+		"title": "Een essay schrijven over de voor- en nadelen van het beoefenen van topsport op jonge leeftijd of het vroeg krijgen van kinderen.",
+		"description": ""
+	},
+	{
+		"id": "9d781315-dba6-4ec4-8b78-89b4892b03b4",
+		"prefix": "",
+		"title": "Een opstel schrijven over de voor- en nadelen van het weigeren van fans bij voetbalwedstrijden of een vuurwerkverbod.",
+		"description": ""
+	},
+	{
+		"id": "7a8b0c79-928e-42fa-8690-6ac0de5565d5",
+		"prefix": "",
+		"title": "Een beschrijving van het electorale systeem van een land of van een juridisch proces.",
+		"description": ""
+	},
+	{
+		"id": "d35dddfc-02c8-4028-a615-3a6770268e77",
+		"prefix": "",
+		"title": "Een beschrijving van een onderwijskundig systeem.",
+		"description": ""
+	},
+	{
+		"id": "8a5d87d5-8f09-4765-b52f-fb6a14a34785",
+		"prefix": "",
+		"title": "Een introductie en conclusie schrijven van eigen profielwerkstuk of scriptie.",
+		"description": ""
+	},
+	{
+		"id": "b4b9e135-0dca-47b6-a51c-69f151ece36f",
+		"prefix": "",
+		"title": "Een sprekersvoorstel voor een congres schrijven.",
+		"description": ""
+	},
+	{
+		"id": "78cf8a22-9410-4307-9008-aa4d3824e556",
+		"prefix": "",
+		"title": "Een aandachtstrekker schrijven in de introductie van een beschouwing of betoog.",
+		"description": ""
+	},
+	{
+		"id": "a24f13ca-09cf-4418-8f1d-8e35b19a4175",
+		"prefix": "",
+		"title": "Een uitgebreidere herformulering van de stelling in een beschouwing of betoog.",
+		"description": ""
+	},
+	{
+		"id": "8dbf7e86-f46d-4509-a2a4-149e148c719d",
+		"prefix": "",
+		"title": "Een betoog waarin je eigen standpunten verwoordt over euthanasie.",
+		"description": ""
+	},
+	{
+		"id": "91d0ef98-e2ae-4753-ac1b-401d90fb9b86",
+		"prefix": "",
+		"title": "Een betoog over schending van mensenrechten, nucleaire energie of geïnstitutionaliseerd racisme.",
+		"description": ""
+	},
+	{
+		"id": "6107262b-b560-4df7-9970-f3b0ec8b88b1",
+		"prefix": "",
+		"title": "Een verslag van een complex profielwerkstuk.",
+		"description": ""
+	},
+	{
+		"id": "9f02f04e-e880-4c8b-ae5d-cb725c17c557",
+		"prefix": "",
+		"title": "Een betoog over het internationale vrouwenrecht.",
+		"description": ""
+	},
+	{
+		"id": "6b2b2ec3-7d12-42c4-9190-fd0f8f941e8c",
+		"prefix": "",
+		"title": "Een inleiding op een hoofdstuk die de lezer een goed beeld geeft van wat er in het betreffende hoofdstuk aan bod komt en hoe het hoofdstuk gestructureerd is.",
+		"description": ""
+	},
+	{
+		"id": "539d432a-7d3c-4b98-91f2-429a2fee6d15",
+		"prefix": "",
+		"title": "Een betoog over een actueel, controversieel onderwerp zoals bijvoorbeeld de stikstofproblematiek.",
+		"description": ""
+	},
+	{
+		"id": "7ff685b0-939a-49ec-a6a8-824f2894b9b7",
+		"prefix": "",
+		"title": "Een beschouwing over een literaire stroming.",
+		"description": ""
+	},
+	{
+		"id": "3ed0e0f5-2d41-48de-bc89-7ed5b9277ad7",
+		"prefix": "",
+		"title": "In een cabareteske toespraak waarin iemand alle registers van dubbelzinnigheid, ironie, sarcasme, etc. opentrekt verbanden concluderen.",
+		"description": ""
+	},
+	{
+		"id": "a69e1455-2377-41c0-b95e-3ce9146ec623",
+		"prefix": "",
+		"title": "Een stand-up comedian begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "e9105dbe-b4c3-4547-b901-4f65ae1afe75",
+		"prefix": "",
+		"title": "Humor in een persiflage begrijpen.",
+		"description": ""
 	}
 ]
