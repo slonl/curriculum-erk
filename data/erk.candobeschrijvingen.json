@@ -6389,16 +6389,6 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"erk_voorbeeld_id": [
-			"c68a992e-3b4b-4bd4-be2c-e5e52f9d2ca6"
-		],
-		"title": "Kan begrijpen wanneer anderen zich voorstellen aan elkaar.",
-		"id": "eeb7f581-58fc-4c4d-966f-cc67050c3f67"
-	},
-	{
-		"niveau_id": [
-			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
-		],
 		"title": "Kan enkele uitdrukkingen begrijpen als mensen over zichzelf, hun familie, school, hobby's of de omgeving praten, mits ze dat langzaam en duidelijk doen.",
 		"id": "2886a357-4212-4fd0-812a-97e750cd349f",
 		"prefix": "",
@@ -6437,19 +6427,6 @@
 			"44ac919c-2e25-4995-b140-4f3132901ebd",
 			"d63f3b67-1750-4ed1-9bea-37bbe7653e99"
 		]
-	},
-	{
-		"niveau_id": [
-			"620710de-54d2-48b5-93ab-40888732aab7"
-		],
-		"erk_voorbeeld_id": [
-			"5c24a422-80ad-4335-9982-735bd4a64604",
-			"e0542d2f-5a0e-4706-9518-8b6332b6a17c"
-		],
-		"title": "Kan over het algemeen veranderingen van onderwerp volgen in formele discussies die betrekking hebben op het eigen vakgebied.",
-		"id": "3e8f27f6-5eb4-415c-a328-31dba0fcbad7",
-		"prefix": "",
-		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -6838,17 +6815,6 @@
 	},
 	{
 		"niveau_id": [
-			"50fd5672-94d8-4445-b988-bb198f5515f4"
-		],
-		"erk_voorbeeld_id": [
-			"be3fa0dd-19bc-4f6d-9004-3b989eb5a13a",
-			"981df76e-3866-4a48-a146-5d36e0ba4a0e"
-		],
-		"title": "Kan een toneelstuk volgen.",
-		"id": "ffc17a16-fd4a-4a0c-8907-3fbe1c1eb7bc"
-	},
-	{
-		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
 		"erk_voorbeeld_id": [
@@ -6931,15 +6897,6 @@
 		],
 		"title": "Kan getallen, prijzen en tijden begrijpen die langzaam en duidelijk worden overgebracht in mededelingen via een luidspreker.",
 		"id": "cd453a9a-6cc5-488f-8a99-5190b07936c7",
-		"prefix": "",
-		"description": ""
-	},
-	{
-		"niveau_id": [
-			"620710de-54d2-48b5-93ab-40888732aab7"
-		],
-		"title": "Kan aanwijzingen begrijpen over de werking van vertrouwde apparaten, mits het apparaat voorhanden is.",
-		"id": "1e584b80-38f3-402a-b4ae-a9f0347f7f40",
 		"prefix": "",
 		"description": ""
 	},
