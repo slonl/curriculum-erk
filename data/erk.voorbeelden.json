@@ -632,55 +632,55 @@
 		"description": ""
 	},
 	{
-		"title": "(Verbods-)borden en waarschuwingen in het verkeer begrijpen: stop, niet parkeren, omleiding. ",
+		"title": "(Verbods-)borden en waarschuwingen in het verkeer: stop, niet parkeren, omleiding.",
 		"id": "f570ffe3-0e88-4c1f-beba-5de36442d9ce",
 		"prefix": "",
 		"description": ""
 	},
 	{
-		"title": "Borden in de dierentuin begrijpen: niet voeren, let op je tas, blijf op de paden.",
+		"title": "Borden in de dierentuin: niet voeren, let op je tas, blijf op de paden.",
 		"id": "fb5e7b50-e770-4fed-9aa8-60f07fc793a2",
 		"prefix": "",
 		"description": ""
 	},
 	{
-		"title": "Instructies in de publieke ruimte begrijpen: niet eten of drinken, niet roken, wc defect.",
+		"title": "Instructies in de publieke ruimte: niet eten of drinken, niet roken, wc defect.",
 		"id": "e01af722-641a-47b2-970c-159b6a1f1f9c",
 		"prefix": "",
 		"description": ""
 	},
 	{
-		"title": "Eenvoudige instructies op het scherm van een computer of smartphone begrijpen: downloaden, printen.",
+		"title": "Eenvoudige instructies op het scherm van een computer of smartphone: downloaden, printen.",
 		"id": "b4dd5edd-673b-45f2-b2cc-e576f5988bfe",
 		"prefix": "",
 		"description": ""
 	},
 	{
-		"title": "De bereidingswijze begrijpen op verpakkingen van voedingsmiddelen.",
+		"title": "De bereidingswijze op verpakkingen van voedingsmiddelen.",
 		"id": "8b768a33-ac68-42fa-9db8-b4c7cfc78ada",
 		"prefix": "",
 		"description": ""
 	},
 	{
-		"title": "Instructies begrijpen in een lift: wat te doen in geval van nood.",
+		"title": "Instructies in een lift: wat te doen in geval van nood.",
 		"id": "3ea0d028-311c-47a6-a54c-63dc6084204a",
 		"prefix": "",
 		"description": ""
 	},
 	{
-		"title": "Instructies begrijpen bij het kopen van online tickets, bijvoorbeeld voor evenementen, musea, popconcerten.",
+		"title": "Instructies bij het kopen van online tickets, bijvoorbeeld voor evenementen, musea, popconcerten.",
 		"id": "c9f0d8f2-7916-4c84-b46a-ab4c70e98070",
 		"prefix": "",
 		"description": ""
 	},
 	{
-		"title": "Instructies begrijpen bij het kopen van online vliegtickets en het online inchecken.",
+		"title": "Instructies bij het kopen van online vliegtickets en het online inchecken.",
 		"id": "c6452fdf-84af-466d-9e2d-d07d788a482c",
 		"prefix": "",
 		"description": ""
 	},
 	{
-		"title": "Instructies begrijpen bij een sport of spel.",
+		"title": "Instructies bij een sport of spel.",
 		"id": "cd887937-aa71-4bce-a0ef-6109db6da72a",
 		"prefix": "",
 		"description": ""
@@ -5790,7 +5790,7 @@
 	{
 		"id": "faf15d75-206f-4eae-89d3-0a1f691e3f85",
 		"prefix": "",
-		"title": "Aanwijzingen begrijpen over het retourneren van gehuurde spullen, bijvoorbeeld schaatsen of een fiets.",
+		"title": "Aanwijzingen over het retourneren van gehuurde spullen, bijvoorbeeld schaatsen of een fiets.",
 		"description": ""
 	},
 	{
@@ -5802,7 +5802,7 @@
 	{
 		"id": "c205a631-56b4-4240-aeb0-c50637f951dd",
 		"prefix": "",
-		"title": "Een eenvoudig recept volgen uit een tijdschrift, kookboek of van een receptenwebsite.",
+		"title": "Een eenvoudig recept uit een tijdschrift, een kookboek of van een receptenwebsite.",
 		"description": ""
 	},
 	{
