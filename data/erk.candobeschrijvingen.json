@@ -5571,7 +5571,7 @@
 		"erk_voorbeeld_id": [
 			"fd19de6d-6a17-4073-904c-2556217349b5"
 		],
-		"title": "Kan de hoofdlijn begrijpen in korte nieuwsberichten over onderwerpen binnen de persoonlijke interessesfeer (bijvoorbeeld sport, bekende sterren). ",
+		"title": "Kan de hoofdlijn begrijpen in korte nieuwsberichten over onderwerpen binnen de persoonlijke interessesfeer. ",
 		"id": "cd0372de-333e-4bcc-9593-20b87c7e954a",
 		"prefix": "",
 		"description": ""
@@ -5608,7 +5608,7 @@
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan specifieke informatie herkennen in eenvoudig schriftelijk materiaal, zoals brieven, brochures en korte krantenartikelen waarin gebeurtenissen worden beschreven.",
+		"title": "Kan specifieke informatie herkennen in eenvoudig schriftelijk materiaal, waarin gebeurtenissen worden beschreven.",
 		"id": "525c1f43-bf1f-4bed-82a0-afcfa7bff6f1",
 		"prefix": "",
 		"description": "",
@@ -5649,13 +5649,15 @@
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan de belangrijkste punten begrijpen van korte teksten over alledaagse onderwerpen (bijvoorbeeld levensstijl, hobby's, sport, weer).",
+		"title": "Kan de belangrijkste punten begrijpen van korte teksten over alledaagse onderwerpen.",
 		"id": "ba8cc088-311c-4ad6-8b3b-e9fbd1a8d045",
 		"erk_voorbeeld_id": [
 			"30be79b6-5938-40fc-b302-f713a20fc93e",
 			"6c79269b-ad4c-4cf3-a934-8e7c00fee98f",
 			"8dd6d1b5-3684-4221-9166-49bc9c15a320"
-		]
+		],
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -5772,9 +5774,7 @@
 			"6e546731-69b7-4204-8784-fb76aeadfca5",
 			"59f2ef73-b494-4b1f-b481-67b6513a7581",
 			"eebe2a40-dbd6-42ac-92fc-cdc5b5f08933",
-			"0a770473-2abe-4355-bf61-6eb9bc1cedb2",
-			"f48e8571-5079-4c6b-82bb-8abbc1a54930",
-			"597a4ca7-1739-4c1c-91fd-2053f8b1b4b3"
+			"0a770473-2abe-4355-bf61-6eb9bc1cedb2"
 		],
 		"title": "Kan artikelen en verslagen over hedendaagse problemen begrijpen, waarin de schrijvers bepaalde stellingen of standpunten innemen.",
 		"id": "bd8986e3-248b-4ab9-8aa5-0fbf7b6a5d3b",
