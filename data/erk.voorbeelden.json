@@ -480,13 +480,13 @@
 		"description": ""
 	},
 	{
-		"title": "In een krantenartikel het ‘wie-wat-waar’ herkennen over een overval, een ongeluk, een rel.",
+		"title": "In een krantenartikel het ‘wie-wat-waar’ over een overval, een ongeluk, een rel.",
 		"id": "83fdd003-a6bd-4d8f-9bf6-b3a126f0753d",
 		"prefix": "",
 		"description": ""
 	},
 	{
-		"title": "De hoofdlijnen uit artikelen en berichten op een nieuwssite herkennen, die gaan over vertrouwde onderwerpen zoals sport of muziek.",
+		"title": "De hoofdlijnen uit artikelen en berichten op een nieuwssite, die gaan over vertrouwde onderwerpen zoals sport of muziek.",
 		"id": "c62ea0ff-0ddd-4c44-8ffc-06dc26f0208b",
 		"prefix": "",
 		"description": ""
@@ -540,7 +540,7 @@
 		"description": ""
 	},
 	{
-		"title": "Een krantenartikel over het nu van strenge veiligheidsmaatregelen bij voetbalwedstrijden.",
+		"title": "Een krantenartikel over het nut van strenge veiligheidsmaatregelen bij voetbalwedstrijden.",
 		"id": "6e546731-69b7-4204-8784-fb76aeadfca5",
 		"prefix": "",
 		"description": ""
@@ -578,7 +578,7 @@
 		"description": ""
 	},
 	{
-		"title": "Verslag van een trainersoverleg in een sportcontext.",
+		"title": "Een verslag van een trainersoverleg in een sportcontext.",
 		"id": "5ac27c99-3693-4475-a3af-7c5dc6898ccb",
 		"prefix": "",
 		"description": ""
@@ -5994,13 +5994,13 @@
 	{
 		"id": "960ae28e-a1e7-4873-909f-26352c9efe50",
 		"prefix": "",
-		"title": "Een bericht begrijpen over een staking in het openbaar vervoer op de site van de vervoerder: kun je met het openbaar vervoer op je bestemming komen?",
+		"title": "Een bericht over een staking in het openbaar vervoer op de site van de vervoerder: kun je met het openbaar vervoer op je bestemming komen?",
 		"description": ""
 	},
 	{
 		"id": "cf781e02-b52a-4a08-9128-fb0296c7ecc1",
 		"prefix": "",
-		"title": "Een bericht begrijpen op intranet over de studiedag van je school of werk: wat was het onderwerp van die dag en wie waren de sprekers?",
+		"title": "Een bericht op intranet over de studiedag van je school of werk: wat was het onderwerp van die dag en wie waren de sprekers?",
 		"description": ""
 	},
 	{
@@ -6024,13 +6024,13 @@
 	{
 		"id": "773f70c2-a1f8-4f57-80a4-619584c25780",
 		"prefix": "",
-		"title": "Een krantenbericht begrijpen over prijsstijgingen of dalingen in het afgelopen jaar, met behulp van een grafiek.",
+		"title": "Een krantenbericht over prijsstijgingen of dalingen in het afgelopen jaar, met behulp van een grafiek.",
 		"description": ""
 	},
 	{
 		"id": "ff8de0ea-e4b3-4a98-b5bf-98c86d6ca266",
 		"prefix": "",
-		"title": "De belangrijke informatie in een artikel begrijpen met een aantal infographics over het gebruik van sociale mediakanalen door verschillende doelgroepen.",
+		"title": "De belangrijke informatie in een artikel met een aantal infographics over het gebruik van sociale mediakanalen door verschillende doelgroepen.",
 		"description": ""
 	},
 	{
@@ -6102,31 +6102,31 @@
 	{
 		"id": "84c676ae-0cff-46bf-b668-6f0a4c143c93",
 		"prefix": "",
-		"title": "In artikelen belangrijke conclusies herkennen over onderwerpen op het eigen interessegebied.",
+		"title": "In artikelen over onderwerpen op het eigen interessegebied.",
 		"description": ""
 	},
 	{
 		"id": "674fd32a-cd7d-405f-8017-f4d59b7833c7",
 		"prefix": "",
-		"title": "Belangrijke conclusies herkennen in een jongerentijdschrift over het gebruik van sociale media.",
+		"title": "In een jongerentijdschrift over het gebruik van sociale media.",
 		"description": ""
 	},
 	{
 		"id": "d73d5ec9-1480-418a-abe6-bc76595043d0",
 		"prefix": "",
-		"title": "De redenering herkennen in een discussie op een forum over een onderwerp binnen het eigen interessegebied, bijvoorbeeld over een vuurwerkverbod of jongerenwelzijn.",
+		"title": "In een discussie op een forum over een onderwerp binnen het eigen interessegebied, bijvoorbeeld over een vuurwerkverbod of jongerenwelzijn.",
 		"description": ""
 	},
 	{
 		"id": "44a3dd04-9377-4a1d-86f4-a47a368fa7fc",
 		"prefix": "",
-		"title": "Een stelling herkennen op een krantensite met diverse reacties.",
+		"title": "Een stelling op een krantensite met diverse reacties.",
 		"description": ""
 	},
 	{
 		"id": "ef29d271-0414-4f8f-b760-7185ab3cba5f",
 		"prefix": "",
-		"title": "Standpunten in een artikel over de arbeidsmarktrelevantie van een toekomstige studie herkennen.",
+		"title": "Standpunten in een artikel over de arbeidsmarktrelevantie van een toekomstige studie.",
 		"description": ""
 	},
 	{
@@ -6144,7 +6144,7 @@
 	{
 		"id": "d429337c-42f6-4d57-bb3a-1f76b2bebd78",
 		"prefix": "",
-		"title": "Het verschil herkennen tussen feitelijke informatie en de mening van de auteur in een review.",
+		"title": "Het verschil tussen feitelijke informatie en de mening van de auteur in een review.",
 		"description": ""
 	},
 	{
