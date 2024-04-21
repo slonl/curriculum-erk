@@ -180,7 +180,7 @@
 		"description": ""
 	},
 	{
-		"title": "Programma van een festival: hoe laat treedt welke band waar op en waar zijn de eetkraampjes?",
+		"title": "Het programma van een festival: hoe laat treedt welke band waar op en waar zijn de eetkraampjes?",
 		"id": "eabb8938-394e-4986-82f1-ed1fbb116844",
 		"prefix": "",
 		"description": ""
@@ -210,7 +210,7 @@
 		"description": ""
 	},
 	{
-		"title": "De benodigde bus-/tram-/metro- of treinverbinding opzoeken in het busboekje, een informatiebord of op een app.",
+		"title": "De benodigde bus-/tram-/metro- of treinverbinding opzoeken in het busboekje, op een informatiebord of op een app.",
 		"id": "6b94c2b6-31a9-4f17-a0a2-48918a91e5e5",
 		"prefix": "",
 		"description": ""
@@ -264,19 +264,19 @@
 		"description": ""
 	},
 	{
-		"title": "Aanwijzingen op een strand, bijvoorbeeld zwemmen toegestaan bij groene vlag, niet lopen in de duinen, honden mogen los tussen datum x en y.",
+		"title": "Aanwijzingen op een strand, bijvoorbeeld: zwemmen toegestaan bij groene vlag, niet lopen in de duinen, honden mogen los tussen datum x en y.",
 		"id": "e2325368-a04a-45b3-92a6-12d23b92b87c",
 		"prefix": "",
 		"description": ""
 	},
 	{
-		"title": "Routeaanwijzingen bij een verkeersomleiding kunnen volgen, bijvoorbeeld volg de P-route.",
+		"title": "Routeaanwijzingen bij een verkeersomleiding, bijvoorbeeld: volg de P-route.",
 		"id": "371432b5-14a0-42c3-8fba-527172bea38b",
 		"prefix": "",
 		"description": ""
 	},
 	{
-		"title": "Informatieborden op de weg of snelweg begrijpen: filegevaar, wegwerkzaamheden, omleidingen, volgende tankstation over 25 km.",
+		"title": "Informatieborden op de weg of snelweg, bijvoorbeeld: filegevaar, wegwerkzaamheden, omleidingen, volgende tankstation over 25 km.",
 		"id": "6dcf2b4c-6692-49f4-abde-77adcfe0003e",
 		"prefix": "",
 		"description": ""
@@ -294,7 +294,7 @@
 		"description": ""
 	},
 	{
-		"title": "Waarschuwingsborden op een bouwplaats als: niet betreden, melden bij de uitvoerder.",
+		"title": "Waarschuwingsborden op een bouwplaats, bijvoorbeeld: niet betreden, melden bij de uitvoerder.",
 		"id": "99223dcd-7bb7-48b2-9d23-4e919a92be6e",
 		"prefix": "",
 		"description": ""
@@ -5514,13 +5514,13 @@
 	{
 		"id": "28218396-eaeb-47eb-9837-31f1217b468a",
 		"prefix": "",
-		"title": "De toegangsprijs van een evenement of een attractiepark vinden op een website.",
+		"title": "De toegangsprijs van een evenement of een attractiepark op een website.",
 		"description": ""
 	},
 	{
 		"id": "3abf4be6-d1a8-4c04-834f-5d233b08573a",
 		"prefix": "",
-		"title": "De openingstijden van de dierentuin of een museum vinden in een folder.",
+		"title": "De openingstijden van de dierentuin of een museum in een folder.",
 		"description": ""
 	},
 	{
@@ -5538,7 +5538,7 @@
 	{
 		"id": "5e3f1a86-7065-43bf-94a7-93d3825d0fad",
 		"prefix": "",
-		"title": "In een overzicht de openingstijden van een instelling opzoeken, bijvoorbeeld bibliotheek of sportclub.",
+		"title": "In een overzicht de openingstijden van een instelling opzoeken, bijvoorbeeld van een bibliotheek of sportclub.",
 		"description": ""
 	},
 	{
@@ -5574,25 +5574,25 @@
 	{
 		"id": "f149cfa5-8c66-437d-af87-ea6ffce5c564",
 		"prefix": "",
-		"title": "Informatie begrijpen over het gebruik van de wificode.",
+		"title": "Informatie over het gebruik van de wificode.",
 		"description": ""
 	},
 	{
 		"id": "3d3fb72f-cb39-40ae-ac17-1957ac82a7af",
 		"prefix": "",
-		"title": "Informatie begrijpen over het tijdstip om uit te checken op de dag van vertrek.",
+		"title": "Informatie over het tijdstip om uit te checken op de dag van vertrek.",
 		"description": ""
 	},
 	{
 		"id": "f6458f03-cdd6-4fca-ad86-c0dfb6e2274e",
 		"prefix": "",
-		"title": "Informatie begrijpen over het gebruik van de televisie.",
+		"title": "Informatie over het gebruik van de televisie.",
 		"description": ""
 	},
 	{
 		"id": "9c47ec5f-30c0-4909-9f33-829929aa8b84",
 		"prefix": "",
-		"title": "Informatie begrijpen over het gebruik van het zwembad.",
+		"title": "Informatie over het gebruik van het zwembad.",
 		"description": ""
 	},
 	{
