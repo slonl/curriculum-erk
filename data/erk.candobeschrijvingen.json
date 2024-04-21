@@ -5181,7 +5181,7 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan eenvoudige alledaagse borden zoals 'Parkeren', 'Station', 'Eetzaal', 'Niet roken' enzovoort begrijpen.",
+		"title": "Kan eenvoudige alledaagse borden begrijpen.",
 		"id": "ecb66b87-692f-482f-8b98-f7edf2aef8bb",
 		"prefix": "",
 		"description": "",
@@ -5238,7 +5238,7 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan elementaire informatie in hotels begrijpen, bijvoorbeeld hoe laat maaltijden worden geserveerd.",
+		"title": "Kan elementaire informatie in hotels begrijpen.",
 		"id": "f2d3faeb-be01-4a8b-8bec-f74538851352",
 		"prefix": "",
 		"description": "",
@@ -5275,7 +5275,7 @@
 			"a133d9d4-bae3-4d21-a449-090739f576ba",
 			"9e800ef2-a906-481c-ac98-a0b8036eb9a5"
 		],
-		"title": "Kan specifieke informatie vinden en begrijpen in eenvoudig, alledaags materiaal zoals advertenties, folders, menu’s, referentielijsten en dienstregelingen.",
+		"title": "Kan specifieke informatie vinden en begrijpen in eenvoudig, alledaags materiaal.",
 		"id": "fc3df715-580d-4a4f-b3ec-fb439ff7b0c3",
 		"prefix": "",
 		"description": ""
