@@ -980,8 +980,11 @@
 			"96e4da40-d9a1-4527-a9f1-12f38bb7e911",
 			"6707ebf6-aa2b-4bed-84c5-f2f94eba9233"
 		],
-		"title": "Schriftelijke verslagen en essays",
-		"id": "194edda5-0ddd-483f-ad19-8d0ca77cef60"
+		"title": "Verslagen en essays",
+		"id": "194edda5-0ddd-483f-ad19-8d0ca77cef60",
+		"prefix": "",
+		"description": "",
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
