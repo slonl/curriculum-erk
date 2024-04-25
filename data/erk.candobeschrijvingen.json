@@ -8979,7 +8979,12 @@
 		"title": "Kan in het kort redenen en verklaringen geven voor meningen, plannen en handelingen. \n\n",
 		"id": "6760db3a-d570-4274-9d40-f50022cb4be5",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"0d28737a-1cfe-4628-bc10-260c261b38b7",
+			"48d3161f-58bb-4c04-b877-2ec79986f78f",
+			"f58706b2-0218-4e3c-9a69-cb430e575bf8"
+		]
 	},
 	{
 		"niveau_id": [
@@ -8988,7 +8993,11 @@
 		"title": "Kan in eenvoudige bewoordingen de eigen mening uitdrukken over onderwerpen die deel uitmaken van het dagelijkse leven.",
 		"id": "31e011fd-62c3-45a9-be56-152b2b648197",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"2679b728-0fff-4957-9f15-0690704a09ff",
+			"a42b16bd-0678-4a41-aa7e-288968b9047c"
+		]
 	},
 	{
 		"niveau_id": [
@@ -8997,14 +9006,19 @@
 		"title": "Kan eenvoudige redenen geven om een standpunt over een vertrouwd onderwerp te rechtvaardigen.\n",
 		"id": "ba01dd61-d7ca-4e9d-aa4d-1429b6f68eef",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"1960aaf9-2777-4716-b948-149311a0ba8d",
+			"e7215eed-7541-42da-b1c7-d1af2e69b4e2"
+		]
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
 		"erk_voorbeeld_id": [
-			"c9ebde70-fcda-4ec1-8b45-645459c294b9"
+			"c9ebde70-fcda-4ec1-8b45-645459c294b9",
+			"4c493beb-0cbe-4c0f-b48d-dc3e4a6d6794"
 		],
 		"title": "Kan een argument zo goed ontwikkelen dat het meestal probleemloos kan worden gevolgd.",
 		"id": "738f7d7f-3094-4188-98cd-955b3976cbcf"
