@@ -1754,16 +1754,22 @@
 		"description": ""
 	},
 	{
-		"title": "In een tafelgesprek met geïnteresseerde toehoorders verslag doen van een reis, een land of landschap (PU).",
-		"id": "ca1ad1da-ba61-4724-b856-24e220f0f1d6"
+		"title": "In een tafelgesprek met geïnteresseerde toehoorders verslag doen van een reis, een land of landschap.",
+		"id": "ca1ad1da-ba61-4724-b856-24e220f0f1d6",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een sollicitatie- of intakegesprek gedetailleerd verslag doen van eerdere onderwijs- of werkervaring (OPL, WE).",
-		"id": "2aa5aea1-ede4-4f01-ae07-0d7726efd4e5"
+		"title": "In een sollicitatie- of intakegesprek gedetailleerd verslag doen van eerdere onderwijs- of werkervaring.",
+		"id": "2aa5aea1-ede4-4f01-ae07-0d7726efd4e5",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Na langer verblijf in het buitenland, zoals voor een stage, gevoelens bij terugkeer genuanceerd beschrijven (OPL).",
-		"id": "2d6a4684-997c-452d-bc26-7cf72e59534d"
+		"title": "Ervaringen na een langer verblijf in het buitenland, zoals voor een stage of voor een vrijwilligersproject.",
+		"id": "2d6a4684-997c-452d-bc26-7cf72e59534d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Iets wat je gehoord, gelezen of gezien hebt in samenvatting doorvertellen (XX).",
@@ -6799,6 +6805,54 @@
 		"id": "132c7c49-6395-4bb4-97a3-f436daaeb6ef",
 		"prefix": "",
 		"title": "Bij de afsluiting van een uitwisselingsproject met studenten een leuk verhaal vertellen over de start van het project.",
+		"description": ""
+	},
+	{
+		"id": "f3bceea0-314d-4bd7-a611-5be4a6f399e0",
+		"prefix": "",
+		"title": "Waarom je blij bent dat je je diploma hebt gehaald.",
+		"description": ""
+	},
+	{
+		"id": "c045a2e4-2bff-4791-89c8-8c31f9d9c55c",
+		"prefix": "",
+		"title": "Gevoelens van tevredenheid omdat je een voldoende hebt gehaald op een toets.",
+		"description": ""
+	},
+	{
+		"id": "a19aaf3d-067b-46e2-bc6c-88e1a55a7551",
+		"prefix": "",
+		"title": "Waarom je  het jammer vindt dat je niet aangenomen bent voor een stage.",
+		"description": ""
+	},
+	{
+		"id": "27c73d23-4452-4550-892d-90f7bd3e2ef9",
+		"prefix": "",
+		"title": "Waarom je het jammer vindt dat je tweede bent geworden in de sportcompetitie.",
+		"description": ""
+	},
+	{
+		"id": "be759bd1-cbd9-4bcd-b5f1-73a612f04e62",
+		"prefix": "",
+		"title": "Waarom het overlijden van een dierbaar persoon of huisdier jou raakt.",
+		"description": ""
+	},
+	{
+		"id": "435bc265-5015-4eaf-8ae9-782f62a6bbb1",
+		"prefix": "",
+		"title": "Een belangrijk voorval uit je jeugd.",
+		"description": ""
+	},
+	{
+		"id": "3255d807-ba75-4e6b-8da0-0b6ac24f39e0",
+		"prefix": "",
+		"title": "Wat er mis is gegaan bij de afwijzing van een sollicitatie.",
+		"description": ""
+	},
+	{
+		"id": "a994f1de-0f5c-4139-a6a8-efb4542be31d",
+		"prefix": "",
+		"title": "Wat je persoonlijke ontwikkeling is geweest tijdens je stage.",
 		"description": ""
 	}
 ]
