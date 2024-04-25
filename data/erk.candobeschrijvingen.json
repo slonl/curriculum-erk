@@ -9276,7 +9276,13 @@
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
 		"title": "Kan vragen beantwoorden naar aanleiding van de presentatie, maar moet soms om herhaling vragen als mensen snel spreken.",
-		"id": "d8e8536a-0e97-46f1-91a8-6fb3a8c0af16"
+		"id": "d8e8536a-0e97-46f1-91a8-6fb3a8c0af16",
+		"erk_voorbeeld_id": [
+			"754fee03-3e3b-43ae-a3f3-cc3c16a57f19",
+			"293f4eb1-c5d4-4fca-9a46-fe7645f4849e"
+		],
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
