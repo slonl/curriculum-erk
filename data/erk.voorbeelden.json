@@ -4376,24 +4376,34 @@
 		"id": "998ac964-280d-4f2d-91ba-af21295da098"
 	},
 	{
-		"title": "Verwachtingen uitspreken over een bezoek aan een popconcert of film (DL).",
-		"id": "5465b074-ec41-4899-ab78-28f8bebf3ebe"
+		"title": "Verwachtingen beschrijven van een bezoek aan een popconcert of film.",
+		"id": "5465b074-ec41-4899-ab78-28f8bebf3ebe",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Ervaringen uitwisselen over een bezoek aan een museum (DL).",
-		"id": "80035d86-031a-4b39-ba63-f46238422047"
+		"title": "Ervaringen uitwisselen over een bezoek aan een museum of een andere culturele instelling.",
+		"id": "80035d86-031a-4b39-ba63-f46238422047",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Meer specifieke informatie aanvragen over bijvoorbeeld een vakantieplaats of de ligging van een vakantiewoning (PU).",
-		"id": "8eeffc67-a07a-4c1c-aebb-5dacc7f226d3"
+		"title": "Over een vakantieplaats of de ligging van een vakantiewoning.",
+		"id": "8eeffc67-a07a-4c1c-aebb-5dacc7f226d3",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Meer specifieke informatie aanvragen over een aangeboden stageplaats of au pair plek (PU, OPL).",
-		"id": "3c286761-41a3-4112-a812-8e674fbccb52"
+		"title": "Over een aangeboden stageplaats of au pair plek.",
+		"id": "3c286761-41a3-4112-a812-8e674fbccb52",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Meer specifieke informatie aanvragen over een product dat op internet wordt aangeboden (PU).",
-		"id": "0e206732-bd2d-4cbe-aabb-79199d43d869"
+		"title": "Over een product dat op internet wordt aangeboden.",
+		"id": "0e206732-bd2d-4cbe-aabb-79199d43d869",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Aan een vriend/in problemen op je werk/in je stage beschrijven (DL).",
@@ -7669,6 +7679,42 @@
 		"id": "cbd6e9ee-c3a1-4b3c-9759-5f7926a91cd6",
 		"prefix": "",
 		"title": "Informeren bij de werkgever van de vakantiebaan wanneer het contract opgestuurd wordt.",
+		"description": ""
+	},
+	{
+		"id": "897fa76b-ee56-48ca-9945-ac0d1c533749",
+		"prefix": "",
+		"title": "Een sollicitatiebrief opstellen met beknopt cv, voor stage, au pair of vakantiebaan.",
+		"description": ""
+	},
+	{
+		"id": "65470ff6-5bc5-4812-ae83-8f53d3cbb8a8",
+		"prefix": "",
+		"title": "Met een vriend/in van gedachten wisselen over een gezonde leefstijl, kenmerken van de eigen vriendschap of het nieuws.",
+		"description": ""
+	},
+	{
+		"id": "26f16268-45cd-4262-a8af-0dfe53339c35",
+		"prefix": "",
+		"title": "Aan een correspondentievriend/in schrijven over de relatie met je ouders, wat je vindt van je school, over verliefd zijn, over je relatie met vrienden.",
+		"description": ""
+	},
+	{
+		"id": "e8a9b63f-be2d-4fd5-acfd-d51cf65fe032",
+		"prefix": "",
+		"title": "Op een gepaste manier reageren op een brief waarin een correspondentievriend/in verdriet, ongenoegen, blijdschap of enthousiasme uit.",
+		"description": ""
+	},
+	{
+		"id": "5c1a0900-234c-4523-8f63-dee4b164029f",
+		"prefix": "",
+		"title": "Over een bijbaantje of vakantiebaantje.",
+		"description": ""
+	},
+	{
+		"id": "2487f1e9-b648-492d-a288-3df5c14c59b8",
+		"prefix": "",
+		"title": "Belangstelling tonen voor één van de advertenties van een dierenasiel waarin katten aangeboden worden en informatie vragen omtrent de adoptieprocedures.",
 		"description": ""
 	}
 ]
