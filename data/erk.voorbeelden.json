@@ -4407,23 +4407,33 @@
 	},
 	{
 		"title": "Aan een vriend/in problemen op je werk/in je stage beschrijven (DL).",
-		"id": "8a510ebb-1323-4bad-9900-903a6a5acaa0"
+		"id": "8a510ebb-1323-4bad-9900-903a6a5acaa0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een (stage)begeleider bedanken voor alle hulp en goede raad en vertellen waarvan je het meest hebt geleerd (OPL, WE).",
-		"id": "503a797f-eb3a-40aa-ada2-b0c3ef0e621e"
+		"title": "Een (stage)begeleider bedanken voor alle hulp en goede raad en vertellen waar je het meest van hebt geleerd.",
+		"id": "503a797f-eb3a-40aa-ada2-b0c3ef0e621e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een vriend/in vertellen wat het voor je betekent dat je beste vriend/in naar een andere stad/ander land gaat verhuizen (DL).",
-		"id": "036245dc-6151-4972-88f0-adeab9aff944"
+		"title": "Een vriend/in vertellen wat het voor je betekent dat je beste vriend/in naar een andere stad/ander land gaat verhuizen.",
+		"id": "036245dc-6151-4972-88f0-adeab9aff944",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Reageren op een brief/e-mail van een kennis of vriend die meldt dat hij/zij langdurig ziek is (DL).",
-		"id": "8529da6c-67b9-479b-8ac8-26f2d4709a03"
+		"title": "Reageren op een brief/e-mail van een kennis of vriend die meldt dat die langdurig ziek is.",
+		"id": "8529da6c-67b9-479b-8ac8-26f2d4709a03",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aan een correspondentievriend/in uitleggen waarom je tegen het gebruik van partydrugs bent (DL).",
-		"id": "2e58a4e6-12eb-4a6c-b9d8-7db64a234b7f"
+		"title": "Aan een correspondentievriend/in uitleggen waarom je tegen het gebruik van partydrugs bent.",
+		"id": "2e58a4e6-12eb-4a6c-b9d8-7db64a234b7f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Advies geven aan een kennis/vriend die in Nederland wil gaan studeren (DL).",
@@ -7715,6 +7725,24 @@
 		"id": "2487f1e9-b648-492d-a288-3df5c14c59b8",
 		"prefix": "",
 		"title": "Belangstelling tonen voor één van de advertenties van een dierenasiel waarin katten aangeboden worden en informatie vragen omtrent de adoptieprocedures.",
+		"description": ""
+	},
+	{
+		"id": "8c4a0b70-4f51-4302-8e13-d8f5fd358c09",
+		"prefix": "",
+		"title": "Een klachtenbrief schrijven of erop reageren: de verkeerde goederen zijn geleverd, de rekening is te hoog.",
+		"description": ""
+	},
+	{
+		"id": "1195b774-0a76-4378-8477-9beed7fe36fd",
+		"prefix": "",
+		"title": "Een e-mail naar de docent met een verzoek voor het aanpassen van de deadline.",
+		"description": ""
+	},
+	{
+		"id": "76c7aba8-3589-4bcf-8b35-10c234927c17",
+		"prefix": "",
+		"title": "Een e-mail naar het hotel waar je iets hebt laten liggen, met het verzoek om dit op te sturen.",
 		"description": ""
 	}
 ]
