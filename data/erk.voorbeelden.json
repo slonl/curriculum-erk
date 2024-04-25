@@ -1892,8 +1892,10 @@
 		"description": ""
 	},
 	{
-		"title": "Tijdens een presentatie met argumenten en voorbeelden duidelijk kunnen maken waarom je vóór of tegen een bepaald standpunt bent, of wat de consequenties voor een bepaalde keuze zijn (OPL, WE).",
-		"id": "c9ebde70-fcda-4ec1-8b45-645459c294b9"
+		"title": "Tijdens een presentatie over inclusiviteit in de maatschappij of over het klimaat, met argumenten en voorbeelden duidelijk maken waarom je vóór of tegen een bepaalde ingevoerde maatregel bent.",
+		"id": "c9ebde70-fcda-4ec1-8b45-645459c294b9",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "In een debatwedstrijd duidelijk maken waarom je het beleid van de ene politieke partij beter vindt dan dat van de andere )OPL).",
@@ -7119,6 +7121,54 @@
 		"id": "0a38610a-56fe-478f-8b21-e720e7692b5c",
 		"prefix": "",
 		"title": "Aan een vriend laten weten wat je van de reactie vindt en waarom.",
+		"description": ""
+	},
+	{
+		"id": "0d28737a-1cfe-4628-bc10-260c261b38b7",
+		"prefix": "",
+		"title": "De keuze voor de bestemming van een toekomstige eindexamenreis.",
+		"description": ""
+	},
+	{
+		"id": "48d3161f-58bb-4c04-b877-2ec79986f78f",
+		"prefix": "",
+		"title": "De keuze voor een aangeschafte telefoon of beoefende hobby.",
+		"description": ""
+	},
+	{
+		"id": "f58706b2-0218-4e3c-9a69-cb430e575bf8",
+		"prefix": "",
+		"title": "De keuze voor een bepaald profiel of vervolgstudie.",
+		"description": ""
+	},
+	{
+		"id": "2679b728-0fff-4957-9f15-0690704a09ff",
+		"prefix": "",
+		"title": "Een mening uitspreken over een sport, een muzieksoort, mode of een filmgenre.",
+		"description": ""
+	},
+	{
+		"id": "a42b16bd-0678-4a41-aa7e-288968b9047c",
+		"prefix": "",
+		"title": "Vertellen wat het eigen favoriete gerecht is, waarom dat zo is en waar het vandaan komt.",
+		"description": ""
+	},
+	{
+		"id": "1960aaf9-2777-4716-b948-149311a0ba8d",
+		"prefix": "",
+		"title": "Beargumenteren waarom je gekozen hebt voor een bepaalde sport, een bepaald vak of profiel.",
+		"description": ""
+	},
+	{
+		"id": "e7215eed-7541-42da-b1c7-d1af2e69b4e2",
+		"prefix": "",
+		"title": "Je standpunt uitleggen ten aanzien van een bepaalde muziekstijl, realityshow of vlogger.",
+		"description": ""
+	},
+	{
+		"id": "4c493beb-0cbe-4c0f-b48d-dc3e4a6d6794",
+		"prefix": "",
+		"title": "Goed overbrengen wat de consequenties zijn van een bepaalde maatregel.",
 		"description": ""
 	}
 ]
