@@ -13020,7 +13020,11 @@
 		"title": "Kan formeel taalgebruik en conventies die passen bij de context toepassen bij het opstellen van persoonlijke en professionele brieven en e-mails.",
 		"id": "7132e29c-6302-4904-971d-845308c87453",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"930c989c-d36f-4362-9ccf-8950785ebc0e",
+			"534ea977-b4fd-4aa3-8048-cbb4b7b129cc"
+		]
 	},
 	{
 		"niveau_id": [
@@ -13029,7 +13033,12 @@
 		"title": "Kan formele e-mails/brieven opstellen om iemand uit te nodigen of te bedanken of excuses aan te bieden en hierbij passende registers en de juiste conventies gebruiken.",
 		"id": "cb2d18e5-2dcc-40a0-8a9c-9220ee1b5e77",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"0960477c-162a-4dbb-beeb-0e781565a949",
+			"9f5741fe-2a57-4922-86c9-d75f16e10cf6",
+			"9636bce2-cca8-4e72-a12d-d960a6e61041"
+		]
 	},
 	{
 		"niveau_id": [
@@ -13038,14 +13047,22 @@
 		"title": "Kan niet-routinematige professionele brieven opstellen en daarbij gebruikmaken van de passende structuur en conventies, mits deze beperkt zijn tot praktische zaken.",
 		"id": "a1cc7907-c92a-4214-9d6d-7f9dd0ecafe1",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"9d7a4d6f-6f6c-4a19-860d-efb5b1a2d4f4",
+			"674bb3f2-48a4-4622-b200-8ca93dbb4f15"
+		]
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
 		"title": "Kan via een brief of e-mail informatie verkrijgen die nodig is voor een bepaald doel en deze verzamelen en per e-mail doorsturen naar andere mensen.",
-		"id": "31485864-a037-4255-bb9b-36cc6fb40eae"
+		"id": "31485864-a037-4255-bb9b-36cc6fb40eae",
+		"erk_voorbeeld_id": [
+			"fd657242-6cf0-4461-8ad9-7cc63939e63b",
+			"da0bbc10-5ae2-4c06-aa54-e703ab400250"
+		]
 	},
 	{
 		"niveau_id": [
