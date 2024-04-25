@@ -7646,5 +7646,29 @@
 		"prefix": "",
 		"title": "Over wat je fijn vindt aan een bepaald seizoen.",
 		"description": ""
+	},
+	{
+		"id": "89ce6030-e608-4049-a442-230bc4861020",
+		"prefix": "",
+		"title": "Informatie aanvragen over een buitenlandse stage.",
+		"description": ""
+	},
+	{
+		"id": "d6380240-730f-4ad9-a289-bf288352d7b0",
+		"prefix": "",
+		"title": "Een schriftelijke bevestiging van een aanstaande uitwisseling met buitenlandse studenten.",
+		"description": ""
+	},
+	{
+		"id": "eb9dc86d-582b-4571-ac2b-adaaeb4c3333",
+		"prefix": "",
+		"title": "Een e-mail om informatie te vragen over de verschillende kamers bij een jeugdherberg.",
+		"description": ""
+	},
+	{
+		"id": "cbd6e9ee-c3a1-4b3c-9759-5f7926a91cd6",
+		"prefix": "",
+		"title": "Informeren bij de werkgever van de vakantiebaan wanneer het contract opgestuurd wordt.",
+		"description": ""
 	}
 ]
