@@ -1898,16 +1898,22 @@
 		"description": ""
 	},
 	{
-		"title": "In een debatwedstrijd duidelijk maken waarom je het beleid van de ene politieke partij beter vindt dan dat van de andere )OPL).",
-		"id": "0f5924cb-0f86-4c6f-abf1-a27188a6ba5a"
+		"title": "Een heldere presentatie geven over het idee om de school te verduurzamen door bijvoorbeeld minder papier en plastic te gebruiken of door meer te recyclen.",
+		"id": "0f5924cb-0f86-4c6f-abf1-a27188a6ba5a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een werk- of projectgroep voorkeur voor themakeuze of te volgen werkwijze uitgebreid beargumenteren (OPL, WE).",
-		"id": "c7da8948-2119-4a82-b6ac-5ed1af914984"
+		"title": "In een werk- of projectgroep voorkeur voor themakeuze of te volgen werkwijze uitgebreid en opbouwend beargumenteren.",
+		"id": "c7da8948-2119-4a82-b6ac-5ed1af914984",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Uitleg geven over de ontwikkeling van een product en gemaakte keuzes verantwoorden (WE).",
-		"id": "57ae8e7e-4e42-41dd-8cc2-4ea5025ccc79"
+		"title": "Uitleg geven over de ontwikkeling van een product en gemaakte keuzes verantwoorden.",
+		"id": "57ae8e7e-4e42-41dd-8cc2-4ea5025ccc79",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Tijdens een uitwisseling een groepsindeling bekend maken en zeggen hoe laat en waar de volgende activiteit begint (OPL).",
@@ -7169,6 +7175,60 @@
 		"id": "4c493beb-0cbe-4c0f-b48d-dc3e4a6d6794",
 		"prefix": "",
 		"title": "Goed overbrengen wat de consequenties zijn van een bepaalde maatregel.",
+		"description": ""
+	},
+	{
+		"id": "4837e80e-8a44-4ddf-a671-1942f91dae83",
+		"prefix": "",
+		"title": "Een presentatie houden over een bestudeerd onderwerp, waarbij voor- en nadelen van verschillende standpunten besproken worden.",
+		"description": ""
+	},
+	{
+		"id": "55c997ca-a6bc-451a-82e2-d0f1a7022cb8",
+		"prefix": "",
+		"title": "Het eigen standpunt over het belang van gezonde leefstijl verwoorden en verschillende opties daarbij illustreren.",
+		"description": ""
+	},
+	{
+		"id": "4d5f76ef-78d0-406b-a2e7-6b352a684c4b",
+		"prefix": "",
+		"title": "In een debatwedstrijd opbouwend beargumenteren waarom je het beleid van de ene politieke partij beter vindt dan dat van de andere.",
+		"description": ""
+	},
+	{
+		"id": "6d3598c8-d8c8-41ef-8940-a043f36ee4d5",
+		"prefix": "",
+		"title": "Opbouwend en beargumenteerd een mening geven over een specialistisch onderwerp als abortus, euthanasie en softdrugspolitiek.",
+		"description": ""
+	},
+	{
+		"id": "b63d114d-d95b-4d74-b0b2-024184c62a77",
+		"prefix": "",
+		"title": "Bij een conferentie of studiebijeenkomst in een plenaire zitting verslag doen van een werkgroep.",
+		"description": ""
+	},
+	{
+		"id": "f9d5c4ca-b8b6-49e1-babc-4816f654c88c",
+		"prefix": "",
+		"title": "In een werkgroep een eigen voorstel of plan in detail presenteren.",
+		"description": ""
+	},
+	{
+		"id": "dbfb3677-a745-4428-b2a9-76a66342c1bf",
+		"prefix": "",
+		"title": "Tijdens een cursus fotografie uitleggen wat er bij komt kijken om die ene fantastische foto te maken.",
+		"description": ""
+	},
+	{
+		"id": "69c72aad-a7c8-4341-a790-cebf9ccc98b0",
+		"prefix": "",
+		"title": "Argumenten opbouwen die voor het aanschaffen van zonnepanelen pleiten, ondanks de forse investering.",
+		"description": ""
+	},
+	{
+		"id": "8cef60c9-6e2a-404e-90c4-c1cfbb3ca5dc",
+		"prefix": "",
+		"title": "Een onderbouwing presenteren bij de belangrijkste conclusies van een werkgroep.",
 		"description": ""
 	}
 ]
