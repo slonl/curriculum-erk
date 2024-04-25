@@ -3077,8 +3077,11 @@
 			"4678373f-f269-4499-b177-d73eae3bc170",
 			"f6ed52b5-ff36-4aba-bf3a-b150e24246b5"
 		],
-		"title": "Monoloog: een pleidooi houden",
-		"id": "d8b05f01-6979-4c4e-8be1-c1cae7e065f7"
+		"title": "Monoloog: een pleidooi houden (bijvoorbeeld in een debat)",
+		"id": "d8b05f01-6979-4c4e-8be1-c1cae7e065f7",
+		"prefix": "",
+		"description": "",
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
