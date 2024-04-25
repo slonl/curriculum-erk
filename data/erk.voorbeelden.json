@@ -1730,20 +1730,28 @@
 		"description": ""
 	},
 	{
-		"title": "Een buitenlandse bezoeker adviseren over leuke dingen om te doen (DL, OPL, WE).",
-		"id": "54e5153c-3350-49d9-83cf-4924bb214320"
+		"title": "Een buitenlandse bezoeker adviseren over leuke dingen om te doen in de nabije omgeving.",
+		"id": "54e5153c-3350-49d9-83cf-4924bb214320",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een werk- of schooldag beschrijven (DL, OPL, WE).",
-		"id": "8e4d1cc3-da9f-4b0e-9e19-2e22f1f1a4d4"
+		"title": "Over een werk- of schooldag.",
+		"id": "8e4d1cc3-da9f-4b0e-9e19-2e22f1f1a4d4",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Mondeling rapporteren over verrichte werkzaamheden (OPL, WE).",
-		"id": "4816f9d2-784a-4a3a-931b-2261d45b7bb1"
+		"title": "Rapporteren over verrichte werkzaamheden.",
+		"id": "4816f9d2-784a-4a3a-931b-2261d45b7bb1",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Advies geven aan een klant over een product of dienst (WE).",
-		"id": "2926b7c4-afc0-4d22-8850-aac2ad897336"
+		"title": "Een advies geven aan een klant over een product of dienst.",
+		"id": "2926b7c4-afc0-4d22-8850-aac2ad897336",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "In een tafelgesprek met geïnteresseerde toehoorders verslag doen van een reis, een land of landschap (PU).",
@@ -6761,6 +6769,36 @@
 		"id": "1e7cbda0-c70f-460c-afd6-7f9b03d7bc16",
 		"prefix": "",
 		"title": "Over onverwachte reacties van anderen.",
+		"description": ""
+	},
+	{
+		"id": "b249d254-5e99-4fed-bf9f-016635dc9191",
+		"prefix": "",
+		"title": "Over gewoontes van eigen land, zoals gebruiken rond feestdagen, geboortes en maaltijden.",
+		"description": ""
+	},
+	{
+		"id": "93567bbe-1f99-4ca0-95dc-8e74a70b5e07",
+		"prefix": "",
+		"title": "Een winkeldiefstal aangeven bij de politie.",
+		"description": ""
+	},
+	{
+		"id": "6e31c5c4-9fcb-430c-aa08-f5bd3450a7ab",
+		"prefix": "",
+		"title": "Over pech onderweg op reis, zoals een gemist vliegtuig, een kapotte auto of geen onderdak kunnen vinden.",
+		"description": ""
+	},
+	{
+		"id": "749351ac-f6dd-4afc-b952-4b0c78f9fb4c",
+		"prefix": "",
+		"title": "Iets wat je gehoord, gelezen of gezien hebt in samenvatting doorvertellen.",
+		"description": ""
+	},
+	{
+		"id": "132c7c49-6395-4bb4-97a3-f436daaeb6ef",
+		"prefix": "",
+		"title": "Bij de afsluiting van een uitwisselingsproject met studenten een leuk verhaal vertellen over de start van het project.",
 		"description": ""
 	}
 ]
