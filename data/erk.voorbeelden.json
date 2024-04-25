@@ -2150,36 +2150,52 @@
 		"description": ""
 	},
 	{
-		"title": "Bij het verdedigen van een scriptie of proefschrift (OPL).",
-		"id": "36a335ee-0e0a-4432-bfc3-38432c80e667"
+		"title": "Bij het verdedigen van een scriptie of proefschrift.",
+		"id": "36a335ee-0e0a-4432-bfc3-38432c80e667",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een debat of een discussiecontext waarbij de gemoederen hoog oplopen (OPL, DL).",
-		"id": "bd6d26fa-1430-4297-b591-0dd7b8dab31c"
+		"title": "In een debat of een discussiecontext waarbij de gemoederen hoog oplopen.",
+		"id": "bd6d26fa-1430-4297-b591-0dd7b8dab31c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Tijdens een presentatie over een controversieel onderwerp (OPL, WE).",
-		"id": "8631a908-7a0f-4ca9-8d19-1e27f910eff2"
+		"title": "Tijdens een presentatie over een controversieel onderwerp.",
+		"id": "8631a908-7a0f-4ca9-8d19-1e27f910eff2",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een presentatie geven voor een examinator naar aanleiding van een interview waarin verschillende meningen over een bepaald onderwerp worden gegeven (OPL).",
-		"id": "09477470-da2b-44df-8cbc-30e9cdf1e3d0"
+		"title": "Een presentatie naar aanleiding van een video met interviews waarin verschillende meningen over een bepaald onderwerp worden gegeven.",
+		"id": "09477470-da2b-44df-8cbc-30e9cdf1e3d0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Voor een medestudent, met wie je een sociaalpedagogisch werkstuk over 'Vooroordelen en maatschappelijke drempels' moet schrijven, relevante informatie uit actuele mediaberichten op een coherente manier samenvatten (OPL).",
-		"id": "e1720c49-3e2d-4106-a95c-325baba27f08"
+		"title": "Voor een medestudent, met wie je een sociaalpedagogisch werkstuk over 'Vooroordelen en maatschappelijke drempels' moet schrijven, relevante informatie uit actuele mediaberichten op een coherente manier samenvatten. ",
+		"id": "e1720c49-3e2d-4106-a95c-325baba27f08",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Als vertegenwoordiger van een actiecomité de aanleiding en doelstellingen van de actie uitleggen en met argumenten onderbouwen, ook aan de hand van voorbeelden (PU).",
-		"id": "b5f39889-ae65-4e56-ab44-bc8a6781ad6f"
+		"title": "Als vertegenwoordiger van een actiecomité de aanleiding en doelstellingen van de actie uitleggen en met argumenten onderbouwen, ook aan de hand van voorbeelden.",
+		"id": "b5f39889-ae65-4e56-ab44-bc8a6781ad6f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Tijdens een seminar de belangrijkste punten van eigen onderzoek toelichten en het gevolgde stappenplan nauwkeurig uitleggen (OPL).",
-		"id": "d2636b0c-9570-4229-8c4c-6343655ab858"
+		"title": "Tijdens een lezing de belangrijkste punten van het eigen onderzoek toelichten en het gevolgde stappenplan nauwkeurig uitleggen.",
+		"id": "d2636b0c-9570-4229-8c4c-6343655ab858",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Als trainer van het bergreddingsteam tijdens een training uitleggen welke maatregelen belangrijk zijn voor preventie van ongevallen en welke acties in noodgevallen ondernomen moeten worden (WE).",
-		"id": "b61a8f40-51cb-4cb0-8686-79d36cd0ca55"
+		"title": "Als trainer van het bergreddingsteam tijdens een training uitleggen welke maatregelen belangrijk zijn voor preventie van ongevallen en welke acties in noodgevallen ondernomen moeten worden.",
+		"id": "b61a8f40-51cb-4cb0-8686-79d36cd0ca55",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Bij het maken van een klassenportret iets opschrijven over jezelf, je leeftijd, je familie, je woonplaats, je hobby's, je huisdieren.",
