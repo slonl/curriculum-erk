@@ -1916,36 +1916,52 @@
 		"description": ""
 	},
 	{
-		"title": "Tijdens een uitwisseling een groepsindeling bekend maken en zeggen hoe laat en waar de volgende activiteit begint (OPL).",
-		"id": "350562e1-56b6-4e27-ab02-36d3b9856028"
+		"title": "Tijdens een uitwisseling een groepsindeling bekend maken en zeggen hoe laat en waar de volgende activiteit begint.",
+		"id": "350562e1-56b6-4e27-ab02-36d3b9856028",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Bij een bezoek van een partnerschool de belangrijkste schoolregels meedelen (OPL).",
-		"id": "c7ffa218-e9f5-43c4-805b-9f5c45cd173a"
+		"title": "Bij een bezoek van een partnerschool de belangrijkste schoolregels meedelen.",
+		"id": "c7ffa218-e9f5-43c4-805b-9f5c45cd173a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Bij een bezoek van buitenlandse gasten aan het bedrijf de belangrijkste veiligheidsvoorschriften meedelen (WE).",
-		"id": "f2cfa09f-7c9e-4b9b-a6a7-39f7cbb23909"
+		"title": "Bij een bezoek van buitenlandse gasten aan het bedrijf de belangrijkste veiligheidsvoorschriften meedelen.",
+		"id": "f2cfa09f-7c9e-4b9b-a6a7-39f7cbb23909",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Tijdens uitwisselingen nieuwe regels/regelingen uitleggen aan collega's/medescholieren (OPL, WE).",
-		"id": "58d08745-f750-4737-8df0-35147ed61e1c"
+		"title": "Tijdens uitwisselingen nieuwe regels/regelingen uitleggen aan collega's/medescholieren.",
+		"id": "58d08745-f750-4737-8df0-35147ed61e1c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vertellen dat je van (bij)baan of opleiding verandert en uitleggen waarom (DL).",
-		"id": "f03e2370-f0a1-4494-865b-33274974b397"
+		"title": "Vertellen dat je van (bij)baan of opleiding verandert en uitleggen waarom.",
+		"id": "f03e2370-f0a1-4494-865b-33274974b397",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Op een congres met flair en humor een hooggeleerde spreker aankondigen (OPL, WE).",
-		"id": "de4358f8-e172-4dae-a955-9ee230f7b0d4"
+		"title": "Op een congres met flair en humor een hooggeleerde spreker aankondigen.",
+		"id": "de4358f8-e172-4dae-a955-9ee230f7b0d4",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Als leider van een delegatie vertegenwoordigers van officiële instanties toespreken (OPL, WE).",
-		"id": "eb40e343-9083-4d5f-ab7d-66e9c27854d7"
+		"title": "Als leider van een delegatie vertegenwoordigers van officiële instanties toespreken.",
+		"id": "eb40e343-9083-4d5f-ab7d-66e9c27854d7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Als (dag)voorzitter een conferentie of studiebijeenkomst leiden (OPL, WE).",
-		"id": "363973a5-ea92-4d07-b733-b3392492df2c"
+		"title": "Als (dag)voorzitter een conferentie of studiebijeenkomst leiden.",
+		"id": "363973a5-ea92-4d07-b733-b3392492df2c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Op een optreden in enkele zinnen een spreker aankondigen (OPL, WE).",
@@ -7283,6 +7299,24 @@
 		"id": "76d2c4a4-45ca-43a7-a35f-37f20f5dd3d2",
 		"prefix": "",
 		"title": "In de finale van een debatwedstrijd een opbouwende en beargumenteerde mening geven over de transgenderwet  en de voor- en nadelen van verschillende opties uiteenzetten.",
+		"description": ""
+	},
+	{
+		"id": "9a2f06c5-367c-437c-bca5-1427a1c6bc0b",
+		"prefix": "",
+		"title": "Bij een spel of sportwedstrijd de spelregels uitleggen.",
+		"description": ""
+	},
+	{
+		"id": "d38768c5-85bc-478c-8f36-b76e108aa4ea",
+		"prefix": "",
+		"title": "Als reisleider optreden bij een excursie met buitenlandse bezoekers.",
+		"description": ""
+	},
+	{
+		"id": "092ce980-a992-4f3e-b529-f524a0fe5f4a",
+		"prefix": "",
+		"title": "Een van tevoren ingeoefend gelegenheidstoespraakje bij een feestelijke gebeurtenis.",
 		"description": ""
 	}
 ]
