@@ -4274,24 +4274,34 @@
 		"description": ""
 	},
 	{
-		"title": "Een korte e-mail of brief om jezelf voor te stellen (XX).",
-		"id": "bca1e784-8acc-4bd7-9226-3f3aa1e53f3d"
+		"title": "Een e-mail waarin je jezelf voorstelt.",
+		"id": "bca1e784-8acc-4bd7-9226-3f3aa1e53f3d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Om te bedanken voor geboden hulp, voor een cadeautje, voor een uitnodiging (DL).",
-		"id": "21dd64ac-487e-4dfb-afa6-3260b5535e41"
+		"title": "Een brief waarin je iemand bedankt voor de hulp, een cadeautje of een uitnodiging.",
+		"id": "21dd64ac-487e-4dfb-afa6-3260b5535e41",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Om te verontschuldigen voor het vergeten van een verjaardag, het niet nakomen van een afspraak (DL).",
-		"id": "8798d562-ab29-48f6-b5ab-0a0ee16bb208"
+		"title": "Een brief waarin je je verontschuldigt voor het missen van een deadline, het per ongeluk stukmaken van iets, of het vergeten van een verjaardag.",
+		"id": "8798d562-ab29-48f6-b5ab-0a0ee16bb208",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een uitnodiging versturen of daarop reageren (DL).",
-		"id": "f1f8762e-cf33-4733-a6d1-098eca91ea72"
+		"title": "Een e-mail waarin je je vrienden uitnodigt voor een nieuwjaarsfeest.",
+		"id": "f1f8762e-cf33-4733-a6d1-098eca91ea72",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een afspraak bevestigen of wijzigen (XX).",
-		"id": "ab4bee9d-d212-4686-98fc-e0773467926b"
+		"title": "Een tekstbericht waarin je aangeeft of je wel of niet aanwezig kunt zijn bij een bruiloft.",
+		"id": "ab4bee9d-d212-4686-98fc-e0773467926b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een begeleidend briefje maken bij het opsturen van een pakje, folder of document (DL, WE).",
@@ -4302,16 +4312,22 @@
 		"id": "8557ef43-d756-479a-a323-8228bc1a16ec"
 	},
 	{
-		"title": "Een bericht schrijven om een vakantiehuisje/-appartement te huren (DL).",
-		"id": "6c6bee72-0219-431f-9f87-a5828e9f775a"
+		"title": "Een korte brief waarin je de eigenaar van het vakantiehuisje vraagt of je een week later kunt komen.",
+		"id": "6c6bee72-0219-431f-9f87-a5828e9f775a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Om iets te vertellen of te vragen over het weer of over dagelijkse zaken (DL).",
-		"id": "ecbf1817-64e1-4b8d-8adf-e77f4dd9df54"
+		"title": "Over je nieuwe kleding.",
+		"id": "ecbf1817-64e1-4b8d-8adf-e77f4dd9df54",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Om een kort en eenvoudige verslag te maken van een reis of verblijf tijdens de vakantie (DL).",
-		"id": "69b9a09f-3309-4452-940c-1ec7c6249ff6"
+		"title": "Over hoe je huis eruitziet.",
+		"id": "69b9a09f-3309-4452-940c-1ec7c6249ff6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Vragen naar de nieuwe woning van een kennis (DL).",
@@ -7581,6 +7597,48 @@
 		"id": "c3ee764d-87bd-476c-a2bf-5bd004f50a3e",
 		"prefix": "",
 		"title": "Een vriend vragen waar en hoe laat jullie afspreken.",
+		"description": ""
+	},
+	{
+		"id": "66864edd-177d-4568-bfe7-484ac647c3c1",
+		"prefix": "",
+		"title": "Een briefje waarin je vertelt over je hobby.",
+		"description": ""
+	},
+	{
+		"id": "39b43097-593b-49fa-925a-1864bb35a043",
+		"prefix": "",
+		"title": "Een kaart voor een nieuwe woning.",
+		"description": ""
+	},
+	{
+		"id": "9edbd1e8-1895-4b27-b888-e1d3d103751c",
+		"prefix": "",
+		"title": "Een kaart voor een nieuwe baan.",
+		"description": ""
+	},
+	{
+		"id": "bc40a591-d3cd-4464-bfe9-2b4a4638160d",
+		"prefix": "",
+		"title": "Een beterschapskaart.",
+		"description": ""
+	},
+	{
+		"id": "ac094591-ee17-4b6b-a803-6f4e8e2948e2",
+		"prefix": "",
+		"title": "Een condoleancekaart.",
+		"description": ""
+	},
+	{
+		"id": "0fc5962b-889f-430d-9677-75cdc04ac5a0",
+		"prefix": "",
+		"title": "Over wie je vrienden zijn.",
+		"description": ""
+	},
+	{
+		"id": "9427f8a7-5a7c-4c2a-a62d-8e7ebdea460a",
+		"prefix": "",
+		"title": "Over wat je fijn vindt aan een bepaald seizoen.",
 		"description": ""
 	}
 ]
