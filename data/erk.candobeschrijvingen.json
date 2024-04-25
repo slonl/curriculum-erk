@@ -13122,9 +13122,7 @@
 			"9b82aef7-cf73-42f8-a4aa-597dc3494564",
 			"a664434a-ef12-4059-b433-80e94b31ec09",
 			"3439b65b-c606-4431-a7b8-4c190ce0742e",
-			"3c380c29-41cc-4327-99a2-6b6222ebffd4",
-			"68f8c582-08d7-44d2-b6db-98eb51943f11",
-			"6bc41bcf-af33-4d09-972b-3a4d8a70bb01"
+			"3c380c29-41cc-4327-99a2-6b6222ebffd4"
 		],
 		"title": "Kan zich helder en precies uitdrukken in persoonlijke correspondentie en daarbij de taal flexibel en doeltreffend gebruiken, met inbegrip van emotioneel, dubbelzinnig en humoristisch taalgebruik.",
 		"id": "bf3c2209-78b9-494f-a9cc-cb52eab39de8",
@@ -13171,7 +13169,9 @@
 				"children": [],
 				"childNodes": []
 			}
-		]
+		],
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -14421,8 +14421,14 @@
 		],
 		"id": "b5225ba0-ed20-439d-9298-6f5403b7c948",
 		"prefix": "",
-		"title": "Kan met goede uitdrukkingsvaardigheid en nauwkeurigheid formele correspondentie opstellen, zoals verklarende brieven, sollicitatiebrieven, aanbevelingsbrieven, referenties, klachten, steunbetuigingen en condoleances.",
-		"description": ""
+		"title": "Kan met goede uitdrukkingsvaardigheid en nauwkeurigheid formele correspondentie opstellen.",
+		"description": "",
+		"erk_voorbeeld_id": [
+			"70c10c98-659f-49f3-bde9-16b5a05af816",
+			"3e5fc53c-6baa-4f1f-a7ab-f490ec034379",
+			"76e5e352-37a4-4530-9fa5-2ecde61a208e",
+			"582a7b6f-0eb6-40e6-9fbe-eee6872e4343"
+		]
 	},
 	{
 		"niveau_id": [
