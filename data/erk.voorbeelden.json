@@ -7798,5 +7798,53 @@
 		"prefix": "",
 		"title": "Een reservering voor een vakantieaccommodatie afzeggen en proberen het geld terug te krijgen.",
 		"description": ""
+	},
+	{
+		"id": "572e3a78-bde7-4cf6-83b1-330f0068a5f9",
+		"prefix": "",
+		"title": "Een e-mail naar de klantenservice van een veerbootmaatschappij over een probleem bij een gemaakte boeking.",
+		"description": ""
+	},
+	{
+		"id": "1a6fae7b-af84-46d5-94c2-2cc4e409c1e3",
+		"prefix": "",
+		"title": "Een doelgerichte reactie op een digitale brief over huurverhoging.",
+		"description": ""
+	},
+	{
+		"id": "493f7283-dc14-450e-9a25-82001469625e",
+		"prefix": "",
+		"title": "Een motivatiebrief naar aanleiding van een vacature voor een zomerstage bij een bekend automerk ter voorbereiding op een commerciële studie.",
+		"description": ""
+	},
+	{
+		"id": "a3b5e531-6b6c-455a-bbc6-3536cff6950b",
+		"prefix": "",
+		"title": "Vragen stellen naar aanleiding van een vacature voor de functie van medewerker bij een goed doel.",
+		"description": ""
+	},
+	{
+		"id": "6479b08f-e6d9-4877-b07c-daa0fdd808a9",
+		"prefix": "",
+		"title": "Een bijdrage leveren in een groepsmail, bijvoorbeeld onder studenten van hetzelfde cursusjaar.",
+		"description": ""
+	},
+	{
+		"id": "106eaf01-3d78-45b6-88c1-8573e3ed3834",
+		"prefix": "",
+		"title": "Tijdens een online bijeenkomst reageren op collega's met de chatfunctie.",
+		"description": ""
+	},
+	{
+		"id": "fa46cb3a-c720-446d-8cf2-8271a78a034f",
+		"prefix": "",
+		"title": "Nauw schriftelijk contact met verre familieleden en/of vrienden onderhouden.",
+		"description": ""
+	},
+	{
+		"id": "2a91aaab-f7a7-4c1f-9b22-0bf97e8677d9",
+		"prefix": "",
+		"title": "Een emailwisseling met een buitenlandse correspondentiepartner over het verloop van de gehele avond van een schoolfeest, waar de schrijver ook een act heeft gedaan.",
+		"description": ""
 	}
 ]
