@@ -8444,7 +8444,12 @@
 		"title": "Kan redelijk vloeiend een helder verhaal vertellen of een heldere beschrijving geven in de vorm van een opeenvolging van punten.",
 		"id": "eb82cd9a-a4de-4b50-8ea5-630d8e58951a",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"b249d254-5e99-4fed-bf9f-016635dc9191",
+			"93567bbe-1f99-4ca0-95dc-8e74a70b5e07",
+			"6e31c5c4-9fcb-430c-aa08-f5bd3450a7ab"
+		]
 	},
 	{
 		"niveau_id": [
@@ -8454,7 +8459,9 @@
 			"54e5153c-3350-49d9-83cf-4924bb214320",
 			"8e4d1cc3-da9f-4b0e-9e19-2e22f1f1a4d4",
 			"4816f9d2-784a-4a3a-931b-2261d45b7bb1",
-			"2926b7c4-afc0-4d22-8850-aac2ad897336"
+			"2926b7c4-afc0-4d22-8850-aac2ad897336",
+			"749351ac-f6dd-4afc-b952-4b0c78f9fb4c",
+			"132c7c49-6395-4bb4-97a3-f436daaeb6ef"
 		],
 		"title": "Kan eenvoudige beschrijvingen geven over een scala van vertrouwde onderwerpen binnen het eigen interessegebied.",
 		"id": "12b3b89e-34dc-499e-95fa-136a10363ffc",
