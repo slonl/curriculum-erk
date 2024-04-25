@@ -7698,9 +7698,7 @@
 		],
 		"erk_voorbeeld_id": [
 			"6435d9f5-0883-4c36-9685-f42879a753a2",
-			"bb1a52d7-748a-4a4f-808d-0778aef63660",
-			"960939d3-1df1-493d-9f2f-28215b143331",
-			"fc042d6e-e360-4a2e-a233-86f167dee3ec"
+			"bb1a52d7-748a-4a4f-808d-0778aef63660"
 		],
 		"title": "Kan een korte beschrijving geven van zichzelf, inclusief beroep/bezigheid en woonplaats.",
 		"id": "379b436f-0b0b-40f8-ae55-60007f65fc47",
@@ -7744,7 +7742,14 @@
 		"title": "Kan  kort beschrijven wat de weekend- of vakantieplannen zijn.",
 		"id": "2c2e470b-602f-4357-b7ed-74e703f439b1",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"52d99919-82b2-4026-bda2-8c0168e41013",
+			"17f54399-942b-4740-bb10-8c84dfda5cab",
+			"428e8e0e-235a-46b4-adc5-094c40371258",
+			"918b8cdc-3422-499e-a1eb-c8f22787a7ff",
+			"2732e41e-c58a-4583-8586-ed9fdc3348f2"
+		]
 	},
 	{
 		"niveau_id": [
