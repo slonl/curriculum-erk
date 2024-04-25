@@ -12946,7 +12946,12 @@
 		"title": "Kan elementaire formele e-mails/brieven opstellen, bijvoorbeeld om een klacht of verzoek in te dienen.",
 		"id": "c1410290-6f14-43ce-a712-eb0d600efef3",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"8c4a0b70-4f51-4302-8e13-d8f5fd358c09",
+			"1195b774-0a76-4378-8477-9beed7fe36fd",
+			"76c7aba8-3589-4bcf-8b35-10c234927c17"
+		]
 	},
 	{
 		"niveau_id": [
@@ -12957,8 +12962,7 @@
 			"503a797f-eb3a-40aa-ada2-b0c3ef0e621e",
 			"036245dc-6151-4972-88f0-adeab9aff944",
 			"8529da6c-67b9-479b-8ac8-26f2d4709a03",
-			"2e58a4e6-12eb-4a6c-b9d8-7db64a234b7f",
-			"30457651-6142-451e-8448-e90d75e7a5a9"
+			"2e58a4e6-12eb-4a6c-b9d8-7db64a234b7f"
 		],
 		"title": "Kan brieven schrijven waaruit gradaties van emotie spreken, waarin het persoonlijke belang van gebeurtenissen en ervaringen wordt benadrukt en die commentaar geven op het nieuws en de visies van de geadresseerde.",
 		"id": "351fbc64-cfb7-4170-abb1-bce11dccc59f",
@@ -13005,7 +13009,9 @@
 				"children": [],
 				"childNodes": []
 			}
-		]
+		],
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
