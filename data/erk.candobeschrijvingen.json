@@ -12499,7 +12499,10 @@
 		"title": "Kan elementaire persoonlijke informatie doorgeven in korte frasen en zinnen, met behulp van een woordenboek.",
 		"id": "d6d77cc5-80a3-4366-9842-c38fcbb35bcb",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"2c558e16-3485-4666-ab64-0e655963fbaf"
+		]
 	},
 	{
 		"niveau_id": [
@@ -12508,7 +12511,12 @@
 		"title": "Kan berichten en online posts opstellen als een reeks zeer korte zinnen over hobby's en voorkeuren/afkeuren, gebruikmakend van eenvoudige woorden en basisuitdrukkingen en met raadpleging van een woordenboek.",
 		"id": "007322df-7d79-4eaa-956b-1eff00b0b155",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"1409d140-2326-4cfe-bca7-0960036d301f",
+			"e585c78d-88ad-4156-bcf0-25e5590e4d9f",
+			"b550f120-5efc-4d90-9d1d-c15efb59bf33"
+		]
 	},
 	{
 		"niveau_id": [
@@ -12517,12 +12525,36 @@
 		"erk_voorbeeld_id": [
 			"81336703-21f6-4ab4-b703-d80c9a46a0f5",
 			"6b58b1cc-50f5-4491-be3e-c842b28de80a",
-			"69f380fc-6aa4-4dc3-8f86-0518917ba413"
+			"69f380fc-6aa4-4dc3-8f86-0518917ba413",
+			"9d0aa423-b425-4dca-8f02-64cecdf5d1e2"
 		],
 		"title": "Kan een korte, eenvoudige briefkaart opstellen.",
 		"id": "bfbe3bf5-a5e0-49f2-868e-236463ec83a7",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"childNodes": [
+			{
+				"title": "Een ansichtkaart met vakantiegroet (DL).",
+				"id": "81336703-21f6-4ab4-b703-d80c9a46a0f5",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Een felicitatiekaart (DL).",
+				"id": "6b58b1cc-50f5-4491-be3e-c842b28de80a",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Een wenskaart (nieuwjaar/kerst) (DL).",
+				"id": "69f380fc-6aa4-4dc3-8f86-0518917ba413",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			}
+		]
 	},
 	{
 		"niveau_id": [
@@ -12531,12 +12563,36 @@
 		"erk_voorbeeld_id": [
 			"62056e04-b177-4e97-b1dd-792b350422a6",
 			"82396b4c-6b19-445f-ae5f-c4e4d1f0ecd3",
-			"44d01b15-030c-4ec7-aa4c-53a789589324"
+			"44d01b15-030c-4ec7-aa4c-53a789589324",
+			"c3ee764d-87bd-476c-a2bf-5bd004f50a3e"
 		],
-		"title": "Kan een kort, zeer eenvoudig bericht opstellen (zoals een tekstbericht) aan vrienden om hen iets door te geven of een vraag te stellen.",
+		"title": "Kan een kort, zeer eenvoudig bericht opstellen aan vrienden om hen iets door te geven of een vraag te stellen.",
 		"id": "634f3bba-748e-4893-afe5-3efe4d52344b",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"childNodes": [
+			{
+				"title": "Afwezigheid melden aan een kennis of huisgenoot: ik eet niet mee (DL).",
+				"id": "62056e04-b177-4e97-b1dd-792b350422a6",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Afwezigheid melden bij een les, cursus of stage (OPL, WE).",
+				"id": "82396b4c-6b19-445f-ae5f-c4e4d1f0ecd3",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Een afspraak met een kennis of collega bevestigen: datum, tijd, plaats (DL, WE).",
+				"id": "44d01b15-030c-4ec7-aa4c-53a789589324",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			}
+		]
 	},
 	{
 		"niveau_id": [
@@ -12548,7 +12604,16 @@
 		"title": "Kan persoonlijke gegevens met een routinematig karakter doorgeven, bijvoorbeeld in een korte e-mail of brief om zichzelf voor te stellen.",
 		"id": "edcd0775-cd98-4c37-9d18-864cdb7e5116",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"childNodes": [
+			{
+				"title": "Een korte e-mail of brief om jezelf voor te stellen (XX).",
+				"id": "bca1e784-8acc-4bd7-9226-3f3aa1e53f3d",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			}
+		]
 	},
 	{
 		"niveau_id": [
@@ -12561,7 +12626,23 @@
 		"title": "Kan zeer eenvoudige persoonlijke brieven opstellen waarin dank wordt uitgesproken of verontschuldigingen worden aangeboden.",
 		"id": "2558a315-e490-495a-8068-7a4fcc86ad73",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"childNodes": [
+			{
+				"title": "Om te bedanken voor geboden hulp, voor een cadeautje, voor een uitnodiging (DL).",
+				"id": "21dd64ac-487e-4dfb-afa6-3260b5535e41",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Om te verontschuldigen voor het vergeten van een verjaardag, het niet nakomen van een afspraak (DL).",
+				"id": "8798d562-ab29-48f6-b5ab-0a0ee16bb208",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			}
+		]
 	},
 	{
 		"niveau_id": [
@@ -12577,7 +12658,44 @@
 		"title": "Kan korte, eenvoudige briefjes, e-mails en tekstberichten opstellen.",
 		"id": "61e95db6-d4a9-4954-9d66-78ac0454e9fa",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"childNodes": [
+			{
+				"title": "Een uitnodiging versturen of daarop reageren (DL).",
+				"id": "f1f8762e-cf33-4733-a6d1-098eca91ea72",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Een afspraak bevestigen of wijzigen (XX).",
+				"id": "ab4bee9d-d212-4686-98fc-e0773467926b",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Een begeleidend briefje maken bij het opsturen van een pakje, folder of document (DL, WE).",
+				"id": "58b322b0-b39e-4182-833a-ee3306ca8bb2",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Overeengekomen prijzen bevestigen (WE).",
+				"id": "8557ef43-d756-479a-a323-8228bc1a16ec",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Een bericht schrijven om een vakantiehuisje/-appartement te huren (DL).",
+				"id": "6c6bee72-0219-431f-9f87-a5828e9f775a",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			}
+		]
 	},
 	{
 		"niveau_id": [
@@ -12599,7 +12717,23 @@
 		"title": "Kan informatie uitwisselen via tekstbericht, via e-mail of in korte brieven om antwoord te geven op vragen van de andere persoon (bijvoorbeeld over een nieuw product of een nieuwe activiteit).",
 		"id": "4e8cd9ab-ce8e-492e-994c-a3c99f83cc28",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"childNodes": [
+			{
+				"title": "Om iets te vertellen of te vragen over het weer of over dagelijkse zaken (DL).",
+				"id": "ecbf1817-64e1-4b8d-8adf-e77f4dd9df54",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Om een kort en eenvoudige verslag te maken van een reis of verblijf tijdens de vakantie (DL).",
+				"id": "69b9a09f-3309-4452-940c-1ec7c6249ff6",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			}
+		]
 	},
 	{
 		"niveau_id": [
@@ -12620,7 +12754,79 @@
 		"title": "Kan persoonlijke brieven en e-mails opstellen waarin ervaringen, gevoelens en gebeurtenissen enigszins gedetailleerd worden beschreven.",
 		"id": "b2ae8e68-857c-4fdc-9a0a-5bd918c48d09",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"childNodes": [
+			{
+				"title": "Vragen naar de nieuwe woning van een kennis (DL).",
+				"id": "a406cd82-6138-4dbb-8248-1b5838e283ff",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Aan een vakantievriend/in beschrijven wat gebeurd/gedaan is sinds de laatste ontmoeting (DL).",
+				"id": "c14e43c7-fb27-4fc5-9e27-378dd4ee1f22",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Een correspondentievriend/in verslag doen van je nieuwe baan (DL).",
+				"id": "2db38739-fd4f-4de5-b5ea-47a65d3785ed",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Een buitenlandse kennis uitnodigen voor een bezoek (DL).",
+				"id": "9f494784-ada1-4fbf-84f5-61f9286a5952",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Een bedankbriefje schrijven na afloop van een bezoek (XX).",
+				"id": "6733e818-645a-4278-a4cf-5dd251572702",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Aan een correspondentievriend/in schrijven over de relatie met je ouders, wat je vindt van school, over verliefd zijn (DL).",
+				"id": "bf99fd0f-9305-4cc4-a3aa-15da1767d295",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Op een gepaste manier reageren op een brief waarin je correspondentievriend/in zijn/haar verdriet of ongenoegen uit (DL).",
+				"id": "fc0ee131-3d06-4dba-be22-7294fb919d4d",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Een eenvoudige klachtenbrief schrijven of erop reageren: verkeerde goederen geleverd, rekening te hoog (PU).",
+				"id": "3522e8be-03e2-44f2-b48d-17d6765f839f",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Een condoleancebriefje schrijven met behulp van standaardformules (XX).",
+				"id": "a77f739a-16a5-4a8e-8375-0df54d2f4add",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Een eenvoudige sollicitatiebrief opstellen met beknopt cv, voor stage, au pair of vakantiebaan (OPL, WE).",
+				"id": "998ac964-280d-4f2d-91ba-af21295da098",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			}
+		]
 	},
 	{
 		"niveau_id": [
@@ -12651,7 +12857,23 @@
 		"title": "Kan persoonlijke brieven opstellen waarin nieuws wordt overgebracht en gedachten over abstracte of culturele onderwerpen worden uitgedrukt, zoals muziek en films.",
 		"id": "fdaef983-86f8-43b6-a123-2ec5d1d2b31b",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"childNodes": [
+			{
+				"title": "Verwachtingen uitspreken over een bezoek aan een popconcert of film (DL).",
+				"id": "5465b074-ec41-4899-ab78-28f8bebf3ebe",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Ervaringen uitwisselen over een bezoek aan een museum (DL).",
+				"id": "80035d86-031a-4b39-ba63-f46238422047",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			}
+		]
 	},
 	{
 		"niveau_id": [
@@ -12674,7 +12896,30 @@
 		"title": "Kan schriftelijk reageren op een advertentie en om meer informatie vragen over interessante zaken.",
 		"id": "f857c79c-ca55-4648-be72-bf8bd1e9142b",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"childNodes": [
+			{
+				"title": "Meer specifieke informatie aanvragen over bijvoorbeeld een vakantieplaats of de ligging van een vakantiewoning (PU).",
+				"id": "8eeffc67-a07a-4c1c-aebb-5dacc7f226d3",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Meer specifieke informatie aanvragen over een aangeboden stageplaats of au pair plek (PU, OPL).",
+				"id": "3c286761-41a3-4112-a812-8e674fbccb52",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Meer specifieke informatie aanvragen over een product dat op internet wordt aangeboden (PU).",
+				"id": "0e206732-bd2d-4cbe-aabb-79199d43d869",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			}
+		]
 	},
 	{
 		"niveau_id": [
@@ -12698,7 +12943,51 @@
 			"30457651-6142-451e-8448-e90d75e7a5a9"
 		],
 		"title": "Kan brieven schrijven waaruit gradaties van emotie spreken, waarin het persoonlijke belang van gebeurtenissen en ervaringen wordt benadrukt en die commentaar geven op het nieuws en de visies van de geadresseerde.",
-		"id": "351fbc64-cfb7-4170-abb1-bce11dccc59f"
+		"id": "351fbc64-cfb7-4170-abb1-bce11dccc59f",
+		"childNodes": [
+			{
+				"title": "Aan een vriend/in problemen op je werk/in je stage beschrijven (DL).",
+				"id": "8a510ebb-1323-4bad-9900-903a6a5acaa0",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Een (stage)begeleider bedanken voor alle hulp en goede raad en vertellen waarvan je het meest hebt geleerd (OPL, WE).",
+				"id": "503a797f-eb3a-40aa-ada2-b0c3ef0e621e",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Een vriend/in vertellen wat het voor je betekent dat je beste vriend/in naar een andere stad/ander land gaat verhuizen (DL).",
+				"id": "036245dc-6151-4972-88f0-adeab9aff944",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Reageren op een brief/e-mail van een kennis of vriend die meldt dat hij/zij langdurig ziek is (DL).",
+				"id": "8529da6c-67b9-479b-8ac8-26f2d4709a03",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Aan een correspondentievriend/in uitleggen waarom je tegen het gebruik van partydrugs bent (DL).",
+				"id": "2e58a4e6-12eb-4a6c-b9d8-7db64a234b7f",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Advies geven aan een kennis/vriend die in Nederland wil gaan studeren (DL).",
+				"id": "30457651-6142-451e-8448-e90d75e7a5a9",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			}
+		]
 	},
 	{
 		"niveau_id": [
@@ -12781,7 +13070,51 @@
 			"6bc41bcf-af33-4d09-972b-3a4d8a70bb01"
 		],
 		"title": "Kan zich helder en precies uitdrukken in persoonlijke correspondentie en daarbij de taal flexibel en doeltreffend gebruiken, met inbegrip van emotioneel, dubbelzinnig en humoristisch taalgebruik.",
-		"id": "bf3c2209-78b9-494f-a9cc-cb52eab39de8"
+		"id": "bf3c2209-78b9-494f-a9cc-cb52eab39de8",
+		"childNodes": [
+			{
+				"title": "Met vrienden of collega's een correspondentie per e-mail onderhouden waarin veel grappen en toespelingen op gezamenlijke kennissen of collega's voorkomen (DL, WE).",
+				"id": "9b82aef7-cf73-42f8-a4aa-597dc3494564",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Aan een vriend/in schrijven over wat je getroffen heeft in een boek of film (DL).",
+				"id": "a664434a-ef12-4059-b433-80e94b31ec09",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Een zelf-spottend blog houden tijdens een wandelvakantie (DL).",
+				"id": "3439b65b-c606-4431-a7b8-4c190ce0742e",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Een ingezonden brief schrijven aan de krant met toespelingen over het gedrag van een politicus (PU).",
+				"id": "3c380c29-41cc-4327-99a2-6b6222ebffd4",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Een tactvol antwoord formuleren op een klachtenbrief (DL).",
+				"id": "68f8c582-08d7-44d2-b6db-98eb51943f11",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			},
+			{
+				"title": "Een aanbeveling of referentie opstellen voor een collega (WE).",
+				"id": "6bc41bcf-af33-4d09-972b-3a4d8a70bb01",
+				"section": "erk_voorbeeld",
+				"children": [],
+				"childNodes": []
+			}
+		]
 	},
 	{
 		"niveau_id": [
