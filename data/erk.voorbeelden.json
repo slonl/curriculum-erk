@@ -6946,5 +6946,23 @@
 		"prefix": "",
 		"title": "Een recept uitleggen van een gemiddelde moeilijkheidsgraad, met tips en adviezen.",
 		"description": ""
+	},
+	{
+		"id": "7c60eb9f-1376-4a06-8560-7bdb38c85ac1",
+		"prefix": "",
+		"title": "Een getuigenverklaring geven.",
+		"description": ""
+	},
+	{
+		"id": "d8516ef6-dd9d-41d9-ba7a-cd721f5c83a4",
+		"prefix": "",
+		"title": "Verslag doen van een uit de hand gelopen protestmars.",
+		"description": ""
+	},
+	{
+		"id": "6383b967-ae90-4b94-937a-359a8fe3fdc9",
+		"prefix": "",
+		"title": "Gedetailleerde informatie van belangrijk internationaal nieuws uit de media.",
+		"description": ""
 	}
 ]
