@@ -7755,25 +7755,29 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan eigen sterktes en zwaktes uitdrukken (bijvoorbeeld sport, spellen, vaardigheden, vakken).",
+		"title": "Kan eigen sterktes en zwaktes uitdrukken.",
 		"id": "6ebf7de1-382a-4d4c-8613-006e3e5547bd",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"f6c98d96-c891-4780-b5bc-b34cd61f3727",
+			"62248a5a-9678-4536-953b-82c68f62cfb7",
+			"a791dea2-0b60-4f10-8f4d-da55f8a45e39"
+		]
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
 		"erk_voorbeeld_id": [
-			"31b6d5b8-f9e8-4183-b7f3-baa010d115ab",
 			"53406b22-153c-4e83-bb44-129ccadbfafa",
 			"d20dee8f-3c4c-476b-bcbd-973ac4d7e7b3",
 			"956ff943-dff1-4b1f-8527-c79e4fea20d9",
 			"43c11f49-788b-432c-92e8-722cdcfe746e",
-			"30707a5a-d13f-4ddc-8928-07a268fbc4ca",
 			"e953329c-ea59-4ea3-9b4f-27b2437767b0",
 			"3371949b-7297-4992-b96c-f335bbebd87a",
-			"d3628b26-9558-4f16-84a0-631297df74cf"
+			"d3628b26-9558-4f16-84a0-631297df74cf",
+			"e6db939f-efef-4751-b2fe-8bf727e828b5"
 		],
 		"title": "Kan in eenvoudige bewoordingen mensen, plaatsen en bezittingen beschrijven.",
 		"id": "59e5a47f-0638-4fc1-b310-c3e7c340be47",
@@ -7841,7 +7845,9 @@
 				"children": [],
 				"childNodes": []
 			}
-		]
+		],
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
