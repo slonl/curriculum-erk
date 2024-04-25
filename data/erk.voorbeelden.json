@@ -1574,52 +1574,76 @@
 		"description": ""
 	},
 	{
-		"title": "Hoe je een eenvoudig gerecht klaarmaakt (DL).",
-		"id": "1eb5ccc4-2ba0-4ce0-8b96-c0218a070804"
+		"title": "Hoe je een eenvoudig gerecht klaarmaakt.",
+		"id": "1eb5ccc4-2ba0-4ce0-8b96-c0218a070804",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De aard van een klacht bij de dokter (PU).",
-		"id": "85da6267-cad7-4086-a1f2-ffd1fe1cb228"
+		"title": "Wat je klacht is bij een dokter.",
+		"id": "85da6267-cad7-4086-a1f2-ffd1fe1cb228",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Welke werkzaamheden gedaan moeten worden (WE).",
-		"id": "5d80d6d7-d57a-4a95-ba75-6b9f7c57b9b4"
+		"title": "Welke huishoudelijke klusjes in huis nog gedaan moeten worden.",
+		"id": "5d80d6d7-d57a-4a95-ba75-6b9f7c57b9b4",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Hoe een huiswerkopdracht uitgevoerd moet worden (OPL).",
-		"id": "2a6e913e-8f46-40cd-a635-7a2034a2c9f7"
+		"title": "Hoe een huiswerkopdracht uitgevoerd moet worden.",
+		"id": "2a6e913e-8f46-40cd-a635-7a2034a2c9f7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Hoe een film of boek verloopt (OPL).",
-		"id": "cf564bb0-2575-4ad5-988e-6b2977ae80c7"
+		"title": "Hoe een film of boek in hoofdlijnen verloopt.",
+		"id": "cf564bb0-2575-4ad5-988e-6b2977ae80c7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Hoe de kopieermachine of de computer werkt (OPL, WE).",
-		"id": "855c6bac-6c07-47dd-8b46-533418fcbfe5"
+		"title": "Hoe de kopieermachine of de computer werkt.",
+		"id": "855c6bac-6c07-47dd-8b46-533418fcbfe5",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Zelf een verhaal bedenken en delen met de klas (OPL).",
-		"id": "d0d6e80f-0ec3-441c-a75b-efc085f0ed9e"
+		"title": "Zelf een verhaal bedenken en delen met de klas.",
+		"id": "d0d6e80f-0ec3-441c-a75b-efc085f0ed9e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over gewoontes van eigen land, zoals gebruiken rond feestdagen, brood eten tussen de middag, om zes uur warm eten (DL, OPL).",
-		"id": "d48bb211-2bff-4128-a2ee-ba681406d94a"
+		"title": "Een bezoek aan een restaurant.",
+		"id": "d48bb211-2bff-4128-a2ee-ba681406d94a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een winkeldiefstal aan de politie (PU).",
-		"id": "64cd1190-aa90-408f-94cb-cf9548af73be"
+		"title": "Een droom van afgelopen nacht.",
+		"id": "64cd1190-aa90-408f-94cb-cf9548af73be",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Pech onderweg' op reis, zoals een gemist vliegtuig, een kapotte auto, geen onderdak kunnen vinden (DL, WE).",
-		"id": "d90f12c7-601e-4b49-b3e8-88d72739190d"
+		"title": "Een feest of bruiloft.",
+		"id": "d90f12c7-601e-4b49-b3e8-88d72739190d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een grappige gebeurtenis (DL, OPL, WE).",
-		"id": "8c12f19c-c471-4573-863b-0c2c4fba0d78"
+		"title": "Een gebeurtenis uit een roman.",
+		"id": "8c12f19c-c471-4573-863b-0c2c4fba0d78",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een feest of bruiloft (DL).",
-		"id": "ff19f3ab-eddd-4325-ba83-c253f2ecc10f"
+		"title": "Een situatie uit een film.",
+		"id": "ff19f3ab-eddd-4325-ba83-c253f2ecc10f",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Aan je vakantieliefde beschrijven hoe je je toekomst ziet (DL).",
@@ -6679,6 +6703,24 @@
 		"id": "ad3e64a4-b855-4ae2-8a75-9da33761d1da",
 		"prefix": "",
 		"title": "Wat je in de zomervakantie hebt gedaan.",
+		"description": ""
+	},
+	{
+		"id": "4f43a5de-a19f-40d4-b72e-b65193da9ccc",
+		"prefix": "",
+		"title": "Een verhaal aan je oppaskinderen.",
+		"description": ""
+	},
+	{
+		"id": "265f1d0e-2fbe-42d5-b604-0da0643527f8",
+		"prefix": "",
+		"title": "Een verhaal tijdens een optreden of op een feest.",
+		"description": ""
+	},
+	{
+		"id": "0e66b9e3-7c31-47a5-ad49-9bf09bcbe098",
+		"prefix": "",
+		"title": "Een grappige gebeurtenis in de les.",
 		"description": ""
 	}
 ]
