@@ -2000,28 +2000,40 @@
 		"description": ""
 	},
 	{
-		"title": "Over het uitzoeken, aanschaffen en verzorgen (ook tijdens vakanties) van een huisdier (DL).",
-		"id": "7e9c504e-fd7a-4e28-b18d-29de965c9ebd"
+		"title": "Het uitzoeken, aanschaffen en verzorgen van een huisdier.",
+		"id": "7e9c504e-fd7a-4e28-b18d-29de965c9ebd",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over het uitzoeken, aanschaffen en onderhouden van een scooter, mobiel, spelcomputer, iPad enzovoort (DL, OPL).",
-		"id": "aae7fab6-535d-46a2-a564-c8665a816314"
+		"title": "Het uitzoeken, aanschaffen en onderhouden van een scooter, mobiel of spelcomputer.",
+		"id": "aae7fab6-535d-46a2-a564-c8665a816314",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over het beoefenen van een vrijetijdsbesteding, de keuze daarvoor en wat het inhoudt (OPL).",
-		"id": "778e16bd-ed87-475f-b0e9-d21ab37adc1c"
+		"title": "Het beoefenen van een vrijetijdsbesteding, de keuze daarvoor en wat het inhoudt.",
+		"id": "778e16bd-ed87-475f-b0e9-d21ab37adc1c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over een onderwerp dat je interesseert, zoals een sport, een muzieksoort, mode, een filmgenre (OPL).",
-		"id": "53346ded-8464-497a-8ded-e43117202f40"
+		"title": "Over een sport, een muzieksoort, mode, een filmgenre.",
+		"id": "53346ded-8464-497a-8ded-e43117202f40",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een verslag van een taalstage of taalcursus aan medestudenten (OPL).",
-		"id": "6200df40-9afe-4c4d-8b1a-94285e3a6e4a"
+		"title": "Een verslag presenteren van een taalstage of taalcursus aan medestudenten.",
+		"id": "6200df40-9afe-4c4d-8b1a-94285e3a6e4a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een toelichting met behulp van grafieken (OPL, WE).",
-		"id": "8d067324-e2a5-4f9f-aa88-36ae7965898d"
+		"title": "Een toelichting geven met behulp van eenvoudige grafieken.",
+		"id": "8d067324-e2a5-4f9f-aa88-36ae7965898d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Waarom je gekozen hebt voor een bepaalde sport, een bepaald vak of profiel (OPL, DL).",
@@ -7361,6 +7373,36 @@
 		"id": "66d2b280-584d-4b76-a16f-d26612625319",
 		"prefix": "",
 		"title": "Een sportteam of een muziekband.",
+		"description": ""
+	},
+	{
+		"id": "293f4eb1-c5d4-4fca-9a46-fe7645f4849e",
+		"prefix": "",
+		"title": "Na een presentatie over een werkgerelateerd onderwerp.",
+		"description": ""
+	},
+	{
+		"id": "754fee03-3e3b-43ae-a3f3-cc3c16a57f19",
+		"prefix": "",
+		"title": "Na een presentatie in de klas over een vertrouwd onderwerp.",
+		"description": ""
+	},
+	{
+		"id": "b420d525-dc59-41d2-be45-4168c24be85b",
+		"prefix": "",
+		"title": "Over de voeding van een huisdier.",
+		"description": ""
+	},
+	{
+		"id": "569cef18-ee40-4d34-b268-f315b41ef47b",
+		"prefix": "",
+		"title": "Over de hoofdpersoon in een boek.",
+		"description": ""
+	},
+	{
+		"id": "b3f0d037-bec7-4b93-9fb6-128b54004732",
+		"prefix": "",
+		"title": "Over de indeling van de school tijdens een rondleiding.",
 		"description": ""
 	}
 ]
