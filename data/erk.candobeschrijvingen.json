@@ -13180,7 +13180,14 @@
 		"title": "Kan vrijwel elk type correspondentie in het beroepsleven in een passende toon en stijl formuleren.",
 		"id": "48d19ee8-16b3-4d62-989e-9da63c6eb3da",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"cb0059c0-c1d7-4b63-b870-e4ff457dc63e",
+			"52985de8-7084-43ee-820b-8da7d83526a5",
+			"a54a7850-2f16-4ee2-891f-1f567c1b8f0a",
+			"81e4161c-2c03-4980-b7c4-76e759756bcb",
+			"f40175d6-ddf8-4073-8f61-6b62d0d88379"
+		]
 	},
 	{
 		"niveau_id": [
