@@ -4440,20 +4440,28 @@
 		"id": "30457651-6142-451e-8448-e90d75e7a5a9"
 	},
 	{
-		"title": "Met vrienden of collega's een correspondentie per e-mail onderhouden waarin veel grappen en toespelingen op gezamenlijke kennissen of collega's voorkomen (DL, WE).",
-		"id": "9b82aef7-cf73-42f8-a4aa-597dc3494564"
+		"title": "Met vrienden of collega's een schriftelijke uitwisseling per e-mail onderhouden waarin veel grappen en toespelingen op gezamenlijke kennissen of collega's voorkomen.",
+		"id": "9b82aef7-cf73-42f8-a4aa-597dc3494564",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aan een vriend/in schrijven over wat je getroffen heeft in een boek of film (DL).",
-		"id": "a664434a-ef12-4059-b433-80e94b31ec09"
+		"title": "Aan een vriend/in schrijven over wat je getroffen heeft in een boek of film.",
+		"id": "a664434a-ef12-4059-b433-80e94b31ec09",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een zelf-spottend blog houden tijdens een wandelvakantie (DL).",
-		"id": "3439b65b-c606-4431-a7b8-4c190ce0742e"
+		"title": "Een schriftelijke uitwisseling tussen twee fictieve personen bedenken als humoristisch reisverslag.",
+		"id": "3439b65b-c606-4431-a7b8-4c190ce0742e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een ingezonden brief schrijven aan de krant met toespelingen over het gedrag van een politicus (PU).",
-		"id": "3c380c29-41cc-4327-99a2-6b6222ebffd4"
+		"title": "Met humor en emotie reageren op een mail van een vriend/in waarin die schrijft over een gek of spannend voorval dat die heeft meegemaakt.",
+		"id": "3c380c29-41cc-4327-99a2-6b6222ebffd4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een tactvol antwoord formuleren op een klachtenbrief (DL).",
@@ -7845,6 +7853,30 @@
 		"id": "2a91aaab-f7a7-4c1f-9b22-0bf97e8677d9",
 		"prefix": "",
 		"title": "Een e-mailwisseling met een buitenlandse correspondentiepartner over het verloop van de gehele avond van een schoolfeest, waar de schrijver ook een act heeft gedaan.",
+		"description": ""
+	},
+	{
+		"id": "70c10c98-659f-49f3-bde9-16b5a05af816",
+		"prefix": "",
+		"title": "Een ingezonden e-mail aan de krant met toespelingen over het gedrag van een politicus.",
+		"description": ""
+	},
+	{
+		"id": "3e5fc53c-6baa-4f1f-a7ab-f490ec034379",
+		"prefix": "",
+		"title": "Een tactvol antwoord op een klachtenbrief.",
+		"description": ""
+	},
+	{
+		"id": "76e5e352-37a4-4530-9fa5-2ecde61a208e",
+		"prefix": "",
+		"title": "Een aanbeveling of referentie voor een collega, waarbij het gaat om een genuanceerd en betrouwbaar, maar positief en overtuigend beeld.",
+		"description": ""
+	},
+	{
+		"id": "582a7b6f-0eb6-40e6-9fbe-eee6872e4343",
+		"prefix": "",
+		"title": "Een mail aan een collega in het buitenland waarin je steun en medeleven betuigt na het overlijden van een dierbaar familielid.",
 		"description": ""
 	}
 ]
