@@ -8846,7 +8846,13 @@
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
 		"title": "Kan gedetailleerde informatie betrouwbaar overbrengen.",
-		"id": "2e92ff8a-9660-42df-b7e4-fa0e376adcca"
+		"id": "2e92ff8a-9660-42df-b7e4-fa0e376adcca",
+		"erk_voorbeeld_id": [
+			"7c60eb9f-1376-4a06-8560-7bdb38c85ac1",
+			"d8516ef6-dd9d-41d9-ba7a-cd721f5c83a4",
+			"6383b967-ae90-4b94-937a-359a8fe3fdc9",
+			"6383b967-ae90-4b94-937a-359a8fe3fdc9"
+		]
 	},
 	{
 		"niveau_id": [
