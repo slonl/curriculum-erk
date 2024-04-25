@@ -1414,48 +1414,70 @@
 		"description": ""
 	},
 	{
-		"title": "Aan een gastgezin iets vertellen over je eigen gezin of familie (DL).",
-		"id": "0d9c99d0-8349-4ca1-9fe3-f9feb737ba84"
+		"title": "Je eigen gezin of familie.",
+		"id": "0d9c99d0-8349-4ca1-9fe3-f9feb737ba84",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Via video je uitwisselingspartner je huis laten zien en erover vertellen (OPL, DL).",
-		"id": "e4b92d88-4793-45af-894d-9183d05d92c4"
+		"title": "Je huis laten zien en erover vertellen.",
+		"id": "e4b92d88-4793-45af-894d-9183d05d92c4",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Iets vertellen over de vakken die je op school hebt (OPL).",
-		"id": "02932cc6-6c47-45b4-bdae-2b0c683cd48c"
+		"title": "De vakken die je op school hebt.",
+		"id": "02932cc6-6c47-45b4-bdae-2b0c683cd48c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Iets vertellen over je vrijetijdsbesteding, sport of huisdier (DL).",
-		"id": "486dff24-ab91-477d-b213-2be0183ec091"
+		"title": "Welke opleiding je doet of hebt gedaan.",
+		"id": "486dff24-ab91-477d-b213-2be0183ec091",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aan een vakantiekennis iets vertellen over het werk dat je doet (DL).",
-		"id": "840dbcb3-8caa-4064-a8f4-c8e32b330f12"
+		"title": "Het werk dat je doet.",
+		"id": "840dbcb3-8caa-4064-a8f4-c8e32b330f12",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Waarom je een bepaald souvenir wel of niet zou willen kopen (DL).",
-		"id": "0d1123e0-0ea6-48fc-8e68-b37bd5a9a06d"
+		"title": "Waarom je een bepaalde computer of mobiele telefoon wel of niet zou willen kopen.",
+		"id": "0d1123e0-0ea6-48fc-8e68-b37bd5a9a06d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Waarom je een bepaalde film, muzieksoort of schoolvak wel of niet leuk vindt (DL, OPL).",
-		"id": "60a80226-ffac-4034-ab9e-b70774c8a609"
+		"title": "Waarom je een bepaalde film, muzieksoort of schoolvak wel of niet leuk vindt.",
+		"id": "60a80226-ffac-4034-ab9e-b70774c8a609",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aan je buitenlandse stagebegeleider, waarom je bepaalde werkzaamheden wel of niet leuk vindt om te doen (WE, OPL).",
-		"id": "fb6dd7f3-0d08-4efc-b21a-5e1650d4e5c2"
+		"title": "Aan je buitenlandse stagebegeleider, waarom je bepaalde werkzaamheden wel of niet leuk vindt om te doen.",
+		"id": "fb6dd7f3-0d08-4efc-b21a-5e1650d4e5c2",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Mobiele telefoons vergelijken en aangeven wat de plus- en minpunten zijn (DL).",
-		"id": "f396d68e-5d90-4ba6-b9f5-7cd4c6e51f91"
+		"title": "Mobiele telefoons vergelijken en aangeven wat de plus- en minpunten zijn.",
+		"id": "f396d68e-5d90-4ba6-b9f5-7cd4c6e51f91",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Auto's en scooters vergelijken en voorkeur aangeven (DL).",
-		"id": "fdfac93b-ae93-4c7d-b25c-175f62c59893"
+		"title": "Auto's en scooters vergelijken, een voorkeur aangeven en uitleggen.",
+		"id": "fdfac93b-ae93-4c7d-b25c-175f62c59893",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Kleding vergelijken en voorkeur uitspreken (DL).",
-		"id": "89a62b88-e3dc-456a-9f08-fecd2e21af30"
+		"title": "Kleding vergelijken, een voorkeur uitspreken en uitleggen.",
+		"id": "89a62b88-e3dc-456a-9f08-fecd2e21af30",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Afspraken met je gastgezin over de tijd waarop je thuiskomt na een avond stappen (DL).",
@@ -6609,6 +6631,18 @@
 		"id": "e6db939f-efef-4751-b2fe-8bf727e828b5",
 		"prefix": "",
 		"title": "Materiaal dat je nodig hebt voor je hobby.",
+		"description": ""
+	},
+	{
+		"id": "a0278692-fb3f-42da-b605-c5d38744164a",
+		"prefix": "",
+		"title": "Wat je doet tijdens je stage.",
+		"description": ""
+	},
+	{
+		"id": "d694f2f2-427a-4b99-8692-1d68d672e19a",
+		"prefix": "",
+		"title": "Films of boeken vergelijken en aangeven welke je graag wilt zien en waarom.",
 		"description": ""
 	}
 ]
