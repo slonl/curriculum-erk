@@ -12599,7 +12599,8 @@
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
 		"erk_voorbeeld_id": [
-			"bca1e784-8acc-4bd7-9226-3f3aa1e53f3d"
+			"bca1e784-8acc-4bd7-9226-3f3aa1e53f3d",
+			"66864edd-177d-4568-bfe7-484ac647c3c1"
 		],
 		"title": "Kan persoonlijke gegevens met een routinematig karakter doorgeven, bijvoorbeeld in een korte e-mail of brief om zichzelf voor te stellen.",
 		"id": "edcd0775-cd98-4c37-9d18-864cdb7e5116",
@@ -12651,8 +12652,6 @@
 		"erk_voorbeeld_id": [
 			"f1f8762e-cf33-4733-a6d1-098eca91ea72",
 			"ab4bee9d-d212-4686-98fc-e0773467926b",
-			"58b322b0-b39e-4182-833a-ee3306ca8bb2",
-			"8557ef43-d756-479a-a323-8228bc1a16ec",
 			"6c6bee72-0219-431f-9f87-a5828e9f775a"
 		],
 		"title": "Kan korte, eenvoudige briefjes, e-mails en tekstberichten opstellen.",
@@ -12704,7 +12703,13 @@
 		"title": "Kan een korte tekst opstellen voor op een kaart.",
 		"id": "9a808595-9b41-4102-b253-cc6e1d0742e2",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"39b43097-593b-49fa-925a-1864bb35a043",
+			"9edbd1e8-1895-4b27-b888-e1d3d103751c",
+			"bc40a591-d3cd-4464-bfe9-2b4a4638160d",
+			"ac094591-ee17-4b6b-a803-6f4e8e2948e2"
+		]
 	},
 	{
 		"niveau_id": [
@@ -12712,9 +12717,11 @@
 		],
 		"erk_voorbeeld_id": [
 			"ecbf1817-64e1-4b8d-8adf-e77f4dd9df54",
-			"69b9a09f-3309-4452-940c-1ec7c6249ff6"
+			"69b9a09f-3309-4452-940c-1ec7c6249ff6",
+			"0fc5962b-889f-430d-9677-75cdc04ac5a0",
+			"9427f8a7-5a7c-4c2a-a62d-8e7ebdea460a"
 		],
-		"title": "Kan informatie uitwisselen via tekstbericht, via e-mail of in korte brieven om antwoord te geven op vragen van de andere persoon (bijvoorbeeld over een nieuw product of een nieuwe activiteit).",
+		"title": "Kan informatie uitwisselen via tekstbericht, via e-mail of in korte brieven om antwoord te geven op vragen van de andere persoon.",
 		"id": "4e8cd9ab-ce8e-492e-994c-a3c99f83cc28",
 		"prefix": "",
 		"description": "",
