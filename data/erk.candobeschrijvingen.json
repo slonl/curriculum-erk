@@ -7858,7 +7858,8 @@
 			"e4b92d88-4793-45af-894d-9183d05d92c4",
 			"02932cc6-6c47-45b4-bdae-2b0c683cd48c",
 			"486dff24-ab91-477d-b213-2be0183ec091",
-			"840dbcb3-8caa-4064-a8f4-c8e32b330f12"
+			"840dbcb3-8caa-4064-a8f4-c8e32b330f12",
+			"a0278692-fb3f-42da-b605-c5d38744164a"
 		],
 		"title": "Kan de eigen gezinssituatie, woonomstandigheden, onderwijsachtergrond en huidige of laatste werk beschrijven.",
 		"id": "42b75b7c-e1d3-4543-b254-f8662ba9f7b0",
@@ -7946,9 +7947,10 @@
 		"erk_voorbeeld_id": [
 			"f396d68e-5d90-4ba6-b9f5-7cd4c6e51f91",
 			"fdfac93b-ae93-4c7d-b25c-175f62c59893",
-			"89a62b88-e3dc-456a-9f08-fecd2e21af30"
+			"89a62b88-e3dc-456a-9f08-fecd2e21af30",
+			"d694f2f2-427a-4b99-8692-1d68d672e19a"
 		],
-		"title": "Kan in eenvoudige beschrijvende taal korte (vergelijkende) uitspraken doen over dingen en bezittingen.",
+		"title": "Kan in eenvoudige beschrijvende taal korte, vergelijkende uitspraken doen over dingen en bezittingen.",
 		"id": "13166edd-32e2-4906-bc00-ffa5b7646006",
 		"childNodes": [
 			{
@@ -7972,7 +7974,9 @@
 				"children": [],
 				"childNodes": []
 			}
-		]
+		],
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
