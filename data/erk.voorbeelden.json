@@ -4334,20 +4334,26 @@
 		"id": "a406cd82-6138-4dbb-8248-1b5838e283ff"
 	},
 	{
-		"title": "Aan een vakantievriend/in beschrijven wat gebeurd/gedaan is sinds de laatste ontmoeting (DL).",
-		"id": "c14e43c7-fb27-4fc5-9e27-378dd4ee1f22"
+		"title": "Aan een vakantievriend beschrijven wat gebeurd/gedaan is sinds de laatste ontmoeting.",
+		"id": "c14e43c7-fb27-4fc5-9e27-378dd4ee1f22",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een correspondentievriend/in verslag doen van je nieuwe baan (DL).",
-		"id": "2db38739-fd4f-4de5-b5ea-47a65d3785ed"
+		"title": "Een correspondentievriend verslag doen van je nieuwe baan.",
+		"id": "2db38739-fd4f-4de5-b5ea-47a65d3785ed",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een buitenlandse kennis uitnodigen voor een bezoek (DL).",
 		"id": "9f494784-ada1-4fbf-84f5-61f9286a5952"
 	},
 	{
-		"title": "Een bedankbriefje schrijven na afloop van een bezoek (XX).",
-		"id": "6733e818-645a-4278-a4cf-5dd251572702"
+		"title": "Een bedankbriefje schrijven na afloop van een bezoek.",
+		"id": "6733e818-645a-4278-a4cf-5dd251572702",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Aan een correspondentievriend/in schrijven over de relatie met je ouders, wat je vindt van school, over verliefd zijn (DL).",
