@@ -1314,24 +1314,34 @@
 		"id": "2cbc1e21-4a89-4d37-ac98-e0408fe08f30"
 	},
 	{
-		"title": "Over je uiterlijk, je leeftijd, je familiesamenstelling (DL).",
-		"id": "b2497556-60ea-488f-bf84-7aa69f7c3f66"
+		"title": "Je naam, je leeftijd, je woonplaats, je nationaliteit, je land van herkomst.",
+		"id": "b2497556-60ea-488f-bf84-7aa69f7c3f66",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Wat je in je vrije tijd doet (DL).",
-		"id": "d00c001b-9323-4104-8acc-5a1a218a930e"
+		"title": "Je hobby's, familie, vrienden en huisdieren.",
+		"id": "d00c001b-9323-4104-8acc-5a1a218a930e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Naar welke school je gaat (DL).",
-		"id": "5a28ec39-db00-465a-b84a-2b3fe7536096"
+		"title": "Met wie je graag speelt of afspreekt.",
+		"id": "5a28ec39-db00-465a-b84a-2b3fe7536096",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Wat je beroep of bijbaantje is (DL).",
-		"id": "ad08d5ff-6c4b-4edf-8207-2dc131ea3006"
+		"title": "Wat je beroep of bijbaantje is.",
+		"id": "ad08d5ff-6c4b-4edf-8207-2dc131ea3006",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Wat je doet op school of werk (DL).",
-		"id": "fdf1dd39-60a1-4e8f-a0ac-0ce6f6ecda12"
+		"title": "Hoe je naar school of naar je werk gaat.",
+		"id": "fdf1dd39-60a1-4e8f-a0ac-0ce6f6ecda12",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Informatie over jezelf in een videoboodschap voor een uitwisselingspartner (OPL).",
@@ -6521,6 +6531,12 @@
 		"id": "1c71982a-74ff-4bbc-a397-0a077c807785",
 		"prefix": "",
 		"title": "In de rij bij de klantenservicebalie: een discussie tussen een ontevreden klant en een winkelmedewerker over het ruilen van een product.",
+		"description": ""
+	},
+	{
+		"id": "9214e65a-e279-4d0c-9252-691f85385251",
+		"prefix": "",
+		"title": "De klas waarin je zit.",
 		"description": ""
 	}
 ]
