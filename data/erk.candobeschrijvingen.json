@@ -9084,7 +9084,12 @@
 		"title": "Kan een betoog systematisch opbouwen in goed gestructureerde taal, met aandacht voor het perspectief van de gesprekspartner, kan in dat betoog de belangrijke punten benadrukken met ondersteunende voorbeelden en kan het passend afronden.",
 		"id": "d36cbf17-6983-4c90-8981-034318c94c5f",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"c86d72f7-caae-474e-8224-b6d8429f0437",
+			"e3af0b1e-4ce4-400f-beb8-250e47a6ef22",
+			"7278d415-2e2b-41a0-ad95-1363831be702"
+		]
 	},
 	{
 		"niveau_id": [
@@ -9093,7 +9098,17 @@
 		"title": "Kan een betoog opbouwen over een complex onderwerp en daarbij punten nauwkeurig formuleren en de juiste nadruk leggen.",
 		"id": "4678373f-f269-4499-b177-d73eae3bc170",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"26f0f572-d84b-479c-9693-9a45f47df523",
+			"340338fc-0d00-4ad9-b7f5-f3feaa7de9f2",
+			"7c1554b2-ab23-4895-9b4e-f10a4a8097ba",
+			"5cac0f9e-86cc-4d67-b9a7-652553ed50eb",
+			"759ea9f4-7062-4527-a3f8-bde23e934621",
+			"759ea9f4-7062-4527-a3f8-bde23e934621",
+			"76d2c4a4-45ca-43a7-a35f-37f20f5dd3d2",
+			"76d2c4a4-45ca-43a7-a35f-37f20f5dd3d2"
+		]
 	},
 	{
 		"niveau_id": [
