@@ -1344,12 +1344,16 @@
 		"description": ""
 	},
 	{
-		"title": "Informatie over jezelf in een videoboodschap voor een uitwisselingspartner (OPL).",
-		"id": "6435d9f5-0883-4c36-9685-f42879a753a2"
+		"title": "Jezelf kort voorstellen in een kringgesprek of voorstelrondje met daarin hoe je heet en waar je woont.",
+		"id": "6435d9f5-0883-4c36-9685-f42879a753a2",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een huisdier beschrijven (DL).",
-		"id": "bb1a52d7-748a-4a4f-808d-0778aef63660"
+		"title": "Een videoboodschap voor een uitwisselingspartner over jouw dagelijks leven, zoals school, studie, werk en hobby's.",
+		"id": "bb1a52d7-748a-4a4f-808d-0778aef63660",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een familielid beschrijven (DL).",
@@ -6537,6 +6541,36 @@
 		"id": "9214e65a-e279-4d0c-9252-691f85385251",
 		"prefix": "",
 		"title": "De klas waarin je zit.",
+		"description": ""
+	},
+	{
+		"id": "52d99919-82b2-4026-bda2-8c0168e41013",
+		"prefix": "",
+		"title": "Wat je komend weekend gaat doen.",
+		"description": ""
+	},
+	{
+		"id": "17f54399-942b-4740-bb10-8c84dfda5cab",
+		"prefix": "",
+		"title": "Een feestje of een sportwedstrijd.",
+		"description": ""
+	},
+	{
+		"id": "428e8e0e-235a-46b4-adc5-094c40371258",
+		"prefix": "",
+		"title": "Plannen voor een avond met vrienden.",
+		"description": ""
+	},
+	{
+		"id": "918b8cdc-3422-499e-a1eb-c8f22787a7ff",
+		"prefix": "",
+		"title": "Een aanstaand bezoek aan familie in het buitenland.",
+		"description": ""
+	},
+	{
+		"id": "2732e41e-c58a-4583-8586-ed9fdc3348f2",
+		"prefix": "",
+		"title": "Hoe je de vakantiedagen gaat doorbrengen.",
 		"description": ""
 	}
 ]
