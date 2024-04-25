@@ -8505,7 +8505,14 @@
 		"title": "Kan gevoelens over een eigen ervaring duidelijk uitdrukken en redenen geven om die gevoelens te verklaren.",
 		"id": "32df9d6d-d409-49b1-b7e3-be27b65c73cd",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"f3bceea0-314d-4bd7-a611-5be4a6f399e0",
+			"c045a2e4-2bff-4791-89c8-8c31f9d9c55c",
+			"a19aaf3d-067b-46e2-bc6c-88e1a55a7551",
+			"27c73d23-4452-4550-892d-90f7bd3e2ef9",
+			"be759bd1-cbd9-4bcd-b5f1-73a612f04e62"
+		]
 	},
 	{
 		"niveau_id": [
@@ -8514,7 +8521,12 @@
 		"title": "Kan de persoonlijke betekenis van gebeurtenissen en ervaringen in detail beschrijven.",
 		"id": "2b0225ff-1830-433e-b4a4-4ebb209e7e95",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"435bc265-5015-4eaf-8ae9-782f62a6bbb1",
+			"3255d807-ba75-4e6b-8da0-0b6ac24f39e0",
+			"a994f1de-0f5c-4139-a6a8-efb4542be31d"
+		]
 	},
 	{
 		"niveau_id": [
