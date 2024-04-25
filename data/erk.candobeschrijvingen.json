@@ -9157,7 +9157,12 @@
 		"title": "Kan korte ingestudeerde mededelingen doen over een onderwerp dat betrekking heeft op alledaagse gebeurtenissen in het eigen vak- of interessegebied. Deze mededelingen zijn, ondanks eventuele problemen met klemtoon en intonatie, toch goed verstaanbaar.",
 		"id": "ca5e2a9b-b1ac-46ca-9c13-d39f7599e2ef",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"9a2f06c5-367c-437c-bca5-1427a1c6bc0b",
+			"d38768c5-85bc-478c-8f36-b76e108aa4ea",
+			"092ce980-a992-4f3e-b529-f524a0fe5f4a"
+		]
 	},
 	{
 		"niveau_id": [
