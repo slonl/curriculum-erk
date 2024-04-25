@@ -12832,10 +12832,17 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan elementaire e-mails/brieven met een feitelijk karakter opstellen (bijvoorbeeld om informatie te vragen of om een bevestiging te geven of te vragen).",
+		"title": "Kan elementaire e-mails/brieven met een feitelijk karakter opstellen.",
 		"id": "b513b863-7c77-4b45-9d1b-49e8d6e15846",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"89ce6030-e608-4049-a442-230bc4861020",
+			"d6380240-730f-4ad9-a289-bf288352d7b0",
+			"eb9dc86d-582b-4571-ac2b-adaaeb4c3333",
+			"eb9dc86d-582b-4571-ac2b-adaaeb4c3333",
+			"cbd6e9ee-c3a1-4b3c-9759-5f7926a91cd6"
+		]
 	},
 	{
 		"niveau_id": [
