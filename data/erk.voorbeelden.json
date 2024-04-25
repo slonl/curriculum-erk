@@ -1976,20 +1976,28 @@
 		"id": "6c8f91bf-3a7a-4b58-9739-3b2c6b82c441"
 	},
 	{
-		"title": "Tijdens een uitwisseling in enkele zinnen een sportdag of feest openen (OPL).",
-		"id": "561dffc6-c5f0-44e5-a253-6ad21f406d38"
+		"title": "Een klasgenoot introduceren in een paar woorden.",
+		"id": "561dffc6-c5f0-44e5-a253-6ad21f406d38",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een mededeling over het weer voorlezen aan de klas (OPL).",
-		"id": "de254e05-6110-4c0d-a726-745b0a04e753"
+		"title": "Kort iets vertellen over je hobby, familie, woonplaats of huisdier.",
+		"id": "de254e05-6110-4c0d-a726-745b0a04e753",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over een vertrouwd onderwerp zoals vrijetijdsbesteding, (huis)dieren, een feest, een beroep, een land (OPL).",
-		"id": "bb5ff29f-53a3-41f8-9fe9-2fc80d6fcdb6"
+		"title": "Een vrijetijdsbesteding.",
+		"id": "bb5ff29f-53a3-41f8-9fe9-2fc80d6fcdb6",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Met visuele ondersteuning (kaarten, PowerPoint, Prezi) over toeristische attracties in de eigen stad of streek (OPL, WE).",
-		"id": "1f4c4b71-0212-46c6-8e1e-d1d022553087"
+		"title": "Dieren of huisdieren.",
+		"id": "1f4c4b71-0212-46c6-8e1e-d1d022553087",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Over het uitzoeken, aanschaffen en verzorgen (ook tijdens vakanties) van een huisdier (DL).",
@@ -7317,6 +7325,42 @@
 		"id": "092ce980-a992-4f3e-b529-f524a0fe5f4a",
 		"prefix": "",
 		"title": "Een van tevoren ingeoefend gelegenheidstoespraakje bij een feestelijke gebeurtenis.",
+		"description": ""
+	},
+	{
+		"id": "05eb4cec-e5fd-4e54-b70c-6de3865cfff4",
+		"prefix": "",
+		"title": "Over tijden en plaatsen en wat je moet meenemen na een toelichting op een dagprogramma.",
+		"description": ""
+	},
+	{
+		"id": "3671ff8c-aec7-4caf-831d-24c2973dbaa6",
+		"prefix": "",
+		"title": "Wat je wel en niet mag meenemen na een presentatie over het schoolreisje.",
+		"description": ""
+	},
+	{
+		"id": "dcf2ba0a-c124-48cc-8569-e9443974dd94",
+		"prefix": "",
+		"title": "De tijden van de wedstrijden na een presentatie over de sportdag.",
+		"description": ""
+	},
+	{
+		"id": "9afa2a9d-9b78-4244-81bb-fc39a221c6ac",
+		"prefix": "",
+		"title": "Een feest, een beroep, een land.",
+		"description": ""
+	},
+	{
+		"id": "cde8eef3-1b2e-4552-9150-f2e9c2eb645a",
+		"prefix": "",
+		"title": "Toeristische attracties in de eigen stad of streek.",
+		"description": ""
+	},
+	{
+		"id": "66d2b280-584d-4b76-a16f-d26612625319",
+		"prefix": "",
+		"title": "Een sportteam of een muziekband.",
 		"description": ""
 	}
 ]
