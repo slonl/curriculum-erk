@@ -1646,60 +1646,88 @@
 		"description": ""
 	},
 	{
-		"title": "Aan je vakantieliefde beschrijven hoe je je toekomst ziet (DL).",
-		"id": "93030852-f568-4a2c-a65f-988db601617a"
+		"title": "Hoe je je toekomst ziet.",
+		"id": "93030852-f568-4a2c-a65f-988db601617a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Je uitwisselingspartner vertellen wat je hoopt te kunnen gaan doen tijdens het bezoek (OPL).",
-		"id": "f744158c-85c7-4634-a2d2-b7c9c516ad9f"
+		"title": "Wat je hoopt te kunnen gaan doen tijdens het bezoek.",
+		"id": "f744158c-85c7-4634-a2d2-b7c9c516ad9f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een sollicitatiegesprek beschrijven wat je wilt bereiken in je nieuwe baan (WE).",
-		"id": "723e406f-de8d-411f-9806-911c035ac002"
+		"title": "In een sollicitatiegesprek vertellen wat je wilt bereiken in je nieuwe baan.",
+		"id": "723e406f-de8d-411f-9806-911c035ac002",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een fantastische droombaan beschrijven (DL).",
-		"id": "ec3975e8-f868-4596-940f-86d41bf4a04f"
+		"title": "Een fantastische droomreis.",
+		"id": "ec3975e8-f868-4596-940f-86d41bf4a04f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De verhaallijn van een boek of film navertellen, en zeggen wat je ervan vond (DL, OPL).",
-		"id": "e7eceff9-70d4-4c05-a125-9f6c9cdb76a7"
+		"title": "De verhaallijn van een boek, film of podcast navertellen en zeggen wat je ervan vond.",
+		"id": "e7eceff9-70d4-4c05-a125-9f6c9cdb76a7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een ooggetuigenverslag geven aan de politie van een ongeluk op straat (PU).",
-		"id": "6ec07462-8296-436e-b624-c6775ac522b4"
+		"title": "Een ooggetuigenverslag geven aan de politie van een ongeluk op straat.",
+		"id": "6ec07462-8296-436e-b624-c6775ac522b4",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vertellen hoe een diefstal of beroving plaats heeft gevonden (PU, DL).",
-		"id": "ca0ba726-4260-4eb3-a641-3a06f497d44f"
+		"title": "Hoe een diefstal of beroving plaats heeft gevonden.",
+		"id": "ca0ba726-4260-4eb3-a641-3a06f497d44f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Gedetailleerd uitleggen waarom je te laat bent of je werk niet af hebt (DL, OPL, WE).",
-		"id": "0fe150ce-d597-486b-9c1d-130bb7603533"
+		"title": "Waarom je te laat bent of je werk niet af hebt.",
+		"id": "0fe150ce-d597-486b-9c1d-130bb7603533",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aan vrienden vertellen over je eerste bezoek aan het buitenland en beschrijven hoe je je daarbij voelde (DL, OPL).",
-		"id": "51872820-a62b-4d82-a835-8576a91ec7a0"
+		"title": "Je eerste bezoek aan het buitenland en beschrijven hoe je je daarbij voelde.",
+		"id": "51872820-a62b-4d82-a835-8576a91ec7a0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vertellen over wat het lezen of beluisteren van een boek, kunstwerk of lied met je deed (DL, OPL).",
-		"id": "7dd3a068-3025-4450-8833-c0dc9f6852c3"
+		"title": "Wat het lezen of beluisteren van een boek, het zien van een kunstwerk, het kijken van een documentaire of het horen van een lied met je deed.",
+		"id": "7dd3a068-3025-4450-8833-c0dc9f6852c3",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aan studiegenoten vertellen over leerervaringen tijdens een stage (OPL).",
-		"id": "ca53cefa-c77b-46da-a3f7-21d17b08be36"
+		"title": "Leerervaringen tijdens een stage.",
+		"id": "ca53cefa-c77b-46da-a3f7-21d17b08be36",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aan klasgenoten vertellen over een excursie en waarom die interessant was (OPL).",
-		"id": "b355633e-7181-4fb0-875e-9bed8d14781b"
+		"title": "Een excursie met de klas.",
+		"id": "b355633e-7181-4fb0-875e-9bed8d14781b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Na een project, dat samen met een buitenlandse school werd uitgevoerd, aan de begeleider vertellen wat er wel en niet goed is gegaan en waarom (OPL).",
-		"id": "259475e4-84c8-41bd-bb98-b00463f75f08"
+		"title": "Wat er wel en niet goed gegaan is en waarom in een project dat samen met een buitenlandse school werd uitgevoerd.",
+		"id": "259475e4-84c8-41bd-bb98-b00463f75f08",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Na langer verblijf in het buitenland, zoals voor een stage, gevoelens gedetailleerd beschrijven (OPL).",
-		"id": "36efa997-97b5-4054-a917-417776c91098"
+		"title": "Na langer verblijf in het buitenland zoals voor een stage.",
+		"id": "36efa997-97b5-4054-a917-417776c91098",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een buitenlandse bezoeker adviseren over leuke dingen om te doen (DL, OPL, WE).",
@@ -6721,6 +6749,18 @@
 		"id": "0e66b9e3-7c31-47a5-ad49-9bf09bcbe098",
 		"prefix": "",
 		"title": "Een grappige gebeurtenis in de les.",
+		"description": ""
+	},
+	{
+		"id": "db70d205-e492-4aef-943e-bbe081464c4f",
+		"prefix": "",
+		"title": "Dat een recept anders heeft uitgepakt dan je had verwacht.",
+		"description": ""
+	},
+	{
+		"id": "1e7cbda0-c70f-460c-afd6-7f9b03d7bc16",
+		"prefix": "",
+		"title": "Over onverwachte reacties van anderen.",
 		"description": ""
 	}
 ]
