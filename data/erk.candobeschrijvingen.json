@@ -7983,13 +7983,13 @@
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
 		"erk_voorbeeld_id": [
-			"ec24b6e7-83f2-4c3e-b199-b7016848130b",
 			"76c0a931-a356-4a6b-868d-b0b9861f8e11",
 			"b08840f0-fd2e-4c9f-96a4-10042282678a",
 			"6c1a46b8-2ba0-4927-bf77-370012fdbfae",
 			"23094f3f-da81-4f7c-867f-d8a0f7bdc327",
 			"69e0a2b3-35a7-470e-a341-b12cd7f8c949",
-			"c775d386-52da-4ae6-b5fe-111a8fdbbf3b"
+			"c775d386-52da-4ae6-b5fe-111a8fdbbf3b",
+			"ad3e64a4-b855-4ae2-8a75-9da33761d1da"
 		],
 		"title": "Kan plannen en afspraken, gewoonten en routinehandelingen, activiteiten in het verleden en persoonlijke ervaringen beschrijven.",
 		"id": "f6e36e06-d0b9-49de-a345-2a099eacdf98",
@@ -8043,7 +8043,9 @@
 				"children": [],
 				"childNodes": []
 			}
-		]
+		],
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
