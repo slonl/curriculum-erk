@@ -1788,36 +1788,52 @@
 		"id": "1562d85c-893c-42e9-b838-a3c98ea5f8e7"
 	},
 	{
-		"title": "Verslag doen van het mislukken van een project en oorzaken daarvoor aangeven (OPL, WE).",
-		"id": "134a29f1-8c1b-476f-af4e-aa89b5641dbc"
+		"title": "Verslag doen van het mislukken van een project en oorzaken daarvoor aangeven.",
+		"id": "134a29f1-8c1b-476f-af4e-aa89b5641dbc",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een samenvatting geven van een verricht onderzoek of een literatuurstudie (OPL, WE).",
-		"id": "9b9510f8-8223-4185-91dd-8db5732e4d09"
+		"title": "Een samenvatting geven van een verricht onderzoek of een literatuurstudie.",
+		"id": "9b9510f8-8223-4185-91dd-8db5732e4d09",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Verslag doen van een in het kader van werk of studie bezocht congres, internationaal forum of conferentie (OPL, WE).",
-		"id": "4bb51d19-f270-4369-91cb-92b872f6f5e8"
+		"title": "Verslag doen van een in het kader van werk of studie bezocht congres, internationaal forum of conferentie.",
+		"id": "4bb51d19-f270-4369-91cb-92b872f6f5e8",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een andere aanpak in een werkstuk bepleiten (OPL).",
-		"id": "bfeabb82-7747-4609-bcd6-3f950d967d9a"
+		"title": "Een andere aanpak in een werkstuk.",
+		"id": "bfeabb82-7747-4609-bcd6-3f950d967d9a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Uitleggen welke aspecten van het Nederlandse onderwijs bijdragen aan het geluksgevoel van jongeren (WE, OPL).",
-		"id": "acaf18d9-8865-4d87-9c1f-5db04c712f91"
+		"title": "Welke aspecten van het Nederlandse onderwijs bijdragen aan het geluksgevoel van jongeren.",
+		"id": "acaf18d9-8865-4d87-9c1f-5db04c712f91",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een mening of ideeën presenteren en verdedigen als inleiding op een debat (OPL, WE).",
-		"id": "2d39ffb7-b062-487e-be03-1b16bd4efd17"
+		"title": "Een werkwijze of aanpak als inleiding op een debat.",
+		"id": "2d39ffb7-b062-487e-be03-1b16bd4efd17",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Het formele standpunt van het eigen bedrijf toelichten (WE).",
-		"id": "12e92a63-baa1-48a9-93ea-10a37fad78b5"
+		"title": "Het formele standpunt van het eigen bedrijf.",
+		"id": "12e92a63-baa1-48a9-93ea-10a37fad78b5",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een video(-instructie) iets uitleggen of een product promoten (WE, OPL).",
-		"id": "1f10fa19-075f-4a2f-b265-b0cf4aadd645"
+		"title": "Het promoten van een product in een video.",
+		"id": "1f10fa19-075f-4a2f-b265-b0cf4aadd645",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een sprookje, sage of legende uit het eigen land uitgebreid vertellen (DL, OPL).",
@@ -1828,16 +1844,22 @@
 		"id": "b9d959b6-2196-4c0f-aaf5-4d4cd25b55aa"
 	},
 	{
-		"title": "Aan het eind van een buitenlandse groepsreis de reisleider in het openbaar bedanken en daarbij bijzondere, ook komische en/of emotionele gebeurtenissen tijdens de reis memoreren (PU).",
-		"id": "febabf1c-9b09-4def-b0e9-466b2c3ae492"
+		"title": "Als reisleider in een gepassioneerde toespraak aan vertegenwoordigers van milieuorganisaties de eigen ervaringen presenteren met betrekking tot duurzaam reizen.",
+		"id": "febabf1c-9b09-4def-b0e9-466b2c3ae492",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Als opvolger van de voorzitter van de studentenvereniging zijn of haar verdiensten en eigenaardigheden op een humoristische manier in een speech verwerken en daarbij zijn/haar toekomstige plannen schetsen (PU, OPL).",
-		"id": "f5e97f03-f33d-4a68-bf63-b9d4b4bc9ce6"
+		"title": "Als opvolger van de voorzitter van de studentenvereniging, diens verdiensten en eigenaardigheden op een humoristische manier in een speech verwerken en daarbij de toekomstige plannen schetsen.",
+		"id": "f5e97f03-f33d-4a68-bf63-b9d4b4bc9ce6",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Tijdens een vergadering over de stand van zaken van een project rapporteren en de tot nu toe doorlopen stappen precies beschrijven (WE).",
-		"id": "db97d9df-dc16-4f57-8801-fa6c069a8a38"
+		"title": "Tijdens een vergadering over de stand van zaken van een project rapporteren en de tot nu toe doorlopen stappen precies beschrijven.",
+		"id": "db97d9df-dc16-4f57-8801-fa6c069a8a38",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Je huis beschrijven (DL).",
