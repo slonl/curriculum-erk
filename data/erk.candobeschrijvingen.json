@@ -9030,14 +9030,21 @@
 		"title": "Kan een standpunt over een actueel onderwerp verklaren en de voor- en nadelen van verschillende opties toelichten.\n",
 		"id": "c5031b0f-e7e9-4945-87bd-88c98420f4ce",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"4837e80e-8a44-4ddf-a671-1942f91dae83",
+			"55c997ca-a6bc-451a-82e2-d0f1a7022cb8"
+		]
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
 		"title": "Kan een beredeneerd betoog opbouwen uit een keten van argumenten.",
-		"id": "be194cd8-e150-4c66-9be0-f9d3e77f4246"
+		"id": "be194cd8-e150-4c66-9be0-f9d3e77f4246",
+		"erk_voorbeeld_id": [
+			"4d5f76ef-78d0-406b-a2e7-6b352a684c4b"
+		]
 	},
 	{
 		"niveau_id": [
@@ -9060,7 +9067,15 @@
 		"title": "Kan een argument stelselmatig opbouwen met de juiste benadrukking van belangrijke punten en relevante ondersteunende details.",
 		"id": "197006d0-03a4-45a8-aa08-664dac954e33",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"6d3598c8-d8c8-41ef-8940-a043f36ee4d5",
+			"b63d114d-d95b-4d74-b0b2-024184c62a77",
+			"f9d5c4ca-b8b6-49e1-babc-4816f654c88c",
+			"dbfb3677-a745-4428-b2a9-76a66342c1bf",
+			"69c72aad-a7c8-4341-a790-cebf9ccc98b0",
+			"8cef60c9-6e2a-404e-90c4-c1cfbb3ca5dc"
+		]
 	},
 	{
 		"niveau_id": [
