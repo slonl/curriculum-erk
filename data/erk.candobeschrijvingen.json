@@ -9319,7 +9319,12 @@
 		"title": "Kan een voorbereide presentatie over een vertrouwd onderwerp in het eigen vakgebied geven en daarbij overeenkomsten en verschillen uiteenzetten.",
 		"id": "302c5b9a-64f4-4895-9e42-a900ba537448",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"3936bbf3-d2e0-402a-b437-294331c97df1",
+			"8efd7375-fad0-43f9-a7b1-ad1ff33b7e1f",
+			"6f507337-d103-46c0-a615-902427fc97f7"
+		]
 	},
 	{
 		"niveau_id": [
@@ -9328,7 +9333,10 @@
 		"title": "Kan een reeks vervolgvragen beantwoorden met een mate van vloeiendheid en spontaniteit die noch zichzelf, noch het publiek inspanning kost.",
 		"id": "4f7b2fef-03ed-4226-835b-1048282bd6fa",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"c0155433-32e6-49dd-8a62-818bf8770daa"
+		]
 	},
 	{
 		"niveau_id": [
