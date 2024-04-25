@@ -8785,7 +8785,11 @@
 		"title": "Kan eenvoudige aanwijzingen geven om van plaats X naar plaats Y te komen, door gebruik te maken van elementaire uitdrukkingen zoals 'sla rechtsaf' en 'ga rechtdoor' gecombineerd met verbindingswoorden van volgorde zoals 'eerst', 'dan' en 'daarna'.",
 		"id": "5254899d-ffe7-4121-b141-e224ed73c1f3",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"0eee880c-9d22-4a5f-92a3-1cdaf022b6fd",
+			"d5b327cd-cee8-4e57-9a53-c857d5038eea"
+		]
 	},
 	{
 		"niveau_id": [
@@ -8794,14 +8798,26 @@
 		"title": "Kan directe, feitelijke informatie overbrengen over een vertrouwd onderwerp, bijvoorbeeld om de aard van een probleem aan te geven of om gedetailleerde aanwijzingen te geven, mits voorbereiding mogelijk is.",
 		"id": "749025ed-5d34-4e30-b93b-8401aa7bc5e4",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"6686508e-e828-4e10-af44-56892c1e928f",
+			"fb512efb-f8a4-4108-ad14-63e55aea81c0",
+			"c3c80444-4ec3-4123-b71a-4a7cee589c28"
+		]
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
 		"title": "Kan beschrijven hoe iets moet worden gedaan en daarbij gedetailleerde instructies geven.",
-		"id": "e7e2a796-89f6-4336-b96e-829c753e55d0"
+		"id": "e7e2a796-89f6-4336-b96e-829c753e55d0",
+		"erk_voorbeeld_id": [
+			"b081fc8c-7ecf-471b-9092-f2df8858d080",
+			"7134a267-4ff9-4840-b610-397c3a9aa821",
+			"a9074989-1857-4324-938e-69c4f1e51b18",
+			"3b7adcc1-4a49-4d7c-8cb2-2dbb5a27a56a",
+			"42dba170-c412-4678-b2b2-dd31b3b16f90"
+		]
 	},
 	{
 		"niveau_id": [
