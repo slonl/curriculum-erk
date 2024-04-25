@@ -12851,7 +12851,10 @@
 		"title": "Kan een elementaire sollicitatiebrief opstellen met beperkte ondersteunende details.",
 		"id": "78922b92-aba3-4701-b00c-928bf98da076",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"897fa76b-ee56-48ca-9945-ac0d1c533749"
+		]
 	},
 	{
 		"niveau_id": [
@@ -12859,7 +12862,8 @@
 		],
 		"erk_voorbeeld_id": [
 			"5465b074-ec41-4899-ab78-28f8bebf3ebe",
-			"80035d86-031a-4b39-ba63-f46238422047"
+			"80035d86-031a-4b39-ba63-f46238422047",
+			"65470ff6-5bc5-4812-ae83-8f53d3cbb8a8"
 		],
 		"title": "Kan persoonlijke brieven opstellen waarin nieuws wordt overgebracht en gedachten over abstracte of culturele onderwerpen worden uitgedrukt, zoals muziek en films.",
 		"id": "fdaef983-86f8-43b6-a123-2ec5d1d2b31b",
@@ -12889,7 +12893,12 @@
 		"title": "Kan brieven opstellen waarin verschillende meningen worden geuit en gedetailleerd verslag wordt gedaan van persoonlijke gevoelens en ervaringen.",
 		"id": "8ed69c62-4233-4e84-ae79-6b51c867d531",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"26f16268-45cd-4262-a8af-0dfe53339c35",
+			"26f16268-45cd-4262-a8af-0dfe53339c35",
+			"e8a9b63f-be2d-4fd5-acfd-d51cf65fe032"
+		]
 	},
 	{
 		"niveau_id": [
@@ -12898,7 +12907,9 @@
 		"erk_voorbeeld_id": [
 			"8eeffc67-a07a-4c1c-aebb-5dacc7f226d3",
 			"3c286761-41a3-4112-a812-8e674fbccb52",
-			"0e206732-bd2d-4cbe-aabb-79199d43d869"
+			"0e206732-bd2d-4cbe-aabb-79199d43d869",
+			"5c1a0900-234c-4523-8f63-dee4b164029f",
+			"2487f1e9-b648-492d-a288-3df5c14c59b8"
 		],
 		"title": "Kan schriftelijk reageren op een advertentie en om meer informatie vragen over interessante zaken.",
 		"id": "f857c79c-ca55-4648-be72-bf8bd1e9142b",
