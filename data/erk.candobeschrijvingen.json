@@ -9373,21 +9373,37 @@
 		"title": "Kan overweg met tussendoor geplaatste opmerkingen en kan er spontaan en vrijwel op moeiteloos reageren.",
 		"id": "9013a860-6f49-4245-9c61-bceb0d8c72a8",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"ea0ac59f-1dfa-43b1-a7f3-86bdeeba647b",
+			"7ef58279-2245-4393-9be3-b0078ae10d51"
+		]
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan speculeren of een hypothese formuleren bij het presenteren van een complex onderwerp en daarbij alternatieve voorstellen en argumenten vergelijken en evalueren.",
-		"id": "d210c32a-f573-4f78-818d-70d2aa2030ff"
+		"title": "Kan speculeren of een hypothese stellen bij het presenteren van een complex onderwerp en daarbij alternatieve voorstellen en argumenten vergelijken en evalueren.",
+		"id": "d210c32a-f573-4f78-818d-70d2aa2030ff",
+		"prefix": "",
+		"description": "",
+		"erk_voorbeeld_id": [
+			"10b8b85e-e800-4f7b-8252-3a64cad398fa",
+			"22abdd0f-3f8e-45ea-82ad-2204dd1c4880",
+			"3a800f99-8043-41d9-b54b-bbbaf1485d1b"
+		]
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
 		"title": "Kan een langere presentatie op de juiste manier structureren om het publiek te helpen de opeenvolging van ideeën te volgen en de algehele argumentatie te begrijpen.",
-		"id": "377ea636-326d-4850-bcf2-385848ccf42c"
+		"id": "377ea636-326d-4850-bcf2-385848ccf42c",
+		"erk_voorbeeld_id": [
+			"b0dfe779-7ba0-495f-bc30-8b1854b7a9ed",
+			"89338d31-eaf6-42a9-924a-f2b1f71121e3",
+			"87cf4c91-757a-4448-8637-e25a24e46800"
+		]
 	},
 	{
 		"niveau_id": [
