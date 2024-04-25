@@ -2056,20 +2056,28 @@
 		"id": "d9fc2b2c-51ca-4157-8809-b3bfaba1c63d"
 	},
 	{
-		"title": "Een mening geven over een specialistisch onderwerp als abortus, euthanasie en softdrugspolitiek (DL, OPL).",
-		"id": "356cd281-6d7c-4a19-a82d-700c6178ca92"
+		"title": "Een mening geven over een specialistisch onderwerp als abortus, euthanasie en softdrugspolitiek.",
+		"id": "356cd281-6d7c-4a19-a82d-700c6178ca92",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Bij een conferentie of studiebijeenkomst in een plenaire zitting verslag doen van een werkgroep (OPL, WE).",
-		"id": "b9badef7-9d77-4aab-9abb-73b193ac1a53"
+		"title": "Bij een conferentie of studiebijeenkomst in een plenaire zitting verslag doen van een werkgroep.",
+		"id": "b9badef7-9d77-4aab-9abb-73b193ac1a53",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een presentatie houden over een bestudeerd onderwerp, waarbij voor- en nadelen van verschillende standpunten besproken worden (OPL).",
-		"id": "fedc099d-3ceb-4d50-aa37-6238140702e2"
+		"title": "Een presentatie houden over een bestudeerd onderwerp, waarbij voor- en nadelen van verschillende standpunten besproken worden.",
+		"id": "fedc099d-3ceb-4d50-aa37-6238140702e2",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een werkgroep een eigen voorstel of plan in detail presenteren (OPL, WE).",
-		"id": "ffa9f225-6ec5-4f70-b0c4-0c4d49244a19"
+		"title": "In een werkgroep een eigen voorstel of plan in detail presenteren.",
+		"id": "ffa9f225-6ec5-4f70-b0c4-0c4d49244a19",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Tijdens een cursus als amateurfotograaf uitleggen wat er bij komt kijken om die ene fantastische foto te maken (DL, OPL).",
@@ -7403,6 +7411,30 @@
 		"id": "b3f0d037-bec7-4b93-9fb6-128b54004732",
 		"prefix": "",
 		"title": "Over de indeling van de school tijdens een rondleiding.",
+		"description": ""
+	},
+	{
+		"id": "3936bbf3-d2e0-402a-b437-294331c97df1",
+		"prefix": "",
+		"title": "Een profielwerkstuk over ontwikkelingen binnen de mode of de auto-industrie.",
+		"description": ""
+	},
+	{
+		"id": "8efd7375-fad0-43f9-a7b1-ad1ff33b7e1f",
+		"prefix": "",
+		"title": "Een presentatie over overeenkomsten in en verschillen tussen tradities van Europese landen of muziekstijlen.",
+		"description": ""
+	},
+	{
+		"id": "6f507337-d103-46c0-a615-902427fc97f7",
+		"prefix": "",
+		"title": "Een presentatie aan collega's over de verschillen en overeenkomsten in de omgang tussen twee klanten.",
+		"description": ""
+	},
+	{
+		"id": "c0155433-32e6-49dd-8a62-818bf8770daa",
+		"prefix": "",
+		"title": "Vragen uit het publiek kunnen beantwoorden tijdens een plenaire zitting of nav een presentatie over bijvoorbeeld het opnemen van vluchtelingen in de eigen gemeente.",
 		"description": ""
 	}
 ]
