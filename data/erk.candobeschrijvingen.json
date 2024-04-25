@@ -8934,7 +8934,14 @@
 		"title": "Kan de eigen mening in eenvoudige bewoordingen presenteren, mits de toehoorders geduldig zijn.",
 		"id": "d5d5a8d9-c912-4c9b-8e0b-e3e5df3a6611",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"7a04bbc2-e656-49ce-a311-35fd110ef63b",
+			"894f3d02-7f88-4106-916e-b64c9d9f2684",
+			"88a8af8c-0efb-498f-aa97-5fb6f8e586c5",
+			"1314027a-43eb-401e-8359-dfa51b5207b6",
+			"b097f3cb-b839-4da1-b8ec-6d1617d3d24e"
+		]
 	},
 	{
 		"niveau_id": [
@@ -8943,7 +8950,13 @@
 		"title": "Kan de eigen voor- of afkeur voor iets uitleggen aan de hand van eenvoudige, directe vergelijkingen.",
 		"id": "6488bbc6-c66e-4eb4-9f8f-cbfd87b82280",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"54b56406-4971-4dec-83e4-e58b74afaedd",
+			"e1009926-aeda-4dac-b241-d6139fc16470",
+			"83e82e22-530d-41fb-bb74-70e425345a0d",
+			"ebbfd91c-0bbf-4c94-b98d-675482f07281"
+		]
 	},
 	{
 		"niveau_id": [
@@ -8952,7 +8965,12 @@
 		"title": "Kan het wel of niet goedkeuren van wat iemand heeft gedaan uitleggen en redenen geven om deze mening te onderbouwen.",
 		"id": "d3227ce2-cf47-4f85-9462-f92d191df624",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"e746b0a6-7635-489c-9b83-93b7b91dfdf7",
+			"d4646a2a-0b54-49d8-a60c-05a1aec313ae",
+			"0a38610a-56fe-478f-8b21-e720e7692b5c"
+		]
 	},
 	{
 		"niveau_id": [
