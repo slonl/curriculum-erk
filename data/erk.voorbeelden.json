@@ -1368,36 +1368,50 @@
 		"id": "31b6d5b8-f9e8-4183-b7f3-baa010d115ab"
 	},
 	{
-		"title": "Iemands uiterlijk (DL).",
-		"id": "53406b22-153c-4e83-bb44-129ccadbfafa"
+		"title": "Iemands uiterlijk.",
+		"id": "53406b22-153c-4e83-bb44-129ccadbfafa",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Je eigen kamer (DL).",
-		"id": "d20dee8f-3c4c-476b-bcbd-973ac4d7e7b3"
+		"title": "Je eigen kamer.",
+		"id": "d20dee8f-3c4c-476b-bcbd-973ac4d7e7b3",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Iemand die je zoekt, zoals een kind, een vriend, een collega (DL).",
-		"id": "956ff943-dff1-4b1f-8527-c79e4fea20d9"
+		"title": "Iemand die je zoekt, zoals een kind, een vriend, een collega.",
+		"id": "956ff943-dff1-4b1f-8527-c79e4fea20d9",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De eigen woonplaats of de streek waar je woont (DL).",
-		"id": "43c11f49-788b-432c-92e8-722cdcfe746e"
+		"title": "De eigen woonplaats of de streek waar je woont.",
+		"id": "43c11f49-788b-432c-92e8-722cdcfe746e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "De weg van huis naar werkplek of school (OPL).",
 		"id": "30707a5a-d13f-4ddc-8928-07a268fbc4ca"
 	},
 	{
-		"title": "Een plek waar je met iemand afspreekt (XX).",
-		"id": "e953329c-ea59-4ea3-9b4f-27b2437767b0"
+		"title": "Een plek waar je met iemand afspreekt.",
+		"id": "e953329c-ea59-4ea3-9b4f-27b2437767b0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Verloren of gestolen voorwerpen, bij aangifte aan de politie (PU).",
-		"id": "3371949b-7297-4992-b96c-f335bbebd87a"
+		"title": "Verloren of gestolen voorwerpen bij aangifte aan de politie.",
+		"id": "3371949b-7297-4992-b96c-f335bbebd87a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Huisdieren, sieraden, cadeaus (DL).",
-		"id": "d3628b26-9558-4f16-84a0-631297df74cf"
+		"title": "Huisdieren, sieraden, speelgoed en cadeaus.",
+		"id": "d3628b26-9558-4f16-84a0-631297df74cf",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Aan een gastgezin iets vertellen over je eigen gezin of familie (DL).",
@@ -6571,6 +6585,30 @@
 		"id": "2732e41e-c58a-4583-8586-ed9fdc3348f2",
 		"prefix": "",
 		"title": "Hoe je de vakantiedagen gaat doorbrengen.",
+		"description": ""
+	},
+	{
+		"id": "f6c98d96-c891-4780-b5bc-b34cd61f3727",
+		"prefix": "",
+		"title": "Je slechtste en beste vakken op school.",
+		"description": ""
+	},
+	{
+		"id": "62248a5a-9678-4536-953b-82c68f62cfb7",
+		"prefix": "",
+		"title": "Sterke en zwakke punten van jezelf, zoals 'lui', 'actief' en 'vrolijk'.",
+		"description": ""
+	},
+	{
+		"id": "a791dea2-0b60-4f10-8f4d-da55f8a45e39",
+		"prefix": "",
+		"title": "Een spel of sport waar je goed in bent.",
+		"description": ""
+	},
+	{
+		"id": "e6db939f-efef-4751-b2fe-8bf727e828b5",
+		"prefix": "",
+		"title": "Materiaal dat je nodig hebt voor je hobby.",
 		"description": ""
 	}
 ]
