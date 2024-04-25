@@ -4238,28 +4238,40 @@
 		"id": "d5ba6903-1ef9-472a-9a1e-0d24fc7062c3"
 	},
 	{
-		"title": "Een ansichtkaart met vakantiegroet (DL).",
-		"id": "81336703-21f6-4ab4-b703-d80c9a46a0f5"
+		"title": "Een ansichtkaart of vakantiegroet.",
+		"id": "81336703-21f6-4ab4-b703-d80c9a46a0f5",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een felicitatiekaart (DL).",
-		"id": "6b58b1cc-50f5-4491-be3e-c842b28de80a"
+		"title": "Een verjaardagskaart.",
+		"id": "6b58b1cc-50f5-4491-be3e-c842b28de80a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een wenskaart (nieuwjaar/kerst) (DL).",
-		"id": "69f380fc-6aa4-4dc3-8f86-0518917ba413"
+		"title": "Een kerstkaart.",
+		"id": "69f380fc-6aa4-4dc3-8f86-0518917ba413",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Afwezigheid melden aan een kennis of huisgenoot: ik eet niet mee (DL).",
-		"id": "62056e04-b177-4e97-b1dd-792b350422a6"
+		"title": "Aangeven dat je afwezig bent.",
+		"id": "62056e04-b177-4e97-b1dd-792b350422a6",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Afwezigheid melden bij een les, cursus of stage (OPL, WE).",
-		"id": "82396b4c-6b19-445f-ae5f-c4e4d1f0ecd3"
+		"title": "Aangeven dat je te laat bent voor een les.",
+		"id": "82396b4c-6b19-445f-ae5f-c4e4d1f0ecd3",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een afspraak met een kennis of collega bevestigen: datum, tijd, plaats (DL, WE).",
-		"id": "44d01b15-030c-4ec7-aa4c-53a789589324"
+		"title": "Een afspraak met een collega bevestigen.",
+		"id": "44d01b15-030c-4ec7-aa4c-53a789589324",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een korte e-mail of brief om jezelf voor te stellen (XX).",
@@ -7533,6 +7545,42 @@
 		"id": "87cf4c91-757a-4448-8637-e25a24e46800",
 		"prefix": "",
 		"title": "In een presentatie over een literaire stroming verschillende kenmerken in een historisch kader verduidelijken.",
+		"description": ""
+	},
+	{
+		"id": "2c558e16-3485-4666-ab64-0e655963fbaf",
+		"prefix": "",
+		"title": "Een eenvoudige korte schriftelijke introductie van jezelf, zoals naam, leeftijd en functie.",
+		"description": ""
+	},
+	{
+		"id": "1409d140-2326-4cfe-bca7-0960036d301f",
+		"prefix": "",
+		"title": "Wat je hobby is.",
+		"description": ""
+	},
+	{
+		"id": "e585c78d-88ad-4156-bcf0-25e5590e4d9f",
+		"prefix": "",
+		"title": "Dat je de nieuwste film van je favoriete acteur leuk vindt.",
+		"description": ""
+	},
+	{
+		"id": "b550f120-5efc-4d90-9d1d-c15efb59bf33",
+		"prefix": "",
+		"title": "Dat je niet lekker gegeten hebt in een restaurant.",
+		"description": ""
+	},
+	{
+		"id": "9d0aa423-b425-4dca-8f02-64cecdf5d1e2",
+		"prefix": "",
+		"title": "Een voorgestructureerde uitnodiging.",
+		"description": ""
+	},
+	{
+		"id": "c3ee764d-87bd-476c-a2bf-5bd004f50a3e",
+		"prefix": "",
+		"title": "Een vriend vragen waar en hoe laat jullie afspreken.",
 		"description": ""
 	}
 ]
