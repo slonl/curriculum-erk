@@ -1862,24 +1862,34 @@
 		"description": ""
 	},
 	{
-		"title": "Je huis beschrijven (DL).",
-		"id": "a6b13d06-fff3-4ca0-a3a0-41f728b8f243"
+		"title": "Je kamer, je lievelingsspeelgoed, een voorwerp uit hobby of sport, een kledingstuk.",
+		"id": "a6b13d06-fff3-4ca0-a3a0-41f728b8f243",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aan een buitenlandse vriend uitleggen wat hij moet doen om gebruik te kunnen maken van een carsharingdienst of een fietsverhuursysteem in jouw stad (DL).",
-		"id": "c1bfc776-2a4a-4d57-b9b3-9abdde776b05"
+		"title": "Aan een buitenlandse vriend uitleggen wat die moet doen om gebruik te kunnen maken van een carsharingdienst of een fietsverhuursysteem in jouw stad.",
+		"id": "c1bfc776-2a4a-4d57-b9b3-9abdde776b05",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De aanmeldingsprocedure bespreken voor een studentenwoning in het buitenland (OPL).",
-		"id": "5dfc3f96-8fa1-4354-afe1-4c15e9fa6535"
+		"title": "De aanmeldingsprocedure voor een studentenwoning in het buitenland.",
+		"id": "5dfc3f96-8fa1-4354-afe1-4c15e9fa6535",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aan een buitenlander uitleggen hoe je aangifte van diefstal moet doen in je eigen land (DL).",
-		"id": "c5a4c942-46de-4c54-885b-28b253f855cf"
+		"title": "Aan een buitenlander uitleggen hoe je aangifte van diefstal moet doen in je eigen land.",
+		"id": "c5a4c942-46de-4c54-885b-28b253f855cf",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aan een buitenlandse vriend uitleggen hoe je een lekke fietsband kunt repareren (DL).",
-		"id": "cb23c998-47b8-4974-9e10-d683d3b1601e"
+		"title": "Aan een buitenlandse vriend uitleggen hoe je een lekke fietsband kunt repareren.",
+		"id": "cb23c998-47b8-4974-9e10-d683d3b1601e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Tijdens een presentatie met argumenten en voorbeelden duidelijk kunnen maken waarom je vóór of tegen een bepaald standpunt bent, of wat de consequenties voor een bepaalde keuze zijn (OPL, WE).",
@@ -6875,6 +6885,66 @@
 		"id": "a994f1de-0f5c-4139-a6a8-efb4542be31d",
 		"prefix": "",
 		"title": "Wat je persoonlijke ontwikkeling is geweest tijdens je stage.",
+		"description": ""
+	},
+	{
+		"id": "0eee880c-9d22-4a5f-92a3-1cdaf022b6fd",
+		"prefix": "",
+		"title": "Een route uitleggen aan een buitenlandse toerist.",
+		"description": ""
+	},
+	{
+		"id": "d5b327cd-cee8-4e57-9a53-c857d5038eea",
+		"prefix": "",
+		"title": "Aan een klasgenoot de route naar je eigen huis uitleggen.",
+		"description": ""
+	},
+	{
+		"id": "6686508e-e828-4e10-af44-56892c1e928f",
+		"prefix": "",
+		"title": "Een kookrecept met ingrediënten en de te volgen stappen.",
+		"description": ""
+	},
+	{
+		"id": "fb512efb-f8a4-4108-ad14-63e55aea81c0",
+		"prefix": "",
+		"title": "Een game uitleggen aan een klasgenoot.",
+		"description": ""
+	},
+	{
+		"id": "c3c80444-4ec3-4123-b71a-4a7cee589c28",
+		"prefix": "",
+		"title": "De regels van een bepaalde sport uitleggen tijdens een instructie.",
+		"description": ""
+	},
+	{
+		"id": "b081fc8c-7ecf-471b-9092-f2df8858d080",
+		"prefix": "",
+		"title": "Instructies geven over hoe een spel gespeeld moet worden.",
+		"description": ""
+	},
+	{
+		"id": "7134a267-4ff9-4840-b610-397c3a9aa821",
+		"prefix": "",
+		"title": "Aan een buitenlandse collega uitleggen hoe de taak uitgevoerd moet worden.",
+		"description": ""
+	},
+	{
+		"id": "a9074989-1857-4324-938e-69c4f1e51b18",
+		"prefix": "",
+		"title": "In een onderwijssituatie instructies geven over een lesactiviteit.",
+		"description": ""
+	},
+	{
+		"id": "3b7adcc1-4a49-4d7c-8cb2-2dbb5a27a56a",
+		"prefix": "",
+		"title": "Mogelijke alternatieve routes uitleggen om files of wegwerkzaamheden te voorkomen.",
+		"description": ""
+	},
+	{
+		"id": "42dba170-c412-4678-b2b2-dd31b3b16f90",
+		"prefix": "",
+		"title": "Een recept uitleggen van een gemiddelde moeilijkheidsgraad, met tips en adviezen.",
 		"description": ""
 	}
 ]
