@@ -2084,24 +2084,34 @@
 		"id": "02e00b55-4b90-4669-87a1-33bf5a5dcf7b"
 	},
 	{
-		"title": "Een presentatie geven over de opleiding die je volgt, met daarbij aandacht voor onder andere het programma van de opleiding, werkperspectieven na het afstuderen en het profiel van een aankomend student (OPL).",
-		"id": "d8b59f71-8d42-4c91-8f30-8c87e10587e6"
+		"title": "Een presentatie geven over de opleiding die je volgt, met daarbij aandacht voor onder andere het programma van de opleiding, werkperspectieven na het afstuderen en het profiel van een aankomend student.",
+		"id": "d8b59f71-8d42-4c91-8f30-8c87e10587e6",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een goed opgebouwd betoog houden over het verhogen van de alcoholgrens van 16 naar 18 jaar (OPL).",
-		"id": "9f0ac42e-ad4c-4c9e-bbf3-df2dad1fc165"
+		"title": "Een goed opgebouwd betoog houden over het verhogen van de alcoholgrens van 16 naar 18 jaar.",
+		"id": "9f0ac42e-ad4c-4c9e-bbf3-df2dad1fc165",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een betoog houden over cultuur en integratie (OPL).",
-		"id": "e1dfcfb8-9942-4891-b60f-0b92bd4f0ddd"
+		"title": "Een betoog houden over de ontwikkelingen in burgerschapseducatie.",
+		"id": "e1dfcfb8-9942-4891-b60f-0b92bd4f0ddd",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Uiteenzetten van de voor- en nadelen van het Nederlandse gedoogbeleid met betrekking tot softdrugs en je eigen standpunt daarin verklaren (DL, OPL).",
-		"id": "4b94df6a-5943-401b-b3af-58e8b33ad1aa"
+		"title": "Het uiteenzetten van de voor- en nadelen van het Nederlandse gedoogbeleid met betrekking tot softdrugs en je eigen standpunt daarin verklaren.",
+		"id": "4b94df6a-5943-401b-b3af-58e8b33ad1aa",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In de finale van een debatwedstrijd uitleggen waarom je vindt dat vondelingenluiken moeten worden toegestaan en de voor- en nadelen van verschillende opties uiteenzetten (OPL).",
-		"id": "a3472893-3487-4ba3-9408-923a16526892"
+		"title": "In de finale van een debatwedstrijd een opbouwende en beargumenteerde mening geven over de transgenderwet  en de voor- en nadelen van verschillende opties uiteenzetten.",
+		"id": "a3472893-3487-4ba3-9408-923a16526892",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een standpunt uiteenzetten voor een publiek van andersdenkenden en spontaan ingaan op reacties uit het publiek (PU, OPL, WE).",
@@ -7435,6 +7445,18 @@
 		"id": "c0155433-32e6-49dd-8a62-818bf8770daa",
 		"prefix": "",
 		"title": "Vragen uit het publiek kunnen beantwoorden tijdens een plenaire zitting of nav een presentatie over bijvoorbeeld het opnemen van vluchtelingen in de eigen gemeente.",
+		"description": ""
+	},
+	{
+		"id": "ea22f154-40ef-425e-b156-8c328110a92c",
+		"prefix": "",
+		"title": "Een Q&amp;A sessie leiden in een plenaire zitting of n.a.v. een presentatie.",
+		"description": ""
+	},
+	{
+		"id": "f8107262-82e0-4b0f-8fc9-08caca199a20",
+		"prefix": "",
+		"title": "Overtuigend vasthouden of terugkomen op eerder gepresenteerde argumenten.",
 		"description": ""
 	}
 ]
