@@ -1484,64 +1484,94 @@
 		"id": "ec24b6e7-83f2-4c3e-b199-b7016848130b"
 	},
 	{
-		"title": "Hoe je ochtendritueel verloopt (DL)",
-		"id": "76c0a931-a356-4a6b-868d-b0b9861f8e11"
+		"title": "Vertellen hoe je ochtendritueel verloopt.",
+		"id": "76c0a931-a356-4a6b-868d-b0b9861f8e11",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De belangrijkste activiteit die je gedaan hebt op het werk (DL, WE).",
-		"id": "b08840f0-fd2e-4c9f-96a4-10042282678a"
+		"title": "De belangrijkste activiteit die je gedaan hebt op het werk.",
+		"id": "b08840f0-fd2e-4c9f-96a4-10042282678a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een sport die je in het verleden beoefend hebt (DL).",
-		"id": "6c1a46b8-2ba0-4927-bf77-370012fdbfae"
+		"title": "Een sport die je in het verleden beoefend hebt.",
+		"id": "6c1a46b8-2ba0-4927-bf77-370012fdbfae",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Het schoolkamp van de basisschool (DL).",
-		"id": "23094f3f-da81-4f7c-867f-d8a0f7bdc327"
+		"title": "Het schoolkamp van de basisschool of de middelbare school.",
+		"id": "23094f3f-da81-4f7c-867f-d8a0f7bdc327",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Hoe een dag op de basisschool er altijd uitzag (DL, OPL).",
-		"id": "69e0a2b3-35a7-470e-a341-b12cd7f8c949"
+		"title": "Hoe een dag op school er vroeger uitzag.",
+		"id": "69e0a2b3-35a7-470e-a341-b12cd7f8c949",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Je toekomstplannen aan de stagebegeleider (OPL).",
-		"id": "c775d386-52da-4ae6-b5fe-111a8fdbbf3b"
+		"title": "Je toekomstplannen op het gebied van werk.",
+		"id": "c775d386-52da-4ae6-b5fe-111a8fdbbf3b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Iets vertellen over je favoriete tijdsbesteding (DL).",
-		"id": "b6ca8204-cb06-44b5-bf59-366ec1f4e7bb"
+		"title": "Je favoriete tijdsbesteding.",
+		"id": "b6ca8204-cb06-44b5-bf59-366ec1f4e7bb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Beschrijven hoe een familiefeest was (bruiloft, verjaardag, enzovoort) (DL).",
-		"id": "0fdc68d2-4fd5-4cce-94d7-3eb66a7e7d4d"
+		"title": "Hoe een familiefeest was, zoals een bruiloft of een verjaardag.",
+		"id": "0fdc68d2-4fd5-4cce-94d7-3eb66a7e7d4d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vertellen hoe je reis is verlopen (DL).",
-		"id": "36485ce0-0c48-45ab-b715-b4b0c78b39f8"
+		"title": "Hoe je reis is verlopen.",
+		"id": "36485ce0-0c48-45ab-b715-b4b0c78b39f8",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vertellen over iets wat je recent hebt meegemaakt zoals een uitstapje, een concert, een verhuizing, een film (DL).",
-		"id": "b5f20e12-4ada-47cf-9977-873167e2ab53"
+		"title": "Iets wat je recent hebt meegemaakt zoals een uitstapje, een concert of een verhuizing.",
+		"id": "b5f20e12-4ada-47cf-9977-873167e2ab53",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De gewoonten van een leraar in de les (DL).",
-		"id": "6de653b7-48c8-496e-90cf-c531718f92e7"
+		"title": "De gewoonten van een leraar in de les.",
+		"id": "6de653b7-48c8-496e-90cf-c531718f92e7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Waar je leuk kunt uitgaan in je stad/dorp (DL).",
-		"id": "e13c86a6-43e8-4f60-8ecb-0b41e4e8e253"
+		"title": "Waar je leuk kunt uitgaan in je stad/dorp.",
+		"id": "e13c86a6-43e8-4f60-8ecb-0b41e4e8e253",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De buurt waarin je woont (DL).",
-		"id": "f4f29768-ce56-4b5c-a90d-0880cc3f0a3a"
+		"title": "De buurt waarin je woont.",
+		"id": "f4f29768-ce56-4b5c-a90d-0880cc3f0a3a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Wat je in de pauzes op school kunt doen (OPL).",
-		"id": "b03b1462-a62b-458b-8131-ee6999016a2e"
+		"title": "Wat je in de pauzes op school kunt doen.",
+		"id": "b03b1462-a62b-458b-8131-ee6999016a2e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De werkzaamheden van het eigen bedrijf of de eigen afdeling aan bezoekers (WE).",
-		"id": "d5f8402d-b412-4a59-9dc1-dbdab29adcda"
+		"title": "De werkzaamheden van het eigen bedrijf of de eigen afdeling op het werk.",
+		"id": "d5f8402d-b412-4a59-9dc1-dbdab29adcda",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Hoe je een eenvoudig gerecht klaarmaakt (DL).",
@@ -6643,6 +6673,12 @@
 		"id": "d694f2f2-427a-4b99-8692-1d68d672e19a",
 		"prefix": "",
 		"title": "Films of boeken vergelijken en aangeven welke je graag wilt zien en waarom.",
+		"description": ""
+	},
+	{
+		"id": "ad3e64a4-b855-4ae2-8a75-9da33761d1da",
+		"prefix": "",
+		"title": "Wat je in de zomervakantie hebt gedaan.",
 		"description": ""
 	}
 ]
