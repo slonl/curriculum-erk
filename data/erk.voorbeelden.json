@@ -2114,28 +2114,40 @@
 		"description": ""
 	},
 	{
-		"title": "Een standpunt uiteenzetten voor een publiek van andersdenkenden en spontaan ingaan op reacties uit het publiek (PU, OPL, WE).",
-		"id": "4de2daf3-0df2-422b-958a-dc92c39d70ba"
+		"title": "Een standpunt uiteenzetten voor een publiek van andersdenkenden en spontaan ingaan op reacties uit het publiek.",
+		"id": "4de2daf3-0df2-422b-958a-dc92c39d70ba",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een goed gestructureerd betoog houden over de nut en noodzaak van sociale media (WE, OPL).",
-		"id": "b7160112-1b35-4025-a04d-dce7a6ea1391"
+		"title": "Een goed gestructureerd betoog houden over het nut en de noodzaak van sociale media.",
+		"id": "b7160112-1b35-4025-a04d-dce7a6ea1391",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een presentatie geven over de invloed van internationalisering in het onderwijs (WE, OPL).",
-		"id": "b5b6172c-3c8b-4923-a1ad-b7df2a08a0e9"
+		"title": "Een presentatie geven over de invloed van internationalisering in het onderwijs.",
+		"id": "b5b6172c-3c8b-4923-a1ad-b7df2a08a0e9",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een technisch probleem uiteenzetten in voor leken begrijpelijke termen (OPL, WE).",
-		"id": "7916bb0a-1082-41eb-b7b4-66daf9bb8fcd"
+		"title": "Een technisch probleem uiteenzetten in voor leken begrijpelijke termen.",
+		"id": "7916bb0a-1082-41eb-b7b4-66daf9bb8fcd",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Als woordvoerder van een studentenvereniging een actieplan presenteren (OPL).",
-		"id": "b664924c-13d2-4188-b2a2-4afd17097ffe"
+		"title": "Als woordvoerder van een studentenvereniging een actieplan presenteren.",
+		"id": "b664924c-13d2-4188-b2a2-4afd17097ffe",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een thema en aspecten die daarmee samenhangen bespreken, bijvoorbeeld het leven in de grote stad en de invloed op gezondheid (OPL, DL).",
-		"id": "968e5348-da2b-465b-a5ce-c4414cafebbc"
+		"title": "Een thema en aspecten die daarmee samenhangen bespreken, zoals het leven in de grote stad en de invloed daarvan op de gezondheid.",
+		"id": "968e5348-da2b-465b-a5ce-c4414cafebbc",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Bij het verdedigen van een scriptie of proefschrift (OPL).",
@@ -7457,6 +7469,54 @@
 		"id": "f8107262-82e0-4b0f-8fc9-08caca199a20",
 		"prefix": "",
 		"title": "Overtuigend vasthouden of terugkomen op eerder gepresenteerde argumenten.",
+		"description": ""
+	},
+	{
+		"id": "ea0ac59f-1dfa-43b1-a7f3-86bdeeba647b",
+		"prefix": "",
+		"title": "Een Q&amp;A sessie leiden in een plenaire zitting.",
+		"description": ""
+	},
+	{
+		"id": "7ef58279-2245-4393-9be3-b0078ae10d51",
+		"prefix": "",
+		"title": "Overtuigend vasthouden aan of terugkomen op eerder gepresenteerde argumenten.",
+		"description": ""
+	},
+	{
+		"id": "10b8b85e-e800-4f7b-8252-3a64cad398fa",
+		"prefix": "",
+		"title": "Als woordvoerder van een politieke partij een nieuw plan presenteren.",
+		"description": ""
+	},
+	{
+		"id": "22abdd0f-3f8e-45ea-82ad-2204dd1c4880",
+		"prefix": "",
+		"title": "Aanbevelingen presenteren als onderdeel van een profielwerkstuk.",
+		"description": ""
+	},
+	{
+		"id": "3a800f99-8043-41d9-b54b-bbbaf1485d1b",
+		"prefix": "",
+		"title": "Een verbeterplan presenteren en uitleggen waarom dit het beste plan is uit een reeks opties.",
+		"description": ""
+	},
+	{
+		"id": "b0dfe779-7ba0-495f-bc30-8b1854b7a9ed",
+		"prefix": "",
+		"title": "Uitleg geven over een natuurkundig onderwerp en daarbij vergelijkingen maken met concrete voorbeelden uit de dagelijkse praktijk om abstracte concepten te verhelderen.",
+		"description": ""
+	},
+	{
+		"id": "89338d31-eaf6-42a9-924a-f2b1f71121e3",
+		"prefix": "",
+		"title": "In een presentatie over ontwikkelingshulp helderheid geven over de verschillen in waarden en normen, politieke en culturele opvattingen en religie.",
+		"description": ""
+	},
+	{
+		"id": "87cf4c91-757a-4448-8637-e25a24e46800",
+		"prefix": "",
+		"title": "In een presentatie over een literaire stroming verschillende kenmerken in een historisch kader verduidelijken.",
 		"description": ""
 	}
 ]
