@@ -13375,7 +13375,8 @@
 			"b5a8cdb2-80bc-4a27-ac9f-180308859ea0",
 			"d91d764f-e203-4f1e-bf94-4a6e3b02486d",
 			"60ef3cb3-ba99-4603-ae67-7b078970d540",
-			"c55770a5-0e9d-4a62-95dc-4aedd3c629e6"
+			"c55770a5-0e9d-4a62-95dc-4aedd3c629e6",
+			"a61fc136-cc40-45c4-8687-4f3191e9313d"
 		],
 		"title": "Kan persoonlijke en andere gegevens invullen op de meeste alledaagse formulieren.",
 		"id": "b8ae978d-660d-4bf7-8ec2-4c3d3f3032d5",
@@ -13518,7 +13519,11 @@
 		"title": "Kan een kort, eenvoudig bericht aannemen, mits om herhaling en herformulering gevraagd kan worden.",
 		"id": "9af458f9-b800-4078-b6c9-2d5ab9d0d27e",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"3e695793-b241-4a77-a5a6-b9d6feebcd5e",
+			"76f93c33-5b48-4e40-86fc-4a50b6f930cb"
+		]
 	},
 	{
 		"niveau_id": [
