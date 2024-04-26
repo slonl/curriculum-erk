@@ -7984,5 +7984,23 @@
 		"prefix": "",
 		"title": "Voor een collega of deze de beller terug kan bellen.",
 		"description": ""
+	},
+	{
+		"id": "cab9197e-2f24-46a2-9f52-04b3a6e6da42",
+		"prefix": "",
+		"title": "Een schriftelijk bericht achterlaten voor een collega/medestudent met het verzoek om een bepaalde taak uit te voeren.",
+		"description": ""
+	},
+	{
+		"id": "21c877e1-3140-46bb-ba17-7ae7af25908b",
+		"prefix": "",
+		"title": "Een korte schriftelijke weergave geven van een telefoongesprek met een bericht voor een collega of huisgenoot.",
+		"description": ""
+	},
+	{
+		"id": "220e8c7d-0c60-4cf0-9f2e-33a2ac692784",
+		"prefix": "",
+		"title": "Een notitie maken met gedetailleerde informatie over waar iemand op te halen.",
+		"description": ""
 	}
 ]
