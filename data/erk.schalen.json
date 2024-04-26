@@ -4156,8 +4156,6 @@
 			"7f42c98f-02e0-447a-a70e-c1c6a53ca3ee",
 			"36696bb3-9ec3-4e92-8f48-6566234f2865",
 			"a1fbf322-cdbe-480e-9022-8244d3fc7f23",
-			"7b5b22da-47af-435a-b61b-8c7b9870736d",
-			"5822997e-750e-412f-bc99-9e8f7c879b1e",
 			"df0e7855-d5f2-4ae0-bd12-718b4e059acc",
 			"b8ae978d-660d-4bf7-8ec2-4c3d3f3032d5",
 			"519182a3-8bb6-4600-88ef-8407abd970d2",
@@ -4178,7 +4176,1150 @@
 		"description": "",
 		"replaces": [
 			"a26a7f2d-328b-456e-8f36-6444bdf118f4"
-		]
+		],
+		"childNodes": [
+			{
+				"niveau_id": [
+					"677c431e-7ac6-438f-8204-aea78aef7025"
+				],
+				"title": "Kan zeer eenvoudige registratieformulieren invullen met elementaire persoonlijke gegevens: naam, adres, nationaliteit, burgerlijke staat.",
+				"id": "7f42c98f-02e0-447a-a70e-c1c6a53ca3ee",
+				"section": "erk_candobeschrijving",
+				"children": [],
+				"parents": [
+					{
+						"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32",
+						"type": "erk_categorie",
+						"ids": [
+							{
+								"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32"
+							}
+						]
+					},
+					{
+						"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b",
+						"type": "erk_taalactiviteit",
+						"ids": [
+							{
+								"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b"
+							}
+						]
+					},
+					{
+						"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e",
+						"type": "erk_schaal",
+						"ids": [
+							{
+								"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e"
+							}
+						]
+					}
+				],
+				"childNodes": []
+			},
+			{
+				"niveau_id": [
+					"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+				],
+				"erk_voorbeeld_id": [
+					"8b87f7c6-e18b-4553-ba89-ed084944777f",
+					"9852813b-9638-4b0f-9373-c2bd61fee582",
+					"97328074-498b-4652-bc9f-57b8419d5e4a"
+				],
+				"title": "Kan getallen en data, de eigen naam, nationaliteit, adres, leeftijd, geboorte- of aankomstdatum en dergelijke invullen.",
+				"id": "36696bb3-9ec3-4e92-8f48-6566234f2865",
+				"prefix": "",
+				"description": "",
+				"section": "erk_candobeschrijving",
+				"children": [
+					"8b87f7c6-e18b-4553-ba89-ed084944777f",
+					"9852813b-9638-4b0f-9373-c2bd61fee582",
+					"97328074-498b-4652-bc9f-57b8419d5e4a"
+				],
+				"parents": [
+					{
+						"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32",
+						"type": "erk_categorie",
+						"ids": [
+							{
+								"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32"
+							}
+						]
+					},
+					{
+						"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b",
+						"type": "erk_taalactiviteit",
+						"ids": [
+							{
+								"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b"
+							}
+						]
+					},
+					{
+						"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e",
+						"type": "erk_schaal",
+						"ids": [
+							{
+								"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e"
+							}
+						]
+					}
+				],
+				"childNodes": [
+					{
+						"title": "Persoonlijke gegevens bij aanmelden in een hotel, jeugdherberg of op een camping (DL).",
+						"id": "8b87f7c6-e18b-4553-ba89-ed084944777f",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Een aanmeldformulier bij een site voor e-cards (DL).",
+						"id": "9852813b-9638-4b0f-9373-c2bd61fee582",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Een bon om iets aan te vragen, op het internet of in een tijdschrift of reclameblaadje (DL).",
+						"id": "97328074-498b-4652-bc9f-57b8419d5e4a",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					}
+				]
+			},
+			{
+				"niveau_id": [
+					"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+				],
+				"title": "Kan een eenvoudige boodschap achterlaten met daarin informatie over bijvoorbeeld de reden van afwezigheid en de verwachte terugkomst.",
+				"id": "a1fbf322-cdbe-480e-9022-8244d3fc7f23",
+				"prefix": "",
+				"description": "",
+				"section": "erk_candobeschrijving",
+				"children": [],
+				"parents": [
+					{
+						"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32",
+						"type": "erk_categorie",
+						"ids": [
+							{
+								"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32"
+							}
+						]
+					},
+					{
+						"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b",
+						"type": "erk_taalactiviteit",
+						"ids": [
+							{
+								"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b"
+							}
+						]
+					},
+					{
+						"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e",
+						"type": "erk_schaal",
+						"ids": [
+							{
+								"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e"
+							}
+						]
+					}
+				],
+				"childNodes": []
+			},
+			{
+				"niveau_id": [
+					"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+				],
+				"erk_voorbeeld_id": [
+					"b6b7a4cd-37df-433b-9106-6d9e586d3c09",
+					"505603bf-b314-46ef-978a-0f7b21d87684",
+					"6520e6cd-5776-4562-b03a-c4f78cc95793",
+					"70ee5f05-8156-47d6-94eb-c13908814b6b"
+				],
+				"title": "Kan zeer korte en eenvoudige notities maken.",
+				"id": "7b5b22da-47af-435a-b61b-8c7b9870736d",
+				"section": "erk_candobeschrijving",
+				"children": [
+					"b6b7a4cd-37df-433b-9106-6d9e586d3c09",
+					"505603bf-b314-46ef-978a-0f7b21d87684",
+					"6520e6cd-5776-4562-b03a-c4f78cc95793",
+					"70ee5f05-8156-47d6-94eb-c13908814b6b"
+				],
+				"parents": [
+					{
+						"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32",
+						"type": "erk_categorie",
+						"ids": [
+							{
+								"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32"
+							}
+						]
+					},
+					{
+						"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b",
+						"type": "erk_taalactiviteit",
+						"ids": [
+							{
+								"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b"
+							}
+						]
+					},
+					{
+						"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e",
+						"type": "erk_schaal",
+						"ids": [
+							{
+								"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e"
+							}
+						]
+					}
+				],
+				"childNodes": [
+					{
+						"title": "Datum, tijd en plaats noteren van een afspraak, activiteit of uitstapje (DL).",
+						"id": "b6b7a4cd-37df-433b-9106-6d9e586d3c09",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Auteur, titel, uitgever van een boek, cd of cd-rom noteren om te bestellen (DL).",
+						"id": "505603bf-b314-46ef-978a-0f7b21d87684",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Een eenvoudig 'to do-lijstje' opstellen (DL).",
+						"id": "6520e6cd-5776-4562-b03a-c4f78cc95793",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Een bericht plaatsen op een digitaal prikbord zoals Facebook, Twitter, groepsapp (DL, OPL, WE).",
+						"id": "70ee5f05-8156-47d6-94eb-c13908814b6b",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					}
+				]
+			},
+			{
+				"niveau_id": [
+					"ebf1cc90-05cb-4976-9561-dfb2041ca264"
+				],
+				"erk_voorbeeld_id": [
+					"67eabaa2-441a-449e-a62e-c56f2dc616e7",
+					"05487d8a-b910-4531-bcb6-b5e516267fdf"
+				],
+				"title": "Kan een eenvoudige lijst met vragen over  zichzelf invullen.",
+				"id": "5822997e-750e-412f-bc99-9e8f7c879b1e",
+				"section": "erk_candobeschrijving",
+				"children": [
+					"67eabaa2-441a-449e-a62e-c56f2dc616e7",
+					"05487d8a-b910-4531-bcb6-b5e516267fdf"
+				],
+				"parents": [
+					{
+						"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32",
+						"type": "erk_categorie",
+						"ids": [
+							{
+								"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32"
+							}
+						]
+					},
+					{
+						"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b",
+						"type": "erk_taalactiviteit",
+						"ids": [
+							{
+								"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b"
+							}
+						]
+					},
+					{
+						"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e",
+						"type": "erk_schaal",
+						"ids": [
+							{
+								"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e"
+							}
+						]
+					}
+				],
+				"childNodes": [
+					{
+						"title": "Vragen over de gezinssamenstelling, woonomstandigheden, vrijetijdsbesteding, dagelijks werk of vakkenpakket op school (DL, OPL).",
+						"id": "67eabaa2-441a-449e-a62e-c56f2dc616e7",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Bij aanmelden voor een uitwisseling of stage (OPL, WE).",
+						"id": "05487d8a-b910-4531-bcb6-b5e516267fdf",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					}
+				]
+			},
+			{
+				"niveau_id": [
+					"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+				],
+				"erk_voorbeeld_id": [
+					"8dad6d81-fcb4-4e33-a1f4-35a27070bca9",
+					"07ac3008-1ea0-48ae-87d5-41459a53ca26",
+					"9ac0cc2e-ba69-46d5-96ae-a7d0d2b4ef6c",
+					"8ad75379-b057-47cd-988b-cb18383408c9"
+				],
+				"title": "Kan korte, eenvoudige notities en berichten formuleren over zaken van direct belang.",
+				"id": "df0e7855-d5f2-4ae0-bd12-718b4e059acc",
+				"prefix": "",
+				"description": "",
+				"section": "erk_candobeschrijving",
+				"children": [
+					"8dad6d81-fcb4-4e33-a1f4-35a27070bca9",
+					"07ac3008-1ea0-48ae-87d5-41459a53ca26",
+					"9ac0cc2e-ba69-46d5-96ae-a7d0d2b4ef6c",
+					"8ad75379-b057-47cd-988b-cb18383408c9"
+				],
+				"parents": [
+					{
+						"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32",
+						"type": "erk_categorie",
+						"ids": [
+							{
+								"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32"
+							}
+						]
+					},
+					{
+						"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b",
+						"type": "erk_taalactiviteit",
+						"ids": [
+							{
+								"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b"
+							}
+						]
+					},
+					{
+						"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e",
+						"type": "erk_schaal",
+						"ids": [
+							{
+								"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e"
+							}
+						]
+					}
+				],
+				"childNodes": [
+					{
+						"title": "Het verzetten van een afspraak, met uitleg waarom de afspraak verzet moet worden (XX).",
+						"id": "8dad6d81-fcb4-4e33-a1f4-35a27070bca9",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "De route naar een ontmoetingsplaats voor een buitenlandse gast (XX).",
+						"id": "07ac3008-1ea0-48ae-87d5-41459a53ca26",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Een melding dat de gevraagde kamer bezet is, er geen kamer beschikbaar is op de gevraagde datum (WE).",
+						"id": "9ac0cc2e-ba69-46d5-96ae-a7d0d2b4ef6c",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Een bevestiging van een reservering of bestelling (WE).",
+						"id": "8ad75379-b057-47cd-988b-cb18383408c9",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					}
+				]
+			},
+			{
+				"niveau_id": [
+					"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+				],
+				"erk_voorbeeld_id": [
+					"b5a8cdb2-80bc-4a27-ac9f-180308859ea0",
+					"d91d764f-e203-4f1e-bf94-4a6e3b02486d",
+					"60ef3cb3-ba99-4603-ae67-7b078970d540",
+					"c55770a5-0e9d-4a62-95dc-4aedd3c629e6"
+				],
+				"title": "Kan persoonlijke en andere gegevens invullen op de meeste alledaagse formulieren.",
+				"id": "b8ae978d-660d-4bf7-8ec2-4c3d3f3032d5",
+				"prefix": "",
+				"description": "",
+				"section": "erk_candobeschrijving",
+				"children": [
+					"b5a8cdb2-80bc-4a27-ac9f-180308859ea0",
+					"d91d764f-e203-4f1e-bf94-4a6e3b02486d",
+					"60ef3cb3-ba99-4603-ae67-7b078970d540",
+					"c55770a5-0e9d-4a62-95dc-4aedd3c629e6"
+				],
+				"parents": [
+					{
+						"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32",
+						"type": "erk_categorie",
+						"ids": [
+							{
+								"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32"
+							}
+						]
+					},
+					{
+						"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b",
+						"type": "erk_taalactiviteit",
+						"ids": [
+							{
+								"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b"
+							}
+						]
+					},
+					{
+						"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e",
+						"type": "erk_schaal",
+						"ids": [
+							{
+								"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e"
+							}
+						]
+					}
+				],
+				"childNodes": [
+					{
+						"title": "Op het politiebureau, bij het doen van aangifte van een gestolen portemonnee, tas of andere goederen (PU).",
+						"id": "b5a8cdb2-80bc-4a27-ac9f-180308859ea0",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Voor het ruilen van een artikel (DL).",
+						"id": "d91d764f-e203-4f1e-bf94-4a6e3b02486d",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Een (online) bestelformulier (DL, WE).",
+						"id": "60ef3cb3-ba99-4603-ae67-7b078970d540",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Een verlofbriefje (WE, OPL).",
+						"id": "c55770a5-0e9d-4a62-95dc-4aedd3c629e6",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					}
+				]
+			},
+			{
+				"niveau_id": [
+					"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+				],
+				"erk_voorbeeld_id": [
+					"b5d66b8f-727e-4a64-869c-46c85f876140",
+					"90650387-441b-4665-8801-3e267fbbebfc",
+					"2cc695cc-fe9b-44cf-bcec-ad1df8cf8d2e",
+					"3f75a1ac-d3b5-466b-8ae7-632263722178",
+					"60335eea-b4c0-42c8-b145-99fa8dc87a74",
+					"ef7428f9-7423-4337-8b55-ec4b2efec26b",
+					"4f3db387-973c-4ea7-9b68-ee2d65cbf938",
+					"6e0d5aa2-26e8-4189-90ed-a6e31ff2fe65",
+					"ea337473-17ca-481d-b4c7-49d4a16be119",
+					"592d7361-6e90-4c4f-a0a3-a5be4ce16b57",
+					"c90e648d-c4f9-4238-b8d5-0e69186d73dd"
+				],
+				"title": "Kan eenvoudige en korte notities maken voor zichzelf.",
+				"id": "519182a3-8bb6-4600-88ef-8407abd970d2",
+				"section": "erk_candobeschrijving",
+				"children": [
+					"b5d66b8f-727e-4a64-869c-46c85f876140",
+					"90650387-441b-4665-8801-3e267fbbebfc",
+					"2cc695cc-fe9b-44cf-bcec-ad1df8cf8d2e",
+					"3f75a1ac-d3b5-466b-8ae7-632263722178",
+					"60335eea-b4c0-42c8-b145-99fa8dc87a74",
+					"ef7428f9-7423-4337-8b55-ec4b2efec26b",
+					"4f3db387-973c-4ea7-9b68-ee2d65cbf938",
+					"6e0d5aa2-26e8-4189-90ed-a6e31ff2fe65",
+					"ea337473-17ca-481d-b4c7-49d4a16be119",
+					"592d7361-6e90-4c4f-a0a3-a5be4ce16b57",
+					"c90e648d-c4f9-4238-b8d5-0e69186d73dd"
+				],
+				"parents": [
+					{
+						"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32",
+						"type": "erk_categorie",
+						"ids": [
+							{
+								"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32"
+							}
+						]
+					},
+					{
+						"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b",
+						"type": "erk_taalactiviteit",
+						"ids": [
+							{
+								"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b"
+							}
+						]
+					},
+					{
+						"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e",
+						"type": "erk_schaal",
+						"ids": [
+							{
+								"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e"
+							}
+						]
+					}
+				],
+				"childNodes": [
+					{
+						"title": "Notities met betrekking tot huiswerk (OPL).",
+						"id": "b5d66b8f-727e-4a64-869c-46c85f876140",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Korte schriftelijke feedback aan een klasgenoot of collega over een presentatie (OPL, WE).",
+						"id": "90650387-441b-4665-8801-3e267fbbebfc",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Aandachtspunten als voorbereiding op een overleg (WE).",
+						"id": "2cc695cc-fe9b-44cf-bcec-ad1df8cf8d2e",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Punten over wat makkelijk en wat moeilijk was als voorbereiding op een evaluatief gesprek met een begeleider of leidinggevende in het kader van een stage (OPL, WE).",
+						"id": "3f75a1ac-d3b5-466b-8ae7-632263722178",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Gegevens van een bezoeker aan de stand op een 'game-beurs' (WE).",
+						"id": "60335eea-b4c0-42c8-b145-99fa8dc87a74",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Een afspraak (WE).",
+						"id": "ef7428f9-7423-4337-8b55-ec4b2efec26b",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Aantekeningen over de inhoud van een gesprek in de doeltaal (OPL, WE).",
+						"id": "4f3db387-973c-4ea7-9b68-ee2d65cbf938",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Huiswerk doorgeven aan een medecursist tijdens een cursus in het buitenland (OPL).",
+						"id": "6e0d5aa2-26e8-4189-90ed-a6e31ff2fe65",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Briefjes op het prikbord van een camping: vragen of iemand iets gevonden heeft of partners zoeken om bijvoorbeeld te volleyballen (DL).",
+						"id": "ea337473-17ca-481d-b4c7-49d4a16be119",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Een bericht achterlaten voor een collega, huisgenoot, kamergenoot of in een gastgezin als: ben om x uur weer terug, eet vanavond niet hier (DL, WE).",
+						"id": "592d7361-6e90-4c4f-a0a3-a5be4ce16b57",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Een telefonisch doorgegeven boodschap in trefwoorden noteren voor een collega of huisgenoot (DL, WE).",
+						"id": "c90e648d-c4f9-4238-b8d5-0e69186d73dd",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					}
+				]
+			},
+			{
+				"niveau_id": [
+					"620710de-54d2-48b5-93ab-40888732aab7"
+				],
+				"title": "Kan een kort, eenvoudig bericht aannemen, mits om herhaling en herformulering gevraagd kan worden.",
+				"id": "9af458f9-b800-4078-b6c9-2d5ab9d0d27e",
+				"prefix": "",
+				"description": "",
+				"section": "erk_candobeschrijving",
+				"children": [],
+				"parents": [
+					{
+						"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32",
+						"type": "erk_categorie",
+						"ids": [
+							{
+								"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32"
+							}
+						]
+					},
+					{
+						"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b",
+						"type": "erk_taalactiviteit",
+						"ids": [
+							{
+								"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b"
+							}
+						]
+					},
+					{
+						"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e",
+						"type": "erk_schaal",
+						"ids": [
+							{
+								"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e"
+							}
+						]
+					}
+				],
+				"childNodes": []
+			},
+			{
+				"niveau_id": [
+					"a94b005d-9697-49f6-897a-0ad6516044f9"
+				],
+				"erk_voorbeeld_id": [
+					"39dfaa40-6ffc-4f35-a02b-bae545320cf2",
+					"bb0b1aca-0f01-47bf-87fc-2c16dd5c71c7",
+					"32bb7848-21ef-411f-a346-2626a80fb1ed",
+					"2fe027dc-95a3-46fb-9211-2caed3f54e1c",
+					"1bda5085-ea23-496c-8959-ee2d0c61fdc7"
+				],
+				"title": "Kan formulieren waarin om meer informatie gevraagd wordt gedetailleerd invullen.",
+				"id": "20bfabb4-aaa3-411f-ab7e-649e86912642",
+				"prefix": "",
+				"description": "",
+				"section": "erk_candobeschrijving",
+				"children": [
+					"39dfaa40-6ffc-4f35-a02b-bae545320cf2",
+					"bb0b1aca-0f01-47bf-87fc-2c16dd5c71c7",
+					"32bb7848-21ef-411f-a346-2626a80fb1ed",
+					"2fe027dc-95a3-46fb-9211-2caed3f54e1c",
+					"1bda5085-ea23-496c-8959-ee2d0c61fdc7"
+				],
+				"parents": [
+					{
+						"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32",
+						"type": "erk_categorie",
+						"ids": [
+							{
+								"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32"
+							}
+						]
+					},
+					{
+						"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b",
+						"type": "erk_taalactiviteit",
+						"ids": [
+							{
+								"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b"
+							}
+						]
+					},
+					{
+						"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e",
+						"type": "erk_schaal",
+						"ids": [
+							{
+								"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e"
+							}
+						]
+					}
+				],
+				"childNodes": [
+					{
+						"title": "Wensen met betrekking tot huisvesting, leerdoelen, manier van leren aangeven op een aanmeldingsformulier voor een taalcursus (OPL).",
+						"id": "39dfaa40-6ffc-4f35-a02b-bae545320cf2",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Een schadeformulier bij een aanrijding (PU).",
+						"id": "bb0b1aca-0f01-47bf-87fc-2c16dd5c71c7",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Aangifte van diefstal (PU).",
+						"id": "32bb7848-21ef-411f-a346-2626a80fb1ed",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Een sollicitatieformulier (WE).",
+						"id": "2fe027dc-95a3-46fb-9211-2caed3f54e1c",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Leveringsbonnen en opdrachtformulieren (WE).",
+						"id": "1bda5085-ea23-496c-8959-ee2d0c61fdc7",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					}
+				]
+			},
+			{
+				"niveau_id": [
+					"a94b005d-9697-49f6-897a-0ad6516044f9"
+				],
+				"title": "Kan telefonische berichten aannemen die meerdere punten bevatten, mits de beller deze duidelijk dicteert, rekening houdend met de ontvanger.",
+				"id": "84e15228-9d29-4d21-a1be-c8797a0a9165",
+				"section": "erk_candobeschrijving",
+				"children": [],
+				"parents": [
+					{
+						"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32",
+						"type": "erk_categorie",
+						"ids": [
+							{
+								"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32"
+							}
+						]
+					},
+					{
+						"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b",
+						"type": "erk_taalactiviteit",
+						"ids": [
+							{
+								"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b"
+							}
+						]
+					},
+					{
+						"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e",
+						"type": "erk_schaal",
+						"ids": [
+							{
+								"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e"
+							}
+						]
+					}
+				],
+				"childNodes": []
+			},
+			{
+				"niveau_id": [
+					"a94b005d-9697-49f6-897a-0ad6516044f9"
+				],
+				"erk_voorbeeld_id": [
+					"bc951755-2634-4965-b89e-7f4c820c2968",
+					"9666686f-bf1a-4458-a807-e8a34f75885c",
+					"f7c6fa84-24b1-444a-bb00-149341a3c979",
+					"2aeef5ff-db27-486b-9d6b-f33a190da6dd",
+					"8fe3c220-1c98-47f3-804c-9ef38600d743",
+					"d08264d8-25f3-4209-86b6-5b92672de828",
+					"20e5ce2a-b744-4459-a93f-b68729e89fca",
+					"5ece0862-9021-4960-844f-dfc0b32aa8f9"
+				],
+				"title": "Kan notities formuleren die eenvoudige informatie bevatten die van direct belang is voor vrienden, dienstverleners, leraren en andere mensen, en daarbij begrijpelijk de punten overbrengen die naar eigen inzicht belangrijk zijn.",
+				"id": "4b73feb9-daeb-4331-812c-5da874657d23",
+				"prefix": "",
+				"description": "",
+				"section": "erk_candobeschrijving",
+				"children": [
+					"bc951755-2634-4965-b89e-7f4c820c2968",
+					"9666686f-bf1a-4458-a807-e8a34f75885c",
+					"f7c6fa84-24b1-444a-bb00-149341a3c979",
+					"2aeef5ff-db27-486b-9d6b-f33a190da6dd",
+					"8fe3c220-1c98-47f3-804c-9ef38600d743",
+					"d08264d8-25f3-4209-86b6-5b92672de828",
+					"20e5ce2a-b744-4459-a93f-b68729e89fca",
+					"5ece0862-9021-4960-844f-dfc0b32aa8f9"
+				],
+				"parents": [
+					{
+						"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32",
+						"type": "erk_categorie",
+						"ids": [
+							{
+								"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32"
+							}
+						]
+					},
+					{
+						"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b",
+						"type": "erk_taalactiviteit",
+						"ids": [
+							{
+								"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b"
+							}
+						]
+					},
+					{
+						"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e",
+						"type": "erk_schaal",
+						"ids": [
+							{
+								"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e"
+							}
+						]
+					}
+				],
+				"childNodes": [
+					{
+						"title": "Tijdens een eenduidige lezing aantekeningen maken (DL, WE, OPL).",
+						"id": "bc951755-2634-4965-b89e-7f4c820c2968",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Op school tijdens een hoorcollege een samenvatting maken (DL, OPL).",
+						"id": "9666686f-bf1a-4458-a807-e8a34f75885c",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Aantekeningen maken tijdens een les (bijvoorbeeld geschiedenis in de vreemde taal (OPL).",
+						"id": "f7c6fa84-24b1-444a-bb00-149341a3c979",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "In een gastgezin de telefoon aannemen en een boodschap noteren (DL).",
+						"id": "2aeef5ff-db27-486b-9d6b-f33a190da6dd",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Een bericht achterlaten voor een huisgenoot in een buitenlands gastgezin: waar je heen gegaan bent, wat je gaat doen, wanneer je terug zult zijn (DL).",
+						"id": "8fe3c220-1c98-47f3-804c-9ef38600d743",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Instructies over een schoolproject noteren tijdens een bijeenkomst op school (OPL).",
+						"id": "d08264d8-25f3-4209-86b6-5b92672de828",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "Een bericht achterlaten voor een collega/medestudent met het verzoek om een bepaalde taak uit te voeren (OPL, WE).",
+						"id": "20e5ce2a-b744-4459-a93f-b68729e89fca",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					},
+					{
+						"title": "De belangrijkste informatie uit een artikel of het journaal opschrijven om ze later te gebruiken in een werkstuk (OPL).",
+						"id": "5ece0862-9021-4960-844f-dfc0b32aa8f9",
+						"section": "erk_voorbeeld",
+						"children": [],
+						"childNodes": []
+					}
+				]
+			},
+			{
+				"niveau_id": [
+					"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+				],
+				"title": "Kan berichten aannemen waarin inlichtingen worden gegeven en problemen worden uitgelegd.",
+				"id": "efa5b5ce-fa10-484a-b4b9-f43e3433e3ee",
+				"prefix": "",
+				"description": "",
+				"section": "erk_candobeschrijving",
+				"children": [],
+				"parents": [
+					{
+						"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32",
+						"type": "erk_categorie",
+						"ids": [
+							{
+								"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32"
+							}
+						]
+					},
+					{
+						"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b",
+						"type": "erk_taalactiviteit",
+						"ids": [
+							{
+								"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b"
+							}
+						]
+					},
+					{
+						"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e",
+						"type": "erk_schaal",
+						"ids": [
+							{
+								"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e"
+							}
+						]
+					}
+				],
+				"childNodes": []
+			},
+			{
+				"niveau_id": [
+					"a0f545f9-a077-49fd-ab13-ef3533430ee6"
+				],
+				"title": "Kan routineboodschappen aannemen die veel voorkomen in een persoonlijke, professionele of academische context.",
+				"id": "c9f6a8b4-397f-42c6-8309-dcd3ffabb4ea",
+				"section": "erk_candobeschrijving",
+				"children": [],
+				"parents": [
+					{
+						"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32",
+						"type": "erk_categorie",
+						"ids": [
+							{
+								"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32"
+							}
+						]
+					},
+					{
+						"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b",
+						"type": "erk_taalactiviteit",
+						"ids": [
+							{
+								"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b"
+							}
+						]
+					},
+					{
+						"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e",
+						"type": "erk_schaal",
+						"ids": [
+							{
+								"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e"
+							}
+						]
+					}
+				],
+				"childNodes": []
+			},
+			{
+				"niveau_id": [
+					"f7920461-e732-4767-b855-87783a05c76a"
+				],
+				"title": "Kan complexe persoonlijke of professionele berichten aannemen of achterlaten, mits het desnoods vragen om verduidelijking of uitleg mogelijk is.",
+				"id": "76496082-7acf-44d5-b96a-7a4baff026c9",
+				"prefix": "",
+				"description": "",
+				"section": "erk_candobeschrijving",
+				"children": [],
+				"parents": [
+					{
+						"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32",
+						"type": "erk_categorie",
+						"ids": [
+							{
+								"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32"
+							}
+						]
+					},
+					{
+						"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b",
+						"type": "erk_taalactiviteit",
+						"ids": [
+							{
+								"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b"
+							}
+						]
+					},
+					{
+						"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e",
+						"type": "erk_schaal",
+						"ids": [
+							{
+								"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e"
+							}
+						]
+					}
+				],
+				"childNodes": []
+			},
+			{
+				"niveau_id": [
+					"50fd5672-94d8-4445-b988-bb198f5515f4"
+				],
+				"title": "Geen descriptoren beschikbaar, zie B2.",
+				"isempty": true,
+				"id": "46ba45a1-ee8e-441f-a08c-7c8e2fcc8186",
+				"prefix": "",
+				"description": "",
+				"section": "erk_candobeschrijving",
+				"children": [],
+				"parents": [
+					{
+						"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32",
+						"type": "erk_categorie",
+						"ids": [
+							{
+								"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32"
+							}
+						]
+					},
+					{
+						"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b",
+						"type": "erk_taalactiviteit",
+						"ids": [
+							{
+								"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b"
+							}
+						]
+					},
+					{
+						"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e",
+						"type": "erk_schaal",
+						"ids": [
+							{
+								"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e"
+							}
+						]
+					}
+				],
+				"childNodes": []
+			},
+			{
+				"niveau_id": [
+					"2208c586-9043-47c1-b66b-536a50577725"
+				],
+				"title": "Geen descriptoren beschikbaar, zie B2.",
+				"isempty": true,
+				"id": "6698b73b-bbd4-4ee0-a863-350faa2baa7d",
+				"prefix": "",
+				"description": "",
+				"section": "erk_candobeschrijving",
+				"children": [],
+				"parents": [
+					{
+						"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32",
+						"type": "erk_categorie",
+						"ids": [
+							{
+								"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32"
+							}
+						]
+					},
+					{
+						"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b",
+						"type": "erk_taalactiviteit",
+						"ids": [
+							{
+								"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b"
+							}
+						]
+					},
+					{
+						"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e",
+						"type": "erk_schaal",
+						"ids": [
+							{
+								"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e"
+							}
+						]
+					}
+				],
+				"childNodes": []
+			},
+			{
+				"niveau_id": [
+					"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+				],
+				"id": "ec0b1cd8-0cc9-4d76-add2-7cb87cedb170",
+				"prefix": "",
+				"title": "Kan eenvoudige en korte notities maken voor anderen.",
+				"description": "",
+				"section": "erk_candobeschrijving",
+				"children": [],
+				"parents": [
+					{
+						"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32",
+						"type": "erk_categorie",
+						"ids": [
+							{
+								"id": "ab4f195f-a85b-4b1c-9802-970d1d303d32"
+							}
+						]
+					},
+					{
+						"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b",
+						"type": "erk_taalactiviteit",
+						"ids": [
+							{
+								"id": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b"
+							}
+						]
+					},
+					{
+						"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e",
+						"type": "erk_schaal",
+						"ids": [
+							{
+								"id": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e"
+							}
+						]
+					}
+				],
+				"childNodes": []
+			}
+		],
+		"niveau_id": [
+			"677c431e-7ac6-438f-8204-aea78aef7025",
+			"ebf1cc90-05cb-4976-9561-dfb2041ca264",
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b",
+			"620710de-54d2-48b5-93ab-40888732aab7",
+			"a94b005d-9697-49f6-897a-0ad6516044f9",
+			"a0f545f9-a077-49fd-ab13-ef3533430ee6",
+			"f7920461-e732-4767-b855-87783a05c76a",
+			"50fd5672-94d8-4445-b988-bb198f5515f4",
+			"2208c586-9043-47c1-b66b-536a50577725"
+		],
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
