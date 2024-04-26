@@ -4626,24 +4626,32 @@
 		"id": "1bda5085-ea23-496c-8959-ee2d0c61fdc7"
 	},
 	{
-		"title": "Tijdens een eenduidige lezing aantekeningen maken (DL, WE, OPL).",
-		"id": "bc951755-2634-4965-b89e-7f4c820c2968"
+		"title": "Tijdens een eenduidige lezing aantekeningen maken van de belangrijkste punten.",
+		"id": "bc951755-2634-4965-b89e-7f4c820c2968",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Op school tijdens een hoorcollege een samenvatting maken (DL, OPL).",
-		"id": "9666686f-bf1a-4458-a807-e8a34f75885c"
+		"title": "Op school tijdens een hoorcollege een samenvatting maken van de belangrijkste informatie uit een les, zoals geschiedenis.",
+		"id": "9666686f-bf1a-4458-a807-e8a34f75885c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aantekeningen maken tijdens een les (bijvoorbeeld geschiedenis in de vreemde taal (OPL).",
-		"id": "f7c6fa84-24b1-444a-bb00-149341a3c979"
+		"title": "Aantekeningen maken op hoofdlijnen voor een afwezige klasgenoot.",
+		"id": "f7c6fa84-24b1-444a-bb00-149341a3c979",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "In een gastgezin de telefoon aannemen en een boodschap noteren (DL).",
 		"id": "2aeef5ff-db27-486b-9d6b-f33a190da6dd"
 	},
 	{
-		"title": "Een bericht achterlaten voor een huisgenoot in een buitenlands gastgezin: waar je heen gegaan bent, wat je gaat doen, wanneer je terug zult zijn (DL).",
-		"id": "8fe3c220-1c98-47f3-804c-9ef38600d743"
+		"title": "Simpele notities maken voor jezelf tijdens het bekijken van een online tutorial.",
+		"id": "8fe3c220-1c98-47f3-804c-9ef38600d743",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Instructies over een schoolproject noteren tijdens een bijeenkomst op school (OPL).",
@@ -8001,6 +8009,48 @@
 		"id": "220e8c7d-0c60-4cf0-9f2e-33a2ac692784",
 		"prefix": "",
 		"title": "Een notitie maken met gedetailleerde informatie over waar iemand op te halen.",
+		"description": ""
+	},
+	{
+		"id": "b54793fc-2bf8-4e6d-8483-985332569827",
+		"prefix": "",
+		"title": "Storingen in het openbaar vervoer noteren om ze aan iemand door te geven.",
+		"description": ""
+	},
+	{
+		"id": "954cb53e-d061-43f1-8dd0-7ca98662601b",
+		"prefix": "",
+		"title": "Aantekeningen maken over een bericht met betrekking tot levering van goederen.",
+		"description": ""
+	},
+	{
+		"id": "339292ab-fac5-4f4d-8675-6465debab447",
+		"prefix": "",
+		"title": "Aantekeningen maken van een toelichting op video over hoe een apparaat werkt.",
+		"description": ""
+	},
+	{
+		"id": "156e2c28-7ac3-44d2-a797-37496909c266",
+		"prefix": "",
+		"title": "Binnen de eigen opleiding, de hoofdpunten noteren op papier of digitaal tijdens een hoorcollege.",
+		"description": ""
+	},
+	{
+		"id": "3a18fdcb-c002-48cd-b0f9-dd9efe859fac",
+		"prefix": "",
+		"title": "Eenvoudige notities over gelezen literatuur maken voor eigen studie.",
+		"description": ""
+	},
+	{
+		"id": "0f93eeb5-03f0-4d18-9433-0447f08cc727",
+		"prefix": "",
+		"title": "Digitaal notities maken tijdens een webinar over een vertrouwd onderwerp om ze later in een samenvatting te kunnen verwerken.",
+		"description": ""
+	},
+	{
+		"id": "56cb9ccb-6ce2-49da-863b-acf24ff2510f",
+		"prefix": "",
+		"title": "De hand-out uitgedeeld door de spreker aanvullen met eigen opmerkingen over significante details of relevante voorbeelden die de spreker geeft.",
 		"description": ""
 	}
 ]
