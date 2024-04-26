@@ -4514,36 +4514,52 @@
 		"id": "05487d8a-b910-4531-bcb6-b5e516267fdf"
 	},
 	{
-		"title": "Het verzetten van een afspraak, met uitleg waarom de afspraak verzet moet worden (XX).",
-		"id": "8dad6d81-fcb4-4e33-a1f4-35a27070bca9"
+		"title": "Met welke trein je komt.",
+		"id": "8dad6d81-fcb4-4e33-a1f4-35a27070bca9",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De route naar een ontmoetingsplaats voor een buitenlandse gast (XX).",
-		"id": "07ac3008-1ea0-48ae-87d5-41459a53ca26"
+		"title": "Waarom je niet aanwezig kunt zijn bij de les.",
+		"id": "07ac3008-1ea0-48ae-87d5-41459a53ca26",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een melding dat de gevraagde kamer bezet is, er geen kamer beschikbaar is op de gevraagde datum (WE).",
-		"id": "9ac0cc2e-ba69-46d5-96ae-a7d0d2b4ef6c"
+		"title": "Dat er geen kamer beschikbaar is op de gevraagde datum.",
+		"id": "9ac0cc2e-ba69-46d5-96ae-a7d0d2b4ef6c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een bevestiging van een reservering of bestelling (WE).",
-		"id": "8ad75379-b057-47cd-988b-cb18383408c9"
+		"title": "Welke ingrediënten er nodig zijn voor het avondeten.",
+		"id": "8ad75379-b057-47cd-988b-cb18383408c9",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Op het politiebureau, bij het doen van aangifte van een gestolen portemonnee, tas of andere goederen (PU).",
-		"id": "b5a8cdb2-80bc-4a27-ac9f-180308859ea0"
+		"title": "Op het politiebureau met de beschrijving van je gestolen telefoon.",
+		"id": "b5a8cdb2-80bc-4a27-ac9f-180308859ea0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Voor het ruilen van een artikel (DL).",
-		"id": "d91d764f-e203-4f1e-bf94-4a6e3b02486d"
+		"title": "Ter voorbereiding van een schoolkamp.",
+		"id": "d91d764f-e203-4f1e-bf94-4a6e3b02486d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een (online) bestelformulier (DL, WE).",
-		"id": "60ef3cb3-ba99-4603-ae67-7b078970d540"
+		"title": "Voor het ruilen van een product.",
+		"id": "60ef3cb3-ba99-4603-ae67-7b078970d540",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een verlofbriefje (WE, OPL).",
-		"id": "c55770a5-0e9d-4a62-95dc-4aedd3c629e6"
+		"title": "Om een bankrekening te openen.",
+		"id": "c55770a5-0e9d-4a62-95dc-4aedd3c629e6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Notities met betrekking tot huiswerk (OPL).",
@@ -7949,6 +7965,24 @@
 		"id": "ac82710f-4a5f-4c0a-a8bc-c971deeb6694",
 		"prefix": "",
 		"title": "Voor je familie, hoe laat je thuis bent.",
+		"description": ""
+	},
+	{
+		"id": "a61fc136-cc40-45c4-8687-4f3191e9313d",
+		"prefix": "",
+		"title": "Bij een aangetekende brief.",
+		"description": ""
+	},
+	{
+		"id": "3e695793-b241-4a77-a5a6-b9d6feebcd5e",
+		"prefix": "",
+		"title": "Voor een huisgenoot in een buitenlands gastgezin over een verplaatste afspraak: waar en wanneer.",
+		"description": ""
+	},
+	{
+		"id": "76f93c33-5b48-4e40-86fc-4a50b6f930cb",
+		"prefix": "",
+		"title": "Voor een collega of deze de beller terug kan bellen.",
 		"description": ""
 	}
 ]
