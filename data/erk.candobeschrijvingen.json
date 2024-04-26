@@ -13583,7 +13583,12 @@
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
 		"title": "Kan telefonische berichten aannemen die meerdere punten bevatten, mits de beller deze duidelijk dicteert, rekening houdend met de ontvanger.",
-		"id": "84e15228-9d29-4d21-a1be-c8797a0a9165"
+		"id": "84e15228-9d29-4d21-a1be-c8797a0a9165",
+		"erk_voorbeeld_id": [
+			"cab9197e-2f24-46a2-9f52-04b3a6e6da42",
+			"21c877e1-3140-46bb-ba17-7ae7af25908b",
+			"220e8c7d-0c60-4cf0-9f2e-33a2ac692784"
+		]
 	},
 	{
 		"niveau_id": [
