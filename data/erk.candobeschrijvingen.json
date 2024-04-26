@@ -13598,11 +13598,7 @@
 			"bc951755-2634-4965-b89e-7f4c820c2968",
 			"9666686f-bf1a-4458-a807-e8a34f75885c",
 			"f7c6fa84-24b1-444a-bb00-149341a3c979",
-			"2aeef5ff-db27-486b-9d6b-f33a190da6dd",
-			"8fe3c220-1c98-47f3-804c-9ef38600d743",
-			"d08264d8-25f3-4209-86b6-5b92672de828",
-			"20e5ce2a-b744-4459-a93f-b68729e89fca",
-			"5ece0862-9021-4960-844f-dfc0b32aa8f9"
+			"8fe3c220-1c98-47f3-804c-9ef38600d743"
 		],
 		"title": "Kan notities formuleren die eenvoudige informatie bevatten die van direct belang is voor vrienden, dienstverleners, leraren en andere mensen, en daarbij begrijpelijk de punten overbrengen die naar eigen inzicht belangrijk zijn.",
 		"id": "4b73feb9-daeb-4331-812c-5da874657d23",
@@ -13674,14 +13670,25 @@
 		"title": "Kan berichten aannemen waarin inlichtingen worden gegeven en problemen worden uitgelegd.",
 		"id": "efa5b5ce-fa10-484a-b4b9-f43e3433e3ee",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"b54793fc-2bf8-4e6d-8483-985332569827",
+			"954cb53e-d061-43f1-8dd0-7ca98662601b",
+			"339292ab-fac5-4f4d-8675-6465debab447"
+		]
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
 		"title": "Kan routineboodschappen aannemen die veel voorkomen in een persoonlijke, professionele of academische context.",
-		"id": "c9f6a8b4-397f-42c6-8309-dcd3ffabb4ea"
+		"id": "c9f6a8b4-397f-42c6-8309-dcd3ffabb4ea",
+		"erk_voorbeeld_id": [
+			"156e2c28-7ac3-44d2-a797-37496909c266",
+			"3a18fdcb-c002-48cd-b0f9-dd9efe859fac",
+			"0f93eeb5-03f0-4d18-9433-0447f08cc727",
+			"56cb9ccb-6ce2-49da-863b-acf24ff2510f"
+		]
 	},
 	{
 		"niveau_id": [
