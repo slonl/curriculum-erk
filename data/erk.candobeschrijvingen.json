@@ -13697,7 +13697,11 @@
 		"title": "Kan complexe persoonlijke of professionele berichten aannemen of achterlaten, mits het desnoods vragen om verduidelijking of uitleg mogelijk is.",
 		"id": "76496082-7acf-44d5-b96a-7a4baff026c9",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"93b17c34-cf20-4d5c-a9b5-7ebcbb111d3d",
+			"9789df4a-8d7c-4331-b3a3-36e2e319d622"
+		]
 	},
 	{
 		"niveau_id": [
