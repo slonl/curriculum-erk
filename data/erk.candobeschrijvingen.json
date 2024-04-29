@@ -13829,7 +13829,14 @@
 		"title": "Kan korte, beschrijvende berichten op internet plaatsen over alledaagse zaken, sociale activiteiten en gevoelens, met eenvoudige basisdetails.",
 		"id": "2a013459-601b-4693-a03c-88da5a0d31e4",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"2a4d4f08-4040-4ccb-97d8-0be86e31f394",
+			"286594e8-ca7f-4299-ab09-7f844cc86c3b",
+			"069405bc-e5e3-4c75-923d-e92099a89819",
+			"7c930a87-0243-451f-a556-3eea95181dbf",
+			"040947d7-a7bc-463b-a1d3-001c7dcf3699"
+		]
 	},
 	{
 		"niveau_id": [
@@ -13838,7 +13845,13 @@
 		"title": "Kan zich online voorstellen en eenvoudige uitwisselingen aangaan, door vragen te stellen en beantwoorden en ideeën uit te wisselen over voorspelbare alledaagse onderwerpen, mits er genoeg tijd is om antwoorden te formuleren en er slechts één gesprekspartner tegelijk is.",
 		"id": "ec45e4c8-9f88-4f63-8af9-ae6e01a25d0d",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"7decd7bb-c1d9-43c2-bcb0-e367c5980ac7",
+			"1e5ee4af-e41d-419a-a764-b4666ac56b49",
+			"597d5b83-20f9-435a-824a-75f851d6e38a",
+			"a19768a2-fd26-4556-b9b7-9f08b2938287"
+		]
 	},
 	{
 		"niveau_id": [
