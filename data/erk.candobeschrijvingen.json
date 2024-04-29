@@ -14028,7 +14028,10 @@
 		"title": "Kan gemakkelijk en snel register en stijl aanpassen aan verschillende online omgevingen, communicatiedoelen en taalhandelingen.",
 		"id": "a51fbda4-2196-49fd-b8da-e2452c719d2e",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"fa140392-9f15-4a87-97b5-96bebd3e1967"
+		]
 	},
 	{
 		"niveau_id": [
@@ -14037,7 +14040,10 @@
 		"title": "Kan inspelen op en effectief omgaan met mogelijke misverstanden (waaronder culturele), communicatieproblemen en emotionele reacties in een online discussie.",
 		"id": "87c69a28-b27d-42df-94ab-cb1d34e7de58",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"e071b629-54b2-4164-8392-966c91d0c79a"
+		]
 	},
 	{
 		"niveau_id": [
@@ -14046,7 +14052,11 @@
 		"title": "Kan zich duidelijk en nauwkeurig uitdrukken in een rechtstreekse online discussie en daarbij de taal flexibel en met gevoel afstemmen op de context, met inbegrip van emotioneel, dubbelzinnig en humoristisch taalgebruik.",
 		"id": "b3168b1c-34f3-4dde-955a-62c8329a230f",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"c81d3511-eb92-49fe-a832-2a9bfae92098",
+			"f91af37f-dea5-4008-ab96-ff422931b2de"
+		]
 	},
 	{
 		"niveau_id": [
