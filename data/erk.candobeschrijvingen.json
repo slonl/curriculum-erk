@@ -13784,7 +13784,12 @@
 		"title": "Kan online korte positieve of negatieve opmerkingen plaatsen over ingesloten koppelingen en media, gebruikmakend van een repertoire van elementaire taal, hoewel hiervoor meestal een online vertaalhulpmiddel of andere bronnen nodig zijn.",
 		"id": "cddd8979-8442-4895-acc3-cc7aa91a76bb",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"f2cfca61-8045-4481-974d-0e4b1be4ccc7",
+			"04caa28e-f09d-40b1-886f-80fb89af738e",
+			"d4a6af1f-cbfc-45f4-9a0a-8886310f00b4"
+		]
 	},
 	{
 		"niveau_id": [
@@ -13792,21 +13797,25 @@
 		],
 		"erk_voorbeeld_id": [
 			"28e03c48-d678-4f66-aedf-8c99e4ea648d",
-			"d7f736ff-4509-4bd0-8bfd-15aa594b61d6",
 			"6b60f249-efb8-4be8-9615-994ac0c99c42",
-			"2fa8f41f-d988-4531-8545-e4cc612df74d",
-			"d0ae7de9-b58f-447e-99d0-a89beb861b90",
 			"62f1f1ba-bd61-44f4-8a72-d60be6ddf90c"
 		],
 		"title": "Kan deelnemen aan elementaire sociale communicatie online.",
-		"id": "41612f61-1db9-4c54-984e-f319112e8645"
+		"id": "41612f61-1db9-4c54-984e-f319112e8645",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
 		"erk_voorbeeld_id": [
-			"1a9efce4-e0a6-4561-a288-d594d2bfce7a"
+			"1a9efce4-e0a6-4561-a288-d594d2bfce7a",
+			"f4a5fa99-ca14-4848-bd62-a68f8374bc86",
+			"e0a20279-4c84-4ed9-8f84-7fc7191a2212",
+			"f30fbb2c-7f6e-4f01-a2d0-ea1c1e53bb92",
+			"c2f665ef-84b6-463f-bdaf-252edaa6907c",
+			"92dcce1b-abe1-41b2-afa7-a17e5fbadae3"
 		],
 		"title": "Kan reageren op berichten op internet van andere mensen, mits ze geschreven zijn in eenvoudige taal, en op ingesloten media reageren door op een eenvoudige manier gevoelens van verbazing, belangstelling en onverschilligheid uit te drukken.",
 		"id": "525d3fae-e205-4253-8393-651c7459c3f5",
