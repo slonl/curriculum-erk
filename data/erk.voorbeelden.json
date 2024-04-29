@@ -4702,24 +4702,34 @@
 		"description": ""
 	},
 	{
-		"title": "Een persoonlijk commentaar schrijven of een toelichting geven op een meegestuurde of geüploade link of foto (DL).",
-		"id": "47be4729-b375-45b2-bba1-e9469f1622bb"
+		"title": "Een persoonlijk commentaar schrijven of een toelichting geven op een meegestuurde of geüploade link of foto.",
+		"id": "47be4729-b375-45b2-bba1-e9469f1622bb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Commentaar schrijven op een pagina van een sociaal netwerk van een uitwisselingspartner (OPL).",
-		"id": "f76f4106-ec22-4ccb-986d-4c41e6774f79"
+		"title": "Commentaar schrijven op een pagina van een sociaal netwerk van een uitwisselingspartner.",
+		"id": "f76f4106-ec22-4ccb-986d-4c41e6774f79",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een nieuwsgroep informatie uitwisselen over de eigen vrijetijdsbesteding (PU).",
-		"id": "b1798391-b42a-4afa-8d21-da8d1f18e478"
+		"title": "In een nieuwsgroep informatie uitwisselen over je eigen vrijetijdsbesteding.",
+		"id": "b1798391-b42a-4afa-8d21-da8d1f18e478",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een nieuwsgroep zijn/haar mening geven over een onderwerp en reageren op de mening van anderen (PU).",
-		"id": "3a3b6568-4803-48b4-94ce-dcf667c5d7f1"
+		"title": "In een nieuwsgroep je mening geven over een onderwerp en reageren op de mening van anderen.",
+		"id": "3a3b6568-4803-48b4-94ce-dcf667c5d7f1",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een chatsessie zijn/haar teleurstelling uiten over het niet doorgaan van een concert of afspraak (DL).",
-		"id": "92a347ce-844c-407d-ab9d-61063800a167"
+		"title": "In een chatsessie je teleurstelling uiten over het niet doorgaan van een concert of afspraak.",
+		"id": "92a347ce-844c-407d-ab9d-61063800a167",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Met enige inspanning deelnemen aan een live chatdiscussie (DL).",
@@ -8245,6 +8255,72 @@
 		"id": "a19768a2-fd26-4556-b9b7-9f08b2938287",
 		"prefix": "",
 		"title": "Een bijdrage leveren in een thread met online reiservaringen en -tips.",
+		"description": ""
+	},
+	{
+		"id": "cc191a69-c123-410e-b56b-d39daeecf5c4",
+		"prefix": "",
+		"title": "Bijdragen aan een forum verbonden aan een cultureel evenement of op de website van een festival.",
+		"description": ""
+	},
+	{
+		"id": "2367e2c8-d04d-40e4-97db-5187849a194a",
+		"prefix": "",
+		"title": "Concertervaringen delen.",
+		"description": ""
+	},
+	{
+		"id": "a1c566f6-d6b0-4cd7-982d-7fcd77c1f7a1",
+		"prefix": "",
+		"title": "Een blog of een vlog als bijdrage in een forum online plaatsen van een bezoek aan een festival of sportevenement.",
+		"description": ""
+	},
+	{
+		"id": "7dcb0bd2-47fa-4750-ad11-b43400a09464",
+		"prefix": "",
+		"title": "Online verslag doen van deelname aan een inzamelingsactie met toevoeging van foto's/video.",
+		"description": ""
+	},
+	{
+		"id": "4a8c4275-5736-473a-b11a-c6374e24c02a",
+		"prefix": "",
+		"title": "Deelnemen aan een online les met meerdere klasgenoten.",
+		"description": ""
+	},
+	{
+		"id": "5170b635-89b1-4cdb-8c32-6fc870c792ab",
+		"prefix": "",
+		"title": "Online deelnemen aan een groepsopdracht in een breakout room.",
+		"description": ""
+	},
+	{
+		"id": "dcefec8d-202c-4d36-8103-3a1b44085e0f",
+		"prefix": "",
+		"title": "Bijdragen in een online poll als onderdeel van een interactieve webinar.",
+		"description": ""
+	},
+	{
+		"id": "e8216fe0-4968-4fcb-98fb-89a7e151e59c",
+		"prefix": "",
+		"title": "Communiceren met je collega's in de afgesloten community op je werk.",
+		"description": ""
+	},
+	{
+		"id": "a854756f-d0e7-401b-baaa-8d494540f370",
+		"prefix": "",
+		"title": "Een online uitwisseling waar leeftijdsgenoten in een andere taal praten en jij in je eigen taal mag beantwoorden.",
+		"description": ""
+	},
+	{
+		"id": "03fedb38-cb1e-452d-bfd8-8e4a58e64d4b",
+		"prefix": "",
+		"title": "Een webinar waar je vooral volgt wat er wordt gezegd en een keer iets post in de chat of je zegt iets over een eigen ervaring.",
+		"description": ""
+	},
+	{
+		"id": "af660856-8299-4adc-87e0-cdc9a8b7aec1",
+		"prefix": "",
+		"title": "Het in acht nemen van de gedragsregels voor respectvolle en gepaste communicatie en van cultuurspecifieke aspecten in de communicatie op het internet.",
 		"description": ""
 	}
 ]
