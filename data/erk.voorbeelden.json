@@ -4732,16 +4732,22 @@
 		"description": ""
 	},
 	{
-		"title": "Met enige inspanning deelnemen aan een live chatdiscussie (DL).",
-		"id": "049480c0-14c4-4d66-9ef4-e8c933861cb6"
+		"title": "Een probleem bespreken in een online meeting van je sportclub en in je bijdrage reageren op standpunten van andere leden.",
+		"id": "049480c0-14c4-4d66-9ef4-e8c933861cb6",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Met enige inspanning deelnemen aan een live chatdiscussie (DL).",
-		"id": "66839ff0-f82d-4036-b010-609e7fec2ad3"
+		"title": "Meedoen aan een discussiegroep op internet over een actueel onderwerp.",
+		"id": "66839ff0-f82d-4036-b010-609e7fec2ad3",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Meedoen aan een discussiegroep op internet over een actueel onderwerp: de eigen mening geven en standpunten van anderen becommentariëren (DL).",
-		"id": "6f3d13b1-84cc-4920-a8dc-1585a2f279f4"
+		"title": "Deelnemen aan een online vergadering van het productieteam van een cultureel of sport evenement.",
+		"id": "6f3d13b1-84cc-4920-a8dc-1585a2f279f4",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"id": "0239c5a5-d3e1-451a-a068-b5cf6840a0e1",
@@ -8321,6 +8327,42 @@
 		"id": "af660856-8299-4adc-87e0-cdc9a8b7aec1",
 		"prefix": "",
 		"title": "Het in acht nemen van de gedragsregels voor respectvolle en gepaste communicatie en van cultuurspecifieke aspecten in de communicatie op het internet.",
+		"description": ""
+	},
+	{
+		"id": "98102144-9479-4f4f-ac62-f61d85008210",
+		"prefix": "",
+		"title": "Gespreksleider zijn in een online discussie tijdens een training voor werk of opleiding.",
+		"description": ""
+	},
+	{
+		"id": "30dd5e95-5790-46ae-b58a-c641837b7c2e",
+		"prefix": "",
+		"title": "Als gespreksleider onenigheden managen tijdens een online bijeenkomst.",
+		"description": ""
+	},
+	{
+		"id": "3aadbaf2-a829-4008-9ea9-71754bd25f58",
+		"prefix": "",
+		"title": "In een chatgesprek een zorgvuldige reactie plaatsen om misverstanden te verhelderen.",
+		"description": ""
+	},
+	{
+		"id": "4600b0b2-8d6a-422d-bb95-1c421e7a7560",
+		"prefix": "",
+		"title": "Een online conversatie over een recente gebeurtenis uit de actualiteit.",
+		"description": ""
+	},
+	{
+		"id": "85f1e6e0-e412-41f2-ab45-8ac76b0d9980",
+		"prefix": "",
+		"title": "Reageren op een discussie in een internationale besloten facebookgroep.",
+		"description": ""
+	},
+	{
+		"id": "caff07a2-b3b9-49fb-9d21-8dd716fb842e",
+		"prefix": "",
+		"title": "Deelnemen aan online praatgroep met mensen uit diverse omgevingen en een sociaal probleem bespreken zonder iemand te kwetsen.",
 		"description": ""
 	}
 ]
