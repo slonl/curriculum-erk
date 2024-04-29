@@ -13859,7 +13859,9 @@
 		],
 		"erk_voorbeeld_id": [
 			"47be4729-b375-45b2-bba1-e9469f1622bb",
-			"f76f4106-ec22-4ccb-986d-4c41e6774f79"
+			"f76f4106-ec22-4ccb-986d-4c41e6774f79",
+			"cc191a69-c123-410e-b56b-d39daeecf5c4",
+			"2367e2c8-d04d-40e4-97db-5187849a194a"
 		],
 		"title": "Kan persoonlijke berichten op internet plaatsen over ervaringen, gevoelens en gebeurtenissen en in enig detail afzonderlijk reageren op de commentaren van anderen, hoewel lexicale beperkingen soms zorgen voor herhaling en ongepaste formuleringen.",
 		"id": "9e36fd2c-817a-4f61-8bdc-1548d7009242",
@@ -13887,7 +13889,12 @@
 		"title": "Kan online verslag doen van sociale gebeurtenissen, ervaringen en activiteiten en daarbij verwijzen naar ingesloten koppelingen en media en persoonlijke gevoelens delen.",
 		"id": "96a0c42a-a0b6-481d-ab9d-33825764edb4",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"a1c566f6-d6b0-4cd7-982d-7fcd77c1f7a1",
+			"7dcb0bd2-47fa-4750-ad11-b43400a09464",
+			"7dcb0bd2-47fa-4750-ad11-b43400a09464"
+		]
 	},
 	{
 		"niveau_id": [
@@ -13896,7 +13903,16 @@
 		"title": "Kan deelnemen aan rechtstreekse online-uitwisselingen met meer dan één deelnemer en daarbij de communicatieve bedoelingen van elke bijdrage herkennen, maar begrijpt mogelijk niet alle details of implicaties zonder verdere uitleg.",
 		"id": "ef411fc1-a588-4a27-8785-f545ca0fcb87",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"4a8c4275-5736-473a-b11a-c6374e24c02a",
+			"5170b635-89b1-4cdb-8c32-6fc870c792ab",
+			"dcefec8d-202c-4d36-8103-3a1b44085e0f",
+			"e8216fe0-4968-4fcb-98fb-89a7e151e59c",
+			"a854756f-d0e7-401b-baaa-8d494540f370",
+			"03fedb38-cb1e-452d-bfd8-8e4a58e64d4b",
+			"af660856-8299-4adc-87e0-cdc9a8b7aec1"
+		]
 	},
 	{
 		"niveau_id": [
