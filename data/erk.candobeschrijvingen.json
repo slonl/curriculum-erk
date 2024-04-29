@@ -13919,7 +13919,12 @@
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
 		"title": "Kan misverstanden en onenigheden die zich voordoen in een online-interactie herkennen en hiermee omgaan, mits de gesprekspartner(s) bereid is/zijn mee te werken.",
-		"id": "c96aa4a6-ab6d-4df4-a682-446101873815"
+		"id": "c96aa4a6-ab6d-4df4-a682-446101873815",
+		"erk_voorbeeld_id": [
+			"98102144-9479-4f4f-ac62-f61d85008210",
+			"30dd5e95-5790-46ae-b58a-c641837b7c2e",
+			"3aadbaf2-a829-4008-9ea9-71754bd25f58"
+		]
 	},
 	{
 		"niveau_id": [
@@ -13939,7 +13944,8 @@
 		],
 		"erk_voorbeeld_id": [
 			"66839ff0-f82d-4036-b010-609e7fec2ad3",
-			"6f3d13b1-84cc-4920-a8dc-1585a2f279f4"
+			"6f3d13b1-84cc-4920-a8dc-1585a2f279f4",
+			"4600b0b2-8d6a-422d-bb95-1c421e7a7560"
 		],
 		"title": "Kan actief deelnemen aan een onlinediscussie en tamelijk uitgebreid standpunten uiten en op standpunten van anderen reageren met betrekking tot belangwekkende onderwerpen, mits de bijdragers ongebruikelijk of complex taalgebruik vermijden en genoeg tijd geven om te antwoorden.",
 		"id": "f205b086-5fdf-4e9f-80d8-bc79b95f0d3a"
@@ -13951,7 +13957,11 @@
 		"title": "Kan deelnemen aan online-uitwisselingen en daarbij de eigen bijdragen in verband brengen met andere in de discussie, culturele implicaties begrijpen en er adequaat op reageren.",
 		"id": "c2bd3690-4aa9-45c1-9a30-601c907e3595",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"85f1e6e0-e412-41f2-ab45-8ac76b0d9980",
+			"caff07a2-b3b9-49fb-9d21-8dd716fb842e"
+		]
 	},
 	{
 		"niveau_id": [
