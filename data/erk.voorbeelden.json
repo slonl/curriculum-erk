@@ -4264,20 +4264,28 @@
 		"description": ""
 	},
 	{
-		"title": "Op vakantie in het buitenland bij de apotheek je symptomen van verkoudheid of griep vertellen om de juiste medicatie te krijgen (PU).",
-		"id": "e2768132-fd21-4538-950c-f42021499e88"
+		"title": "Op vakantie in het buitenland bij de apotheek je symptomen vertellen om de juiste medicatie te krijgen, zoals voor hoofdpijn, koorts of door welk dier je gebeten/gestoken bent.",
+		"id": "e2768132-fd21-4538-950c-f42021499e88",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Zelf over een nieuw onderwerp beginnen tijdens een vraaggesprek (XX).",
-		"id": "a68f4564-f47b-4f3b-ac41-42893f899f95"
+		"title": "Zelf over een nieuw onderwerp beginnen tijdens een vraaggesprek.",
+		"id": "a68f4564-f47b-4f3b-ac41-42893f899f95",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Voorstellen om over te gaan tot een andere activiteit, bijvoorbeeld om eerst te pauzeren (OPL, WE).",
-		"id": "de135c07-203a-4482-b716-5b9ede05a0f3"
+		"title": "Voorstellen om over te gaan tot een andere activiteit, zoals om eerst te pauzeren.",
+		"id": "de135c07-203a-4482-b716-5b9ede05a0f3",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een huisarts duidelijk maken dat je nóg een klacht hebt die je wilt bespreken (PU).",
-		"id": "37f57cf6-8795-40c6-adb6-e006ff1e56bf"
+		"title": "In een sollicitatiegesprek voor een bijbaantje een vraag stellen over de werktijden.",
+		"id": "37f57cf6-8795-40c6-adb6-e006ff1e56bf",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een interview houden met mensen op straat in een buitenlandse stad (OPL).",
@@ -9499,6 +9507,48 @@
 		"id": "19712d10-4980-402d-87e8-df1e08c8c937",
 		"prefix": "",
 		"title": "Een discussie ter gelegenheid van de viering van 1 mei, over mensen die de dupe zijn van slechte arbeidsomstandigheden, uitbuiting en onrecht.",
+		"description": ""
+	},
+	{
+		"id": "2de22435-8ea5-40e5-a081-45402ae220b0",
+		"prefix": "",
+		"title": "Antwoord geven als gevraagd wordt waar het pijn doet en of het erg is.",
+		"description": ""
+	},
+	{
+		"id": "ec383586-7faa-4909-8a33-974a6b0182f6",
+		"prefix": "",
+		"title": "Aangeven waar het pijn doet en hoelang je daar al last van hebt.",
+		"description": ""
+	},
+	{
+		"id": "a346e4ed-c3c1-43fa-b662-4c2cd59b013c",
+		"prefix": "",
+		"title": "Aangeven waar je gebeten of gestoken bent en door welk dier.",
+		"description": ""
+	},
+	{
+		"id": "eb5de1e5-ddc3-4537-b4d6-b0c8eeb6c488",
+		"prefix": "",
+		"title": "Aan een dokter in het buitenland aangeven waar je precies last hebt van je knie of arm.",
+		"description": ""
+	},
+	{
+		"id": "1b5bddcd-97b1-4b8e-9fdb-aecc5a56726f",
+		"prefix": "",
+		"title": "Een huisarts duidelijk maken dat je nóg een klacht hebt die je wilt bespreken.",
+		"description": ""
+	},
+	{
+		"id": "a837d077-3d72-4e06-9b1f-21dc8549d218",
+		"prefix": "",
+		"title": "Aan een huisgenoot uitleggen dat je pijn hebt aan je been door het sporten en vragen of je huisgenoot tips heeft.",
+		"description": ""
+	},
+	{
+		"id": "187ef0c8-bc3c-418e-8e12-b3412b274a5a",
+		"prefix": "",
+		"title": "Advies inwinnen bij een apotheek op basis van het beschrijven van klachten. ",
 		"description": ""
 	}
 ]
