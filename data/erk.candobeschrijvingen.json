@@ -14994,7 +14994,10 @@
 		"id": "8707bfda-9136-45a5-92bf-ed96e830ac47",
 		"prefix": "",
 		"title": "Kan in een vraaggesprek antwoord geven op eenvoudige rechtstreekse vragen over persoonlijke gegevens die zeer langzaam en helder worden gesteld in directe, niet-idiomatische taal.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"428324fe-5fef-4b27-a28a-23c86c195e59"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15003,7 +15006,11 @@
 		"id": "1392f2d8-6bf2-46aa-a6ff-1da1338c0912",
 		"prefix": "",
 		"title": "Kan in een vraaggesprek eenvoudige vragen beantwoorden en reageren op eenvoudige uitspraken.\n",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"4ea072b6-cdcc-4b89-9ce8-8511742419a2",
+			"21d50c23-bf12-4ede-86ca-b5be1dcbf7ee"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15012,7 +15019,13 @@
 		"id": "907f757b-b7b9-40b2-acae-ed9f1aa83020",
 		"prefix": "",
 		"title": "Kan zich begrijpelijk maken in een vraaggesprek en ideeën en informatie over vertrouwde onderwerpen overbrengen, mits vragen om opheldering en enige hulp bij het formuleren van de boodschap mogelijk is.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"4d608976-167d-4613-9ed5-f5aa88e57f3d",
+			"cc9e13b8-84b0-40c7-9c7e-3c514f98bdb1",
+			"b94862bc-f7d1-42f6-96e7-35818a5315b2",
+			"5beaa01e-6a88-4099-93f5-982e8da0f4f1"
+		]
 	},
 	{
 		"niveau_id": [
