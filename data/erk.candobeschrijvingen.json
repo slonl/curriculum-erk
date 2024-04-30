@@ -14065,7 +14065,13 @@
 		"title": "Kan keuzes maken in een eenvoudig aankoop- of aanvraagformulier online, mits er visuele ondersteuning is.",
 		"id": "d8574f57-fd7e-4b77-9634-3a2b0c9f25da",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"a5a1f6c0-38f7-4fbf-8077-14ff0618a043",
+			"19872830-e88d-4c87-a959-06038c0bea42",
+			"90a68a09-2dbe-425d-a2e6-0b251d503176",
+			"428a7872-6c71-41b2-b68c-1a9b3d90ff37"
+		]
 	},
 	{
 		"niveau_id": [
@@ -14074,7 +14080,12 @@
 		"title": "Kan een zeer eenvoudige online aankoop of aanvraag doen en daarbij elementaire persoonlijke gegevens verstrekken.",
 		"id": "563e3bda-4688-4a23-8b7b-e95cbd8528a1",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"222bd23d-7b22-4137-8a44-6b6f79cf0de4",
+			"b17485d3-ae7f-4de0-b77c-87689794c1c3",
+			"6d9e889d-05b8-475c-bbf3-f43c72bd01d9"
+		]
 	},
 	{
 		"niveau_id": [
