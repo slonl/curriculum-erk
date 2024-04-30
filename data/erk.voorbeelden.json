@@ -4288,28 +4288,40 @@
 		"description": ""
 	},
 	{
-		"title": "Een interview houden met mensen op straat in een buitenlandse stad (OPL).",
-		"id": "742ede36-bfb6-44af-b1bc-a9819732da65"
+		"title": "Een interview houden met mensen op straat in een buitenlandse stad.",
+		"id": "742ede36-bfb6-44af-b1bc-a9819732da65",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een interview houden met een buitenlander die in je omgeving woont (OPL).",
-		"id": "27dcaff7-663e-48a1-bebb-d0c93a0eda75"
+		"title": "Een interview houden met een buitenlander die in je omgeving woont.",
+		"id": "27dcaff7-663e-48a1-bebb-d0c93a0eda75",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Symptomen beschrijven aan een arts (PU).",
-		"id": "a5a235c9-2032-4e13-813a-33dafcb1e037"
+		"title": "Symptomen aan een arts proberen te verduidelijken.",
+		"id": "a5a235c9-2032-4e13-813a-33dafcb1e037",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een voortgangsgesprek voeren met een buitenlandse stagebegeleider (OPL).",
-		"id": "a5b7403f-e842-437c-9194-226b1d9d4d99"
+		"title": "Een voortgangsgesprek voeren met een buitenlandse stagebegeleider.",
+		"id": "a5b7403f-e842-437c-9194-226b1d9d4d99",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Tijdens een verblijf in het buitenland voor de plaatselijke tv vragen beantwoorden over de eigen ervaringen in het land (DL, OPL).",
-		"id": "0e141af5-d3d8-4505-b2ee-b3895bb0f6a1"
+		"title": "Tijdens een verblijf in het buitenland voor de plaatselijke tv vragen beantwoorden over de eigen ervaringen in het land.",
+		"id": "0e141af5-d3d8-4505-b2ee-b3895bb0f6a1",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een interview houden met een buitenlander die een interessante baan heeft in Nederland, en tijdens het gesprek regelmatig de informatie controleren en bevestigen om goede aantekeningen te kunnen maken voor het uitwerken van het gesprek (OPL, WE).",
-		"id": "9f24249d-8431-4369-b825-b4080db6c767"
+		"title": "Iemand uit het buitenland interviewen die een interessante baan heeft in Nederland, en tijdens het gesprek regelmatig de informatie controleren en bevestigen om goede aantekeningen te kunnen maken voor het uitwerken van het gesprek.",
+		"id": "9f24249d-8431-4369-b825-b4080db6c767",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Tijdens een straatinterview toelichten wat je opmerkelijk vindt aan de vreemde stad/streek, in vergelijking met de eigen stad/streek (DL).",
@@ -9549,6 +9561,36 @@
 		"id": "187ef0c8-bc3c-418e-8e12-b3412b274a5a",
 		"prefix": "",
 		"title": "Advies inwinnen bij een apotheek op basis van het beschrijven van klachten. ",
+		"description": ""
+	},
+	{
+		"id": "55927631-50ad-40c3-a6dd-0261af9dc075",
+		"prefix": "",
+		"title": "Een sollicitatiegesprek voeren voor een vakantiebaantje in het buitenland.",
+		"description": ""
+	},
+	{
+		"id": "e643c0e7-d176-49fa-8ed4-0d5ac006c5c0",
+		"prefix": "",
+		"title": "Vragen beantwoorden tijdens een aangifte.",
+		"description": ""
+	},
+	{
+		"id": "b7a254c1-705a-4439-b222-de81a95db16c",
+		"prefix": "",
+		"title": "Een mening geven over klimaatverandering tijdens een mondeling examen.",
+		"description": ""
+	},
+	{
+		"id": "ef80c59a-e170-4d86-afc7-86ab44140a0f",
+		"prefix": "",
+		"title": "Mensen interviewen over de voor- en nadelen van het wonen in Nederland.",
+		"description": ""
+	},
+	{
+		"id": "60d4ea94-7a0b-4226-b79d-f429f360ff76",
+		"prefix": "",
+		"title": "Een ervaringsdeskundige interviewen over het leven als au pair in een gastgezin.",
 		"description": ""
 	}
 ]
