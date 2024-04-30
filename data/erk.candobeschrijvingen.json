@@ -14284,7 +14284,11 @@
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
 		"title": "Kan effectief omgaan met communicatieproblemen en culturele kwesties die zich voordoen tijdens een samenwerkende of transactionele uitwisseling online door opnieuw te formuleren, zaken te verduidelijken en voorbeelden te geven aan de hand van media (visueel, audio, grafisch).",
-		"id": "3c0fe896-9101-41b1-805e-32078a2f9d73"
+		"id": "3c0fe896-9101-41b1-805e-32078a2f9d73",
+		"erk_voorbeeld_id": [
+			"76996bc2-dbf2-4ff8-85f6-52784e07c327",
+			"747fa2e5-2c78-4ed4-b3fc-27285f05c853"
+		]
 	},
 	{
 		"niveau_id": [
@@ -14293,16 +14297,23 @@
 		"title": "Kan deelnemen aan complexe projecten waarvoor samen moet worden geschreven en herschreven, alsmede andere vormen van online samenwerking, waarbij instructies nauwkeurig moeten worden opgevolgd en overgebracht om het doel te bereiken.\n",
 		"id": "6c26f642-9643-4afa-8c2e-a39e1ddb7aea",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"033b40fa-9a44-48e4-b55e-00644edbc927"
+		]
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan omgaan met complexe online transacties in een dienstverlenende rol (bijvoorbeeld toepassingen met gecompliceerde vereisten) en daarbij de taal flexibel aanpassen om de discussie en onderhandeling te leiden.",
+		"title": "Kan omgaan met complexe online transacties in een dienstverlenende rol en daarbij de taal flexibel aanpassen om de discussie en onderhandeling te leiden.",
 		"id": "fe86870b-5617-4e4a-af09-a2b6ad85fa2a",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"fea59dbc-1b8a-4896-812b-86ea6e9165cb",
+			"bcccfe7f-6a56-4481-baec-74a3a648ce71"
+		]
 	},
 	{
 		"niveau_id": [
@@ -14311,7 +14322,16 @@
 		"title": "Kan een groep coördineren die samenwerkt aan een online project en daarbij gedetailleerde instructies formuleren en herzien, voorstellen van teamleden evalueren en verduidelijking geven om de gedeelde taken te kunnen volbrengen.",
 		"id": "26d67c8f-0c70-47a3-83ec-3f6ded510738",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"43792473-b8cb-40de-8b79-35482272f887",
+			"1affba42-2c4a-42d3-bbff-314c72af6126",
+			"0b7da0ef-129c-43c0-845d-598d696f21f9",
+			"1c8d55fa-c263-4ee2-81d3-a2b8f242cd23",
+			"dad95276-a30e-4704-a6e1-12a1f738e5de",
+			"6e2cc248-b373-454f-9889-69cb65ad6536",
+			"9bf2b2b0-7ed1-4039-9402-43e39df96222"
+		]
 	},
 	{
 		"niveau_id": [
