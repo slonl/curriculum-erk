@@ -4186,52 +4186,74 @@
 		"description": ""
 	},
 	{
-		"title": "Over toelatingseisen bij een buitenlandse opleiding (OPL).",
-		"id": "69933219-8b5f-4a0f-97d6-3e7d70b2d24a"
+		"title": "Een ongeluk melden en beschrijven bij de alarmcentrale.",
+		"id": "69933219-8b5f-4a0f-97d6-3e7d70b2d24a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over verschillende reismogelijkheden (DL, PU).",
-		"id": "dceae159-4fb3-4ab4-a60c-08de0e9de5ed"
+		"title": "De toelatingseisen bij een buitenlandse opleiding doorgeven.",
+		"id": "dceae159-4fb3-4ab4-a60c-08de0e9de5ed",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over hoe een computerstoring is opgelost (XX).",
-		"id": "55e62319-d38b-4a1d-8ebf-29c34429697c"
+		"title": "Verschillende reismogelijkheden toelichten.",
+		"id": "55e62319-d38b-4a1d-8ebf-29c34429697c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Over hoe software of een digitale applicatie werkt (DL, OPL, WE).",
 		"id": "0493473d-d076-4129-840e-0616d8f921d3"
 	},
 	{
-		"title": "Over leveringsvoorwaarden (PU, WE).",
-		"id": "c0cb1025-3012-40ee-b06d-3b733da0c983"
+		"title": "Over leveringsvoorwaarden.",
+		"id": "c0cb1025-3012-40ee-b06d-3b733da0c983",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Op een beurs de mogelijkheden van een nieuw product bespreken (DL, PU, WE).",
-		"id": "b729e73f-6cc0-4f79-bf6c-18399574ba0a"
+		"title": "Op een beurs de mogelijkheden van een nieuw product bespreken.",
+		"id": "b729e73f-6cc0-4f79-bf6c-18399574ba0a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Met een kennis de voor- en nadelen van bepaalde ICT-toepassingen bespreken (DL).",
-		"id": "23ff2aa2-0073-4628-8800-93ce3f371932"
+		"title": "Met een kennis de voor- en nadelen van bepaalde ICT-toepassingen bespreken.",
+		"id": "23ff2aa2-0073-4628-8800-93ce3f371932",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Plannen voor uitwisselingsprojecten met de buitenlandse partnerinstelling doornemen (OPL, WE).",
-		"id": "3223f860-c15f-4bb2-99c1-771e801074ec"
+		"title": "Plannen voor uitwisselingsprojecten met de buitenlandse partnerinstelling doornemen.",
+		"id": "3223f860-c15f-4bb2-99c1-771e801074ec",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een gebeurtenis in details beschrijven aan een vriend/in aan de telefoon (DL).",
-		"id": "192efafe-a894-4146-90de-46b00a0485f3"
+		"title": "Een gebeurtenis in details beschrijven aan een vriend/in aan de telefoon.",
+		"id": "192efafe-a894-4146-90de-46b00a0485f3",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De laatste details voor een schoolbezoek telefonisch of in een videogesprek regelen met een buitenlandse partner (OPL).",
-		"id": "ce67dba4-e61d-46a4-b5e3-6cda524d4fd7"
+		"title": "De laatste details voor een schoolbezoek telefonisch of in een videogesprek regelen met een buitenlandse partner.",
+		"id": "ce67dba4-e61d-46a4-b5e3-6cda524d4fd7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Als woordvoerder van je werkgroep antwoord geven op vragen over een gezamenlijk project (OPL, WE).",
-		"id": "fa443570-7cd0-4999-8271-1b48f6975f2a"
+		"title": "Als woordvoerder van je werkgroep antwoord geven op vragen over een gezamenlijk project.",
+		"id": "fa443570-7cd0-4999-8271-1b48f6975f2a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Ideeën voor promotie van een boek of product bespreken (WE).",
-		"id": "478decc1-792c-41d7-8009-deb600ca9361"
+		"title": "Ideeën voor promotie van een boek of product bespreken.",
+		"id": "478decc1-792c-41d7-8009-deb600ca9361",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Op vakantie in het buitenland bij de apotheek je symptomen van verkoudheid of griep vertellen om de juiste medicatie te krijgen (PU).",
@@ -9205,6 +9227,24 @@
 		"id": "c3add193-5b08-4a2e-aa4d-76480fcb14e1",
 		"prefix": "",
 		"title": "Een hoofdstuk of kort verhaal samenvatten.",
+		"description": ""
+	},
+	{
+		"id": "225b4e38-cf60-46be-abc0-6293600ee21d",
+		"prefix": "",
+		"title": "Hoe een computerstoring is opgelost.",
+		"description": ""
+	},
+	{
+		"id": "06cbd70d-8b51-44d5-8b86-beddaa4502dd",
+		"prefix": "",
+		"title": "Hoe software of een digitale applicatie werkt.",
+		"description": ""
+	},
+	{
+		"id": "c55f28e2-8334-4a7e-a1ca-78ecf8becdee",
+		"prefix": "",
+		"title": "Hoe het gebruik van Artificial Intelligence kan bijdragen aan de werkopdracht.",
 		"description": ""
 	}
 ]
