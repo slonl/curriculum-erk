@@ -3798,56 +3798,82 @@
 		"id": "9721dd5f-2c35-43de-abe1-2114d4251520"
 	},
 	{
-		"title": "Vragen waar het station, de wc of een pinautomaat is DL).",
-		"id": "46c0d6bd-99a5-4f87-b537-6fc06f2dbdf0"
+		"title": "Vragen hoe oud iemand is en zeggen hoe oud je zelf bent.",
+		"id": "46c0d6bd-99a5-4f87-b537-6fc06f2dbdf0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vragen stellen over een product of kaartje ('voor een concert/het is een cadeau') (DL).",
-		"id": "7847978c-b5ed-49a6-b182-d872971b931f"
+		"title": "Vragen over een product of kaartje stellen en beantwoorden.",
+		"id": "7847978c-b5ed-49a6-b182-d872971b931f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vragen naar naam en adres van een restaurant of een hotel (XX).",
-		"id": "05ce956f-c689-4f93-82a5-db1d81ff554e"
+		"title": "Vragen naar naam en adres van een winkel of restaurant.",
+		"id": "05ce956f-c689-4f93-82a5-db1d81ff554e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Adresgegevens van een bedrijf of een winkel verstrekken (XX).",
-		"id": "2c619dc5-05ef-4d09-a3ab-221dff4187eb"
+		"title": "Adresgegevens van een bedrijf of een winkel verstrekken.",
+		"id": "2c619dc5-05ef-4d09-a3ab-221dff4187eb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vragen om namen en adressen te spellen (XX).",
-		"id": "857833b4-3bfc-4142-9b2a-dd9baeae908e"
+		"title": "Vragen om namen en adressen te spellen.",
+		"id": "857833b4-3bfc-4142-9b2a-dd9baeae908e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een aantal bekende woorden zoals je eigen naam spellen (XX).",
-		"id": "c6667c76-a444-49aa-9ef4-b893849f31fb"
+		"title": "Vragen waar iemand woont en zeggen waar je zelf woont.",
+		"id": "c6667c76-a444-49aa-9ef4-b893849f31fb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De spelling van bekende woorden zeggen en verstaan (XX).",
-		"id": "00ffa2e8-0778-4410-869f-9a5b224cde5a"
+		"title": "Vragen of je mee mag doen met een spel of iemand uitnodigen om mee te spelen.",
+		"id": "00ffa2e8-0778-4410-869f-9a5b224cde5a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vertellen wat je gaat doen/welke plaatsen je gaat bezoeken tijdens je vakantie (DL).",
-		"id": "f144ec79-789d-469f-935e-1bafd07179d8"
+		"title": "Vragen waar het station, de wc of een pinautomaat is.",
+		"id": "f144ec79-789d-469f-935e-1bafd07179d8",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over familie en vrienden (DL).",
-		"id": "1121b361-bd25-4561-927f-04c9e6eeaadb"
+		"title": "Over familie en vrienden, bijvoorbeeld hoe ze heten, hoe oud ze zijn e waar ze wonen.",
+		"id": "1121b361-bd25-4561-927f-04c9e6eeaadb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over waar je vandaan komt, waar je woont (DL).",
-		"id": "2a9bf587-8fbb-4e9b-a27b-2c8da288d747"
+		"title": "Over je woonplaats en het land van herkomst.",
+		"id": "2a9bf587-8fbb-4e9b-a27b-2c8da288d747",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over wat voor werk je doet (DL).",
-		"id": "070a4cc9-816d-434e-a0f3-0757813c8e59"
+		"title": "Over je school, studie of beroep.",
+		"id": "070a4cc9-816d-434e-a0f3-0757813c8e59",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over je eigen leeftijd of die van familieleden (DL).",
-		"id": "86aa914d-6ae3-43a1-b5f5-6a7622a37f46"
+		"title": "Over je leeftijd.",
+		"id": "86aa914d-6ae3-43a1-b5f5-6a7622a37f46",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over een huisdier (DL).",
-		"id": "3d2daeae-1dd5-4266-bad3-f675a1973dc3"
+		"title": "Over huisdieren, hobby's, voorwerpen en bezittingen in en om het huis.",
+		"id": "3d2daeae-1dd5-4266-bad3-f675a1973dc3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Over je eigen kamer (DL).",
@@ -8927,6 +8953,36 @@
 		"id": "b75481ea-ad67-4068-8ca4-6d84365d9677",
 		"prefix": "",
 		"title": "Hoe heet de ...? ",
+		"description": ""
+	},
+	{
+		"id": "3243866a-71d6-4525-9477-0ba5998e0499",
+		"prefix": "",
+		"title": "Vragen naar de prijs van een brood, een toegangskaartje of een hotelovernachting en het antwoord begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "44b924ef-4aca-4e53-866f-387f36886d37",
+		"prefix": "",
+		"title": "Vragen wanneer een les, een voorstelling of een afspraak met de huisarts begint en het antwoord begrijpen.",
+		"description": ""
+	},
+	{
+		"id": "0c2e3e4e-2c29-40ef-b763-d97ad73f0d7e",
+		"prefix": "",
+		"title": "Hoeveel passagiers er in  het achtbaankarretje mogen.",
+		"description": ""
+	},
+	{
+		"id": "10b7a08c-4f9d-4a55-bdb3-4e4728bc4506",
+		"prefix": "",
+		"title": "Hoeveel ingrediënten je nodig hebt voor een recept.",
+		"description": ""
+	},
+	{
+		"id": "acd26717-1d3e-491f-b190-50300762482c",
+		"prefix": "",
+		"title": "Het aantal pillen dat moet worden ingenomen.",
 		"description": ""
 	}
 ]
