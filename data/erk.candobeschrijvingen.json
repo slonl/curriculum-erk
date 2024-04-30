@@ -15215,8 +15215,13 @@
 		],
 		"id": "5927970b-f2b0-46f2-b8f3-630566b0ccc4",
 		"prefix": "",
-		"title": "Kan een aantal vertrouwde woorden begrijpen en herkent essentiële informatie (bijvoorbeeld getallen, prijzen, data en dagen van de week), mits deze zeer langzaam wordt overgebracht en zo nodig wordt herhaald.",
-		"description": ""
+		"title": "Kan een aantal vertrouwde woorden begrijpen en herkent essentiële informatie, mits deze zeer langzaam wordt overgebracht en zo nodig wordt herhaald.",
+		"description": "",
+		"erk_voorbeeld_id": [
+			"a63af151-bf8f-4060-bac9-06ec477615af",
+			"5eb566ec-c28f-48a2-83e2-bb2f5bb92a20",
+			"b430e055-918c-463d-b75e-2e1320b81d3e"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15224,8 +15229,12 @@
 		],
 		"id": "093b3545-be1c-44de-b470-cfc1a8a75ecb",
 		"prefix": "",
-		"title": "Kan eenvoudige persoonlijke informatie begrijpen (bijvoorbeeld naam, leeftijd, woonplaats, afkomst) als andere mensen zich persoonlijk langzaam en duidelijk voorstellen, en kan vragen over deze onderwerpen begrijpen, hoewel de vragen misschien wel herhaald moeten worden.",
-		"description": ""
+		"title": "Kan eenvoudige persoonlijke informatie begrijpen als andere mensen zich persoonlijk langzaam en duidelijk voorstellen, en kan vragen over deze onderwerpen begrijpen, hoewel de vragen misschien wel herhaald moeten worden.",
+		"description": "",
+		"erk_voorbeeld_id": [
+			"dc3c7643-711a-4945-971a-766d2438c13a",
+			"46b4ea74-eef6-4d39-ac2d-80db47552341"
+		]
 	},
 	{
 		"niveau_id": [
