@@ -12181,7 +12181,6 @@
 			"69933219-8b5f-4a0f-97d6-3e7d70b2d24a",
 			"dceae159-4fb3-4ab4-a60c-08de0e9de5ed",
 			"55e62319-d38b-4a1d-8ebf-29c34429697c",
-			"0493473d-d076-4129-840e-0616d8f921d3",
 			"c0cb1025-3012-40ee-b06d-3b733da0c983"
 		],
 		"title": "Kan gedetailleerde informatie betrouwbaar doorgeven.",
@@ -12214,7 +12213,12 @@
 		"title": "Kan de juiste technische terminologie gebruiken bij het uitwisselen van informatie of het bespreken van het eigen specialisatiegebied met andere specialisten.",
 		"id": "eb12dda2-c3a7-4622-b88c-5f9ca884ffea",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"225b4e38-cf60-46be-abc0-6293600ee21d",
+			"06cbd70d-8b51-44d5-8b86-beddaa4502dd",
+			"c55f28e2-8334-4a7e-a1ca-78ecf8becdee"
+		]
 	},
 	{
 		"niveau_id": [
