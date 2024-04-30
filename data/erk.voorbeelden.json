@@ -4426,28 +4426,38 @@
 		"description": ""
 	},
 	{
-		"title": "Een bijeenkomst met collega's regelen via een online gesprek (WE).",
-		"id": "00928bf6-9338-4aee-8e4f-06dfa9572be5"
+		"title": "Via een pakketdienst aangeven waar het pakje neergelegd kan worden.",
+		"id": "00928bf6-9338-4aee-8e4f-06dfa9572be5",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een hotelkamer telefonisch boeken (PU).",
-		"id": "bc7c4364-f32b-4978-b4c2-88464caa4118"
+		"title": "De wegenwacht bellen om uit te leggen wat er mis is met de auto.",
+		"id": "bc7c4364-f32b-4978-b4c2-88464caa4118",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "De artspraktijk bellen voor een afspraak met de dokter (PU).",
 		"id": "e493caac-5f08-449b-b56a-2c2d866257f5"
 	},
 	{
-		"title": "Een probleem in een hotel signaleren (PU).",
-		"id": "9a0395f8-ff42-4378-b3d0-23d9be264bfe"
+		"title": "Een probleem in een hotel signaleren.",
+		"id": "9a0395f8-ff42-4378-b3d0-23d9be264bfe",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een probleem met een boeking bij de touroperator melden (PU).",
-		"id": "11d58caf-c2cc-4030-a13c-fdcfb22c19a6"
+		"title": "Een probleem met een boeking bij de touroperator melden.",
+		"id": "11d58caf-c2cc-4030-a13c-fdcfb22c19a6",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een probleem met een huurauto met het verhuurbedrijf bespreken (PU).",
-		"id": "d5ba6903-1ef9-472a-9a1e-0d24fc7062c3"
+		"title": "Een probleem met een huurauto met het verhuurbedrijf bespreken.",
+		"id": "d5ba6903-1ef9-472a-9a1e-0d24fc7062c3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een ansichtkaart of vakantiegroet.",
@@ -9715,6 +9725,72 @@
 		"id": "5b24754e-7876-423f-996f-b39d1a6aa8af",
 		"prefix": "",
 		"title": "Vrienden uitnodigen om een gezamenlijke activiteit te ondernemen.",
+		"description": ""
+	},
+	{
+		"id": "5bcfbd9f-ee6e-4747-ac50-94ee70bccb91",
+		"prefix": "",
+		"title": "Een buitenlandse klasgenoot bellen om een aanpassing in het rooster en de gevolgen daarvan te melden.",
+		"description": ""
+	},
+	{
+		"id": "51cacc57-40ce-40e6-9078-beb9788df0e3",
+		"prefix": "",
+		"title": "Virtueel bijkletsen met vrienden of familie.",
+		"description": ""
+	},
+	{
+		"id": "25a4c748-db95-4b46-9a21-76a32c6ba773",
+		"prefix": "",
+		"title": "Met je familie de diefstal van je reisdocumenten of je pinpas bespreken.",
+		"description": ""
+	},
+	{
+		"id": "21357340-f8a6-424f-b4f0-fc35469533d9",
+		"prefix": "",
+		"title": "In het buitenland een aanrijding melden bij de alarmcentrale.",
+		"description": ""
+	},
+	{
+		"id": "a463873e-862a-4ba4-9d77-c1340024c750",
+		"prefix": "",
+		"title": "Een klacht van een gast in een hotel, over de slechte service.",
+		"description": ""
+	},
+	{
+		"id": "bb5d1f79-7ed3-4696-b230-f4964d72b526",
+		"prefix": "",
+		"title": "Een gesprek met een klant van een webwinkel, over een slecht werkend apparaat (klantenservice).",
+		"description": ""
+	},
+	{
+		"id": "4189ae10-4532-4014-ab35-efb17cce269b",
+		"prefix": "",
+		"title": "Een gesprek met een zakenrelatie over het te laat of verkeerd leveren van goederen.",
+		"description": ""
+	},
+	{
+		"id": "65b54198-d22f-40ea-9b01-dddff5f528cf",
+		"prefix": "",
+		"title": "Met een leverancier telefonisch bespreken wat te doen met een partij verkeerd afgeleverde producten.",
+		"description": ""
+	},
+	{
+		"id": "f3f87a69-fb89-405b-9bfe-1e1ff5bd0bbe",
+		"prefix": "",
+		"title": "Een intake interview met een buitenlandse opleiding.",
+		"description": ""
+	},
+	{
+		"id": "6ad86794-c60b-48c9-9f44-90529a4ab8d6",
+		"prefix": "",
+		"title": "Een telefonisch sollicitatiegesprek.",
+		"description": ""
+	},
+	{
+		"id": "f3aac08d-cc9c-4e34-9422-80f3e672e5b4",
+		"prefix": "",
+		"title": "Een telefonisch gesprek met je behandelend arts.",
 		"description": ""
 	}
 ]
