@@ -12465,7 +12465,11 @@
 		"title": "Kan telecommunicatie gebruiken voor het voeren van relatief eenvoudige, maar langere gesprekken met kennissen.",
 		"id": "6dda07da-0bb2-4479-b76f-9758e2bdc4d0",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"5bcfbd9f-ee6e-4747-ac50-94ee70bccb91",
+			"51cacc57-40ce-40e6-9078-beb9788df0e3"
+		]
 	},
 	{
 		"niveau_id": [
@@ -12473,11 +12477,12 @@
 		],
 		"erk_voorbeeld_id": [
 			"00928bf6-9338-4aee-8e4f-06dfa9572be5",
-			"bc7c4364-f32b-4978-b4c2-88464caa4118",
-			"e493caac-5f08-449b-b56a-2c2d866257f5"
+			"bc7c4364-f32b-4978-b4c2-88464caa4118"
 		],
 		"title": "Kan telecommunicatie gebruiken voor routineboodschappen en voor het verkrijgen van basisdiensten.",
-		"id": "6465373a-bfbe-45b5-90d0-68a787dea751"
+		"id": "6465373a-bfbe-45b5-90d0-68a787dea751",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -12486,7 +12491,9 @@
 		"erk_voorbeeld_id": [
 			"9a0395f8-ff42-4378-b3d0-23d9be264bfe",
 			"11d58caf-c2cc-4030-a13c-fdcfb22c19a6",
-			"d5ba6903-1ef9-472a-9a1e-0d24fc7062c3"
+			"d5ba6903-1ef9-472a-9a1e-0d24fc7062c3",
+			"25a4c748-db95-4b46-9a21-76a32c6ba773",
+			"21357340-f8a6-424f-b4f0-fc35469533d9"
 		],
 		"title": "Kan belangrijke details verstrekken in een video- of audiogesprek met betrekking tot een onverwachte gebeurtenis.",
 		"id": "a855210c-52ae-4ad0-ad26-f1cacb7f70ff"
@@ -12498,7 +12505,16 @@
 		"title": "Kan telecommunicatie gebruiken voor een verscheidenheid aan persoonlijke en professionele doeleinden, mits om verduidelijking gevraagd kan worden als het accent of de terminologie niet vertrouwd is.",
 		"id": "9186bb05-9a68-498b-99b2-c2a2732ba290",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"a463873e-862a-4ba4-9d77-c1340024c750",
+			"bb5d1f79-7ed3-4696-b230-f4964d72b526",
+			"4189ae10-4532-4014-ab35-efb17cce269b",
+			"65b54198-d22f-40ea-9b01-dddff5f528cf",
+			"f3f87a69-fb89-405b-9bfe-1e1ff5bd0bbe",
+			"6ad86794-c60b-48c9-9f44-90529a4ab8d6",
+			"f3aac08d-cc9c-4e34-9422-80f3e672e5b4"
+		]
 	},
 	{
 		"niveau_id": [
