@@ -4054,32 +4054,46 @@
 		"description": ""
 	},
 	{
-		"title": "Over dingen die je als kind deed (DL).",
-		"id": "f492f4ea-eeea-44bd-81cb-eed75bc3c3c7"
+		"title": "Over dingen die je als kind deed.",
+		"id": "f492f4ea-eeea-44bd-81cb-eed75bc3c3c7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over de vakantie van afgelopen jaar (DL).",
-		"id": "69289d24-2fe5-4174-be1f-33cf133b4532"
+		"title": "Over de vakantie van afgelopen jaar.",
+		"id": "69289d24-2fe5-4174-be1f-33cf133b4532",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over je toekomstplannen (DL, OPL).",
-		"id": "f87d5601-c233-48d2-a58c-a3e13f4c1a2c"
+		"title": "Over je hobby's en vrijetijdsbestedingen.",
+		"id": "f87d5601-c233-48d2-a58c-a3e13f4c1a2c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De instructies van de skileraar (DL).",
-		"id": "73716910-ee06-41c5-97a0-a09ee34e432a"
+		"title": "De instructies van de sportinstructeur.",
+		"id": "73716910-ee06-41c5-97a0-a09ee34e432a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De instructies over het opzetten van een tent (DL).",
-		"id": "f626fccf-d177-470d-9573-2b48dc230308"
+		"title": "De instructies over het opzetten van een tent.",
+		"id": "f626fccf-d177-470d-9573-2b48dc230308",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De uitleg van een route waarbij gebruik gemaakt moet worden van verschillende vervoersmiddelen (DL).",
-		"id": "63497777-21d0-406f-a049-b8e86d11fe31"
+		"title": "De uitleg van een route waarbij gebruik gemaakt moet worden van verschillende vervoersmiddelen.",
+		"id": "63497777-21d0-406f-a049-b8e86d11fe31",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De instructies van de baas van een restaurant over hoe de tafels gedekt moeten worden (WE).",
-		"id": "5a695774-221e-4754-be5c-d23f9ced49a5"
+		"title": "De instructies van de baas van een restaurant over hoe de tafels gedekt moeten worden.",
+		"id": "5a695774-221e-4754-be5c-d23f9ced49a5",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Over een cursus of opleiding (OPL).",
@@ -9083,6 +9097,24 @@
 		"id": "44354d46-2be2-48db-bc05-45230e943bff",
 		"prefix": "",
 		"title": "Een gesprek bij de arts in het ziekenhuis.",
+		"description": ""
+	},
+	{
+		"id": "94027796-9676-4122-88ef-33500fd6ff75",
+		"prefix": "",
+		"title": "Over waar je op vakantie gaat.",
+		"description": ""
+	},
+	{
+		"id": "46e99986-3879-4a6f-8777-056ab6ec1d5e",
+		"prefix": "",
+		"title": "Over je toekomstplannen.",
+		"description": ""
+	},
+	{
+		"id": "30a578ac-6f47-4945-9948-29a58454a2a2",
+		"prefix": "",
+		"title": "Over welke studie je gaat volgen.",
 		"description": ""
 	}
 ]
