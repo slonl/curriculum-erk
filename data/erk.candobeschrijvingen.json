@@ -14139,7 +14139,11 @@
 		"title": "Kan online interactief samenwerken aan een eenvoudige taak met een helpende partner en daarbij reageren op basisinstructies en opheldering vragen, mits er visuele hulpmiddelen zoals afbeeldingen, statistieken of grafieken zijn om de betreffende concepten te verduidelijken.",
 		"id": "d577930d-749e-4925-bca3-e3b6a076f31a",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"6ead22b4-dee0-44f6-b7a5-3dd9edfd0ad9",
+			"a2dc3351-8c24-4cce-8316-da9e8f485617"
+		]
 	},
 	{
 		"niveau_id": [
@@ -14148,7 +14152,13 @@
 		"title": "Kan standaarduitdrukkingen gebruiken om te reageren op routineproblemen die zich voordoen tijdens online transacties.",
 		"id": "19109b73-4541-41cb-87c2-8bfb4e811297",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"57b36a22-f91f-4ec9-939e-5ea2853c5329",
+			"6d29e03d-c173-4af4-bec5-a216b60da939",
+			"b26f6bf6-91a4-4587-a4f7-4de3df9c840b",
+			"8d922aae-27d5-4f36-aa5c-72ed13a7bc52"
+		]
 	},
 	{
 		"niveau_id": [
