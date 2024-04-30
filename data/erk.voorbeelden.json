@@ -4414,12 +4414,16 @@
 		"description": ""
 	},
 	{
-		"title": "Met een vriend de aankomsttijd van een vlucht bespreken en afspraken maken om iemand op te halen op het vliegveld (DL, PU).",
-		"id": "74194359-7025-44a4-b149-e025385cbd9d"
+		"title": "Met een vriend de aankomsttijd van een vlucht bespreken en afspraken maken om iemand op te halen van het vliegveld.",
+		"id": "74194359-7025-44a4-b149-e025385cbd9d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Op een buitenlandse cursus het bericht van een medecursist over zijn vertraagde aankomsttijd begrijpen en doorgeven aan jullie gastgezin (DL).",
-		"id": "a5d5ba2b-fff3-4429-ad5b-a194635dd30c"
+		"title": "Op een buitenlandse cursus het bericht van een medecursist over zijn vertraagde aankomsttijd begrijpen en doorgeven aan jullie gastgezin.",
+		"id": "a5d5ba2b-fff3-4429-ad5b-a194635dd30c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een bijeenkomst met collega's regelen via een online gesprek (WE).",
@@ -9663,6 +9667,54 @@
 		"id": "5beaa01e-6a88-4099-93f5-982e8da0f4f1",
 		"prefix": "",
 		"title": "Verwoorden waarom je graag een bepaalde cursus wilt doen en wat je daar wilt leren.",
+		"description": ""
+	},
+	{
+		"id": "90296f17-eedf-4211-a5db-30d42cdf9353",
+		"prefix": "",
+		"title": "Een eenvoudig telefoongesprek voeren, bijvoorbeeld vragen wie belt, vragen om iemand te spreken, een bericht noteren, vragen om later terug te bellen.",
+		"description": ""
+	},
+	{
+		"id": "a4b887d5-1ef8-4a89-b82d-87c004f79dcb",
+		"prefix": "",
+		"title": "Een kort telefoongesprek met een leeftijdsgenoot om iets af te spreken.",
+		"description": ""
+	},
+	{
+		"id": "be846254-3b25-4302-9487-5adc03c2e8df",
+		"prefix": "",
+		"title": "Een bericht van een buitenlands hotel over een aanpassing in het soort kamer aannemen en doorgeven aan een familielid.",
+		"description": ""
+	},
+	{
+		"id": "5ce0c82d-ef7d-4005-81a1-a6e8b3418334",
+		"prefix": "",
+		"title": "Telefonisch een bericht doorgeven van een vriend aan een familielid.",
+		"description": ""
+	},
+	{
+		"id": "246e52ce-5367-4453-9a22-70d0274fd210",
+		"prefix": "",
+		"title": "Aan vrienden een uitval van treinen melden en afspraken aanpassen.",
+		"description": ""
+	},
+	{
+		"id": "3250d7d9-46af-4f6a-9ab6-9bdec0c5be54",
+		"prefix": "",
+		"title": "Een buitenlandse klasgenoot bellen om een aanpassing in het rooster en de gevolgen daarvan te melden.",
+		"description": ""
+	},
+	{
+		"id": "85fff548-af18-404b-9ba0-ee2e5026324d",
+		"prefix": "",
+		"title": "Een vriend vragen om je te komen ophalen omdat je scooter kapot is.",
+		"description": ""
+	},
+	{
+		"id": "5b24754e-7876-423f-996f-b39d1a6aa8af",
+		"prefix": "",
+		"title": "Vrienden uitnodigen om een gezamenlijke activiteit te ondernemen.",
 		"description": ""
 	}
 ]
