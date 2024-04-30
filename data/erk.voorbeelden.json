@@ -9792,5 +9792,65 @@
 		"prefix": "",
 		"title": "Een telefonisch gesprek met je behandelend arts.",
 		"description": ""
+	},
+	{
+		"id": "c781fda4-7ad7-49ad-8ba9-5aec32902758",
+		"prefix": "",
+		"title": "Met een vriend telefonisch plannen maken voor een gezamenlijke reis.",
+		"description": ""
+	},
+	{
+		"id": "22507ca5-682c-4ac9-b27a-20750935bf38",
+		"prefix": "",
+		"title": "Een persoonlijke relatie helpen bij problemen op het werk.",
+		"description": ""
+	},
+	{
+		"id": "f6fc8736-90a2-4c46-8ac3-ccb58678b5b0",
+		"prefix": "",
+		"title": "Een persoonlijke relatie adviseren een bepaalde leefstijl te volgen.",
+		"description": ""
+	},
+	{
+		"id": "40343425-e5ee-43e7-8c40-328413f2856a",
+		"prefix": "",
+		"title": "Een video- of audiogesprek met een kennis in het buitenland over hoe bepaald wereldnieuws in het land wordt ervaren.",
+		"description": ""
+	},
+	{
+		"id": "dc1a8080-0d57-406c-9818-72c05abac481",
+		"prefix": "",
+		"title": "Via audio- en videogesprekken alle details voor een langdurig verblijf in het buitenland efficiënt regelen zoals afspraken met de stageplek, accommodatie, vervoer op locatie, benodigde documenten, enzovoort.",
+		"description": ""
+	},
+	{
+		"id": "082b81c5-f90c-4338-97f9-e57617caee45",
+		"prefix": "",
+		"title": "Het bijwonen van een bestuursvergadering door middel van een videogesprek.",
+		"description": ""
+	},
+	{
+		"id": "646e4201-aa9e-4b11-95be-635adbd94ea6",
+		"prefix": "",
+		"title": "Het telefonisch bijwonen van een vergadering tijdens het reizen in de trein of op het vliegveld.",
+		"description": ""
+	},
+	{
+		"id": "364420e7-546c-436b-bd93-c972bdff6ac7",
+		"prefix": "",
+		"title": "De bijdragen aan een online conferentie met internationale collega's voorbespreken.",
+		"description": ""
+	},
+	{
+		"id": "1bf05fb8-ca80-491a-8298-37e3d7fecd21",
+		"prefix": "",
+		"title": "Deelnemen aan een bijeenkomst door middel van een videogesprek.",
+		"description": ""
+	},
+	{
+		"id": "56466cf2-7b57-436e-8a20-08b95f45f178",
+		"prefix": "",
+		"title": "Een groepsgesprek met vrienden of familie.",
+		"description": ""
 	}
 ]
