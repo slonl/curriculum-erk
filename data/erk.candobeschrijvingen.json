@@ -14338,14 +14338,20 @@
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
 		"title": "Kan sturing geven en nauwkeurigheid toevoegen aan het werk van een groep tijdens de bewerkings- en revisiefasen van de samenwerking.",
-		"id": "3734d74e-87d9-43b5-b514-08c1840114b6"
+		"id": "3734d74e-87d9-43b5-b514-08c1840114b6",
+		"erk_voorbeeld_id": [
+			"289be340-9df7-43ac-ad11-193af4622cec"
+		]
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
 		"title": "Kan misverstanden oplossen en effectief omgaan met wrijvingen die zich kunnen voordoen tijdens het samenwerkingsproces.",
-		"id": "a6c85424-564b-4839-91bb-ddd52e5beaae"
+		"id": "a6c85424-564b-4839-91bb-ddd52e5beaae",
+		"erk_voorbeeld_id": [
+			"a40e5184-47b3-48cb-8636-992c849f1525"
+		]
 	},
 	{
 		"niveau_id": [
