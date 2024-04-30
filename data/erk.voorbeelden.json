@@ -3898,68 +3898,100 @@
 		"description": ""
 	},
 	{
-		"title": "Taken verdelen voor de voorbereiding van een barbecue (DL).",
-		"id": "62c07325-70dc-4b5a-8297-199e610adbf4"
+		"title": "Samen met de verkoper in een kledingwinkel bepalen welke broek jou het best past.",
+		"id": "62c07325-70dc-4b5a-8297-199e610adbf4",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een activiteit of uitstapje met vrienden regelen, eventueel ook via sociale media (DL).",
-		"id": "f8a19496-8bc2-4f27-a3e3-d80041b2fa07"
+		"title": "Samenwerken aan een groepsopdracht die eenvoudig en bekend is.",
+		"id": "f8a19496-8bc2-4f27-a3e3-d80041b2fa07",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Afspraken maken over taakverdeling bij een opdracht (OPL, WE).",
-		"id": "eef02970-a773-4aa4-b69f-362f40fb122b"
+		"title": "Aan de balie van het treinstation bespreken welke trein of overstap je kunt nemen.",
+		"id": "eef02970-a773-4aa4-b69f-362f40fb122b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een uitwisselingsstudent aangeven hoe hij of zij aan de wifi-code kan komen (DL).",
-		"id": "5a3bccc3-2008-4633-9800-fabc750d2135"
+		"title": "Uitwisselingsstudenten uitleggen hoe ze aan de wifi-code kunnen komen.",
+		"id": "5a3bccc3-2008-4633-9800-fabc750d2135",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Bij een fietsenstalling afspraken maken over een fietsreparatie (PU).",
-		"id": "79e24ab5-345f-4b1a-bca0-41f1044006e9"
+		"title": "Bij een fietsenwinkel informatie uitwisselen over een reparatie: wat kost het en wanneer kun je je fiets weer ophalen?",
+		"id": "79e24ab5-345f-4b1a-bca0-41f1044006e9",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Melden dat een apparaat kapot of een voorraad op is (WE, PU).",
-		"id": "a80c2d4c-115f-492d-81b3-2ea1b2158355"
+		"title": "Melden dat een apparaat kapot of een voorraad op is.",
+		"id": "a80c2d4c-115f-492d-81b3-2ea1b2158355",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een klant informeren over leverdatum en prijs van een product (WE).",
-		"id": "4acd9c51-c1d5-41e4-aee3-5f62d82bc86a"
+		"title": "Een klant informeren over de prijs van een product.",
+		"id": "4acd9c51-c1d5-41e4-aee3-5f62d82bc86a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over een activiteit in de vrije tijd (DL).",
-		"id": "ecd41373-61a0-4d5b-a825-c99c74b2407f"
+		"title": "Over een activiteit in de vrije tijd.",
+		"id": "ecd41373-61a0-4d5b-a825-c99c74b2407f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over school (OPL).",
-		"id": "2ce92ba1-d13f-4f36-814c-1c9730b9ff39"
+		"title": "Over een buitenschoolse activiteit.",
+		"id": "2ce92ba1-d13f-4f36-814c-1c9730b9ff39",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over het bijbaantje (WE).",
-		"id": "c68de74d-bef0-4c2b-9a88-ae6b7f821a7f"
+		"title": "Over een bijbaantje.",
+		"id": "c68de74d-bef0-4c2b-9a88-ae6b7f821a7f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over een sport (DL).",
-		"id": "ed446162-1e33-4d92-93a4-e7f92b3d7afe"
+		"title": "Welke sport iemand beoefent.",
+		"id": "ed446162-1e33-4d92-93a4-e7f92b3d7afe",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Waarom je te laat bent (PU).",
-		"id": "4e9575e2-e982-4b48-8966-bc8ea078c996"
+		"title": "Uitleggen waarom je te laat bent.",
+		"id": "4e9575e2-e982-4b48-8966-bc8ea078c996",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Jezrlf ziek melden (PU).",
-		"id": "c91b9bfc-8a9c-452f-ad3f-3c458ba0c62f"
+		"title": "Jezelf ziekmelden.",
+		"id": "c91b9bfc-8a9c-452f-ad3f-3c458ba0c62f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over je familie, broers en zussen vertellen (DL).",
-		"id": "4d2d23cc-fc69-481d-9d2b-4f3f29371cb6"
+		"title": "Vertellen over je familie, broers en zussen.",
+		"id": "4d2d23cc-fc69-481d-9d2b-4f3f29371cb6",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Je huis beschrijven (DL).",
-		"id": "5a611924-3730-4d89-9ed4-aee2cef51b8c"
+		"title": "Je huis beschrijven.",
+		"id": "5a611924-3730-4d89-9ed4-aee2cef51b8c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vertellen over de buurt waar je woont (DL).",
-		"id": "271565fd-74c7-4ecb-b694-176dcb09e743"
+		"title": "Vertellen over de buurt waar je woont.",
+		"id": "271565fd-74c7-4ecb-b694-176dcb09e743",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "De weg vragen op straat in een buitenlandse stad (DL).",
