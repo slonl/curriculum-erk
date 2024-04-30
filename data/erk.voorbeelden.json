@@ -8838,5 +8838,17 @@
 		"prefix": "",
 		"title": "Verduidelijking geven aan groepsleden.",
 		"description": ""
+	},
+	{
+		"id": "289be340-9df7-43ac-ad11-193af4622cec",
+		"prefix": "",
+		"title": "Als onderzoeksleider online instructies en feedback geven in een onderzoeksgroep.",
+		"description": ""
+	},
+	{
+		"id": "a40e5184-47b3-48cb-8636-992c849f1525",
+		"prefix": "",
+		"title": "Als projectleider van een intercultureel samenwerkingsverband op een passende manier optreden als intermediair bij mogelijke misverstand en wrijvingen in een inhoudelijke online discussie.",
+		"description": ""
 	}
 ]
