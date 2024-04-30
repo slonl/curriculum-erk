@@ -12252,24 +12252,32 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan in eenvoudige taal de aard van een probleem aangeven aan een arts of verpleegkundige en eenvoudige vragen beantwoorden zoals 'Doet dit pijn?', ook al is hierbij het gebruik van gebaren en lichaamstaal nodig.",
+		"title": "Kan in eenvoudige taal de aard van een probleem aangeven aan een arts of verpleegkundige en eenvoudige vragen beantwoorden, ook al is hierbij het gebruik van gebaren en lichaamstaal nodig.",
 		"id": "9092db6b-465c-44de-8509-fa17466464ea",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"2de22435-8ea5-40e5-a081-45402ae220b0"
+		]
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
 		"title": "Kan in eenvoudige taal de aard van een probleem aangeven aan een arts of verpleegkundige, zo nodig met behulp van gebaren en lichaamstaal.",
-		"id": "31aa5ee5-4c44-4829-b461-0d16cd6f96d9"
+		"id": "31aa5ee5-4c44-4829-b461-0d16cd6f96d9",
+		"erk_voorbeeld_id": [
+			"ec383586-7faa-4909-8a33-974a6b0182f6",
+			"a346e4ed-c3c1-43fa-b662-4c2cd59b013c"
+		]
 	},
 	{
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
 		"erk_voorbeeld_id": [
-			"e2768132-fd21-4538-950c-f42021499e88"
+			"e2768132-fd21-4538-950c-f42021499e88",
+			"eb5de1e5-ddc3-4537-b4d6-b0c8eeb6c488"
 		],
 		"title": "Kan zeer elementaire symptomen en kwalen beschrijven aan een dokter.",
 		"id": "b1b82297-6d23-49f8-b017-5ab7776f81f4"
@@ -12293,7 +12301,12 @@
 		"title": "Kan symptomen op een eenvoudige manier beschrijven en medisch advies vragen en kan het antwoord begrijpen, mits dit duidelijk en in alledaagse taal wordt gegeven.",
 		"id": "b17d6c61-af85-4c09-9b4b-4a8595ce25c6",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"1b5bddcd-97b1-4b8e-9fdb-aecc5a56726f",
+			"a837d077-3d72-4e06-9b1f-21dc8549d218",
+			"187ef0c8-bc3c-418e-8e12-b3412b274a5a"
+		]
 	},
 	{
 		"niveau_id": [
