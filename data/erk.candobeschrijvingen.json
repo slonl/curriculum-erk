@@ -14092,7 +14092,13 @@
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
 		"title": "Kan reageren op eenvoudige instructies en eenvoudige vragen stellen om online een gezamenlijke taak te volbrengen met de hulp van een ondersteunende gesprekspartner.",
-		"id": "bfa74522-b396-44da-b65d-e22366b013ca"
+		"id": "bfa74522-b396-44da-b65d-e22366b013ca",
+		"erk_voorbeeld_id": [
+			"21a90575-af37-447b-93cf-06c7390b2420",
+			"866a9b43-6968-4953-86ad-11d3753646ba"
+		],
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -14101,7 +14107,13 @@
 		"title": "Kan elementaire vragen stellen over de beschikbaarheid van een product of eigenschap.",
 		"id": "9bbe77a4-d597-4684-876d-17e33b7c197a",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"91a0b921-fc17-4565-9ba2-d44960b77b9c",
+			"62c8f6e4-7b26-4345-9bbe-148ce566a5bb",
+			"7b27408a-5170-4a19-b7b7-e168855313b3",
+			"ac4ff30d-c3d6-4fdf-b118-32aa785e6a93"
+		]
 	},
 	{
 		"niveau_id": [
@@ -14110,7 +14122,15 @@
 		"title": "Kan eenvoudige online transacties uitvoeren door een online formulier of -vragenlijst in te vullen, persoonlijke gegevens te verstrekken, akkoord te gaan met algemene voorwaarden, extra services te weigeren enzovoort.",
 		"id": "f69a34e2-3873-4e04-a7f4-a6f5c6e18712",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"e8aee0f9-73e0-4d53-9737-7441e7b5fae1",
+			"7ad0f89d-0086-447c-ae01-81763fca1d15",
+			"da5aa80e-2671-4988-92ff-7e2fd59e19cd",
+			"7bd6e4df-6567-45a0-99f1-559394a62c79",
+			"d43b0000-2523-4beb-9b17-73261cdc97c3",
+			"61e76355-2198-4086-bb01-ee2e0a5dfb2d"
+		]
 	},
 	{
 		"niveau_id": [
