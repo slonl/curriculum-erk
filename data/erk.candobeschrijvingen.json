@@ -12521,21 +12521,35 @@
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
 		"title": "Kan lange, informele telefoongesprekken voeren met een bekende over een verscheidenheid aan onderwerpen.",
-		"id": "9274647b-1a32-40e6-a4fe-d5afe90ae03d"
+		"id": "9274647b-1a32-40e6-a4fe-d5afe90ae03d",
+		"erk_voorbeeld_id": [
+			"c781fda4-7ad7-49ad-8ba9-5aec32902758",
+			"22507ca5-682c-4ac9-b27a-20750935bf38",
+			"f6fc8736-90a2-4c46-8ac3-ccb58678b5b0",
+			"40343425-e5ee-43e7-8c40-328413f2856a"
+		]
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
 		"title": "Kan telecommunicatie effectief gebruiken voor de meeste professionele en persoonlijke doeleinden.",
-		"id": "df0eabfd-851f-4a02-bd11-fc41b6fb7e98"
+		"id": "df0eabfd-851f-4a02-bd11-fc41b6fb7e98",
+		"erk_voorbeeld_id": [
+			"dc1a8080-0d57-406c-9818-72c05abac481"
+		]
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
 		"title": "Kan telecommunicatie zelfverzekerd en effectief gebruiken voor zowel persoonlijke als professionele doeleinden, zelfs als er enige storing is of als de gesprekspartner een minder bekend accent heeft.",
-		"id": "35797f43-39ef-4947-a705-3d97ece1d226"
+		"id": "35797f43-39ef-4947-a705-3d97ece1d226",
+		"erk_voorbeeld_id": [
+			"082b81c5-f90c-4338-97f9-e57617caee45",
+			"646e4201-aa9e-4b11-95be-635adbd94ea6",
+			"364420e7-546c-436b-bd93-c972bdff6ac7"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15060,7 +15074,11 @@
 		"id": "68f3238f-ba53-4506-a015-d4598597c29d",
 		"prefix": "",
 		"title": "Kan telecommunicatie gebruiken voor alledaagse persoonlijke of professionele doeleinden, mits van tijd tot tijd om verduidelijking kan worden gevraagd.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"1bf05fb8-ca80-491a-8298-37e3d7fecd21",
+			"56466cf2-7b57-436e-8a20-08b95f45f178"
+		]
 	},
 	{
 		"niveau_id": [
