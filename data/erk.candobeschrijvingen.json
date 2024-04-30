@@ -12424,7 +12424,9 @@
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
 		"erk_voorbeeld_id": [
-			"74194359-7025-44a4-b149-e025385cbd9d"
+			"74194359-7025-44a4-b149-e025385cbd9d",
+			"90296f17-eedf-4211-a5db-30d42cdf9353",
+			"a4b887d5-1ef8-4a89-b82d-87c004f79dcb"
 		],
 		"title": "Kan, gebruikmakend van herhaling en verduidelijkingen, deelnemen aan een kort, eenvoudig telefoongesprek met een bekende over een voorspelbaar onderwerp.",
 		"id": "a88bfa78-dd04-44aa-a83c-49a693445e45"
@@ -12434,7 +12436,9 @@
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
 		"erk_voorbeeld_id": [
-			"a5d5ba2b-fff3-4429-ad5b-a194635dd30c"
+			"a5d5ba2b-fff3-4429-ad5b-a194635dd30c",
+			"be846254-3b25-4302-9487-5adc03c2e8df",
+			"5ce0c82d-ef7d-4005-81a1-a6e8b3418334"
 		],
 		"title": "Kan een eenvoudig bericht begrijpen, details van het bericht bevestigen en het telefonisch doorgeven aan andere betrokkenen.",
 		"id": "37b99b23-a6c8-4ded-9455-be0428e8e0fd"
@@ -12446,7 +12450,13 @@
 		"title": "Kan telecommunicatie gebruiken met vrienden om eenvoudig nieuws uit te wisselen, plannen te maken en af te spreken.",
 		"id": "8cab275e-a5c0-4300-a80e-284ad95fdba6",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"246e52ce-5367-4453-9a22-70d0274fd210",
+			"3250d7d9-46af-4f6a-9ab6-9bdec0c5be54",
+			"85fff548-af18-404b-9ba0-ee2e5026324d",
+			"5b24754e-7876-423f-996f-b39d1a6aa8af"
+		]
 	},
 	{
 		"niveau_id": [
