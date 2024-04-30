@@ -14165,7 +14165,11 @@
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
 		"title": "Kan reageren op instructies en vragen stellen of om opheldering vragen om online een gezamenlijke taak te volbrengen.",
-		"id": "c158340c-1aef-4716-9324-be53d21cec2c"
+		"id": "c158340c-1aef-4716-9324-be53d21cec2c",
+		"erk_voorbeeld_id": [
+			"5826e893-5655-416a-b4e5-a023cd565b2f",
+			"af346f5b-26e6-4a67-940b-31b6b8b1460d"
+		]
 	},
 	{
 		"niveau_id": [
@@ -14174,7 +14178,12 @@
 		"title": "Kan online interactief met een partner of kleine groep aan een project werken, mits er visuele hulpmiddelen zijn zoals afbeeldingen, statistieken en grafieken om complexere begrippen te verduidelijken.",
 		"id": "5c9743d1-e2b9-4e0c-af9d-1a0a95e4644c",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"93078472-27a8-436c-b069-e1c6a3626cfb",
+			"771c1206-a526-48af-b14e-55f1734515c1",
+			"a509ee4a-22e5-4e1a-aa5c-6f25b3776ce6"
+		]
 	},
 	{
 		"niveau_id": [
@@ -14183,7 +14192,15 @@
 		"title": "Kan deelnemen aan samenwerkende of transactionele uitwisselingen online die eenvoudige verduidelijking of uitleg van relevante details vereisen.",
 		"id": "7e9d36f9-202b-4625-9b43-913100749014",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"80755f03-4ada-46c0-9191-f04b87812148",
+			"31ea1e1b-d4a0-4239-bbef-f5bf8d494940",
+			"959f5835-f1db-418d-941a-dfb2ca5369da",
+			"a8b4d83c-440b-4c44-a461-7eea6ec4dc99",
+			"c230c512-304b-4013-bb25-1a9c5ae57622",
+			"cd46a1d8-db11-4b17-853f-072d171a9131"
+		]
 	},
 	{
 		"niveau_id": [
