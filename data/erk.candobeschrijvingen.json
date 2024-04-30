@@ -12066,7 +12066,12 @@
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
 		"title": "Kan vragen stellen en beantwoorden over plannen en intenties.",
-		"id": "e80db739-4fe8-4d32-b188-5073ed99b0b7"
+		"id": "e80db739-4fe8-4d32-b188-5073ed99b0b7",
+		"erk_voorbeeld_id": [
+			"94027796-9676-4122-88ef-33500fd6ff75",
+			"46e99986-3879-4a6f-8777-056ab6ec1d5e",
+			"30a578ac-6f47-4945-9948-29a58454a2a2"
+		]
 	},
 	{
 		"niveau_id": [
