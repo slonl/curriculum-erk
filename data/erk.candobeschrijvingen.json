@@ -15284,7 +15284,13 @@
 		"id": "013da4f8-567e-41f9-8a81-85849d5b1db3",
 		"prefix": "",
 		"title": "Kan begrijpen wat helder, langzaam en rechtstreeks wordt gezegd in eenvoudige alledaagse conversatie; kan tot begrip worden gebracht als de gesprekspartner daarvoor de moeite neemt.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"a51f2fdf-3c1e-4267-9884-10d4e9b0e9c7",
+			"241ee901-128d-414f-9cfe-f600de10e720",
+			"8902a764-c073-47a4-9100-3bc815048266",
+			"5a53c503-45b5-46c7-8749-eb279f9ffd2f"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15293,7 +15299,16 @@
 		"id": "622fd486-4b11-4490-abb5-7aa3b67340e8",
 		"prefix": "",
 		"title": "Kan genoeg begrijpen om eenvoudige routinegesprekken te voeren zonder bovenmatige inspanning.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"78694ab4-695a-47af-a9aa-b94f9d61072e",
+			"3e65cb1e-e040-4b28-a584-37640584944e",
+			"90a19de2-e2bf-4f5d-a9ad-090b1086155e",
+			"58da4179-afef-44f0-941b-d6239104af9b",
+			"1e275537-c513-444e-8816-461d053a8051",
+			"4fab6eeb-efef-404d-92e7-790ff8e8393e",
+			"fc5a364f-55a9-44db-8235-b93541d29336"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15302,7 +15317,13 @@
 		"id": "91fdb183-716b-4fd3-9e79-e7ff39a301b0",
 		"prefix": "",
 		"title": "Kan over het algemeen heldere standaardtaal begrijpen over vertrouwde zaken, mits af en toe om herhaling of herformulering gevraagd kan worden.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"4ca28787-8ce3-4877-a66c-a383090f6070",
+			"0fb019f4-fb9a-43f9-b6d7-e0b631ac8d57",
+			"207a22f1-68a3-4b12-8de1-1765874a5f34",
+			"38d81b4d-abbe-422c-965d-f8ea53bcceef"
+		]
 	},
 	{
 		"niveau_id": [
