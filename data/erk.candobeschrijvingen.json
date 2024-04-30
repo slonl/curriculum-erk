@@ -15242,8 +15242,11 @@
 		],
 		"id": "f2c1a7f3-03d3-49b9-9055-d9e2132a4c52",
 		"prefix": "",
-		"title": "Kan eenvoudige vragen over zichzelf begrijpen (bijvoorbeeld naam, leeftijd en adres), als de vraag langzaam en duidelijk gesteld wordt.",
-		"description": ""
+		"title": "Kan eenvoudige vragen over zichzelf begrijpen, als de vraag langzaam en duidelijk gesteld wordt.",
+		"description": "",
+		"erk_voorbeeld_id": [
+			"9ea3d255-8bac-4551-81a0-0b644e6e7312"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15252,7 +15255,13 @@
 		"id": "62c6d281-1d1a-47dd-9e23-d5d334079b94",
 		"prefix": "",
 		"title": "Kan zorgvuldig en langzaam geformuleerde vragen en instructies begrijpen en korte, eenvoudige aanwijzingen volgen.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"a6203b25-9ccd-4af9-83d8-b0fd4b685a21",
+			"abea4789-b993-4974-a770-7ceea02bdf4a",
+			"00efbd24-cc0b-4788-b1e1-6074e6c8da59",
+			"2ac2e195-4d6d-446a-9336-b6b646ae64ff"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15261,7 +15270,12 @@
 		"id": "356583dd-795f-41f5-b5e4-b6521ba1e52a",
 		"prefix": "",
 		"title": "Kan alledaagse uitdrukkingen begrijpen, gericht op de vervulling van eenvoudige behoeften van concrete aard, die rechtstreeks, helder, langzaam en met herhalingen worden gezegd door een welwillende gesprekspartner.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"d814b925-6a38-48ef-9b2f-d8079d5bb226",
+			"24df25b3-fca1-496b-8219-961908b559f6",
+			"b806afb3-dc01-48ab-a719-b9ab4cd33ba6"
+		]
 	},
 	{
 		"niveau_id": [
