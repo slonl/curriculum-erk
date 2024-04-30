@@ -9332,5 +9332,95 @@
 		"prefix": "",
 		"title": "Iemand die zich voorstelt.",
 		"description": ""
+	},
+	{
+		"id": "a51f2fdf-3c1e-4267-9884-10d4e9b0e9c7",
+		"prefix": "",
+		"title": "Een uitnodiging voor een feestje of uitstapje.",
+		"description": ""
+	},
+	{
+		"id": "241ee901-128d-414f-9cfe-f600de10e720",
+		"prefix": "",
+		"title": "De voorkeur of afkeer met betrekking tot sport, muziek, schoolvakken.",
+		"description": ""
+	},
+	{
+		"id": "8902a764-c073-47a4-9100-3bc815048266",
+		"prefix": "",
+		"title": "Een voorstel om gezamenlijk iets te ondernemen.",
+		"description": ""
+	},
+	{
+		"id": "5a53c503-45b5-46c7-8749-eb279f9ffd2f",
+		"prefix": "",
+		"title": "Een reactie in antwoord op een verzoek om een inlichting.",
+		"description": ""
+	},
+	{
+		"id": "78694ab4-695a-47af-a9aa-b94f9d61072e",
+		"prefix": "",
+		"title": "Over wat iemand in het weekend heeft gedaan.",
+		"description": ""
+	},
+	{
+		"id": "3e65cb1e-e040-4b28-a584-37640584944e",
+		"prefix": "",
+		"title": "Over hoe het met iemand gaat.",
+		"description": ""
+	},
+	{
+		"id": "90a19de2-e2bf-4f5d-a9ad-090b1086155e",
+		"prefix": "",
+		"title": "Over het weer.",
+		"description": ""
+	},
+	{
+		"id": "58da4179-afef-44f0-941b-d6239104af9b",
+		"prefix": "",
+		"title": "Over wat iemand de volgende dag/week gaat doen.",
+		"description": ""
+	},
+	{
+		"id": "1e275537-c513-444e-8816-461d053a8051",
+		"prefix": "",
+		"title": "Over eenvoudige, dagelijkse gewoontes.",
+		"description": ""
+	},
+	{
+		"id": "4fab6eeb-efef-404d-92e7-790ff8e8393e",
+		"prefix": "",
+		"title": "Over familie, gezinssamenstelling, huis, woonplaats, land.",
+		"description": ""
+	},
+	{
+		"id": "fc5a364f-55a9-44db-8235-b93541d29336",
+		"prefix": "",
+		"title": "Over eten en drinken.",
+		"description": ""
+	},
+	{
+		"id": "4ca28787-8ce3-4877-a66c-a383090f6070",
+		"prefix": "",
+		"title": "Over sport, kleding, vrijetijdsbesteding.",
+		"description": ""
+	},
+	{
+		"id": "0fb019f4-fb9a-43f9-b6d7-e0b631ac8d57",
+		"prefix": "",
+		"title": "Over vrienden, school, zakgeld, een bijbaantje.",
+		"description": ""
+	},
+	{
+		"id": "207a22f1-68a3-4b12-8de1-1765874a5f34",
+		"prefix": "",
+		"title": "Over uitgaan, films, muziek, media.",
+		"description": ""
+	},
+	{
+		"id": "38d81b4d-abbe-422c-965d-f8ea53bcceef",
+		"prefix": "",
+		"title": "Over opleiding en beroep.",
+		"description": ""
 	}
 ]
