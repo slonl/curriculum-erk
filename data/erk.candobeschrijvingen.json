@@ -11923,7 +11923,12 @@
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
 		"title": "Kan de kleur van kleding of andere vertrouwde voorwerpen benoemen en kan naar de kleur van dergelijke voorwerpen vragen.",
-		"id": "69b376bd-fd39-49dd-82e5-7de146311d9f"
+		"id": "69b376bd-fd39-49dd-82e5-7de146311d9f",
+		"erk_voorbeeld_id": [
+			"c5edc386-2291-4907-8e1d-7c26ae93f7f6",
+			"d89c84bc-a1d4-451a-9e7c-54e920fad7e3",
+			"4b416baf-e41b-4ebe-9301-7ff864589074"
+		]
 	},
 	{
 		"niveau_id": [
