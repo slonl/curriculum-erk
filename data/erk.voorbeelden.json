@@ -9422,5 +9422,83 @@
 		"prefix": "",
 		"title": "Over opleiding en beroep.",
 		"description": ""
+	},
+	{
+		"id": "8eba5f42-b743-4b76-a4c2-2026b3608109",
+		"prefix": "",
+		"title": "Tijdens een borrel in een plaatselijk café na afloop van een conferentie.",
+		"description": ""
+	},
+	{
+		"id": "0460e62d-38a1-48b8-b588-76afb87d22cb",
+		"prefix": "",
+		"title": "Tijdens een rondleiding in een druk bezocht museum.",
+		"description": ""
+	},
+	{
+		"id": "db21a989-75a1-49f8-bb62-636c1abf6a19",
+		"prefix": "",
+		"title": "Een gesprek tussen uitwisselingsscholieren of –studenten.",
+		"description": ""
+	},
+	{
+		"id": "8ab43630-6f60-4d1e-a0ee-a23eac462876",
+		"prefix": "",
+		"title": "Tijdens een lawaaierige pauze.",
+		"description": ""
+	},
+	{
+		"id": "59843a64-5972-4c3e-8875-f3de741c05da",
+		"prefix": "",
+		"title": "Een uitleg tijdens een excursie in een fabriekshal.",
+		"description": ""
+	},
+	{
+		"id": "bc81b8da-3564-471a-a0c6-a8f071f265d2",
+		"prefix": "",
+		"title": "Een uitvoerig verslag van de open dag op een buitenlandse universiteit die een vriend heeft bezocht. ",
+		"description": ""
+	},
+	{
+		"id": "1e6dabad-cac8-401a-af1a-8de046da48d9",
+		"prefix": "",
+		"title": "Een grap met een ingewikkelde clou of met toespelingen.",
+		"description": ""
+	},
+	{
+		"id": "de59e7d6-1201-4886-b20c-1e298ea0d1e8",
+		"prefix": "",
+		"title": "Een radio-interview met een Nobelprijswinnaar. ",
+		"description": ""
+	},
+	{
+		"id": "581693ed-d325-4eec-83fd-d1a02f35e8db",
+		"prefix": "",
+		"title": "De uitleg van een arts over een medische behandeling die hij of zij ondergaan heeft.",
+		"description": ""
+	},
+	{
+		"id": "1b47cbf6-3c13-4eb3-8283-df842fac7420",
+		"prefix": "",
+		"title": "Een situatie waarin formeel toegelicht wordt waarom iemands verzoek voor een stageplaats is afgewezen.",
+		"description": ""
+	},
+	{
+		"id": "71c66d9c-338d-4f25-ab8e-4f8c1224a2a0",
+		"prefix": "",
+		"title": "Een discussie naar aanleiding van Europese verkiezingen over de invloed van de media op ons kiesgedrag.",
+		"description": ""
+	},
+	{
+		"id": "275b70bf-d893-48f3-ab53-6fd94245d919",
+		"prefix": "",
+		"title": "Een verhit gesprek naar aanleiding van een internationale studieavond over duurzame ontwikkeling of mensenrechten.",
+		"description": ""
+	},
+	{
+		"id": "19712d10-4980-402d-87e8-df1e08c8c937",
+		"prefix": "",
+		"title": "Een discussie ter gelegenheid van de viering van 1 mei, over mensen die de dupe zijn van slechte arbeidsomstandigheden, uitbuiting en onrecht.",
+		"description": ""
 	}
 ]
