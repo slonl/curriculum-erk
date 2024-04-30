@@ -15332,7 +15332,14 @@
 		"id": "5047dbe7-ac95-4681-ace3-4df0b830c92d",
 		"prefix": "",
 		"title": "Kan tot in de details begrijpen wat gezegd wordt in standaardtaal, of een vertrouwde variëteit, zelfs in een lawaaierige omgeving.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"8eba5f42-b743-4b76-a4c2-2026b3608109",
+			"0460e62d-38a1-48b8-b588-76afb87d22cb",
+			"db21a989-75a1-49f8-bb62-636c1abf6a19",
+			"8ab43630-6f60-4d1e-a0ee-a23eac462876",
+			"59843a64-5972-4c3e-8875-f3de741c05da"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15341,7 +15348,14 @@
 		"id": "37f04ec6-8687-4428-9554-27e48a4bbd09",
 		"prefix": "",
 		"title": "Kan een gesprekspartner tot in de details begrijpen over abstracte en complexe onderwerpen van gespecialiseerde aard buiten het eigen vakgebied, al moet de gesprekspartner misschien af en toe een detail bevestigen, vooral wanneer de taalvariëteit niet vertrouwd is.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"bc81b8da-3564-471a-a0c6-a8f071f265d2",
+			"1e6dabad-cac8-401a-af1a-8de046da48d9",
+			"de59e7d6-1201-4886-b20c-1e298ea0d1e8",
+			"581693ed-d325-4eec-83fd-d1a02f35e8db",
+			"1b47cbf6-3c13-4eb3-8283-df842fac7420"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15350,7 +15364,12 @@
 		"id": "b4bebfb7-e270-44cf-aaf5-ceed66b88a11",
 		"prefix": "",
 		"title": "Kan iedere gesprekspartner begrijpen, ook over abstracte en complexe onderwerpen van gespecialiseerde aard buiten het eigen vakgebied, mits in de gelegenheid om te wennen aan een minder vertrouwde taalvariëteit.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"71c66d9c-338d-4f25-ab8e-4f8c1224a2a0",
+			"275b70bf-d893-48f3-ab53-6fd94245d919",
+			"19712d10-4980-402d-87e8-df1e08c8c937"
+		]
 	},
 	{
 		"niveau_id": [
