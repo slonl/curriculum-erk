@@ -3994,44 +3994,64 @@
 		"description": ""
 	},
 	{
-		"title": "De weg vragen op straat in een buitenlandse stad (DL).",
-		"id": "21bc1b33-c6da-4666-8b8a-495048a3c192"
+		"title": "De weg vragen op straat in een buitenlandse stad.",
+		"id": "21bc1b33-c6da-4666-8b8a-495048a3c192",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een route uitleggen aan een buitenlandse toerist die een plattegrond of kaart bij zich heeft (DL).",
-		"id": "4f9a22e5-fc58-4f09-af24-48db6220c0e3"
+		"title": "Een route uitleggen aan een buitenlandse toerist die de weg niet weet.",
+		"id": "4f9a22e5-fc58-4f09-af24-48db6220c0e3",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vragen naar waar en wanneer een concert heeft plaatsgevonden (PU).",
-		"id": "b31fe1f9-1760-4422-bc4e-3885405bc607"
+		"title": "Vragen waar en wanneer een concert heeft plaatsgevonden.",
+		"id": "b31fe1f9-1760-4422-bc4e-3885405bc607",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vragen naar hoe een verjaardagsfeest ging en wie erbij was (DL).",
-		"id": "f985077e-0bf4-4d7c-8a31-4fa76a690a6e"
+		"title": "Vragen hoe een verjaardagsfeest was en wie er waren.",
+		"id": "f985077e-0bf4-4d7c-8a31-4fa76a690a6e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Informeren naar een evenement of activiteit zoals een sportwedstrijd (DL, OPL).",
-		"id": "58d376da-61ef-421b-a5ed-03334659f98b"
+		"title": "Informeren naar welke films er in de bioscoop draaien en vervolgens met je vrienden bepalen welke film je wilt zien.",
+		"id": "58d376da-61ef-421b-a5ed-03334659f98b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Schoolregels, de regels in een jeugdherberg of van een camping doorgeven (DL, OPL).",
-		"id": "5f421a97-74ab-43a6-a86b-fbe531b6945b"
+		"title": "Tijdens een excursie de regels in een jeugdherberg of van een camping doorgeven aan je klasgenoten.",
+		"id": "5f421a97-74ab-43a6-a86b-fbe531b6945b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Informeren naar de voorwaarden bij het huren van een zeilboot (DL).",
-		"id": "7e773401-8b07-459f-853b-cd7c3f206dfc"
+		"title": "Informeren naar de voorwaarden bij het huren van een kano en vervolgens met je vrienden bepalen of je gaat kanoën of niet.",
+		"id": "7e773401-8b07-459f-853b-cd7c3f206dfc",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over wat je meestal doet als je 's ochtends opstaat (DL).",
-		"id": "0d537035-85b9-4940-9a29-0998e89c03ac"
+		"title": "Over wat je meestal doet als je 's ochtends opstaat.",
+		"id": "0d537035-85b9-4940-9a29-0998e89c03ac",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over je normale dagindeling door de week (DL).",
-		"id": "c2c24855-1d91-4277-abe1-03b7a7ec3893"
+		"title": "Over je normale dagindeling door de week.",
+		"id": "c2c24855-1d91-4277-abe1-03b7a7ec3893",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over hoe je normaal gesproken je verjaardag viert, of een andere festiviteit (DL).",
-		"id": "3970b838-2840-43bf-87d3-c044fe1c3084"
+		"title": "Over hoe je normaal gesproken je verjaardag of een andere festiviteit viert.",
+		"id": "3970b838-2840-43bf-87d3-c044fe1c3084",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Over dingen die je als kind deed (DL).",
@@ -9039,6 +9059,30 @@
 		"id": "4b416baf-e41b-4ebe-9301-7ff864589074",
 		"prefix": "",
 		"title": "Benoemen welke kleur de voorwerpen in een huiskamer hebben en hier vragen over stellen.",
+		"description": ""
+	},
+	{
+		"id": "3211b315-b404-483b-b64a-a67507c908cd",
+		"prefix": "",
+		"title": "Een gesprek op school of bij een (talen-)cursus.",
+		"description": ""
+	},
+	{
+		"id": "8f9b337f-61fe-4482-b230-cee475368a5c",
+		"prefix": "",
+		"title": "Een gesprek in een winkel.",
+		"description": ""
+	},
+	{
+		"id": "3ea041a7-1dcf-4e75-bdc5-ae6c22d1ba88",
+		"prefix": "",
+		"title": "Een gesprek in het openbaar vervoer.",
+		"description": ""
+	},
+	{
+		"id": "44354d46-2be2-48db-bc05-45230e943bff",
+		"prefix": "",
+		"title": "Een gesprek bij de arts in het ziekenhuis.",
 		"description": ""
 	}
 ]
