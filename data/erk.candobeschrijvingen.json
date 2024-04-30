@@ -12013,7 +12013,13 @@
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
 		"title": "Kan genoeg begrijpen om eenvoudige routinegesprekken te voeren zonder bovenmatige inspanning.",
-		"id": "f4576a33-95f8-4f17-b202-841d37efc1cd"
+		"id": "f4576a33-95f8-4f17-b202-841d37efc1cd",
+		"erk_voorbeeld_id": [
+			"3211b315-b404-483b-b64a-a67507c908cd",
+			"8f9b337f-61fe-4482-b230-cee475368a5c",
+			"3ea041a7-1dcf-4e75-bdc5-ae6c22d1ba88",
+			"44354d46-2be2-48db-bc05-45230e943bff"
+		]
 	},
 	{
 		"niveau_id": [
