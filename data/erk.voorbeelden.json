@@ -8622,5 +8622,71 @@
 		"prefix": "",
 		"title": "Bij een online bedrijf vragen of een eerder model nog beschikbaar is.",
 		"description": ""
+	},
+	{
+		"id": "5826e893-5655-416a-b4e5-a023cd565b2f",
+		"prefix": "",
+		"title": "Onder leiding van een docent online samenwerken aan een taak.",
+		"description": ""
+	},
+	{
+		"id": "af346f5b-26e6-4a67-940b-31b6b8b1460d",
+		"prefix": "",
+		"title": "Samen met collega's of medestudenten online aan een gezamenlijke opdracht of product werken, waarbij onderling wordt samengewerkt en afgestemd.",
+		"description": ""
+	},
+	{
+		"id": "93078472-27a8-436c-b069-e1c6a3626cfb",
+		"prefix": "",
+		"title": "Samenwerken en feedback geven in een online bestand voor een opdracht voor school of opleiding.",
+		"description": ""
+	},
+	{
+		"id": "771c1206-a526-48af-b14e-55f1734515c1",
+		"prefix": "",
+		"title": "Het gezamenlijk uitvoeren van een webquest.",
+		"description": ""
+	},
+	{
+		"id": "a509ee4a-22e5-4e1a-aa5c-6f25b3776ce6",
+		"prefix": "",
+		"title": "Met collega's een project uitvoeren met behulp van een visueel stappenplan.",
+		"description": ""
+	},
+	{
+		"id": "31ea1e1b-d4a0-4239-bbef-f5bf8d494940",
+		"prefix": "",
+		"title": "Het boeken van een overnachting, activiteit in het buitenland.",
+		"description": ""
+	},
+	{
+		"id": "80755f03-4ada-46c0-9191-f04b87812148",
+		"prefix": "",
+		"title": "Het aanvragen van een rondleiding in een museum.",
+		"description": ""
+	},
+	{
+		"id": "959f5835-f1db-418d-941a-dfb2ca5369da",
+		"prefix": "",
+		"title": "Het inschrijven voor een talenreis in het buitenland.",
+		"description": ""
+	},
+	{
+		"id": "a8b4d83c-440b-4c44-a461-7eea6ec4dc99",
+		"prefix": "",
+		"title": "Het aanvragen van een lidmaatschap van een vakvereniging.",
+		"description": ""
+	},
+	{
+		"id": "c230c512-304b-4013-bb25-1a9c5ae57622",
+		"prefix": "",
+		"title": "Een probleem in de computer oplossen met behulp van online assistentie.",
+		"description": ""
+	},
+	{
+		"id": "cd46a1d8-db11-4b17-853f-072d171a9131",
+		"prefix": "",
+		"title": "Met behulp van de online chatbot alle stappen doorlopen om je in te schrijven in een platform of community.",
+		"description": ""
 	}
 ]
