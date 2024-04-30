@@ -3880,16 +3880,22 @@
 		"id": "d799385d-c7d4-4efd-b383-683918576286"
 	},
 	{
-		"title": "Zeggen en begrijpen wanneer iets gebeurt (bijv. vrijdag) (DL).",
-		"id": "0f938dcd-1ec0-415a-bed9-b068842ad570"
+		"title": "Zeggen en begrijpen wanneer iets gebeurt, zoals 'op vrijdag'.",
+		"id": "0f938dcd-1ec0-415a-bed9-b068842ad570",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Zeggen wanneer je op vakantie gaat (bijv. in november) (DL).",
-		"id": "0324da19-60ce-4859-b5f9-4eba881a4fa7"
+		"title": "Zeggen wanneer je op vakantie gaat, zoals 'in augustus'.",
+		"id": "0324da19-60ce-4859-b5f9-4eba881a4fa7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Zeggen wanneer je naar de film gaat (bijv. morgen om drie uur) (DL).",
-		"id": "ff149462-2ceb-4553-8cb3-7497b434a99e"
+		"title": "Zeggen wanneer je naar de film gaat, zoals 'morgen om drie uur'.",
+		"id": "ff149462-2ceb-4553-8cb3-7497b434a99e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Taken verdelen voor de voorbereiding van een barbecue (DL).",
@@ -8983,6 +8989,24 @@
 		"id": "acd26717-1d3e-491f-b190-50300762482c",
 		"prefix": "",
 		"title": "Het aantal pillen dat moet worden ingenomen.",
+		"description": ""
+	},
+	{
+		"id": "c5edc386-2291-4907-8e1d-7c26ae93f7f6",
+		"prefix": "",
+		"title": "Benoemen welke kleur kleding iemand draagt en vragen welke kleur kleding een bepaald persoon draagt.",
+		"description": ""
+	},
+	{
+		"id": "d89c84bc-a1d4-451a-9e7c-54e920fad7e3",
+		"prefix": "",
+		"title": "Benoemen in welke kleur auto iemand rijdt.",
+		"description": ""
+	},
+	{
+		"id": "4b416baf-e41b-4ebe-9301-7ff864589074",
+		"prefix": "",
+		"title": "Benoemen welke kleur de voorwerpen in een huiskamer hebben en hier vragen over stellen.",
 		"description": ""
 	}
 ]
