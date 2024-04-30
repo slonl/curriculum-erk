@@ -9284,5 +9284,53 @@
 		"prefix": "",
 		"title": "Vragen over persoonlijke informatie, zoals je naam, je adres, je leeftijd, je woonplaats en je land van herkomst.",
 		"description": ""
+	},
+	{
+		"id": "9ea3d255-8bac-4551-81a0-0b644e6e7312",
+		"prefix": "",
+		"title": "Vragen zoals 'Hoe heet je?', 'Hoe oud ben je?', 'Waar woon je?' ",
+		"description": ""
+	},
+	{
+		"id": "abea4789-b993-4974-a770-7ceea02bdf4a",
+		"prefix": "",
+		"title": "Schoolregels zoals 'pet af', 'jas uit', boeken open/dicht'.",
+		"description": ""
+	},
+	{
+		"id": "00efbd24-cc0b-4788-b1e1-6074e6c8da59",
+		"prefix": "",
+		"title": "Welke bladzijde en oefening opgezocht moet worden.",
+		"description": ""
+	},
+	{
+		"id": "2ac2e195-4d6d-446a-9336-b6b646ae64ff",
+		"prefix": "",
+		"title": "Uitleg over hoe je op een bepaalde plek komt, zoals 'rechtdoor', 'de trap op', 'eerste deur links'.",
+		"description": ""
+	},
+	{
+		"id": "a6203b25-9ccd-4af9-83d8-b0fd4b685a21",
+		"prefix": "",
+		"title": "Instructies zoals 'de deur dicht doen', 'het licht uit/aan doen'.",
+		"description": ""
+	},
+	{
+		"id": "d814b925-6a38-48ef-9b2f-d8079d5bb226",
+		"prefix": "",
+		"title": "Een begroeting of afscheid.",
+		"description": ""
+	},
+	{
+		"id": "24df25b3-fca1-496b-8219-961908b559f6",
+		"prefix": "",
+		"title": "Een bedankje.",
+		"description": ""
+	},
+	{
+		"id": "b806afb3-dc01-48ab-a719-b9ab4cd33ba6",
+		"prefix": "",
+		"title": "Iemand die zich voorstelt.",
+		"description": ""
 	}
 ]
