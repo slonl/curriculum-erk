@@ -14249,7 +14249,10 @@
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
 		"title": "Kan omgaan met misverstanden en onverwachte problemen die zich voordoen tijdens samenwerkende of transactionele uitwisselingen online door beleefd en op passende wijze te reageren om te helpen het probleem op te lossen.",
-		"id": "ba74b145-5dd9-4828-bbc2-3b50d9c4f314"
+		"id": "ba74b145-5dd9-4828-bbc2-3b50d9c4f314",
+		"erk_voorbeeld_id": [
+			"a28f6cf1-847f-44b6-8ed5-13a0fa7f3aeb"
+		]
 	},
 	{
 		"niveau_id": [
@@ -14258,7 +14261,10 @@
 		"title": "Kan deelnemen aan samenwerkende of transactionele uitwisselingen online binnen het eigen vakgebied(en) waarbij moet worden onderhandeld over voorwaarden en gecompliceerde details en speciale vereisten moeten worden uitgelegd.",
 		"id": "0a16dc41-a63e-4f06-b787-539ce48651e8",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"2ebe535c-481f-4513-862f-59ac3a2810a2"
+		]
 	},
 	{
 		"niveau_id": [
@@ -14267,7 +14273,11 @@
 		"title": "Kan een leidende rol vervullen in online samenwerking binnen het eigen vakgebied(en) en zorgen dat de groepsleden zich met een taak blijven bezighouden door hen te herinneren aan hun rol, verantwoordelijkheid en deadline om de gestelde doelen te bereiken.",
 		"id": "bfafd2ab-5e97-48ec-8099-30e7c87df5ef",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"e917d3fa-7d82-4866-b0fd-8524240eab50",
+			"8a4b69b1-4996-4fc5-b440-102e78b51d57"
+		]
 	},
 	{
 		"niveau_id": [
