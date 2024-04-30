@@ -1298,20 +1298,28 @@
 		"description": ""
 	},
 	{
-		"title": "Reisplannen voor de volgende vakantie (DL).",
-		"id": "4d884e03-fcc2-4471-a1cb-1382315a44eb"
+		"title": "Een gesprek over reisplannen voor de volgende vakantie.",
+		"id": "4d884e03-fcc2-4471-a1cb-1382315a44eb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Activiteiten van het afgelopen weekend (DL).",
-		"id": "acec413f-0226-48d5-a961-e01ed98a7ca7"
+		"title": "Een conversatie over de activiteiten van het afgelopen weekend.",
+		"id": "acec413f-0226-48d5-a961-e01ed98a7ca7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Hoe het gaat op het werk (DL, WE).",
-		"id": "e4259d4b-d9d0-4980-9ec6-c6846e91f5b3"
+		"title": "Een dialoog over hoe het gaat op het werk.",
+		"id": "e4259d4b-d9d0-4980-9ec6-c6846e91f5b3",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Gesprekken over koetjes en kalfjes (DL).",
-		"id": "2cbc1e21-4a89-4d37-ac98-e0408fe08f30"
+		"title": "Gesprekken over koetjes en kalfjes.",
+		"id": "2cbc1e21-4a89-4d37-ac98-e0408fe08f30",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Je naam, je leeftijd, je woonplaats, je nationaliteit, je land van herkomst.",
@@ -9245,6 +9253,36 @@
 		"id": "c55f28e2-8334-4a7e-a1ca-78ecf8becdee",
 		"prefix": "",
 		"title": "Hoe het gebruik van Artificial Intelligence kan bijdragen aan de werkopdracht.",
+		"description": ""
+	},
+	{
+		"id": "a63af151-bf8f-4060-bac9-06ec477615af",
+		"prefix": "",
+		"title": "Het moment van de dag, een tijdstip.",
+		"description": ""
+	},
+	{
+		"id": "5eb566ec-c28f-48a2-83e2-bb2f5bb92a20",
+		"prefix": "",
+		"title": "Getallen en prijzen.",
+		"description": ""
+	},
+	{
+		"id": "b430e055-918c-463d-b75e-2e1320b81d3e",
+		"prefix": "",
+		"title": "Data, de dagen van de week.",
+		"description": ""
+	},
+	{
+		"id": "dc3c7643-711a-4945-971a-766d2438c13a",
+		"prefix": "",
+		"title": "Informatie die iemand over zichzelf vertelt, zoals naam, adres, leeftijd, woonplaats en land van herkomst.",
+		"description": ""
+	},
+	{
+		"id": "46b4ea74-eef6-4d39-ac2d-80db47552341",
+		"prefix": "",
+		"title": "Vragen over persoonlijke informatie, zoals je naam, je adres, je leeftijd, je woonplaats en je land van herkomst.",
 		"description": ""
 	}
 ]
