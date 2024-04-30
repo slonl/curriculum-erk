@@ -11777,38 +11777,57 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan mensen de eigen naam vertellen en andere mensen om hun naam vragen.",
+		"title": "Kan aan mensen de eigen naam vertellen en andere mensen om hun naam vragen.",
 		"id": "05398c0a-9bf1-43e0-a4b0-0ed85864e314",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"66389d3a-7fb9-41a0-b822-c48666f0ad15"
+		]
 	},
 	{
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
 		"title": "Kan eenvoudige getallen gebruiken en begrijpen in alledaagse gesprekken.",
-		"id": "19796640-63ce-4065-b838-5339d506dd36"
+		"id": "19796640-63ce-4065-b838-5339d506dd36",
+		"erk_voorbeeld_id": [
+			"37c8f388-5813-4f31-8afe-eadc8307312c",
+			"8e4f8337-2b08-430e-a86e-c46d5eb2a94c",
+			"15be8d2b-8aab-47a2-9152-06c1bdf38bbd"
+		]
 	},
 	{
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
 		"title": "Kan vragen en vertellen welke dag, hoe laat en welke datum het is.",
-		"id": "4bd35baa-80e8-4fdc-bc0f-afe8004b13b4"
+		"id": "4bd35baa-80e8-4fdc-bc0f-afe8004b13b4",
+		"erk_voorbeeld_id": [
+			"af88252b-43fe-4db7-8aad-2c59c81f5d0a",
+			"7328b06a-80ff-42a0-a31e-a7fb8b60f31e",
+			"7ef1035a-bd7a-471a-ae4d-6af7687d5559"
+		]
 	},
 	{
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
 		"title": "Kan een geboortedatum vragen en geven.",
-		"id": "fba957a1-08f4-4611-b3bb-8f09f8d1c7e4"
+		"id": "fba957a1-08f4-4611-b3bb-8f09f8d1c7e4",
+		"erk_voorbeeld_id": [
+			"e991a85a-c26f-40e2-b99e-a484b8c900ba"
+		]
 	},
 	{
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
 		"title": "Kan een telefoonnummer vragen en geven.",
-		"id": "c70fdf0e-c807-420e-b1a7-00982dc3be00"
+		"id": "c70fdf0e-c807-420e-b1a7-00982dc3be00",
+		"erk_voorbeeld_id": [
+			"b9c915e2-fed3-4aa7-95a0-f34f99b11b24"
+		]
 	},
 	{
 		"niveau_id": [
@@ -11817,7 +11836,10 @@
 		"title": "Kan de eigen leeftijd noemen en andere mensen om hun leeftijd vragen.",
 		"id": "78a7d524-06ff-42a7-9a6f-bd0ef82698d5",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"e9e0021f-bedc-4b64-9fda-d3742b4c7805"
+		]
 	},
 	{
 		"niveau_id": [
@@ -11826,7 +11848,12 @@
 		"title": "Kan zeer eenvoudige vragen stellen om informatie te verkrijgen en antwoorden van een of twee woorden begrijpen.",
 		"id": "5fe5ba74-6766-4d92-926b-254f211e2fcd",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"54c6895b-d9b3-47b2-aeda-a29ef7f326d7",
+			"09ff3acd-bd10-4144-98b0-f6e5eb919754",
+			"b75481ea-ad67-4068-8ca4-6d84365d9677"
+		]
 	},
 	{
 		"niveau_id": [
