@@ -14209,7 +14209,12 @@
 		"title": "Kan online interactie aangaan met een groep die aan een project werkt door directe instructies op te volgen, opheldering te vragen en te helpen de gedeelde taken te volbrengen.",
 		"id": "48b12a81-63f6-45a4-bca9-15dbde121a10",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"94cb94d6-51bf-4d4f-8b2e-cfbc1729eb78",
+			"dd43b42a-4517-48f0-9f6b-8935693c9ef1",
+			"dd43b42a-4517-48f0-9f6b-8935693c9ef1"
+		]
 	},
 	{
 		"niveau_id": [
@@ -14218,7 +14223,13 @@
 		"title": "Kan deelnemen aan online transacties die een uitgebreide uitwisseling van informatie vereisen, mits de gesprekspartners complexe taal vermijden en bereid zijn zo nodig dingen te herhalen of opnieuw te formuleren.",
 		"id": "0e7a6dcc-dbc9-4f31-b65f-8b263ed82208",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"7d22e3fa-616f-44bb-b6e1-25da9d546f2f",
+			"640278c7-2fb5-417f-9207-e3313e846951",
+			"0820143a-b4ba-422e-8204-1015a3e5f4ea",
+			"b64ae7a4-687e-427a-bf1a-43e1bade35c6"
+		]
 	},
 	{
 		"niveau_id": [
