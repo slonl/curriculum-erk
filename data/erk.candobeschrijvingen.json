@@ -12135,7 +12135,14 @@
 		"title": "Kan advies geven over eenvoudige zaken binnen het eigen ervaringsgebied.",
 		"id": "efc10449-287a-4e6a-bc3c-d55d1576e43d",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"41f1eb78-c9a3-4943-a197-aacb6ff49ebf",
+			"52754ddd-84ee-4820-808b-fc1dfb6abd40",
+			"e0ff69ad-f54b-4917-8f94-efbd818040ea",
+			"ac80d001-67e9-4c58-a9f3-128dcba5e30b",
+			"d1d0f756-7a51-4ce0-acb6-f5c04099d980"
+		]
 	},
 	{
 		"niveau_id": [
@@ -12143,7 +12150,8 @@
 		],
 		"erk_voorbeeld_id": [
 			"f6732da6-2a34-4741-bac1-b23aac4f46ad",
-			"c0cfc277-a735-4f09-947d-b694e0879a6d"
+			"c0cfc277-a735-4f09-947d-b694e0879a6d",
+			"b158f218-c407-4c7a-b47e-a118672d69d1"
 		],
 		"title": "Kan met enig vertrouwen verzamelde feitelijke informatie over vertrouwde alledaagse en niet-alledaagse zaken binnen het eigen vakgebied uitwisselen, controleren en bevestigen.",
 		"id": "22b66e71-b74c-4317-9367-83af9404ecf2",
@@ -12156,7 +12164,9 @@
 		],
 		"erk_voorbeeld_id": [
 			"7303afae-a217-44ea-bd97-80ba9d48fd1e",
-			"d0b36b4c-633f-41e3-86a0-08ec0dccd609"
+			"d0b36b4c-633f-41e3-86a0-08ec0dccd609",
+			"d5372d23-ddc6-499c-ba80-8be2dd998e90",
+			"c3add193-5b08-4a2e-aa4d-76480fcb14e1"
 		],
 		"title": "Kan een kort verhaal, artikel, lezing, discussie, vraaggesprek of documentaire samenvatten, er een mening over geven en nadere vragen over details beantwoorden.",
 		"id": "9d81a137-58c6-4276-8753-7a82c2883395",
