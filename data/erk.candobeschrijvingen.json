@@ -11862,7 +11862,14 @@
 		"title": "Kan getallen, hoeveelheden en kosten op beperkte wijze uitdrukken.",
 		"id": "59a0bbae-3cf4-447d-b537-ff093d0190ea",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"3243866a-71d6-4525-9477-0ba5998e0499",
+			"44b924ef-4aca-4e53-866f-387f36886d37",
+			"0c2e3e4e-2c29-40ef-b763-d97ad73f0d7e",
+			"10b7a08c-4f9d-4a55-bdb3-4e4728bc4506",
+			"acd26717-1d3e-491f-b190-50300762482c"
+		]
 	},
 	{
 		"niveau_id": [
@@ -11892,11 +11899,12 @@
 			"2a9bf587-8fbb-4e9b-a27b-2c8da288d747",
 			"070a4cc9-816d-434e-a0f3-0757813c8e59",
 			"86aa914d-6ae3-43a1-b5f5-6a7622a37f46",
-			"3d2daeae-1dd5-4266-bad3-f675a1973dc3",
-			"d799385d-c7d4-4efd-b383-683918576286"
+			"3d2daeae-1dd5-4266-bad3-f675a1973dc3"
 		],
 		"title": "Kan vragen beantwoorden en stellen over zichzelf en over anderen, waar zij wonen, wie zij kennen, wat zij bezitten.",
-		"id": "a755a2a4-0137-45fc-9e70-f9372a12a7de"
+		"id": "a755a2a4-0137-45fc-9e70-f9372a12a7de",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
