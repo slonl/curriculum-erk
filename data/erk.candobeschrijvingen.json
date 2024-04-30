@@ -14238,7 +14238,11 @@
 		"title": "Kan online samenwerken met een groep die aan een project werkt door voorstellen te motiveren, opheldering te vragen en een ondersteunende rol te spelen om gedeelde taken te volbrengen.",
 		"id": "086becaa-d7cf-4049-b01c-9bdba3a246c3",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"b0890dff-2bb9-4cac-a4be-a4414591c84f",
+			"edecf378-0d75-44b1-affb-b01efc179bcd"
+		]
 	},
 	{
 		"niveau_id": [
