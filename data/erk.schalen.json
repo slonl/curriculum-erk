@@ -3245,8 +3245,11 @@
 			"fab4a90b-99bf-462d-bf24-a7391994a418",
 			"bba3c8fc-84bd-4a26-a90c-2bcec706be8b"
 		],
-		"title": "Informatie uitwisselen",
-		"id": "f3cd3e9f-d4c1-447c-99b6-ecafe851bc27"
+		"title": "Informatie-uitwisseling",
+		"id": "f3cd3e9f-d4c1-447c-99b6-ecafe851bc27",
+		"prefix": "",
+		"description": "",
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
