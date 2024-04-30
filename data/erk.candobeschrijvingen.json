@@ -12314,7 +12314,8 @@
 		],
 		"erk_voorbeeld_id": [
 			"742ede36-bfb6-44af-b1bc-a9819732da65",
-			"27dcaff7-663e-48a1-bebb-d0c93a0eda75"
+			"27dcaff7-663e-48a1-bebb-d0c93a0eda75",
+			"55927631-50ad-40c3-a6dd-0261af9dc075"
 		],
 		"title": "Kan een voorbereide vragenlijst gebruiken om een gestructureerd vraaggesprek te voeren met enige spontane vervolgvragen.",
 		"id": "3c2e155d-3e0d-4d04-a6a7-33ca11bcd7c6"
@@ -12326,7 +12327,9 @@
 		"erk_voorbeeld_id": [
 			"a5a235c9-2032-4e13-813a-33dafcb1e037",
 			"a5b7403f-e842-437c-9194-226b1d9d4d99",
-			"0e141af5-d3d8-4505-b2ee-b3895bb0f6a1"
+			"0e141af5-d3d8-4505-b2ee-b3895bb0f6a1",
+			"e643c0e7-d176-49fa-8ed4-0d5ac006c5c0",
+			"b7a254c1-705a-4439-b222-de81a95db16c"
 		],
 		"title": "Kan concrete informatie verschaffen waarnaar in een vraaggesprek of consult gevraagd wordt, maar met beperkte nauwkeurigheid.",
 		"id": "d9a0c7d0-efea-4ed2-a602-265192d491ca",
@@ -12338,7 +12341,9 @@
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
 		"erk_voorbeeld_id": [
-			"9f24249d-8431-4369-b825-b4080db6c767"
+			"9f24249d-8431-4369-b825-b4080db6c767",
+			"ef80c59a-e170-4d86-afc7-86ab44140a0f",
+			"60d4ea94-7a0b-4226-b79d-f429f360ff76"
 		],
 		"title": "Kan een voorbereid vraaggesprek voeren en daarbij informatie controleren en bevestigen, met nu en dan een vraag om herhaling als de ander snel of uitvoerig antwoordt.",
 		"id": "4aee360d-9a6d-4761-9133-42e46623b536",
