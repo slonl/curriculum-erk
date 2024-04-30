@@ -4162,20 +4162,28 @@
 		"description": ""
 	},
 	{
-		"title": "De docent om bevestiging vragen van de regels rondom inschrijving en afname van een internationale taaltoets (OPL).",
-		"id": "f6732da6-2a34-4741-bac1-b23aac4f46ad"
+		"title": "De docent om bevestiging vragen van de regels rondom inschrijving en afname van een internationale taaltoets.",
+		"id": "f6732da6-2a34-4741-bac1-b23aac4f46ad",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een voorval aan een vriend vertellen om het op juistheid te checken (DL).",
-		"id": "c0cfc277-a735-4f09-947d-b694e0879a6d"
+		"title": "Een voorval bij een collega checken op juistheid.",
+		"id": "c0cfc277-a735-4f09-947d-b694e0879a6d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De inhoud van een krantenartikel uitgebreid bespreken (DL).",
-		"id": "7303afae-a217-44ea-bd97-80ba9d48fd1e"
+		"title": "De inhoud van een krantenartikel uitgebreid bespreken.",
+		"id": "7303afae-a217-44ea-bd97-80ba9d48fd1e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een interview (bijv. gezien in het nieuws) met een bekendheid navertellen en becommentariëren (DL).",
-		"id": "d0b36b4c-633f-41e3-86a0-08ec0dccd609"
+		"title": "Een interview met een bekendheid navertellen en becommentariëren.",
+		"id": "d0b36b4c-633f-41e3-86a0-08ec0dccd609",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Over toelatingseisen bij een buitenlandse opleiding (OPL).",
@@ -9149,6 +9157,54 @@
 		"id": "7de1b94d-21f6-4401-96f4-dd07b20395df",
 		"prefix": "",
 		"title": "Over een nieuwe film.",
+		"description": ""
+	},
+	{
+		"id": "41f1eb78-c9a3-4943-a197-aacb6ff49ebf",
+		"prefix": "",
+		"title": "Kan iemand die een nieuwe sport wil beoefenen adviseren welke stappen te nemen voor de inschrijving bij de sportclub.",
+		"description": ""
+	},
+	{
+		"id": "52754ddd-84ee-4820-808b-fc1dfb6abd40",
+		"prefix": "",
+		"title": "Kan iemand adviseren naar de juiste instantie voor het aanvragen van een officieel document.",
+		"description": ""
+	},
+	{
+		"id": "e0ff69ad-f54b-4917-8f94-efbd818040ea",
+		"prefix": "",
+		"title": "Een buitenlandse medeleerling helpen bij het maken van een opdracht voor bijvoorbeeld economie of natuurkunde, of het afmaken van een kunstproject.",
+		"description": ""
+	},
+	{
+		"id": "ac80d001-67e9-4c58-a9f3-128dcba5e30b",
+		"prefix": "",
+		"title": "Kan aanbevelingen doen voor activiteiten, winkels of restaurants in de eigen woonomgeving.",
+		"description": ""
+	},
+	{
+		"id": "d1d0f756-7a51-4ce0-acb6-f5c04099d980",
+		"prefix": "",
+		"title": "Kan aangeven met welk vervoer je het beste op een bepaalde locatie komt.",
+		"description": ""
+	},
+	{
+		"id": "b158f218-c407-4c7a-b47e-a118672d69d1",
+		"prefix": "",
+		"title": "Tijdens het uitoefenen van een bijbaantje.",
+		"description": ""
+	},
+	{
+		"id": "d5372d23-ddc6-499c-ba80-8be2dd998e90",
+		"prefix": "",
+		"title": "Met een vriend praten over de laatste aflevering van een reality show.",
+		"description": ""
+	},
+	{
+		"id": "c3add193-5b08-4a2e-aa4d-76480fcb14e1",
+		"prefix": "",
+		"title": "Een hoofdstuk of kort verhaal samenvatten.",
 		"description": ""
 	}
 ]
