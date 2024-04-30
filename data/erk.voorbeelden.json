@@ -8514,5 +8514,77 @@
 		"prefix": "",
 		"title": "Het aanmaken van een sociale media account.",
 		"description": ""
+	},
+	{
+		"id": "21a90575-af37-447b-93cf-06c7390b2420",
+		"prefix": "",
+		"title": "Op een online platform met je vrienden een feest voor een jarige vriend plannen.",
+		"description": ""
+	},
+	{
+		"id": "866a9b43-6968-4953-86ad-11d3753646ba",
+		"prefix": "",
+		"title": "Online met je medestudenten/medeleerlingen een korte presentatie voorbereiden over jullie gezamenlijke hobby.",
+		"description": ""
+	},
+	{
+		"id": "91a0b921-fc17-4565-9ba2-d44960b77b9c",
+		"prefix": "",
+		"title": "Vragen of er nog tickets zijn voor de voorstelling op dinsdagavond.",
+		"description": ""
+	},
+	{
+		"id": "62c8f6e4-7b26-4345-9bbe-148ce566a5bb",
+		"prefix": "",
+		"title": "Vragen of de trui er ook in een andere kleur is.",
+		"description": ""
+	},
+	{
+		"id": "7b27408a-5170-4a19-b7b7-e168855313b3",
+		"prefix": "",
+		"title": "Vragen of er ook vegetarische maaltijden zijn.",
+		"description": ""
+	},
+	{
+		"id": "ac4ff30d-c3d6-4fdf-b118-32aa785e6a93",
+		"prefix": "",
+		"title": "Vragen wat er te doen is in een bepaalde stad.",
+		"description": ""
+	},
+	{
+		"id": "e8aee0f9-73e0-4d53-9737-7441e7b5fae1",
+		"prefix": "",
+		"title": "Schoenen ruilen en aangeven dat je een andere maat nodig hebt.",
+		"description": ""
+	},
+	{
+		"id": "7ad0f89d-0086-447c-ae01-81763fca1d15",
+		"prefix": "",
+		"title": "Je inschrijven voor een taalcursus en akkoord gaan met de annuleringsvoorwaarden. ",
+		"description": ""
+	},
+	{
+		"id": "da5aa80e-2671-4988-92ff-7e2fd59e19cd",
+		"prefix": "",
+		"title": "Een groepsreis boeken en aangeven dat je geen extra excursies wilt doen.",
+		"description": ""
+	},
+	{
+		"id": "7bd6e4df-6567-45a0-99f1-559394a62c79",
+		"prefix": "",
+		"title": "Jezelf inschrijven voor de nieuwsbrief van een festival.",
+		"description": ""
+	},
+	{
+		"id": "d43b0000-2523-4beb-9b17-73261cdc97c3",
+		"prefix": "",
+		"title": "Een maaltijd laten bezorgen.",
+		"description": ""
+	},
+	{
+		"id": "61e76355-2198-4086-bb01-ee2e0a5dfb2d",
+		"prefix": "",
+		"title": "Een dagticket voor een attractiepark boeken.",
+		"description": ""
 	}
 ]
