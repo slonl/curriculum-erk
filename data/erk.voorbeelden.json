@@ -2868,36 +2868,52 @@
 		"description": ""
 	},
 	{
-		"title": "Jezelf afmelden bij een afspraak (DL, PU).",
-		"id": "a149992b-da46-48a7-a8fa-9c98a94b36eb"
+		"title": "Jezelf afmelden bij een afspraak.",
+		"id": "a149992b-da46-48a7-a8fa-9c98a94b36eb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Begrip tonen als iemand een afspraak afzegt (DL).",
-		"id": "2b415be6-b7c6-4a56-933a-52f9de78d7c0"
+		"title": "Begrip tonen als iemand een afspraak afzegt.",
+		"id": "2b415be6-b7c6-4a56-933a-52f9de78d7c0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Jezelf verontschuldigen als je te laat komt (DL).",
-		"id": "1e689036-ed38-4c80-841e-70b4335745ad"
+		"title": "Jezelf verontschuldigen als je te laat komt.",
+		"id": "1e689036-ed38-4c80-841e-70b4335745ad",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Jezelf verontschuldigen bij het gastgezin als je iets kapot hebt gemakt of de sleuten bent kwijtgeraakt (DL, OPL).",
-		"id": "a6b03d4a-6f72-48d0-987d-ca36ffe78419"
+		"title": "Jezelf verontschuldigen bij het gastgezin als je iets kapot hebt gemaakt of de sleutel bent kwijtgeraakt.",
+		"id": "a6b03d4a-6f72-48d0-987d-ca36ffe78419",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Om mee te doen aan een uitje (XX).",
-		"id": "7739fb94-2c94-409b-aaa0-ac3af5111d5b"
+		"title": "Iemand uitnodigen om mee te doen aan een uitje.",
+		"id": "7739fb94-2c94-409b-aaa0-ac3af5111d5b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Voor een feestavond (DL).",
-		"id": "9c88a22f-d7c1-489f-8126-7f9019198b83"
+		"title": "Een uitnodiging voor een feestavond afslaan.",
+		"id": "9c88a22f-d7c1-489f-8126-7f9019198b83",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Om langs te komen (DL).",
-		"id": "63bb50a2-dd3e-4a4f-8fb3-b64abe84805a"
+		"title": "Een suggestie opperen om langs te komen.",
+		"id": "63bb50a2-dd3e-4a4f-8fb3-b64abe84805a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Om op een bepaalde tijd iets te doen (DL).",
-		"id": "c31bb7f1-c170-4acb-9fa7-84f53e641921"
+		"title": "Een suggestie opperen om op een bepaalde tijd iets te doen, bijvoorbeeld naar de bioscoop te gaan of samen te gaan sporten.",
+		"id": "c31bb7f1-c170-4acb-9fa7-84f53e641921",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Aan een buitenlandse kennis vertellen welke sport hij of zij leuk vindt en welke niet (DL).",
