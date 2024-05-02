@@ -3606,44 +3606,64 @@
 		"description": ""
 	},
 	{
-		"title": "Advies aan een vriend/in geven over welke mobiele telefoon hij/zij moet kopen (DL).",
-		"id": "3e79f56e-5392-41e4-8065-654a1aadd223"
+		"title": "Advies aan een vriend/in geven over welke mobiele telefoon gekocht moet worden.",
+		"id": "3e79f56e-5392-41e4-8065-654a1aadd223",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Overleggen over reparatiewerkzaamheden aan een auto, scooter of fiets (DL, PU).",
-		"id": "fcfdcb97-940a-41fe-844f-c9abedd7422e"
+		"title": "Overleggen over reparatiewerkzaamheden aan een auto, scooter of fiets.",
+		"id": "fcfdcb97-940a-41fe-844f-c9abedd7422e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Overleggen met een buitenlandse vriend/in over de organisatie van een gezamenlijke reis (DL).",
-		"id": "01a45cb0-2077-440e-b743-8c25d1d543c3"
+		"title": "Overleggen met een buitenlandse vriend/in over de organisatie van een gezamenlijke reis.",
+		"id": "01a45cb0-2077-440e-b743-8c25d1d543c3",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een discussie de gesprekspartner om zijn mening vragen over hoe hij/zij iets zou willen aanpakken (XX).",
-		"id": "7ec8e6d9-cd22-4d7c-ba5d-dc783ee9f29b"
+		"title": "In een discussie de gesprekspartner om diens mening vragen over welke aanpak wenselijk is.",
+		"id": "7ec8e6d9-cd22-4d7c-ba5d-dc783ee9f29b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Tijdens een groepsopdracht vragen hoe de anderen de taakverdeling zien (OPL).",
-		"id": "a364a8b2-0ae7-46ac-887a-a67ac0d2deb6"
+		"title": "Tijdens een groepsopdracht vragen hoe de anderen de taakverdeling zien.",
+		"id": "a364a8b2-0ae7-46ac-887a-a67ac0d2deb6",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Overleggen over de indeling van accommodatie voor een groep gasten (OPL, WE).",
-		"id": "5f00f8e3-2a5f-4dc0-ba2b-badeae9b89c9"
+		"title": "Overleggen over de indeling van de accommodatie voor een groep gasten.",
+		"id": "5f00f8e3-2a5f-4dc0-ba2b-badeae9b89c9",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Als coach gedetailleerde aanwijzingen aan de leden van een team geven tijdens een sportwedstrijd en controleren of die begrepen zijn (DL).",
-		"id": "e0eda3d7-c753-4029-857f-861c915d9cfd"
+		"title": "Aan een vriend vragen wat er verder gedaan moet worden om een nieuw programma te installeren.",
+		"id": "e0eda3d7-c753-4029-857f-861c915d9cfd",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aan een vriend precies vertellen wat hij moet doen om een nieuw programma te installeren en checken of hij dit correct kan toepassen (DL).",
-		"id": "36356d7a-5551-402d-8a2f-6a92666d730c"
+		"title": "Bij een groepsopdracht klasgenoten vragen om hun ideeën te geven tijdens het brainstormen.",
+		"id": "36356d7a-5551-402d-8a2f-6a92666d730c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een proef bij scheikunde beschrijven (OPL).",
-		"id": "dab43ff3-14ac-44f5-a182-a076d5e613e9"
+		"title": "Als coach de teamleden vragen om feedback te geven op de gespeelde wedstrijd.",
+		"id": "dab43ff3-14ac-44f5-a182-a076d5e613e9",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Beschrijven hoe een ingewikkeld gerecht moet worden klaargemaakt (DL).",
-		"id": "0fb21f98-8dd4-4737-9472-f2a5fab012ef"
+		"title": "Iemand die heel goed kan koken om tips vragen hoe een ingewikkeld gerecht het beste klaargemaakt kan worden.",
+		"id": "0fb21f98-8dd4-4737-9472-f2a5fab012ef",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Door de taken in een groepje te bespreken voor het organiseren van een beachvolleybal-wedstrijd (DL).",
@@ -10433,6 +10453,36 @@
 		"id": "3283f103-9635-4d64-a852-845323107a26",
 		"prefix": "",
 		"title": "Tijdens het uitvoeren van een groepsopdracht de feedback van de docent verwerken.",
+		"description": ""
+	},
+	{
+		"id": "f22ef90c-dfd0-4645-b1dd-03d1c43612f6",
+		"prefix": "",
+		"title": "Tijdens een vakantie vrienden vragen naar een activiteit voor na de wandeling en hoe daar te komen.",
+		"description": ""
+	},
+	{
+		"id": "5dd8fb09-b6e0-4ca4-8b79-d548c2b2688d",
+		"prefix": "",
+		"title": "Aangeven wat de internetproblemen zijn en mogelijke oplossingen bespreken.",
+		"description": ""
+	},
+	{
+		"id": "b5c8179f-6bad-41a7-8b98-0e1d945884f0",
+		"prefix": "",
+		"title": "Bij samenwerken aan een groepsopdracht aangeven waarom het een probleem is dat een van de groepsgenoten de taak niet uitvoert en samen zoeken naar oplossingen.",
+		"description": ""
+	},
+	{
+		"id": "a025c53d-80fa-4d8d-a8d5-810410e323e6",
+		"prefix": "",
+		"title": "Aan een reisgenoot uitleggen dat de trein niet verder rijdt vanwege een treinstaking en op zoek gaan naar alternatief vervoer richting een geplande excursie.",
+		"description": ""
+	},
+	{
+		"id": "9748332a-7e87-4773-b143-86e107704c91",
+		"prefix": "",
+		"title": "Tijdens een kookworkshop uitleggen waarom er een bepaald ingrediënt mist en verschillende alternatieve ingrediënten aandragen.",
 		"description": ""
 	}
 ]
