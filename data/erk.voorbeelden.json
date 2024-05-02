@@ -3666,28 +3666,40 @@
 		"description": ""
 	},
 	{
-		"title": "Door de taken in een groepje te bespreken voor het organiseren van een beachvolleybal-wedstrijd (DL).",
-		"id": "7d2c06c6-b4c9-42d7-bff4-fb4efdfd4b67"
+		"title": "Door de taken voor het organiseren van een beachvolleybalwedstrijd in een groepje te bespreken.",
+		"id": "7d2c06c6-b4c9-42d7-bff4-fb4efdfd4b67",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Door anderen te vragen om te zeggen wat zij ergens van vinden (OPL, WE).",
-		"id": "359768b3-dfe9-403b-b462-f092567d1002"
+		"title": "Door anderen te vragen om te zeggen wat zij ergens van vinden.",
+		"id": "359768b3-dfe9-403b-b462-f092567d1002",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Door alternatieven voor te stellen en te bespreken met betrekking tot de service die het (stage)bedrijf aan zijn klanten/gasten verleent (OPL, WE).",
-		"id": "aa66d0c5-1b2c-4aca-b6f4-f47452558c17"
+		"title": "Door alternatieven met betrekking tot de service die het (stage)bedrijf aan klanten/gasten verleent voor te stellen en te bespreken.",
+		"id": "aa66d0c5-1b2c-4aca-b6f4-f47452558c17",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Met een plaatselijk reisbureau in het buitenland allerlei alternatieve opties bespreken bij overboeking op een interne vlucht, trein of bus (PU).",
-		"id": "463c675c-2628-4167-b8fc-3067c191e9e0"
+		"title": "Met een plaatselijk reisbureau in het buitenland allerlei alternatieve opties bespreken bij een overboeking op een interne vlucht, trein of bus.",
+		"id": "463c675c-2628-4167-b8fc-3067c191e9e0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De geschikte werkwijze voor een groepsopdracht bespreken (OPL).",
-		"id": "d5c70f6d-357b-4617-aeb2-0a4df87f3fa6"
+		"title": "Na het vastlopen in een groepsopdracht het probleem schetsen en vervolgens een nieuwe werkwijze bespreken.",
+		"id": "d5c70f6d-357b-4617-aeb2-0a4df87f3fa6",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Speculeren over de consequenties van uitstel van levering van reeds bestelde producten (WE).",
-		"id": "afb6b4bc-be08-4d45-a2c0-64a8f7de3a96"
+		"title": "Speculeren over de consequenties van uitstel van levering van reeds bestelde producten.",
+		"id": "afb6b4bc-be08-4d45-a2c0-64a8f7de3a96",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Vragen om een product in een bepaalde kleur of vorm, bijvoorbeeld een souvenir of een kledingstuk (DL).",
@@ -10483,6 +10495,18 @@
 		"id": "9748332a-7e87-4773-b143-86e107704c91",
 		"prefix": "",
 		"title": "Tijdens een kookworkshop uitleggen waarom er een bepaald ingrediënt mist en verschillende alternatieve ingrediënten aandragen.",
+		"description": ""
+	},
+	{
+		"id": "b3d566a9-3822-4924-b197-f81595b510fb",
+		"prefix": "",
+		"title": "Tijdens een overleg met buitenlandse medeleerlingen over een opdracht/taak met een gemeenschappelijk doel.",
+		"description": ""
+	},
+	{
+		"id": "b90645b2-fb96-4c34-be51-a7198ea56bea",
+		"prefix": "",
+		"title": "Bij de bespreking van een projectplan.",
 		"description": ""
 	}
 ]
