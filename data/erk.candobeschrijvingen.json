@@ -10797,7 +10797,12 @@
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
 		"title": "Kan een gesprek beginnen en helpen dit gaande te houden door mensen relatief spontane vragen te stellen over een speciale ervaring of gebeurtenis en reacties en meningen over vertrouwde onderwerpen uitdrukken.",
-		"id": "b6c9d2d5-0b01-48fe-b3ae-f6123fd010f0"
+		"id": "b6c9d2d5-0b01-48fe-b3ae-f6123fd010f0",
+		"erk_voorbeeld_id": [
+			"dea5d6a5-d7d6-4d96-b79e-222821fbcd2e",
+			"a95b54d2-a878-4fa8-b0b1-cbc23a7b3ef7",
+			"50d4f31d-76a1-4251-92fa-1b457772322f"
+		]
 	},
 	{
 		"niveau_id": [
@@ -10806,7 +10811,12 @@
 		"title": "Kan relatief lange gesprekken voeren over onderwerpen van gedeelde interesse, mits de gesprekspartner moeite doet om het begrip te ondersteunen.",
 		"id": "2fd935d0-1492-432a-b31d-d54341d14ac9",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"c6670c89-9910-45ea-90c8-ca4ba35e98f0",
+			"06411738-5434-4ee2-9a1c-c4b74b05d5f0",
+			"76107b7c-1241-4e05-9db2-545737441b49"
+		]
 	},
 	{
 		"niveau_id": [
