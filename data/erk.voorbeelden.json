@@ -10508,5 +10508,47 @@
 		"prefix": "",
 		"title": "Bij de bespreking van een projectplan.",
 		"description": ""
+	},
+	{
+		"id": "30d4daeb-6651-4bb2-95c2-c653288c62f5",
+		"prefix": "",
+		"title": "De invoering van een stiltezone in de kantoortuin.",
+		"description": ""
+	},
+	{
+		"id": "709c909e-63b9-46da-86d0-af4715780497",
+		"prefix": "",
+		"title": "De aanschaf van nieuwe laptops voor in de klas.",
+		"description": ""
+	},
+	{
+		"id": "7e5fa96f-e739-430b-833f-68a50e431b29",
+		"prefix": "",
+		"title": "De geplande roosterwijzigingen in de week voor de vakantie.",
+		"description": ""
+	},
+	{
+		"id": "4b84c3a9-e5db-4a72-8990-309f5faacfc2",
+		"prefix": "",
+		"title": "Het begrijpen van eenvoudige vragen en instructies van bijvoorbeeld de kapper of de arts: 'doe je arm omhoog', 'kijk naar beneden'.",
+		"description": ""
+	},
+	{
+		"id": "4c52f17b-91fb-4d71-8c3d-188c3864f8e1",
+		"prefix": "",
+		"title": "Het begrijpen van korte instructies voor een eenvoudig of reeds bekend (bord-)spel of een spel op het schoolplein.",
+		"description": ""
+	},
+	{
+		"id": "d2d1fb84-968d-4bae-b087-f4f2a5a7308e",
+		"prefix": "",
+		"title": "Het begrijpen van korte, eenvoudige richtingsaanwijzingen als: 'eerste deur rechts', 'de trap op'. ",
+		"description": ""
+	},
+	{
+		"id": "c292c41d-2087-4c03-8dc4-b558a332bb0a",
+		"prefix": "",
+		"title": "Het begrijpen van korte instructies van de leraar tijdens de les: 'werk in tweetallen', 'kijk naar het bord'. ",
+		"description": ""
 	}
 ]
