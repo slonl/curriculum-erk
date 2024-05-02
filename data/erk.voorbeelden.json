@@ -2770,28 +2770,38 @@
 		"description": ""
 	},
 	{
-		"title": "Uitdrukkingen die behoren bij begroeting of afscheid (DL).",
-		"id": "ba42f4e6-dd90-47f2-96a5-06dfd74d40c6"
+		"title": "Uitdrukkingen die horen bij begroeting of afscheid.",
+		"id": "ba42f4e6-dd90-47f2-96a5-06dfd74d40c6",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Uitdrukkingen die behoren bij bedanken (DL).",
-		"id": "144a5e13-b2b6-4d8c-b4fb-426596cb3822"
+		"title": "Uitdrukkingen die behoren bij bedanken.",
+		"id": "144a5e13-b2b6-4d8c-b4fb-426596cb3822",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Uitwisseling van (gespelde) adresgegevens (DL).",
-		"id": "c10580a7-cd00-46e3-81a0-22248139d907"
+		"title": "Uitwisseling van (gespelde) adresgegevens, zoals naam en e-mailadres.",
+		"id": "c10580a7-cd00-46e3-81a0-22248139d907",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Uitdrukkingen die gebruikt worden als iemand zich voorstelt (DL).",
-		"id": "0c7de3a5-d05b-4d4a-a58b-171d2e5db7e2"
+		"title": "Uitdrukkingen die gebruikt worden als iemand zich voorstelt.",
+		"id": "0c7de3a5-d05b-4d4a-a58b-171d2e5db7e2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Uitdrukkingen om iemand te beschrijven (DL).",
 		"id": "077caae8-0d46-470c-bbd4-b4f9456ca1d7"
 	},
 	{
-		"title": "Begrijpen wat iets kost, om welke hoeveelheden het gaat (DL).",
-		"id": "73cace17-8c3f-4906-910d-5c9973bda026"
+		"title": "Begrijpen wat iets kost, om welke hoeveelheid het gaat.",
+		"id": "73cace17-8c3f-4906-910d-5c9973bda026",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Tijdens een voorstelrondje aan het begin van een bezoek aan een buitenlandse school (OPL).",
@@ -9851,6 +9861,60 @@
 		"id": "56466cf2-7b57-436e-8a20-08b95f45f178",
 		"prefix": "",
 		"title": "Een groepsgesprek met vrienden of familie.",
+		"description": ""
+	},
+	{
+		"id": "dcb57e35-a481-401b-b277-27b72a647eb9",
+		"prefix": "",
+		"title": "Ja, nee.",
+		"description": ""
+	},
+	{
+		"id": "3b21d21d-129c-4888-b8cc-35c9876e0602",
+		"prefix": "",
+		"title": "Pardon.",
+		"description": ""
+	},
+	{
+		"id": "1b06b5c6-5f88-44eb-a6ef-b0be7acace68",
+		"prefix": "",
+		"title": "Alstublieft.",
+		"description": ""
+	},
+	{
+		"id": "38f9124a-0042-4122-85ea-4f6a4fae396f",
+		"prefix": "",
+		"title": "Bedankt, dank u.",
+		"description": ""
+	},
+	{
+		"id": "c6ce4566-67bc-4b3a-a3cf-2acd1bb5427a",
+		"prefix": "",
+		"title": "Sorry.",
+		"description": ""
+	},
+	{
+		"id": "c57d9555-5e99-4f80-bee8-268ac96e5d6e",
+		"prefix": "",
+		"title": "Hallo.",
+		"description": ""
+	},
+	{
+		"id": "20311874-7cbe-4624-8a4f-1bb59351e358",
+		"prefix": "",
+		"title": "Goedemorgen, goedemiddag.",
+		"description": ""
+	},
+	{
+		"id": "696e12d9-9151-4c49-beea-4eefeb5da453",
+		"prefix": "",
+		"title": "Hoe gaat het met je/u?",
+		"description": ""
+	},
+	{
+		"id": "7057c204-326a-474e-8a82-cf0f7c708d7f",
+		"prefix": "",
+		"title": "Tot ziens.",
 		"description": ""
 	}
 ]
