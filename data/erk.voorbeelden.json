@@ -3076,36 +3076,52 @@
 		"description": ""
 	},
 	{
-		"title": "Deelnemen aan de conversatie bij informele gelegenheden, ook in een lawaaiige omgeving (DL).",
-		"id": "75818af8-b578-4d43-af65-ab2c190ede63"
+		"title": "Deelnemen aan de conversatie bij informele gelegenheden, ook in een lawaaierige omgeving.",
+		"id": "75818af8-b578-4d43-af65-ab2c190ede63",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Op humoristisch wijze praten over politici, kennissen of jezelf (DL).",
-		"id": "0e8d19c8-5733-4100-bf87-ff7720bf8ce7"
+		"title": "Op humoristische wijze praten over politici, kennissen of jezelf.",
+		"id": "0e8d19c8-5733-4100-bf87-ff7720bf8ce7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Grapjes maken om een gesprek een minder serieuze wending te geven (DL).",
-		"id": "a7ddda43-0c59-4b22-8c0d-fc8733151c3c"
+		"title": "Grapjes maken om een gesprek een minder serieuze wending te geven.",
+		"id": "a7ddda43-0c59-4b22-8c0d-fc8733151c3c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een anekdote of een grappig verhaal vertellen (DL).",
-		"id": "22ade32a-e724-4065-8dd2-64699c6d7cc2"
+		"title": "Een anekdote of een grappig verhaal vertellen.",
+		"id": "22ade32a-e724-4065-8dd2-64699c6d7cc2",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aan een discussie over interculturele verschillen deelnemen en een treffend voorbeeld daarvan geven (DL).",
-		"id": "8c451399-4cfe-4f59-804a-56e07a051d04"
+		"title": "Aan een discussie over interculturele verschillen deelnemen en een treffend voorbeeld daarvan geven.",
+		"id": "8c451399-4cfe-4f59-804a-56e07a051d04",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Met buitenlandse gasten tijdens het eten over politieke gebeurtenissen discussiëren en verschillende perspectieven verduidelijken, waaronder je eigen standpunt (DL, OPL).",
-		"id": "6a666cd1-c154-4db5-971b-578f446b9a98"
+		"title": "Met buitenlandse gasten tijdens het eten over politieke gebeurtenissen discussiëren en verschillende perspectieven verduidelijken, waaronder je eigen standpunt.",
+		"id": "6a666cd1-c154-4db5-971b-578f446b9a98",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Zich moeiteloos invoegen tijdens een rondetafelgesprek over een literair thema, reageren op wat door de deelnemers wordt gezegd en de eigen mening aan de hand van voorbeelden illustreren (DL, OPL).",
-		"id": "db80687a-7036-49da-9bea-208d98bbb39b"
+		"title": "Zich moeiteloos invoegen tijdens een rondetafelgesprek over een literair thema, reageren op wat door de deelnemers wordt gezegd en de eigen mening aan de hand van voorbeelden illustreren.",
+		"id": "db80687a-7036-49da-9bea-208d98bbb39b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Zich spontaan in een gesprek mengen en de eigen mening op een diplomatieke manier uiten (OPL, WE).",
-		"id": "1046f21e-f02c-40fd-9dd2-1fcd0528e732"
+		"title": "Zich spontaan in een gesprek mengen en de eigen mening op een diplomatieke manier uiten.",
+		"id": "1046f21e-f02c-40fd-9dd2-1fcd0528e732",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Aan een vakantievriend vertellen welke sport je leuk vindt en welke niet (DL).",
@@ -10219,6 +10235,48 @@
 		"id": "d8d88e52-7dd7-432b-9e8c-d036082be499",
 		"prefix": "",
 		"title": "Naar aanleiding van de laatste nieuwsberichten in de pers eigen standpunten uitwisselen over het politiek beleid in een bepaald land.",
+		"description": ""
+	},
+	{
+		"id": "067e79ac-db6a-4c58-b3b8-d48d19e90c59",
+		"prefix": "",
+		"title": "Hallo, ik ben ...",
+		"description": ""
+	},
+	{
+		"id": "62859065-9546-4876-af0f-0084516f4721",
+		"prefix": "",
+		"title": "Tot ziens, fijn weekend.",
+		"description": ""
+	},
+	{
+		"id": "c9a742c1-b2cd-4139-9340-ca9184bae1ea",
+		"prefix": "",
+		"title": "Jezelf voorstellen in een groep en iets vertellen over je school, studie of baan.",
+		"description": ""
+	},
+	{
+		"id": "8cbb5bbd-e6bc-4c24-b818-83a5c6c25be2",
+		"prefix": "",
+		"title": "Afscheid nemen van iemand op de laatste dag van het zomerkamp en de wens uitdrukken om contact te houden.",
+		"description": ""
+	},
+	{
+		"id": "8eaedc00-0e3b-4c65-bed5-3c9af9146483",
+		"prefix": "",
+		"title": "Na afloop van een uitwisseling je gastgezin bedanken voor de mooie tijd.",
+		"description": ""
+	},
+	{
+		"id": "dfda8b76-29ae-4ce1-95a2-4e9d02296dfd",
+		"prefix": "",
+		"title": "Een gesprek over hobby’s, huisdieren, familie, vrienden.",
+		"description": ""
+	},
+	{
+		"id": "6bd6df55-e36e-47d9-b3cb-3b156a7c6cf9",
+		"prefix": "",
+		"title": "Een gesprek over school, studie of beroep.",
 		"description": ""
 	}
 ]
