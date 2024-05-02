@@ -3548,44 +3548,62 @@
 		"id": "35baf6ce-1980-4b06-b4ad-c61289a177d0"
 	},
 	{
-		"title": "Vragen om een product in een bepaalde kleur of vorm, bijvoorbeeld een souvenir of een kledingstuk (DL).",
-		"id": "292c5bfd-acc4-4b44-a4f0-438b1f47eb40"
+		"title": "Vragen om een product in een bepaalde kleur of vorm, bijvoorbeeld een souvenir of een kledingstuk.",
+		"id": "292c5bfd-acc4-4b44-a4f0-438b1f47eb40",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vragen om een kaartje voor het openbaar vervoer en hiervoor betalen (DL).",
-		"id": "99853707-dc08-4429-9268-c9271321b087"
+		"title": "Vragen om een kaartje voor het openbaar vervoer en hiervoor betalen.",
+		"id": "99853707-dc08-4429-9268-c9271321b087",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vragen naar een gerecht van een eenvoudige menukaart (DL).",
-		"id": "d36ed8c9-9f25-4b81-b4a0-6c5257690278"
+		"title": "Het lenen en uitlenen van spullen, bijvoorbeeld een pen of een boek.",
+		"id": "d36ed8c9-9f25-4b81-b4a0-6c5257690278",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een bestelling opnemen op een terras of in een café en laten merken dat je het hebt begrepen (WE).",
-		"id": "bcc922f4-969e-4dc7-95fb-9cd9357f1c84"
+		"title": "Het uitwisselen van bijvoorbeeld kaarten, dobbelstenen, ballen tijdens het spelen van een (bord-)spel.",
+		"id": "bcc922f4-969e-4dc7-95fb-9cd9357f1c84",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Iemand bedanken voor een aanwijzing (PU).",
 		"id": "fd4577a3-71ee-401f-a870-dfc83714cbcc"
 	},
 	{
-		"title": "Taken verdelen voor de voorbereiding van een barbecue (DL).",
-		"id": "323858f9-96a2-4f29-96ee-51dbc5ade910"
+		"title": "Taken verdelen voor de voorbereiding van een feestje of een barbecue.",
+		"id": "323858f9-96a2-4f29-96ee-51dbc5ade910",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een activiteit of uitstapje met vrienden regelen, eventueel ook via sociale media (DL).",
-		"id": "ae55f61c-e3c7-4efd-bfc5-d73e67fcf7f0"
+		"title": "Een activiteit of uitstapje met vrienden regelen, eventueel ook deels via sociale media.",
+		"id": "ae55f61c-e3c7-4efd-bfc5-d73e67fcf7f0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Afspraken maken over taakverdeling bij een opdracht (OPL, WE).",
-		"id": "9564b884-bbf6-4229-abd8-e4b89e3461de"
+		"title": "Afspraken maken over de taakverdeling bij een opdracht.",
+		"id": "9564b884-bbf6-4229-abd8-e4b89e3461de",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Met een uitwisselingsleerling brainstormen over een traktatie voor de hele klas (DL, OPL).",
-		"id": "f649c1b4-9587-461c-8409-872a63fe0607"
+		"title": "Met een uitwisselingsleerling brainstormen over een traktatie voor de hele klas.",
+		"id": "f649c1b4-9587-461c-8409-872a63fe0607",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aan een collega (tijdens een stage) aanwijzingen gevne over hoe je een bepaalde klus het beste kunt uitvoeren (OPL, WE).",
-		"id": "7eafa192-ff31-4d6a-85d5-575ae6bd76c3"
+		"title": "Aan een collega aanwijzingen geven over hoe je een bepaalde klus het beste kunt uitvoeren.",
+		"id": "7eafa192-ff31-4d6a-85d5-575ae6bd76c3",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Advies aan een vriend/in geven over welke mobiele telefoon hij/zij moet kopen (DL).",
@@ -10379,6 +10397,42 @@
 		"id": "12d22928-32c6-4220-9f44-f1672ec9aad0",
 		"prefix": "",
 		"title": "Een dialoog over hoe het gaat op het werk.",
+		"description": ""
+	},
+	{
+		"id": "bde99c69-4af2-4d9c-8cac-9d93d6b1d9e4",
+		"prefix": "",
+		"title": "Begrijpen waar en op welk tijdstip je verwacht wordt voor een bepaalde activiteit, zoals hoe laat begint de les en in welk lokaal, hoe laat is de afspraak bij de arts, waar en wanneer willen je vrienden met je afspreken.",
+		"description": ""
+	},
+	{
+		"id": "b89504ab-0ca0-4849-a7fe-46d1cc9cf4fe",
+		"prefix": "",
+		"title": "Het begrijpen van instructies van de leraar, zoals: open je boek op pagina vier, teken een mooi huis.",
+		"description": ""
+	},
+	{
+		"id": "fe81fdd0-eec0-4f59-8bb8-56acc72edd96",
+		"prefix": "",
+		"title": "Samen de spelregels bespreken voordat je gaat sporten of een al bekend (bord-)spel gaat spelen.",
+		"description": ""
+	},
+	{
+		"id": "6904100e-e437-406a-8968-2e40e8039ede",
+		"prefix": "",
+		"title": "Samen een maaltijd koken en bespreken hoe je de taken gaat verdelen.",
+		"description": ""
+	},
+	{
+		"id": "8df70a58-da7d-4d6b-8bcc-3436e259ffac",
+		"prefix": "",
+		"title": "Tijdens het spelen van een sport of spel halverwege bespreken wat je als team gaat doen om te winnen.",
+		"description": ""
+	},
+	{
+		"id": "3283f103-9635-4d64-a852-845323107a26",
+		"prefix": "",
+		"title": "Tijdens het uitvoeren van een groepsopdracht de feedback van de docent verwerken.",
 		"description": ""
 	}
 ]
