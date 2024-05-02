@@ -11501,7 +11501,11 @@
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
 		"title": "Kan beknopt commentaar geven op de gezichtspunten van anderen.",
-		"id": "e02f2860-93a7-4c04-bd0b-5d9a733820a7"
+		"id": "e02f2860-93a7-4c04-bd0b-5d9a733820a7",
+		"erk_voorbeeld_id": [
+			"b3d566a9-3822-4924-b197-f81595b510fb",
+			"b90645b2-fb96-4c34-be51-a7198ea56bea"
+		]
 	},
 	{
 		"niveau_id": [
