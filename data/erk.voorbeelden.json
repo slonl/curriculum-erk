@@ -2962,32 +2962,46 @@
 		"description": ""
 	},
 	{
-		"title": "Boosheid uitdrukken bij onenigheid met een vriend/in (DL).",
-		"id": "0b48dbcc-f511-4478-8d36-54d29a6b5f67"
+		"title": "Boosheid uitdrukken bij onenigheid met een vriend/in.",
+		"id": "0b48dbcc-f511-4478-8d36-54d29a6b5f67",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Reageren op een spijtbetuiging (XX).",
-		"id": "9374d1fc-e8aa-44ef-9bbd-debe58b8207d"
+		"title": "Reageren op een spijtbetuiging.",
+		"id": "9374d1fc-e8aa-44ef-9bbd-debe58b8207d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Medeleven betuigen bij een vervelende gebeurtenis (XX).",
-		"id": "d6e68ca8-7ef1-466a-ad0e-a4f4fa8f3163"
+		"title": "Medeleven betuigen bij een vervelende gebeurtenis.",
+		"id": "d6e68ca8-7ef1-466a-ad0e-a4f4fa8f3163",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Iemand geruststellen als er vertraging is (DL).",
-		"id": "f1ed136f-b941-45d0-8e3c-9a98a14b8c98"
+		"title": "Iemand geruststellen als er vertraging is.",
+		"id": "f1ed136f-b941-45d0-8e3c-9a98a14b8c98",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Iemand bijstaan die zich ziek voelt (DL).",
-		"id": "b9d3c2dc-4314-4465-b84b-1f459ae980ed"
+		"title": "Iemand bijstaan die zich ziek voelt.",
+		"id": "b9d3c2dc-4314-4465-b84b-1f459ae980ed",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Verrast reageren op onverwacht nieuws (XX).",
-		"id": "6798219b-42d3-4ad7-8f1b-55abd3826615"
+		"title": "Verrast reageren op onverwacht nieuws.",
+		"id": "6798219b-42d3-4ad7-8f1b-55abd3826615",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Eigen verdriet uitdrukken bij het afscheid nemen van een vakantievriend (DL).",
-		"id": "c61460dd-199e-4fc4-b349-2da0942ff4ae"
+		"title": "Eigen verdriet uitdrukken bij het afscheid nemen van een vakantievriend.",
+		"id": "c61460dd-199e-4fc4-b349-2da0942ff4ae",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "In een rumoerig café met buitenlandse vrienden bespreken wat de voor- en nadelen zijn van op kamers gaan wonen tijdens je studie (DL).",
@@ -10103,6 +10117,42 @@
 		"id": "8467b361-200c-45e1-a5f1-a012563b2d58",
 		"prefix": "",
 		"title": "Aan een vriend hulp toezeggen bij de verhuizing.",
+		"description": ""
+	},
+	{
+		"id": "dea5d6a5-d7d6-4d96-b79e-222821fbcd2e",
+		"prefix": "",
+		"title": "Buitenlandse gasten vragen naar de eerste ervaringen in het gastland.",
+		"description": ""
+	},
+	{
+		"id": "a95b54d2-a878-4fa8-b0b1-cbc23a7b3ef7",
+		"prefix": "",
+		"title": "Iemand bevragen over de ervaringen tijdens een reis.",
+		"description": ""
+	},
+	{
+		"id": "50d4f31d-76a1-4251-92fa-1b457772322f",
+		"prefix": "",
+		"title": "Bij iemand informeren naar de kennismaking met een bijzondere traditie in het buitenland.",
+		"description": ""
+	},
+	{
+		"id": "c6670c89-9910-45ea-90c8-ca4ba35e98f0",
+		"prefix": "",
+		"title": "Met vrienden praten over een gemeenschappelijk favoriete tv-serie.",
+		"description": ""
+	},
+	{
+		"id": "06411738-5434-4ee2-9a1c-c4b74b05d5f0",
+		"prefix": "",
+		"title": "Een gesprek voeren met collega's waarin bijbaantjes vergeleken worden.",
+		"description": ""
+	},
+	{
+		"id": "76107b7c-1241-4e05-9db2-545737441b49",
+		"prefix": "",
+		"title": "Met klasgenoten toekomstdromen bespreken.",
 		"description": ""
 	}
 ]
