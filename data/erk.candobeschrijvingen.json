@@ -11399,7 +11399,11 @@
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
 		"title": "Kan elementaire instructies opvolgen die te maken hebben met tijden, locaties, getallen enzovoort.",
-		"id": "d47ef991-b241-40ba-9128-550343453017"
+		"id": "d47ef991-b241-40ba-9128-550343453017",
+		"erk_voorbeeld_id": [
+			"bde99c69-4af2-4d9c-8cac-9d93d6b1d9e4",
+			"b89504ab-0ca0-4849-a7fe-46d1cc9cf4fe"
+		]
 	},
 	{
 		"niveau_id": [
@@ -11422,7 +11426,9 @@
 		"erk_voorbeeld_id": [
 			"323858f9-96a2-4f29-96ee-51dbc5ade910",
 			"ae55f61c-e3c7-4efd-bfc5-d73e67fcf7f0",
-			"9564b884-bbf6-4229-abd8-e4b89e3461de"
+			"9564b884-bbf6-4229-abd8-e4b89e3461de",
+			"fe81fdd0-eec0-4f59-8bb8-56acc72edd96",
+			"6904100e-e437-406a-8968-2e40e8039ede"
 		],
 		"title": "Kan communiceren over eenvoudige en alledaagse taken in eenvoudige bewoordingen om dingen te vragen en te verschaffen, eenvoudige informatie te verkrijgen en te bespreken wat er vervolgens moet gebeuren.",
 		"id": "d5599dee-64d5-4890-8ba8-207be036149b"
@@ -11433,7 +11439,9 @@
 		],
 		"erk_voorbeeld_id": [
 			"f649c1b4-9587-461c-8409-872a63fe0607",
-			"7eafa192-ff31-4d6a-85d5-575ae6bd76c3"
+			"7eafa192-ff31-4d6a-85d5-575ae6bd76c3",
+			"8df70a58-da7d-4d6b-8bcc-3436e259ffac",
+			"3283f103-9635-4d64-a852-845323107a26"
 		],
 		"title": "Kan bespreken wat er vervolgens moet gebeuren, daarbij suggesties doen en beantwoorden en aanwijzingen vragen en geven.",
 		"id": "63872ad7-e176-4279-8607-822d6c847b62",
