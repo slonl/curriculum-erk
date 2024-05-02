@@ -2916,36 +2916,50 @@
 		"description": ""
 	},
 	{
-		"title": "Aan een buitenlandse kennis vertellen welke sport hij of zij leuk vindt en welke niet (DL).",
-		"id": "ba0eb67e-6681-4d7f-a3ee-6410e8e5149b"
+		"title": "Met een kennis bespreken welke sport je leuk vindt en welke niet.",
+		"id": "ba0eb67e-6681-4d7f-a3ee-6410e8e5149b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aan vrienden zeggen wat hij of zij lekker vindt om vanavond te gaan eten (DL).",
-		"id": "a15b9d5b-4cdb-4366-b92b-b281cf559300"
+		"title": "Met vrienden bespreken wat je favoriete gerechten zijn en wat niet.",
+		"id": "a15b9d5b-4cdb-4366-b92b-b281cf559300",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aan vrienden zeggen welke muziek hem of haar leuk lijkt op een feest af te spelen (DL).",
-		"id": "767e08ba-8d99-4a7c-9f01-8509d838d123"
+		"title": "Met vrienden afstemmen welke muziek je wel en niet wilt draaien op je verjaardagsfeest.",
+		"id": "767e08ba-8d99-4a7c-9f01-8509d838d123",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Aan een buitenlandse toeris zeggen wat hij of zij leuk vindt aan Nederland (DL).",
 		"id": "69e7c7a4-52f6-4bae-837d-7fcb2a8114f0"
 	},
 	{
-		"title": "Reageren op het nieuws dat een klasgenoot aangereden is op de fiets (DL).",
-		"id": "92f6da1f-8b72-45e0-ba27-b022c4d5bd20"
+		"title": "Op een feestje.",
+		"id": "92f6da1f-8b72-45e0-ba27-b022c4d5bd20",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Met vrienden op de camping over het afgelaste feestje praten (DL).",
-		"id": "1da8ee0c-ecf8-415a-ace0-9d20a5487028"
+		"title": "Bij de bushalte.",
+		"id": "1da8ee0c-ecf8-415a-ace0-9d20a5487028",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een skype sessie de gebeurtenissen van de dag becommentariëren (DL).",
-		"id": "c35e7c69-989c-470d-8204-5f65fd3fc196"
+		"title": "In een winkel.",
+		"id": "c35e7c69-989c-470d-8204-5f65fd3fc196",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Met je collega's over werken op koopavond of op zondag praten(WE).",
-		"id": "a5872d21-2b6c-4ea2-b166-f5bbc90d71fd"
+		"title": "In de wachtkamer bij de tandarts.",
+		"id": "a5872d21-2b6c-4ea2-b166-f5bbc90d71fd",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Boosheid uitdrukken bij onenigheid met een vriend/in (DL).",
@@ -10041,6 +10055,54 @@
 		"id": "a04dc4e0-a6ea-4d73-9025-347ba4d9ecda",
 		"prefix": "",
 		"title": "Een eenvoudig gesprek met nieuwkomers die bij jouw in de buurt zijn komen wonen.",
+		"description": ""
+	},
+	{
+		"id": "cb453d44-fb45-4563-ac23-37f1497bbd36",
+		"prefix": "",
+		"title": "Vertellen dat je het koud of warm hebt en kort uitleggen waarom.",
+		"description": ""
+	},
+	{
+		"id": "0b3b7142-5a84-4359-aa95-d3ee772fe90c",
+		"prefix": "",
+		"title": "Zeggen dat je je verveelt en beknopt uitleggen waarom.",
+		"description": ""
+	},
+	{
+		"id": "b6cc3db9-a9a3-4a61-a8c5-1c2c57bca066",
+		"prefix": "",
+		"title": "Zeggen dat je bang, boos, blij of verdrietig bent en beknopt uitleggen waarom je dat bent.",
+		"description": ""
+	},
+	{
+		"id": "3f8f13d5-02d5-4932-bd0e-60f93414d0d1",
+		"prefix": "",
+		"title": "Vragen of je schoolspullen van iemand mag lenen.",
+		"description": ""
+	},
+	{
+		"id": "9e18f667-8340-49f7-be70-198f47ee7c5b",
+		"prefix": "",
+		"title": "Aanbieden om boodschappen voor iemand te doen.",
+		"description": ""
+	},
+	{
+		"id": "69bc8de0-6da9-460d-a82e-d099ae57f343",
+		"prefix": "",
+		"title": "Een lid van het gastgezin vragen of je een fiets mag lenen.",
+		"description": ""
+	},
+	{
+		"id": "1cb865d4-5176-4fbf-9818-3d27ecc07790",
+		"prefix": "",
+		"title": "Aangeven dat je graag iemand helpt bij het koken van een maaltijd.",
+		"description": ""
+	},
+	{
+		"id": "8467b361-200c-45e1-a5f1-a012563b2d58",
+		"prefix": "",
+		"title": "Aan een vriend hulp toezeggen bij de verhuizing.",
 		"description": ""
 	}
 ]
