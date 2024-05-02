@@ -15326,7 +15326,12 @@
 		"id": "39fad118-d11a-4822-9c89-61b4d6eccafd",
 		"prefix": "",
 		"title": "Kan een conversatie of discussie voeren, maar is soms moeilijk te volgen bij het precies uitdrukken van de boodschap.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"89d664ea-426a-4bd2-959a-2212c70f0e23",
+			"bdaa956f-4c85-48ea-aa03-1a3097955811",
+			"12d22928-32c6-4220-9f44-f1672ec9aad0"
+		]
 	},
 	{
 		"niveau_id": [
