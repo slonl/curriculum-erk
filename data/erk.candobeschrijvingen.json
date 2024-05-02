@@ -15201,7 +15201,11 @@
 		"id": "5f901b96-0e1b-4ead-981e-3e37d398a3f3",
 		"prefix": "",
 		"title": "Kan mensen begroeten, de eigen naam zeggen en op een eenvoudige manier afscheid nemen.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"067e79ac-db6a-4c58-b3b8-d48d19e90c59",
+			"62859065-9546-4876-af0f-0084516f4721"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15236,8 +15240,13 @@
 		],
 		"id": "4ad8dfc8-9c57-4151-a783-8f6a3ca04d25",
 		"prefix": "",
-		"title": "Kan sociaal contact leggen (bijvoorbeeld begroeten en afscheid nemen, voorstellen, bedanken).",
-		"description": ""
+		"title": "Kan sociaal contact leggen.",
+		"description": "",
+		"erk_voorbeeld_id": [
+			"c9a742c1-b2cd-4139-9340-ca9184bae1ea",
+			"8cbb5bbd-e6bc-4c24-b818-83a5c6c25be2",
+			"8eaedc00-0e3b-4c65-bed5-3c9af9146483"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15246,7 +15255,11 @@
 		"id": "b9154f93-499c-4792-a31d-39f0208ff2f2",
 		"prefix": "",
 		"title": "Kan over het algemeen heldere standaardtaal begrijpen over vertrouwde zaken, mits het mogelijk is om te vragen om herhaling of herformulering.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"dfda8b76-29ae-4ce1-95a2-4e9d02296dfd",
+			"6bd6df55-e36e-47d9-b3cb-3b156a7c6cf9"
+		]
 	},
 	{
 		"niveau_id": [
