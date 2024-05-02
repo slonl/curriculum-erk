@@ -2804,40 +2804,56 @@
 		"description": ""
 	},
 	{
-		"title": "Tijdens een voorstelrondje aan het begin van een bezoek aan een buitenlandse school (OPL).",
-		"id": "ad6324d4-501f-4a9f-984d-2387b02e7440"
+		"title": "Tijdens een voorstelrondje aan het begin van een bezoek aan een buitenlandse school.",
+		"id": "ad6324d4-501f-4a9f-984d-2387b02e7440",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een groepje leeftijdgenoten, in Nederland of tijdens een vakantie in het buitenland (DL).",
-		"id": "12852f4e-f78e-4775-97c5-57b0c7274626"
+		"title": "In een groepje leeftijdgenoten, in Nederland of tijdens een vakantie in het buitenland.",
+		"id": "12852f4e-f78e-4775-97c5-57b0c7274626",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In contact met een buitenlandse docent (OPL).",
-		"id": "940458dc-bea7-4d25-ae11-7a2e68a26a3f"
+		"title": "In gesprek met een docent.",
+		"id": "940458dc-bea7-4d25-ae11-7a2e68a26a3f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Mensen met wie je in een trein aan de praat komt (DL).",
-		"id": "9be0f55c-f74f-4098-8caf-9622a12801ea"
+		"title": "In gesprek met mensen die je in de trein bent tegengekomen.",
+		"id": "9be0f55c-f74f-4098-8caf-9622a12801ea",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een winkel of café bij binnenkomst en als je weggaat (DL).",
-		"id": "0b7630cd-6c83-4e91-8a4b-53f9a78aa23b"
+		"title": "In gesprek met mensen in een winkel.",
+		"id": "0b7630cd-6c83-4e91-8a4b-53f9a78aa23b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "In een videogesprek via sociale media (DL).",
 		"id": "8f315e05-0a10-4f3b-9a41-e29333d6d2b1"
 	},
 	{
-		"title": "In een gesprek met een uitwisselingsstudent op sociale media (DL).",
-		"id": "36836de2-d418-4805-b431-825daa9f608d"
+		"title": "In een gesprek met een uitwisselingsstudent of met leden van het gastgezin.",
+		"id": "36836de2-d418-4805-b431-825daa9f608d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In contact met een leraar van de buitenlandse uitwisselingsschool, op een beleefde manier (OPL).",
-		"id": "0c35dc56-0bb3-415e-aae8-ee3d920b8baa"
+		"title": "In contact met een leraar van de buitenlandse uitwisselingsschool, op een beleefde manier.",
+		"id": "0c35dc56-0bb3-415e-aae8-ee3d920b8baa",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Leden van het gastgezin (DL, OPL).",
-		"id": "3b9a848a-81a2-4e60-962d-294172f0dd18"
+		"title": "In gesprek met de leraar of leeftijdgenoten na het zien van het nieuws.",
+		"id": "3b9a848a-81a2-4e60-962d-294172f0dd18",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "De bediening in een restaurant of café roepen om iets te vragen (PU).",
@@ -9915,6 +9931,42 @@
 		"id": "7057c204-326a-474e-8a82-cf0f7c708d7f",
 		"prefix": "",
 		"title": "Tot ziens.",
+		"description": ""
+	},
+	{
+		"id": "a555ad3c-0630-4a89-9eb2-91ba850a7071",
+		"prefix": "",
+		"title": "Over je familie.",
+		"description": ""
+	},
+	{
+		"id": "5bf4d95d-812b-4ae2-8f1b-935819b2abb6",
+		"prefix": "",
+		"title": "Over waar je woont, welk land, welk dorp, welke stad.",
+		"description": ""
+	},
+	{
+		"id": "d79d3c20-9782-4a1a-a2ee-ae4be0730aa1",
+		"prefix": "",
+		"title": "Over je huisdieren.",
+		"description": ""
+	},
+	{
+		"id": "f8239816-1f86-40b8-85c7-250c5e0b251b",
+		"prefix": "",
+		"title": "Over je hobby's.",
+		"description": ""
+	},
+	{
+		"id": "5764c23c-e27e-4d56-9d44-9f44331fab8b",
+		"prefix": "",
+		"title": "Over je school, studie of werk.",
+		"description": ""
+	},
+	{
+		"id": "f7ad8a34-24d3-452d-92ec-ae700a293c77",
+		"prefix": "",
+		"title": "Een passend antwoord geven, zoals 'wat leuk’, 'gefeliciteerd met je verjaardag’. ",
 		"description": ""
 	}
 ]
