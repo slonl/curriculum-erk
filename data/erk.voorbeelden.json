@@ -10278,5 +10278,89 @@
 		"prefix": "",
 		"title": "Een gesprek over school, studie of beroep.",
 		"description": ""
+	},
+	{
+		"id": "b6170237-f85e-4cb2-a0f5-165518522deb",
+		"prefix": "",
+		"title": "Met vrienden op de camping over het feestje dat voor die avond gepland staat.",
+		"description": ""
+	},
+	{
+		"id": "9b41c273-371e-4583-ab4f-6c659d46aba8",
+		"prefix": "",
+		"title": "In een gesprek het nieuws van de dag bespreken.",
+		"description": ""
+	},
+	{
+		"id": "17d461c6-1837-4ce2-a988-60101bba53ff",
+		"prefix": "",
+		"title": "Met je collega's praten over hoe het is om te werken op koopavond of op zondag.",
+		"description": ""
+	},
+	{
+		"id": "a3c2f5be-67ca-4d72-a0a5-ed1c39d72cf2",
+		"prefix": "",
+		"title": "In een gesprek met een (anderstalige) leeftijdgenoot over jouw school praten.",
+		"description": ""
+	},
+	{
+		"id": "c16a458e-cab5-4499-8a7a-5f32e527c659",
+		"prefix": "",
+		"title": "Aan vrienden vertellen hoe je je voelt als je favoriete sportclub verloren heeft.",
+		"description": ""
+	},
+	{
+		"id": "faa2a816-d12a-4827-9d35-a0ff400f6c78",
+		"prefix": "",
+		"title": "Iemand laten weten dat je een cadeau heel leuk vond en waarom, en voor het cadeau bedanken.",
+		"description": ""
+	},
+	{
+		"id": "aee8efd0-e985-425c-915b-7a64b6063a63",
+		"prefix": "",
+		"title": "Met mensen op de camping praten over het onderhoud en de schoonmaak van de sanitaire voorzieningen.  ",
+		"description": ""
+	},
+	{
+		"id": "879db9c4-ed0c-44d1-b47f-a9afc8b8921a",
+		"prefix": "",
+		"title": "In een gesprek het nieuws van de dag bespreken.",
+		"description": ""
+	},
+	{
+		"id": "29939721-da64-4056-821b-93d65c2cccae",
+		"prefix": "",
+		"title": "Met je collega's praten over de kwaliteit van het eten in de kantine.",
+		"description": ""
+	},
+	{
+		"id": "e60c480b-3c79-4d3b-b327-21e9b46ef688",
+		"prefix": "",
+		"title": "In een gesprek met een leeftijdgenoot over jouw school praten.",
+		"description": ""
+	},
+	{
+		"id": "f594271b-8cde-46d5-baf3-fb332981869f",
+		"prefix": "",
+		"title": "Een discussie onder buitenlandse scholieren over het gebruiken van softdrugs.",
+		"description": ""
+	},
+	{
+		"id": "a7c89215-dee3-4565-8a7f-abb5b3595109",
+		"prefix": "",
+		"title": "Een discussie over een eerlijker verdeling van de werkzaamheden tijdens een stage of vakantiebaantje in het buitenland.",
+		"description": ""
+	},
+	{
+		"id": "f7032f47-9051-4786-983d-2f4d70480ff3",
+		"prefix": "",
+		"title": "Een gesprek tussen buitenlandse leeftijdgenoten over muziek.",
+		"description": ""
+	},
+	{
+		"id": "da9c0bd3-c8a7-4bc4-8071-0bb7d562bd19",
+		"prefix": "",
+		"title": "Een gesprek tussen collega’s over uitgevoerde werkzaamheden.",
+		"description": ""
 	}
 ]
