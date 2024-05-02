@@ -10362,5 +10362,23 @@
 		"prefix": "",
 		"title": "Een gesprek tussen collega’s over uitgevoerde werkzaamheden.",
 		"description": ""
+	},
+	{
+		"id": "89d664ea-426a-4bd2-959a-2212c70f0e23",
+		"prefix": "",
+		"title": "Een gesprek over reisplannen voor de volgende vakantie.",
+		"description": ""
+	},
+	{
+		"id": "bdaa956f-4c85-48ea-aa03-1a3097955811",
+		"prefix": "",
+		"title": "Een conversatie over de activiteiten van afgelopen weekend.",
+		"description": ""
+	},
+	{
+		"id": "12d22928-32c6-4220-9f44-f1672ec9aad0",
+		"prefix": "",
+		"title": "Een dialoog over hoe het gaat op het werk.",
+		"description": ""
 	}
 ]
