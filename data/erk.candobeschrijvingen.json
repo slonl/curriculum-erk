@@ -15268,7 +15268,13 @@
 		"id": "c78f5ae1-bdf9-47cd-9aee-6001a523c61e",
 		"prefix": "",
 		"title": "Kan deelnemen aan korte gesprekken over belangwekkende onderwerpen in een alledaagse context.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"b6170237-f85e-4cb2-a0f5-165518522deb",
+			"9b41c273-371e-4583-ab4f-6c659d46aba8",
+			"17d461c6-1837-4ce2-a988-60101bba53ff",
+			"a3c2f5be-67ca-4d72-a0a5-ed1c39d72cf2"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15277,7 +15283,11 @@
 		"id": "e9103a6b-2a21-46e0-b685-ee101ad83afd",
 		"prefix": "",
 		"title": "Kan in eenvoudige bewoordingen eigen gevoelens uitdrukken en dank uitspreken.\n",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"c16a458e-cab5-4499-8a7a-5f32e527c659",
+			"faa2a816-d12a-4827-9d35-a0ff400f6c78"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15286,7 +15296,13 @@
 		"id": "2e0d0578-7900-4ca8-a872-3ec48e1a122b",
 		"prefix": "",
 		"title": "Kan onvoorbereid deelnemen aan gesprekken over vertrouwde onderwerpen.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"aee8efd0-e985-425c-915b-7a64b6063a63",
+			"879db9c4-ed0c-44d1-b47f-a9afc8b8921a",
+			"29939721-da64-4056-821b-93d65c2cccae",
+			"e60c480b-3c79-4d3b-b327-21e9b46ef688"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15295,7 +15311,13 @@
 		"id": "745b6955-8efb-4eb9-b537-d0567a9fd652",
 		"prefix": "",
 		"title": "Kan helder gearticuleerde taal in alledaagse conversatie volgen, maar zal soms moeten vragen om herhaling van bepaalde woorden.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"f594271b-8cde-46d5-baf3-fb332981869f",
+			"a7c89215-dee3-4565-8a7f-abb5b3595109",
+			"f7032f47-9051-4786-983d-2f4d70480ff3",
+			"da9c0bd3-c8a7-4bc4-8071-0bb7d562bd19"
+		]
 	},
 	{
 		"niveau_id": [
