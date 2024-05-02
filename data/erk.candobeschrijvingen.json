@@ -10721,7 +10721,12 @@
 		"title": "Kan in zeer elementaire standaarduitdrukkingen gevoelens uitdrukken.",
 		"id": "7881ba68-0c36-4c4f-8fca-9020e262451e",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"cb453d44-fb45-4563-ac23-37f1497bbd36",
+			"0b3b7142-5a84-4359-aa95-d3ee772fe90c",
+			"b6cc3db9-a9a3-4a61-a8c5-1c2c57bca066"
+		]
 	},
 	{
 		"niveau_id": [
@@ -10760,7 +10765,14 @@
 		"title": "Kan om een gunst vragen, kan een gunst aanbieden en kan reageren als iemand om een gunst vraagt.",
 		"id": "0a9fddc3-8e4b-45f9-bd1a-a064eea95d6a",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"3f8f13d5-02d5-4932-bd0e-60f93414d0d1",
+			"9e18f667-8340-49f7-be70-198f47ee7c5b",
+			"69bc8de0-6da9-460d-a82e-d099ae57f343",
+			"1cb865d4-5176-4fbf-9818-3d27ecc07790",
+			"8467b361-200c-45e1-a5f1-a012563b2d58"
+		]
 	},
 	{
 		"niveau_id": [
