@@ -10581,7 +10581,14 @@
 		"title": "Kan elementaire standaarduitdrukkingen begrijpen en gebruiken.",
 		"id": "b501877c-4568-41d0-ba38-a0b157eb2bca",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"dcb57e35-a481-401b-b277-27b72a647eb9",
+			"3b21d21d-129c-4888-b8cc-35c9876e0602",
+			"1b06b5c6-5f88-44eb-a6ef-b0be7acace68",
+			"38f9124a-0042-4122-85ea-4f6a4fae396f",
+			"c6ce4566-67bc-4b3a-a3cf-2acd1bb5427a"
+		]
 	},
 	{
 		"niveau_id": [
@@ -10590,7 +10597,13 @@
 		"title": "Kan eenvoudige begroetingen herkennen.",
 		"id": "1079fff3-bc59-45e7-92e1-389d887ab13e",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"c57d9555-5e99-4f80-bee8-268ac96e5d6e",
+			"20311874-7cbe-4624-8a4f-1bb59351e358",
+			"696e12d9-9151-4c49-beea-4eefeb5da453",
+			"7057c204-326a-474e-8a82-cf0f7c708d7f"
+		]
 	},
 	{
 		"niveau_id": [
@@ -10601,7 +10614,6 @@
 			"144a5e13-b2b6-4d8c-b4fb-426596cb3822",
 			"c10580a7-cd00-46e3-81a0-22248139d907",
 			"0c7de3a5-d05b-4d4a-a58b-171d2e5db7e2",
-			"077caae8-0d46-470c-bbd4-b4f9456ca1d7",
 			"73cace17-8c3f-4906-910d-5c9973bda026"
 		],
 		"title": "Kan alledaagse uitdrukkingen begrijpen, gericht op de vervulling van eenvoudige behoeften van concrete aard, die in heldere, langzame en herhaalde taal door een welwillende gesprekspartner gezegd worden.",
