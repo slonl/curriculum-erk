@@ -2856,12 +2856,16 @@
 		"description": ""
 	},
 	{
-		"title": "De bediening in een restaurant of café roepen om iets te vragen (PU).",
-		"id": "13c8a03b-5375-442d-a395-ace7abbf9839"
+		"title": "De bediening in een restaurant of café aanspreken om iets te bestellen of af te rekenen.",
+		"id": "13c8a03b-5375-442d-a395-ace7abbf9839",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Iemand op straat aanspreken om een inlichting te vragen (PU).",
-		"id": "5c5e1f05-ce45-49db-9d4f-46304e01a54c"
+		"title": "Iemand op straat aanspreken om de weg te vragen.",
+		"id": "5c5e1f05-ce45-49db-9d4f-46304e01a54c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Jezelf afmelden bij een afspraak (DL, PU).",
@@ -9967,6 +9971,60 @@
 		"id": "f7ad8a34-24d3-452d-92ec-ae700a293c77",
 		"prefix": "",
 		"title": "Een passend antwoord geven, zoals 'wat leuk’, 'gefeliciteerd met je verjaardag’. ",
+		"description": ""
+	},
+	{
+		"id": "b56f9929-6b94-4b6b-b48c-f13828ba8247",
+		"prefix": "",
+		"title": "Een uitwisselingsstudent verwelkomen.",
+		"description": ""
+	},
+	{
+		"id": "181e6873-e237-4fc5-9b66-1bfb32fee527",
+		"prefix": "",
+		"title": "Het begroeten en afscheid nemen van een familielid.",
+		"description": ""
+	},
+	{
+		"id": "e35a50ad-f95e-48f6-9f97-eab418a1e4ce",
+		"prefix": "",
+		"title": "Winkelpersoneel aanspreken om te vragen waar je een bepaald product kunt vinden.",
+		"description": ""
+	},
+	{
+		"id": "1354a773-2e3a-4eaa-8a37-b75c1323107f",
+		"prefix": "",
+		"title": "Een eenvoudig gesprek voeren met een buitenlandse leeftijdsgenoot over je hobby's en wat je op doordeweekse dagen of in het weekend doet.",
+		"description": ""
+	},
+	{
+		"id": "4854a807-ce44-411f-9b0b-b995c78cbee9",
+		"prefix": "",
+		"title": "De huisregels met het gastgezin bespreken, zoals tijd van het ontbijt, later naar huis komen, het mogen lenen van een fiets.",
+		"description": ""
+	},
+	{
+		"id": "bf40dd23-416e-4bea-8684-69caff44455f",
+		"prefix": "",
+		"title": "Een gesprek met buitenlandse collega's voeren over hoe het logeeradres bevalt, welke bus je kunt nemen, wat het nummer van de ICT-helpdesk is.",
+		"description": ""
+	},
+	{
+		"id": "5c8c66bb-fff4-4d9b-892e-2924122f9236",
+		"prefix": "",
+		"title": "Kennismaken met of vragen beantwoorden van een internationale student.",
+		"description": ""
+	},
+	{
+		"id": "9df344dc-bc92-49b4-b0f1-e4f008ad50c0",
+		"prefix": "",
+		"title": "Een eenvoudig gesprek met een toerist die je ontmoet op een terras.",
+		"description": ""
+	},
+	{
+		"id": "a04dc4e0-a6ea-4d73-9025-347ba4d9ecda",
+		"prefix": "",
+		"title": "Een eenvoudig gesprek met nieuwkomers die bij jouw in de buurt zijn komen wonen.",
 		"description": ""
 	}
 ]
