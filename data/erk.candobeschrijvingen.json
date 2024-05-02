@@ -10670,7 +10670,10 @@
 		],
 		"erk_voorbeeld_id": [
 			"13c8a03b-5375-442d-a395-ace7abbf9839",
-			"5c5e1f05-ce45-49db-9d4f-46304e01a54c"
+			"5c5e1f05-ce45-49db-9d4f-46304e01a54c",
+			"b56f9929-6b94-4b6b-b48c-f13828ba8247",
+			"181e6873-e237-4fc5-9b66-1bfb32fee527",
+			"e35a50ad-f95e-48f6-9f97-eab418a1e4ce"
 		],
 		"title": "Kan eenvoudige alledaagse beleefdheidsvormen gebruiken om anderen te begroeten en aan te spreken.",
 		"id": "7eb6af66-16ac-4975-bc51-a88d8e068bbf"
@@ -10682,7 +10685,15 @@
 		"title": "Kan in eenvoudige taal een praatje maken met medeleerders, collega's of leden van een gastgezin en daarbij vragen stellen en antwoorden begrijpen over de meeste routinezaken.\n",
 		"id": "25a92aee-9d4e-4bec-8783-fae1b5a932d7",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"1354a773-2e3a-4eaa-8a37-b75c1323107f",
+			"4854a807-ce44-411f-9b0b-b995c78cbee9",
+			"bf40dd23-416e-4bea-8684-69caff44455f",
+			"5c8c66bb-fff4-4d9b-892e-2924122f9236",
+			"9df344dc-bc92-49b4-b0f1-e4f008ad50c0",
+			"a04dc4e0-a6ea-4d73-9025-347ba4d9ecda"
+		]
 	},
 	{
 		"niveau_id": [
