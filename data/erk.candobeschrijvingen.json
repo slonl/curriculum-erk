@@ -10870,7 +10870,12 @@
 		"title": "Kan een relatie tot stand brengen met gesprekspartners door het stellen van sympathieke vragen en door instemming uit te drukken en, indien gepast, opmerkingen te maken over derde partijen of gedeelde omstandigheden.",
 		"id": "b7f9a435-f699-4223-b650-2b0dda25f0c3",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"c50788fc-4e78-4492-ba74-3f73a5e400b3",
+			"b1e3ee18-efbc-4edc-8cd1-8e226090a4ce",
+			"d169d404-d16f-4622-b335-e5ffa9b2cf89"
+		]
 	},
 	{
 		"niveau_id": [
@@ -10879,7 +10884,13 @@
 		"title": "Kan bedenkingen en bezwaren aangeven, voorwaarden stellen bij het instemmen met verzoeken of het geven van toestemming, en vragen of het eigen standpunt wordt begrepen.",
 		"id": "5cfad0e0-7849-419f-ad7c-7f297802068a",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"e9679282-2b32-491e-90f4-22d43404a0d0",
+			"ad4e3e52-3d69-4f1c-9c92-4e207137e484",
+			"a1473174-6eeb-4f47-9415-90f9f2dc78c7",
+			"d8d88e52-7dd7-432b-9e8c-d036082be499"
+		]
 	},
 	{
 		"niveau_id": [
