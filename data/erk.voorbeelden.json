@@ -3004,52 +3004,76 @@
 		"description": ""
 	},
 	{
-		"title": "In een rumoerig café met buitenlandse vrienden bespreken wat de voor- en nadelen zijn van op kamers gaan wonen tijdens je studie (DL).",
-		"id": "ab436e71-37ea-4b0c-bc4c-df23d1d78ec7"
+		"title": "In een rumoerig café met buitenlandse vrienden bespreken wat de voor- en nadelen zijn van op kamers gaan wonen tijdens je studie.",
+		"id": "ab436e71-37ea-4b0c-bc4c-df23d1d78ec7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een gesprek op straat voeren met een buitenlandse vriend over een thema uit de actualiteit (DL).",
-		"id": "92d3522d-fdfe-4894-a42a-6fcb2524a04d"
+		"title": "Een gesprek op straat voeren met een buitenlandse vriend over een thema uit de actualiteit.",
+		"id": "92d3522d-fdfe-4894-a42a-6fcb2524a04d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In de kantine van een buitenlandse school met andere scholieren praten over cultuurverschillen tussen het gastland en het eigen land (OPL, DL).",
-		"id": "c5a073e4-e59a-4bdb-9113-f2d7cee6c26b"
+		"title": "In de kantine van een buitenlandse school met andere scholieren praten over cultuurverschillen tussen het gastland en het eigen land.",
+		"id": "c5a073e4-e59a-4bdb-9113-f2d7cee6c26b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Buitenlandse gasten onderhouden bij informele gelegenheden (DL, OPL, WE).",
-		"id": "2f12dc65-e156-44d5-b4b0-b48a1ea980d0"
+		"title": "Buitenlandse gasten vermaken bij informele gelegenheden.",
+		"id": "2f12dc65-e156-44d5-b4b0-b48a1ea980d0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In de lunchpauze zich aansluiten bij een groepje sprekers van de vreemde taal (DL, OPL, WE).",
-		"id": "d53ca430-e93f-4614-a94a-d810749175be"
+		"title": "Zich in de lunchpauze aansluiten bij een groepje sprekers van de vreemde taal.",
+		"id": "d53ca430-e93f-4614-a94a-d810749175be",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Bij zakelijke ontmoetingen een prettige sfeer creëren door small talk (WE)",
-		"id": "eada98db-cbc5-4b80-a654-b4684809b24c"
+		"title": "Bij zakelijke ontmoetingen een prettige sfeer creëren door small talk.",
+		"id": "eada98db-cbc5-4b80-a654-b4684809b24c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Meeleven met een buitenlandse kennis die voor een belangrijk examen gezakt is (DL).",
-		"id": "328257cc-c0fb-45a9-89ea-3a415f1805c7"
+		"title": "Meeleven met een buitenlandse kennis die voor een belangrijk examen gezakt is.",
+		"id": "328257cc-c0fb-45a9-89ea-3a415f1805c7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Schrik en verdriet uiten na een verkeersongeluk (PU).",
-		"id": "fd40b9f8-9cb3-47f1-b1b2-d11150d02fc8"
+		"title": "Schrik en verdriet uiten na een verkeersongeluk.",
+		"id": "fd40b9f8-9cb3-47f1-b1b2-d11150d02fc8",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Medeleven betuigen bij ingrijpende gebeurtenissen (DL).",
-		"id": "8ffb281e-86bd-4515-8758-a168c7f6521e"
+		"title": "Medeleven betuigen bij ingrijpende gebeurtenissen.",
+		"id": "8ffb281e-86bd-4515-8758-a168c7f6521e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Met een vriend/in praten over een ontroerende film (DL).",
-		"id": "1fe27779-3254-477e-afbb-9ad00b29172b"
+		"title": "Met een vriend/in praten over een ontroerende film.",
+		"id": "1fe27779-3254-477e-afbb-9ad00b29172b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Je boosheid uiten over het niet nakomen van afspraken (XX).",
-		"id": "bc0fa325-2708-4b1d-8183-0fd8717ed0fd"
+		"title": "Je boosheid uiten over het niet nakomen van afspraken.",
+		"id": "bc0fa325-2708-4b1d-8183-0fd8717ed0fd",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Je blijdschap uiten over je nominatie voor een prijs of je toelating tot een buitenlandse opleiding (DL).",
-		"id": "9df737eb-d51a-4b7c-8935-d533c5035fed"
+		"title": "Je blijdschap uiten over je nominatie voor een prijs of je toelating tot een buitenlandse opleiding.",
+		"id": "9df737eb-d51a-4b7c-8935-d533c5035fed",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Deelnemen aan de conversatie bij informele gelegenheden, ook in een lawaaiige omgeving (DL).",
@@ -10153,6 +10177,48 @@
 		"id": "76107b7c-1241-4e05-9db2-545737441b49",
 		"prefix": "",
 		"title": "Met klasgenoten toekomstdromen bespreken.",
+		"description": ""
+	},
+	{
+		"id": "c50788fc-4e78-4492-ba74-3f73a5e400b3",
+		"prefix": "",
+		"title": "Vragen stellen in het gastgezin over het alcoholgebruik bij jongeren in dat land.",
+		"description": ""
+	},
+	{
+		"id": "b1e3ee18-efbc-4edc-8cd1-8e226090a4ce",
+		"prefix": "",
+		"title": "Problemen bij het vinden van een kamer bespreken met een leeftijdsgenoot die in het buitenland woont.",
+		"description": ""
+	},
+	{
+		"id": "d169d404-d16f-4622-b335-e5ffa9b2cf89",
+		"prefix": "",
+		"title": "De ervaringen tijdens een backpackreis uitwisselen.",
+		"description": ""
+	},
+	{
+		"id": "e9679282-2b32-491e-90f4-22d43404a0d0",
+		"prefix": "",
+		"title": "In een discussie met vrienden je eigen mening toelichten over wat je onder gezond leven verstaat.",
+		"description": ""
+	},
+	{
+		"id": "ad4e3e52-3d69-4f1c-9c92-4e207137e484",
+		"prefix": "",
+		"title": "Met vrienden praten over liefde, geluk en verdriet in het leven.",
+		"description": ""
+	},
+	{
+		"id": "a1473174-6eeb-4f47-9415-90f9f2dc78c7",
+		"prefix": "",
+		"title": "Discussiëren over wel/niet interveniëren in oorlogsgebieden.",
+		"description": ""
+	},
+	{
+		"id": "d8d88e52-7dd7-432b-9e8c-d036082be499",
+		"prefix": "",
+		"title": "Naar aanleiding van de laatste nieuwsberichten in de pers eigen standpunten uitwisselen over het politiek beleid in een bepaald land.",
 		"description": ""
 	}
 ]
