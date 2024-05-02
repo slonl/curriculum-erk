@@ -15189,7 +15189,11 @@
 		"id": "0684f8bb-9738-42c9-8d7a-0c346fc4feca",
 		"prefix": "",
 		"title": "Kan aangeven of het gesprek te volgen is en kan zich laten uitleggen wat noodzakelijk is, indien de gesprekspartner daarvoor de moeite neemt.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"7ff192ed-6c40-4fd1-92c9-e595c4959ca6",
+			"eccf7fc5-521c-4f4a-8391-014ea7203357"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15198,7 +15202,12 @@
 		"id": "fc34dd80-0f96-4f4d-b6dc-39d643dc29ba",
 		"prefix": "",
 		"title": "Kan genoeg begrijpen om eenvoudige routinetaken uit te voeren zonder bovenmatige inspanning, en daarbij heel eenvoudig om herhaling vragen wanneer iets niet begrepen wordt.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"4b99f5bc-e3bc-449a-8844-9a423f0f1c47",
+			"fba83878-c845-42db-96ca-61884513c2f1",
+			"8d1b26bf-ba02-4313-8860-81a830530823"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15370,7 +15379,12 @@
 		"id": "a3f87325-c5ae-4264-ac0b-54d7e520cac1",
 		"prefix": "",
 		"title": "Kan over het algemeen volgen wat er gezegd wordt en indien nodig een gedeelte herhalen van wat iemand gezegd heeft om wederzijds begrip te bevestigen.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"db0234e6-2f38-4dd2-9a55-b4d9ce73483e",
+			"c2fbbe05-1aa0-4f36-8515-b5b11191aa0f",
+			"c6bf3a5d-1871-4ede-bfd5-375c7642a5b9"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15379,7 +15393,11 @@
 		"id": "57e82d3d-04ec-4dfe-9b2d-384e31136328",
 		"prefix": "",
 		"title": "Kan volgen wat er gezegd wordt, al moet er soms gevraagd worden om herhaling of verduidelijking indien de discussie snel of uitvoerig is.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"ffbb001a-3b11-433e-9489-63ceb7e487ab",
+			"9838ee29-21bd-4812-b609-6ea04d8c6294"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15387,8 +15405,12 @@
 		],
 		"id": "eb2ef413-2e89-4cac-a737-f92caff0c2d7",
 		"prefix": "",
-		"title": "Kan gedetailleerde aanwijzingen op betrouwbare wijze begrijpen.",
-		"description": ""
+		"title": "Kan gedetailleerde aanwijzingen zeker begrijpen.",
+		"description": "",
+		"erk_voorbeeld_id": [
+			"fb28f949-8ae3-4a18-b912-ff6de1a5b385",
+			"c14f8c08-d6e8-40e6-8715-0e4db2a010f2"
+		]
 	},
 	{
 		"niveau_id": [
