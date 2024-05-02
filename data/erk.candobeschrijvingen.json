@@ -11538,7 +11538,12 @@
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
 		"title": "Kan de discussie kaderen om een actieplan te bepalen met een partner of groep en daarbij verslag doen van wat anderen hebben gezegd en meerdere standpunten samenvatten, uitleggen en afwegen.",
-		"id": "6eef7689-99ea-4c53-bd60-08a4b04ae0af"
+		"id": "6eef7689-99ea-4c53-bd60-08a4b04ae0af",
+		"erk_voorbeeld_id": [
+			"30d4daeb-6651-4bb2-95c2-c653288c62f5",
+			"709c909e-63b9-46da-86d0-af4715780497",
+			"7e5fa96f-e739-430b-833f-68a50e431b29"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15169,7 +15174,13 @@
 		"id": "01a42180-1c2c-4227-8d26-de813f9d6c39",
 		"prefix": "",
 		"title": "Kan zorgvuldig en langzaam geformuleerde vragen en opdrachten begrijpen en korte, eenvoudige aanwijzingen volgen.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"4b84c3a9-e5db-4a72-8990-309f5faacfc2",
+			"4c52f17b-91fb-4d71-8c3d-188c3864f8e1",
+			"d2d1fb84-968d-4bae-b087-f4f2a5a7308e",
+			"c292c41d-2087-4c03-8dc4-b558a332bb0a"
+		]
 	},
 	{
 		"niveau_id": [
