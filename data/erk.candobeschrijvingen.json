@@ -10626,7 +10626,14 @@
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
 		"title": "Kan deelnemen aan een eenvoudig gesprek van elementaire, feitelijke aard over een voorspelbaar onderwerp.",
-		"id": "152d3735-df96-457c-95f7-f2e3b6019144"
+		"id": "152d3735-df96-457c-95f7-f2e3b6019144",
+		"erk_voorbeeld_id": [
+			"5bf4d95d-812b-4ae2-8f1b-935819b2abb6",
+			"a555ad3c-0630-4a89-9eb2-91ba850a7071",
+			"d79d3c20-9782-4a1a-a2ee-ae4be0730aa1",
+			"f8239816-1f86-40b8-85c7-250c5e0b251b",
+			"5764c23c-e27e-4d56-9d44-9f44331fab8b"
+		]
 	},
 	{
 		"niveau_id": [
@@ -10637,8 +10644,7 @@
 			"12852f4e-f78e-4775-97c5-57b0c7274626",
 			"940458dc-bea7-4d25-ae11-7a2e68a26a3f",
 			"9be0f55c-f74f-4098-8caf-9622a12801ea",
-			"0b7630cd-6c83-4e91-8a4b-53f9a78aa23b",
-			"8f315e05-0a10-4f3b-9a41-e29333d6d2b1"
+			"0b7630cd-6c83-4e91-8a4b-53f9a78aa23b"
 		],
 		"title": "Kan zich voorstellen en elementaire uitdrukkingen ter begroeting en ten afscheid gebruiken.",
 		"id": "7dd28099-86e6-4e9e-8c45-aae139116be3",
@@ -10652,7 +10658,8 @@
 		"erk_voorbeeld_id": [
 			"36836de2-d418-4805-b431-825daa9f608d",
 			"0c35dc56-0bb3-415e-aae8-ee3d920b8baa",
-			"3b9a848a-81a2-4e60-962d-294172f0dd18"
+			"3b9a848a-81a2-4e60-962d-294172f0dd18",
+			"f7ad8a34-24d3-452d-92ec-ae700a293c77"
 		],
 		"title": "Kan vragen hoe het met mensen gaat en reageren op nieuws.",
 		"id": "18675bae-2b51-418a-a1c1-bcf4e6499e8d"
