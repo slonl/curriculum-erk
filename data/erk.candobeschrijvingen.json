@@ -11473,7 +11473,8 @@
 			"e0eda3d7-c753-4029-857f-861c915d9cfd",
 			"36356d7a-5551-402d-8a2f-6a92666d730c",
 			"dab43ff3-14ac-44f5-a182-a076d5e613e9",
-			"0fb21f98-8dd4-4737-9472-f2a5fab012ef"
+			"0fb21f98-8dd4-4737-9472-f2a5fab012ef",
+			"f22ef90c-dfd0-4645-b1dd-03d1c43612f6"
 		],
 		"title": "Kan anderen uitnodigen hun zienswijze te geven op hoe verder te gaan.",
 		"id": "0af24d12-6083-416b-871a-043a98a4851d",
@@ -11487,7 +11488,13 @@
 		"title": "Kan uitleggen waarom iets een probleem is, bespreken wat er vervolgens moet gebeuren en alternatieven vergelijken en tegenover elkaar stellen.",
 		"id": "f6848031-a4e5-450c-8060-483d39296ead",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"5dd8fb09-b6e0-4ca4-8b79-d548c2b2688d",
+			"b5c8179f-6bad-41a7-8b98-0e1d945884f0",
+			"a025c53d-80fa-4d8d-a8d5-810410e323e6",
+			"9748332a-7e87-4773-b143-86e107704c91"
+		]
 	},
 	{
 		"niveau_id": [
