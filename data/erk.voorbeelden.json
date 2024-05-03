@@ -4002,28 +4002,40 @@
 		"description": ""
 	},
 	{
-		"title": "Een pakket versturen op het postkantoor (PU).",
-		"id": "bf2a411f-b4d1-436f-b53d-19aae0dae2b5"
+		"title": "Een pakket ophalen bij een winkel.",
+		"id": "bf2a411f-b4d1-436f-b53d-19aae0dae2b5",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Inlichtingen op het station verkrijgen bij het uitvallen van een trein (PU).",
-		"id": "6938602b-b7de-42c5-9bd4-f6e36b043213"
+		"title": "Inlichtingen op het station verkrijgen bij het uitvallen van een trein.",
+		"id": "6938602b-b7de-42c5-9bd4-f6e36b043213",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Om advies vragen in een winkel over het aanschaffen van een verjaardagscadeau (PU).",
-		"id": "5475945a-3f25-45d6-8cd8-cccac62da7ff"
+		"title": "Om advies vragen in een winkel over het aanschaffen van een verjaardagscadeau.",
+		"id": "5475945a-3f25-45d6-8cd8-cccac62da7ff",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een reservering veranderen na het missen van een trein (PU).",
-		"id": "bbd93a26-822e-487f-ba69-a3844ace4cde"
+		"title": "Een reservering veranderen na het missen van een trein.",
+		"id": "bbd93a26-822e-487f-ba69-a3844ace4cde",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Telefonisch een auto, hotelkamer of campingplaats reserveren (PU).",
-		"id": "d4b990b0-49a7-4cca-8cd7-f5bc254b64e4"
+		"title": "Telefonisch een auto, hotelkamer of campingplaats reserveren.",
+		"id": "d4b990b0-49a7-4cca-8cd7-f5bc254b64e4",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een interne vlucht boeken of bevestigen bij het plaatselijke reisbureau (PU).",
-		"id": "68bbc3ec-1e81-4487-be5a-7b54ca5dc836"
+		"title": "Een interne vlucht boeken of bevestigen bij het plaatselijke reisbureau.",
+		"id": "68bbc3ec-1e81-4487-be5a-7b54ca5dc836",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een diefstal of het verlies van iets aangeven bij de politie (PU).",
@@ -10989,6 +11001,36 @@
 		"id": "1e04147e-0031-4d1f-a279-47d0cd5b8029",
 		"prefix": "",
 		"title": "Bij de receptie van een arts, tandarts of ziekenhuis een afspraak maken en begrijpen wanneer je terecht kunt.",
+		"description": ""
+	},
+	{
+		"id": "4fcc49de-9427-413d-a5ad-5f71195325c0",
+		"prefix": "",
+		"title": "Een overnachting boeken bij een hotel.",
+		"description": ""
+	},
+	{
+		"id": "7ca8048f-460d-43ec-ac04-7115c69f5e1a",
+		"prefix": "",
+		"title": "Een tafel reserveren in een restaurant.",
+		"description": ""
+	},
+	{
+		"id": "069b698c-efef-4861-93fa-4be447bb1d26",
+		"prefix": "",
+		"title": "Je voedselallergie bespreken in een restaurant.",
+		"description": ""
+	},
+	{
+		"id": "f01e58ba-7054-4ca4-afe6-9b49966d9026",
+		"prefix": "",
+		"title": "Bespreken wat je precies zoekt in een winkel.",
+		"description": ""
+	},
+	{
+		"id": "c1d6cf0f-2fa8-453e-8b2d-ded40a0425ef",
+		"prefix": "",
+		"title": "Vragen waar het toeristenbureau is.",
 		"description": ""
 	}
 ]
