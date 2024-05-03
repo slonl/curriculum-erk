@@ -3832,76 +3832,110 @@
 		"description": ""
 	},
 	{
-		"title": "Iets te leen vragen (DL).",
-		"id": "09c6e4b2-1218-49f0-a8a7-78961982366a"
+		"title": "Iets te leen vragen.",
+		"id": "09c6e4b2-1218-49f0-a8a7-78961982366a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vragen aan de balie naar afdelingen voor bepaalde diensten (DL).",
-		"id": "89fee0b8-87d4-4891-b735-0df2849d11a1"
+		"title": "Bij de balie vragen naar afdelingen voor bepaalde diensten.",
+		"id": "89fee0b8-87d4-4891-b735-0df2849d11a1",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een buitenlandse klant in de winkel helpen (DL, WE)..",
-		"id": "3fd1d8cc-e126-4e1d-8dd7-1c778ca8722c"
+		"title": "Een buitenlandse klant in de winkel helpen.",
+		"id": "3fd1d8cc-e126-4e1d-8dd7-1c778ca8722c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Tijdens een buitenlandse stage een dag vrij vragen of een dienst ruilen (OPL, WE).",
 		"id": "7fbcb964-c026-4028-8f2e-a76bd30dccaa"
 	},
 	{
-		"title": "Vragen naar aankomst- of vertrektijden van een trein of bus (PU).",
-		"id": "6692d253-2dce-407b-9f8b-2987b78a8aa7"
+		"title": "Vragen naar aankomst- of vertrektijden van een trein of bus.",
+		"id": "6692d253-2dce-407b-9f8b-2987b78a8aa7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Kaartjes voor trein en bus kopen (PU).",
-		"id": "63963611-c100-4cd6-86ff-6e44a6952841"
+		"title": "Kaartjes voor de bus kopen bij de chauffeur.",
+		"id": "63963611-c100-4cd6-86ff-6e44a6952841",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een taxi bestellen (PU).",
-		"id": "3ad70298-6223-4f68-8ecd-4f576900a646"
+		"title": "Bij de balie plaatsen in de trein of de bus reserveren.",
+		"id": "3ad70298-6223-4f68-8ecd-4f576900a646",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Plaatsen in trein of bus reserveren (PU).",
-		"id": "7e9c480d-1076-4843-a0de-8b1e21ae924d"
+		"title": "Een taxi bestellen.",
+		"id": "7e9c480d-1076-4843-a0de-8b1e21ae924d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Adres opgeven en ritprijs vragen bij gebruik van een taxi (PU).",
-		"id": "ecf07425-ab58-403d-896a-941c870a7262"
+		"title": "Een adres opgeven en de ritprijs vragen bij gebruik van een taxi.",
+		"id": "ecf07425-ab58-403d-896a-941c870a7262",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Assistentie vragen op het vliegveld, bijvoorbeeld bij het inchecken (PU).",
-		"id": "49c11ada-9f4a-45f7-8ef4-bc6a0df5dd1b"
+		"title": "Assistentie vragen op het vliegveld, bijvoorbeeld bij het inchecken van bagage.",
+		"id": "49c11ada-9f4a-45f7-8ef4-bc6a0df5dd1b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vragen naar alternatieve reismogelijkheden, bijvoorbeeld bij vertragingen of storingen (PU).",
-		"id": "dd269c1f-91f2-464c-87ed-c5907e3d1463"
+		"title": "Vragen welke overstap je kunt nemen, bijvoorbeeld bij vertraging.",
+		"id": "dd269c1f-91f2-464c-87ed-c5907e3d1463",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Informeren of je iets met creditcard of bankpas kunt betalen (PU).",
-		"id": "e83fde1f-4b7b-487a-a9a2-1f51f48d61d1"
+		"title": "Informeren of je iets contant of met een bankpas kunt betalen.",
+		"id": "e83fde1f-4b7b-487a-a9a2-1f51f48d61d1",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Afdingen en contant betalen op een buitenlandse markt (PU).",
-		"id": "da6e4eed-54f0-4f16-aad1-280ea7a9fccb"
+		"title": "In een winkel vragen voor welke producten de aanbieding ‘1+1 gratis’ geldt.",
+		"id": "da6e4eed-54f0-4f16-aad1-280ea7a9fccb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Bij een financiële instelling vragen om een buitenlandse cheque over te maken op een rekening (DL).",
-		"id": "0c9c89c3-ed68-497e-9e8d-4d3276a1edf7"
+		"title": "Een pakje versturen via de post.",
+		"id": "0c9c89c3-ed68-497e-9e8d-4d3276a1edf7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Telefoon- of bestelnummers (DL, WE).",
-		"id": "4c86f60f-2815-428e-9596-a48beb80c270"
+		"title": "De prijzen van producten in een winkel of supermarkt.",
+		"id": "4c86f60f-2815-428e-9596-a48beb80c270",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aantal te lezen pagina's van een boek (OPL).",
-		"id": "986b3637-6925-4bf3-98d1-5108567425d0"
+		"title": "De benodigde hoeveelheden en ingrediënten voor een gerecht.",
+		"id": "986b3637-6925-4bf3-98d1-5108567425d0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De benodigde hoeveelheden ingrediënten voor een gerecht (DL).",
-		"id": "1b97e455-953e-4ecf-a95c-5bee080916a5"
+		"title": "De kosten van een telefoonabonnement.",
+		"id": "1b97e455-953e-4ecf-a95c-5bee080916a5",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De hoogte van de studielening (OPL, PU).",
-		"id": "0d69b3cd-ec82-491e-9b6d-975e546e5f6a"
+		"title": "Het aantal toegangskaartjes dat je nodig hebt voor je groep of  klas.",
+		"id": "0d69b3cd-ec82-491e-9b6d-975e546e5f6a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Verschillende soorten fruit op de markt vragen (PU).",
