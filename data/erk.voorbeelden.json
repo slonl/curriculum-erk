@@ -3318,68 +3318,100 @@
 		"description": ""
 	},
 	{
-		"title": "De organisatie van een uitstapje bespreken (DL).",
-		"id": "eb24adb3-cb37-4680-a81d-4387a636b154"
+		"title": "De organisatie van een uitstapje bespreken.",
+		"id": "eb24adb3-cb37-4680-a81d-4387a636b154",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Tijdens het uitgaan een alternatief afspreken als een café dicht blijkt te zijn (DL).",
-		"id": "40648cf3-75a5-411d-858b-e90c5909bfbd"
+		"title": "Tijdens het uitgaan een alternatief afspreken als een café dicht blijkt te zijn.",
+		"id": "40648cf3-75a5-411d-858b-e90c5909bfbd",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De invulling van een feestje bij iemand thuis bespreken (DL).",
-		"id": "852fb373-5f0f-4b61-9a8a-3d5f666a960d"
+		"title": "De invulling van een feestje bij iemand thuis bespreken.",
+		"id": "852fb373-5f0f-4b61-9a8a-3d5f666a960d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Alternatief vervoer afstemmen bij staking van openbaar vervoer (DL).",
-		"id": "ff3d18ad-a839-4374-80a4-d7f9484212a9"
+		"title": "Alternatief vervoer afstemmen bij een staking van het openbaar vervoer.",
+		"id": "ff3d18ad-a839-4374-80a4-d7f9484212a9",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Op een beleefde manier aangeven wat je denkt dat iemand verkeerd gedaan heeft (XX).",
-		"id": "f66bb46c-da2c-4056-8b3d-62df682d473d"
+		"title": "Op een beleefde manier aangeven wat je denkt dat iemand verkeerd gedaan heeft.",
+		"id": "f66bb46c-da2c-4056-8b3d-62df682d473d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Met overtuiging vertellen in een gesprek met een docent waarom je voor een bepaalde opleiding gaat kiezen (OPL).",
-		"id": "c5f4b580-6949-4a09-a0f5-ad39f52951cb"
+		"title": "Met overtuiging in een gesprek met een docent vertellen waarom je voor een bepaalde opleiding gaat kiezen.",
+		"id": "c5f4b580-6949-4a09-a0f5-ad39f52951cb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Feedback geven op een presentatie van een medescholier (OPL).",
-		"id": "f0b2b290-f5c8-4c21-a2e0-c78063ec5890"
+		"title": "Feedback geven op een presentatie van een medescholier.",
+		"id": "f0b2b290-f5c8-4c21-a2e0-c78063ec5890",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Opkomen voor de eigen mening over een recente gebeurtenis in een gesprek met vrienden (DL).",
-		"id": "f71577eb-596d-47d7-a34f-128d8a16c31f"
+		"title": "In een gesprek met vrienden uitkomen voor de eigen mening over een recente gebeurtenis.",
+		"id": "f71577eb-596d-47d7-a34f-128d8a16c31f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een discussie met vrienden, vertellen waar een film over ging en wat je vond van het verhaal, de acteurs en de wijze waarop het verhaal in beeld is gebracht (DL).",
-		"id": "0f3e0cd9-d672-4134-94c1-dc278f47f1d4"
+		"title": "In een discussie met vrienden vertellen waar een film over ging en wat je vond van het verhaal, de acteurs en de wijze waarop het verhaal in beeld is gebracht.",
+		"id": "0f3e0cd9-d672-4134-94c1-dc278f47f1d4",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een onlangs bezochte tentoonstelling of bijgewoond concert met iemand bespreken (DL).",
-		"id": "ab3fe726-3712-43e9-abf4-ddfa488524b7"
+		"title": "Een onlangs bezochte tentoonstelling of bijgewoond concert met iemand bespreken.",
+		"id": "ab3fe726-3712-43e9-abf4-ddfa488524b7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Bij een uitwisseling melden dat er een probleem is bij een gastgezin en vragen om overplaatsing naar een ander gastgezin (OPL).",
-		"id": "1f5d0e2a-518e-4989-a1c0-10f3cdb80b1c"
+		"title": "Bij een uitwisseling melden dat er een probleem is bij een gastgezin.",
+		"id": "1f5d0e2a-518e-4989-a1c0-10f3cdb80b1c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een discussie vertellen wat de consequenties zijn van teveel suiker eten (DL).",
-		"id": "1f48fbe0-828f-413d-b013-39254e06933f"
+		"title": "In een discussie vertellen wat de consequenties zijn van teveel suiker eten.",
+		"id": "1f48fbe0-828f-413d-b013-39254e06933f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Tijdens een etentje in een restaurant een allergieprobleem uitleggen en vragen naar alternatieve gerechten (PU).",
-		"id": "95ed2cd0-bdae-4cb1-be8e-573ebafb2652"
+		"title": "Tijdens een etentje in een restaurant een allergieprobleem uitleggen en vragen naar alternatieve gerechten.",
+		"id": "95ed2cd0-bdae-4cb1-be8e-573ebafb2652",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Reageren op de mening van een vriend over een tv-serie of een tv-programma (DL).",
-		"id": "db96d96c-1e58-4d33-b0a5-1f876f1c2983"
+		"title": "Reageren op de mening van een vriend over een tv-serie of een tv-programma.",
+		"id": "db96d96c-1e58-4d33-b0a5-1f876f1c2983",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Reageren op een krantenartikel over het wel of niet toestaan van het homohuwelijk (DL).",
-		"id": "0ede1703-5038-49a8-a937-a75fcb306292"
+		"title": "Reageren op een krantenartikel over een controversieel onderwerp.",
+		"id": "0ede1703-5038-49a8-a937-a75fcb306292",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Reageren op de mening van een vriend over wel of niet drinken van alcohol op een schoolfeest (PU).",
-		"id": "6dde5bfb-d59b-4183-b04f-c0a0ea867c56"
+		"title": "Reageren op de mening van een vriend over het wel of niet drinken van alcohol op een schoolfeest.",
+		"id": "6dde5bfb-d59b-4183-b04f-c0a0ea867c56",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "De voor- en nadelen van vakantiebestemmingen bespreken en een keuze maken (DL).",
@@ -11257,6 +11289,12 @@
 		"id": "a91d4bbe-1c54-42d8-a63a-3f5580f94c4d",
 		"prefix": "",
 		"title": "Met iemand bespreken welke pizza het lekkerst is.",
+		"description": ""
+	},
+	{
+		"id": "62b26929-e59d-4596-a607-fc0c50632232",
+		"prefix": "",
+		"title": "Uitleggen waarom je het wel of niet eens bent met een recensie van een musical.",
 		"description": ""
 	}
 ]
