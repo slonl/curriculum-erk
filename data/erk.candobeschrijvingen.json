@@ -11338,21 +11338,37 @@
 		"title": "Kan bijdragen van andere deelnemers over zaken binnen het eigen academische of professionele vakgebied herformuleren, evalueren en betwisten.",
 		"id": "cbe35a5d-648a-46b5-84ad-a94a1a312572",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"260f48a3-d677-4379-a199-7f0aa4469b21",
+			"c7000f48-7ca7-4cd7-a7b8-5ccc1fc85b14"
+		]
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan kritische opmerkingen maken of op diplomatische wijze aangeven het ergens niet mee eens te zijn.",
-		"id": "3d7e1626-b3f0-430d-97d5-36a0846dab6f"
+		"title": "Kan kritische opmerkingen maken of op diplomatieke wijze aangeven het ergens niet mee eens te zijn.",
+		"id": "3d7e1626-b3f0-430d-97d5-36a0846dab6f",
+		"prefix": "",
+		"description": "",
+		"erk_voorbeeld_id": [
+			"c6007dbb-0720-4eac-8f0e-6570b655b007",
+			"5e3e8c58-71d0-4367-91e1-91b7f5bcc4aa"
+		]
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
 		"title": "Kan vragen opvolgen door aan te dringen op meer details en kan vragen opnieuw formuleren als ze niet goed begrepen worden.",
-		"id": "ebb3423a-ed35-41a3-b420-4d83ddbfdace"
+		"id": "ebb3423a-ed35-41a3-b420-4d83ddbfdace",
+		"erk_voorbeeld_id": [
+			"c928e279-c58a-4fb1-b93c-b0d40b99e8e0",
+			"e9029240-de58-4ccf-a04c-87ffcc30c356",
+			"e0c52259-3e09-4490-9bf9-3124045e99b6",
+			"8f890b55-3ed1-4e7c-b293-97b057fbad67"
+		]
 	},
 	{
 		"niveau_id": [
