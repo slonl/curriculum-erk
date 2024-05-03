@@ -11804,7 +11804,11 @@
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
 		"title": "Kan in een winkel vragen om uitleg over de verschillen tussen twee of meer producten met hetzelfde doel teneinde een beslissing te nemen en daarbij zo nodig vervolgvragen te stellen.",
-		"id": "22660ff7-7004-436c-b7c7-0060e604ff7f"
+		"id": "22660ff7-7004-436c-b7c7-0060e604ff7f",
+		"erk_voorbeeld_id": [
+			"1e2ad434-0094-41db-9158-a5c7e83936e8",
+			"a249ccfe-4b74-4833-8cac-93abe829e96c"
+		]
 	},
 	{
 		"niveau_id": [
@@ -11815,7 +11819,8 @@
 			"c64dc4bb-2313-4bdb-8d5f-fd86b4c27707",
 			"679b2d32-bdca-4f6b-9ac1-d0d4aef86ae8",
 			"bf9c3263-a4cc-47d9-966b-643126327efb",
-			"193dcb46-c46b-465f-9eb3-5a9650f9de61"
+			"193dcb46-c46b-465f-9eb3-5a9650f9de61",
+			"fca90b39-6657-4be6-8bd3-211a33d24be5"
 		],
 		"title": "Kan zich redden in minder alledaagse situaties in winkels, postkantoren, banken enzovoort.",
 		"id": "53f95fb6-e080-4eb9-9491-ec85191cde30",
@@ -11842,7 +11847,9 @@
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
 		"erk_voorbeeld_id": [
-			"1e9a0922-d466-4622-8fd3-18a727540496"
+			"1e9a0922-d466-4622-8fd3-18a727540496",
+			"2c630869-fbc7-4b71-8c53-e69edaf74e02",
+			"d93b0370-dfd9-429d-b9c6-09f1b044de34"
 		],
 		"title": "Kan omgaan met de meeste situaties die kunnen optreden bij het boeken van een reis bij een reisagent of tijdens het reizen zelf.",
 		"id": "0284fac4-7416-43a3-80da-a4471c5def6a",
