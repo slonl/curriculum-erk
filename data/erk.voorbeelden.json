@@ -3124,16 +3124,22 @@
 		"description": ""
 	},
 	{
-		"title": "Aan een vakantievriend vertellen welke sport je leuk vindt en welke niet (DL).",
-		"id": "420c11d1-8bb0-4558-bd7c-f0b7d1e6daa3"
+		"title": "Bespreken welke sport je leuk vindt en welke niet.",
+		"id": "420c11d1-8bb0-4558-bd7c-f0b7d1e6daa3",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Zeggen welk eten je wel of niet lekker vindt (DL).",
-		"id": "220e4b5d-cf53-4019-b8d8-16584a8134e4"
+		"title": "Bespreken welk eten je wel en niet lekker vindt.",
+		"id": "220e4b5d-cf53-4019-b8d8-16584a8134e4",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Zeggen welke muziek je wel en niet leuk vindt (DL).",
-		"id": "194c81b0-b1a6-440c-90de-b4f4706b9d40"
+		"title": "Bespreken welke muziek, films en games je wel en niet leuk vindt.",
+		"id": "194c81b0-b1a6-440c-90de-b4f4706b9d40",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Vertellen of je het leuk vindt in het vakantieland (DL).",
@@ -3144,64 +3150,88 @@
 		"id": "79b7af33-3d94-4f76-b879-1f99b2a4b0b6"
 	},
 	{
-		"title": "Over wat men in het weekend doet (DL).",
-		"id": "65939d7e-438b-47af-b607-8a2a95be1bcf"
+		"title": "Wat je in je vrije tijd doet.",
+		"id": "65939d7e-438b-47af-b607-8a2a95be1bcf",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over activiteiten in de vrije tijd (DL).",
-		"id": "9b1d0828-ac56-42b1-bbf6-f8e4e74b7aa6"
+		"title": "Het lesrooster, het huiswerk of een toets.",
+		"id": "9b1d0828-ac56-42b1-bbf6-f8e4e74b7aa6",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Over het lesrooster, het huiswerk of een toets (OPL).",
 		"id": "14f89448-1adb-4c63-91b0-966389c394c4"
 	},
 	{
-		"title": "Over de training of een wedstrijdschema (DL).",
-		"id": "c8bc22c3-ee75-45f0-ab99-28a6bdfa2508"
+		"title": "De training of een wedstrijdschema.",
+		"id": "c8bc22c3-ee75-45f0-ab99-28a6bdfa2508",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Over een game (DL).",
 		"id": "87dbd16d-4ccc-4043-b39b-fdb76bcfa641"
 	},
 	{
-		"title": "Over werktijden (WE).",
-		"id": "0b9685f3-bf3a-42ed-97c2-9e355f6bb477"
+		"title": "Werktijden.",
+		"id": "0b9685f3-bf3a-42ed-97c2-9e355f6bb477",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Met vrienden bespreken wat je gaat doen (DL).",
-		"id": "04436b9b-3cea-4209-93e5-d23b17c13db9"
+		"title": "Met vrienden bespreken wat je gaat doen, zoals samen naar de bioscoop gaan of een wandeling maken.",
+		"id": "04436b9b-3cea-4209-93e5-d23b17c13db9",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een voorstel doen voor het avondeten tijdens een uitwisseling met een buitenlandse school (OPL).",
-		"id": "28c8c696-24c4-4c3d-acd7-231dc1234cc0"
+		"title": "Een voorstel doen voor het avondeten tijdens een uitwisseling met een buitenlandse school.",
+		"id": "28c8c696-24c4-4c3d-acd7-231dc1234cc0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Met de buurman op een buitenlandse camping bespreken wat de plannen voor het weekend zijn (DL).",
-		"id": "f3bab7a4-9b45-48a9-b614-f7365674e6b4"
+		"title": "Met een leeftijdsgenoot op een buitenlandse camping bespreken wat de plannen voor de komende dagen zijn.",
+		"id": "f3bab7a4-9b45-48a9-b614-f7365674e6b4",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Afspraken maken voor een ontmoeting (DL).",
-		"id": "6f69d235-1b59-470c-b4bc-4e03ef4f46c7"
+		"title": "Afspraken maken voor een ontmoeting.",
+		"id": "6f69d235-1b59-470c-b4bc-4e03ef4f46c7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een vriend/in complimenteren met kleding (DL).",
-		"id": "0ea65db4-f2f3-4361-8d41-5433a490c100"
+		"title": "Iemand complimenteren met kleding.",
+		"id": "0ea65db4-f2f3-4361-8d41-5433a490c100",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "De wens uiten om mee te doen met een spel of opdracht (DL, OPL).",
 		"id": "7667bd88-8bc8-4fcd-b6fd-61de8e1fd3d4"
 	},
 	{
-		"title": "In een winkel aangeven waarom je een product niet wilt kopen (PU).",
-		"id": "91e26d42-b538-48cc-9294-48e7d81f56c7"
+		"title": "In een winkel aangeven waarom je een product niet wilt kopen.",
+		"id": "91e26d42-b538-48cc-9294-48e7d81f56c7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Zeggen dat je iets lekker vindt en vragen naar favoriete gerechten (DL).",
-		"id": "253a8b32-aef8-4ba2-8ad3-7d75a92c2883"
+		"title": "Zeggen dat je iets lekker vindt.",
+		"id": "253a8b32-aef8-4ba2-8ad3-7d75a92c2883",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Bij vakantiebaantje of stage zeggen dat bepaalde werkzaamheden te zwaar of te moeilijk zijn (OPL, WE).",
-		"id": "ed6ee480-41a8-4f23-a0bd-a91393ac6579"
+		"title": "Bij je vakantiebaantje of stage zeggen dat bepaalde werkzaamheden te zwaar of te moeilijk zijn.",
+		"id": "ed6ee480-41a8-4f23-a0bd-a91393ac6579",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Om mee te doen aan een uitje (XX).",
