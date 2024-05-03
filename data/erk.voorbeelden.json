@@ -3414,60 +3414,88 @@
 		"description": ""
 	},
 	{
-		"title": "De voor- en nadelen van vakantiebestemmingen bespreken en een keuze maken (DL).",
-		"id": "8e911d61-2f19-490a-bdba-cd75dcb6e311"
+		"title": "De voor- en nadelen van vakantiebestemmingen bespreken en een keuze maken.",
+		"id": "8e911d61-2f19-490a-bdba-cd75dcb6e311",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De voor- en nadelen van bepaalde studiekeuzes toelichten OPL).",
-		"id": "aad90bb1-e4c2-48d2-9980-2f2fee09f142"
+		"title": "De voor- en nadelen van bepaalde studiekeuzes toelichten.",
+		"id": "aad90bb1-e4c2-48d2-9980-2f2fee09f142",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De lijst kandidaten voor de leerlingraadverkiezingen met klasgenoten bespreken (OPL).",
-		"id": "a59942e6-e9cb-4d50-8844-7af25b83fb0f"
+		"title": "De lijst kandidaten voor de leerlingenraad verkiezingen met klasgenoten bespreken.",
+		"id": "a59942e6-e9cb-4d50-8844-7af25b83fb0f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Eigen wensen en voorkeuren voor een studentenkamer met een vriend bespreken (DL, OPL).",
-		"id": "a55d3e2f-7819-489c-a029-9b2377d3a204"
+		"title": "Eigen wensen en voorkeuren voor een studentenkamer met een vriend bespreken.",
+		"id": "a55d3e2f-7819-489c-a029-9b2377d3a204",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Met een docent over de nieuwe lesmethode (OPL).",
-		"id": "14aa1b48-367a-49e3-9db6-d7c506face25"
+		"title": "Met een docent over de nieuwe lesmethode.",
+		"id": "14aa1b48-367a-49e3-9db6-d7c506face25",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over het vrijgeven van de drugshandel (DL).",
-		"id": "f2c23d99-8f2f-4d7b-8d52-c3c441c83c9f"
+		"title": "Over het vrijgeven van de drugshandel.",
+		"id": "f2c23d99-8f2f-4d7b-8d52-c3c441c83c9f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over het handhaven van verschillen in prijzengeld in de sport bij mannen en vrouwen (DL).",
-		"id": "baffa886-e342-4d68-889b-a42a77827e79"
+		"title": "Over het handhaven van verschillen in prijzengeld in de sport bij mannen en vrouwen.",
+		"id": "baffa886-e342-4d68-889b-a42a77827e79",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over de invulling van een 'gap year' na het eindexamen (DL).",
-		"id": "a3881202-333c-4f62-b7e9-4ffbe33c67e8"
+		"title": "Over de invulling van een tussenjaar na het eindexamen.",
+		"id": "a3881202-333c-4f62-b7e9-4ffbe33c67e8",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Buitenlandse vrienden van het gelijk van je mening over euthanasie proberen te overtuigen (DL).",
-		"id": "867cb834-93ba-495a-a134-4d7efde2855a"
+		"title": "Buitenlandse vrienden van je mening over euthanasie proberen te overtuigen.",
+		"id": "867cb834-93ba-495a-a134-4d7efde2855a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aan je docent uitleggen hoe je over blowen denkt (DL).",
-		"id": "5728270f-c009-48b5-8409-e7585de8d9c3"
+		"title": "Aan je docent uitleggen hoe je over blowen denkt.",
+		"id": "5728270f-c009-48b5-8409-e7585de8d9c3",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Bij je gastgezin het alcoholgebruik van Nederlandse jongeren bespreken (DL).",
-		"id": "7b77d626-cd0c-4683-8491-7427be26d5fb"
+		"title": "Bij je gastgezin het alcoholgebruik van Nederlandse jongeren bespreken.",
+		"id": "7b77d626-cd0c-4683-8491-7427be26d5fb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Met vrienden praten over liefde, geluk en verdriet in het leven (DL).",
-		"id": "3c1a4435-3b0e-4f86-9ff3-ac7c75270f40"
+		"title": "Met vrienden praten over liefde, geluk en verdriet in het leven.",
+		"id": "3c1a4435-3b0e-4f86-9ff3-ac7c75270f40",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Discussiëren over wel/niet interveniëren in oorlogsgebieden (XX).",
-		"id": "1a5df2b1-71d6-41c9-a70e-442bc5328480"
+		"title": "Discussiëren over het wel/niet interveniëren in oorlogsgebieden.",
+		"id": "1a5df2b1-71d6-41c9-a70e-442bc5328480",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Naar aanleiding van de laatste nieuwsberichten in de pers, eigen standpunten uitwisselen over het politiek beleid in een bepaald land (XX).",
-		"id": "f8a5c857-d79c-46bc-98d6-31874b26091e"
+		"title": "Naar aanleiding van de laatste nieuwsberichten in de pers eigen standpunten uitwisselen over het politiek beleid in een bepaald land.",
+		"id": "f8a5c857-d79c-46bc-98d6-31874b26091e",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Wat je vindt van het voorstel voor een schoolreis tijdens een klassenbijeenkomst.",
@@ -11295,6 +11323,24 @@
 		"id": "62b26929-e59d-4596-a607-fc0c50632232",
 		"prefix": "",
 		"title": "Uitleggen waarom je het wel of niet eens bent met een recensie van een musical.",
+		"description": ""
+	},
+	{
+		"id": "a9e135ea-eb0e-44ad-ad1d-58b1adf8424a",
+		"prefix": "",
+		"title": "Je standpunt duidelijk maken over het oplossen van de immigratieproblematiek.",
+		"description": ""
+	},
+	{
+		"id": "b384ada2-0d11-476e-a1aa-4abc9efc6a9d",
+		"prefix": "",
+		"title": "Een vriend adviseren een psycholoog te raadplegen.",
+		"description": ""
+	},
+	{
+		"id": "0c5c5827-3962-40a6-8d85-5f67178a7db1",
+		"prefix": "",
+		"title": "Je eigen keuze en standpunt duidelijk maken over het alcoholgebruik binnen je vriendenkring.",
 		"description": ""
 	}
 ]
