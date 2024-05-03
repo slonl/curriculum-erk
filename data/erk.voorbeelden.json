@@ -4050,44 +4050,64 @@
 		"id": "e9c04dbb-9ffd-42f1-9ff8-bb452ec0dca3"
 	},
 	{
-		"title": "Een miskoop naar een winkel terugbrengen om het te ruilen of geld terug te krijgen (PU).",
-		"id": "90ce40fd-3bf9-4450-8da7-8a2bf41ab6f1"
+		"title": "Een miskoop naar een winkel terugbrengen om het te ruilen of geld terug te krijgen.",
+		"id": "90ce40fd-3bf9-4450-8da7-8a2bf41ab6f1",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Bij een bestelling extra wensen toelichten (PU).",
-		"id": "c64dc4bb-2313-4bdb-8d5f-fd86b4c27707"
+		"title": "Bij een bestelling extra wensen toelichten.",
+		"id": "c64dc4bb-2313-4bdb-8d5f-fd86b4c27707",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Extra informatie vragen/geven over bijvoorbeeld streekgerechten op de menukaart (PU).",
-		"id": "679b2d32-bdca-4f6b-9ac1-d0d4aef86ae8"
+		"title": "Extra informatie vragen/geven over bijvoorbeeld streekgerechten op de menukaart.",
+		"id": "679b2d32-bdca-4f6b-9ac1-d0d4aef86ae8",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een pakket versturen, bijvoorbeeld tijdens een verblijf in een ver land (PU).",
-		"id": "bf9c3263-a4cc-47d9-966b-643126327efb"
+		"title": "Een pakket versturen, bijvoorbeeld tijdens een verblijf in een ver land.",
+		"id": "bf9c3263-a4cc-47d9-966b-643126327efb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In geval van een ingeslikte bankpas bij een bank (DL, PU).",
-		"id": "193dcb46-c46b-465f-9eb3-5a9650f9de61"
+		"title": "Melding doen bij een bank van een ingeslikte bankpas door een geldautomaat.",
+		"id": "193dcb46-c46b-465f-9eb3-5a9650f9de61",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over het geboden programma bij een uitwisseling (OPL).",
-		"id": "ae439b49-f04b-4adc-ab10-d4a0ffbdd783"
+		"title": "Over het geboden programma bij een uitwisseling.",
+		"id": "ae439b49-f04b-4adc-ab10-d4a0ffbdd783",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over een lawaaiige kamer bij de receptie van een hotel (DL, WE).",
-		"id": "0f4ceb24-55fa-428d-8066-4ac9e99e6830"
+		"title": "Bij de receptie van een hotel over een lawaaierige kamer.",
+		"id": "0f4ceb24-55fa-428d-8066-4ac9e99e6830",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over een fout op de rekening in een café of restaurant (DL, WE).",
-		"id": "595ef9d5-1570-4def-a8c8-a34ecb6818c4"
+		"title": "Over een fout op de rekening in een café of restaurant.",
+		"id": "595ef9d5-1570-4def-a8c8-a34ecb6818c4",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over een verkeerde levering van goederen (WE).",
-		"id": "8c00c1cc-3faf-4b97-870b-5798a5c2c35d"
+		"title": "Over een verkeerde levering van goederen.",
+		"id": "8c00c1cc-3faf-4b97-870b-5798a5c2c35d",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aan een medereiziger vragen waar je moet uitstappen voor een minder voor de hand liggende bestemming (PU).",
-		"id": "1e9a0922-d466-4622-8fd3-18a727540496"
+		"title": "Aan een medereiziger vragen om gerichte tips voor een reis naar een afgelegen bestemming.",
+		"id": "1e9a0922-d466-4622-8fd3-18a727540496",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "De voorwaarden van de huurovereenkomst bespreken bij het ophalen van een auto in het buitenland (PU).",
@@ -11031,6 +11051,36 @@
 		"id": "c1d6cf0f-2fa8-453e-8b2d-ded40a0425ef",
 		"prefix": "",
 		"title": "Vragen waar het toeristenbureau is.",
+		"description": ""
+	},
+	{
+		"id": "1e2ad434-0094-41db-9158-a5c7e83936e8",
+		"prefix": "",
+		"title": "Zich laten informeren bij de aanschaf van een laptop of telefoon in een elektronica winkel.",
+		"description": ""
+	},
+	{
+		"id": "a249ccfe-4b74-4833-8cac-93abe829e96c",
+		"prefix": "",
+		"title": "Advies vragen over een alternatief ingrediënt dat gebruikt kan worden in een vast recept.",
+		"description": ""
+	},
+	{
+		"id": "fca90b39-6657-4be6-8bd3-211a33d24be5",
+		"prefix": "",
+		"title": "Op het station informeren naar verschillende soorten vervoersbewijzen.",
+		"description": ""
+	},
+	{
+		"id": "2c630869-fbc7-4b71-8c53-e69edaf74e02",
+		"prefix": "",
+		"title": "Informeren naar oplossingen als de accommodatie niet naar wens is.",
+		"description": ""
+	},
+	{
+		"id": "d93b0370-dfd9-429d-b9c6-09f1b044de34",
+		"prefix": "",
+		"title": "Bij de reisagent vragen naar alternatieve routes omdat je bepaalde delen van een land wil zien.",
 		"description": ""
 	}
 ]
