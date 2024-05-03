@@ -11723,12 +11723,13 @@
 		],
 		"erk_voorbeeld_id": [
 			"b1798cec-7649-40cf-bfc9-569c878ff490",
-			"49fc2228-3641-4d23-bfa6-67746e4cf560",
 			"65a71ea6-88ce-4782-99eb-7d8865200d38",
 			"aee51767-41b7-40ff-ad47-3b0e764ad9ca"
 		],
 		"title": "Kan een maaltijd bestellen.",
-		"id": "20d4b2b5-38fa-4e44-bb46-84ace17eef98"
+		"id": "20d4b2b5-38fa-4e44-bb46-84ace17eef98",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -11745,8 +11746,14 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan (bij persoonlijk contact) vragen om een doktersafspraak en het antwoord begrijpen.",
-		"id": "e6fc51ef-ed27-4074-beb7-fe2426c84343"
+		"title": "Kan bij persoonlijk contact vragen om een doktersafspraak en het antwoord begrijpen.",
+		"id": "e6fc51ef-ed27-4074-beb7-fe2426c84343",
+		"prefix": "",
+		"description": "",
+		"erk_voorbeeld_id": [
+			"09d945f3-a93a-4fb7-a831-43908c693ee1",
+			"1e04147e-0031-4d1f-a279-47d0cd5b8029"
+		]
 	},
 	{
 		"niveau_id": [
