@@ -11591,7 +11591,13 @@
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
 		"title": "Kan eenvoudige aankopen doen en/of eten en drinken bestellen als de gesproken taal kan worden ondersteund met wijzen of andere gebaren.",
-		"id": "ffc6dda8-a46c-44d2-a16d-d2aae62e290b"
+		"id": "ffc6dda8-a46c-44d2-a16d-d2aae62e290b",
+		"erk_voorbeeld_id": [
+			"d256c6ed-2164-4990-ad70-880b9ed837d4",
+			"84e7a11d-6eb3-467e-ada2-b175097ef10f",
+			"8ae25c3f-6287-4781-9de9-0230cd9d0157",
+			"0fdde2e0-4233-4d16-8fd0-d49141c07dc1"
+		]
 	},
 	{
 		"niveau_id": [
@@ -11614,7 +11620,10 @@
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
 		"title": "Kan om eten en drinken vragen met behulp van elementaire uitdrukkingen.",
-		"id": "04ad473b-081b-4e44-a862-a34b04f21c0d"
+		"id": "04ad473b-081b-4e44-a862-a34b04f21c0d",
+		"erk_voorbeeld_id": [
+			"548df91a-5ef1-4574-b016-521640e8fa42"
+		]
 	},
 	{
 		"niveau_id": [
@@ -11623,10 +11632,14 @@
 		"erk_voorbeeld_id": [
 			"2141edd8-8ffc-4046-80ac-ca9e14e86274",
 			"bbf56f7c-ecda-4c7e-a949-a9b62c02a5de",
-			"f7909113-678d-447e-9521-88c7ad2ad1ef"
+			"f7909113-678d-447e-9521-88c7ad2ad1ef",
+			"91d76d9c-f238-45a7-83d9-44ba2b302a08",
+			"c6850151-3ad8-4344-8bcb-a9f01283ea3d"
 		],
 		"title": "Kan overweg met aantallen, hoeveelheden, kosten en tijden.",
-		"id": "0b063143-4588-476c-bd2f-3191492a35d9"
+		"id": "0b063143-4588-476c-bd2f-3191492a35d9",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
