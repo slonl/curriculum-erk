@@ -11174,7 +11174,12 @@
 		"title": "Kan adviseren of discussiëren over gevoelige kwesties zonder ongemak, spreektalige verwijzingen begrijpen en diplomatisch omgaan met onenigheid en kritiek.",
 		"id": "1771b512-3d02-4212-86fe-f123f78d88fb",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"a9e135ea-eb0e-44ad-ad1d-58b1adf8424a",
+			"b384ada2-0d11-476e-a1aa-4abc9efc6a9d",
+			"0c5c5827-3962-40a6-8d85-5f67178a7db1"
+		]
 	},
 	{
 		"niveau_id": [
