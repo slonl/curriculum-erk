@@ -3234,60 +3234,88 @@
 		"description": ""
 	},
 	{
-		"title": "Om mee te doen aan een uitje (XX).",
-		"id": "35febb05-1380-458a-837b-2a6e205f3c74"
+		"title": "Voorstellen om mee te doen aan een uitje.",
+		"id": "35febb05-1380-458a-837b-2a6e205f3c74",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Voor een feestavond (DL).",
-		"id": "b04b4cc2-5ed4-4a99-b245-70828a2a265e"
+		"title": "Een voorstel voor een feestavond afwijzen.",
+		"id": "b04b4cc2-5ed4-4a99-b245-70828a2a265e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Om langs te komen (DL).",
-		"id": "600470ec-5dba-499c-ab62-2c45732e61e0"
+		"title": "Voorstellen om langs te komen.",
+		"id": "600470ec-5dba-499c-ab62-2c45732e61e0",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Om op een bepaalde tijd iets te doen (DL).",
-		"id": "6e645b92-c536-4610-ab52-51b7650b5515"
+		"title": "Voorstellen om op een bepaalde tijd iets te gaan doen.",
+		"id": "6e645b92-c536-4610-ab52-51b7650b5515",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vertellen wat je van de plannen voor het weekend vindt (DL).",
-		"id": "9e93d94e-20e4-4e6f-ba0b-829cf4ba8289"
+		"title": "Vertellen wat je van iemands plannen voor het weekend vindt.",
+		"id": "9e93d94e-20e4-4e6f-ba0b-829cf4ba8289",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Reageren op de mening van een buitenlandse kennis over een zanger of een band (DL).",
-		"id": "2ba7fc80-d86d-4de5-bff3-2cbaf8a42d23"
+		"title": "Reageren op de mening van een buitenlandse kennis over een zanger.",
+		"id": "2ba7fc80-d86d-4de5-bff3-2cbaf8a42d23",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Reageren op een spreekbeurt of een presentatie (OPL, WE).",
-		"id": "05c2f29b-3803-4a24-a11c-e9ef2db448eb"
+		"title": "Reageren op een spreekbeurt of presentatie.",
+		"id": "05c2f29b-3803-4a24-a11c-e9ef2db448eb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Tijdens een klassendiscussie zeggen dat je het met een standpunt eens of niet eens bent (OPL).",
-		"id": "edcde832-65d8-43eb-a9c1-480df179c21e"
+		"title": "Tijdens een klassendiscussie zeggen dat je het met een standpunt eens of niet eens bent.",
+		"id": "edcde832-65d8-43eb-a9c1-480df179c21e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over eigen woon-, leef-, werksituatie in vergelijking met die van anderen (DL).",
-		"id": "681a601b-1fb4-4bd0-b885-fc3738a44efb"
+		"title": "Over de eigen woon-, leef-, werksituatie in vergelijking met die van anderen.",
+		"id": "681a601b-1fb4-4bd0-b885-fc3738a44efb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over ziektes en gezondheid (DL).",
-		"id": "ec52daba-50a3-45e9-b34e-c74a530a8b8a"
+		"title": "Over ziektes en gezondheid.",
+		"id": "ec52daba-50a3-45e9-b34e-c74a530a8b8a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over televisieprogramma's, tophits, films, sportwedstrijden (DL).",
-		"id": "b3bcfa99-2b19-4986-9db7-f6d15727e2fc"
+		"title": "Over onderwerpen in een talkshow.",
+		"id": "b3bcfa99-2b19-4986-9db7-f6d15727e2fc",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over religie (DL).",
-		"id": "b0625475-a903-435d-9474-2e02f781f8a4"
+		"title": "Over religie.",
+		"id": "b0625475-a903-435d-9474-2e02f781f8a4",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over de gebeurtenissen van de dag (DL).",
-		"id": "7f962199-2dc2-462b-b8f8-0cae75b38d3f"
+		"title": "Over de gebeurtenissen van de dag.",
+		"id": "7f962199-2dc2-462b-b8f8-0cae75b38d3f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over een actie van vrienden, collega's of bekenden (DL).",
-		"id": "df6b3a7e-044d-42c3-93e7-3f144a32d3f2"
+		"title": "Over een actie van vrienden, collega's of bekenden.",
+		"id": "df6b3a7e-044d-42c3-93e7-3f144a32d3f2",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "De organisatie van een uitstapje bespreken (DL).",
@@ -11205,6 +11233,30 @@
 		"id": "dbfdef97-70f4-4266-931a-6ed819d9b332",
 		"prefix": "",
 		"title": "Over de belangrijkste bezienswaardigheden in de regio.",
+		"description": ""
+	},
+	{
+		"id": "15c415e0-260f-4841-a8a2-aeb5ffc78d0b",
+		"prefix": "",
+		"title": "In een winkel aangeven waarom je het ene boek wel en het andere niet wilt kopen.",
+		"description": ""
+	},
+	{
+		"id": "22da5daf-65a3-4616-8b8c-e89c19eb3306",
+		"prefix": "",
+		"title": "Met iemand bespreken welke sportschoenen je het meest geschikt vindt.",
+		"description": ""
+	},
+	{
+		"id": "2fb0698d-e91d-467f-a0a9-b9022aa80668",
+		"prefix": "",
+		"title": "Met iemand bespreken wat de beste band van dit moment is.",
+		"description": ""
+	},
+	{
+		"id": "a91d4bbe-1c54-42d8-a63a-3f5580f94c4d",
+		"prefix": "",
+		"title": "Met iemand bespreken welke pizza het lekkerst is.",
 		"description": ""
 	}
 ]
