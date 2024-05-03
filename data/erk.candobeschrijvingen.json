@@ -10988,7 +10988,13 @@
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
 		"title": "Kan meningen uitwisselen en dingen en mensen vergelijken met behulp van eenvoudige taal.",
-		"id": "1f780765-d9a1-40f0-8260-89d438a302b8"
+		"id": "1f780765-d9a1-40f0-8260-89d438a302b8",
+		"erk_voorbeeld_id": [
+			"15c415e0-260f-4841-a8a2-aeb5ffc78d0b",
+			"22da5daf-65a3-4616-8b8c-e89c19eb3306",
+			"2fb0698d-e91d-467f-a0a9-b9022aa80668",
+			"a91d4bbe-1c54-42d8-a63a-3f5580f94c4d"
+		]
 	},
 	{
 		"niveau_id": [
