@@ -11762,7 +11762,13 @@
 		"title": "Kan omgaan met gewone aspecten van het dagelijks leven zoals reizen, verblijf, eten en winkelen.",
 		"id": "05c101e5-d091-414e-9d2c-bde5b0c9b773",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"4fcc49de-9427-413d-a5ad-5f71195325c0",
+			"7ca8048f-460d-43ec-ac04-7115c69f5e1a",
+			"069b698c-efef-4861-93fa-4be447bb1d26",
+			"f01e58ba-7054-4ca4-afe6-9b49966d9026"
+		]
 	},
 	{
 		"niveau_id": [
@@ -11771,7 +11777,8 @@
 		"erk_voorbeeld_id": [
 			"bf2a411f-b4d1-436f-b53d-19aae0dae2b5",
 			"6938602b-b7de-42c5-9bd4-f6e36b043213",
-			"5475945a-3f25-45d6-8cd8-cccac62da7ff"
+			"5475945a-3f25-45d6-8cd8-cccac62da7ff",
+			"c1d6cf0f-2fa8-453e-8b2d-ded40a0425ef"
 		],
 		"title": "Kan interactief communiceren in voorspelbare alledaagse situaties met behulp van een breed scala van eenvoudige uitdrukkingen.\n",
 		"id": "f6d224ed-989e-4dd2-abf1-28ea2497a4aa",
@@ -11785,13 +11792,12 @@
 		"erk_voorbeeld_id": [
 			"bbd93a26-822e-487f-ba69-a3844ace4cde",
 			"d4b990b0-49a7-4cca-8cd7-f5bc254b64e4",
-			"68bbc3ec-1e81-4487-be5a-7b54ca5dc836",
-			"9cffcdac-6529-4a28-9968-a9c84313e141",
-			"5c5827a7-9383-482f-8423-374ac113be85",
-			"e9c04dbb-9ffd-42f1-9ff8-bb452ec0dca3"
+			"68bbc3ec-1e81-4487-be5a-7b54ca5dc836"
 		],
 		"title": "Kan de meeste transacties uitvoeren die kunnen optreden tijdens reizen, bij het regelen van vervoer of onderdak of in contacten met gezagsdragers tijdens een buitenlands bezoek.",
-		"id": "df2ab55a-584a-4a89-a102-42e3e526e018"
+		"id": "df2ab55a-584a-4a89-a102-42e3e526e018",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
