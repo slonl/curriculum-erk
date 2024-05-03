@@ -4110,48 +4110,70 @@
 		"description": ""
 	},
 	{
-		"title": "De voorwaarden van de huurovereenkomst bespreken bij het ophalen van een auto in het buitenland (PU).",
-		"id": "8d95993e-f12f-4fcb-b11b-e42dc38fa207"
+		"title": "De voorwaarden van de huurovereenkomst bespreken bij het ophalen van een auto in het buitenland.",
+		"id": "8d95993e-f12f-4fcb-b11b-e42dc38fa207",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een lekkage in je vakantiewoning melden en een vergoeding eisen (PU).",
-		"id": "e98477c8-b0fb-45ef-b5a0-cc7d17b83799"
+		"title": "Een lekkage in je vakantiewoning melden en een vergoeding eisen.",
+		"id": "e98477c8-b0fb-45ef-b5a0-cc7d17b83799",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Bij een telefonische annulering van een reservering, bijv. door ziekte (PU).",
-		"id": "a2858335-f2a6-46d5-a2b2-6ff1b51d0a1b"
+		"title": "Bij een telefonische annulering van een reservering door ziekte.",
+		"id": "a2858335-f2a6-46d5-a2b2-6ff1b51d0a1b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Door omstandigheden voortijdig de huur van een kamer moeten opzeggen (PU).",
-		"id": "5822a5ab-70ad-4f08-ba1c-619e7c45aa28"
+		"title": "Door omstandigheden voortijdig de huur van een kamer moeten opzeggen.",
+		"id": "5822a5ab-70ad-4f08-ba1c-619e7c45aa28",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een veranderd reisschema door ziekte telefonisch bespreken met de touroperator (PU).",
-		"id": "482dc912-ce00-495d-a2ae-ef3e4fcd54c4"
+		"title": "Een door ziekte veranderd reisschema telefonisch bespreken met de touroperator.",
+		"id": "482dc912-ce00-495d-a2ae-ef3e4fcd54c4",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De financiële aansprakelijkheid voor schade aan een (vakantie)woning bespreken (PU, WE).",
-		"id": "568b1d13-c1e6-4bb3-a5a1-0072534e3ee8"
+		"title": "De financiële aansprakelijkheid voor schade aan een (vakantie)woning bespreken.",
+		"id": "568b1d13-c1e6-4bb3-a5a1-0072534e3ee8",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Op een gepaste manier in discussie gaan met een agent over een onterechte bekeuring (PU).",
-		"id": "64aa42a8-cef8-4027-b430-6df57f9cb7ed"
+		"title": "Op een gepaste manier met een agent in discussie gaan over een onterechte bekeuring.",
+		"id": "64aa42a8-cef8-4027-b430-6df57f9cb7ed",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Problemen oplossen rond het verlies van documenten, gemiste aansluitingen, mislopen van afspraken (PU).",
-		"id": "9fbc4b57-ca49-485f-a990-1e7cad7a3575"
+		"title": "Problemen oplossen rond het verlies van documenten, gemiste aansluitingen, het mislopen van afspraken.",
+		"id": "9fbc4b57-ca49-485f-a990-1e7cad7a3575",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een aanrijding of 'pech onderweg' afhandelen met de verkeersautoriteiten en zorgen dat je de nodige papieren voor je verzekering bemachtigt (PU).",
-		"id": "18a16185-a5c5-4b22-9df2-22a97686b2ff"
+		"title": "Een aanrijding of 'pech onderweg' afhandelen met de verkeersautoriteiten en zorgen dat je de nodige papieren voor je verzekering bemachtigt.",
+		"id": "18a16185-a5c5-4b22-9df2-22a97686b2ff",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De financiële aansprakelijkheid bespreken voor schade aan een brommer, scooter (PU).",
-		"id": "6e4b71eb-2874-4862-9556-e783ecafa517"
+		"title": "De financiële aansprakelijkheid bespreken voor schade aan een brommer, scooter.",
+		"id": "6e4b71eb-2874-4862-9556-e783ecafa517",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Genoegdoening vragen in een hotel als het gehuurde niet in overeenstemming is met de afspraken (PU).",
-		"id": "9721dd5f-2c35-43de-abe1-2114d4251520"
+		"title": "Compensatie vragen in een hotel als het gehuurde niet in overeenstemming is met de afspraken.",
+		"id": "9721dd5f-2c35-43de-abe1-2114d4251520",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Vragen hoe oud iemand is en zeggen hoe oud je zelf bent.",
@@ -11081,6 +11103,78 @@
 		"id": "d93b0370-dfd9-429d-b9c6-09f1b044de34",
 		"prefix": "",
 		"title": "Bij de reisagent vragen naar alternatieve routes omdat je bepaalde delen van een land wil zien.",
+		"description": ""
+	},
+	{
+		"id": "d10c78ad-f8a2-46e5-a3cb-02d916a6fb37",
+		"prefix": "",
+		"title": "Toestemming vragen voor het gebruik van een persoonlijke bron.",
+		"description": ""
+	},
+	{
+		"id": "6e2fee59-0706-406d-9625-45ffc8199a76",
+		"prefix": "",
+		"title": "Uitleggen waarom je iemand wilt citeren in een artikel.",
+		"description": ""
+	},
+	{
+		"id": "7e75f836-699e-4b74-9b6e-f94fc3c4845a",
+		"prefix": "",
+		"title": "Een gesprek voeren naar aanleiding van een aanvraag voor een uitkering.",
+		"description": ""
+	},
+	{
+		"id": "f9a9d3e9-d14b-495b-8d20-b394238a60ae",
+		"prefix": "",
+		"title": "In gesprek gaan met de examencommissie na het afwijzen van uitstel van examens om gezondheidsredenen.",
+		"description": ""
+	},
+	{
+		"id": "1b53e582-0f09-47ab-bdd0-277748b865f8",
+		"prefix": "",
+		"title": "Onderhandelen over korting bij de aankoop van een product of abonnement.",
+		"description": ""
+	},
+	{
+		"id": "6513f63d-a182-4295-96c8-ae835bb2073b",
+		"prefix": "",
+		"title": "Aangeven waar het pijn doet.",
+		"description": ""
+	},
+	{
+		"id": "e7fb684b-e2a6-4501-8eca-312da569bdfe",
+		"prefix": "",
+		"title": "Aangeven waar je gebeten of gestoken bent.\n",
+		"description": ""
+	},
+	{
+		"id": "7a0b3661-a59f-422f-9bf5-f7a37c3ef7b2",
+		"prefix": "",
+		"title": "Over festivals of uitgaansgelegenheden.",
+		"description": ""
+	},
+	{
+		"id": "5ba249fe-7aaa-413d-862b-bb40c309ec9c",
+		"prefix": "",
+		"title": "Over stadswandelingen of tochtjes met een gids.",
+		"description": ""
+	},
+	{
+		"id": "56b2393a-e38d-4c79-ba3f-12de62925f96",
+		"prefix": "",
+		"title": "Over natuurgebieden.",
+		"description": ""
+	},
+	{
+		"id": "f8ff73b4-89ee-4e66-82ca-bbb33926bec9",
+		"prefix": "",
+		"title": "Over reizen met het openbaar vervoer.",
+		"description": ""
+	},
+	{
+		"id": "dbfdef97-70f4-4266-931a-6ed819d9b332",
+		"prefix": "",
+		"title": "Over de belangrijkste bezienswaardigheden in de regio.",
 		"description": ""
 	}
 ]
