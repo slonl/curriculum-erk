@@ -11912,7 +11912,14 @@
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
 		"title": "Kan onderhandelen over complexe of gevoelige transacties in het openbare, professionele of academische leven.",
-		"id": "a6a02567-9e44-4608-b4eb-4995a27a3dcc"
+		"id": "a6a02567-9e44-4608-b4eb-4995a27a3dcc",
+		"erk_voorbeeld_id": [
+			"d10c78ad-f8a2-46e5-a3cb-02d916a6fb37",
+			"6e2fee59-0706-406d-9625-45ffc8199a76",
+			"7e75f836-699e-4b74-9b6e-f94fc3c4845a",
+			"f9a9d3e9-d14b-495b-8d20-b394238a60ae",
+			"1b53e582-0f09-47ab-bdd0-277748b865f8"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15511,7 +15518,11 @@
 		"id": "268267d8-b262-455e-aa7e-2bf313c7a624",
 		"prefix": "",
 		"title": "Kan de aard van een probleem aangeven aan een arts of verpleegkundige, zo nodig met behulp van gebaren en lichaamstaal.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"6513f63d-a182-4295-96c8-ae835bb2073b",
+			"e7fb684b-e2a6-4501-8eca-312da569bdfe"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15520,7 +15531,14 @@
 		"id": "3134ec19-c188-4f7a-bee3-97fceff84cf1",
 		"prefix": "",
 		"title": "Kan alle noodzakelijke informatie verkrijgen van een toeristenbureau, mits van een heldere, niet-specialistische aard.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"5ba249fe-7aaa-413d-862b-bb40c309ec9c",
+			"7a0b3661-a59f-422f-9bf5-f7a37c3ef7b2",
+			"56b2393a-e38d-4c79-ba3f-12de62925f96",
+			"f8ff73b4-89ee-4e66-82ca-bbb33926bec9",
+			"dbfdef97-70f4-4266-931a-6ed819d9b332"
+		]
 	},
 	{
 		"niveau_id": [
