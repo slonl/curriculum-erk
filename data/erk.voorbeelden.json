@@ -3938,48 +3938,68 @@
 		"description": ""
 	},
 	{
-		"title": "Verschillende soorten fruit op de markt vragen (PU).",
-		"id": "a09664e8-9760-48c1-b3a1-d8f0c1f30fd1"
+		"title": "Verschillende soorten fruit op de markt kopen.",
+		"id": "a09664e8-9760-48c1-b3a1-d8f0c1f30fd1",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een winkel uitleggen waar je naar op zoek bent (PU).",
-		"id": "abfe0174-1d0a-46ab-94aa-b8d59648bf30"
+		"title": "In een winkel uitleggen waar je naar op zoek bent, bijvoorbeeld een kledingstuk in een bepaalde maat.",
+		"id": "abfe0174-1d0a-46ab-94aa-b8d59648bf30",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Naar de prijs van goederen in een winkel informeren (PU).",
-		"id": "2ae5008e-3372-48a7-85a3-ffaba09eaa5c"
+		"title": "Naar de prijs van goederen in een winkel informeren.",
+		"id": "2ae5008e-3372-48a7-85a3-ffaba09eaa5c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De rekening vragen in het restaurant (PU).",
-		"id": "8dfa9cb1-081e-4fe9-a1e6-71083e93287e"
+		"title": "De rekening vragen in het restaurant.",
+		"id": "8dfa9cb1-081e-4fe9-a1e6-71083e93287e",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een product reserveren of bestellen bij een bedrijf (PU, WE).",
-		"id": "a742d225-7478-4a61-992e-a648880712ed"
+		"title": "Een product reserveren of bestellen bij een bedrijf.",
+		"id": "a742d225-7478-4a61-992e-a648880712ed",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een bestelling doen bij een take-away (PU).",
-		"id": "b1798cec-7649-40cf-bfc9-569c878ff490"
+		"title": "Een bestelling doen bij een take-away.",
+		"id": "b1798cec-7649-40cf-bfc9-569c878ff490",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Telefonisch een pizza bestellen (PU).",
 		"id": "49fc2228-3641-4d23-bfa6-67746e4cf560"
 	},
 	{
-		"title": "Eten in een restaurant bestellen (PU).",
-		"id": "65a71ea6-88ce-4782-99eb-7d8865200d38"
+		"title": "Eten in een restaurant bestellen.",
+		"id": "65a71ea6-88ce-4782-99eb-7d8865200d38",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Ontbijt in een café bestellen (PU).",
-		"id": "aee51767-41b7-40ff-ad47-3b0e764ad9ca"
+		"title": "Drinken in een café bestellen.",
+		"id": "aee51767-41b7-40ff-ad47-3b0e764ad9ca",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een restaurant aan de ober laten weten dat er iet mis is het het eten, bijvoorbeeld dat het koud is (PU).",
-		"id": "385f40f7-6dcd-4dcc-b310-14627089ca16"
+		"title": "In een restaurant aan de ober laten weten dat er iet mis is het het eten.",
+		"id": "385f40f7-6dcd-4dcc-b310-14627089ca16",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Bij de receptie van een hotel aangeven dat er geen licht is in je kamer (PU).",
-		"id": "33041f6d-fa98-4106-bed2-d6749374766d"
+		"title": "Bij de receptie van een hotel aangeven dat er geen licht in je kamer is.",
+		"id": "33041f6d-fa98-4106-bed2-d6749374766d",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Een pakket versturen op het postkantoor (PU).",
@@ -10957,6 +10977,18 @@
 		"id": "c6850151-3ad8-4344-8bcb-a9f01283ea3d",
 		"prefix": "",
 		"title": "Het aantal pillen dat moet worden ingenomen.",
+		"description": ""
+	},
+	{
+		"id": "09d945f3-a93a-4fb7-a831-43908c693ee1",
+		"prefix": "",
+		"title": "Zich melden bij de spoedeisende hulp in het buitenland.",
+		"description": ""
+	},
+	{
+		"id": "1e04147e-0031-4d1f-a279-47d0cd5b8029",
+		"prefix": "",
+		"title": "Bij de receptie van een arts, tandarts of ziekenhuis een afspraak maken en begrijpen wanneer je terecht kunt.",
 		"description": ""
 	}
 ]
