@@ -3380,64 +3380,94 @@
 		"id": "f8a5c857-d79c-46bc-98d6-31874b26091e"
 	},
 	{
-		"title": "Tijdens een uitwisseling je afwezigheid bij een activiteit verklaren (OPL).",
-		"id": "4038d0ea-30a1-48f1-b38b-f9c282f71df2"
+		"title": "Wat je vindt van het voorstel voor een schoolreis tijdens een klassenbijeenkomst.",
+		"id": "4038d0ea-30a1-48f1-b38b-f9c282f71df2",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Je mening over een bepaalde les vertellen (OPL).",
-		"id": "9e9ee87f-297c-4599-8b26-5ba396e61471"
+		"title": "Waarom je het voorstel voor de nieuwe indeling van de kantine niet goed vindt.",
+		"id": "9e9ee87f-297c-4599-8b26-5ba396e61471",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Met buitenlandse gasten het dagscheme van hun bezoek bespreken (OPL, WE).",
-		"id": "31ea9aca-9cba-41f5-8d5b-a0d9ee92575b"
+		"title": "Wat je mening is over de geplande roosterwijzigingen in de week voor de vakantie.",
+		"id": "31ea9aca-9cba-41f5-8d5b-a0d9ee92575b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Zeggen wat je van een bepaald punt vindt tijdens een werkoverleg/op stage (WE, OPL).",
-		"id": "f8d8d1fe-5c6c-4b8b-9a81-73d82d703a45"
+		"title": "Hoe je denkt over de aanschaf van nieuwe laptops voor in de klas.",
+		"id": "f8d8d1fe-5c6c-4b8b-9a81-73d82d703a45",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een videogesprek, een probleem met een leerling uit de uitwisselingsschool bespreken over het vervoer vanaf het vliegveld als hij/zij bij jou komt logeren (OPL).",
-		"id": "44cff8ee-f41e-4854-804c-1cfa703dbb16"
+		"title": "Tijdens een videogesprek met leerlingen van de uitwisselingsschool bespreken hoe zij naar je huis kunnen komen ondanks werkzaamheden aan het spoor.",
+		"id": "44cff8ee-f41e-4854-804c-1cfa703dbb16",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Halverwege een taalcursus in het buitenland de cursus met de docent evalueren (OPL).",
-		"id": "cff1650b-ea66-4168-932b-61aa79a803fe"
+		"title": "Halverwege een taalcursus in het buitenland de cursus met de docent evalueren.",
+		"id": "cff1650b-ea66-4168-932b-61aa79a803fe",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Op een eenvoudige manier een praktisch probleem op je stageplek in het buitenland beschrijven en een voorstel doen voro een oplossing (OPL, WE).",
-		"id": "e96cac20-ecd4-47a8-8838-5e8c6f620f13"
+		"title": "Op een eenvoudige manier een praktisch probleem op je stageplek in het buitenland beschrijven en een voorstel doen voor een oplossing.",
+		"id": "e96cac20-ecd4-47a8-8838-5e8c6f620f13",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Tijdens een uitwisseling met buitenlandse studenten voorstellen doen voor de organisatie van een feestelijke slotavond (OPL).",
-		"id": "dffd5508-ee3f-4108-85a4-3f42766fb2f1"
+		"title": "Tijdens een uitwisseling met buitenlandse studenten voorstellen doen voor de organisatie van een feestelijke slotavond.",
+		"id": "dffd5508-ee3f-4108-85a4-3f42766fb2f1",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een bijeenkomst met buitenlandse bezoekers een praktische oplossing aandragen voor gerezen problemen (OPL, WE).",
-		"id": "336a44aa-b9e9-4687-927f-21e4b90fe7bf"
+		"title": "In een bijeenkomst met buitenlandse bezoekers een praktische oplossing aandragen voor gerezen problemen.",
+		"id": "336a44aa-b9e9-4687-927f-21e4b90fe7bf",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Tijdens een werk- of studiebezoek de aanpassingen in het programma bespreken (OPL, WE).",
-		"id": "5407e1f1-1b89-4ac3-88a0-2b763ecfb58a"
+		"title": "Tijdens een werk- of studiebezoek de aanpassingen in het programma bespreken.",
+		"id": "5407e1f1-1b89-4ac3-88a0-2b763ecfb58a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Tijdens een stage uitleggen waarom iets op een bepaalde manier gedaan is (OPL, WE).",
-		"id": "56420bab-2a5d-45b4-8a38-bc7a9f159d01"
+		"title": "Tijdens een stage uitleggen waarom iets op een bepaalde manier gedaan is.",
+		"id": "56420bab-2a5d-45b4-8a38-bc7a9f159d01",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aangeven waarom een feest op een bepaalde locatie moet worden gehouden (DL, OPL).",
-		"id": "a3ca71a0-80ad-4f31-a308-0f80377d662a"
+		"title": "Aangeven waarom een feest op een bepaalde locatie moet worden gehouden.",
+		"id": "a3ca71a0-80ad-4f31-a308-0f80377d662a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Commentaar geven op de voortgang in een project (OPL, WE).",
-		"id": "82c209eb-bccb-4c1f-bbda-eda97c13cb08"
+		"title": "Commentaar geven op de voortgang in een project.",
+		"id": "82c209eb-bccb-4c1f-bbda-eda97c13cb08",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Zijn/haar mening over het programma uiten, als deelnemer aan een uitwisseling (OPL).",
-		"id": "261e37b2-a92f-4a6e-9782-a6d771960681"
+		"title": "De eigen mening over het programma uiten, als deelnemer aan een uitwisseling.",
+		"id": "261e37b2-a92f-4a6e-9782-a6d771960681",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een mening formuleren over een actuele gebeurtenis, tijdens een discussie in de vreemde taal op school (OPL).",
-		"id": "e652f525-b5cf-4f7e-809f-a99b7ad99f58"
+		"title": "Een mening formuleren over een actuele gebeurtenis, tijdens een discussie in de vreemde taal op school.",
+		"id": "e652f525-b5cf-4f7e-809f-a99b7ad99f58",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Over het wel of niet plaatsen van een opiniestuk in de schoolkrant (OPL).",
