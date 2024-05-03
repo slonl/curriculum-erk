@@ -15102,7 +15102,14 @@
 		"id": "7f8718f9-763b-4d22-9181-4d5356bb82da",
 		"prefix": "",
 		"title": "Kan bespreken wat men 's avonds of in het weekend gaat doen.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"440230fe-6500-4b7d-801d-a94388214efa",
+			"8ca8c7ff-202a-4115-88dd-790ed08bb1f3",
+			"3a32e8e0-8842-4c57-8214-c8963270c2d8",
+			"bc247810-7be0-4cf5-bbcb-d47889b35549",
+			"7eedce8e-f935-4e3b-a459-ce070297b2bd"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15111,7 +15118,13 @@
 		"id": "69a5523d-78ed-4c5b-8bef-64a3d7544693",
 		"prefix": "",
 		"title": "Kan over het algemeen de hoofdpunten volgen van een informele discussie met vrienden, mits er duidelijk wordt gearticuleerd in standaardtaal of een vertrouwde variëteit.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"936299f3-f844-4532-9de7-1e2fbe6a7842",
+			"fe205312-0f0e-4057-bfb3-5eba8dc86fab",
+			"9906995d-4dbd-4d50-b7b9-3eb6cda3b300",
+			"0d1a7bb0-db6f-455d-ac68-20bb0a0250e3"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15120,7 +15133,12 @@
 		"id": "02cd47b1-0a8b-46a7-9439-7adc8b72b83e",
 		"prefix": "",
 		"title": "Kan veel volgen van wat wordt gezegd over algemene onderwerpen, mits de gesprekspartners zeer idiomatisch taalgebruik vermijden en helder articuleren.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"dc325936-df69-473a-97a7-678771e35205",
+			"7e0f353d-43e4-4719-a90d-15b0e4d1e65b",
+			"9ca39d25-d70c-4915-bec6-454f9bf26817"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15129,7 +15147,12 @@
 		"id": "7ae1a45f-efc3-4296-8ae5-144cec73892c",
 		"prefix": "",
 		"title": "Kan met enige inspanning veel opvangen van wat rondom wordt gezegd in een discussie, maar vindt het soms moeilijk om effectief deel te nemen aan een discussie met verscheidene doeltaalgebruikers die hun taal op geen enkele manier aanpassen.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"f7bf89a3-965f-4f7f-a157-b52c42201e72",
+			"5c7ed870-d2af-49eb-b53e-afe198a46446",
+			"3629de3c-d19a-4612-b316-38772d94d073"
+		]
 	},
 	{
 		"niveau_id": [
