@@ -11280,7 +11280,11 @@
 		"title": "Kan de gepaste technische terminologie gebruiken bij het bespreken van het eigen specialisatiegebied met andere specialisten.",
 		"id": "58db4a54-e1ae-45df-9732-62e0d3082456",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"c823bda1-cf38-4612-888c-b6978c80e2c3",
+			"3af965c9-3a5b-4a97-be20-fd014ffbaa31"
+		]
 	},
 	{
 		"niveau_id": [
@@ -11288,8 +11292,7 @@
 		],
 		"erk_voorbeeld_id": [
 			"4d193e75-002f-4645-83c3-e8913834dac8",
-			"58363275-a0e7-446d-99fb-09f432108180",
-			"93f6393d-967d-4776-b752-7e70c6ffe0e5"
+			"58363275-a0e7-446d-99fb-09f432108180"
 		],
 		"title": "Kan de eigen ideeën en meningen precies onder woorden brengen en op overtuigende wijze complexe redeneringen presenteren en beantwoorden.",
 		"id": "21658526-f05c-4608-9b1c-b763b6d73eb0",
