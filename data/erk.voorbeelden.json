@@ -3784,36 +3784,52 @@
 		"description": ""
 	},
 	{
-		"title": "Vragen om een product in een bepaalde kleur of vorm, bijvoorbeeld een souvenir of een kledingstuk (DL).",
-		"id": "f6b067c6-0cc6-4e57-8e15-62163c26615f"
+		"title": "Vragen om een product in een bepaalde kleur of vorm, zoals een souvenir of een kledingstuk.",
+		"id": "f6b067c6-0cc6-4e57-8e15-62163c26615f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vragen om een kaartje voor het openbaar vervoer en hiervoor betalen (DL).",
-		"id": "ace43e1f-bf36-401f-85ab-3fa21852f5b1"
+		"title": "Vragen om een kaartje voor het openbaar vervoer en hiervoor betalen.",
+		"id": "ace43e1f-bf36-401f-85ab-3fa21852f5b1",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Vragen naar een gerecht van een eenvoudige menukaart (DL).",
-		"id": "e8d787e7-4a9e-4c73-be3f-ef0b5f3120d7"
+		"title": "Een bestelling opnemen op een terras of in een café en laten merken dat je het hebt begrepen.",
+		"id": "e8d787e7-4a9e-4c73-be3f-ef0b5f3120d7",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een bestelling opnemen op een terras of in een café en laten merken dat je het hebt begrepen (WE).",
-		"id": "487acff8-3232-4136-9d65-9c004d40ac10"
+		"title": "Het lenen en uitlenen van spullen, bijvoorbeeld een pen of een boek.",
+		"id": "487acff8-3232-4136-9d65-9c004d40ac10",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Iemand bedanken voor een aanwijzing (PU).",
-		"id": "da903e7d-f095-4095-94b3-dc425966b3fb"
+		"title": "Het uitwisselen van kaarten, dobbelstenen, ballen, tijdens het spelen van een (bord-)spel.",
+		"id": "da903e7d-f095-4095-94b3-dc425966b3fb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Op straat de vraag van een buitenlandse toerist naar de tijd beantwoorden (DL).",
-		"id": "2141edd8-8ffc-4046-80ac-ca9e14e86274"
+		"title": "Vragen naar de prijs van een brood, een toegangskaartje of een hotelovernachting en het antwoord begrijpen.",
+		"id": "2141edd8-8ffc-4046-80ac-ca9e14e86274",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "De prijs van een product in een winkel vragen en om een bepaald aantal ervan vragen (PU).",
-		"id": "bbf56f7c-ecda-4c7e-a949-a9b62c02a5de"
+		"title": "Vragen wanneer een les, een voorstelling of een afspraak met de huisarts begint en het antwoord begrijpen.",
+		"id": "bbf56f7c-ecda-4c7e-a949-a9b62c02a5de",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aan een buitenlandse klant vertellen wat iets kost (WE).",
-		"id": "f7909113-678d-447e-9521-88c7ad2ad1ef"
+		"title": "Hoeveel passagiers er in het achtbaankarretje mogen.",
+		"id": "f7909113-678d-447e-9521-88c7ad2ad1ef",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Iets te leen vragen (DL).",
@@ -10865,6 +10881,48 @@
 		"id": "eda8fc51-9976-4d92-94ae-21e92c56c26d",
 		"prefix": "",
 		"title": "Bijdragen aan een discussie waarbij er tegenovergestelde standpunten zijn rondom milieumaatregelen.",
+		"description": ""
+	},
+	{
+		"id": "d256c6ed-2164-4990-ad70-880b9ed837d4",
+		"prefix": "",
+		"title": "Met een menukaart met plaatjes een bestelling doen in een restaurant.",
+		"description": ""
+	},
+	{
+		"id": "84e7a11d-6eb3-467e-ada2-b175097ef10f",
+		"prefix": "",
+		"title": "Iets te drinken bestellen op een terras.",
+		"description": ""
+	},
+	{
+		"id": "8ae25c3f-6287-4781-9de9-0230cd9d0157",
+		"prefix": "",
+		"title": "Een brood kopen bij de bakker.",
+		"description": ""
+	},
+	{
+		"id": "0fdde2e0-4233-4d16-8fd0-d49141c07dc1",
+		"prefix": "",
+		"title": "Boodschappen afrekenen in de supermarkt.",
+		"description": ""
+	},
+	{
+		"id": "548df91a-5ef1-4574-b016-521640e8fa42",
+		"prefix": "",
+		"title": "Een bestelling doen in een café of restaurant.",
+		"description": ""
+	},
+	{
+		"id": "91d76d9c-f238-45a7-83d9-44ba2b302a08",
+		"prefix": "",
+		"title": "Hoeveel ingrediënten je nodig hebt voor een gerecht.",
+		"description": ""
+	},
+	{
+		"id": "c6850151-3ad8-4344-8bcb-a9f01283ea3d",
+		"prefix": "",
+		"title": "Het aantal pillen dat moet worden ingenomen.",
 		"description": ""
 	}
 ]
