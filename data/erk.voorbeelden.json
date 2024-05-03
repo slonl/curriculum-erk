@@ -3564,24 +3564,34 @@
 		"description": ""
 	},
 	{
-		"title": "In een scholierendebat je standpunt over het verplicht stellen van orgaandonatie toelichten en verdedigen (OPL).",
-		"id": "2277e7f6-2692-42e8-9c19-b4b0c89bb9bc"
+		"title": "In een scholierendebat je standpunt over het verplicht stellen van orgaandonatie toelichten en verdedigen.",
+		"id": "2277e7f6-2692-42e8-9c19-b4b0c89bb9bc",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Met voor- of tegenargumenten reageren tijdens een discussie over het afschaffen van het koningshuis (XX).",
-		"id": "4517aeae-3403-4888-9b96-512bb107887b"
+		"title": "Met voor- of tegenargumenten reageren tijdens een discussie over het afschaffen van het koningshuis.",
+		"id": "4517aeae-3403-4888-9b96-512bb107887b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Tijdens een debat je argumenten toelichten voor het verlenen van een gratis OV-kaart aan scholieren (XX).",
-		"id": "111d7ad8-cb74-4ec6-a20f-5faf667a595a"
+		"title": "Tijdens een debat je argumenten toelichten voor het verlenen van een gratis ov-chipkaart aan scholieren.",
+		"id": "111d7ad8-cb74-4ec6-a20f-5faf667a595a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Als vertegenwoordiger van een (jongeren)organisatie de afwijzing van een sollicitant beargumenteren (OPL, WE).",
-		"id": "5798e2de-3747-4e1f-966b-b20aff7d0baa"
+		"title": "Als vertegenwoordiger van een (jongeren)organisatie de afwijzing van een sollicitant beargumenteren.",
+		"id": "5798e2de-3747-4e1f-966b-b20aff7d0baa",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Bij een internationale opleiding de invoering van het nieuwe studiepuntensysteem toelichten en op kritische opmerkingen ingaan (WE).",
-		"id": "1e6fcd8e-87ca-4867-97c9-7762bfe9dcda"
+		"title": "Bij een internationale opleiding de invoering van het nieuwe studiepuntensysteem toelichten en op kritische opmerkingen ingaan.",
+		"id": "1e6fcd8e-87ca-4867-97c9-7762bfe9dcda",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "Tijdens een seminar rondom een specifiek vakgebied ingaan op argumenten van een medestudent en verwijzen naar tegenovergestelde standpunten uit de vakliteratuur (OPL).",
@@ -10693,6 +10703,54 @@
 		"id": "3af965c9-3a5b-4a97-be20-fd014ffbaa31",
 		"prefix": "",
 		"title": "Als hobbyzeiler een discussie over zeilen met zeilmakers voeren.",
+		"description": ""
+	},
+	{
+		"id": "260f48a3-d677-4379-a199-7f0aa4469b21",
+		"prefix": "",
+		"title": "Tijdens een inhoudelijke discussie van een commissie waar je lid van bent.",
+		"description": ""
+	},
+	{
+		"id": "c7000f48-7ca7-4cd7-a7b8-5ccc1fc85b14",
+		"prefix": "",
+		"title": "Tijdens een projectgroep vergadering.",
+		"description": ""
+	},
+	{
+		"id": "c6007dbb-0720-4eac-8f0e-6570b655b007",
+		"prefix": "",
+		"title": "Tijdens een les/werkcollege tactisch reageren op een standpunt van een docent waar je het niet mee eens bent.",
+		"description": ""
+	},
+	{
+		"id": "5e3e8c58-71d0-4367-91e1-91b7f5bcc4aa",
+		"prefix": "",
+		"title": "Op een constructieve manier aangeven waarom je het niet eens bent met de nieuwe communicatierichtlijnen van de werkgever.",
+		"description": ""
+	},
+	{
+		"id": "c928e279-c58a-4fb1-b93c-b0d40b99e8e0",
+		"prefix": "",
+		"title": "Als verslaggever bij een persconferentie verhelderende vragen stellen en doorvragen.",
+		"description": ""
+	},
+	{
+		"id": "e9029240-de58-4ccf-a04c-87ffcc30c356",
+		"prefix": "",
+		"title": "Vragen stellen en doorvragen bij een vergadering van de gemeenteraad.",
+		"description": ""
+	},
+	{
+		"id": "e0c52259-3e09-4490-9bf9-3124045e99b6",
+		"prefix": "",
+		"title": "In een overleg vragen concretiseren met voorbeelden, uitleg bij een vraag geven, detailvragen stellen om te komen tot de kern van een probleem.",
+		"description": ""
+	},
+	{
+		"id": "8f890b55-3ed1-4e7c-b293-97b057fbad67",
+		"prefix": "",
+		"title": "Verhelderende vragen stellen tijdens een vergadering van de medezeggenschapsraad op school.",
 		"description": ""
 	}
 ]
