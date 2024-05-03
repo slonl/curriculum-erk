@@ -10933,9 +10933,7 @@
 		"erk_voorbeeld_id": [
 			"420c11d1-8bb0-4558-bd7c-f0b7d1e6daa3",
 			"220e4b5d-cf53-4019-b8d8-16584a8134e4",
-			"194c81b0-b1a6-440c-90de-b4f4706b9d40",
-			"fd7ec8ca-0784-4289-af13-d1d40de8c15b",
-			"79b7af33-3d94-4f76-b879-1f99b2a4b0b6"
+			"194c81b0-b1a6-440c-90de-b4f4706b9d40"
 		],
 		"title": "Kan voorkeuren en afkeuren met betrekking tot sport, eten enzovoort uitwisselen met behulp van een beperkt repertoire aan uitdrukkingen.",
 		"id": "27f1c720-1c7f-478e-a4e9-883cfcd29ecc",
@@ -10949,9 +10947,7 @@
 		"erk_voorbeeld_id": [
 			"65939d7e-438b-47af-b607-8a2a95be1bcf",
 			"9b1d0828-ac56-42b1-bbf6-f8e4e74b7aa6",
-			"14f89448-1adb-4c63-91b0-966389c394c4",
 			"c8bc22c3-ee75-45f0-ab99-28a6bdfa2508",
-			"87dbd16d-4ccc-4043-b39b-fdb76bcfa641",
 			"0b9685f3-bf3a-42ed-97c2-9e355f6bb477"
 		],
 		"title": "Kan op eenvoudige wijze alledaagse praktische zaken bespreken, wanneer die helder, langzaam en rechtstreeks worden overgebracht.",
@@ -10978,13 +10974,14 @@
 		],
 		"erk_voorbeeld_id": [
 			"0ea65db4-f2f3-4361-8d41-5433a490c100",
-			"7667bd88-8bc8-4fcd-b6fd-61de8e1fd3d4",
 			"91e26d42-b538-48cc-9294-48e7d81f56c7",
 			"253a8b32-aef8-4ba2-8ad3-7d75a92c2883",
 			"ed6ee480-41a8-4f23-a0bd-a91393ac6579"
 		],
 		"title": "Kan meningen op beperkte wijze uitdrukken.",
-		"id": "6959084a-ec20-47fb-9d66-d29f90b0bd2c"
+		"id": "6959084a-ec20-47fb-9d66-d29f90b0bd2c",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
