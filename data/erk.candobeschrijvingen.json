@@ -11394,7 +11394,13 @@
 		"title": "Kan adviseren over het omgaan met complexe, gevoelige of controversiële kwesties, mits de noodzakelijke specialistische kennis voorhanden is.",
 		"id": "ab786297-5985-4ceb-bb5e-640113ba6be3",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"c784b0b4-00d2-48d3-8dbf-0aa1cdbcc014",
+			"cd543bd3-0f76-42c0-a044-4f43d8056f6f",
+			"11b2fd24-8a75-4d8e-8bde-ddcf7e6d66fe",
+			"c9194bd5-0c93-48ad-a01f-7b8846b35986"
+		]
 	},
 	{
 		"niveau_id": [
@@ -11403,7 +11409,13 @@
 		"title": "Kan met zelfvertrouwen omgaan met vijandige vragen, aan het woord blijven en tegenargumenten diplomatisch weerleggen.",
 		"id": "d4de0a88-20c0-457b-b098-37cbc0453950",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"59bcdf22-2c85-4532-945d-55ba5ccac0a6",
+			"92a0c455-ae7e-49a4-b3a3-09086c3e2eac",
+			"37471cf3-c89e-453b-929c-56a158377b36",
+			"fe9b1e68-e1f0-4d2e-ae2f-9c9150af0817"
+		]
 	},
 	{
 		"niveau_id": [
