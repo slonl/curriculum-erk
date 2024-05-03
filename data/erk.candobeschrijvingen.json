@@ -15107,7 +15107,12 @@
 		"id": "dcca366b-9a07-4397-a0f8-f0cccaf739be",
 		"prefix": "",
 		"title": "Kan over het algemeen veranderingen van onderwerp volgen in formele discussies die betrekking hebben op het eigen vakgebied, wanneer deze langzaam en helder gevoerd worden.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"7872f6ba-8f65-466a-b84b-ed2c307e885e",
+			"09ff89f6-2deb-403e-b6a9-6473a739719e",
+			"19671fc7-2bbc-4762-9d4b-096ba700455a"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15116,7 +15121,10 @@
 		"id": "b99e512e-718c-4da8-9bc6-65abc4f4d661",
 		"prefix": "",
 		"title": "Kan een redenering of discussie over een vertrouwd of voorspelbaar onderwerp volgen, mits de punten in relatief eenvoudige taal uiteen worden gezet en/of worden herhaald en er een mogelijkheid is voor verduidelijking.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"aa603464-e078-4d4e-b581-cbd09d1b4b50"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15125,7 +15133,12 @@
 		"id": "155641c0-8fec-40e6-9c05-62e810943806",
 		"prefix": "",
 		"title": "Kan veel volgen van wat wordt gezegd met betrekking tot het eigen vakgebied, mits de gesprekspartners zeer idiomatisch taalgebruik vermijden en helder articuleren.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"0057d100-fc5a-462e-bcd1-7ff05a2ffc73",
+			"3474d899-3eb6-46f5-8667-f08f86c3b7b9",
+			"dee87e59-0434-43e2-87d6-06b87b384667"
+		]
 	},
 	{
 		"id": "360a48f5-9798-49b8-95cd-13c73b887f62",
@@ -15134,6 +15147,9 @@
 		"description": "",
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
+		],
+		"erk_voorbeeld_id": [
+			"bdd7c401-f846-491a-a78d-a6a87bec9c8f"
 		]
 	},
 	{
@@ -15143,7 +15159,10 @@
 		"id": "865d2c66-34d7-459e-88ec-20bce8472fd6",
 		"prefix": "",
 		"title": "Kan een geanimeerde discussie bijhouden en nauwkeurig argumenten voor en tegen bepaalde standpunten herkennen.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"eda8fc51-9976-4d92-94ae-21e92c56c26d"
+		]
 	},
 	{
 		"niveau_id": [
