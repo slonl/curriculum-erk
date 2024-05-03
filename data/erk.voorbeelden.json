@@ -11342,5 +11342,95 @@
 		"prefix": "",
 		"title": "Je eigen keuze en standpunt duidelijk maken over het alcoholgebruik binnen je vriendenkring.",
 		"description": ""
+	},
+	{
+		"id": "440230fe-6500-4b7d-801d-a94388214efa",
+		"prefix": "",
+		"title": "Sporten of naar muziekles.",
+		"description": ""
+	},
+	{
+		"id": "8ca8c7ff-202a-4115-88dd-790ed08bb1f3",
+		"prefix": "",
+		"title": "Huiswerk maken, studeren.",
+		"description": ""
+	},
+	{
+		"id": "3a32e8e0-8842-4c57-8214-c8963270c2d8",
+		"prefix": "",
+		"title": "Vrienden of familie bezoeken.",
+		"description": ""
+	},
+	{
+		"id": "bc247810-7be0-4cf5-bbcb-d47889b35549",
+		"prefix": "",
+		"title": "Uitgaan, naar een verjaardagsfeestje gaan.",
+		"description": ""
+	},
+	{
+		"id": "7eedce8e-f935-4e3b-a459-ce070297b2bd",
+		"prefix": "",
+		"title": "Naar je werk/bijbaantje gaan.",
+		"description": ""
+	},
+	{
+		"id": "936299f3-f844-4532-9de7-1e2fbe6a7842",
+		"prefix": "",
+		"title": "Een gesprek over sport, kleding, vrijetijdsbesteding.",
+		"description": ""
+	},
+	{
+		"id": "fe205312-0f0e-4057-bfb3-5eba8dc86fab",
+		"prefix": "",
+		"title": "Een gesprek over vrienden, school, zakgeld, een bijbaantje. ",
+		"description": ""
+	},
+	{
+		"id": "9906995d-4dbd-4d50-b7b9-3eb6cda3b300",
+		"prefix": "",
+		"title": "Een gesprek over uitgaan, films, muziek, media.",
+		"description": ""
+	},
+	{
+		"id": "0d1a7bb0-db6f-455d-ac68-20bb0a0250e3",
+		"prefix": "",
+		"title": "Een gesprek over opleiding en beroep.",
+		"description": ""
+	},
+	{
+		"id": "dc325936-df69-473a-97a7-678771e35205",
+		"prefix": "",
+		"title": "Een gesprek over reisplannen voor de volgende vakantie.",
+		"description": ""
+	},
+	{
+		"id": "7e0f353d-43e4-4719-a90d-15b0e4d1e65b",
+		"prefix": "",
+		"title": "Een conversatie over de activiteiten van afgelopen weekend.",
+		"description": ""
+	},
+	{
+		"id": "9ca39d25-d70c-4915-bec6-454f9bf26817",
+		"prefix": "",
+		"title": "Een dialoog over hoe het gaat op het werk.",
+		"description": ""
+	},
+	{
+		"id": "f7bf89a3-965f-4f7f-a157-b52c42201e72",
+		"prefix": "",
+		"title": "Een discussie over de komst van een windmolenpark in de omgeving.",
+		"description": ""
+	},
+	{
+		"id": "5c7ed870-d2af-49eb-b53e-afe198a46446",
+		"prefix": "",
+		"title": "Een gesprek over de aankomende presidentiële verkiezingen in een Europees land.",
+		"description": ""
+	},
+	{
+		"id": "3629de3c-d19a-4612-b316-38772d94d073",
+		"prefix": "",
+		"title": "Een discussie over het gebruik van sociale media in het onderwijs.",
+		"description": ""
 	}
 ]
