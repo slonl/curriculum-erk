@@ -11453,11 +11453,12 @@
 			"292c5bfd-acc4-4b44-a4f0-438b1f47eb40",
 			"99853707-dc08-4429-9268-c9271321b087",
 			"d36ed8c9-9f25-4b81-b4a0-6c5257690278",
-			"bcc922f4-969e-4dc7-95fb-9cd9357f1c84",
-			"fd4577a3-71ee-401f-a870-dfc83714cbcc"
+			"bcc922f4-969e-4dc7-95fb-9cd9357f1c84"
 		],
 		"title": "Kan mensen om dingen vragen, begrijpen wanneer om iets gevraagd wordt, dingen aan mensen geven.",
-		"id": "f134bca5-bb36-46ef-988c-c6060d5a49ef"
+		"id": "f134bca5-bb36-46ef-988c-c6060d5a49ef",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -11657,11 +11658,12 @@
 		"erk_voorbeeld_id": [
 			"09c6e4b2-1218-49f0-a8a7-78961982366a",
 			"89fee0b8-87d4-4891-b735-0df2849d11a1",
-			"3fd1d8cc-e126-4e1d-8dd7-1c778ca8722c",
-			"7fbcb964-c026-4028-8f2e-a76bd30dccaa"
+			"3fd1d8cc-e126-4e1d-8dd7-1c778ca8722c"
 		],
 		"title": "Kan alledaagse goederen en diensten aanvragen en verschaffen.",
-		"id": "a359a18d-64e6-4678-908c-08fd9d95244b"
+		"id": "a359a18d-64e6-4678-908c-08fd9d95244b",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -13256,7 +13258,7 @@
 			"8529da6c-67b9-479b-8ac8-26f2d4709a03",
 			"2e58a4e6-12eb-4a6c-b9d8-7db64a234b7f"
 		],
-		"title": "Kan brieven schrijven waaruit gradaties van emotie spreken, waarin het persoonlijke belang van gebeurtenissen en ervaringen wordt benadrukt en die commentaar geven op het nieuws en de visies van de geadresseerde.",
+		"title": "Kan brieven opstellen waaruit gradaties van emotie spreken, waarin het persoonlijke belang van gebeurtenissen en ervaringen wordt benadrukt en die commentaar geven op het nieuws en de visies van de geadresseerde.",
 		"id": "351fbc64-cfb7-4170-abb1-bce11dccc59f",
 		"childNodes": [
 			{
