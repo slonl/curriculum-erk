@@ -15161,7 +15161,12 @@
 		"id": "4c7ba4c6-86f6-4aa9-85f7-5e8dfd11e9da",
 		"prefix": "",
 		"title": "Kan de eigen ideeën en meningen precies onder woorden brengen en op overtuigende wijze complexe redeneringen presenteren en beantwoorden.\n",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"28b7d690-fbb1-471e-9ed6-2ea130670de3",
+			"ac121197-b6fe-402f-9d3e-8e96fd2c16c7",
+			"07566d52-cb12-42f0-b078-89daf1dd84d2"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15170,7 +15175,12 @@
 		"id": "de55a1b8-7f8f-46dd-be9a-391a8f1b3d00",
 		"prefix": "",
 		"title": "Kan een levendige discussie tussen vaardige doeltaalgebruikers bijhouden.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"eb79aafd-362a-4534-be14-9fb6618b2d32",
+			"2c49b512-669a-4a13-90a8-5129f7bd31c1",
+			"e3168399-995a-4f14-b0e1-e015c7430be2"
+		]
 	},
 	{
 		"niveau_id": [
@@ -15541,7 +15551,12 @@
 		"id": "c0ba47c6-31c0-47eb-b00d-9cf527478b8d",
 		"prefix": "",
 		"title": "Kan over het algemeen het onderwerp herkennen van de discussie die plaatsvindt, mits deze langzaam en duidelijk wordt gevoerd.",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"c82c9393-ed46-4807-ae12-d88355513d2e",
+			"a7ea59fe-8729-4313-a0a9-ae1db86707d2",
+			"9217a806-76d9-4f6f-b4e5-67d374509e86"
+		]
 	},
 	{
 		"niveau_id": [
