@@ -3470,68 +3470,98 @@
 		"description": ""
 	},
 	{
-		"title": "Over het wel of niet plaatsen van een opiniestuk in de schoolkrant (OPL).",
-		"id": "5562e656-8788-455e-b1a6-c870e3dadb5f"
+		"title": "Over het wel of niet plaatsen van een opiniestuk in de schoolkrant.",
+		"id": "5562e656-8788-455e-b1a6-c870e3dadb5f",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over de voorwaarden voor het meedoen aan een wedstrijd of een project (PU, OPL, WE).",
-		"id": "74184215-0c83-44cc-915e-18b1a2eea82c"
+		"title": "Over de voorwaarden voor het meedoen aan een wedstrijd of een project.",
+		"id": "74184215-0c83-44cc-915e-18b1a2eea82c",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Over de beperkte bijdrage van groepsleden aan een project (OPL, WE).",
-		"id": "b0efa145-1275-4ae0-9f0a-74ea981563c6"
+		"title": "Over de beperkte bijdrage van groepsleden aan een project.",
+		"id": "b0efa145-1275-4ae0-9f0a-74ea981563c6",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een debat je eigen mening toelichten over een maatschappelijk onderwerp zoals de drugsbestrijding of de vluchtelingenproblematiek (OPL).",
-		"id": "11f79f29-4988-4e05-b424-08364de82915"
+		"title": "In een debat je eigen mening toelichten over een maatschappelijk onderwerp zoals drugsbestrijding of de vluchtelingenproblematiek.",
+		"id": "11f79f29-4988-4e05-b424-08364de82915",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Een doemscenario schetsen bij een voorstel (OPL, WE).",
-		"id": "4c8b5585-9416-4fda-88e7-33fb36665f3a"
+		"title": "Een doemscenario schetsen bij een voorstel.",
+		"id": "4c8b5585-9416-4fda-88e7-33fb36665f3a",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Standpunten verzamelen en vergelijken bij de keuze van een nieuwe leverancier (WE).",
-		"id": "fdaeeebf-ad18-47d3-b3f6-35355b49e74b"
+		"title": "Standpunten verzamelen en vergelijken bij de keuze van een nieuwe leverancier.",
+		"id": "fdaeeebf-ad18-47d3-b3f6-35355b49e74b",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Tijdens een werkbespreking een alternatieve oplossing voor een probleem aandragen (WE).",
-		"id": "a02fd0ae-3938-4df9-ac5a-404191273170"
+		"title": "Tijdens een werkbespreking een alternatieve oplossing voor een probleem aandragen.",
+		"id": "a02fd0ae-3938-4df9-ac5a-404191273170",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Als medewerker van een touroperator met een buitenlandse correspondent de mogelijkheden bespreken van het aanbieden van trektochten in dat land (WE).",
-		"id": "6338b000-87c8-4333-8168-5533841254fb"
+		"title": "Als medewerker van een touroperator met een buitenlandse correspondent de mogelijkheden bespreken van het aanbieden van trektochten in dat land.",
+		"id": "6338b000-87c8-4333-8168-5533841254fb",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "In een discussie met vrienden je eigen mening toelichten over wat je onder gezond leven verstaat (DL).",
-		"id": "4d193e75-002f-4645-83c3-e8913834dac8"
+		"title": "In een discussie met vrienden je eigen mening toelichten over wat je onder gezond leven verstaat.",
+		"id": "4d193e75-002f-4645-83c3-e8913834dac8",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Tijdens een presentatie reageren op vragen, onderbrekingen of verzoeken om toelichting (OPL, WE).",
-		"id": "58363275-a0e7-446d-99fb-09f432108180"
+		"title": "Tijdens een presentatie reageren op vragen, onderbrekingen of verzoeken om toelichting.",
+		"id": "58363275-a0e7-446d-99fb-09f432108180",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "In een sollicitatiegesprek uitleggen waarom jij de meest geschikte kandidaat bent voor een baan of stage (WE, OPL).",
 		"id": "93f6393d-967d-4776-b752-7e70c6ffe0e5"
 	},
 	{
-		"title": "Aan een scholierendebat deelnemen over het verplicht huisvesten van immigranten in verschillende wijken (OPL).",
-		"id": "e73e7645-38bc-4010-a322-ff04cb5c1871"
+		"title": "Aan een scholierendebat deelnemen over het verplicht huisvesten van immigranten in verschillende wijken.",
+		"id": "e73e7645-38bc-4010-a322-ff04cb5c1871",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aan een discussie bijdragen over het wel of niet invoeren van een extra-belasting op ongezonde levensmiddelen (PU, OPL).",
-		"id": "3dec406b-d0f0-4b72-9954-ee7571975fbf"
+		"title": "Aan een discussie bijdragen over het wel of niet invoeren van een extra belasting op ongezonde levensmiddelen.",
+		"id": "3dec406b-d0f0-4b72-9954-ee7571975fbf",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aan een rondetafelgesprek deelnemen over culturele stereotypen (PU, OPL).",
-		"id": "e5576b38-77a8-47bc-a164-13b45eced127"
+		"title": "Aan een rondetafelgesprek deelnemen over culturele stereotypen.",
+		"id": "e5576b38-77a8-47bc-a164-13b45eced127",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aan een discussie deelnemen over subsidiëring van een project met potentiële subsidiegevers (OPL, WE).",
-		"id": "65b066a1-d8ec-40ea-a03d-b5bb02ae5d50"
+		"title": "Aan een discussie deelnemen over subsidiëring van een project met potentiële subsidiegevers.",
+		"id": "65b066a1-d8ec-40ea-a03d-b5bb02ae5d50",
+		"prefix": "",
+		"description": ""
 	},
 	{
-		"title": "Aan een debat deelnemen over het ontwikkelen van een gezamenlijke dienst of product met buitenlandse partners (WE).",
-		"id": "5cc0bfc5-c5ca-48f7-af3f-6c85c8e57296"
+		"title": "Aan een debat met buitenlandse partners deelnemen, waarin gesproken wordt over het ontwikkelen van een gezamenlijke dienst of product.",
+		"id": "5cc0bfc5-c5ca-48f7-af3f-6c85c8e57296",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"title": "In een scholierendebat je standpunt over het verplicht stellen van orgaandonatie toelichten en verdedigen (OPL).",
@@ -10651,6 +10681,18 @@
 		"id": "c14f8c08-d6e8-40e6-8715-0e4db2a010f2",
 		"prefix": "",
 		"title": "Aanwijzingen herhalen of samenvatten zodat iedereen in de samenwerking weet wat de bedoeling is.",
+		"description": ""
+	},
+	{
+		"id": "c823bda1-cf38-4612-888c-b6978c80e2c3",
+		"prefix": "",
+		"title": "Een inhoudelijke discussie voeren over de uitkomsten van een onderzoeksrapport.",
+		"description": ""
+	},
+	{
+		"id": "3af965c9-3a5b-4a97-be20-fd014ffbaa31",
+		"prefix": "",
+		"title": "Als hobbyzeiler een discussie over zeilen met zeilmakers voeren.",
 		"description": ""
 	}
 ]
