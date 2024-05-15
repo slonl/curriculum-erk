@@ -1136,13 +1136,13 @@
 		"description": ""
 	},
 	{
-		"title": "In een discussieprogramma over een gevoelig/controversieel onderwerp de stemming en toon van de spreker herkennen.",
+		"title": "In een discussieprogramma over een gevoelig of controversieel onderwerp de stemming en toon van de spreker herkennen.",
 		"id": "a7275545-a6c3-48a5-b0bb-cd58eb838808",
 		"prefix": "",
 		"description": ""
 	},
 	{
-		"title": "Een kritische/ironische toon herkennen in een documentaire over een hamburgerketen.",
+		"title": "Een kritische of ironische toon herkennen in een documentaire over een hamburgerketen.",
 		"id": "bd44b40e-be4f-4cd9-908e-af9f13621f4f",
 		"prefix": "",
 		"description": ""
@@ -6230,13 +6230,13 @@
 	{
 		"id": "8a7cac47-c4f7-47f4-bac2-09ee3010cb02",
 		"prefix": "",
-		"title": "Uit een kinderliedje concrete informatie oppikken, zoals over wie het gaat (bijvoorbeeld welke dieren), hoeveel er ergens van zijn (bv hoeveel eendjes) en welke kleuren iets heeft.",
+		"title": "Uit een kinderliedje: over wie gaat dit, welke en hoeveel dieren komen erin voor, welke kleuren?",
 		"description": ""
 	},
 	{
 		"id": "4804dfc8-7789-4f71-b29e-7dc0c99c63d5",
 		"prefix": "",
-		"title": "In een spraakbericht (zoals voicemail) herkennen waar jouw vrienden je voor uitnodigen (plaats, tijd, soort activiteit).",
+		"title": "In een ingesproken uitnodiging de plaats, de tijd en het soort activiteit herkennen.",
 		"description": ""
 	},
 	{
@@ -6278,7 +6278,7 @@
 	{
 		"id": "cece08d7-b550-491d-9c7f-616414dc2773",
 		"prefix": "",
-		"title": "Een interview met bijvoorbeeld scholieren uit verschillende landen over wat zij vinden van hun vrijetijdsbesteding of met beroemdheden (bijvoorbeeld sporters, acteurs of politici) die vertellen over hun hobby's en wat ze er wel en niet leuk aan vinden.",
+		"title": "Een interview met scholieren uit verschillende landen over wat zij vinden van hun vrijetijdsbesteding.",
 		"description": ""
 	},
 	{
@@ -6308,7 +6308,7 @@
 	{
 		"id": "5df508f8-6973-4029-8699-43524db4f35d",
 		"prefix": "",
-		"title": "Een commercial begrijpen, bijvoorbeeld van een reisbureau over hun nieuwe, compleet verzorgde rondreis, een telecomprovider over het voordeligste telefoonabonnement, een verzekeringsmaatschappij over een nieuw soort verzekering, de aankondiging van een nieuw product, bijvoorbeeld een game of modeartikel.",
+		"title": "Van een reisbureau over hun nieuwe, compleet verzorgde rondreis.",
 		"description": ""
 	},
 	{
@@ -11503,6 +11503,30 @@
 		"id": "ab9db736-86b5-42f5-8dbe-eb851934c27c",
 		"prefix": "",
 		"title": "Een kaart verzonden vanaf een vakantieadres.",
+		"description": ""
+	},
+	{
+		"id": "54c74953-17cd-40a4-b445-326d00572249",
+		"prefix": "",
+		"title": "Van een telecomprovider over het voordeligste telefoonabonnement.",
+		"description": ""
+	},
+	{
+		"id": "32ce2f3d-b161-45ac-9752-42dab4a3f6ac",
+		"prefix": "",
+		"title": "Van een verzekeringsmaatschappij over een nieuw soort verzekering.",
+		"description": ""
+	},
+	{
+		"id": "b3542d2f-0111-4603-b98f-f690601a93a3",
+		"prefix": "",
+		"title": "De aankondiging van een nieuw product: een game of modeartikel.",
+		"description": ""
+	},
+	{
+		"id": "025e0732-00d1-4811-9473-ace92187be68",
+		"prefix": "",
+		"title": "Een interview met beroemdheden die vertellen over hun hobby's.",
 		"description": ""
 	}
 ]
