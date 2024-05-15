@@ -1184,7 +1184,7 @@
 		"description": ""
 	},
 	{
-		"title": "Een bericht over een ramp, bijvoorbeeld een aardbeving, een grote brand, het neerstorten van een vliegtuig.",
+		"title": "Een bericht over een aardbeving, een grote brand of het neerstorten van een vliegtuig.",
 		"id": "89efbeeb-cfb5-480a-ba00-e5dc495056f2",
 		"prefix": "",
 		"description": ""
@@ -6326,7 +6326,7 @@
 	{
 		"id": "3a25a6fb-f7fe-4767-8ce0-47fa68e0d2a9",
 		"prefix": "",
-		"title": "Het onderwerp herkennen in een korte video over een bezienswaardigheid in een bekende stad, een kort filmpje waarin een kind vertelt over een huisdier, een kort verslag (filmpje/vlog) van een sportdag op school, een korte animatie of videoclip van een bekend liedje of rijmpje.",
+		"title": "Een korte video over een bezienswaardigheid in een bekende stad.",
 		"description": ""
 	},
 	{
@@ -11527,6 +11527,24 @@
 		"id": "025e0732-00d1-4811-9473-ace92187be68",
 		"prefix": "",
 		"title": "Een interview met beroemdheden die vertellen over hun hobby's.",
+		"description": ""
+	},
+	{
+		"id": "8bd9b544-0368-4d2d-95a6-ea032733f4bd",
+		"prefix": "",
+		"title": "Een kort filmpje waarin een kind vertelt over een huisdier.",
+		"description": ""
+	},
+	{
+		"id": "18f15032-9132-49c7-8d58-d093a3964d05",
+		"prefix": "",
+		"title": "Een korte vlog van een sportdag op school.",
+		"description": ""
+	},
+	{
+		"id": "f10806ee-af42-43bc-9e6f-a7dd955ced2b",
+		"prefix": "",
+		"title": "Een korte animatie of videoclip van een bekend liedje of rijmpje.",
 		"description": ""
 	}
 ]
