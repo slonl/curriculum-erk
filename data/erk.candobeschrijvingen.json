@@ -4974,7 +4974,10 @@
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
 		"erk_voorbeeld_id": [
-			"a441b204-9500-491c-8283-9e99beeef6da"
+			"a441b204-9500-491c-8283-9e99beeef6da",
+			"57682545-09a2-4499-beaf-0003ff8c94e5",
+			"ba0ae6bb-5daa-4e70-9052-31e3273d2700",
+			"ab9db736-86b5-42f5-8dbe-eb851934c27c"
 		],
 		"title": "Kan korte, eenvoudige berichten op brief- of ansichtkaarten begrijpen.",
 		"id": "4e7d6999-4727-4ce4-9fef-56920a89e8f3",
@@ -5031,7 +5034,7 @@
 			"36438b6b-6d93-409f-9393-df5d57edbd69",
 			"32671bad-f6cc-4fbf-8d94-7f54632813da"
 		],
-		"title": "Kan elementaire soorten standaardbrieven, faxen over vertrouwde onderwerpen begrijpen.",
+		"title": "Kan elementaire soorten standaardbrieven of e-mails over vertrouwde onderwerpen begrijpen.",
 		"id": "89f06600-fe2b-427d-b7b3-2ea60062a8db",
 		"prefix": "",
 		"description": ""
