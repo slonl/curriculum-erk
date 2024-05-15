@@ -2230,7 +2230,7 @@
 		"description": ""
 	},
 	{
-		"title": "Een profiel invullen op een sociaal netwerk (achternaam, leeftijd, woonplaats, hobby's).",
+		"title": "Persoonlijke gegevens invullen in een profiel op een sociaal netwerk.",
 		"id": "7d814f75-45b9-4fb9-8b9c-38e9c9951eb4",
 		"prefix": "",
 		"description": ""
@@ -2278,7 +2278,7 @@
 		"description": ""
 	},
 	{
-		"title": "Het schrijven van eenvoudige zinnen, bijvoorbeeld in een dagboek of een e-mail, over je familie en vrienden, je huis en je woonplaats, je werk/beroep of het werk/beroep van je ouders, je school of opleiding, je eigen werkplek en dagelijkse werkzaamheden.",
+		"title": "Over familie en vrienden.",
 		"id": "225bdeae-7a4f-447a-8200-2895dc939b01",
 		"prefix": "",
 		"description": ""
@@ -7280,7 +7280,7 @@
 	{
 		"id": "fc93345d-ac60-4044-9568-a1732eb5a6a0",
 		"prefix": "",
-		"title": "Je eigen kamer, je klaslokaal, de woonkamer van een vriend, een kamer in je vakantieverblijf.",
+		"title": "Je eigen kamer.",
 		"description": ""
 	},
 	{
@@ -7292,13 +7292,13 @@
 	{
 		"id": "d7e82bcd-a37a-41f6-b8e6-0f47b6e21bea",
 		"prefix": "",
-		"title": "Beschrijven van een voorwerp, bijvoorbeeld: 'Dat is een auto. De auto is klein en rood.'",
+		"title": "Beschrijven van een voorwerp: Dat is een auto. De auto is klein en rood.",
 		"description": ""
 	},
 	{
 		"id": "441e268f-9e74-4d2a-bcff-645b686f0ac5",
 		"prefix": "",
-		"title": "Beschrijven van een kledingstuk, bijvoorbeeld: 'Dit is mijn trui. De trui is zacht en warm.'",
+		"title": "Beschrijven van een kledingstuk: Dit is mijn trui. De trui is zacht en warm.",
 		"description": ""
 	},
 	{
@@ -11545,6 +11545,48 @@
 		"id": "f10806ee-af42-43bc-9e6f-a7dd955ced2b",
 		"prefix": "",
 		"title": "Een korte animatie of videoclip van een bekend liedje of rijmpje.",
+		"description": ""
+	},
+	{
+		"id": "98876d3a-461d-43b2-b017-b87075c9f078",
+		"prefix": "",
+		"title": "Je klaslokaal.",
+		"description": ""
+	},
+	{
+		"id": "fc4745f6-2ea5-4819-a3b6-1fbe92e9dc6e",
+		"prefix": "",
+		"title": "De woonkamer van een vriend.",
+		"description": ""
+	},
+	{
+		"id": "d472c5ba-6e6a-48e3-a576-050b2124bff8",
+		"prefix": "",
+		"title": "Een kamer in je vakantieverblijf.",
+		"description": ""
+	},
+	{
+		"id": "3f1865ec-cf38-4773-a464-5bed39f38902",
+		"prefix": "",
+		"title": "Over je huis en woonplaats.",
+		"description": ""
+	},
+	{
+		"id": "66b732c1-d6bc-4ab8-9096-ef5115b450af",
+		"prefix": "",
+		"title": "Over het beroep van je ouders.",
+		"description": ""
+	},
+	{
+		"id": "8a1f3920-6722-44bc-b221-dd05049b173b",
+		"prefix": "",
+		"title": "Over je school of opleiding.",
+		"description": ""
+	},
+	{
+		"id": "eff85598-fbe6-41e7-bf84-c2602a7bec12",
+		"prefix": "",
+		"title": "Over je eigen werkplek en dagelijkse werkzaamheden.",
 		"description": ""
 	}
 ]
