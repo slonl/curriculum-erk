@@ -264,7 +264,7 @@
 		"description": ""
 	},
 	{
-		"title": "Aanwijzingen op een strand, bijvoorbeeld: zwemmen toegestaan bij groene vlag, niet lopen in de duinen, honden mogen los tussen datum x en y.",
+		"title": "Aanwijzingen op een strand: zwemmen toegestaan bij groene vlag, niet lopen in de duinen, honden mogen los tussen datum x en y.",
 		"id": "e2325368-a04a-45b3-92a6-12d23b92b87c",
 		"prefix": "",
 		"description": ""
@@ -6692,7 +6692,7 @@
 	{
 		"id": "c67dafae-1019-4d57-ad81-1e2f2a0d31ed",
 		"prefix": "",
-		"title": "Een recept: welke ingrediënten zijn nodig, hoe lang moet het in de oven?",
+		"title": "In een recept: welke ingrediënten zijn nodig, hoe lang moet het in de oven?",
 		"description": ""
 	},
 	{
@@ -6704,7 +6704,7 @@
 	{
 		"id": "c8f04f7f-8caf-4415-be88-71552eaa1957",
 		"prefix": "",
-		"title": "Een recensie van een film: welk genre, welke acteurs, is de film de moeite waard?",
+		"title": "In een recensie van een film: welk genre, welke acteurs, is de film de moeite waard?",
 		"description": ""
 	},
 	{
