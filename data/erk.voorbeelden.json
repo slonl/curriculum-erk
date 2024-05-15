@@ -668,7 +668,7 @@
 		"description": ""
 	},
 	{
-		"title": "Instructies bij het kopen van online tickets, bijvoorbeeld voor evenementen, musea, popconcerten.",
+		"title": "Instructies bij het kopen van online tickets voor evenementen, musea en popconcerten.",
 		"id": "c9f0d8f2-7916-4c84-b46a-ab4c70e98070",
 		"prefix": "",
 		"description": ""
@@ -722,7 +722,7 @@
 		"description": ""
 	},
 	{
-		"title": "Een recept volgen voor het maken van een regionaal gerecht uit een pak.",
+		"title": "Een recept voor het maken van een regionaal gerecht uit een pak.",
 		"id": "5a22af10-11a9-4fdc-8bb7-e1696e314602",
 		"prefix": "",
 		"description": ""
@@ -6884,7 +6884,7 @@
 	{
 		"id": "faf15d75-206f-4eae-89d3-0a1f691e3f85",
 		"prefix": "",
-		"title": "Aanwijzingen over het retourneren van gehuurde spullen, bijvoorbeeld schaatsen of een fiets.",
+		"title": "Aanwijzingen over het retourneren van gehuurde schaatsen of een fiets.",
 		"description": ""
 	},
 	{
@@ -6896,7 +6896,7 @@
 	{
 		"id": "c205a631-56b4-4240-aeb0-c50637f951dd",
 		"prefix": "",
-		"title": "Een eenvoudig recept uit een tijdschrift, een kookboek of van een receptenwebsite.",
+		"title": "Een recept uit een tijdschrift, een kookboek of van een receptenwebsite.",
 		"description": ""
 	},
 	{
