@@ -30,7 +30,7 @@
 		"description": ""
 	},
 	{
-		"title": "Een bevestiging van een vakantieverblijf per e-mail.",
+		"title": "Een bevestiging per e-mail van een vakantieverblijf.",
 		"id": "19b23471-3d0b-4134-9d45-c6cbe7d55c0c",
 		"prefix": "",
 		"description": ""
@@ -6452,13 +6452,13 @@
 	{
 		"id": "48ce1844-52e0-4b79-8443-919faeb617b1",
 		"prefix": "",
-		"title": "De hoofdpunten/belangrijkste informatie in een uitnodiging voor een (verjaardags-)feest of een bruiloft.",
+		"title": "De belangrijkste informatie in een uitnodiging voor een (verjaardags-)feest of een bruiloft.",
 		"description": ""
 	},
 	{
 		"id": "0120562e-22b8-4b8e-985f-562c3fc48fbd",
 		"prefix": "",
-		"title": "De hoofdpunten/belangrijkste informatie in een chatbericht met een uitnodiging voor een filmavond bij vrienden.",
+		"title": "De belangrijkste informatie in een chatbericht met een uitnodiging voor een filmavond bij vrienden.",
 		"description": ""
 	},
 	{
@@ -6482,7 +6482,7 @@
 	{
 		"id": "a441b204-9500-491c-8283-9e99beeef6da",
 		"prefix": "",
-		"title": "Een kerst-, nieuwjaars-, verjaardags-, of  beterschapskaart, een rouw- of geboortekaartje, een uitnodiging voor een partijtje of feest, een ansichtkaart verzonden vanaf een vakantieadres.",
+		"title": "Een kerst-, nieuwjaars-, verjaardags-, of  beterschapskaart.",
 		"description": ""
 	},
 	{
@@ -11485,6 +11485,24 @@
 		"id": "9217a806-76d9-4f6f-b4e5-67d374509e86",
 		"prefix": "",
 		"title": "Waarom zou je wel of niet vegetarisch eten?",
+		"description": ""
+	},
+	{
+		"id": "57682545-09a2-4499-beaf-0003ff8c94e5",
+		"prefix": "",
+		"title": "Een rouwkaart of een geboortekaartje.",
+		"description": ""
+	},
+	{
+		"id": "ba0ae6bb-5daa-4e70-9052-31e3273d2700",
+		"prefix": "",
+		"title": "Een uitnodiging voor een feestje.",
+		"description": ""
+	},
+	{
+		"id": "ab9db736-86b5-42f5-8dbe-eb851934c27c",
+		"prefix": "",
+		"title": "Een kaart verzonden vanaf een vakantieadres.",
 		"description": ""
 	}
 ]
