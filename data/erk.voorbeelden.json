@@ -6992,13 +6992,13 @@
 	{
 		"id": "c4c6b79d-203a-4bdb-9b79-a3eb4bb0f115",
 		"prefix": "",
-		"title": "Een eenvoudige biografie van een artiest, acteur, sporter of influencer over leeftijd, hobby's, relaties.",
+		"title": "Een eenvoudige biografie van een artiest, acteur, sporter of influencer.",
 		"description": ""
 	},
 	{
 		"id": "968268b5-5182-4988-ade9-9babec31e8d5",
 		"prefix": "",
-		"title": "Persoonlijke gegevens van personen op een sociaal netwerk: hobby's, studie, beroep.",
+		"title": "Persoonlijke gegevens op een sociaal netwerk over hobby's, studie, beroep.",
 		"description": ""
 	},
 	{
@@ -7112,7 +7112,7 @@
 	{
 		"id": "aa6c1ba5-1c4f-4d63-b5c8-04bc344cf3c5",
 		"prefix": "",
-		"title": "In een artikel, de informatie begrijpen uit een visueel overzicht van de verspreiding van talen in de wereld.",
+		"title": "In een artikel de informatie begrijpen uit een visueel overzicht van de verspreiding van talen in de wereld.",
 		"description": ""
 	},
 	{
@@ -7196,7 +7196,7 @@
 	{
 		"id": "84c676ae-0cff-46bf-b668-6f0a4c143c93",
 		"prefix": "",
-		"title": "In artikelen over onderwerpen op het eigen interessegebied.",
+		"title": "In artikelen over onderwerpen in het eigen interessegebied.",
 		"description": ""
 	},
 	{
@@ -7208,7 +7208,7 @@
 	{
 		"id": "d73d5ec9-1480-418a-abe6-bc76595043d0",
 		"prefix": "",
-		"title": "In een discussie op een forum over een onderwerp binnen het eigen interessegebied, bijvoorbeeld over een vuurwerkverbod of jongerenwelzijn.",
+		"title": "In een discussie op een forum over een vuurwerkverbod, jongerenwelzijn of een ander onderwerp in het eigen interessegebied.",
 		"description": ""
 	},
 	{
