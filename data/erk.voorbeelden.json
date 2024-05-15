@@ -2614,7 +2614,7 @@
 		"description": ""
 	},
 	{
-		"title": "Uit diverse beschrijvingen van producten of diensten een verslag schrijven ten behoeve van het maken van een keuze hiervan.",
+		"title": "Uit diverse beschrijvingen van producten of diensten een verslag schrijven voor het maken van een keuze.",
 		"id": "c4b91268-6e70-4329-9529-16eb604fad72",
 		"prefix": "",
 		"description": ""
@@ -2626,7 +2626,7 @@
 		"description": ""
 	},
 	{
-		"title": "In een samenvatting schrijven van de hoofdpunten van nieuwsberichten, vraaggesprekken of documentaires, met meningen, argumenten en discussiepunten.",
+		"title": "Een samenvatting van de hoofdpunten uit nieuwsberichten, vraaggesprekken of documentaires, met meningen, argumenten en discussiepunten.",
 		"id": "7331c066-b766-4036-844f-20b2715f073c",
 		"prefix": "",
 		"description": ""
@@ -7442,7 +7442,7 @@
 	{
 		"id": "d0731555-7c41-47ec-b27c-58a0ba551691",
 		"prefix": "",
-		"title": "Een korte tekst waarin je je mening of indruk geeft over de inhoud van een boek dat je gelezen hebt, de nieuwste trends op het gebied van speelgoed, kleding, muziek, een game, film, of televisieprogramma.",
+		"title": "De inhoud van een boek dat je gelezen hebt.",
 		"description": ""
 	},
 	{
@@ -7478,13 +7478,13 @@
 	{
 		"id": "02c502cb-db3b-4605-b286-c5d71cab525c",
 		"prefix": "",
-		"title": "Een poster waarin je verslag doet van de opbrengsten van een schoolproject, zoals over de gezonde school of een kunstproject.",
+		"title": "Een poster waarin je verslag doet van de opbrengsten van een kunstproject op school.",
 		"description": ""
 	},
 	{
 		"id": "5821ce27-2de5-42ed-ac28-899c879774b2",
 		"prefix": "",
-		"title": "Een werkverslag, zoals een zorgverslag of een 'reparatieverslag' van een monteur. ",
+		"title": "Een zorgverslag of een reparatieverslag van een monteur.",
 		"description": ""
 	},
 	{
@@ -11587,6 +11587,18 @@
 		"id": "eff85598-fbe6-41e7-bf84-c2602a7bec12",
 		"prefix": "",
 		"title": "Over je eigen werkplek en dagelijkse werkzaamheden.",
+		"description": ""
+	},
+	{
+		"id": "e0b4bdd0-1d48-42d6-a6ed-ce957bf6007e",
+		"prefix": "",
+		"title": "De nieuwste trends op het gebied van speelgoed, kleding en muziek",
+		"description": ""
+	},
+	{
+		"id": "2b796f7e-71db-43b8-9a77-e96b2ce670c5",
+		"prefix": "",
+		"title": "Een game, film of televisieprogramma.",
 		"description": ""
 	}
 ]
