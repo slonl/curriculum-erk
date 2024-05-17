@@ -42,7 +42,7 @@
 		"description": ""
 	},
 	{
-		"title": "De gegevens van een bestelling in een bijlage bij een e-mail, bijvoorbeeld voor je nieuwe telefoon, game of kleding.",
+		"title": "De gegevens van een bestelling in een bijlage bij een e-mail voor je nieuwe telefoon, game of kleding.",
 		"id": "36438b6b-6d93-409f-9393-df5d57edbd69",
 		"prefix": "",
 		"description": ""
@@ -6494,7 +6494,7 @@
 	{
 		"id": "4cc78db9-453e-4a80-869d-ebfafa41b287",
 		"prefix": "",
-		"title": "Een brief, e-mail of (chat-)bericht van een correspondentiepartner over de opening van een filiaal van je favoriete winkel, tips voor het uitgaan in een bekende stad, een (geslaagd/afgelast) schoolfeest, een nieuwe eenvoudige game.",
+		"title": "Over de opening van een filiaal van je favoriete winkel.",
 		"description": ""
 	},
 	{
@@ -6890,7 +6890,7 @@
 	{
 		"id": "500f6b32-2639-4e24-b859-068ae9299e5a",
 		"prefix": "",
-		"title": "Instructies voor medicijnen, zoals innemen voor de maaltijd, innemen met water, niet innemen als u moet rijden.",
+		"title": "Innemen voor de maaltijd.",
 		"description": ""
 	},
 	{
@@ -6998,7 +6998,7 @@
 	{
 		"id": "968268b5-5182-4988-ade9-9babec31e8d5",
 		"prefix": "",
-		"title": "Persoonlijke gegevens op een sociaal netwerk over hobby's, studie, beroep.",
+		"title": "Persoonlijke gegevens op een sociaal netwerk over hobby's, studie of beroep.",
 		"description": ""
 	},
 	{
@@ -11635,6 +11635,36 @@
 		"id": "dcc28582-2c0e-4e21-8ecc-cca4b61fe55e",
 		"prefix": "",
 		"title": "Informatie over een afspraak bij de tandarts of in het ziekenhuis.",
+		"description": ""
+	},
+	{
+		"id": "c92dae1e-929c-4609-8709-45f41d0be173",
+		"prefix": "",
+		"title": "Over tips voor het uitgaan in een bekende stad.",
+		"description": ""
+	},
+	{
+		"id": "f8b6b7fb-2b24-4a9d-93b5-f08f1a3e7d1f",
+		"prefix": "",
+		"title": "Over een geslaagd of afgelast schoolfeest.",
+		"description": ""
+	},
+	{
+		"id": "a47490c2-3ce5-4943-b316-e5f8fd57d745",
+		"prefix": "",
+		"title": "Over een nieuwe, eenvoudige game.",
+		"description": ""
+	},
+	{
+		"id": "892ae6f9-3bfe-4da1-9a8a-3e35b223da4d",
+		"prefix": "",
+		"title": "Innemen met water.",
+		"description": ""
+	},
+	{
+		"id": "5c7c9b56-4a9f-49be-b2d0-8d916b33389a",
+		"prefix": "",
+		"title": "Niet innemen als u moet rijden.",
 		"description": ""
 	}
 ]
