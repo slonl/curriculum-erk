@@ -6482,13 +6482,13 @@
 	{
 		"id": "a441b204-9500-491c-8283-9e99beeef6da",
 		"prefix": "",
-		"title": "Een kerst-, nieuwjaars-, verjaardags-, of  beterschapskaart.",
+		"title": "Een kerst-, nieuwjaars-, verjaardags- of  beterschapskaart.",
 		"description": ""
 	},
 	{
 		"id": "c07f1fa3-ef76-400e-8d99-932b975323ee",
 		"prefix": "",
-		"title": "Een brief of e-mail over het weer en de verblijfplaats tijdens iemands vakantie, over hoe het gaat met de correspondentiepartner, over iemands hobby of huisdier, met de vraag om iets mee te nemen voor een etentje of feestje.\n",
+		"title": "Over het weer en de verblijfplaats tijdens iemands vakantie.\n",
 		"description": ""
 	},
 	{
@@ -6572,7 +6572,7 @@
 	{
 		"id": "fb6489a6-5c71-4c62-8f3f-774394955beb",
 		"prefix": "",
-		"title": "Een brief of e-mail met de informatie over het retour zenden van een product, de bevestiging van een reservering, informatie over een afspraak bij de tandarts of in het ziekenhuis: wat je mee moet nemen, hoe je er komt met, waar je je moet melden.",
+		"title": "Informatie over het retour zenden van een product.",
 		"description": ""
 	},
 	{
@@ -11599,6 +11599,42 @@
 		"id": "2b796f7e-71db-43b8-9a77-e96b2ce670c5",
 		"prefix": "",
 		"title": "Een game, film of televisieprogramma.",
+		"description": ""
+	},
+	{
+		"id": "cec011f6-e707-4d84-ae8f-a1c563a5d0f0",
+		"prefix": "",
+		"title": "Over hoe het gaat met de correspondentiepartner.",
+		"description": ""
+	},
+	{
+		"id": "0bfabc30-48b3-4164-8a14-bb31e1865d25",
+		"prefix": "",
+		"title": "Over iemands hobby of huisdier.",
+		"description": ""
+	},
+	{
+		"id": "87807657-b9a5-4dae-8899-d25d6dd2f3c5",
+		"prefix": "",
+		"title": "Met de vraag om iets mee te nemen voor een etentje of feestje.",
+		"description": ""
+	},
+	{
+		"id": "f02b0560-41aa-4685-9141-850d818e7ac8",
+		"prefix": "",
+		"title": "De bevestiging van een reservering.",
+		"description": ""
+	},
+	{
+		"id": "9308388c-5765-42ef-b534-14590672cdb5",
+		"prefix": "",
+		"title": "De bevestiging van een reservering.",
+		"description": ""
+	},
+	{
+		"id": "dcc28582-2c0e-4e21-8ecc-cca4b61fe55e",
+		"prefix": "",
+		"title": "Informatie over een afspraak bij de tandarts of in het ziekenhuis.",
 		"description": ""
 	}
 ]
