@@ -4240,7 +4240,7 @@
 		"description": ""
 	},
 	{
-		"title": "Bij een telefonische annulering van een reservering door ziekte.",
+		"title": "Een reservering telefonisch annuleren vanwege ziekte.",
 		"id": "a2858335-f2a6-46d5-a2b2-6ff1b51d0a1b",
 		"prefix": "",
 		"description": ""
@@ -10854,7 +10854,7 @@
 	{
 		"id": "4b84c3a9-e5db-4a72-8990-309f5faacfc2",
 		"prefix": "",
-		"title": "Het begrijpen van eenvoudige vragen en instructies van bijvoorbeeld de kapper of de arts: 'doe je arm omhoog', 'kijk naar beneden'.",
+		"title": "Het begrijpen van eenvoudige vragen en instructies van de kapper of de arts: kijk naar beneden, doe je arm omhoog.",
 		"description": ""
 	},
 	{
@@ -10920,7 +10920,7 @@
 	{
 		"id": "c6bf3a5d-1871-4ede-bfd5-375c7642a5b9",
 		"prefix": "",
-		"title": "Bij afstemming over de taakverdeling voor een groepsopdracht voor een gemeenschappelijke opdracht.",
+		"title": "Bij afstemming over de taakverdeling voor een groepsopdracht.",
 		"description": ""
 	},
 	{
@@ -11076,7 +11076,7 @@
 	{
 		"id": "aa603464-e078-4d4e-b581-cbd09d1b4b50",
 		"prefix": "",
-		"title": "In een discussie met collega's vragen om concrete voorbeelden bij gebruikte argumenten van een redenering.",
+		"title": "In een discussie met collega's vragen om concrete voorbeelden van gebruikte argumenten voor een redenering.",
 		"description": ""
 	},
 	{
