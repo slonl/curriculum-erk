@@ -9828,19 +9828,19 @@
 	{
 		"id": "dc3c7643-711a-4945-971a-766d2438c13a",
 		"prefix": "",
-		"title": "Informatie die iemand over zichzelf vertelt, zoals naam, adres, leeftijd, woonplaats en land van herkomst.",
+		"title": "Informatie die iemand over zichzelf vertelt: naam, adres, leeftijd, woonplaats en land van herkomst.",
 		"description": ""
 	},
 	{
 		"id": "46b4ea74-eef6-4d39-ac2d-80db47552341",
 		"prefix": "",
-		"title": "Vragen over persoonlijke informatie, zoals je naam, je adres, je leeftijd, je woonplaats en je land van herkomst.",
+		"title": "Persoonlijke informatie geven en vragen: je naam, je adres, je leeftijd, je woonplaats en je land van herkomst.",
 		"description": ""
 	},
 	{
 		"id": "9ea3d255-8bac-4551-81a0-0b644e6e7312",
 		"prefix": "",
-		"title": "Vragen zoals 'Hoe heet je?', 'Hoe oud ben je?', 'Waar woon je?' ",
+		"title": "Hoe heet je?",
 		"description": ""
 	},
 	{
@@ -11695,6 +11695,18 @@
 		"id": "533346d6-bb7a-410b-ba94-78e00a6d3ef0",
 		"prefix": "",
 		"title": "Over feesten en vieringen.",
+		"description": ""
+	},
+	{
+		"id": "34529129-6f6f-4e84-80e0-b7cda1085c19",
+		"prefix": "",
+		"title": "Hoe oud ben je?",
+		"description": ""
+	},
+	{
+		"id": "11ef4c5c-d2dd-4fac-befa-238f478be780",
+		"prefix": "",
+		"title": "Waar woon je?",
 		"description": ""
 	}
 ]
