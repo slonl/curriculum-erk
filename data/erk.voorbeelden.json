@@ -4376,19 +4376,19 @@
 		"id": "d799385d-c7d4-4efd-b383-683918576286"
 	},
 	{
-		"title": "Zeggen en begrijpen wanneer iets gebeurt, zoals 'op vrijdag'.",
+		"title": "Zeggen en begrijpen wanneer iets gebeurt: op vrijdag.",
 		"id": "0f938dcd-1ec0-415a-bed9-b068842ad570",
 		"prefix": "",
 		"description": ""
 	},
 	{
-		"title": "Zeggen wanneer je op vakantie gaat, zoals 'in augustus'.",
+		"title": "Zeggen wanneer je op vakantie gaat: in augustus.",
 		"id": "0324da19-60ce-4859-b5f9-4eba881a4fa7",
 		"prefix": "",
 		"description": ""
 	},
 	{
-		"title": "Zeggen wanneer je naar de film gaat, zoals 'morgen om drie uur'.",
+		"title": "Zeggen wanneer je naar de film gaat: morgen om drie uur.",
 		"id": "ff149462-2ceb-4553-8cb3-7497b434a99e",
 		"prefix": "",
 		"description": ""
@@ -10278,7 +10278,7 @@
 	{
 		"id": "f3aac08d-cc9c-4e34-9422-80f3e672e5b4",
 		"prefix": "",
-		"title": "Een telefonisch gesprek met je behandelend arts.",
+		"title": "Een telefonisch gesprek met jouw behandelend arts.",
 		"description": ""
 	},
 	{
