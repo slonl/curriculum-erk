@@ -2026,7 +2026,7 @@
 		"description": ""
 	},
 	{
-		"title": "Over een sport, een muzieksoort, mode, een filmgenre.",
+		"title": "Een presentatie over een sport, een muzieksoort, mode, een filmgenre.",
 		"id": "53346ded-8464-497a-8ded-e43117202f40",
 		"prefix": "",
 		"description": ""
@@ -2098,7 +2098,7 @@
 		"description": ""
 	},
 	{
-		"title": "Een goed opgebouwd betoog houden over het verhogen van de alcoholgrens van 16 naar 18 jaar.",
+		"title": "Een goed opgebouwd betoog houden over het verhogen van de alcoholgrens van 18 naar 20 jaar.",
 		"id": "9f0ac42e-ad4c-4c9e-bbf3-df2dad1fc165",
 		"prefix": "",
 		"description": ""
@@ -10500,7 +10500,7 @@
 	{
 		"id": "b6cc3db9-a9a3-4a61-a8c5-1c2c57bca066",
 		"prefix": "",
-		"title": "Zeggen dat je bang, boos, blij of verdrietig bent en beknopt uitleggen waarom je dat bent.",
+		"title": "Zeggen dat je bang, boos, blij of verdrietig bent en beknopt uitleggen waarom.",
 		"description": ""
 	},
 	{
@@ -11472,19 +11472,19 @@
 	{
 		"id": "c82c9393-ed46-4807-ae12-d88355513d2e",
 		"prefix": "",
-		"title": "Welk sportteam is het beste?",
+		"title": "Welk sportteam het beste is.",
 		"description": ""
 	},
 	{
 		"id": "a7ea59fe-8729-4313-a0a9-ae1db86707d2",
 		"prefix": "",
-		"title": "Hoe kun je beter huiswerk maken, in stilte of terwijl je naar muziek luistert?",
+		"title": "Hoe je je huiswerk beter kunt maken: in stilte of terwijl je naar muziek luistert.",
 		"description": ""
 	},
 	{
 		"id": "9217a806-76d9-4f6f-b4e5-67d374509e86",
 		"prefix": "",
-		"title": "Waarom zou je wel of niet vegetarisch eten?",
+		"title": "Waarom je wel of niet vegetarisch eet.",
 		"description": ""
 	},
 	{
