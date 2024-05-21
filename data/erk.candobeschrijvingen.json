@@ -16846,8 +16846,10 @@
 			"0324da19-60ce-4859-b5f9-4eba881a4fa7",
 			"ff149462-2ceb-4553-8cb3-7497b434a99e"
 		],
-		"title": "Kan de tijd aangeven met vaste formuleringen als 'volgende week', 'afgelopen vrijdag', 'in november', 'om drie uur'.",
-		"id": "e3ab126a-7db2-43d2-944a-b2d231ed8398"
+		"title": "Kan de tijd aangeven met vaste formuleringen.",
+		"id": "e3ab126a-7db2-43d2-944a-b2d231ed8398",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -17384,7 +17386,6 @@
 		"description": "",
 		"erk_voorbeeld_id": [
 			"246e52ce-5367-4453-9a22-70d0274fd210",
-			"3250d7d9-46af-4f6a-9ab6-9bdec0c5be54",
 			"85fff548-af18-404b-9ba0-ee2e5026324d",
 			"5b24754e-7876-423f-996f-b39d1a6aa8af"
 		]
