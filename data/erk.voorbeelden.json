@@ -1322,7 +1322,7 @@
 		"description": ""
 	},
 	{
-		"title": "Je naam, je leeftijd, je woonplaats, je nationaliteit, je land van herkomst.",
+		"title": "Je naam.",
 		"id": "b2497556-60ea-488f-bf84-7aa69f7c3f66",
 		"prefix": "",
 		"description": ""
@@ -11707,6 +11707,42 @@
 		"id": "11ef4c5c-d2dd-4fac-befa-238f478be780",
 		"prefix": "",
 		"title": "Waar woon je?",
+		"description": ""
+	},
+	{
+		"id": "647d2b47-b264-48bb-b746-118721f67e2c",
+		"prefix": "",
+		"title": "Je leeftijd.",
+		"description": ""
+	},
+	{
+		"id": "688a139f-8687-4670-b471-0715cff6e702",
+		"prefix": "",
+		"title": "Je woonplaats.",
+		"description": ""
+	},
+	{
+		"id": "63393fa6-39c7-4638-a758-e6ed3684e2ce",
+		"prefix": "",
+		"title": "Je nationaliteit, je land van herkomst.",
+		"description": ""
+	},
+	{
+		"id": "73dda29a-2b19-44c1-92a8-3a72e3fe51c2",
+		"prefix": "",
+		"title": "Ik ben blij.",
+		"description": ""
+	},
+	{
+		"id": "543da3d2-35ee-4c7f-a2b8-bd9c87915220",
+		"prefix": "",
+		"title": "Ik ben moe.",
+		"description": ""
+	},
+	{
+		"id": "dd4869d2-e09c-4e82-a165-dfa0d7b37cc9",
+		"prefix": "",
+		"title": "Ik ben verdrietig.",
 		"description": ""
 	}
 ]
