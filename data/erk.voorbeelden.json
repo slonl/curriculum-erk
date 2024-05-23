@@ -1870,7 +1870,7 @@
 		"description": ""
 	},
 	{
-		"title": "Je kamer, je lievelingsspeelgoed, een voorwerp uit hobby of sport, een kledingstuk.",
+		"title": "Je kamer.",
 		"id": "a6b13d06-fff3-4ca0-a3a0-41f728b8f243",
 		"prefix": "",
 		"description": ""
@@ -11743,6 +11743,24 @@
 		"id": "dd4869d2-e09c-4e82-a165-dfa0d7b37cc9",
 		"prefix": "",
 		"title": "Ik ben verdrietig.",
+		"description": ""
+	},
+	{
+		"id": "978348a2-d313-4a82-8d32-6406ee3de373",
+		"prefix": "",
+		"title": "Je lievelingsspeelgoed.",
+		"description": ""
+	},
+	{
+		"id": "1cb3bdff-993d-41f0-993b-3ee3378a8808",
+		"prefix": "",
+		"title": "Een voorwerp uit je hobby of sport.",
+		"description": ""
+	},
+	{
+		"id": "d56f0e01-a24a-4a58-80e2-df79ff5be2de",
+		"prefix": "",
+		"title": "Een kledingstuk.",
 		"description": ""
 	}
 ]
