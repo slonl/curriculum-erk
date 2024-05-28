@@ -410,8 +410,11 @@
 			"cd51029e-b98a-4238-939e-2ccf9b17103a",
 			"e169e505-d00e-4857-a674-4141f1a0396e"
 		],
-		"title": "Specifieke informatie mondeling doorgeven",
-		"id": "1c11e637-5eaf-45f3-8410-44a6a75c1006"
+		"title": "Specifieke informatie doorgeven in gesproken taal",
+		"id": "1c11e637-5eaf-45f3-8410-44a6a75c1006",
+		"prefix": "",
+		"description": "",
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -431,10 +434,11 @@
 			"528570a1-ddd1-4b6c-84a1-432feb66b836",
 			"4454dc3b-8d92-4d4b-82c3-41d1b19253c2"
 		],
-		"title": "Specifieke informatie schriftelijk doorgeven",
+		"title": "Specifieke informatie doorgeven in geschreven taal",
 		"id": "3c802231-529e-4d76-9aab-40eae8225fe8",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -448,8 +452,11 @@
 			"335f8568-603b-4e0a-8dce-49445740cd65",
 			"b1cf19f9-fed7-4c63-a883-8d4e290f95b9"
 		],
-		"title": "Data mondeling uitleggen",
-		"id": "288b6f87-8d9e-4c03-b887-d7781510db71"
+		"title": "Mondeling gegevens uitleggen",
+		"id": "288b6f87-8d9e-4c03-b887-d7781510db71",
+		"prefix": "",
+		"description": "",
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -462,8 +469,11 @@
 			"121c7fba-4865-4324-8036-5edeadbcacac",
 			"8e69bcb5-a53d-45cb-9ffb-f1f1ccf751dc"
 		],
-		"title": "Data schriftelijk uitleggen",
-		"id": "5ec53958-4390-49c0-b4bc-35e24e631d85"
+		"title": "Schriftelijk gegevens uitleggen",
+		"id": "5ec53958-4390-49c0-b4bc-35e24e631d85",
+		"prefix": "",
+		"description": "",
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -497,8 +507,11 @@
 			"fd98ebe9-ba11-4af9-a941-27a4af17f08a",
 			"138928a7-7666-4e16-82bd-e230cea47141"
 		],
-		"title": "Tekst mondeling verwerken",
-		"id": "97154fe6-5225-4793-bb6e-9d68910e78b3"
+		"title": "Mondeling tekst verwerken",
+		"id": "97154fe6-5225-4793-bb6e-9d68910e78b3",
+		"prefix": "",
+		"description": "",
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -521,8 +534,11 @@
 			"b94154b2-301b-42c0-b6f3-1f89746551f3",
 			"2f98f36d-cd1f-4e78-adda-3903356dd3e1"
 		],
-		"title": "Tekst schriftelijk verwerken",
-		"id": "e2b6da00-13a1-42c8-af8a-13ff4a5b5392"
+		"title": "Schriftelijk tekst verwerken",
+		"id": "e2b6da00-13a1-42c8-af8a-13ff4a5b5392",
+		"prefix": "",
+		"description": "",
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -3372,7 +3388,7 @@
 	{
 		"id": "a14a5054-9279-4da8-b56e-64e64fec6e69",
 		"prefix": "",
-		"title": "Een geschreven tekst schriftelijk vertalen",
+		"title": "Schriftelijk een geschreven tekst vertalen",
 		"description": "",
 		"erk_candobeschrijving_id": [
 			"9d67170e-f684-4c40-924a-4c27fd3bce99",
@@ -3384,7 +3400,8 @@
 			"9c2527c0-dd36-49d0-a664-3903d0561ebb",
 			"26c46aab-a8fc-4344-aab0-629a737f7215",
 			"4eeb0a15-7980-413c-84d0-c24bdb8bb89a"
-		]
+		],
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -3529,13 +3546,14 @@
 			"23a8d168-f8db-4693-afa7-e46c1ab249f2",
 			"c3a33e7f-bb54-40d0-b4bc-e2f5201a2535"
 		],
-		"title": "Een geschreven tekst mondeling vertalen",
+		"title": "Mondeling een geschreven tekst vertalen",
 		"id": "eb3a241a-afa5-4c42-8e33-89fc52ed29bb",
 		"prefix": "",
 		"description": "",
 		"replaces": [
 			"c7fc2181-3edb-43ff-9302-4477cc6de76e"
-		]
+		],
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
