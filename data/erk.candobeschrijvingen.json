@@ -2193,8 +2193,21 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan (in taal B) zeer elementaire informatie (bijvoorbeeld getallen en prijzen) uit korte, eenvoudige, geïllustreerde teksten (in taal A) overbrengen.",
-		"id": "bac05efd-f0cd-4803-8549-c67c4cacc659"
+		"title": "Kan (in taal B) zeer elementaire informatie uit korte, eenvoudige, geïllustreerde teksten (in taal A) overbrengen.",
+		"id": "bac05efd-f0cd-4803-8549-c67c4cacc659",
+		"prefix": "",
+		"description": "",
+		"erk_voorbeeld_id": [
+			"c82b6b5e-67a1-47d7-a7d1-d33a83a5202c",
+			"8272db57-a490-4c29-877b-8bbd4b53bd31",
+			"9366c4c5-5a0c-44d9-8f47-679b0a3c2147",
+			"963207e5-d151-4d28-9e3d-ce4208f56fee",
+			"dd2b6042-4ea4-4e8b-aa2f-755c3d16ebc9",
+			"67997026-6bd0-4ada-aaec-66a9c0be4113",
+			"d8472856-324e-445c-b126-e372f34b50d7",
+			"7b533b18-6d03-4179-9e65-d4ee56a047bc",
+			"dc1b80bc-44f3-43a2-964a-1975598e38fb"
+		]
 	},
 	{
 		"niveau_id": [
