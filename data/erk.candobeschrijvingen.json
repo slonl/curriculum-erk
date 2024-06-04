@@ -18274,12 +18274,14 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan zeer eenvoudige registratieformulieren invullen met elementaire persoonlijke gegevens: naam, adres, nationaliteit, burgerlijke staat.",
+		"title": "Kan zeer eenvoudige registratieformulieren invullen met elementaire persoonlijke gegevens.",
 		"id": "7f42c98f-02e0-447a-a70e-c1c6a53ca3ee",
 		"erk_voorbeeld_id": [
 			"2537316e-7e58-40de-8d92-6ff63b507835",
 			"0b8eafc6-1b4f-417e-b269-93017a4ebe42"
-		]
+		],
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
