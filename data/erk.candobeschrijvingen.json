@@ -18808,7 +18808,7 @@
 		"niveau_id": [
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
-		"title": "Kan korte, eenvoudige mededelingen over zichzelf online plaatsen, mits die uit een menu kunnen worden geselecteerd en/of het gebruik van een online-vertaalhulpmiddel mogelijk is.",
+		"title": "Kan korte, eenvoudige mededelingen over zichzelf online plaatsen, mits die uit een menu kunnen worden geselecteerd en/of het gebruik van een online vertaalhulpmiddel mogelijk is.",
 		"id": "ab6cbdd4-c42b-4556-ad7c-ffd445c4f0a0",
 		"prefix": "",
 		"description": "",
@@ -18923,7 +18923,7 @@
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan zich online voorstellen en eenvoudige uitwisselingen aangaan, door vragen te stellen en beantwoorden en ideeën uit te wisselen over voorspelbare alledaagse onderwerpen, mits er genoeg tijd is om antwoorden te formuleren en er slechts één gesprekspartner tegelijk is.",
+		"title": "Kan zich online voorstellen en eenvoudige uitwisselingen aangaan, door vragen te stellen en te beantwoorden en ideeën uit te wisselen over voorspelbare alledaagse onderwerpen, mits er genoeg tijd is om antwoorden te formuleren en er slechts één gesprekspartner tegelijk is.",
 		"id": "ec45e4c8-9f88-4f63-8af9-ae6e01a25d0d",
 		"prefix": "",
 		"description": "",
@@ -18958,7 +18958,7 @@
 			"3a3b6568-4803-48b4-94ce-dcf667c5d7f1",
 			"92a347ce-844c-407d-ab9d-61063800a167"
 		],
-		"title": "Kan een begrijpelijke bijdrage leveren aan een onlinediscussie over een vertrouwd belangwekkend onderwerp, mits voorbereiding vooraf en gebruik van onlinehulpmiddelen mogelijk is om gaten in de talenkennis op te vullen en te controleren of alles klopt.",
+		"title": "Kan een begrijpelijke bijdrage leveren aan een online discussie over een vertrouwd belangwekkend onderwerp, mits voorbereiding vooraf en gebruik van online hulpmiddelen mogelijk is om gaten in de talenkennis op te vullen en te controleren of alles klopt.",
 		"id": "db6b8ad5-bb4d-4571-b931-287870163831",
 		"prefix": "",
 		"description": ""
@@ -18981,7 +18981,7 @@
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan deelnemen aan rechtstreekse online-uitwisselingen met meer dan één deelnemer en daarbij de communicatieve bedoelingen van elke bijdrage herkennen, maar begrijpt mogelijk niet alle details of implicaties zonder verdere uitleg.",
+		"title": "Kan deelnemen aan rechtstreekse online uitwisselingen met meer dan één deelnemer en daarbij de communicatieve bedoelingen van elke bijdrage herkennen, maar begrijpt mogelijk niet alle details of implicaties zonder verdere uitleg.",
 		"id": "ef411fc1-a588-4a27-8785-f545ca0fcb87",
 		"prefix": "",
 		"description": "",
@@ -18999,13 +18999,15 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan misverstanden en onenigheden die zich voordoen in een online-interactie herkennen en hiermee omgaan, mits de gesprekspartner(s) bereid is/zijn mee te werken.",
+		"title": "Kan misverstanden en onenigheden die zich voordoen in een online interactie herkennen en hiermee omgaan, mits de gesprekspartner(s) bereid is/zijn mee te werken.",
 		"id": "c96aa4a6-ab6d-4df4-a682-446101873815",
 		"erk_voorbeeld_id": [
 			"98102144-9479-4f4f-ac62-f61d85008210",
 			"30dd5e95-5790-46ae-b58a-c641837b7c2e",
 			"3aadbaf2-a829-4008-9ea9-71754bd25f58"
-		]
+		],
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -19028,14 +19030,16 @@
 			"6f3d13b1-84cc-4920-a8dc-1585a2f279f4",
 			"4600b0b2-8d6a-422d-bb95-1c421e7a7560"
 		],
-		"title": "Kan actief deelnemen aan een onlinediscussie en tamelijk uitgebreid standpunten uiten en op standpunten van anderen reageren met betrekking tot belangwekkende onderwerpen, mits de bijdragers ongebruikelijk of complex taalgebruik vermijden en genoeg tijd geven om te antwoorden.",
-		"id": "f205b086-5fdf-4e9f-80d8-bc79b95f0d3a"
+		"title": "Kan actief deelnemen aan een online discussie en tamelijk uitgebreid standpunten uiten en op standpunten van anderen reageren met betrekking tot belangwekkende onderwerpen, mits de bijdragers ongebruikelijk of complex taalgebruik vermijden en genoeg tijd geven om te antwoorden.",
+		"id": "f205b086-5fdf-4e9f-80d8-bc79b95f0d3a",
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan deelnemen aan online-uitwisselingen en daarbij de eigen bijdragen in verband brengen met andere in de discussie, culturele implicaties begrijpen en er adequaat op reageren.",
+		"title": "Kan deelnemen aan online uitwisselingen en daarbij de eigen bijdragen in verband brengen met andere in de discussie, culturele implicaties begrijpen en er adequaat op reageren.",
 		"id": "c2bd3690-4aa9-45c1-9a30-601c907e3595",
 		"prefix": "",
 		"description": "",
@@ -19048,7 +19052,7 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan argumenten evalueren, herformuleren en ter discussie stellen in een professionele of academische rechtstreekse onlinebespreking of -discussie.",
+		"title": "Kan argumenten evalueren, herformuleren en ter discussie stellen in een professionele of academische rechtstreekse online bespreking of discussie.",
 		"id": "6a013e3c-7c75-4317-a871-31ff512481c0",
 		"prefix": "",
 		"description": "",
@@ -19061,7 +19065,7 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan het register afstemmen op de context van de online-interactie en zo nodig binnen dezelfde uitwisseling overschakelen van het ene naar het andere register.",
+		"title": "Kan het register afstemmen op de context van de online interactie en zo nodig binnen dezelfde uitwisseling overschakelen van het ene naar het andere register.",
 		"id": "43ae381e-32d2-48c7-91ff-2031bbbf182b",
 		"prefix": "",
 		"description": "",
