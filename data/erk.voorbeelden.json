@@ -5116,7 +5116,7 @@
 		"description": ""
 	},
 	{
-		"title": "Aan een vriend/in problemen op je werk/in je stage beschrijven.",
+		"title": "Aan een vriend/in problemen op je werk of in je stage beschrijven.",
 		"id": "8a510ebb-1323-4bad-9900-903a6a5acaa0",
 		"prefix": "",
 		"description": ""
@@ -5134,7 +5134,7 @@
 		"description": ""
 	},
 	{
-		"title": "Reageren op een brief/e-mail van een kennis of vriend die meldt dat die langdurig ziek is.",
+		"title": "Reageren op een brief of e-mail van een kennis of vriend die meldt dat die langdurig ziek is.",
 		"id": "8529da6c-67b9-479b-8ac8-26f2d4709a03",
 		"prefix": "",
 		"description": ""
@@ -5150,7 +5150,7 @@
 		"id": "30457651-6142-451e-8448-e90d75e7a5a9"
 	},
 	{
-		"title": "Met vrienden of collega's een schriftelijke uitwisseling per e-mail onderhouden waarin veel grappen en toespelingen op gezamenlijke kennissen of collega's voorkomen.",
+		"title": "Met vrienden of collega's een uitwisseling per e-mail onderhouden waarin veel grappen en toespelingen op gezamenlijke kennissen of collega's voorkomen.",
 		"id": "9b82aef7-cf73-42f8-a4aa-597dc3494564",
 		"prefix": "",
 		"description": ""
@@ -8598,7 +8598,7 @@
 	{
 		"id": "6479b08f-e6d9-4877-b07c-daa0fdd808a9",
 		"prefix": "",
-		"title": "Een bijdrage leveren in een groepsmail, bijvoorbeeld onder studenten van hetzelfde cursusjaar.",
+		"title": "Een bijdrage leveren aan een mailwisseling onder studenten van hetzelfde cursusjaar.",
 		"description": ""
 	},
 	{
