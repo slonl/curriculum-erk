@@ -11762,5 +11762,59 @@
 		"prefix": "",
 		"title": "Een kledingstuk.",
 		"description": ""
+	},
+	{
+		"id": "8272db57-a490-4c29-877b-8bbd4b53bd31",
+		"prefix": "",
+		"title": "Contactgegevens op de website van een restaurant of een winkel.",
+		"description": ""
+	},
+	{
+		"id": "9366c4c5-5a0c-44d9-8f47-679b0a3c2147",
+		"prefix": "",
+		"title": "Een eenvoudige menukaart met afbeeldingen en prijzen.",
+		"description": ""
+	},
+	{
+		"id": "c82b6b5e-67a1-47d7-a7d1-d33a83a5202c",
+		"prefix": "",
+		"title": "VOORBEELDEN VAN BRONNEN:",
+		"description": ""
+	},
+	{
+		"id": "963207e5-d151-4d28-9e3d-ce4208f56fee",
+		"prefix": "",
+		"title": "Prijzen van artikelen op een kaartje.",
+		"description": ""
+	},
+	{
+		"id": "dd2b6042-4ea4-4e8b-aa2f-755c3d16ebc9",
+		"prefix": "",
+		"title": "De zitplaatsbeschikbaarheid  op de plattegrond van een theater.",
+		"description": ""
+	},
+	{
+		"id": "67997026-6bd0-4ada-aaec-66a9c0be4113",
+		"prefix": "",
+		"title": "VOORBEELDEN VAN ACTIVITEITEN:",
+		"description": ""
+	},
+	{
+		"id": "d8472856-324e-445c-b126-e372f34b50d7",
+		"prefix": "",
+		"title": "De borden op een sportclub lezen en iemand vertellen waar de uitgang en de wc zijn.",
+		"description": ""
+	},
+	{
+		"id": "7b533b18-6d03-4179-9e65-d4ee56a047bc",
+		"prefix": "",
+		"title": "Tijdens een reis de prijzen van fruit bij een marktstal aan iemand doorgeven.",
+		"description": ""
+	},
+	{
+		"id": "dc1b80bc-44f3-43a2-964a-1975598e38fb",
+		"prefix": "",
+		"title": "Bij de douane de eigen bestemming doorgeven.",
+		"description": ""
 	}
 ]
