@@ -168,7 +168,7 @@
 		"description": ""
 	},
 	{
-		"title": "Een toelichting op de toelichtingscriteria en aanmeldingsprocedures voor studie in het buitenland.",
+		"title": "Een toelichting op de toelatingscriteria en aanmeldingsprocedures voor studie in het buitenland.",
 		"id": "3eab023d-705e-4822-9f0f-ecd03ea3ba6d",
 		"prefix": "",
 		"description": ""
@@ -5116,7 +5116,7 @@
 		"description": ""
 	},
 	{
-		"title": "Aan een vriend/in problemen op je werk/in je stage beschrijven.",
+		"title": "Aan een vriend/in problemen op je werk of in je stage beschrijven.",
 		"id": "8a510ebb-1323-4bad-9900-903a6a5acaa0",
 		"prefix": "",
 		"description": ""
@@ -5134,7 +5134,7 @@
 		"description": ""
 	},
 	{
-		"title": "Reageren op een brief/e-mail van een kennis of vriend die meldt dat die langdurig ziek is.",
+		"title": "Reageren op een brief of e-mail van een kennis of vriend die meldt dat die langdurig ziek is.",
 		"id": "8529da6c-67b9-479b-8ac8-26f2d4709a03",
 		"prefix": "",
 		"description": ""
@@ -5150,7 +5150,7 @@
 		"id": "30457651-6142-451e-8448-e90d75e7a5a9"
 	},
 	{
-		"title": "Met vrienden of collega's een schriftelijke uitwisseling per e-mail onderhouden waarin veel grappen en toespelingen op gezamenlijke kennissen of collega's voorkomen.",
+		"title": "Met vrienden of collega's een uitwisseling per e-mail onderhouden waarin veel grappen en toespelingen op gezamenlijke kennissen of collega's voorkomen.",
 		"id": "9b82aef7-cf73-42f8-a4aa-597dc3494564",
 		"prefix": "",
 		"description": ""
@@ -5400,7 +5400,7 @@
 		"id": "d0ae7de9-b58f-447e-99d0-a89beb861b90"
 	},
 	{
-		"title": "Je probleem met je nieuwe telefoon uitleggen via een chatbot/geautomatiseerde gesprekspartner.",
+		"title": "Je probleem met je nieuwe telefoon uitleggen aan een chatbot/geautomatiseerde gesprekspartner.",
 		"id": "62f1f1ba-bd61-44f4-8a72-d60be6ddf90c",
 		"prefix": "",
 		"description": ""
@@ -8594,7 +8594,7 @@
 	{
 		"id": "6479b08f-e6d9-4877-b07c-daa0fdd808a9",
 		"prefix": "",
-		"title": "Een bijdrage leveren in een groepsmail, bijvoorbeeld onder studenten van hetzelfde cursusjaar.",
+		"title": "Een bijdrage leveren aan een mailwisseling onder studenten van hetzelfde cursusjaar.",
 		"description": ""
 	},
 	{
@@ -8672,7 +8672,7 @@
 	{
 		"id": "2537316e-7e58-40de-8d92-6ff63b507835",
 		"prefix": "",
-		"title": "Een invulformulier met persoonlijke gegevens in een hotel, jeugdherberg of op een camping.",
+		"title": "Een invulformulier met persoonlijke gegevens in een hotel, jeugdherberg of op een camping: naam, adres, nationaliteit, burgerlijke staat.",
 		"description": ""
 	},
 	{
@@ -8810,7 +8810,7 @@
 	{
 		"id": "e324838c-fd39-4aad-a950-6f759f2dec17",
 		"prefix": "",
-		"title": "Het invullen van je e-mailadres om een account aan te maken op de site van een app.",
+		"title": "Het invullen van je e-mailadres om een account aan te maken op de site of in een app.",
 		"description": ""
 	},
 	{
@@ -8870,7 +8870,7 @@
 	{
 		"id": "f2cfca61-8045-4481-974d-0e4b1be4ccc7",
 		"prefix": "",
-		"title": "Op de site van een game of app vertellen wat je vindt van de nieuwe personages of verhaallijnen in die game.",
+		"title": "Op de site van een game vertellen wat je vindt van de nieuwe personages of verhaallijnen in die game.",
 		"description": ""
 	},
 	{
@@ -8936,7 +8936,7 @@
 	{
 		"id": "7c930a87-0243-451f-a556-3eea95181dbf",
 		"prefix": "",
-		"title": "Over de beoordeling van een restaurant in een online internationale community.",
+		"title": "Over de beoordeling van je bezoek aan een restaurant in een online internationale community.",
 		"description": ""
 	},
 	{
@@ -8948,7 +8948,7 @@
 	{
 		"id": "7decd7bb-c1d9-43c2-bcb0-e367c5980ac7",
 		"prefix": "",
-		"title": "Jezelf voorstellen in een digitale leeromgeving en aan je klasgenoten vertellen wat je leuk lijkt aan het lesprogramma via een video-verbinding.",
+		"title": "Jezelf voorstellen in een digitale leeromgeving en aan je klasgenoten vertellen wat je leuk lijkt aan het lesprogramma via een videoverbinding.",
 		"description": ""
 	},
 	{
@@ -8990,7 +8990,7 @@
 	{
 		"id": "7dcb0bd2-47fa-4750-ad11-b43400a09464",
 		"prefix": "",
-		"title": "Online verslag doen van deelname aan een inzamelingsactie met toevoeging van foto's/video.",
+		"title": "Online verslag doen van deelname aan een inzamelingsactie met toevoeging van foto's of een video.",
 		"description": ""
 	},
 	{
@@ -9062,7 +9062,7 @@
 	{
 		"id": "85f1e6e0-e412-41f2-ab45-8ac76b0d9980",
 		"prefix": "",
-		"title": "Reageren op een discussie in een internationale besloten facebookgroep.",
+		"title": "Reageren op een discussie op een internationaal online platform.",
 		"description": ""
 	},
 	{
@@ -9428,7 +9428,7 @@
 	{
 		"id": "0820143a-b4ba-422e-8204-1015a3e5f4ea",
 		"prefix": "",
-		"title": "Tijdens een online intakegesprek een online formulier voor een bijbaantje invullen met motivatie, beschikbaarheid en voorkeuren over taken en tijden.",
+		"title": "In een online intakegesprek voor een bijbaantje je motivatie, beschikbaarheid en voorkeuren voor taken en tijden bespreken.",
 		"description": ""
 	},
 	{
@@ -9494,7 +9494,7 @@
 	{
 		"id": "fea59dbc-1b8a-4896-812b-86ea6e9165cb",
 		"prefix": "",
-		"title": "Mensen met verschillende culturele achtergronden helpen via een app in de zorgsector.",
+		"title": "Cliënten in de zorgsector met verschillende culturele achtergronden helpen via een app.",
 		"description": ""
 	},
 	{
@@ -11757,6 +11757,60 @@
 		"id": "d56f0e01-a24a-4a58-80e2-df79ff5be2de",
 		"prefix": "",
 		"title": "Een kledingstuk.",
+		"description": ""
+	},
+	{
+		"id": "8272db57-a490-4c29-877b-8bbd4b53bd31",
+		"prefix": "",
+		"title": "Contactgegevens op de website van een restaurant of een winkel.",
+		"description": ""
+	},
+	{
+		"id": "9366c4c5-5a0c-44d9-8f47-679b0a3c2147",
+		"prefix": "",
+		"title": "Een eenvoudige menukaart met afbeeldingen en prijzen.",
+		"description": ""
+	},
+	{
+		"id": "c82b6b5e-67a1-47d7-a7d1-d33a83a5202c",
+		"prefix": "",
+		"title": "VOORBEELDEN VAN BRONNEN:",
+		"description": ""
+	},
+	{
+		"id": "963207e5-d151-4d28-9e3d-ce4208f56fee",
+		"prefix": "",
+		"title": "Prijzen van artikelen op een kaartje.",
+		"description": ""
+	},
+	{
+		"id": "dd2b6042-4ea4-4e8b-aa2f-755c3d16ebc9",
+		"prefix": "",
+		"title": "De zitplaatsbeschikbaarheid  op de plattegrond van een theater.",
+		"description": ""
+	},
+	{
+		"id": "67997026-6bd0-4ada-aaec-66a9c0be4113",
+		"prefix": "",
+		"title": "VOORBEELDEN VAN ACTIVITEITEN:",
+		"description": ""
+	},
+	{
+		"id": "d8472856-324e-445c-b126-e372f34b50d7",
+		"prefix": "",
+		"title": "De borden op een sportclub lezen en iemand vertellen waar de uitgang en de wc zijn.",
+		"description": ""
+	},
+	{
+		"id": "7b533b18-6d03-4179-9e65-d4ee56a047bc",
+		"prefix": "",
+		"title": "Tijdens een reis de prijzen van fruit bij een marktstal aan iemand doorgeven.",
+		"description": ""
+	},
+	{
+		"id": "dc1b80bc-44f3-43a2-964a-1975598e38fb",
+		"prefix": "",
+		"title": "Bij de douane de eigen bestemming doorgeven.",
 		"description": ""
 	}
 ]
