@@ -11852,5 +11852,65 @@
 		"prefix": "",
 		"title": "Voorbeeld van activiteiten - Iemand laten weten wanneer de trein aankomt.",
 		"description": ""
+	},
+	{
+		"id": "f036a04b-9dfc-4eeb-bad7-bc1d0a9ca3f3",
+		"prefix": "",
+		"title": "Voorbeeld van bronnen - Online uitgaansagenda's.",
+		"description": ""
+	},
+	{
+		"id": "d7dec285-24bf-41e4-8788-7f42c519c344",
+		"prefix": "",
+		"title": "Voorbeeld van bronnen - Informatie over tijden van vergaderingen, werktijden, pauzes.",
+		"description": ""
+	},
+	{
+		"id": "4e66e921-762d-41de-a937-3b4b8a7d6d50",
+		"prefix": "",
+		"title": "Voorbeeld van bronnen - De tijd en locatie van een feestje, excursie of een schoolactiviteit.",
+		"description": ""
+	},
+	{
+		"id": "69d1adaf-1c58-4ff1-8b08-8d7b6c8d543c",
+		"prefix": "",
+		"title": "Voorbeeld van bronnen - Openingstijden van een winkel, restaurant of kantine.",
+		"description": ""
+	},
+	{
+		"id": "53703d6e-a930-4006-9b63-12859601f548",
+		"prefix": "",
+		"title": "Voorbeeld van bronnen - Vertrek- en aankomsttijden van het openbaar vervoer.",
+		"description": ""
+	},
+	{
+		"id": "e78b073e-c99d-4e92-b1f9-a57477bb225d",
+		"prefix": "",
+		"title": "Voorbeeld van activiteiten - Informatie uit de bioscoopagenda van de stad aan een vriend doorgeven.",
+		"description": ""
+	},
+	{
+		"id": "2e90ea3e-534e-4e4a-a7b0-0a47cb4fc7e8",
+		"prefix": "",
+		"title": "Voorbeeld van activiteiten - Een bezorgingstijd doorgeven aan je huisgenoten.",
+		"description": ""
+	},
+	{
+		"id": "b0bea6f7-1d75-4d91-b3aa-b17ff8494012",
+		"prefix": "",
+		"title": "Voorbeeld van activiteiten - Het tijdstip laten weten waarop iemand online is.",
+		"description": ""
+	},
+	{
+		"id": "9d226c23-1d9f-44bf-8e81-b65b1309b46d",
+		"prefix": "",
+		"title": "Voorbeeld van activiteiten - De tijd van een evenement op school doorgeven aan de buitenlandse ouders van een klasgenoot.",
+		"description": ""
+	},
+	{
+		"id": "9ae43f7b-41bc-4536-b830-4811fcb8168d",
+		"prefix": "",
+		"title": "Voorbeeld van activiteiten - De aanvangstijd van een feestje doorgeven.",
+		"description": ""
 	}
 ]
