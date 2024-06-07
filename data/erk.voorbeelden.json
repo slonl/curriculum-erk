@@ -11912,5 +11912,47 @@
 		"prefix": "",
 		"title": "Voorbeeld van activiteiten - De aanvangstijd van een feestje doorgeven.",
 		"description": ""
+	},
+	{
+		"id": "5517fd1c-f285-488f-bc83-9b2d6d287894",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan een nieuwe klasgenoot doorgeven wanneer je een laptop mag gebruiken tijdens de les.",
+		"description": ""
+	},
+	{
+		"id": "8d80970e-c26a-45e2-b9db-a930efe9e425",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Richtlijnen in geval van slechte weeromstandigheden of noodgevallen.",
+		"description": ""
+	},
+	{
+		"id": "cd6deef3-cec0-4eb1-b0b3-a1fa216f30db",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een mondelinge afzegging.",
+		"description": ""
+	},
+	{
+		"id": "f72c6e5a-0984-4285-86f8-efbc4af0031c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Aanwijzingen van ouders of leraren.",
+		"description": ""
+	},
+	{
+		"id": "7af6849d-b393-4f58-9a04-86c8ca72a3f5",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Doorgeven bij welke omstandigheden je wel of niet mag surfen op zee.",
+		"description": ""
+	},
+	{
+		"id": "02452aae-dc67-4400-a5fc-eddc6c43ef6a",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Iemand excuseren voor de afwezigheid bij een bijeenkomst of een afspraak.",
+		"description": ""
+	},
+	{
+		"id": "d737bbd6-d8a9-4dcf-adf8-246fc0035740",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Wijzigingen in de vertrektijden of de aansluiting met een ander vervoermiddel doorgeven.",
+		"description": ""
 	}
 ]
