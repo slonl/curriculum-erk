@@ -11954,5 +11954,59 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Wijzigingen in de vertrektijden of de aansluiting met een ander vervoermiddel doorgeven.",
 		"description": ""
+	},
+	{
+		"id": "3b47eccc-9c56-42bd-908a-9179d55a5fae",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een eenvoudig videorecept.",
+		"description": ""
+	},
+	{
+		"id": "5995667b-4b3e-4af0-9c6a-c6850fc8b372",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Video-instructies voor het bouwen van speelgoed.",
+		"description": ""
+	},
+	{
+		"id": "d5afec1d-b0c9-4cb7-b8c5-e076dced932f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een internetfilmpje met tekeninstructies.",
+		"description": ""
+	},
+	{
+		"id": "74bb43e3-1ec7-4743-b654-9cfb82224cf9",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Instructies om een apparaat te beheren of software te installeren.",
+		"description": ""
+	},
+	{
+		"id": "18fedf0e-c5a8-4795-bdad-60657ed51e4f",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De aanwijzingen van een verkeersagent uitleggen aan de bestuurder van de auto.",
+		"description": ""
+	},
+	{
+		"id": "5942e006-438a-4568-99c0-34023185e1f2",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De uitleg van de museummedewerker over de route doorgeven aan een toerist.",
+		"description": ""
+	},
+	{
+		"id": "89e77334-b5e2-419c-9898-0ce46cbf65ce",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Naar aanleiding van een instructiefilmpje aan een vriend uitleggen hoe je een liedje speelt op de gitaar.",
+		"description": ""
+	},
+	{
+		"id": "118996a2-9018-4324-b834-25bab74a6822",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Naar aanleiding van een workshop aan iemand voordoen hoe je een taart bakt.",
+		"description": ""
+	},
+	{
+		"id": "a6b830b4-5b9a-40bb-8d93-67c9dc74b81c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Na de uitleg van de docent aan een leeftijdsgenootje vertellen hoe een kluisje werkt op school of in het zwembad.",
+		"description": ""
 	}
 ]
