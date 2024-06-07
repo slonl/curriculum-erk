@@ -2212,7 +2212,15 @@
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
 		"title": "Kan (in taal B) eenvoudige instructies over plaatsen en tijden (gegeven in taal A) overbrengen, mits deze zeer langzaam en duidelijk worden herhaald.",
-		"id": "bd3986fb-1ca1-452c-807a-a7d73ed7f764"
+		"id": "bd3986fb-1ca1-452c-807a-a7d73ed7f764",
+		"erk_voorbeeld_id": [
+			"37000a36-2b31-4634-88f2-1f462752d961",
+			"34668d3d-9706-4717-8e3c-670de0a7a1ea",
+			"cdd83681-8d00-422d-83e2-99cd86c6ffa3",
+			"3344ed77-a86b-4900-b3b5-41ee5fdeafc1",
+			"153b61a5-3b01-47f9-b065-6fe4af18804a",
+			"288497ba-4160-4ed0-afe9-91ddc6615bee"
+		]
 	},
 	{
 		"niveau_id": [
