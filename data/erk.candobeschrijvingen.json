@@ -2289,7 +2289,18 @@
 		"title": "Kan (in taal B) specifieke, relevante informatie overbrengen uit korte, eenvoudige teksten, etiketten en kennisgevingen (in taal A) over vertrouwde onderwerpen.",
 		"id": "512b23aa-c940-4040-a339-0e7bbc06e065",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"121c805c-9451-4877-a5a0-e77975998db4",
+			"b4297317-4a13-4006-98fb-c4bd35f8a2a1",
+			"378bfb87-6c99-4990-adb6-6e0163d9b920",
+			"fe7ef65e-d303-4797-8f01-952e121441b0",
+			"3e8cd381-0c5c-4f37-99ec-82fa8cf95f0b",
+			"bfa42aae-4355-4104-9a77-c767b1acf13b",
+			"c4e378be-749f-443f-a533-6c73a227979d",
+			"5462f0c4-3414-4a43-87a8-39a4acaa4cb1",
+			"e6ba5d66-92ed-491e-88ac-085c525f25eb"
+		]
 	},
 	{
 		"niveau_id": [
