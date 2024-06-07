@@ -2297,7 +2297,16 @@
 		"title": "Kan (in taal B) het punt overbrengen dat wordt gemaakt in duidelijke mededelingen (in taal A) met betrekking tot vertrouwde alledaagse onderwerpen, al zal nodig zijn de boodschap te vereenvoudigen en naar woorden te zoeken.",
 		"id": "2a499d8b-6be8-44db-87ad-be93207b7fd8",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"2a38846d-c8e4-4490-b1f2-3385e29e0964",
+			"189856ed-174c-4382-ba7f-e2923c561e0e",
+			"4ff24dbb-a0c5-4665-8896-7edafa2f0042",
+			"792ad5a4-f9df-411a-8658-bcfd6687c754",
+			"022805a8-452f-485e-8ff9-e3714565798d",
+			"0626bcff-9499-43b8-b74a-b37c4cde3ae2",
+			"a9a802ca-7419-4892-a921-8b8c9633cad5"
+		]
 	},
 	{
 		"niveau_id": [
