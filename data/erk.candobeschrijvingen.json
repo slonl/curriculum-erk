@@ -2250,7 +2250,18 @@
 		"title": "Kan (in taal B) op een eenvoudige manier een reeks korte, eenvoudige instructies overbrengen, mits de originele informatie (in taal A) duidelijk en langzaam gearticuleerd wordt.",
 		"id": "c08babc8-43fc-4b78-af1e-8da7a14bc20f",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"3b47eccc-9c56-42bd-908a-9179d55a5fae",
+			"5995667b-4b3e-4af0-9c6a-c6850fc8b372",
+			"d5afec1d-b0c9-4cb7-b8c5-e076dced932f",
+			"74bb43e3-1ec7-4743-b654-9cfb82224cf9",
+			"18fedf0e-c5a8-4795-bdad-60657ed51e4f",
+			"5942e006-438a-4568-99c0-34023185e1f2",
+			"89e77334-b5e2-419c-9898-0ce46cbf65ce",
+			"118996a2-9018-4324-b834-25bab74a6822",
+			"a6b830b4-5b9a-40bb-8d93-67c9dc74b81c"
+		]
 	},
 	{
 		"niveau_id": [
