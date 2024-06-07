@@ -2229,7 +2229,19 @@
 		"title": "Kan (in taal B) eenvoudige, voorspelbare informatie over tijden en plaatsen overbrengen die is gegeven in korte, eenvoudige verklaringen (gegeven in taal A).",
 		"id": "2c957225-5956-446d-a2e9-6fb98b7ee191",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"f036a04b-9dfc-4eeb-bad7-bc1d0a9ca3f3",
+			"d7dec285-24bf-41e4-8788-7f42c519c344",
+			"4e66e921-762d-41de-a937-3b4b8a7d6d50",
+			"69d1adaf-1c58-4ff1-8b08-8d7b6c8d543c",
+			"53703d6e-a930-4006-9b63-12859601f548",
+			"e78b073e-c99d-4e92-b1f9-a57477bb225d",
+			"2e90ea3e-534e-4e4a-a7b0-0a47cb4fc7e8",
+			"b0bea6f7-1d75-4d91-b3aa-b17ff8494012",
+			"9d226c23-1d9f-44bf-8e81-b65b1309b46d",
+			"9ae43f7b-41bc-4536-b830-4811fcb8168d"
+		]
 	},
 	{
 		"niveau_id": [
