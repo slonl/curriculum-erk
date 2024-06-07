@@ -2257,7 +2257,16 @@
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
 		"title": "Kan (in taal B) het punt overbrengen dat wordt gemaakt in korte, heldere, eenvoudige berichten, instructies en mededelingen, mits deze langzaam en duidelijk zijn uitgedrukt in eenvoudige taal (in taal A).",
-		"id": "b3d5da71-6b29-44cb-b583-9e4009f13b8e"
+		"id": "b3d5da71-6b29-44cb-b583-9e4009f13b8e",
+		"erk_voorbeeld_id": [
+			"8d80970e-c26a-45e2-b9db-a930efe9e425",
+			"cd6deef3-cec0-4eb1-b0b3-a1fa216f30db",
+			"f72c6e5a-0984-4285-86f8-efbc4af0031c",
+			"7af6849d-b393-4f58-9a04-86c8ca72a3f5",
+			"d737bbd6-d8a9-4dcf-adf8-246fc0035740",
+			"02452aae-dc67-4400-a5fc-eddc6c43ef6a",
+			"5517fd1c-f285-488f-bc83-9b2d6d287894"
+		]
 	},
 	{
 		"niveau_id": [
