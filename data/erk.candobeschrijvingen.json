@@ -2490,7 +2490,18 @@
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
 		"title": "Kan (in taal B) een overzicht geven van specifieke informatie uit eenvoudige teksten (in taal A) over alledaagse onderwerpen van direct belang.",
-		"id": "aed8b2c4-b738-4995-a4f5-57c33fc558c9"
+		"id": "aed8b2c4-b738-4995-a4f5-57c33fc558c9",
+		"erk_voorbeeld_id": [
+			"fdc24573-66dd-4eb8-bab7-5216a2467bff",
+			"40f75e49-2c05-4f20-8702-944a011e7a6a",
+			"a1ed1af0-bb85-4547-b8a8-f8cba84d4958",
+			"681fb327-e516-4f0d-85ce-0a284dd8631a",
+			"45611c3a-67b2-4213-b442-f4738da9d9a6",
+			"2c396343-800f-4b25-848d-97e4583217ed",
+			"ae6cf35e-3729-4228-873c-6d755e121872",
+			"6d3ba5b1-9ae0-418e-9b95-94b2c02b67dc",
+			"81182e2e-91c3-4f3a-8c6a-f6320be1b38d"
+		]
 	},
 	{
 		"niveau_id": [
@@ -2499,7 +2510,16 @@
 		"title": "Kan (in taal B) een overzicht geven van de belangrijkste punten van korte, duidelijke, eenvoudige berichten en kennisgevingen (in taal A), mits ze duidelijk en langzaam gearticuleerd worden.",
 		"id": "79f8ce36-2c53-4a69-95e9-9ed5d6444ed7",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"c88f8d8d-6005-4ea9-a52f-74d64302b85e",
+			"0bbc468d-ad27-4b05-85be-90eafacfcd12",
+			"83b1aa39-2011-48bb-a816-e4d6f2e8ed14",
+			"565a1ae9-fa42-4280-b2bd-a6b01eb0343f",
+			"5ec0bda0-c8f1-4b7b-99ae-d1972efa5efb",
+			"deaff183-f463-4382-b54d-eabbc2b05458",
+			"ffc6169c-758a-4efe-ae80-8e75e6cb5978"
+		]
 	},
 	{
 		"niveau_id": [
