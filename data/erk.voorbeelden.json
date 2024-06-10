@@ -12230,5 +12230,71 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Aanwijzingen over online etiquette en digitale privacy doorgeven.",
 		"description": ""
+	},
+	{
+		"id": "b2e6fccb-2556-4515-aaf8-a78ba8aef0ca",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een bericht of een aankondiging op de radio, op TV of op een website.",
+		"description": ""
+	},
+	{
+		"id": "992dfe8d-0694-4844-abfb-6a5c64ea032a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een oproep op het station of het vliegveld.",
+		"description": ""
+	},
+	{
+		"id": "77e4da4d-189d-4beb-82ae-1087ad3f42ba",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een waarschuwing van de politie na een verkeersongeluk of bij een noodsituatie.",
+		"description": ""
+	},
+	{
+		"id": "002c703d-a8c2-4bd3-837c-d0cf0e21819b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een aankondiging van speciale initiatieven op een beurs.",
+		"description": ""
+	},
+	{
+		"id": "d5b78fbe-5ebf-438a-b12f-3e8ce11e8876",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een omgeroepen aanbieding in een warenhuis.",
+		"description": ""
+	},
+	{
+		"id": "c54a1898-7ab3-4353-bb2d-5716e9bb53b1",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een aankondiging op school.",
+		"description": ""
+	},
+	{
+		"id": "b3bbf07e-50ac-42e7-be69-68468d290967",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Iemand vertellen over een alternatieve route op basis van een omroepbericht over een gewijzigde situatie in het openbaar vervoer.",
+		"description": ""
+	},
+	{
+		"id": "57dd9b8a-a484-40bf-baca-2d484d232451",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De inhoud van het gesprek met een politieagent over een verkeersomleiding samenvatten voor medepassagiers.",
+		"description": ""
+	},
+	{
+		"id": "c3b785f8-996a-44e5-93ce-1114ee535906",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een aankondiging van de rector over het programma van de sportdag vertalen voor een uitwisselingsstudent.",
+		"description": ""
+	},
+	{
+		"id": "e79ad161-35bd-4cfd-8d1f-781a264a7af4",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De belangrijkste inhoud van een persconferentie over nieuwe regels voor scholen vertellen aan een vriend. ",
+		"description": ""
+	},
+	{
+		"id": "a983903a-aff9-4219-b832-da1f2d2d2490",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Informatie over de aankomende tournee van een artiest doorgeven.",
+		"description": ""
 	}
 ]
