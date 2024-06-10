@@ -2641,7 +2641,16 @@
 		"title": "Kan (in taal B) schriftelijk het belangrijkste punt of de belangrijkste punten overbrengen in inhoudelijk complexe, maar goed gestructureerde teksten (in taal A) in het eigen professionele, academische en persoonlijke interessegebied.",
 		"id": "29a1515b-22f6-47b0-945e-b7818e7a3b76",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"2e2e45f4-aab1-4d55-8bee-a6c47d9a0aaf",
+			"dd6c6305-358b-4030-a564-7327c3894ef6",
+			"2c311847-5b6a-409c-8268-ce9af464097c",
+			"01ea43e6-d3b4-49f3-b70e-242ebfaa0682",
+			"487d2708-5c75-4d24-b852-6d706808907f",
+			"5f100f5b-d018-40c9-88a0-4df68d3591f9",
+			"b96cdbe9-47b6-4412-9c1e-38b54456de85"
+		]
 	},
 	{
 		"niveau_id": [
