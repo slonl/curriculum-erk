@@ -12296,5 +12296,59 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Informatie over de aankomende tournee van een artiest doorgeven.",
 		"description": ""
+	},
+	{
+		"id": "98c28cc3-e235-45a2-b37b-cad8ed55eb8c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een brief van de overheid over bepaalde regels of procedures.",
+		"description": ""
+	},
+	{
+		"id": "85dfba96-94b8-4b50-910e-2aae893a810d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De voorwaarden van een verzekering of een hypotheek.",
+		"description": ""
+	},
+	{
+		"id": "6b75714b-3e28-4259-ac91-e884a32db40c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De toelichting van een onderzoek in het ziekenhuis.",
+		"description": ""
+	},
+	{
+		"id": "932aa7c1-ab8e-4798-a627-3faa7d5a4e0c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een mededeling van de directie over de invoering van nieuw beleid.",
+		"description": ""
+	},
+	{
+		"id": "d44819cc-f93b-4c3c-9fb1-697fc7643f20",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Het verslag van een bestuursvergadering.",
+		"description": ""
+	},
+	{
+		"id": "977dd594-bba4-46e9-a2a0-ca0c3e219b7a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De regels voor het verkrijgen van een studiebeurs.",
+		"description": ""
+	},
+	{
+		"id": "eb34d203-1d2a-4b77-92f3-4bfda4acbdd8",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan buitenlandse studenten uitleggen hoe ze een vergoeding voor het openbaar vervoer kunnen aanvragen.",
+		"description": ""
+	},
+	{
+		"id": "3b4129b8-a077-42b0-84e4-9b4a102620f2",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan iemand die niet zo goed Nederlands spreekt, uitleggen wat er in de brief van de gemeente staat over het aanvragen van een document.",
+		"description": ""
+	},
+	{
+		"id": "2e399d2f-e7c3-4e2e-b2bb-90b8f8a48fea",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan het thuisfront vertellen over de inhoud de cursus die je in het buiteland volgt en de feedback die je van de docenten hebt gekregen.",
+		"description": ""
 	}
 ]
