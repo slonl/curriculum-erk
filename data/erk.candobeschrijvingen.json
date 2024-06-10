@@ -2632,7 +2632,12 @@
 		"title": "Kan (in taal B) schriftelijk het belangrijkste punt of de belangrijkste punten overbrengen in een artikel (in taal A) in een academisch tijdschrift of vakblad.\n",
 		"id": "9019e031-3833-427f-b7fc-04356185dffa",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"b7d8391f-19ef-41ff-8ace-dc85c79ad519",
+			"83a5d55d-80c4-4d04-86a4-a81ac0d380fe",
+			"ad91a832-6e03-4a7b-8c84-9b0fe0b0fe04"
+		]
 	},
 	{
 		"niveau_id": [
