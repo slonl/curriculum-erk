@@ -2553,7 +2553,16 @@
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
 		"title": "Kan (in taal B) schriftelijk specifieke, relevante informatie overbrengen uit eenduidige informatieve teksten (in taal A) over vertrouwde onderwerpen.",
-		"id": "208bae08-685d-4bc2-b337-6273592fe31d"
+		"id": "208bae08-685d-4bc2-b337-6273592fe31d",
+		"erk_voorbeeld_id": [
+			"d883629a-61d1-4e2c-a816-b1a2de8a6de1",
+			"315111db-9673-48f1-aec7-369d8b2d9fa9",
+			"78acad08-4d0d-4807-9ace-35229f6c006a",
+			"b2af4791-f175-4803-a276-cec35e936b6f",
+			"1039a424-141a-4f41-8f83-b4a25cba6fcd",
+			"68faa55b-f383-476f-9e11-e6bb2ea6abc3",
+			"3d5ac766-64e5-4e17-a1ab-74815d15ed38"
+		]
 	},
 	{
 		"niveau_id": [
