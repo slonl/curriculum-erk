@@ -2405,10 +2405,18 @@
 		"niveau_id": [
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
-		"title": "Kan (in taal B) overbrengen welke presentaties die zijn gegeven (in taal A) tijdens een conferentie, welke artikelen in een boek (in taal A) in het bijzonder relevant zijn voor een specifiek doel.",
+		"title": "Kan (in taal B) overbrengen welke presentaties die zijn gegeven (in taal A) tijdens een conferentie, of welke artikelen in een boek (in taal A) in het bijzonder relevant zijn voor een specifiek doel.",
 		"id": "626745f6-267e-4e96-8509-d382dd7327fa",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"927b569b-d61a-4c1a-8fbf-3b267a9be481",
+			"6d240891-aa11-4dc5-9c2f-c8ba1c261471",
+			"ed736d3d-0ed5-47cb-9b65-a85bd7ad007b",
+			"9d5146ee-eb54-4ae0-8b63-53ebef2a1d7c",
+			"17b9bd1c-db5c-430d-9648-b83afe05bec8",
+			"8cfd2434-b716-47a7-9835-161f175aa6b3"
+		]
 	},
 	{
 		"niveau_id": [
