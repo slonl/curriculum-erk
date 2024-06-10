@@ -12896,5 +12896,41 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - De hoogtepunten uit de webinars op de site van een congres beschrijven in een artikel.",
 		"description": ""
+	},
+	{
+		"id": "2e2e45f4-aab1-4d55-8bee-a6c47d9a0aaf",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een podcast over een maatschappelijk thema.",
+		"description": ""
+	},
+	{
+		"id": "dd6c6305-358b-4030-a564-7327c3894ef6",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een live of opgenomen politiek debat.",
+		"description": ""
+	},
+	{
+		"id": "2c311847-5b6a-409c-8268-ce9af464097c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een lezing.",
+		"description": ""
+	},
+	{
+		"id": "487d2708-5c75-4d24-b852-6d706808907f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een biografie.",
+		"description": ""
+	},
+	{
+		"id": "01ea43e6-d3b4-49f3-b70e-242ebfaa0682",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een boek over wereldproblematiek of een historisch onderwerp.",
+		"description": ""
+	},
+	{
+		"id": "b96cdbe9-47b6-4412-9c1e-38b54456de85",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De hoogtepunten van een debatteerwedstrijd samenvatten voor de website van de school.",
+		"description": ""
 	}
 ]
