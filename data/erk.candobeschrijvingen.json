@@ -2425,7 +2425,19 @@
 		"title": "Kan (in taal B) het belang uitleggen van specifieke informatie in een bepaald deel van een lange, complexe tekst (in taal A).",
 		"id": "cd51029e-b98a-4238-939e-2ccf9b17103a",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"e99e77d8-d9c8-4807-a3d7-fa6ea4ba903b",
+			"3bb08048-f302-400a-a3e5-9b939b2ccad4",
+			"69b7c3f3-a5f6-4575-97e9-9d4db4ec337f",
+			"3fcceb48-58bc-441b-ae37-2aa4b427a565",
+			"a5a85193-47f9-4455-bac1-5f1b25e2d95c",
+			"5260e16e-9f36-407d-9c82-7a7d7b52253d",
+			"e2807931-699c-4d38-b60a-e252884132ae",
+			"b1120aa4-ebd2-457f-8a54-9efe72354838",
+			"3f596159-242c-4d73-89e2-a50ee250f40c",
+			"8fbbb5c5-ec6f-423f-84cf-f678d11166af"
+		]
 	},
 	{
 		"niveau_id": [
