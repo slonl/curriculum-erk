@@ -12116,5 +12116,83 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Aan een klasgenoot vertellen welke dierenweetjes er op de borden in de dierentuin staan.",
 		"description": ""
+	},
+	{
+		"id": "3d127ed6-8e88-4b3e-9c24-0aa6ed47a46e",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De nieuwsbrief van de school.",
+		"description": ""
+	},
+	{
+		"id": "e57be393-6768-446f-a8e0-83e8740485bd",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De online nieuwsbrief van een winkel.",
+		"description": ""
+	},
+	{
+		"id": "4c904273-d921-4f22-b5fb-bcab2582739b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Websites.",
+		"description": ""
+	},
+	{
+		"id": "a24bd9e1-ff91-4985-98d4-f76813542fe4",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Reisgidsen.",
+		"description": ""
+	},
+	{
+		"id": "6020c7bc-2bf7-4acd-975b-549a0d0e9351",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Informatieborden bij een tentoonstelling.",
+		"description": ""
+	},
+	{
+		"id": "88a7e20f-28a3-4bca-91bd-770dfdb19f39",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Huisregels van een sportclub.",
+		"description": ""
+	},
+	{
+		"id": "8232e975-1ffd-4ac3-9e1e-27d90d79409c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Veiligheidsregels in een gebouw.",
+		"description": ""
+	},
+	{
+		"id": "70c60d7d-bb52-42bc-9de2-4baf35ee5e09",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De beschrijving van de inhoud van een cursus.",
+		"description": ""
+	},
+	{
+		"id": "537bf60f-2366-4017-bece-b067bf855faf",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Voorwaarden voor deelname aan een evenement.",
+		"description": ""
+	},
+	{
+		"id": "4b2d286d-bc7d-45dd-a9f0-33a4c476bf1b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Iemand vertellen over de culturele evenementen in de stad.",
+		"description": ""
+	},
+	{
+		"id": "82839a7e-6938-4151-8632-284c0fb9709a",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Informatie over een vakantiebestemming doorgeven aan een vriend.",
+		"description": ""
+	},
+	{
+		"id": "ff24eea9-a8fc-4567-b3e8-fd97d574899a",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De bevestiging van deelname aan een evenement en de bijbehorende informatie daarover doorgeven.",
+		"description": ""
+	},
+	{
+		"id": "f785e1f6-8bba-4129-91fa-da9700dd213e",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Informatie over verschillende alternatieve opties van een abonnement toelichten.",
+		"description": ""
 	}
 ]
