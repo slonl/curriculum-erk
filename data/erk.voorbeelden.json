@@ -12830,5 +12830,71 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - De conclusies en het vervolg van een medisch onderzoek voor een patiënt samenvatten in een verslag.",
 		"description": ""
+	},
+	{
+		"id": "3be6dd96-b189-4419-bf11-9e702a2d48fc",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een brief van de verhuurder van een studentenkamer.",
+		"description": ""
+	},
+	{
+		"id": "4f27442b-63c3-4066-87de-704e6fa10e9f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een brief van de verzekering.",
+		"description": ""
+	},
+	{
+		"id": "7a4b386c-5dcb-415d-945a-9c5b7963eeba",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een brief van de schoolleiding aan ouders.",
+		"description": ""
+	},
+	{
+		"id": "0978cde5-1e2d-4ad0-b05a-946d3b3844a0",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een brief met de dienstvoorwaarden van het abonnement voor je mobiele telefoon.",
+		"description": ""
+	},
+	{
+		"id": "bdd50013-0366-45b2-9f14-2f8e172d4fb7",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De voorwaarden van de reisverzekering opschrijven voor familieleden.",
+		"description": ""
+	},
+	{
+		"id": "120359b0-9442-404d-b8f4-6581af11c61b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De hoogtepunten uit de reactie van de overheid op het verzoek voor een vergunning doorgeven in een mail.",
+		"description": ""
+	},
+	{
+		"id": "23a0258b-f6b3-446b-885e-c8e440805eaf",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De belangrijkste informatie over de aanmeldingsprocedure voor een Erasmus-programma opsommen in een memo voor de familie.",
+		"description": ""
+	},
+	{
+		"id": "01164e4b-de37-4c0b-bd8e-b75ec73c4336",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De belangrijkste punten van een medisch verslag of diagnosevaststelling doorgeven aan een arts in het buitenland.",
+		"description": ""
+	},
+	{
+		"id": "48e2e54c-4b27-4edf-b192-328bec0c4422",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Presentaties in de eigen of een andere taal over werk- of studiegerelateerde onderwerpen, actuele thema's of onderwerpen van de eigen interesse.",
+		"description": ""
+	},
+	{
+		"id": "041d7d2b-b26d-47d0-b18a-dd837a69c0ee",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Verslag doen van de relevante inhoud van bijgewoonde presentaties tijdens een conferentie.",
+		"description": ""
+	},
+	{
+		"id": "a3b7bcbc-5d56-4b7c-ae5e-7e973f0b7774",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De hoogtepunten uit de webinars op de site van een congres beschrijven in een artikel.",
+		"description": ""
 	}
 ]
