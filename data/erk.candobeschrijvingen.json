@@ -2528,7 +2528,16 @@
 		"title": "Kan (in taal B) schriftelijk specifieke, relevante informatie overbrengen uit korte, eenvoudige informatieve teksten (in taal A), mits de betreffende teksten over concrete, vertrouwde onderwerpen gaan en zijn geformuleerd in eenvoudige alledaagse taal.",
 		"id": "8d8e7044-ad65-4345-b8bb-fc9d127a4cd1",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"ac6e4be9-d99e-4d08-b791-d15afb5d4baf",
+			"f9ed5109-6bfd-4313-b092-ef2270771089",
+			"2e46c2bc-5233-4a9c-9bd0-8a4deb3889a4",
+			"ce9b710e-0067-452a-a5b1-42d67a16a0c1",
+			"a458b145-001c-4d84-807f-ee41c477bf27",
+			"388149fa-b3ea-4284-94ee-6254fc055a2e",
+			"136add73-dab5-4ab0-bb35-e35e769847d5"
+		]
 	},
 	{
 		"niveau_id": [
@@ -2550,10 +2559,23 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan (in taal B) schriftelijk specifieke, relevante informatie overbrengen uit teksten (in taal A) over vertrouwde onderwerpen (bijvoorbeeld telefoongesprekken, mededelingen en instructies).",
+		"title": "Kan (in taal B) schriftelijk specifieke, relevante informatie overbrengen uit teksten (in taal A) over vertrouwde onderwerpen.",
 		"id": "6888ad5a-4baf-43e2-bacd-5c2527ec3cd4",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"e1d5627b-3974-4cb2-a8dc-a79d62bf549e",
+			"00a9d883-e5e7-44ef-96be-af675e7ecba7",
+			"3e7e6adf-aa0f-45ad-9c7c-fa1c5eda509e",
+			"1b85080f-866e-4bd2-9037-0575266b626b",
+			"0706fb9d-99a7-463a-9dc9-0029e37fe7e2",
+			"0ed2aecc-c7c7-4bcd-af87-bad6a60f5ac8",
+			"f404f164-c53b-4e4e-9a57-82a7588dac45",
+			"e103ce12-a55b-4d85-8597-9855d08b0538",
+			"01956eed-4d61-4f73-88f3-e25ac3daac48",
+			"87b0ed51-bca0-4547-bae2-812b09987868",
+			"51f8266b-cb0a-4f66-b900-0111144ad47d"
+		]
 	},
 	{
 		"niveau_id": [
