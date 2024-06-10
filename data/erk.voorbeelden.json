@@ -12530,5 +12530,101 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Doorgeven waar je een nieuwe game kunt downloaden.",
 		"description": ""
+	},
+	{
+		"id": "c88f8d8d-6005-4ea9-a52f-74d64302b85e",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Eenvoudige telefoonberichten over een gebeurtenis of een afspraak.",
+		"description": ""
+	},
+	{
+		"id": "0bbc468d-ad27-4b05-85be-90eafacfcd12",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Eenvoudige omroepberichten over wijzigingen in het openbaar vervoer.",
+		"description": ""
+	},
+	{
+		"id": "83b1aa39-2011-48bb-a816-e4d6f2e8ed14",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een boodschap over een gewijzigde afspraak.",
+		"description": ""
+	},
+	{
+		"id": "565a1ae9-fa42-4280-b2bd-a6b01eb0343f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Instructies van een leraar of een trainer over de uitvoering van een opdracht.",
+		"description": ""
+	},
+	{
+		"id": "5ec0bda0-c8f1-4b7b-99ae-d1972efa5efb",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Het huiswerk appen aan een klasgenoot die afwezig was.",
+		"description": ""
+	},
+	{
+		"id": "deaff183-f463-4382-b54d-eabbc2b05458",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een eenvoudig nieuwsfeit aan iemand doorsturen.",
+		"description": ""
+	},
+	{
+		"id": "ffc6169c-758a-4efe-ae80-8e75e6cb5978",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aankondigingen en gemaakte afspraken tijdens een bijeenkomst doorgeven per mail.",
+		"description": ""
+	},
+	{
+		"id": "fdc24573-66dd-4eb8-bab7-5216a2467bff",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een eenvoudige handleiding.",
+		"description": ""
+	},
+	{
+		"id": "40f75e49-2c05-4f20-8702-944a011e7a6a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een dienstregeling.",
+		"description": ""
+	},
+	{
+		"id": "a1ed1af0-bb85-4547-b8a8-f8cba84d4958",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een weekoverzicht.",
+		"description": ""
+	},
+	{
+		"id": "681fb327-e516-4f0d-85ce-0a284dd8631a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een wedstrijdoverzicht.",
+		"description": ""
+	},
+	{
+		"id": "45611c3a-67b2-4213-b442-f4738da9d9a6",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Korte instructiefilmpjes.",
+		"description": ""
+	},
+	{
+		"id": "2c396343-800f-4b25-848d-97e4583217ed",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Informatie over een game.",
+		"description": ""
+	},
+	{
+		"id": "ae6cf35e-3729-4228-873c-6d755e121872",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De leukste activiteiten uit een folder doorgeven in een bericht.",
+		"description": ""
+	},
+	{
+		"id": "6d3ba5b1-9ae0-418e-9b95-94b2c02b67dc",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De lijst best gerecenseerde films uit het actuele aanbod doorgeven.",
+		"description": ""
+	},
+	{
+		"id": "81182e2e-91c3-4f3a-8c6a-f6320be1b38d",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een eenvoudige mindmap maken over de inhoud van een tekst.",
+		"description": ""
 	}
 ]
