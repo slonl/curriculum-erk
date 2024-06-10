@@ -2600,7 +2600,17 @@
 		"title": "Kan (in taal B) schriftelijk het belangrijke punt of de belangrijke punten in formele correspondentie (in taal A) overbrengen.",
 		"id": "9ab93e3c-eb17-4f1d-8a2b-b9e40f7ce0fe",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"3be6dd96-b189-4419-bf11-9e702a2d48fc",
+			"4f27442b-63c3-4066-87de-704e6fa10e9f",
+			"7a4b386c-5dcb-415d-945a-9c5b7963eeba",
+			"0978cde5-1e2d-4ad0-b05a-946d3b3844a0",
+			"bdd50013-0366-45b2-9f14-2f8e172d4fb7",
+			"120359b0-9442-404d-b8f4-6581af11c61b",
+			"23a0258b-f6b3-446b-885e-c8e440805eaf",
+			"01164e4b-de37-4c0b-bd8e-b75ec73c4336"
+		]
 	},
 	{
 		"niveau_id": [
@@ -2638,7 +2648,12 @@
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
 		"title": "Kan (in taal B) schriftelijk overbrengen welke presentaties tijdens een congres (gegeven in taal A) relevant waren en aangeven welke nadere beschouwing waard zijn.",
-		"id": "55a63add-8e75-456c-b5fd-d22bc8a29023"
+		"id": "55a63add-8e75-456c-b5fd-d22bc8a29023",
+		"erk_voorbeeld_id": [
+			"48e2e54c-4b27-4edf-b192-328bec0c4422",
+			"041d7d2b-b26d-47d0-b18a-dd837a69c0ee",
+			"a3b7bcbc-5d56-4b7c-ae5e-7e973f0b7774"
+		]
 	},
 	{
 		"niveau_id": [
