@@ -2388,7 +2388,18 @@
 		"title": "Kan (in taal B) het belangrijkste punt of de belangrijkste punten overbrengen van formele correspondentie en/of verslagen (in taal A) over algemene onderwerpen en over onderwerpen met betrekking tot de eigen interessegebieden.",
 		"id": "33b8bd7d-0983-42fb-a4ad-303479b32a73",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"98c28cc3-e235-45a2-b37b-cad8ed55eb8c",
+			"85dfba96-94b8-4b50-910e-2aae893a810d",
+			"6b75714b-3e28-4259-ac91-e884a32db40c",
+			"932aa7c1-ab8e-4798-a627-3faa7d5a4e0c",
+			"d44819cc-f93b-4c3c-9fb1-697fc7643f20",
+			"977dd594-bba4-46e9-a2a0-ca0c3e219b7a",
+			"eb34d203-1d2a-4b77-92f3-4bfda4acbdd8",
+			"3b4129b8-a077-42b0-84e4-9b4a102620f2",
+			"2e399d2f-e7c3-4e2e-b2bb-90b8f8a48fea"
+		]
 	},
 	{
 		"niveau_id": [
