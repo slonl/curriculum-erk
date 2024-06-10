@@ -2456,7 +2456,15 @@
 		"title": "Kan (in taal B) een overzicht geven van namen, getallen, prijzen en zeer eenvoudige informatie uit teksten van direct belang (in taal A) die zijn geformuleerd in zeer eenvoudige taal en illustraties bevatten.",
 		"id": "52422b2b-c838-42a7-9d65-e922ed4d5373",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"6bce3ce2-8182-460d-b728-4eb40a2afcbc",
+			"13be1601-03c2-4ebc-a026-72ad834984d0",
+			"f1e20305-68c7-4561-8b2a-4701e433d192",
+			"9d15355d-572f-4d64-9771-82d27b442d8b",
+			"9bb11294-9213-47d6-98e5-03ae10697af0",
+			"705976e6-62be-4f27-acae-7dd788293a34"
+		]
 	},
 	{
 		"niveau_id": [
@@ -2465,7 +2473,17 @@
 		"title": "Kan (in taal B) een overzicht geven van namen, getallen, prijzen en zeer eenvoudige informatie van direct belang in gesproken teksten (gegeven in taal A), mits er zeer langzaam en duidelijk en met herhaling wordt gearticuleerd.\n",
 		"id": "fafef92c-797d-4ce3-ad68-0b99e198e10a",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"e199a113-a456-4275-ac72-38702b0d0f90",
+			"ac053d36-277e-4bb5-9a6f-f96e6c3c09ed",
+			"24bd9b11-8da6-42ba-b172-6af389bab8e3",
+			"88fcd5d2-094b-49b5-948a-064de7fd540b",
+			"a3e3c697-9831-4b50-89e3-9a633fb4f62c",
+			"2b799fda-38ea-43ea-9278-8739008096d3",
+			"31de92f2-585e-460d-ac5f-cb29a6aeaa77",
+			"1cdf01d0-5a33-410a-8f38-4efdc6a2e294"
+		]
 	},
 	{
 		"niveau_id": [
