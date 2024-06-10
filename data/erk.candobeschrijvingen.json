@@ -2198,12 +2198,10 @@
 		"prefix": "",
 		"description": "",
 		"erk_voorbeeld_id": [
-			"c82b6b5e-67a1-47d7-a7d1-d33a83a5202c",
 			"8272db57-a490-4c29-877b-8bbd4b53bd31",
 			"9366c4c5-5a0c-44d9-8f47-679b0a3c2147",
 			"963207e5-d151-4d28-9e3d-ce4208f56fee",
 			"dd2b6042-4ea4-4e8b-aa2f-755c3d16ebc9",
-			"67997026-6bd0-4ada-aaec-66a9c0be4113",
 			"d8472856-324e-445c-b126-e372f34b50d7",
 			"7b533b18-6d03-4179-9e65-d4ee56a047bc",
 			"dc1b80bc-44f3-43a2-964a-1975598e38fb"
@@ -2214,7 +2212,15 @@
 			"677c431e-7ac6-438f-8204-aea78aef7025"
 		],
 		"title": "Kan (in taal B) eenvoudige instructies over plaatsen en tijden (gegeven in taal A) overbrengen, mits deze zeer langzaam en duidelijk worden herhaald.",
-		"id": "bd3986fb-1ca1-452c-807a-a7d73ed7f764"
+		"id": "bd3986fb-1ca1-452c-807a-a7d73ed7f764",
+		"erk_voorbeeld_id": [
+			"37000a36-2b31-4634-88f2-1f462752d961",
+			"34668d3d-9706-4717-8e3c-670de0a7a1ea",
+			"cdd83681-8d00-422d-83e2-99cd86c6ffa3",
+			"3344ed77-a86b-4900-b3b5-41ee5fdeafc1",
+			"153b61a5-3b01-47f9-b065-6fe4af18804a",
+			"288497ba-4160-4ed0-afe9-91ddc6615bee"
+		]
 	},
 	{
 		"niveau_id": [
@@ -2223,7 +2229,19 @@
 		"title": "Kan (in taal B) eenvoudige, voorspelbare informatie over tijden en plaatsen overbrengen die is gegeven in korte, eenvoudige verklaringen (gegeven in taal A).",
 		"id": "2c957225-5956-446d-a2e9-6fb98b7ee191",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"f036a04b-9dfc-4eeb-bad7-bc1d0a9ca3f3",
+			"d7dec285-24bf-41e4-8788-7f42c519c344",
+			"4e66e921-762d-41de-a937-3b4b8a7d6d50",
+			"69d1adaf-1c58-4ff1-8b08-8d7b6c8d543c",
+			"53703d6e-a930-4006-9b63-12859601f548",
+			"e78b073e-c99d-4e92-b1f9-a57477bb225d",
+			"2e90ea3e-534e-4e4a-a7b0-0a47cb4fc7e8",
+			"b0bea6f7-1d75-4d91-b3aa-b17ff8494012",
+			"9d226c23-1d9f-44bf-8e81-b65b1309b46d",
+			"9ae43f7b-41bc-4536-b830-4811fcb8168d"
+		]
 	},
 	{
 		"niveau_id": [
@@ -2232,14 +2250,37 @@
 		"title": "Kan (in taal B) op een eenvoudige manier een reeks korte, eenvoudige instructies overbrengen, mits de originele informatie (in taal A) duidelijk en langzaam gearticuleerd wordt.",
 		"id": "c08babc8-43fc-4b78-af1e-8da7a14bc20f",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"3b47eccc-9c56-42bd-908a-9179d55a5fae",
+			"5995667b-4b3e-4af0-9c6a-c6850fc8b372",
+			"d5afec1d-b0c9-4cb7-b8c5-e076dced932f",
+			"74bb43e3-1ec7-4743-b654-9cfb82224cf9",
+			"18fedf0e-c5a8-4795-bdad-60657ed51e4f",
+			"5942e006-438a-4568-99c0-34023185e1f2",
+			"89e77334-b5e2-419c-9898-0ce46cbf65ce",
+			"118996a2-9018-4324-b834-25bab74a6822",
+			"a6b830b4-5b9a-40bb-8d93-67c9dc74b81c",
+			"30a38652-678b-4915-8c69-63e1da2c9199"
+		]
 	},
 	{
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
 		"title": "Kan (in taal B) het punt overbrengen dat wordt gemaakt in korte, heldere, eenvoudige berichten, instructies en mededelingen, mits deze langzaam en duidelijk zijn uitgedrukt in eenvoudige taal (in taal A).",
-		"id": "b3d5da71-6b29-44cb-b583-9e4009f13b8e"
+		"id": "b3d5da71-6b29-44cb-b583-9e4009f13b8e",
+		"erk_voorbeeld_id": [
+			"8d80970e-c26a-45e2-b9db-a930efe9e425",
+			"cd6deef3-cec0-4eb1-b0b3-a1fa216f30db",
+			"f72c6e5a-0984-4285-86f8-efbc4af0031c",
+			"7af6849d-b393-4f58-9a04-86c8ca72a3f5",
+			"d737bbd6-d8a9-4dcf-adf8-246fc0035740",
+			"02452aae-dc67-4400-a5fc-eddc6c43ef6a",
+			"a9ba69c3-139c-4a15-8552-9db481347ae1"
+		],
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -2248,7 +2289,18 @@
 		"title": "Kan (in taal B) specifieke, relevante informatie overbrengen uit korte, eenvoudige teksten, etiketten en kennisgevingen (in taal A) over vertrouwde onderwerpen.",
 		"id": "512b23aa-c940-4040-a339-0e7bbc06e065",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"121c805c-9451-4877-a5a0-e77975998db4",
+			"b4297317-4a13-4006-98fb-c4bd35f8a2a1",
+			"378bfb87-6c99-4990-adb6-6e0163d9b920",
+			"fe7ef65e-d303-4797-8f01-952e121441b0",
+			"3e8cd381-0c5c-4f37-99ec-82fa8cf95f0b",
+			"bfa42aae-4355-4104-9a77-c767b1acf13b",
+			"c4e378be-749f-443f-a533-6c73a227979d",
+			"5462f0c4-3414-4a43-87a8-39a4acaa4cb1",
+			"e6ba5d66-92ed-491e-88ac-085c525f25eb"
+		]
 	},
 	{
 		"niveau_id": [
@@ -2257,7 +2309,16 @@
 		"title": "Kan (in taal B) het punt overbrengen dat wordt gemaakt in duidelijke mededelingen (in taal A) met betrekking tot vertrouwde alledaagse onderwerpen, al zal nodig zijn de boodschap te vereenvoudigen en naar woorden te zoeken.",
 		"id": "2a499d8b-6be8-44db-87ad-be93207b7fd8",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"2a38846d-c8e4-4490-b1f2-3385e29e0964",
+			"189856ed-174c-4382-ba7f-e2923c561e0e",
+			"4ff24dbb-a0c5-4665-8896-7edafa2f0042",
+			"792ad5a4-f9df-411a-8658-bcfd6687c754",
+			"022805a8-452f-485e-8ff9-e3714565798d",
+			"0626bcff-9499-43b8-b74a-b37c4cde3ae2",
+			"a9a802ca-7419-4892-a921-8b8c9633cad5"
+		]
 	},
 	{
 		"niveau_id": [

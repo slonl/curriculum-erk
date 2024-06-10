@@ -11762,13 +11762,13 @@
 	{
 		"id": "8272db57-a490-4c29-877b-8bbd4b53bd31",
 		"prefix": "",
-		"title": "Contactgegevens op de website van een restaurant of een winkel.",
+		"title": "Voorbeeld van een bron - Contactgegevens op de website van een restaurant of een winkel.",
 		"description": ""
 	},
 	{
 		"id": "9366c4c5-5a0c-44d9-8f47-679b0a3c2147",
 		"prefix": "",
-		"title": "Een eenvoudige menukaart met afbeeldingen en prijzen.",
+		"title": "Voorbeeld van een bron - Een eenvoudige menukaart met afbeeldingen en prijzen.",
 		"description": ""
 	},
 	{
@@ -11780,13 +11780,13 @@
 	{
 		"id": "963207e5-d151-4d28-9e3d-ce4208f56fee",
 		"prefix": "",
-		"title": "Prijzen van artikelen op een kaartje.",
+		"title": "Voorbeeld van een bron - Prijzen van artikelen op een kaartje.",
 		"description": ""
 	},
 	{
 		"id": "dd2b6042-4ea4-4e8b-aa2f-755c3d16ebc9",
 		"prefix": "",
-		"title": "De zitplaatsbeschikbaarheid  op de plattegrond van een theater.",
+		"title": "Voorbeeld van een bron - De zitplaatsbeschikbaarheid  op de plattegrond van een theater.",
 		"description": ""
 	},
 	{
@@ -11798,19 +11798,319 @@
 	{
 		"id": "d8472856-324e-445c-b126-e372f34b50d7",
 		"prefix": "",
-		"title": "De borden op een sportclub lezen en iemand vertellen waar de uitgang en de wc zijn.",
+		"title": "Voorbeeld van een activiteit - De borden op een sportclub lezen en iemand vertellen waar de uitgang en de wc zijn.",
 		"description": ""
 	},
 	{
 		"id": "7b533b18-6d03-4179-9e65-d4ee56a047bc",
 		"prefix": "",
-		"title": "Tijdens een reis de prijzen van fruit bij een marktstal aan iemand doorgeven.",
+		"title": "Voorbeeld van een activiteit - Tijdens een reis de prijzen van fruit bij een marktkraam aan iemand doorgeven.",
 		"description": ""
 	},
 	{
 		"id": "dc1b80bc-44f3-43a2-964a-1975598e38fb",
 		"prefix": "",
-		"title": "Bij de douane de eigen bestemming doorgeven.",
+		"title": "Voorbeeld van een activiteit - Bij de douane de eigen bestemming doorgeven.",
+		"description": ""
+	},
+	{
+		"id": "37000a36-2b31-4634-88f2-1f462752d961",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een uitnodiging voor een feest met de datum en de plaats in steekwoorden, ondersteund door afbeeldingen. ",
+		"description": ""
+	},
+	{
+		"id": "34668d3d-9706-4717-8e3c-670de0a7a1ea",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Informatieborden in een zwembad.",
+		"description": ""
+	},
+	{
+		"id": "cdd83681-8d00-422d-83e2-99cd86c6ffa3",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Openingstijden van een winkel.",
+		"description": ""
+	},
+	{
+		"id": "3344ed77-a86b-4900-b3b5-41ee5fdeafc1",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een kort bericht met de locatie en de tijd van een afspraak.",
+		"description": ""
+	},
+	{
+		"id": "153b61a5-3b01-47f9-b065-6fe4af18804a",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een audiobericht aan een vriend sturen met de plaats van de afspraak.",
+		"description": ""
+	},
+	{
+		"id": "288497ba-4160-4ed0-afe9-91ddc6615bee",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Iemand laten weten wanneer de trein aankomt.",
+		"description": ""
+	},
+	{
+		"id": "f036a04b-9dfc-4eeb-bad7-bc1d0a9ca3f3",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Online uitgaansagenda's.",
+		"description": ""
+	},
+	{
+		"id": "d7dec285-24bf-41e4-8788-7f42c519c344",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Informatie over tijden van vergaderingen, werktijden, pauzes.",
+		"description": ""
+	},
+	{
+		"id": "4e66e921-762d-41de-a937-3b4b8a7d6d50",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De tijd en locatie van een feestje, excursie of een schoolactiviteit.",
+		"description": ""
+	},
+	{
+		"id": "69d1adaf-1c58-4ff1-8b08-8d7b6c8d543c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Openingstijden van een winkel, restaurant of kantine.",
+		"description": ""
+	},
+	{
+		"id": "53703d6e-a930-4006-9b63-12859601f548",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Vertrek- en aankomsttijden van het openbaar vervoer.",
+		"description": ""
+	},
+	{
+		"id": "e78b073e-c99d-4e92-b1f9-a57477bb225d",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Informatie uit de bioscoopagenda van de stad aan een vriend doorgeven.",
+		"description": ""
+	},
+	{
+		"id": "2e90ea3e-534e-4e4a-a7b0-0a47cb4fc7e8",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een bezorgingstijd doorgeven aan je huisgenoten.",
+		"description": ""
+	},
+	{
+		"id": "b0bea6f7-1d75-4d91-b3aa-b17ff8494012",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Het tijdstip laten weten waarop iemand online is.",
+		"description": ""
+	},
+	{
+		"id": "9d226c23-1d9f-44bf-8e81-b65b1309b46d",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De tijd van een evenement op school doorgeven aan de buitenlandse ouders van een klasgenoot.",
+		"description": ""
+	},
+	{
+		"id": "9ae43f7b-41bc-4536-b830-4811fcb8168d",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De aanvangstijd van een feestje doorgeven.",
+		"description": ""
+	},
+	{
+		"id": "5517fd1c-f285-488f-bc83-9b2d6d287894",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan een nieuwe klasgenoot doorgeven wanneer je een laptop mag gebruiken tijdens de les.",
+		"description": ""
+	},
+	{
+		"id": "8d80970e-c26a-45e2-b9db-a930efe9e425",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Richtlijnen in geval van slechte weeromstandigheden of noodgevallen.",
+		"description": ""
+	},
+	{
+		"id": "cd6deef3-cec0-4eb1-b0b3-a1fa216f30db",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een mondelinge afzegging.",
+		"description": ""
+	},
+	{
+		"id": "f72c6e5a-0984-4285-86f8-efbc4af0031c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Aanwijzingen van ouders of leraren.",
+		"description": ""
+	},
+	{
+		"id": "7af6849d-b393-4f58-9a04-86c8ca72a3f5",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Doorgeven bij welke omstandigheden je wel of niet mag surfen op zee.",
+		"description": ""
+	},
+	{
+		"id": "02452aae-dc67-4400-a5fc-eddc6c43ef6a",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Iemand excuseren voor de afwezigheid bij een bijeenkomst of een afspraak.",
+		"description": ""
+	},
+	{
+		"id": "d737bbd6-d8a9-4dcf-adf8-246fc0035740",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Wijzigingen in de vertrektijden of de aansluiting met een ander vervoermiddel doorgeven.",
+		"description": ""
+	},
+	{
+		"id": "3b47eccc-9c56-42bd-908a-9179d55a5fae",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een eenvoudig videorecept.",
+		"description": ""
+	},
+	{
+		"id": "5995667b-4b3e-4af0-9c6a-c6850fc8b372",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Video-instructies voor het bouwen van speelgoed.",
+		"description": ""
+	},
+	{
+		"id": "d5afec1d-b0c9-4cb7-b8c5-e076dced932f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een internetfilmpje met tekeninstructies.",
+		"description": ""
+	},
+	{
+		"id": "74bb43e3-1ec7-4743-b654-9cfb82224cf9",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Instructies om een apparaat te beheren of software te installeren.",
+		"description": ""
+	},
+	{
+		"id": "18fedf0e-c5a8-4795-bdad-60657ed51e4f",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De aanwijzingen van een verkeersagent uitleggen aan de bestuurder van de auto.",
+		"description": ""
+	},
+	{
+		"id": "5942e006-438a-4568-99c0-34023185e1f2",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De uitleg van de museummedewerker over de route doorgeven aan een toerist.",
+		"description": ""
+	},
+	{
+		"id": "89e77334-b5e2-419c-9898-0ce46cbf65ce",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Naar aanleiding van een instructiefilmpje aan een vriend uitleggen hoe je een liedje speelt op de gitaar.",
+		"description": ""
+	},
+	{
+		"id": "118996a2-9018-4324-b834-25bab74a6822",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Naar aanleiding van een workshop aan iemand voordoen hoe je een taart bakt.",
+		"description": ""
+	},
+	{
+		"id": "a6b830b4-5b9a-40bb-8d93-67c9dc74b81c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Na de uitleg van de docent aan een leeftijdsgenootje vertellen hoe een kluisje werkt op school of in het zwembad.",
+		"description": ""
+	},
+	{
+		"id": "30a38652-678b-4915-8c69-63e1da2c9199",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan een nieuwe klasgenoot doorgeven wanneer je een laptop mag gebruiken tijdens de les.",
+		"description": ""
+	},
+	{
+		"id": "2a38846d-c8e4-4490-b1f2-3385e29e0964",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Korte radiospots.",
+		"description": ""
+	},
+	{
+		"id": "189856ed-174c-4382-ba7f-e2923c561e0e",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Commercials.",
+		"description": ""
+	},
+	{
+		"id": "4ff24dbb-a0c5-4665-8896-7edafa2f0042",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Audioboodschappen via de telefoon.",
+		"description": ""
+	},
+	{
+		"id": "792ad5a4-f9df-411a-8658-bcfd6687c754",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Het keuzemenu van een klantenservice.",
+		"description": ""
+	},
+	{
+		"id": "022805a8-452f-485e-8ff9-e3714565798d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Oproepen op het station of het sportveld.",
+		"description": ""
+	},
+	{
+		"id": "0626bcff-9499-43b8-b74a-b37c4cde3ae2",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan een buitenlandse vriend vertellen over de aankondiging van een zeilkamp in Nederland.",
+		"description": ""
+	},
+	{
+		"id": "a9a802ca-7419-4892-a921-8b8c9633cad5",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan een vriend uitleggen waar je op moet letten bij een online reservering.",
+		"description": ""
+	},
+	{
+		"id": "a9ba69c3-139c-4a15-8552-9db481347ae1",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan een nieuwe klasgenoot doorgeven wanneer je een laptop mag gebruiken tijdens de les.",
+		"description": ""
+	},
+	{
+		"id": "121c805c-9451-4877-a5a0-e77975998db4",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De nieuwsbrief van een sportclub of een vereniging.",
+		"description": ""
+	},
+	{
+		"id": "b4297317-4a13-4006-98fb-c4bd35f8a2a1",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Vooraankondigingen van nieuwe programma's of voorstellingen.",
+		"description": ""
+	},
+	{
+		"id": "378bfb87-6c99-4990-adb6-6e0163d9b920",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Aankondigingen van speciale acties van een winkel.",
+		"description": ""
+	},
+	{
+		"id": "fe7ef65e-d303-4797-8f01-952e121441b0",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De omschrijving van een product of object.",
+		"description": ""
+	},
+	{
+		"id": "3e8cd381-0c5c-4f37-99ec-82fa8cf95f0b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Informatie op een schoolwebsite.",
+		"description": ""
+	},
+	{
+		"id": "bfa42aae-4355-4104-9a77-c767b1acf13b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Het laatste nieuws over een bekende persoon doorvertellen.",
+		"description": ""
+	},
+	{
+		"id": "c4e378be-749f-443f-a533-6c73a227979d",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Het programma van een excursie doornemen met een uitwisselingsleerling.",
+		"description": ""
+	},
+	{
+		"id": "5462f0c4-3414-4a43-87a8-39a4acaa4cb1",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een vriend helpen bij het online kopen van een product door de informatie over twee verschillende modellen met elkaar te vergelijken.",
+		"description": ""
+	},
+	{
+		"id": "e6ba5d66-92ed-491e-88ac-085c525f25eb",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan een klasgenoot vertellen welke dierenweetjes er op de borden in de dierentuin staan.",
 		"description": ""
 	}
 ]
