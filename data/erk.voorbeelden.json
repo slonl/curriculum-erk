@@ -12626,5 +12626,113 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Een eenvoudige mindmap maken over de inhoud van een tekst.",
 		"description": ""
+	},
+	{
+		"id": "ac6e4be9-d99e-4d08-b791-d15afb5d4baf",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Eenduidige artikelen uit kranten of websites over feitelijke informatie.",
+		"description": ""
+	},
+	{
+		"id": "f9ed5109-6bfd-4313-b092-ef2270771089",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Websites van bekende artiesten.",
+		"description": ""
+	},
+	{
+		"id": "2e46c2bc-5233-4a9c-9bd0-8a4deb3889a4",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Voorlichtingsteksten over specifieke maatregelen.",
+		"description": ""
+	},
+	{
+		"id": "ce9b710e-0067-452a-a5b1-42d67a16a0c1",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Het laatste nieuws in de liveblog van een sportwedstrijd.",
+		"description": ""
+	},
+	{
+		"id": "a458b145-001c-4d84-807f-ee41c477bf27",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Actuele informatie op sociale media plaatsen.",
+		"description": ""
+	},
+	{
+		"id": "388149fa-b3ea-4284-94ee-6254fc055a2e",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Iemand over verrassende ontwikkelingen in een wedstrijd berichten.",
+		"description": ""
+	},
+	{
+		"id": "136add73-dab5-4ab0-bb35-e35e769847d5",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Iemand op de hoogte brengen van het laatste nieuws over een popster.",
+		"description": ""
+	},
+	{
+		"id": "e1d5627b-3974-4cb2-a8dc-a79d62bf549e",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Mededelingen van overheidsinstanties.",
+		"description": ""
+	},
+	{
+		"id": "00a9d883-e5e7-44ef-96be-af675e7ecba7",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Beoordelingen van klanten op een website.",
+		"description": ""
+	},
+	{
+		"id": "3e7e6adf-aa0f-45ad-9c7c-fa1c5eda509e",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Aansluitings- en bedieningsinstructies van apparaten.",
+		"description": ""
+	},
+	{
+		"id": "1b85080f-866e-4bd2-9037-0575266b626b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - E-mail updates van een vereniging.",
+		"description": ""
+	},
+	{
+		"id": "0706fb9d-99a7-463a-9dc9-0029e37fe7e2",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een persconferentie.",
+		"description": ""
+	},
+	{
+		"id": "0ed2aecc-c7c7-4bcd-af87-bad6a60f5ac8",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een tutorial voor een klus.",
+		"description": ""
+	},
+	{
+		"id": "f404f164-c53b-4e4e-9a57-82a7588dac45",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een buitenlandse kennis mailen over spoor- en wegwerkzaamheden in verband met de organisatie van een reis.",
+		"description": ""
+	},
+	{
+		"id": "e103ce12-a55b-4d85-8597-9855d08b0538",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Relevante actuele informatie over een specifiek gebied doorgeven aan toeristen.",
+		"description": ""
+	},
+	{
+		"id": "01956eed-4d61-4f73-88f3-e25ac3daac48",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De beste reviews over verschillende modellen van een product doorgeven.",
+		"description": ""
+	},
+	{
+		"id": "87b0ed51-bca0-4547-bae2-812b09987868",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een beknopt schema maken met de belangrijkste instructies voor het bedienen van een apparaat.",
+		"description": ""
+	},
+	{
+		"id": "51f8266b-cb0a-4f66-b900-0111144ad47d",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een dagindeling maken voor een stadsbezoek op basis van de toeristische informatie op een website.",
+		"description": ""
 	}
 ]
