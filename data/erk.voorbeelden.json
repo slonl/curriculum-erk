@@ -12776,5 +12776,59 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - De belangrijkste informatie van een website over een opleiding overbrengen.",
 		"description": ""
+	},
+	{
+		"id": "ee63d64e-fd3f-4888-8248-05877e3eaa30",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een ingesproken audiobericht bericht met informatie over aanmeldingen of procedures.",
+		"description": ""
+	},
+	{
+		"id": "439a0e96-3d4f-4438-939d-e14700fe907f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een spraakbericht met informatie over een afspraak of de uitvoering van een taak.",
+		"description": ""
+	},
+	{
+		"id": "865164fb-166a-4f8f-89bc-1e30a6bacaec",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De inhoud van een ingesproken boodschap met de te doorlopen stappen voor een aanmelding mailen aan een vriend.",
+		"description": ""
+	},
+	{
+		"id": "0e6ebddb-329e-482e-92bd-df7c3886e34e",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een ingesproken boodschap van de schoolleiding schriftelijk overbrengen aan de ouders van een buitenlandse leerling.",
+		"description": ""
+	},
+	{
+		"id": "b6204769-08ce-4623-a59e-1278feae8624",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De ingesproken boodschap van je huisbaas met de uitleg van huishoudelijke taken voor je huisgenoten samenvatten op een briefje.",
+		"description": ""
+	},
+	{
+		"id": "d83befb0-83c1-4155-b0fd-197d290c243c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De besluiten van de ALV van een sportclub.",
+		"description": ""
+	},
+	{
+		"id": "106341c9-dc01-4f1b-96f8-2af9d6d77109",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De besluiten van een bijeenkomst van de leerlingenraad.",
+		"description": ""
+	},
+	{
+		"id": "7b6ad9cd-8ce2-4982-93ca-c6669d65cf2a",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De belangrijkste conclusies uit een rapportvergadering in een brief aan de ouders van een leerling overbrengen.",
+		"description": ""
+	},
+	{
+		"id": "354fc3d6-3722-41e7-964b-1bbac744d257",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De conclusies en het vervolg van een medisch onderzoek voor een patiënt samenvatten in een verslag.",
+		"description": ""
 	}
 ]
