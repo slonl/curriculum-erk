@@ -2327,7 +2327,22 @@
 		"title": "Kan (in taal B) specifieke informatie overbrengen die is gegeven in directe informatieve teksten (in taal A).",
 		"id": "543ea061-7229-4d00-b99f-e6dd372da846",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"e57be393-6768-446f-a8e0-83e8740485bd",
+			"4c904273-d921-4f22-b5fb-bcab2582739b",
+			"a24bd9e1-ff91-4985-98d4-f76813542fe4",
+			"6020c7bc-2bf7-4acd-975b-549a0d0e9351",
+			"88a7e20f-28a3-4bca-91bd-770dfdb19f39",
+			"8232e975-1ffd-4ac3-9e1e-27d90d79409c",
+			"70c60d7d-bb52-42bc-9de2-4baf35ee5e09",
+			"537bf60f-2366-4017-bece-b067bf855faf",
+			"3d127ed6-8e88-4b3e-9c24-0aa6ed47a46e",
+			"4b2d286d-bc7d-45dd-a9f0-33a4c476bf1b",
+			"82839a7e-6938-4151-8632-284c0fb9709a",
+			"ff24eea9-a8fc-4567-b3e8-fd97d574899a",
+			"f785e1f6-8bba-4129-91fa-da9700dd213e"
+		]
 	},
 	{
 		"niveau_id": [
