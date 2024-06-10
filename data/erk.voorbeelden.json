@@ -12386,5 +12386,65 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Medeleerlingen of medestudenten vertellen over de belangrijkste punten van een webinar ter introductie van een discussie.",
 		"description": ""
+	},
+	{
+		"id": "e99e77d8-d9c8-4807-a3d7-fa6ea4ba903b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een boek of het hoofdstuk van een boek.",
+		"description": ""
+	},
+	{
+		"id": "3bb08048-f302-400a-a3e5-9b939b2ccad4",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een complex artikel uit een opinieblad.",
+		"description": ""
+	},
+	{
+		"id": "69b7c3f3-a5f6-4575-97e9-9d4db4ec337f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een naslagwerk.",
+		"description": ""
+	},
+	{
+		"id": "3fcceb48-58bc-441b-ae37-2aa4b427a565",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een lezing, presentatie of webinar.",
+		"description": ""
+	},
+	{
+		"id": "a5a85193-47f9-4455-bac1-5f1b25e2d95c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een discussieprogramma over actuele zaken.",
+		"description": ""
+	},
+	{
+		"id": "5260e16e-9f36-407d-9c82-7a7d7b52253d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een politieke toespraak.",
+		"description": ""
+	},
+	{
+		"id": "e2807931-699c-4d38-b60a-e252884132ae",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een zakelijk verslag.",
+		"description": ""
+	},
+	{
+		"id": "b1120aa4-ebd2-457f-8a54-9efe72354838",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Tijdens een presentatie ingaan op opvallende informatie uit verschillende bronnen over biodiversiteit.",
+		"description": ""
+	},
+	{
+		"id": "3f596159-242c-4d73-89e2-a50ee250f40c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - In een boekenclub uitleggen waarom de inhoud van een verrassend hoofdstuk uit een historische roman relevant is voor het hele verhaal.",
+		"description": ""
+	},
+	{
+		"id": "8fbbb5c5-ec6f-423f-84cf-f678d11166af",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - In een conversatie over drugsbeleid verwijzen naar interessante punten uit artikelen ter ondersteuning van het eigen standpunt.",
+		"description": ""
 	}
 ]
