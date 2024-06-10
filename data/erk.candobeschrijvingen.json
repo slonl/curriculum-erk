@@ -2349,7 +2349,15 @@
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
 		"title": "Kan (in taal B) de inhoud overbrengen van gedetailleerde instructies of aanwijzingen, mits deze duidelijk gearticuleerd zijn (in taal A).",
-		"id": "18092917-1614-4c5a-af67-2cba432849c1"
+		"id": "18092917-1614-4c5a-af67-2cba432849c1",
+		"erk_voorbeeld_id": [
+			"6a38899c-551c-4788-bc3c-c80a955b2a48",
+			"dc17c0ac-8bd2-4da1-8da8-0d0bab36a0ff",
+			"57234c5f-1c78-47ae-9617-a71ae7ea8d4b",
+			"06a56085-311d-4356-8d0a-e0d5a20bb452",
+			"e8815673-f5bd-41db-bcb3-6c36de064482",
+			"2d3f9a22-0fa5-4827-b620-d25e6b116dcc"
+		]
 	},
 	{
 		"niveau_id": [
