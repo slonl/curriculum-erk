@@ -12194,5 +12194,41 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Informatie over verschillende alternatieve opties van een abonnement toelichten.",
 		"description": ""
+	},
+	{
+		"id": "6a38899c-551c-4788-bc3c-c80a955b2a48",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een tutorial.",
+		"description": ""
+	},
+	{
+		"id": "dc17c0ac-8bd2-4da1-8da8-0d0bab36a0ff",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een routebeschrijving in een audiotour.",
+		"description": ""
+	},
+	{
+		"id": "57234c5f-1c78-47ae-9617-a71ae7ea8d4b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Instructies voor het indienen van een formulier.",
+		"description": ""
+	},
+	{
+		"id": "06a56085-311d-4356-8d0a-e0d5a20bb452",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een vriend helpen een kast in elkaar te zetten door de instructies van een videohandleiding uit te leggen.",
+		"description": ""
+	},
+	{
+		"id": "e8815673-f5bd-41db-bcb3-6c36de064482",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De instructies van de conducteur over een gewijzigde route doorvertellen aan een buitenlandse toerist.",
+		"description": ""
+	},
+	{
+		"id": "2d3f9a22-0fa5-4827-b620-d25e6b116dcc",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aanwijzingen over online etiquette en digitale privacy doorgeven.",
+		"description": ""
 	}
 ]
