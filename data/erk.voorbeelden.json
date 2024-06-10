@@ -12446,5 +12446,89 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - In een conversatie over drugsbeleid verwijzen naar interessante punten uit artikelen ter ondersteuning van het eigen standpunt.",
 		"description": ""
+	},
+	{
+		"id": "6bce3ce2-8182-460d-b728-4eb40a2afcbc",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Bewegwijzeringsborden met pictogrammen.",
+		"description": ""
+	},
+	{
+		"id": "13be1601-03c2-4ebc-a026-72ad834984d0",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Prijskaartjes op de markt.",
+		"description": ""
+	},
+	{
+		"id": "f1e20305-68c7-4561-8b2a-4701e433d192",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Geïllustreerde folders van de supermarkt.",
+		"description": ""
+	},
+	{
+		"id": "9d15355d-572f-4d64-9771-82d27b442d8b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Iemand een app sturen met een aanbieding die je gezien of gelezen hebt.",
+		"description": ""
+	},
+	{
+		"id": "9bb11294-9213-47d6-98e5-03ae10697af0",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De aanvangstijd van een voorstelling in een bericht sturen.",
+		"description": ""
+	},
+	{
+		"id": "705976e6-62be-4f27-acae-7dd788293a34",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Iemand een korte boodschappenlijst sturen.",
+		"description": ""
+	},
+	{
+		"id": "e199a113-a456-4275-ac72-38702b0d0f90",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Aankondigingen in tv-programma's.",
+		"description": ""
+	},
+	{
+		"id": "ac053d36-277e-4bb5-9a6f-f96e6c3c09ed",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Aankondigingen van de locaties en starttijden van evenementen.",
+		"description": ""
+	},
+	{
+		"id": "24bd9b11-8da6-42ba-b172-6af389bab8e3",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Digitale advertenties.",
+		"description": ""
+	},
+	{
+		"id": "88fcd5d2-094b-49b5-948a-064de7fd540b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Het adres en de aanvangstijd van een film voor een vriend noteren.",
+		"description": ""
+	},
+	{
+		"id": "a3e3c697-9831-4b50-89e3-9a633fb4f62c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Eenvoudige reisaanwijzingen voor het openbaar vervoer voor iemand opschrijven.",
+		"description": ""
+	},
+	{
+		"id": "2b799fda-38ea-43ea-9278-8739008096d3",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De specificaties van een gewenst product doorsturen aan iemand die boodschappen voor je doet.",
+		"description": ""
+	},
+	{
+		"id": "31de92f2-585e-460d-ac5f-cb29a6aeaa77",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De naam van een leuke podcast doorgeven aan iemand.",
+		"description": ""
+	},
+	{
+		"id": "1cdf01d0-5a33-410a-8f38-4efdc6a2e294",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Doorgeven waar je een nieuwe game kunt downloaden.",
+		"description": ""
 	}
 ]
