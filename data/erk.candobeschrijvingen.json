@@ -2366,7 +2366,20 @@
 		"title": "Kan (in taal B) de inhoud van duidelijke openbare mededelingen en berichten (in taal A) overbrengen. ",
 		"id": "4d2bffdd-0bc2-4e19-8405-dc66fa98f402",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"b2e6fccb-2556-4515-aaf8-a78ba8aef0ca",
+			"992dfe8d-0694-4844-abfb-6a5c64ea032a",
+			"77e4da4d-189d-4beb-82ae-1087ad3f42ba",
+			"002c703d-a8c2-4bd3-837c-d0cf0e21819b",
+			"d5b78fbe-5ebf-438a-b12f-3e8ce11e8876",
+			"c54a1898-7ab3-4353-bb2d-5716e9bb53b1",
+			"b3bbf07e-50ac-42e7-be69-68468d290967",
+			"57dd9b8a-a484-40bf-baca-2d484d232451",
+			"c3b785f8-996a-44e5-93ce-1114ee535906",
+			"e79ad161-35bd-4cfd-8d1f-781a264a7af4",
+			"a983903a-aff9-4219-b832-da1f2d2d2490"
+		]
 	},
 	{
 		"niveau_id": [
