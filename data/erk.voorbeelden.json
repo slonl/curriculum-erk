@@ -12350,5 +12350,41 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Aan het thuisfront vertellen over de inhoud de cursus die je in het buiteland volgt en de feedback die je van de docenten hebt gekregen.",
 		"description": ""
+	},
+	{
+		"id": "927b569b-d61a-4c1a-8fbf-3b267a9be481",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Presentaties, boeken en artikelen die in een andere taal zijn geschreven dan de taal gebruikt door de spreker.",
+		"description": ""
+	},
+	{
+		"id": "6d240891-aa11-4dc5-9c2f-c8ba1c261471",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Presentaties, boeken en artikelen die in dezelfde taal zijn geschreven als de taal gebruikt door de spreker.",
+		"description": ""
+	},
+	{
+		"id": "ed736d3d-0ed5-47cb-9b65-a85bd7ad007b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Vakgenoten vertellen over relevante poster-presentaties die plaatsvonden tijdens een vakbeurs.",
+		"description": ""
+	},
+	{
+		"id": "9d5146ee-eb54-4ae0-8b63-53ebef2a1d7c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Collega's op de hoogte brengen van informatie uit artikelen die relevant zijn voor een project.",
+		"description": ""
+	},
+	{
+		"id": "17b9bd1c-db5c-430d-9648-b83afe05bec8",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Klasgenoten vertellen over een workshop tijdens een projectweek.",
+		"description": ""
+	},
+	{
+		"id": "8cfd2434-b716-47a7-9835-161f175aa6b3",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Medeleerlingen of medestudenten vertellen over de belangrijkste punten van een webinar ter introductie van een discussie.",
+		"description": ""
 	}
 ]
