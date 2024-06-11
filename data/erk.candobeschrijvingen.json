@@ -2718,10 +2718,21 @@
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan (in taal B) eenvoudige visuele weergaven over vertrouwde onderwerpen (bijvoorbeeld een weerkaart, een elementair stroomdiagram) (met tekst in taal A) interpreteren en beschrijven, hoewel pauzes, valse starts en herformuleringen duidelijk voor kunnen komen.\n",
+		"title": "Kan (in taal B) eenvoudige visuele weergaven over vertrouwde onderwerpen (met tekst in taal A) interpreteren en beschrijven, hoewel pauzes, valse starts en herformuleringen duidelijk voor kunnen komen.\n",
 		"id": "43df3186-f5a9-4013-9042-be9d7e1028b1",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"f18d7011-f836-48d4-80cc-98e564930a83",
+			"8c8983a0-b5ef-42f9-b229-9380e76d1b8a",
+			"17d43201-fe3d-4974-99f6-f1795fda7f22",
+			"a9aa730f-9a73-44e0-80f8-27ef4636332c",
+			"3fd494dc-6646-46c3-964e-5c54ed037a61",
+			"3478612f-162b-45c5-b359-c97342579917",
+			"b980e938-c2e1-46ce-8e5a-d2b14dc27159",
+			"9d730c26-1ec0-4470-8233-6ed73120abbf",
+			"c1f70f88-f662-454c-9739-624fdaf997ee"
+		]
 	},
 	{
 		"niveau_id": [
