@@ -12956,5 +12956,59 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Een artikel schrijven op basis van gelezen bronnen.",
 		"description": ""
+	},
+	{
+		"id": "f18d7011-f836-48d4-80cc-98e564930a83",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een weerkaart.",
+		"description": ""
+	},
+	{
+		"id": "8c8983a0-b5ef-42f9-b229-9380e76d1b8a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een elementair stroomdiagram met de visualisatie van een eenvoudig proces.",
+		"description": ""
+	},
+	{
+		"id": "17d43201-fe3d-4974-99f6-f1795fda7f22",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een plattegrond.",
+		"description": ""
+	},
+	{
+		"id": "a9aa730f-9a73-44e0-80f8-27ef4636332c",
+		"prefix": "",
+		"title": "Een voorbeeld van een bron - Een grafiek met schoolscores.",
+		"description": ""
+	},
+	{
+		"id": "3fd494dc-6646-46c3-964e-5c54ed037a61",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Uitleggen hoe het weer zich in het weekend gaat ontwikkelen aan de hand van een kaart.",
+		"description": ""
+	},
+	{
+		"id": "3478612f-162b-45c5-b359-c97342579917",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De stappen voor het maken van een opdracht uitleggen aan de hand van een eenvoudig stroomdiagram.",
+		"description": ""
+	},
+	{
+		"id": "b980e938-c2e1-46ce-8e5a-d2b14dc27159",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Uitleggen wat er in een winkelcentrum te vinden is en waar, aan de hand van een plattegrond.",
+		"description": ""
+	},
+	{
+		"id": "9d730c26-1ec0-4470-8233-6ed73120abbf",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Uitleggen hoe je iets in een apparaat kunt vervangen aan de hand van een plaatje.",
+		"description": ""
+	},
+	{
+		"id": "c1f70f88-f662-454c-9739-624fdaf997ee",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De stappen voor het maken van een gezonde maaltijd uitleggen aan de hand van illustraties.",
+		"description": ""
 	}
 ]
