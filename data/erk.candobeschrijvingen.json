@@ -3278,7 +3278,14 @@
 		"title": "Kan in duidelijke en goed gestructureerde taal (in taal B)de informatie en argumenten uit een complexte tekst (in taal A) samenvatten die gaat over een breed scala aan onderwerpen gerelateerd aan de eigen interesse- en specialisatiegebieden.",
 		"id": "63925b08-f789-42b4-9a67-43117df0b19b",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"d690a49d-4675-4bb3-92e4-764739081be8",
+			"32f613b6-c489-40bc-8d0e-ad2c4e73d537",
+			"4cba3b3d-c013-45ea-b1af-774fe4ef8957",
+			"0c72f31e-dcfc-4d27-9953-13b5f53df768",
+			"9afcc690-92d1-4231-9904-65adc2005dfd"
+		]
 	},
 	{
 		"niveau_id": [
