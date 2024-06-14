@@ -3355,7 +3355,14 @@
 		"title": "Kan (in taal B) een discussie (in taal A) over zaken binnen het eigen academische of professionele vakgebied samenvatten, verschillende standpunten toelichten en vergelijken en de belangrijkste punten aanwijzen.",
 		"id": "f5fdcb2b-25a9-486b-b408-835af841cccd",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"0033a868-ee4a-4698-9b7e-b6dd6a4728f0",
+			"5c39f783-5319-4fda-a754-060a3d17964e",
+			"de39b3ab-7ec7-4a5a-ab03-7b647ffcb801",
+			"171d12ee-3243-4976-b426-f7a2635ae3e5",
+			"f6fc613c-4e15-4d7e-b3a2-387b682a9d31"
+		]
 	},
 	{
 		"niveau_id": [
