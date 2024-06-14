@@ -13184,5 +13184,83 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - De financiële situatie en de gevolgen daarvan toelichten tijdens een vergadering.",
 		"description": ""
+	},
+	{
+		"id": "f4570ee3-b5e7-4e05-bbd0-abbbd3e96357",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een infographic bij een informatief krantenartikel.",
+		"description": ""
+	},
+	{
+		"id": "30e6aff4-6704-4790-920c-e36d643086cf",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een venndiagram.",
+		"description": ""
+	},
+	{
+		"id": "77ac8b99-ad09-4080-9808-0a15ca3ef912",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een mindmap.",
+		"description": ""
+	},
+	{
+		"id": "44973357-0ace-4540-a90b-188305ce35c1",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een stroomdiagram met de visualisatie van een stappenplan.",
+		"description": ""
+	},
+	{
+		"id": "02ec5e43-d654-49e9-8383-fb4b7cfab59c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een plattegrond.",
+		"description": ""
+	},
+	{
+		"id": "88b05793-d66d-49e4-9d2f-37d932ccbb24",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een bericht sturen met aanwijzingen op basis van een bijgevoegde kaart of plattegrond.",
+		"description": ""
+	},
+	{
+		"id": "8d15473b-4aff-4dba-a9ff-5575e1f84dbf",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Opmerkingen over zichtbare trends in een visuele weergave plaatsen op een discussieforum.",
+		"description": ""
+	},
+	{
+		"id": "9c9d5804-c976-4ddf-bf7f-732461187acb",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan de hand van een mindmap de stappen beschrijven voor het maken van een werkstuk.",
+		"description": ""
+	},
+	{
+		"id": "f68c0094-3fd9-49c0-ab1f-6bc1d0d88269",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een staafdiagram over de ontwikkeling van landelijke studiekeuzes.",
+		"description": ""
+	},
+	{
+		"id": "77d36813-dfc7-4d95-a3fb-8137baf89dff",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een eenvoudige grafiek van financiële uitgaven.",
+		"description": ""
+	},
+	{
+		"id": "61dba178-23a4-4196-ae13-6c19f1a861f7",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een zelfgemaakte infographic over natuurgebieden in Nederland toelichten in een artikel.",
+		"description": ""
+	},
+	{
+		"id": "40b37e4e-9dbd-4e77-9788-7f126b9d3ed0",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De inkomsten en uitgaven van een zelf georganiseerd evenement toelichten.",
+		"description": ""
+	},
+	{
+		"id": "baad231f-2e37-4258-9904-c50b9a74a11e",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De ontwikkelingen in een verhaal toelichten aan de hand van een visualisatie.",
+		"description": ""
 	}
 ]
