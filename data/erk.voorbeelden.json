@@ -13766,5 +13766,41 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - De meest opvallende nieuwtjes uit een tijdschrift vertellen.",
 		"description": ""
+	},
+	{
+		"id": "567053f1-3ae2-49dd-8237-22cd934be9d9",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Recensies over een film op een streamingservice.",
+		"description": ""
+	},
+	{
+		"id": "24bafb06-d53c-44b5-82a0-75d2547e8a4d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Krantenartikelen met het laatste nieuws uit het buitenland.",
+		"description": ""
+	},
+	{
+		"id": "0caee299-c893-4e30-8166-58a99ca6f0d8",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Visuele en geschreven bronnen over een gebeurtenis uit de geschiedenis.",
+		"description": ""
+	},
+	{
+		"id": "6e4f5771-b2bb-4170-9053-94a94773c07a",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De informatie uit verschillende bronnen samenvatten in een presentatie over helden uit het verleden.",
+		"description": ""
+	},
+	{
+		"id": "5bbf977e-25f2-4b16-ab5e-cb3d694fe79f",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De recensies over een voorstelling gebruiken voor een vlog over die voorstelling.",
+		"description": ""
+	},
+	{
+		"id": "46846981-0254-4e1f-a183-642e94fae57b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een overzicht maken van het belangrijkste nieuws van de zomer.",
+		"description": ""
 	}
 ]
