@@ -2883,7 +2883,17 @@
 		"title": "Kan betrouwbaar schriftelijk (in taal B) gedetailleerde informatie uit diagrammen en andere visueel geordende gegevens in de eigen interessegebieden (met tekst in taal A) interpreteren en presenteren.",
 		"id": "52b77261-eb11-4201-9385-1f896557203a",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"c66a7076-b6d3-44b3-bc01-b01b0760c3ab",
+			"a143b460-1253-4e42-bd9b-50bc46a039dd",
+			"6e4c3a56-c25f-456a-9635-33d7b17a90e5",
+			"cb6c5957-af54-44e5-a59e-8a80090c7d61",
+			"c5ab4603-a04a-4132-ba3d-23acaca52948",
+			"a0e77634-647b-44ce-a7d5-8a49862182b2",
+			"a783363f-4013-4e2d-9ca7-859cb3a6bce8",
+			"d7399b9f-fe3f-4088-a9e4-2a63aa2058be"
+		]
 	},
 	{
 		"niveau_id": [
