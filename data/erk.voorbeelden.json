@@ -13580,5 +13580,41 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Over de uitspraken van een popster in een interview vertellen.",
 		"description": ""
+	},
+	{
+		"id": "19bd3bf6-6ccb-4073-bc7a-8cbbc86405ac",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een reportage op het web.",
+		"description": ""
+	},
+	{
+		"id": "07500e14-8925-457c-9f10-60471ec57e16",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Het journaal.",
+		"description": ""
+	},
+	{
+		"id": "35b58625-033d-48b2-8dec-44b113059f8a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een praatprogramma met de acteurs van een nieuwe film.",
+		"description": ""
+	},
+	{
+		"id": "2fca172c-8292-46e7-b900-3df791e737d8",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een tutorial.",
+		"description": ""
+	},
+	{
+		"id": "4b9a950a-b852-4e8e-ae91-757369757149",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De essentie van een aftermovie van een prijsuitreiking samenvatten in een conversatie.",
+		"description": ""
+	},
+	{
+		"id": "2d21b0ac-3ed1-427a-b9e9-954a1a1d26bd",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Iemand over een live stream vertellen die je gevolgd hebt.",
+		"description": ""
 	}
 ]
