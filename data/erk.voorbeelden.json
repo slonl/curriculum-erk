@@ -13046,5 +13046,83 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Statistieken over het gebruik van het openbaar vervoer beschrijven en interpreteren.",
 		"description": ""
+	},
+	{
+		"id": "d764abce-1ef7-494b-a21c-bc9431cf2547",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een overzichtelijke visualisatie van de werking van een systeem.",
+		"description": ""
+	},
+	{
+		"id": "7076d7eb-0f46-44ab-877c-396326290e5b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een diagram voor het opstellen van een actieplan.",
+		"description": ""
+	},
+	{
+		"id": "6e4c030f-f087-4cac-988f-534f0cb405e5",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een diagram bij een schoolvak.",
+		"description": ""
+	},
+	{
+		"id": "abf1ca7f-e133-4d6a-afec-15225371bce1",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Uitleggen hoe een warmtepomp werkt met gebruik van een visuele weergave.",
+		"description": ""
+	},
+	{
+		"id": "e0a881b3-347b-44c8-b7fd-3380107141c0",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Met een stroomschema historische gebeurtenissen en hun onderlinge relaties uitleggen.",
+		"description": ""
+	},
+	{
+		"id": "46b971e3-0855-49a7-9e67-59eb6f80ca7b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De factoren presenteren die bijdragen aan de fysieke prestaties van een atleet bij een bepaalde sport.",
+		"description": ""
+	},
+	{
+		"id": "d15b6178-da0c-456e-ae83-9aa111718647",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De stappen uitleggen voor het schrijven van een effectieve betogende tekst.",
+		"description": ""
+	},
+	{
+		"id": "57d1894d-e702-4279-9a50-6d798a8791c5",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een meerjarenplan van een bedrijf.",
+		"description": ""
+	},
+	{
+		"id": "c52221de-da9a-4376-ae1a-b7bf77dbbe72",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Diagrammen over economische ontwikkelingen in een land.",
+		"description": ""
+	},
+	{
+		"id": "b4851217-d1e5-4c8d-8b00-b29f0df31501",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een visualisatie van ruimtelijke ordening en stadsontwikkeling.",
+		"description": ""
+	},
+	{
+		"id": "76df8ff3-db6f-4a1f-9f5a-3ea328577e28",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Trends in de voedselconsumptie en maatschappelijke ontwikkelingen presenteren en interpreteren.",
+		"description": ""
+	},
+	{
+		"id": "a725e958-144b-47fa-9550-e8a854153df8",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Veranderingen in de bevolking in de loop van de tijd en de consequenties daarvan beschrijven.",
+		"description": ""
+	},
+	{
+		"id": "1c82e95e-7671-4d1d-8b51-b0e6e287520a",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een diagram van biologie toelichten.",
+		"description": ""
 	}
 ]
