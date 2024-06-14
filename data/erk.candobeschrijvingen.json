@@ -3014,7 +3014,15 @@
 		"title": "Kan (in taal B) verslag doen van de belangrijkste punten in eenvoudige nieuwsberichten op televisie of radio (in taal A) over evenementen, sport, ongelukken enzovoort, mits de onderwerpen vertrouwd zijn en langzaam en duidelijk worden overgebracht.",
 		"id": "ff94421e-c08a-44e3-95a5-00375d496a7a",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"cf058a07-b0c1-4cc3-bd75-3f1ab4b64483",
+			"f741de62-794a-40dd-9109-4237ff748695",
+			"bbd7007f-6c33-425c-bea9-ae9cc61a32a3",
+			"23c4062e-5955-4e21-9794-066443ea0564",
+			"9babd0cd-259c-42bb-bf79-7be9c81c3236",
+			"667b3d6c-87a8-4819-b96a-4249c6ae9533"
+		]
 	},
 	{
 		"niveau_id": [
