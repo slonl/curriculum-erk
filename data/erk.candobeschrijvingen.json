@@ -3148,7 +3148,14 @@
 		"title": "Kan (in taal B) de belangrijkste punten in lange teksten (in taal A) over onderwerpen binnen de eigen belangstellingssfeer samenvatten, mits het mogelijk is om de betekenis van bepaalde uitdrukkingen te controleren.",
 		"id": "1f7b9708-2445-4a31-bbde-8b64120d63dc",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"9a81780f-a463-406a-95c3-30ef03644f84",
+			"b98988b7-2165-43a3-a239-d3a57472b33c",
+			"50f11d31-94df-48c7-a30b-226782b98561",
+			"9d9f6ec8-3e44-4eb6-888f-bddaa8837cb8",
+			"35d347f8-3c75-4cde-a9d2-a71286dcc58f"
+		]
 	},
 	{
 		"niveau_id": [
