@@ -3243,10 +3243,19 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan (in taal B) informatie en argumenten uit verschillende bronnen samenbrengen(in taal A).",
+		"title": "Kan (in taal B) informatie en argumenten uit verschillende bronnen samenbrengen (in taal A).",
 		"id": "4d090bf5-9116-42d5-92fc-5949568450b7",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"4d5cc43b-0935-489f-b851-6d5801850847",
+			"fe351fe0-757a-419d-92b5-96d440c20869",
+			"b9ed0161-8082-4048-876a-bc2a15f25884",
+			"cfee13c8-0343-4bcd-af30-2532f56b3605",
+			"dbf1b0da-830b-4f1e-a6f4-81b75be66d84",
+			"3a0cbe2e-c434-4cc8-9f30-afa9635eb550",
+			"2cf1666f-27c8-412c-9292-0a0acd01a5c0"
+		]
 	},
 	{
 		"niveau_id": [
