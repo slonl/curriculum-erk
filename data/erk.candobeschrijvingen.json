@@ -3215,7 +3215,14 @@
 		"title": "Kan (in taal B) de belangrijke punten samenvatten die worden gemaakt in langere complexe teksten (in taal A) over onderwerpen van actueel belang, waaronder de eigen bijzondere interessegebieden.",
 		"id": "0014a3c3-16ea-4541-a992-3af6d9ed975b",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"45bf0526-c93d-4923-b34a-233c3aceef02",
+			"4b55119b-186f-4f15-ace6-f6b8569f0006",
+			"437e049f-eb96-47ec-9bd8-6d5e19e626be",
+			"53b8f8c9-a1d0-4327-9bc7-3d638d0ff282",
+			"50cfb349-43ca-41ea-a9d9-d957ba505ce0"
+		]
 	},
 	{
 		"niveau_id": [
