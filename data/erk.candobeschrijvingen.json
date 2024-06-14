@@ -3262,7 +3262,14 @@
 			"01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
 		],
 		"title": "Kan (in taal B) de belangrijkste punten van complexe discussies (in taal A) samenvatten en de verschillende standpunten die worden gepresenteerd met elkaar vergelijken.",
-		"id": "4a6f6b5b-c2bd-4f0d-9066-197e697e9f47"
+		"id": "4a6f6b5b-c2bd-4f0d-9066-197e697e9f47",
+		"erk_voorbeeld_id": [
+			"4a5accef-7fe1-4290-83b2-827e1e372a61",
+			"8a5dc8da-0b2c-43be-81d8-7e24e5cdf868",
+			"c24aaf2d-8060-4905-9568-0542c0a748a7",
+			"1495576f-dfb0-4ca7-9572-54a26260b234",
+			"41342eb6-dd8e-40ec-8356-8f7b3538678d"
+		]
 	},
 	{
 		"niveau_id": [
