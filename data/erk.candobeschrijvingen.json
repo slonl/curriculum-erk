@@ -2738,10 +2738,19 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan (in taal B) algemene trends, die zijn weergegeven in eenvoudige diagrammen (bijvoorbeeld grafieken, staafdiagrammen) (met tekst in taal A) interpreteren en beschrijven, hoewel lexicale beperkingen het formuleren soms bemoeilijken.",
+		"title": "Kan (in taal B) algemene trends, die zijn weergegeven in eenvoudige diagrammen (met tekst in taal A) interpreteren en beschrijven, hoewel lexicale beperkingen het formuleren soms bemoeilijken.",
 		"id": "89c61568-7d20-47e7-b7d8-07d45fb2061c",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"fb7f1215-ac59-4c3e-8f48-584c3c828c6c",
+			"27bb42b3-2ebe-4bc8-8379-24ba4f6550d5",
+			"f4ed7595-036b-40c1-998d-2a9817e548d2",
+			"807d1a8a-6343-44e9-8005-d6e381e2d04a",
+			"bb8095f4-0cd6-48b8-9289-f7e53cfa9d43",
+			"d47f1c4c-0157-4f8f-99fa-e9af5408ea0a",
+			"d47f1c4c-0157-4f8f-99fa-e9af5408ea0a"
+		]
 	},
 	{
 		"niveau_id": [
