@@ -13688,5 +13688,47 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - De conclusies van een adviesgesprek voor iemand samenvatten om samen een beslissing te nemen.",
 		"description": ""
+	},
+	{
+		"id": "c69bf022-e9be-4362-a44a-3712c45fc392",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een nieuwsartikel in een tijdschrift over een actuele gebeurtenis.",
+		"description": ""
+	},
+	{
+		"id": "04ed8b02-9a95-4d5d-b864-ef43bffa2541",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een straatinterview in het journaal.",
+		"description": ""
+	},
+	{
+		"id": "3dab2c9c-8092-479d-b251-28f843c89544",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een filmrecensie.",
+		"description": ""
+	},
+	{
+		"id": "3e909ea3-9fe3-4a28-8471-73497fb2795e",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een reisbrochure.",
+		"description": ""
+	},
+	{
+		"id": "443367b5-285f-427f-968c-63e1f25056e7",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De recensies van een film voor een vriend/in samenvatten om samen te beslissen of jullie de film willen zien.",
+		"description": ""
+	},
+	{
+		"id": "dcbd64e8-8170-454f-8065-82076deef17e",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De informatie uit de brochure van een reisbestemming samenvatten tijdens het plannen van een vakantie.",
+		"description": ""
+	},
+	{
+		"id": "c5cca91b-d48d-4b8f-b1ce-21ccf7b9b7b8",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een korte video maken met informatie over de eigen hobby.",
+		"description": ""
 	}
 ]
