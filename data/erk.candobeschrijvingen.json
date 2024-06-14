@@ -3079,10 +3079,19 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan (in taal B) eenvoudig de belangrijkste informatie-inhoud van eenduidige teksten (in taal A) over vertrouwde onderwerpen samenvatten (bijvoorbeeld een opname van een interview, tijdschriftartikel, reisbrochure).",
+		"title": "Kan (in taal B) eenvoudig de belangrijkste informatie-inhoud van eenduidige teksten (in taal A) over vertrouwde onderwerpen samenvatten.",
 		"id": "b9b60d28-1a1b-4c09-96d1-66ca1ed53c4c",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"c69bf022-e9be-4362-a44a-3712c45fc392",
+			"04ed8b02-9a95-4d5d-b864-ef43bffa2541",
+			"3dab2c9c-8092-479d-b251-28f843c89544",
+			"3e909ea3-9fe3-4a28-8471-73497fb2795e",
+			"443367b5-285f-427f-968c-63e1f25056e7",
+			"dcbd64e8-8170-454f-8065-82076deef17e",
+			"c5cca91b-d48d-4b8f-b1ce-21ccf7b9b7b8"
+		]
 	},
 	{
 		"niveau_id": [
