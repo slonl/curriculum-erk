@@ -2978,7 +2978,15 @@
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
 		"title": "Kan (in taal B) het belangrijkste punt of de belangrijkste punten in eenvoudige, korte informatieve teksten (in taal A) over vertrouwde onderwerpen samenvatten.",
-		"id": "c274109d-6809-451a-92c8-c8ee8a1c61b1"
+		"id": "c274109d-6809-451a-92c8-c8ee8a1c61b1",
+		"erk_voorbeeld_id": [
+			"d2236f86-343a-4078-af76-cfa9c5954e33",
+			"fc54bde4-4ff5-4570-8c08-d7f2f01091fa",
+			"5ab97ea5-1805-43d3-9a8b-aebba542f23a",
+			"bed26cde-c783-4107-b40a-7683ec8862f2",
+			"bb64fb2c-5476-42f4-aeec-788f9b583d36",
+			"cbc8bfdc-588a-4fc6-8253-4cbb9181aa95"
+		]
 	},
 	{
 		"niveau_id": [
