@@ -3179,7 +3179,15 @@
 		"title": "Kan (in taal B) hoofdpunten van nieuwsberichten, vraaggesprekken of documentaires (in taal A) samenvatten, die meningen, argumenten en discussiepunten bevatten.",
 		"id": "4ae52a12-f380-42ad-849d-5a1d7abc228d",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"807ec2b2-2cfa-4b66-b46c-dbce4029fb08",
+			"3f73ad59-7852-466d-b84e-e248f7027d5e",
+			"88cb84d2-d61b-4467-9eee-7b9ab75c2da6",
+			"e18ee54c-7beb-4457-a0c0-db4b95543756",
+			"315c5105-fff8-432c-8a51-bfac3c41651e",
+			"94fff378-5d13-46c8-ae72-ecc713617586"
+		]
 	},
 	{
 		"niveau_id": [
