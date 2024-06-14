@@ -13910,5 +13910,41 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Vertellen waar een voorstelling over ging.",
 		"description": ""
+	},
+	{
+		"id": "807ec2b2-2cfa-4b66-b46c-dbce4029fb08",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Jeugddocumentaires.",
+		"description": ""
+	},
+	{
+		"id": "3f73ad59-7852-466d-b84e-e248f7027d5e",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Podcasts.",
+		"description": ""
+	},
+	{
+		"id": "88cb84d2-d61b-4467-9eee-7b9ab75c2da6",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een platform voor onafhankelijke journalistiek.",
+		"description": ""
+	},
+	{
+		"id": "e18ee54c-7beb-4457-a0c0-db4b95543756",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Praatprogramma's.",
+		"description": ""
+	},
+	{
+		"id": "315c5105-fff8-432c-8a51-bfac3c41651e",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De uitspraken in een praatprogramma over prestatiedruk met vrienden samenvatten en bespreken.",
+		"description": ""
+	},
+	{
+		"id": "94fff378-5d13-46c8-ae72-ecc713617586",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een video maken met de samenvatting van het wereldnieuws.",
+		"description": ""
 	}
 ]
