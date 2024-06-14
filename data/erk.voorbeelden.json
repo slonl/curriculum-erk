@@ -13616,5 +13616,41 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Iemand over een live stream vertellen die je gevolgd hebt.",
 		"description": ""
+	},
+	{
+		"id": "377663ec-8a44-4d14-86b9-047b192ae963",
+		"prefix": "",
+		"title": "Voorbeelden van een bron - Een podcast.",
+		"description": ""
+	},
+	{
+		"id": "fcf1fae6-8f1c-49c2-aba5-c6b1fa4c1f0e",
+		"prefix": "",
+		"title": "Voorbeelden van een bron - Een online les.",
+		"description": ""
+	},
+	{
+		"id": "80c695ff-1296-48f8-8c97-20a13fbd4dc6",
+		"prefix": "",
+		"title": "Voorbeelden van een bron - Een hoofdstuk uit een audioboek.",
+		"description": ""
+	},
+	{
+		"id": "8bc7b2a2-2f26-4c73-a6e4-e1a20b101fd4",
+		"prefix": "",
+		"title": "Voorbeelden van een bron - Een online presentatie.",
+		"description": ""
+	},
+	{
+		"id": "f553728c-0eb9-4bdf-9ba2-ca3e8486afa3",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De inhoud van een online les samenvatten voor een klasgenoot.",
+		"description": ""
+	},
+	{
+		"id": "79679921-8717-4b41-b4ed-64fad17278d3",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De meest interessante fragmenten van een podcast over een favoriete schrijver samenvatten in een conversatie.",
+		"description": ""
 	}
 ]
