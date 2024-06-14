@@ -3100,7 +3100,15 @@
 		"title": "Kan (in taal B) de belangrijkste punten  in heldere, goed gestructureerde teksten (in taal A) over vertrouwde onderwerpen of onderwerpen binnen de eigen belangstelling samenvatten, hoewel lexicale beperkingen soms moeite bij het formuleren kunnen veroorzaken.",
 		"id": "64b201b4-a734-49ab-99ba-3d535441f252",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"36acfe6f-734e-4fee-9bab-8c4c7ae6369f",
+			"da25c33e-d7b1-4e4a-9783-64df5421133f",
+			"868f3123-24a7-438e-bc12-25f3d38bdb94",
+			"e25af416-2a23-4317-859b-02c3b3ffd50d",
+			"9ae4eb83-ec6f-4978-8561-14796fb0f836",
+			"6eedc3f8-e82a-4dba-93b3-18ebc0285b31"
+		]
 	},
 	{
 		"niveau_id": [
