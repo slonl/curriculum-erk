@@ -3294,7 +3294,15 @@
 		"title": "Kan (in taal B) de houding of mening die wordt uitgedrukt in een tekst (in taal A) over een specialistisch onderwerp uitleggen en eigen gevolgtrekkingen ondersteunen door te verwijzen naar specifieke passages in het origineel.",
 		"id": "d81c9ce6-d911-4491-9999-eabbc9bea14e",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"5310c679-a687-4e57-a3ca-aa5f57dd98a3",
+			"440d7f5e-6342-46cc-83c4-c69320deefbf",
+			"a9f3654b-2c10-41e2-9059-c501978d8f28",
+			"a970877d-7955-43e9-ac8d-1e22f8b8edb7",
+			"d47faf7f-efcd-4a3f-b460-7c7a618c5175",
+			"c84c7c6b-004b-499e-b628-4eae6aca6a05"
+		]
 	},
 	{
 		"niveau_id": [
