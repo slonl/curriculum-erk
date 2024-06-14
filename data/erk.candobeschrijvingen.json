@@ -3048,7 +3048,15 @@
 		"title": "Kan (in taal B) de belangrijkste punten in lange mondelinge teksten (in taal A) over onderwerpen binnen de eigen belangstellingssfeer samenvatten, als het mogelijk is om meerdere keren te luisteren of te kijken.",
 		"id": "5e7bb9a2-3aa6-4ce3-8948-e40556e77f4d",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"377663ec-8a44-4d14-86b9-047b192ae963",
+			"fcf1fae6-8f1c-49c2-aba5-c6b1fa4c1f0e",
+			"80c695ff-1296-48f8-8c97-20a13fbd4dc6",
+			"8bc7b2a2-2f26-4c73-a6e4-e1a20b101fd4",
+			"f553728c-0eb9-4bdf-9ba2-ca3e8486afa3",
+			"79679921-8717-4b41-b4ed-64fad17278d3"
+		]
 	},
 	{
 		"niveau_id": [
