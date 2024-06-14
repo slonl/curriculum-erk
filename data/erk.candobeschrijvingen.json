@@ -2938,7 +2938,18 @@
 		"title": "Kan (in taal B) eenvoudige, voorspelbare informatie van direct belang overbrengen die wordt verstrekt op korte, zeer eenvoudige borden en kennisgevingen, posters en programma's (in taal A).",
 		"id": "7a5344a9-55ce-456e-b119-f31f317a0669",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"ccc1ba63-8559-4ad2-bc79-1c2f3042c1e5",
+			"47455169-a8a7-4358-ae73-a986e502c0ac",
+			"89f1f2ee-f8b3-40be-8d0f-6cd62afe757d",
+			"a7a59d78-d083-48ed-9c50-54dbd6e7f1dd",
+			"92909d4f-781f-492e-ba55-dabc83255253",
+			"9db53c21-bd63-43ac-9abf-8120a57def5e",
+			"76ad3dc5-981d-4c57-ac8c-b7e48f36dcf4",
+			"61a58ba0-689f-47e0-8cc1-a8a662eafa77",
+			"da544abc-5542-4ae1-8533-c6ff04b0d71c"
+		]
 	},
 	{
 		"niveau_id": [
