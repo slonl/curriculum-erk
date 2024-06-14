@@ -14300,5 +14300,35 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - De inhoud van een specialistisch artikel in toegankelijke bewoordingen samenvatten in een conversatie.",
 		"description": ""
+	},
+	{
+		"id": "0033a868-ee4a-4698-9b7e-b6dd6a4728f0",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een rondetafelgesprek over circulaire economie, taalvariatie en identiteit, duurzame landbouw of energie en grondstoffen.",
+		"description": ""
+	},
+	{
+		"id": "5c39f783-5319-4fda-a754-060a3d17964e",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een politiek debat.",
+		"description": ""
+	},
+	{
+		"id": "de39b3ab-7ec7-4a5a-ab03-7b647ffcb801",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - In een discussie de kernboodschappen van panelleden samenvatten uit een programma gezien op TV.",
+		"description": ""
+	},
+	{
+		"id": "171d12ee-3243-4976-b426-f7a2635ae3e5",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan het eind van een vergadering verschillende meningen en argumenten samenvatten.",
+		"description": ""
+	},
+	{
+		"id": "f6fc613c-4e15-4d7e-b3a2-387b682a9d31",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Mondeling verslag doen van een debat.",
+		"description": ""
 	}
 ]
