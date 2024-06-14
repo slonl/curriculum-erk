@@ -3065,7 +3065,15 @@
 		"title": "Kan (in taal B) de belangrijkste punten samenvatten van een gesprek (in taal A) over een onderwerp van persoonlijk of actueel belang, mits mensen duidelijk articuleren.",
 		"id": "b1982910-a4d9-438f-8f8a-add8f7bb65ac",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"ab6a857c-7730-4094-bbda-6dd509dba9c5",
+			"4bdf7bb5-aec1-4ba7-8da7-63b42cd68a05",
+			"bb9f6c6c-4b3e-434c-861a-6a2333c8ff76",
+			"6d090fe3-5927-4039-961f-0b31dd449e66",
+			"fcaaae29-4792-426c-a242-4d546724150b",
+			"e6a70eac-5acb-400a-a23f-7057d7d38234"
+		]
 	},
 	{
 		"niveau_id": [
