@@ -3229,7 +3229,15 @@
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
 		"title": "Kan (in taal B) uiteenlopende feitelijke en verzonnen teksten samenvatten (in taal A) en daarbij tegengestelde gezichtspunten en de hoofdthema’s becommentariëren en bediscussiëren.",
-		"id": "75cb6e17-d980-4c20-93ad-ccdea6e8d168"
+		"id": "75cb6e17-d980-4c20-93ad-ccdea6e8d168",
+		"erk_voorbeeld_id": [
+			"06e2ccb4-e6df-44a7-9245-39bacd9d21fb",
+			"79b8967d-1e04-4589-8c19-7d52fa8e9da6",
+			"81465cb4-5951-45be-8939-9e8e240fbda2",
+			"0710d42f-ab73-4358-af2c-b2602c3d32ae",
+			"45a15c6c-9d91-4e0c-a001-99904343eb3d",
+			"7925cb11-4cf3-428a-8c47-c33d2eefce20"
+		]
 	},
 	{
 		"niveau_id": [
