@@ -13730,5 +13730,41 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Een korte video maken met informatie over de eigen hobby.",
 		"description": ""
+	},
+	{
+		"id": "36acfe6f-734e-4fee-9bab-8c4c7ae6369f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De regels van een bordspel.",
+		"description": ""
+	},
+	{
+		"id": "da25c33e-d7b1-4e4a-9783-64df5421133f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een artikel uit een magazine.",
+		"description": ""
+	},
+	{
+		"id": "868f3123-24a7-438e-bc12-25f3d38bdb94",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een reclame.",
+		"description": ""
+	},
+	{
+		"id": "e25af416-2a23-4317-859b-02c3b3ffd50d",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De regels van een spel aan de andere spelers uitleggen.",
+		"description": ""
+	},
+	{
+		"id": "9ae4eb83-ec6f-4978-8561-14796fb0f836",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De eigenschappen van een product uit een reclame samenvatten.",
+		"description": ""
+	},
+	{
+		"id": "6eedc3f8-e82a-4dba-93b3-18ebc0285b31",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De meest opvallende nieuwtjes uit een tijdschrift vertellen.",
+		"description": ""
 	}
 ]
