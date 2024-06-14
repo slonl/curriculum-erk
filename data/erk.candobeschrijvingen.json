@@ -2792,7 +2792,13 @@
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
 		"title": "Kan duidelijk en betrouwbaar (in taal B) de opvallende punten en details in complexe diagrammen en andere visueel geordende informatie (met tekst in taal A) over complexe academische of professionele onderwerpen interpreteren en beschrijven.",
-		"id": "335f8568-603b-4e0a-8dce-49445740cd65"
+		"id": "335f8568-603b-4e0a-8dce-49445740cd65",
+		"erk_voorbeeld_id": [
+			"66df8e5f-2293-41c4-8697-06786b573c09",
+			"aca500a7-2d9d-4538-8df0-5df9d202cea8",
+			"d6edb4ba-8886-4156-99bc-0ae0b65e2fed",
+			"6150963d-cbc6-46b5-b029-a67066aadcf6"
+		]
 	},
 	{
 		"niveau_id": [
@@ -2801,7 +2807,15 @@
 		"title": "Kan duidelijk en betrouwbaar (in taal B) verschillende vormen van empirische gegevens en visueel geordende informatie (met tekst in taal A) uit conceptueel complex onderzoek met betrekking tot academische of professionele onderwerpen interpreteren en beschrijven.",
 		"id": "b1cf19f9-fed7-4c63-a883-8d4e290f95b9",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"e46c23f4-9751-4bc9-858c-d57f5c1ca898",
+			"d7c5e10c-b7fc-4dcf-a71b-c710f6670324",
+			"7c28ed0a-24a3-40bc-a921-9842e4075c0c",
+			"1091e7c6-d08d-4d22-9c0e-23ea8a30a78d",
+			"57c10ccc-e0dc-4931-b90b-4141239c1861",
+			"8f14c367-4e3f-4ca1-875b-842571ebb53c"
+		]
 	},
 	{
 		"niveau_id": [
