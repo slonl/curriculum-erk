@@ -13874,5 +13874,41 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - De meest interessante nieuwtjes samenvatten uit de afleveringen van een programma over entertainment.",
 		"description": ""
+	},
+	{
+		"id": "685e12a9-1972-422a-ace2-70f5b0def93a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Films en series van verschillende genres, bijvoorbeeld actiefilms, thriller, sci-fi, romantiek.",
+		"description": ""
+	},
+	{
+		"id": "663752a3-b125-4741-9ef1-654d8d0bb8ca",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Komedie en drama.",
+		"description": ""
+	},
+	{
+		"id": "64f08ab5-3c1d-49e1-97f6-363f72c60fe7",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Musical en muziektheater.",
+		"description": ""
+	},
+	{
+		"id": "2837264c-783c-4b97-a782-b98897fc2f54",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Cabaret.",
+		"description": ""
+	},
+	{
+		"id": "8f1d3f1b-c440-472d-b334-ad4f61cd53d2",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Het verhaal van de film die je onlangs hebt gezien samenvatten in een gesprek.",
+		"description": ""
+	},
+	{
+		"id": "0fa20a9a-6c1b-4dfe-a8f0-553019eabfc2",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Vertellen waar een voorstelling over ging.",
+		"description": ""
 	}
 ]
