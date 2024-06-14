@@ -2759,7 +2759,16 @@
 		"title": "Kan (in taal B) gedetailleerde informatie in diagrammen (met tekst in taal A) over onderwerpen in de eigen interessegebieden interpreteren en beschrijven, hoewel lexicale hiaten kunnen zorgen voor aarzeling of onnauwkeurige formulering.",
 		"id": "9f89f507-3b5d-4386-9a4c-fa8c66e7804d",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"d764abce-1ef7-494b-a21c-bc9431cf2547",
+			"7076d7eb-0f46-44ab-877c-396326290e5b",
+			"6e4c030f-f087-4cac-988f-534f0cb405e5",
+			"abf1ca7f-e133-4d6a-afec-15225371bce1",
+			"e0a881b3-347b-44c8-b7fd-3380107141c0",
+			"46b971e3-0855-49a7-9e67-59eb6f80ca7b",
+			"d15b6178-da0c-456e-ae83-9aa111718647"
+		]
 	},
 	{
 		"niveau_id": [
@@ -2768,7 +2777,15 @@
 		"title": "Kan betrouwbaar (in taal B) gedetailleerde informatie in complexe diagrammen, grafieken en andere visueel geordende informatie (met tekst in taal A) over onderwerpen in het eigen interessegebieden interpreteren en beschrijven.",
 		"id": "3e57540c-2817-40d5-b487-a723494effd2",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"57d1894d-e702-4279-9a50-6d798a8791c5",
+			"c52221de-da9a-4376-ae1a-b7bf77dbbe72",
+			"b4851217-d1e5-4c8d-8b00-b29f0df31501",
+			"76df8ff3-db6f-4a1f-9f5a-3ea328577e28",
+			"a725e958-144b-47fa-9550-e8a854153df8",
+			"1c82e95e-7671-4d1d-8b51-b0e6e287520a"
+		]
 	},
 	{
 		"niveau_id": [
