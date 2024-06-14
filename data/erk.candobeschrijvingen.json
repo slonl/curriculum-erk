@@ -3369,7 +3369,14 @@
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
 		"title": "Kan (in taal B) lange, veeleisende teksten (in taal A) samenvatten.",
-		"id": "fd98ebe9-ba11-4af9-a941-27a4af17f08a"
+		"id": "fd98ebe9-ba11-4af9-a941-27a4af17f08a",
+		"erk_voorbeeld_id": [
+			"692c307e-e148-4e3f-a3e1-d4d0dfca0a80",
+			"ca47d6b5-313a-462d-b9b5-7a24b8470ed5",
+			"b2997e28-1a02-48f0-962b-26731de4e88d",
+			"6c7ffc48-d70f-4f2e-be71-2fd958f4fedb",
+			"1d074f8c-b0e5-4d8f-87fa-192075cdb4db"
+		]
 	},
 	{
 		"niveau_id": [
