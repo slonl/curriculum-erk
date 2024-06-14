@@ -13496,5 +13496,53 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Kort vertellen wat de hoogtepunten tijdens een rondleiding zijn uit de folder.",
 		"description": ""
+	},
+	{
+		"id": "05da5dc0-6083-47e5-b2e8-f27c9abe3ed4",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een korte informatieve tekst over de fauna van het gebied.",
+		"description": ""
+	},
+	{
+		"id": "b4f1e472-97ff-476d-b75e-13241c880747",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een visuele handleiding voor widgets.",
+		"description": ""
+	},
+	{
+		"id": "2f789374-5fed-499c-814b-6c483c6e42ca",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een infographic met een stappenplan.",
+		"description": ""
+	},
+	{
+		"id": "c6f74961-ceda-4dcc-8aa7-6668d1afcc4c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Informatie en prijstabellen van een abonnement.",
+		"description": ""
+	},
+	{
+		"id": "03540f25-b665-46b2-88c9-c913a4571573",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een eenvoudig recept.",
+		"description": ""
+	},
+	{
+		"id": "6f2b12d7-c63a-42c7-9365-87b9d6148215",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Vertellen wat je nodig hebt voor een eenvoudig gerecht en hoe je dat moet maken.",
+		"description": ""
+	},
+	{
+		"id": "40cd510c-2f2d-4b8e-a70e-b69187066e5c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een vriend helpen bij het gebruik van een apparaat of het in elkaar zetten van een kast door de informatie in de handleiding te gebruiken.",
+		"description": ""
+	},
+	{
+		"id": "6c3dec7b-d39b-4fce-92bc-f5fc5c36ec1c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Iemand de verschillende opties voor een abonnement toelichten en de beste keuze helpen maken.",
+		"description": ""
 	}
 ]
