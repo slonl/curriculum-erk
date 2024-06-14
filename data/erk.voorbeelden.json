@@ -13262,5 +13262,53 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - De ontwikkelingen in een verhaal toelichten aan de hand van een visualisatie.",
 		"description": ""
+	},
+	{
+		"id": "c66a7076-b6d3-44b3-bc01-b01b0760c3ab",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een visuele weergave van onderdelen en functies van een complex apparaat of een voertuig.",
+		"description": ""
+	},
+	{
+		"id": "a143b460-1253-4e42-bd9b-50bc46a039dd",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een functieboom.",
+		"description": ""
+	},
+	{
+		"id": "6e4c3a56-c25f-456a-9635-33d7b17a90e5",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een mindmap.",
+		"description": ""
+	},
+	{
+		"id": "cb6c5957-af54-44e5-a59e-8a80090c7d61",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een interactief whiteboard.",
+		"description": ""
+	},
+	{
+		"id": "c5ab4603-a04a-4132-ba3d-23acaca52948",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een geografische kaart.",
+		"description": ""
+	},
+	{
+		"id": "a0e77634-647b-44ce-a7d5-8a49862182b2",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een mindmap over relaties tussen woorden in verschillende talen uitleggen in een reflectieblog over taalleren.",
+		"description": ""
+	},
+	{
+		"id": "a783363f-4013-4e2d-9ca7-859cb3a6bce8",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Instructies maken voor het beheren van een apparaat aan de hand van een schematische weergave.",
+		"description": ""
+	},
+	{
+		"id": "d7399b9f-fe3f-4088-a9e4-2a63aa2058be",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een blog schrijven over de belangrijkste resultaten van een enquête en daarbij trends herkennen en interpreteren.",
+		"description": ""
 	}
 ]
