@@ -3323,7 +3323,14 @@
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
 		"title": "Kan (in taal B) subtiele verschillen in de presentatie van feiten en argumenten (in taal A) uitleggen.",
-		"id": "6d831d28-c0e7-4570-8997-209cdb734901"
+		"id": "6d831d28-c0e7-4570-8997-209cdb734901",
+		"erk_voorbeeld_id": [
+			"f0a38e6f-62c2-4d96-b8cd-3d659cbd803d",
+			"3bad66c5-e5ba-418a-87f7-e3cc3a2d89db",
+			"5e9f45b8-0b56-4a66-8867-395a375e8027",
+			"ce46c31a-30c9-4ea5-a8c3-b12bb78ef7b8",
+			"e8a0532d-c289-4a74-97c1-0df2b46cccdc"
+		]
 	},
 	{
 		"niveau_id": [
