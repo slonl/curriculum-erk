@@ -13124,5 +13124,65 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Een diagram van biologie toelichten.",
 		"description": ""
+	},
+	{
+		"id": "66df8e5f-2293-41c4-8697-06786b573c09",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De weergave van beleidsimplicaties van de opbrengsten van een onderzoek.",
+		"description": ""
+	},
+	{
+		"id": "aca500a7-2d9d-4538-8df0-5df9d202cea8",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een flowchart van een bedrijfsproces.",
+		"description": ""
+	},
+	{
+		"id": "d6edb4ba-8886-4156-99bc-0ae0b65e2fed",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De visuele weergave van een complex systeem.",
+		"description": ""
+	},
+	{
+		"id": "6150963d-cbc6-46b5-b029-a67066aadcf6",
+		"prefix": "",
+		"title": "Voorbeeld va een activiteit - Tijdens een presentatie de belangrijkste resultaten van een wetenschappelijk onderzoek toelichten en interpreteren aan de hand van diagrammen en visualisaties.",
+		"description": ""
+	},
+	{
+		"id": "e46c23f4-9751-4bc9-858c-d57f5c1ca898",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een psychometrisch diagram.",
+		"description": ""
+	},
+	{
+		"id": "d7c5e10c-b7fc-4dcf-a71b-c710f6670324",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een visuele weergave in 3D van complexe functies.",
+		"description": ""
+	},
+	{
+		"id": "7c28ed0a-24a3-40bc-a921-9842e4075c0c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een gedetailleerde analyse van de gegevens van een marktonderzoek presenteren.",
+		"description": ""
+	},
+	{
+		"id": "1091e7c6-d08d-4d22-9c0e-23ea8a30a78d",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een gedetailleerde analyse van data over landelijk financieel beleid presenteren.",
+		"description": ""
+	},
+	{
+		"id": "57c10ccc-e0dc-4931-b90b-4141239c1861",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een gedetailleerde analyse van de consequenties van big data voor internationaal beleid presenteren.",
+		"description": ""
+	},
+	{
+		"id": "8f14c367-4e3f-4ca1-875b-842571ebb53c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De financiële situatie en de gevolgen daarvan toelichten tijdens een vergadering.",
+		"description": ""
 	}
 ]
