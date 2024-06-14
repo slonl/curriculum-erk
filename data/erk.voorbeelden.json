@@ -14270,5 +14270,35 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - De verschillen in het presenteren van feiten en argumenten in verschillende soorten media toelichten en verklaren.",
 		"description": ""
+	},
+	{
+		"id": "c4f99fcc-cc5c-4d76-ad84-10ac8fabab1d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een colloquium over een gespecialiseerd onderwerp.",
+		"description": ""
+	},
+	{
+		"id": "1dbe4bbf-7fd7-4d1d-a709-da5112e2cb45",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een technisch rapport bestemd voor een gespecialiseerd publiek.",
+		"description": ""
+	},
+	{
+		"id": "da4d3ef9-c06d-495c-9cd4-85eb7694798c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De relevante punten in een bouwkundig rapport samenvatten voor de eigenaar van het gebouw in kwestie.",
+		"description": ""
+	},
+	{
+		"id": "8f5c6220-43f3-4a0d-9b25-06e021d235fd",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De resultaten van een medisch onderzoek samenvatten voor familie of vrienden.",
+		"description": ""
+	},
+	{
+		"id": "f8aa0f61-7415-4126-918c-fc6f9d2d3e87",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De inhoud van een specialistisch artikel in toegankelijke bewoordingen samenvatten in een conversatie.",
+		"description": ""
 	}
 ]
