@@ -14192,5 +14192,35 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Tijdens een debat eigen argumenten ondersteunen door het toelichten van citaten uit relevante publicaties.",
 		"description": ""
+	},
+	{
+		"id": "fe992954-479f-4ef2-89ff-4d02aaf485a5",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Complexe artikelen.",
+		"description": ""
+	},
+	{
+		"id": "646ba615-8f23-4077-9d5d-f28c2ab415ee",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Toespraken.",
+		"description": ""
+	},
+	{
+		"id": "23d20773-9088-42d5-885d-2a220d5e80f1",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Vormen van fictie.",
+		"description": ""
+	},
+	{
+		"id": "be7ea38c-f415-4f87-8d30-0b6da367b53b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - In de bespreking van een voorstelling de sociaal-culturele achtergronden van de gebruikte ironie uitleggen en becommentariëren.",
+		"description": ""
+	},
+	{
+		"id": "c7361235-2ca3-4998-be40-daf2d8011986",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De gebruikte understatements in een toespraak over slavernij verklaren vanuit de context van die toespraak.",
+		"description": ""
 	}
 ]
