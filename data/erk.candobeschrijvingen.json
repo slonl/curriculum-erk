@@ -3130,7 +3130,16 @@
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
 		"title": "Kan (in taal B) een kort verhaal of artikel, een voordracht, discussie, interview of documentaire (in taal A) samenvatten en vragen over details beantwoorden.",
-		"id": "28659ea2-f244-4b43-9b0b-112c88937bab"
+		"id": "28659ea2-f244-4b43-9b0b-112c88937bab",
+		"erk_voorbeeld_id": [
+			"f34f20ac-2f15-4840-9409-5b66bf44cc79",
+			"137b3396-5a88-4cc2-967c-853fac05402b",
+			"5f5d48bb-c00c-4ff0-a1eb-82bb2ce2d25d",
+			"2c255c70-b3dc-4f74-b0fc-1f3cde841527",
+			"e34a976a-d9c7-4ba1-9df1-1625f85a57f8",
+			"c3379c3c-4901-4460-9d93-59d26def8604",
+			"b4229f8c-9cc1-4a46-bef1-cf7508e1e6b7"
+		]
 	},
 	{
 		"niveau_id": [
