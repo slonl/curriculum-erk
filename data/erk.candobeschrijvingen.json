@@ -3031,7 +3031,15 @@
 		"title": "Kan (in taal B) de belangrijkste punten of gebeurtenissen in televisieprogramma's en videoclips (in taal A) samenvatten, als het mogelijk is om meerdere keren te kijken.",
 		"id": "95528907-c115-479d-9643-b0512189445c",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"19bd3bf6-6ccb-4073-bc7a-8cbbc86405ac",
+			"07500e14-8925-457c-9f10-60471ec57e16",
+			"35b58625-033d-48b2-8dec-44b113059f8a",
+			"2fca172c-8292-46e7-b900-3df791e737d8",
+			"4b9a950a-b852-4e8e-ae91-757369757149",
+			"2d21b0ac-3ed1-427a-b9e9-954a1a1d26bd"
+		]
 	},
 	{
 		"niveau_id": [
