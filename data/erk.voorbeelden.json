@@ -13844,5 +13844,35 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - De hoogtepunten van een discussie samenvatten voor een vriend.",
 		"description": ""
+	},
+	{
+		"id": "9a81780f-a463-406a-95c3-30ef03644f84",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een actualiteitenprogramma.",
+		"description": ""
+	},
+	{
+		"id": "b98988b7-2165-43a3-a239-d3a57472b33c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Nieuwsartikelen over de laatste technologische ontwikkelingen.",
+		"description": ""
+	},
+	{
+		"id": "50f11d31-94df-48c7-a30b-226782b98561",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een hoofdstuk over de geschiedenis van een stad of gebied.",
+		"description": ""
+	},
+	{
+		"id": "9d9f6ec8-3e44-4eb6-888f-bddaa8837cb8",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Het nieuws van de laatste weken over een bepaald thema samenvatten voor een vriend.",
+		"description": ""
+	},
+	{
+		"id": "35d347f8-3c75-4cde-a9d2-a71286dcc58f",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De meest interessante nieuwtjes samenvatten uit de afleveringen van een programma over entertainment.",
+		"description": ""
 	}
 ]
