@@ -13346,5 +13346,59 @@
 		"prefix": "",
 		"title": "Voorbeeld van een bron - Een complexe datavisualisatie in een wetenschappelijk artikel.",
 		"description": ""
+	},
+	{
+		"id": "ccc1ba63-8559-4ad2-bc79-1c2f3042c1e5",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Posters en folders over evenementen.",
+		"description": ""
+	},
+	{
+		"id": "47455169-a8a7-4358-ae73-a986e502c0ac",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een dagprogramma.",
+		"description": ""
+	},
+	{
+		"id": "89f1f2ee-f8b3-40be-8d0f-6cd62afe757d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een taakbord.",
+		"description": ""
+	},
+	{
+		"id": "a7a59d78-d083-48ed-9c50-54dbd6e7f1dd",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Verkeersborden.",
+		"description": ""
+	},
+	{
+		"id": "92909d4f-781f-492e-ba55-dabc83255253",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Eenvoudige informatieborden in het openbaar vervoer.",
+		"description": ""
+	},
+	{
+		"id": "9db53c21-bd63-43ac-9abf-8120a57def5e",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Waarschuwingen op de weg in een andere taal doorgeven aan reisgenoten.",
+		"description": ""
+	},
+	{
+		"id": "76ad3dc5-981d-4c57-ac8c-b7e48f36dcf4",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De tijden van maaltijden en activiteiten in een vakantieverblijf doorgeven.",
+		"description": ""
+	},
+	{
+		"id": "61a58ba0-689f-47e0-8cc1-a8a662eafa77",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Informatie uit het schoolrooster aan klasgenoten doorgeven.",
+		"description": ""
+	},
+	{
+		"id": "da544abc-5542-4ae1-8533-c6ff04b0d71c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Eenvoudige instructies op een bord bij een attractie of in een museum doorgeven.",
+		"description": ""
 	}
 ]
