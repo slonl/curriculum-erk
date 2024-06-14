@@ -2902,7 +2902,13 @@
 		"title": "Kan duidelijk en betrouwbaar schriftelijk (in taal B) de opvallende, relevante punten in complexe diagrammen en andere visueel geordende informatie (met tekst in taal A) over complexe academische of professionele onderwerpen interpreteren en presenteren.\n",
 		"id": "121c7fba-4865-4324-8036-5edeadbcacac",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"06745760-3700-41a3-ba7f-a61eb2056564",
+			"1275c2f3-deb0-4cf8-bfb4-ed748a8617c9",
+			"f10248c5-b031-45d4-afb8-d966cd915a54",
+			"3d7d10ac-6e6c-45cf-8646-5b60a9f8e5fb"
+		]
 	},
 	{
 		"niveau_id": [
@@ -2911,7 +2917,11 @@
 		"title": "Kan schriftelijk (in taal B) verschillende vormen van empirische gegevens (met tekst in taal A) uit conceptueel complex onderzoek  met betrekking tot academische of professionele onderwerpen interpreteren en presenteren.",
 		"id": "8e69bcb5-a53d-45cb-9ffb-f1f1ccf751dc",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"5bbc6bb6-edd9-4fbb-a1a6-b23df821cf7a",
+			"22564c56-dd27-4fc2-8450-71f68facdd73"
+		]
 	},
 	{
 		"niveau_id": [
