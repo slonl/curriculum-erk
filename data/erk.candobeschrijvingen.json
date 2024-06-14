@@ -3311,7 +3311,12 @@
 		"title": "Kan gebruikmaken van informatie en argumenten uit een complexe tekst (in taal A) om over een onderwerp te discussiëren (in taal B), evaluerende opmerkingen toe te voegen, een mening te geven enzovoort.",
 		"id": "001f4a75-f3d6-4842-a2f2-1526b995afb8",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"77461a4f-a1ce-4f99-ace6-82c0113cd451",
+			"1448139b-e3ca-45bb-9a1e-532d34dd2a0c",
+			"7662121a-205d-4286-8777-fa5f233e10c8"
+		]
 	},
 	{
 		"niveau_id": [
