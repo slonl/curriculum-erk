@@ -13544,5 +13544,41 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Iemand de verschillende opties voor een abonnement toelichten en de beste keuze helpen maken.",
 		"description": ""
+	},
+	{
+		"id": "cf058a07-b0c1-4cc3-bd75-3f1ab4b64483",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Het verslag van een sportwedstrijd op TV.",
+		"description": ""
+	},
+	{
+		"id": "f741de62-794a-40dd-9109-4237ff748695",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een radiobericht over de situatie in het verkeer.",
+		"description": ""
+	},
+	{
+		"id": "bbd7007f-6c33-425c-bea9-ae9cc61a32a3",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een nieuwsbericht uit het jeugdjournaal.",
+		"description": ""
+	},
+	{
+		"id": "23c4062e-5955-4e21-9794-066443ea0564",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan een groep vrienden het verloop van een wedstrijd vertellen.",
+		"description": ""
+	},
+	{
+		"id": "9babd0cd-259c-42bb-bf79-7be9c81c3236",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De belangrijkste feitelijke informatie (wie, waar, wanneer) doorgeven uit een kort nieuwsartikel.",
+		"description": ""
+	},
+	{
+		"id": "667b3d6c-87a8-4819-b96a-4249c6ae9533",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Over de uitspraken van een popster in een interview vertellen.",
+		"description": ""
 	}
 ]
