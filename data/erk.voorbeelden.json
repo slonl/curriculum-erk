@@ -13652,5 +13652,41 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - De meest interessante fragmenten van een podcast over een favoriete schrijver samenvatten in een conversatie.",
 		"description": ""
+	},
+	{
+		"id": "ab6a857c-7730-4094-bbda-6dd509dba9c5",
+		"prefix": "",
+		"title": "Voorbeelden van een bron - Een dialoog in een film.",
+		"description": ""
+	},
+	{
+		"id": "4bdf7bb5-aec1-4ba7-8da7-63b42cd68a05",
+		"prefix": "",
+		"title": "Voorbeelden van een bron - Een interview met een popster na diens live show.",
+		"description": ""
+	},
+	{
+		"id": "bb9f6c6c-4b3e-434c-861a-6a2333c8ff76",
+		"prefix": "",
+		"title": "Voorbeelden van een bron - Een brochure met de geschiedenis en achtergrond van een bedrijf.",
+		"description": ""
+	},
+	{
+		"id": "6d090fe3-5927-4039-961f-0b31dd449e66",
+		"prefix": "",
+		"title": "Voorbeelden van een bron - Een informatiefilmpje over een product dat je wilt aanschaffen.",
+		"description": ""
+	},
+	{
+		"id": "fcaaae29-4792-426c-a242-4d546724150b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een fragment uit een serie samenvatten voor iemand die de aflevering heeft gemist.",
+		"description": ""
+	},
+	{
+		"id": "e6a70eac-5acb-400a-a23f-7057d7d38234",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De conclusies van een adviesgesprek voor iemand samenvatten om samen een beslissing te nemen.",
+		"description": ""
 	}
 ]
