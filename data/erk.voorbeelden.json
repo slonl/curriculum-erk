@@ -14330,5 +14330,35 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Mondeling verslag doen van een debat.",
 		"description": ""
+	},
+	{
+		"id": "692c307e-e148-4e3f-a3e1-d4d0dfca0a80",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een masterscriptie.",
+		"description": ""
+	},
+	{
+		"id": "ca47d6b5-313a-462d-b9b5-7a24b8470ed5",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een literaire roman.",
+		"description": ""
+	},
+	{
+		"id": "b2997e28-1a02-48f0-962b-26731de4e88d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een keynote.",
+		"description": ""
+	},
+	{
+		"id": "6c7ffc48-d70f-4f2e-be71-2fd958f4fedb",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De hoogtepunten van een webinar samenvatten voor collega's of medestudenten.",
+		"description": ""
+	},
+	{
+		"id": "1d074f8c-b0e5-4d8f-87fa-192075cdb4db",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een complexe verhaallijn in een roman samenvatten in een presentatie.",
+		"description": ""
 	}
 ]
