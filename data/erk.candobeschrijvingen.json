@@ -3349,10 +3349,17 @@
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan (in taal B) gevolgtrekkingen uitleggen als verbanden of implicaties niet expliciet zijn gemaakt (in taal A) en wijzen op de sociaal-culturele implicaties van de manier van uitdrukken (bijvoorbeeld understatement, ironie, sarcasme).",
+		"title": "Kan (in taal B) gevolgtrekkingen uitleggen als verbanden of implicaties niet expliciet zijn gemaakt (in taal A) en wijzen op de sociaal-culturele implicaties van de manier van uitdrukken.",
 		"id": "138928a7-7666-4e16-82bd-e230cea47141",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"fe992954-479f-4ef2-89ff-4d02aaf485a5",
+			"646ba615-8f23-4077-9d5d-f28c2ab415ee",
+			"23d20773-9088-42d5-885d-2a220d5e80f1",
+			"be7ea38c-f415-4f87-8d30-0b6da367b53b",
+			"c7361235-2ca3-4998-be40-daf2d8011986"
+		]
 	},
 	{
 		"niveau_id": [
