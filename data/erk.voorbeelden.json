@@ -13010,5 +13010,41 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - De stappen voor het maken van een gezonde maaltijd uitleggen aan de hand van illustraties.",
 		"description": ""
+	},
+	{
+		"id": "fb7f1215-ac59-4c3e-8f48-584c3c828c6c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een infographic met de samenvatting van de resultaten van een peiling.",
+		"description": ""
+	},
+	{
+		"id": "27bb42b3-2ebe-4bc8-8379-24ba4f6550d5",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een staafdiagram met landelijke examenresultaten.",
+		"description": ""
+	},
+	{
+		"id": "f4ed7595-036b-40c1-998d-2a9817e548d2",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een mindmap over een vertrouwd onderwerp.",
+		"description": ""
+	},
+	{
+		"id": "807d1a8a-6343-44e9-8005-d6e381e2d04a",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De stappen om een rekensom op te lossen uitleggen met gebruik van een visualisatie.",
+		"description": ""
+	},
+	{
+		"id": "bb8095f4-0cd6-48b8-9289-f7e53cfa9d43",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Weergegevens over een langere periode in een bepaald gebied presenteren en interpreteren.",
+		"description": ""
+	},
+	{
+		"id": "d47f1c4c-0157-4f8f-99fa-e9af5408ea0a",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Statistieken over het gebruik van het openbaar vervoer beschrijven en interpreteren.",
+		"description": ""
 	}
 ]
