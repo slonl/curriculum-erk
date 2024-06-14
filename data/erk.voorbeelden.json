@@ -13946,5 +13946,47 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Een video maken met de samenvatting van het wereldnieuws.",
 		"description": ""
+	},
+	{
+		"id": "3b5a5b5c-01d9-425a-8d2d-70a0c4e9ae18",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een politieke toespraak.",
+		"description": ""
+	},
+	{
+		"id": "2f305baf-80a2-49f7-8b30-345d2f53563d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een column in een blad.",
+		"description": ""
+	},
+	{
+		"id": "fb45ee9d-f927-435c-92ad-e9688ade9c71",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een essay.",
+		"description": ""
+	},
+	{
+		"id": "dfdacf76-3f2f-4e98-b4f1-0d14869cfecf",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Doel en houding van een spreker bespreken en illustreren met voorbeelden uit het taalgebruik van de spreker.",
+		"description": ""
+	},
+	{
+		"id": "34caf1c1-0c87-4888-ae1a-c51e9d7e2811",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Doel en doelgroep van de beschrijving van een PR-campagne toelichten aan de hand van voorbeelden uit de tekst.",
+		"description": ""
+	},
+	{
+		"id": "4a1ab1a7-e206-45c7-b3ba-8b597985cf22",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De framing/het denkraam van een journalistiek verslag herkennen en beschrijven.",
+		"description": ""
+	},
+	{
+		"id": "153a8d71-914b-419b-9f63-c7653eee6be1",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Het taalgebruik in twee teksten over hetzelfde thema maar voor verschillende doelgroepen met elkaar vergelijken.",
+		"description": ""
 	}
 ]
