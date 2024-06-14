@@ -3196,7 +3196,17 @@
 		"title": "Kan de doelgroep herkennen van een tekst (in taal A) over een belangwekkend onderwerp en uitleggen (in taal B) wat het doel, de houding en de mening van de auteur is.",
 		"id": "51a8c5b8-e4fe-4b47-aa63-504a0835d989",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"3b5a5b5c-01d9-425a-8d2d-70a0c4e9ae18",
+			"2f305baf-80a2-49f7-8b30-345d2f53563d",
+			"fb45ee9d-f927-435c-92ad-e9688ade9c71",
+			"dfdacf76-3f2f-4e98-b4f1-0d14869cfecf",
+			"34caf1c1-0c87-4888-ae1a-c51e9d7e2811",
+			"4a1ab1a7-e206-45c7-b3ba-8b597985cf22",
+			"153a8d71-914b-419b-9f63-c7653eee6be1",
+			"153a8d71-914b-419b-9f63-c7653eee6be1"
+		]
 	},
 	{
 		"niveau_id": [
