@@ -2845,17 +2845,36 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan (in taal B) in eenvoudige zinnen de belangrijkste feiten in visuele weergaven over vertrouwde onderwerpen (bijvoorbeeld een weerkaart, een elementair stroomdiagram) (met tekst in taal A) beschrijven.",
-		"id": "422fed23-e885-4c77-b6f7-828f54d4a9d2"
+		"title": "Kan (in taal B) in eenvoudige zinnen de belangrijkste feiten in visuele weergaven over vertrouwde onderwerpen (met tekst in taal A) beschrijven.",
+		"id": "422fed23-e885-4c77-b6f7-828f54d4a9d2",
+		"prefix": "",
+		"description": "",
+		"erk_voorbeeld_id": [
+			"f4570ee3-b5e7-4e05-bbd0-abbbd3e96357",
+			"30e6aff4-6704-4790-920c-e36d643086cf",
+			"77ac8b99-ad09-4080-9808-0a15ca3ef912",
+			"44973357-0ace-4540-a90b-188305ce35c1",
+			"02ec5e43-d654-49e9-8383-fb4b7cfab59c",
+			"88b05793-d66d-49e4-9d2f-37d932ccbb24",
+			"8d15473b-4aff-4dba-a9ff-5575e1f84dbf",
+			"9c9d5804-c976-4ddf-bf7f-732461187acb"
+		]
 	},
 	{
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan (in taal B) schriftelijk de algemene trends die zijn weergegeven in eenvoudige diagrammen (bijvoorbeeld grafieken, staafdiagrammen) (met tekst in taal A) interpreteren en presenteren en daarbij de belangrijke punten in meer detail uitleggen, met behulp van een woordenboek of andere naslagwerken.\n",
+		"title": "Kan (in taal B) schriftelijk de algemene trends die zijn weergegeven in eenvoudige diagrammen (met tekst in taal A) interpreteren en presenteren en daarbij de belangrijke punten in meer detail uitleggen, met behulp van een woordenboek of andere naslagwerken.\n",
 		"id": "3f8ab342-95e7-405a-8a6c-555d25af3e95",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"f68c0094-3fd9-49c0-ab1f-6bc1d0d88269",
+			"77d36813-dfc7-4d95-a3fb-8137baf89dff",
+			"61dba178-23a4-4196-ae13-6c19f1a861f7",
+			"40b37e4e-9dbd-4e77-9788-7f126b9d3ed0",
+			"baad231f-2e37-4258-9904-c50b9a74a11e"
+		]
 	},
 	{
 		"niveau_id": [
