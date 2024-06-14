@@ -13802,5 +13802,47 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Een overzicht maken van het belangrijkste nieuws van de zomer.",
 		"description": ""
+	},
+	{
+		"id": "f34f20ac-2f15-4840-9409-5b66bf44cc79",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een waargebeurd verhaal in een jeugddocumentaire.",
+		"description": ""
+	},
+	{
+		"id": "137b3396-5a88-4cc2-967c-853fac05402b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Spoken word.",
+		"description": ""
+	},
+	{
+		"id": "5f5d48bb-c00c-4ff0-a1eb-82bb2ce2d25d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een interview in een talkshow.",
+		"description": ""
+	},
+	{
+		"id": "2c255c70-b3dc-4f74-b0fc-1f3cde841527",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een eenduidig opinieartikel.",
+		"description": ""
+	},
+	{
+		"id": "e34a976a-d9c7-4ba1-9df1-1625f85a57f8",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een waargebeurd verhaal, gehoord op tv in een gesprek, samenvatten en vragen daarover beantwoorden.",
+		"description": ""
+	},
+	{
+		"id": "c3379c3c-4901-4460-9d93-59d26def8604",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De thema's en de essentie van muurgedichten in een stad of een wijk samenvatten en ingaan op vragen daarover.",
+		"description": ""
+	},
+	{
+		"id": "b4229f8c-9cc1-4a46-bef1-cf7508e1e6b7",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De hoogtepunten van een discussie samenvatten voor een vriend.",
+		"description": ""
 	}
 ]
