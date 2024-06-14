@@ -3162,7 +3162,15 @@
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
 		"title": "Kan (in taal B) de plot en de achtereenvolgende gebeurtenissen in een film of toneelstuk (in taal A) samenvatten.",
-		"id": "f31442c1-8062-425d-9b83-8a71d4a1dac6"
+		"id": "f31442c1-8062-425d-9b83-8a71d4a1dac6",
+		"erk_voorbeeld_id": [
+			"685e12a9-1972-422a-ace2-70f5b0def93a",
+			"663752a3-b125-4741-9ef1-654d8d0bb8ca",
+			"64f08ab5-3c1d-49e1-97f6-363f72c60fe7",
+			"2837264c-783c-4b97-a782-b98897fc2f54",
+			"8f1d3f1b-c440-472d-b334-ad4f61cd53d2",
+			"0fa20a9a-6c1b-4dfe-a8f0-553019eabfc2"
+		]
 	},
 	{
 		"niveau_id": [
