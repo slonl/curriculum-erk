@@ -3115,7 +3115,15 @@
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
 		"title": "Kan korte stukken informatie uit verschillende bronnen (in taal A) samenvoegen en samenvatten (in taal B) voor iemand anders.",
-		"id": "2dfc2017-5211-46ec-abb4-28aeb4939b98"
+		"id": "2dfc2017-5211-46ec-abb4-28aeb4939b98",
+		"erk_voorbeeld_id": [
+			"567053f1-3ae2-49dd-8237-22cd934be9d9",
+			"24bafb06-d53c-44b5-82a0-75d2547e8a4d",
+			"0caee299-c893-4e30-8166-58a99ca6f0d8",
+			"6e4f5771-b2bb-4170-9053-94a94773c07a",
+			"5bbf977e-25f2-4b16-ab5e-cb3d694fe79f",
+			"46846981-0254-4e1f-a183-642e94fae57b"
+		]
 	},
 	{
 		"niveau_id": [
