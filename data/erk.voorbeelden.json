@@ -14156,5 +14156,41 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Een presentatie geven over hoe mensen in verschillende landen omgaan met een ethische of maatschappelijke kwestie zoals bijvoorbeeld gendergelijkheid.",
 		"description": ""
+	},
+	{
+		"id": "5310c679-a687-4e57-a3ca-aa5f57dd98a3",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een filosofisch essay.",
+		"description": ""
+	},
+	{
+		"id": "440d7f5e-6342-46cc-83c4-c69320deefbf",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een podcast van een gedragswetenschapper of een onderzoeksjournalist.",
+		"description": ""
+	},
+	{
+		"id": "a9f3654b-2c10-41e2-9059-c501978d8f28",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een artikel uit een natuurwetenschappelijk tijdschrift.",
+		"description": ""
+	},
+	{
+		"id": "a970877d-7955-43e9-ac8d-1e22f8b8edb7",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een analyse van politieke, commerciële of technologische ontwikkelingen.",
+		"description": ""
+	},
+	{
+		"id": "d47faf7f-efcd-4a3f-b460-7c7a618c5175",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Uitspraken in een toonaangevend tijdschrift toelichten en becommentariëren in een presentatie over maatschappelijke of politieke problemen in een land.",
+		"description": ""
+	},
+	{
+		"id": "c84c7c6b-004b-499e-b628-4eae6aca6a05",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Tijdens een debat eigen argumenten ondersteunen door het toelichten van citaten uit relevante publicaties.",
+		"description": ""
 	}
 ]
