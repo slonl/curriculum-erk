@@ -3339,7 +3339,14 @@
 		"title": "Kan (in taal B) duidelijk en in goed gestructureerde taal de hoofdpunten van complexe teksten (in taal A) in andere specialisatiegebieden dan die van zichzelf samenvatten, na het eventueel controleren van bepaalde technische concepten.",
 		"id": "8597f05f-1d14-4c50-99b2-590302b143d2",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"c4f99fcc-cc5c-4d76-ad84-10ac8fabab1d",
+			"1dbe4bbf-7fd7-4d1d-a709-da5112e2cb45",
+			"da4d3ef9-c06d-495c-9cd4-85eb7694798c",
+			"8f5c6220-43f3-4a0d-9b25-06e021d235fd",
+			"f8aa0f61-7415-4126-918c-fc6f9d2d3e87"
+		]
 	},
 	{
 		"niveau_id": [
