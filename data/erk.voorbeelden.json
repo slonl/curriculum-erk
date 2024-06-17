@@ -14636,5 +14636,41 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Ingrediënten of gerechten selecteren uit een boek of van een website op basis van een allergielijst.",
 		"description": ""
+	},
+	{
+		"id": "11466e9b-19f7-4952-b970-d3953513265d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een bericht van de overheid.",
+		"description": ""
+	},
+	{
+		"id": "9a2f8505-d615-4cb3-b25d-6f6f49b69eda",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Het reglement van een vereniging.",
+		"description": ""
+	},
+	{
+		"id": "c6ffd3a8-7a43-4fcf-84b3-abe5b55b3ef0",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De algemene voorwaarden van een webwinkel.",
+		"description": ""
+	},
+	{
+		"id": "3d7a570b-119a-46f3-b7c5-4a4390ce9af8",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een website over een land of een gebied.",
+		"description": ""
+	},
+	{
+		"id": "09937b3f-1119-4a4f-bf51-9fafdf2b110f",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De passages uit de algemene voorwaarden over restitutie van een aankoop in eigen woorden opschrijven.",
+		"description": ""
+	},
+	{
+		"id": "c23684c1-b96a-4492-955f-07d9540b57e1",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Relevante passages in een brief van de gemeente in simpelere bewoordingen opschrijven voor een buitenlandse kennis.",
+		"description": ""
 	}
 ]
