@@ -14606,5 +14606,35 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Opschrijven wat je nodig hebt voor een klus aan de hand van een korte handleiding.",
 		"description": ""
+	},
+	{
+		"id": "96e05fca-8f16-486c-9734-21cddb741bcc",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een eenvoudig beeldverhaal.",
+		"description": ""
+	},
+	{
+		"id": "48915ea5-bb12-4d34-adf8-0be7c0a1b233",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een hoofdstuk uit een lesboek met veel plaatjes.",
+		"description": ""
+	},
+	{
+		"id": "b8a98d08-11a1-47b3-a001-5f2b79b74924",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De gebeurtenis in een verhaal puntsgewijs opsommen.",
+		"description": ""
+	},
+	{
+		"id": "cabe566a-e884-403a-8e2a-7e577550fb57",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een lijst met hoofdzaken maken van een tekst in de leergang.",
+		"description": ""
+	},
+	{
+		"id": "142bf58a-b0d8-4a85-b3a3-24d62dbac945",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Ingrediënten of gerechten selecteren uit een boek of van een website op basis van een allergielijst.",
+		"description": ""
 	}
 ]
