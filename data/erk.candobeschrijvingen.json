@@ -3680,7 +3680,13 @@
 		"title": "Kan (in taal B) schriftelijk uitleggen hoe feiten en argumenten zijn gepresenteerd in een tekst (in taal A), in het bijzonder als er verslag wordt gedaan van het standpunt van iemand anders, en daarbij de aandacht vestigen op het gebruik van understatement, verhulde kritiek, ironie en sarcasme.",
 		"id": "2f98f36d-cd1f-4e78-adda-3903356dd3e1",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"3763272f-daa5-48d7-98b2-5a94f583bab9",
+			"30768435-61ac-4ebc-b2b9-3070592a77e0",
+			"7eec19af-959c-4a05-b49c-beb0cc4048d3",
+			"a34b58b2-3bbc-4a7c-8ad3-a00b474dc5d4"
+		]
 	},
 	{
 		"niveau_id": [
