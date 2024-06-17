@@ -3662,7 +3662,16 @@
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
 		"title": "Kan informatie uit verschillende bronnen samenvatten en daarbij argumenten en voorbeelden reconstrueren in de vorm van een samenhangende presentatie van het eindresultaat.",
-		"id": "b94154b2-301b-42c0-b6f3-1f89746551f3"
+		"id": "b94154b2-301b-42c0-b6f3-1f89746551f3",
+		"erk_voorbeeld_id": [
+			"7b9fbc23-fdb8-4371-9c46-005cb55d51f7",
+			"bbd7db76-bca9-405f-b02e-743148689e4a",
+			"6d4d2acd-2ab2-4a92-a846-c94b6d10eeef",
+			"5b43dc09-de6c-4d89-8bb0-66a59c2713e2",
+			"47b7bde4-1b26-4f0b-a313-207ec4e75297",
+			"81df9529-6ae0-408b-b210-7dfba03f9aa0",
+			"1a3ece56-e957-4302-abcb-c0a16c156815"
+		]
 	},
 	{
 		"niveau_id": [
