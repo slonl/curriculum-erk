@@ -3431,7 +3431,18 @@
 		"title": "Kan, met behulp van een woordenboek, (in taal B) de betekenis van eenvoudige zinnen (in taal A) weergeven, die gaan over bekende en alledaagse onderwerpen.",
 		"id": "ce399533-8335-496f-89ea-bd3863b3dfe6",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"25713386-7dae-46a5-a034-a5535f49c059",
+			"f68512f1-e062-42d8-844a-dd4baea54f44",
+			"ab4d1fda-7ba9-4823-a4e2-ccaba89247dc",
+			"e221d086-4d65-44fc-8b9e-463f82cb5902",
+			"e56587cf-6e75-4f7a-883d-1d11f1fd2324",
+			"7ae64276-a5ff-4980-af13-3a4176b4c2fa",
+			"26939828-5310-4afb-aba1-a606d65b6216",
+			"35a0510a-5e39-4cb3-9128-d7b1f71960f9",
+			"50528960-c1f1-4079-a01a-ff69159a111a"
+		]
 	},
 	{
 		"niveau_id": [
