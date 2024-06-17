@@ -3517,7 +3517,15 @@
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
 		"title": "Kan korte schriftelijke passages op eenvoudige wijze parafraseren en daarbij de oorspronkelijke bewoordingen en tekstvolgorde aanhouden.",
-		"id": "5ae87129-7bb0-4553-ae8a-4e0d37b08945"
+		"id": "5ae87129-7bb0-4553-ae8a-4e0d37b08945",
+		"erk_voorbeeld_id": [
+			"11466e9b-19f7-4952-b970-d3953513265d",
+			"9a2f8505-d615-4cb3-b25d-6f6f49b69eda",
+			"c6ffd3a8-7a43-4fcf-84b3-abe5b55b3ef0",
+			"3d7a570b-119a-46f3-b7c5-4a4390ce9af8",
+			"09937b3f-1119-4a4f-bf51-9fafdf2b110f",
+			"c23684c1-b96a-4492-955f-07d9540b57e1"
+		]
 	},
 	{
 		"niveau_id": [
