@@ -3449,7 +3449,17 @@
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
 		"title": "Kan korte gedrukte of in duidelijk handschrift geschreven teksten overschrijven.",
-		"id": "6ca72268-08cb-480a-818f-71e2aad6a1bd"
+		"id": "6ca72268-08cb-480a-818f-71e2aad6a1bd",
+		"erk_voorbeeld_id": [
+			"8687f4b0-b26c-4ff3-a29a-5d1292748ba8",
+			"fa23c147-58d1-4043-9033-c8ac549c88c5",
+			"6167ced9-8e84-4e5b-9355-090b15feb55a",
+			"89bf0295-ef52-47b8-a7af-b0de2866bb72",
+			"f63a13d7-f76b-4a5e-94b0-7cc33a775300",
+			"53c1c26a-51d0-4e42-a4b0-a11a2883a4cc",
+			"16ad0c5d-2576-4483-96de-049589238bd2",
+			"136b15ce-c567-4ffe-a01b-6cc066090f8d"
+		]
 	},
 	{
 		"niveau_id": [
