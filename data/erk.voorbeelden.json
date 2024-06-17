@@ -14834,5 +14834,29 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Betrouwbare informatie van misleidende informatie onderscheiden in een samenvatting van een aantal artikelen.",
 		"description": ""
+	},
+	{
+		"id": "0581590f-d089-436f-a2d1-3c919f3905d6",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Discussies en debatten.",
+		"description": ""
+	},
+	{
+		"id": "d52df385-966c-4e18-b0f0-46e5413c10dd",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Artikelen en opiniestukken.",
+		"description": ""
+	},
+	{
+		"id": "aedd1eef-79c4-430e-9eac-afaed5889fca",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een blog schrijven over voorbeelden van omgaan met het concept 'tijd' in verschillende landen.",
+		"description": ""
+	},
+	{
+		"id": "9b0a8c29-0aad-4d66-9369-5ca68ea41987",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een stuk schrijven over jongerentaal in verschillende landen.",
+		"description": ""
 	}
 ]
