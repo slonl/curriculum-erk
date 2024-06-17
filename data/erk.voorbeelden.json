@@ -14480,5 +14480,53 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Een vriend berichten over een speciale aanbieding in een winkel.",
 		"description": ""
+	},
+	{
+		"id": "8687f4b0-b26c-4ff3-a29a-5d1292748ba8",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een kort gedicht.",
+		"description": ""
+	},
+	{
+		"id": "fa23c147-58d1-4043-9033-c8ac549c88c5",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een aforisme.",
+		"description": ""
+	},
+	{
+		"id": "6167ced9-8e84-4e5b-9355-090b15feb55a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een korte instructie.",
+		"description": ""
+	},
+	{
+		"id": "89bf0295-ef52-47b8-a7af-b0de2866bb72",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De informatie op een bord bij een monument of een kunstwerk.",
+		"description": ""
+	},
+	{
+		"id": "f63a13d7-f76b-4a5e-94b0-7cc33a775300",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een leuke tekst voor zichzelf of voor iemand anders noteren.",
+		"description": ""
+	},
+	{
+		"id": "53c1c26a-51d0-4e42-a4b0-a11a2883a4cc",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een lijst in te leveren documenten opschrijven.",
+		"description": ""
+	},
+	{
+		"id": "16ad0c5d-2576-4483-96de-049589238bd2",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Belangrijke woorden of zinnen voor zichzelf opschrijven uit een tekst op het digibord.",
+		"description": ""
+	},
+	{
+		"id": "136b15ce-c567-4ffe-a01b-6cc066090f8d",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Contactgegevens en persoonlijke informatie van iemand noteren.",
+		"description": ""
 	}
 ]
