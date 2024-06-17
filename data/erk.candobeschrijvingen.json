@@ -3626,10 +3626,20 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan schriftelijk een lange en complexe tekst (in taal A) samenvatten (bijvoorbeeld een academisch artikel of een artikel met een politieke analyse, uittreksel van een roman, redactioneel artikel, literaire recensie, verslag of uittreksel van een wetenschappelijk boek) voor een specifiek publiek en daarbij de stijl en het register van het origineel respecteren.",
+		"title": "Kan schriftelijk een lange en complexe tekst (in taal A) samenvatten voor een specifiek publiek en daarbij de stijl en het register van het origineel respecteren.",
 		"id": "6a3f3f81-ab64-4881-b606-183b02b94c3b",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"02f750a0-6974-4c13-b368-39caea858f2c",
+			"6a7bd253-4690-4d5c-a69b-cfdc69776e34",
+			"79b91254-f1fa-4a18-9ce1-eac2b85f3b06",
+			"fde96e3a-5a71-4e91-a8a3-685f82f3130f",
+			"cbfbdcb5-2f4f-412d-8860-a1dc6d217847",
+			"15e05191-629e-4ee7-8516-c714bd25442d",
+			"e1804e49-196e-4c68-b161-31b99bdf5b1c",
+			"88367fe1-c77d-491e-92cd-fd762318b179"
+		]
 	},
 	{
 		"niveau_id": [
