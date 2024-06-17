@@ -14936,5 +14936,47 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Het hoofdstuk van een boek samenvatten en interpreteren in een eigen werkstuk over een historisch, taalkundig of maatschappelijk thema.",
 		"description": ""
+	},
+	{
+		"id": "7b9fbc23-fdb8-4371-9c46-005cb55d51f7",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Uiteenlopende artikelen en boeken.",
+		"description": ""
+	},
+	{
+		"id": "bbd7db76-bca9-405f-b02e-743148689e4a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Toespraken.",
+		"description": ""
+	},
+	{
+		"id": "6d4d2acd-2ab2-4a92-a846-c94b6d10eeef",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Documentaires.",
+		"description": ""
+	},
+	{
+		"id": "5b43dc09-de6c-4d89-8bb0-66a59c2713e2",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Verslagen.",
+		"description": ""
+	},
+	{
+		"id": "47b7bde4-1b26-4f0b-a313-207ec4e75297",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan de hand van diverse bronnen een overzicht geven van culturele aspecten bij sociale groepen in verschillende landen.",
+		"description": ""
+	},
+	{
+		"id": "81df9529-6ae0-408b-b210-7dfba03f9aa0",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een analyse maken van de positie van een bedrijf in de markt en doelen van een effectieve marketingstrategie vaststellen.",
+		"description": ""
+	},
+	{
+		"id": "1a3ece56-e957-4302-abcb-c0a16c156815",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een presentatie geven over de impact van een gebeurtenis uit de geschiedenis van een land of in internationale contacten.",
+		"description": ""
 	}
 ]
