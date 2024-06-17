@@ -14858,5 +14858,53 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Een stuk schrijven over jongerentaal in verschillende landen.",
 		"description": ""
+	},
+	{
+		"id": "02f750a0-6974-4c13-b368-39caea858f2c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een academisch artikel in een vaktijdschrift.",
+		"description": ""
+	},
+	{
+		"id": "6a7bd253-4690-4d5c-a69b-cfdc69776e34",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een politieke analyse.",
+		"description": ""
+	},
+	{
+		"id": "79b91254-f1fa-4a18-9ce1-eac2b85f3b06",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De uittreksel van een filosofische roman.",
+		"description": ""
+	},
+	{
+		"id": "fde96e3a-5a71-4e91-a8a3-685f82f3130f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De synopsis van de resultaten van een onderzoek.",
+		"description": ""
+	},
+	{
+		"id": "cbfbdcb5-2f4f-412d-8860-a1dc6d217847",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een literaire recensie.",
+		"description": ""
+	},
+	{
+		"id": "15e05191-629e-4ee7-8516-c714bd25442d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een uittreksel van een wetenschappelijk boek.",
+		"description": ""
+	},
+	{
+		"id": "e1804e49-196e-4c68-b161-31b99bdf5b1c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - In een artikel voor een jongerenblad standpunten over een actueel thema uit verschillende bronnen samenvatten en met elkaar vergelijken, afgestemd op de lezers van het blad.",
+		"description": ""
+	},
+	{
+		"id": "88367fe1-c77d-491e-92cd-fd762318b179",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De samenvatting van een relevante publicatie schrijven voor een vakblad, gericht op een bepaald beroep.",
+		"description": ""
 	}
 ]
