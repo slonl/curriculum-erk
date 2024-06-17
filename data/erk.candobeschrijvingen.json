@@ -3598,7 +3598,14 @@
 		"title": "Kan (in taal B) de informatie en standpunten in academische en professionele publicaties (in taal A) in de eigen speciale interessegebieden vergelijken, tegenover elkaar zetten en synthetiseren.",
 		"id": "0210dd61-970d-4027-bbe7-eefb7c492d62",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"2b59f68d-4910-434c-82ec-58a07a6afad1",
+			"e1015681-ae27-4d87-b814-e87a53eac6d4",
+			"c00023ce-a37d-41cb-8793-9ba682dcfc2c",
+			"29068b9e-f906-40ce-a398-da413d269891",
+			"89dbc514-7f71-473a-97e2-d6056e653088"
+		]
 	},
 	{
 		"niveau_id": [
