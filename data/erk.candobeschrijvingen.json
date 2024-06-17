@@ -3648,7 +3648,14 @@
 		"title": "Kan (in taal B) schriftelijk lange, complexe teksten (in taal A) samenvatten en de inhoud op de juiste manier interpreteren, als het mogelijk is om af en toe de precieze betekenis van ongebruikelijke technische termen te controleren.",
 		"id": "3fa78d9f-b8b8-4df8-877f-95842c6348ea",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"9b76a342-40ed-449b-8291-8f788afbb726",
+			"fa5d46a3-42e9-4324-8d8d-082134f6bc1f",
+			"001995be-a812-48f5-ba6e-cc36b3d6439a",
+			"6355361d-f021-477f-8610-664170b36986",
+			"fb5acdba-f2a6-4c45-913a-a7f7351aa42c"
+		]
 	},
 	{
 		"niveau_id": [
