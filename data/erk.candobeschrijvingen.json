@@ -3534,7 +3534,15 @@
 		"title": "Kan (in taal B) de belangrijkste punten in eenduidige informatieve teksten (in taal A) over onderwerpen van persoonlijk of actueel belang samenvatten, mits mondelinge teksten duidelijk gearticuleerd worden.",
 		"id": "0f48364f-409a-492a-b780-4c1e33670fad",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"8b0c877d-bc1d-4442-9530-df15d51ead3d",
+			"83d29f69-ecf9-41a2-bfa4-71d4f2507b0f",
+			"18fd5d57-3b97-44c5-9d90-03dce884876d",
+			"546b891b-f13e-420e-8899-7cd1d79f6734",
+			"34212c7f-a7cb-4398-87bd-5b24b03ae7e4",
+			"21622bd0-dd89-4ada-bfcf-b895badd9792"
+		]
 	},
 	{
 		"niveau_id": [
