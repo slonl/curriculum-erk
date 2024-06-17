@@ -3566,7 +3566,14 @@
 		"title": "Kan schriftelijk (in taal B) de belangrijkste inhoud van complexe teksten (in taal A) over onderwerpen binnen de eigen interesse- en specialisatiegebieden samenvatten.",
 		"id": "56661f4d-3b8a-4928-befc-753a68e933a6",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"691e1f11-4a16-4ee6-b68a-528c9a342427",
+			"b03e0ef3-6cef-4262-b7ca-878ab4bee4b2",
+			"04e41b3a-1a71-4405-9b91-55f2b88aecab",
+			"479909fa-a5bb-4683-8abc-695cb6a47184",
+			"c45a45ba-6bf9-408b-8687-eaf27b61eec4"
+		]
 	},
 	{
 		"niveau_id": [
