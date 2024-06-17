@@ -3486,7 +3486,15 @@
 		"title": "Kan uit een korte tekst binnen de beperkte competentie en ervaring van de leerder sleutelwoorden en frasen of korte zinnen oppikken en reproduceren.",
 		"id": "37cfbe22-37ed-4f9a-9717-1953ef5dc23e",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"017c6dab-025f-4a2a-b1fd-fa194846c617",
+			"1b8fec83-e4c5-4a66-88da-e2e1f961687b",
+			"fbcf3467-3a70-4a01-b756-947d198532f0",
+			"9df23bc3-7de6-490d-b886-fab2ecde3fc9",
+			"9a3bfdb6-e52c-430d-bfef-2a44b746c112",
+			"f920642a-5b78-4b15-be4c-5960283b75e1"
+		]
 	},
 	{
 		"niveau_id": [
