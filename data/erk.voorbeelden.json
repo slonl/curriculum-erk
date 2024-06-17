@@ -14906,5 +14906,35 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - De samenvatting van een relevante publicatie schrijven voor een vakblad, gericht op een bepaald beroep.",
 		"description": ""
+	},
+	{
+		"id": "9b76a342-40ed-449b-8291-8f788afbb726",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een documentaire met de reconstructie van een gebeurtenis uit het verleden.",
+		"description": ""
+	},
+	{
+		"id": "fa5d46a3-42e9-4324-8d8d-082134f6bc1f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een vaststellingsovereenkomst.",
+		"description": ""
+	},
+	{
+		"id": "001995be-a812-48f5-ba6e-cc36b3d6439a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een populairwetenschappelijk boek.",
+		"description": ""
+	},
+	{
+		"id": "6355361d-f021-477f-8610-664170b36986",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De inhoud van een complexe overeenkomst correct weergeven en interpreteren voor iemand die moeite heeft met het begrijpen ervan.",
+		"description": ""
+	},
+	{
+		"id": "fb5acdba-f2a6-4c45-913a-a7f7351aa42c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Het hoofdstuk van een boek samenvatten en interpreteren in een eigen werkstuk over een historisch, taalkundig of maatschappelijk thema.",
+		"description": ""
 	}
 ]
