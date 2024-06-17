@@ -3582,7 +3582,14 @@
 		"title": "Kan (in taal B) schriftelijk de standpunten in een complexe tekst (in taal A) uitleggen en eigen conclusies ondersteunen door te verwijzen naar specifieke informatie in het origineel.",
 		"id": "40a53e3c-b075-4d42-a67f-61ed459aee8d",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"93ddafff-5e44-4f14-8985-620feada026e",
+			"f769fb9a-22a5-4965-b070-5ea74b217e67",
+			"36df615b-e339-49cd-8f91-453126f8aeef",
+			"e38249af-9a67-4e8d-8d01-4f84d481d1e3",
+			"45ce7245-ba6f-457b-86b9-b6fdc73281e5"
+		]
 	},
 	{
 		"niveau_id": [
