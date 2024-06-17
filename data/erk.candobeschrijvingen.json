@@ -3409,7 +3409,20 @@
 		"title": "Kan losse woorden en korte teksten overschrijven die in gewone gedrukte vorm worden aangeboden.",
 		"id": "6c4574b8-b80f-458e-beba-6849b5d4c09d",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"3c310c3f-1308-4289-982c-eebaf77cc648",
+			"2d93f464-b4e6-4676-9fb0-767d9eaf74c4",
+			"3d5a87a7-6a96-4256-bf5b-a30e62500c69",
+			"b5b8573d-a539-4f86-b875-85277c663d9f",
+			"b7bf0263-dd89-4a12-a4af-eea3d0587ad9",
+			"1d841574-3d4b-4b33-9938-174bd5690592",
+			"63faace8-1766-4171-9596-0b93623f3b53",
+			"9c082e8e-3cb2-42c3-adef-ebfb086cd53c",
+			"60ae2bf7-52db-4b62-a4c4-d2a788823681",
+			"ddee0848-5b67-4764-855f-41ce3a14b0b7",
+			"cd065e1f-9c2f-4c66-a0e4-d609e408481d"
+		]
 	},
 	{
 		"niveau_id": [
