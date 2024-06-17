@@ -14804,5 +14804,35 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Een uiteenzetting geven over de recente resultaten van een internationale organisatie. ",
 		"description": ""
+	},
+	{
+		"id": "2b59f68d-4910-434c-82ec-58a07a6afad1",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Publicaties in verschillende talen over burgerschapskwesties.",
+		"description": ""
+	},
+	{
+		"id": "e1015681-ae27-4d87-b814-e87a53eac6d4",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Bronnen en verhalen over specifieke gebieden.",
+		"description": ""
+	},
+	{
+		"id": "c00023ce-a37d-41cb-8793-9ba682dcfc2c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Artikelen en fake news over technologische ontwikkelingen.",
+		"description": ""
+	},
+	{
+		"id": "29068b9e-f906-40ce-a398-da413d269891",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Verschillende standpunten over migratie synthetiseren en vergelijken in een essay.",
+		"description": ""
+	},
+	{
+		"id": "89dbc514-7f71-473a-97e2-d6056e653088",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Betrouwbare informatie van misleidende informatie onderscheiden in een samenvatting van een aantal artikelen.",
+		"description": ""
 	}
 ]
