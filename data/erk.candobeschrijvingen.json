@@ -3503,7 +3503,14 @@
 		"title": "Kan (in taal B) de relevante informatie uit korte, eenvoudige teksten (in taal A) opsommen als een lijst punten, mits de betreffende teksten over concrete, vertrouwde onderwerpen gaan en alleen eenvoudige alledaagse taal bevatten.",
 		"id": "e36b3f9c-f74b-4059-8d95-8043bad2c447",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"96e05fca-8f16-486c-9734-21cddb741bcc",
+			"48915ea5-bb12-4d34-adf8-0be7c0a1b233",
+			"b8a98d08-11a1-47b3-a001-5f2b79b74924",
+			"cabe566a-e884-403a-8e2a-7e577550fb57",
+			"142bf58a-b0d8-4a85-b3a3-24d62dbac945"
+		]
 	},
 	{
 		"niveau_id": [
