@@ -3468,7 +3468,16 @@
 		"title": "Kan eenvoudige taal gebruiken om (in taal B) zeer korte teksten (in taal A) over vertrouwde en alledaagse thema's die zijn opgebouwd uit de meest voorkomende woorden weer te geven; ondanks fouten blijft de tekst begrijpelijk.",
 		"id": "79a358e3-fc98-4320-9860-ebcffabf1223",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"4535cfef-de1e-4f0d-b7c7-b539bb29f6e9",
+			"1d31c05e-4152-4097-939f-d0002740cb84",
+			"b18d8b5c-3a2e-40c5-8c6c-cfff8a5383ff",
+			"42cd47a1-b296-4507-b107-6f1e7d0be311",
+			"5572e76a-9605-49b0-b8f1-8946922cbebf",
+			"e26b7608-c01d-4757-8800-a85b0b33e389",
+			"5f4ce0fd-fd28-4a0a-b92e-e4ab42736100"
+		]
 	},
 	{
 		"niveau_id": [
