@@ -14528,5 +14528,47 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Contactgegevens en persoonlijke informatie van iemand noteren.",
 		"description": ""
+	},
+	{
+		"id": "4535cfef-de1e-4f0d-b7c7-b539bb29f6e9",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een kort eenvoudig nieuwsbericht.",
+		"description": ""
+	},
+	{
+		"id": "1d31c05e-4152-4097-939f-d0002740cb84",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een korte eenvoudige omschrijving van een product.",
+		"description": ""
+	},
+	{
+		"id": "b18d8b5c-3a2e-40c5-8c6c-cfff8a5383ff",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een korte eenvoudige instructievideo.",
+		"description": ""
+	},
+	{
+		"id": "42cd47a1-b296-4507-b107-6f1e7d0be311",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een eenvoudig reclamespotje.",
+		"description": ""
+	},
+	{
+		"id": "5572e76a-9605-49b0-b8f1-8946922cbebf",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De kern van het antwoord op een vraag, gesteld via de chatfunctie van een website, overbrengen.",
+		"description": ""
+	},
+	{
+		"id": "e26b7608-c01d-4757-8800-a85b0b33e389",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De stappen om je ergens aan te melden samenvatten.",
+		"description": ""
+	},
+	{
+		"id": "5f4ce0fd-fd28-4a0a-b92e-e4ab42736100",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De essentie van een kort artikel opschrijven.",
+		"description": ""
 	}
 ]
