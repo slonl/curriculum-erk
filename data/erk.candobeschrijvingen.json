@@ -3945,7 +3945,12 @@
 		"title": "Kan nauwkeurige aantekeningen maken bij vergaderingen en seminars over de meeste onderwerpen die te verwachten zijn binnen het eigen interessegebied.",
 		"id": "c1ef0270-04ec-4bb8-b1e0-34f0452a336a",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"9be7077d-f3c4-4d4f-8934-ba766ff5498e",
+			"01fb5278-37ea-49ed-bfcf-5b2a75d620fd",
+			"024e2ed6-31d9-45b3-b5cc-027fdac98621"
+		]
 	},
 	{
 		"niveau_id": [
