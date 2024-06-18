@@ -15260,5 +15260,41 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Aantekeningen maken voor een medestudent of een collega die niet aanwezig kan zijn bij de desbetreffende presentatie.",
 		"description": ""
+	},
+	{
+		"id": "aaa736ef-2b97-498b-ae2a-ab73c0c21398",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Hoorcolleges op de universiteit.",
+		"description": ""
+	},
+	{
+		"id": "56cba440-4d9e-4dfe-b948-7d82b7339ca7",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Online colleges en webinars over abstracte, complexe thema's.",
+		"description": ""
+	},
+	{
+		"id": "3b335db8-1e78-4910-894f-164cd974d7b5",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Vergaderingen over strategische ontwerpen of internationaal beleid.",
+		"description": ""
+	},
+	{
+		"id": "533734bb-c83d-4cea-887f-83f560cc2b2f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Trainingssessies over leiderschap of samenwerking op het werk.",
+		"description": ""
+	},
+	{
+		"id": "726697e3-c8c4-42a8-832b-cf8afb2eee5f",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De kernboodschappen in verschillende toespraken over een bepaald thema noteren en daarbij verbanden leggen tussen de standpunten en overtuigingen van de verschillende sprekers.",
+		"description": ""
+	},
+	{
+		"id": "e2694024-b8d0-4327-af40-6d34d6ea8a78",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De kern van een complex hoorcollege op een leesbare manier opschrijven voor je medestudenten.",
+		"description": ""
 	}
 ]
