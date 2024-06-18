@@ -15146,5 +15146,35 @@
 		"prefix": "",
 		"title": "Voorbeeld van een bron - Een groepsgesprek.",
 		"description": ""
+	},
+	{
+		"id": "77f47907-dc83-434c-bdb6-ff159edaed16",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een presentatie over het jaarverslagen en de toekomstige plannen  van een vereniging of een sportclub.",
+		"description": ""
+	},
+	{
+		"id": "a95ab857-cdbd-45a7-9c10-55dea4b4932b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een webinar over een actueel onderwerp.",
+		"description": ""
+	},
+	{
+		"id": "174656fe-fff6-48aa-bfc7-86abe52f1bf3",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een TED Talk. ",
+		"description": ""
+	},
+	{
+		"id": "a1f83108-cc43-4f1d-9c39-1f9b9f08a4c9",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aantekeningen bij een presentatie maken voor een verslag, blog of artikel.",
+		"description": ""
+	},
+	{
+		"id": "445bd2f0-d7a1-47d2-8d91-dcc462fc0827",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De eigen aantekeningen doornemen en markeren wat je nog moet opzoeken of navragen.",
+		"description": ""
 	}
 ]
