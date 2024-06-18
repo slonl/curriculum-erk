@@ -4004,7 +4004,14 @@
 		"title": "Kan tijdens een lezing over een onderwerp binnen het eigen interessegebied gedetailleerde aantekeningen maken, en daarbij de informatie zo nauwkeurig en waarheidsgetrouw vastleggen dat de aantekeningen ook bruikbaar zijn voor anderen.",
 		"id": "eed99903-fae1-4172-9553-f2bb63ac86f8",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"599d2cee-8b08-40e3-a247-949cdc083c11",
+			"696f6939-af24-497f-bd11-53d8ba3ef7fa",
+			"bc02b57c-d135-486e-899a-f936743b58e2",
+			"a9456a00-62c0-43d3-ab0b-b526eba27e80",
+			"7a0bf91b-8a72-40de-9ca0-38cbc97354f1"
+		]
 	},
 	{
 		"niveau_id": [
