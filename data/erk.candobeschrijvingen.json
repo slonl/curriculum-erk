@@ -4035,7 +4035,15 @@
 		"title": "Is zich bewust van de implicaties van en toespelingen in wat wordt gezegd en kan daarvan aantekeningen maken, net als van de werkelijk gebruikte woorden.",
 		"id": "85c49ca7-b5af-482a-b4a4-61d7779072c6",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"48453cca-2b5d-463c-8bf0-5bd38c79aa29",
+			"a7a662a9-e223-4a71-ae46-e18f33f9bd67",
+			"eb52fe9d-3491-4760-b795-004605749224",
+			"0f9905e5-90ea-4d89-aa6c-aa3974d05e8a",
+			"9c19d17d-cfef-4910-abf8-64189f66a747",
+			"bbf12282-ccaf-4a23-a829-9e759f8bad99"
+		]
 	},
 	{
 		"niveau_id": [
