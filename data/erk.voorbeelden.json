@@ -15128,5 +15128,23 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - In bullets noteren wat voor jou belangrijk was tijdens een podcast.",
 		"description": ""
+	},
+	{
+		"id": "9be7077d-f3c4-4d4f-8934-ba766ff5498e",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een studiedag binnen de eigen opleiding of vereniging.",
+		"description": ""
+	},
+	{
+		"id": "01fb5278-37ea-49ed-bfcf-5b2a75d620fd",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een introductiecursus.",
+		"description": ""
+	},
+	{
+		"id": "024e2ed6-31d9-45b3-b5cc-027fdac98621",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een groepsgesprek.",
+		"description": ""
 	}
 ]
