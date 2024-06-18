@@ -15230,5 +15230,35 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Tijdens een plenaire bijeenkomst de relevante informatie noteren die nuttig is voor een eigen project, voor de uitvoering van een opdracht of voor verslaglegging in een vakblad.",
 		"description": ""
+	},
+	{
+		"id": "599d2cee-8b08-40e3-a247-949cdc083c11",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een voordracht of webinar over een belangwekkend onderwerp.",
+		"description": ""
+	},
+	{
+		"id": "696f6939-af24-497f-bd11-53d8ba3ef7fa",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Podcasts.",
+		"description": ""
+	},
+	{
+		"id": "bc02b57c-d135-486e-899a-f936743b58e2",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een lezing op een congres.",
+		"description": ""
+	},
+	{
+		"id": "a9456a00-62c0-43d3-ab0b-b526eba27e80",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aantekeningen maken voor een groepsopdracht van een opleiding.",
+		"description": ""
+	},
+	{
+		"id": "7a0bf91b-8a72-40de-9ca0-38cbc97354f1",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aantekeningen maken voor een medestudent of een collega die niet aanwezig kan zijn bij de desbetreffende presentatie.",
+		"description": ""
 	}
 ]
