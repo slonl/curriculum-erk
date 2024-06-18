@@ -4018,7 +4018,15 @@
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
 		"title": "Kan selectief aantekeningen maken en met succes parafraseren en afkorten om abstracte concepten en verbanden tussen ideeën te vangen.",
-		"id": "e8fe0537-4fc1-4468-9b5b-86b21a75d457"
+		"id": "e8fe0537-4fc1-4468-9b5b-86b21a75d457",
+		"erk_voorbeeld_id": [
+			"aaa736ef-2b97-498b-ae2a-ab73c0c21398",
+			"56cba440-4d9e-4dfe-b948-7d82b7339ca7",
+			"3b335db8-1e78-4910-894f-164cd974d7b5",
+			"533734bb-c83d-4cea-887f-83f560cc2b2f",
+			"726697e3-c8c4-42a8-832b-cf8afb2eee5f",
+			"e2694024-b8d0-4327-af40-6d34d6ea8a78"
+		]
 	},
 	{
 		"niveau_id": [
