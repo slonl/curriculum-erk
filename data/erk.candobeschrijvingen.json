@@ -3972,10 +3972,18 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan relevante, gedetailleerde informatie en argumenten selecteren met betrekking tot complexe, abstracte onderwerpen van meerdere mondelinge bronnen (bijvoorbeeld voordrachten, podcasts, formele discussies en debatten, interviews), mits de overdracht op een normaal tempo is.",
+		"title": "Kan relevante, gedetailleerde informatie en argumenten selecteren met betrekking tot complexe, abstracte onderwerpen van meerdere mondelinge bronnen, mits de overdracht op een normaal tempo is.",
 		"id": "58d59922-9e44-4483-a017-9e71b9ad5d2e",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"fa6dab1e-ae05-49ee-9dd6-85fe7f8de1af",
+			"172c855a-6204-48c4-a423-c92cf385f25c",
+			"79bef674-cac9-44cd-aa9d-bf2c164ef7ea",
+			"2a8d4453-1b65-4334-b8d1-39fbe4bf083d",
+			"238ef2d7-0819-496e-89d3-a07d4e186d34",
+			"51447661-bfec-4c0a-a4bb-e2b9ee4b6544"
+		]
 	},
 	{
 		"niveau_id": [
