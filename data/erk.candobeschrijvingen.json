@@ -3928,7 +3928,15 @@
 		"title": "Kan tijdens een lezing aantekeningen maken die nauwkeurig genoeg zijn voor eigen gebruik op een later tijdstip, mits het onderwerp binnen het eigen interessegebied ligt en de lezing helder en goed gestructureerd is.",
 		"id": "88168ed0-3c67-46c3-93a6-3f5aa74ce8ca",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"4228c0fb-497b-419f-b25d-8fbd4bd51af9",
+			"7b48b188-aa39-4ea4-950b-fba6680f36b6",
+			"6cd0f526-df56-4fff-92cd-9350a7da6afc",
+			"d09694c4-3b8d-44a5-913e-0f69b63b5717",
+			"f305d487-1e2e-459f-b9d3-85e4b8cf1da7",
+			"bc968c1d-9e20-4df5-a6e8-55fb8a40f84b"
+		]
 	},
 	{
 		"niveau_id": [
