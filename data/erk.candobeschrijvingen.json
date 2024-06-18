@@ -3990,7 +3990,12 @@
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
 		"title": "Kan beslissingen nemen over wat wel en niet genoteerd moet worden in de loop van de voordracht of het hoorcollege, zelfs als het om onbekende onderwerpen gaat.",
-		"id": "ef0d2ba8-f98c-4afa-945c-e0781cac488c"
+		"id": "ef0d2ba8-f98c-4afa-945c-e0781cac488c",
+		"erk_voorbeeld_id": [
+			"026288fc-77f9-4f03-add8-38c9e2ad313b",
+			"7d8d924c-bf35-48a8-8f06-5ac3e832371f",
+			"4e1b39c9-5476-41aa-92a6-990ad0a51f48"
+		]
 	},
 	{
 		"niveau_id": [
