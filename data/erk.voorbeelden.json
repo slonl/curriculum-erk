@@ -15068,5 +15068,29 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Een to do-list maken voor het openen van de sportkantine.",
 		"description": ""
+	},
+	{
+		"id": "a171d82c-ed34-435e-9bc0-347f5d92ac0f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een online instructiefilmpje voor een onderdeel van een schoolvak.",
+		"description": ""
+	},
+	{
+		"id": "0df00c76-dbcb-4a94-996c-ab8ed9643c76",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De lezing van een gastspreker op school.",
+		"description": ""
+	},
+	{
+		"id": "d9857714-bfd7-4ebd-bc0f-9e37cc3b136c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een mindmap maken van de belangrijkste informatie tijdens een toespraak.",
+		"description": ""
+	},
+	{
+		"id": "c79a4a38-86f7-4397-ab45-fc1a9b7457c0",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - In bullets noteren wat voor jou belangrijk was in een presentatie.",
+		"description": ""
 	}
 ]
