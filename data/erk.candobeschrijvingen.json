@@ -3913,7 +3913,13 @@
 		"title": "Kan tijdens een heldere lezing aantekeningen maken in de vorm van een lijst met belangrijke punten, mits het onderwerp vertrouwd is en in de lezing zowel eenvoudige taal gebruikt als helder gearticuleerd wordt.",
 		"id": "3103f39b-f573-4770-a503-2219c97fa88d",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"a171d82c-ed34-435e-9bc0-347f5d92ac0f",
+			"0df00c76-dbcb-4a94-996c-ab8ed9643c76",
+			"d9857714-bfd7-4ebd-bc0f-9e37cc3b136c",
+			"c79a4a38-86f7-4397-ab45-fc1a9b7457c0"
+		]
 	},
 	{
 		"niveau_id": [
