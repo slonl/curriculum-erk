@@ -3898,7 +3898,13 @@
 		"title": "Kan routine-instructies noteren tijdens een vergadering over een vertrouwd onderwerp, mits deze worden geformuleerd in eenvoudige taal en er voldoende tijd is.",
 		"id": "aa7b693a-a8ac-46a0-909f-181246614c11",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"9287449e-c0dc-4702-959f-2f360e5d81b3",
+			"af8d2352-3801-437d-b0c3-d9b75f66d5e5",
+			"93ad8c9b-6170-414e-b82f-51296681d7d4",
+			"fc4faf03-e937-4523-b0c3-32f8bfd50b04"
+		]
 	},
 	{
 		"niveau_id": [
