@@ -3959,7 +3959,14 @@
 		"title": "Kan een helder gestructureerde lezing over een vertrouwd onderwerp begrijpen en aantekeningen maken van punten die belangrijk lijken, ondanks de neiging om zich te concentreren op de daadwerkelijke formulering waardoor sommige informatie gemist wordt.",
 		"id": "a3ace7cb-e545-4353-b1b3-6160bbfdbaee",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"77f47907-dc83-434c-bdb6-ff159edaed16",
+			"a95ab857-cdbd-45a7-9c10-55dea4b4932b",
+			"174656fe-fff6-48aa-bfc7-86abe52f1bf3",
+			"a1f83108-cc43-4f1d-9c39-1f9b9f08a4c9",
+			"445bd2f0-d7a1-47d2-8d91-dcc462fc0827"
+		]
 	},
 	{
 		"niveau_id": [
