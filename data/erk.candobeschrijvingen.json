@@ -3880,7 +3880,16 @@
 		"title": "Kan eenvoudige aantekeningen maken bij een presentatie/demonstratie als het onderwerp vertrouwd en voorspelbaar is en als de presentator ruimte geeft voor verduidelijking en het maken van aantekeningen.",
 		"id": "68ae78ca-2790-4c8e-8a70-2921c25a3cce",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"22d7b788-0537-443f-80c5-9237998f37c4",
+			"071b5c70-a031-4764-a77d-e387406de943",
+			"d0ce7fac-3ddd-4371-adaa-f2aba1fb0d0a",
+			"3da434bf-cf9e-41d2-9a40-d1207743a649",
+			"9b86a324-8c4f-4cab-867c-d1cc16189b6c",
+			"925606e9-6ba0-47b0-acb3-71cf0faa8578",
+			"fea9ef48-a936-4564-8fbf-c8ab67e0ddfc"
+		]
 	},
 	{
 		"niveau_id": [
