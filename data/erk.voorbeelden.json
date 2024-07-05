@@ -15512,5 +15512,35 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Informatie over een sportevenement dat je mede-organiseert vertalen voor een buitenlandse vriend.",
 		"description": ""
+	},
+	{
+		"id": "8b4549cc-07d1-447a-9cbc-f6d8348826b8",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Online informatie over een bepaalde regio.",
+		"description": ""
+	},
+	{
+		"id": "d5795d8a-eb71-4bc7-b055-be95a5b49d00",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Nieuwsartikelen.",
+		"description": ""
+	},
+	{
+		"id": "99fec1d9-969c-4a92-a686-d338578e1c81",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Artikelen uit populaire weekbladen.",
+		"description": ""
+	},
+	{
+		"id": "44d8f19b-d5bd-47f0-acd0-d71d5c7a93c3",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een recensie van een voorstelling vertalen in een mail aan een vriend.",
+		"description": ""
+	},
+	{
+		"id": "49e3c17a-3d56-49a7-857c-f3df5c8754d6",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - In een tekstbericht de belangrijkste passages uit een interessant artikel uit de actualiteit vertalen voor een vriend.",
+		"description": ""
 	}
 ]
