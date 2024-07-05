@@ -15626,5 +15626,41 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Een artikel over actuele ontwikkelingen vertalen voor een jongerenmagazine.",
 		"description": ""
+	},
+	{
+		"id": "08979fce-23fe-4024-af94-55bd7d70aba7",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Literaire kritiek.",
+		"description": ""
+	},
+	{
+		"id": "00f8831a-ec15-464b-a290-b9406a6e903e",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een wetenschappelijk artikel.",
+		"description": ""
+	},
+	{
+		"id": "3323a1e7-98b7-4d15-9f97-557de521f09a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een financieel verslag.",
+		"description": ""
+	},
+	{
+		"id": "3b4d297a-7c23-415e-86e4-f2671dfc9437",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een specialistisch artikel over de rol van kunst en cultuur in de samenleving of over maatschappelijk verantwoord ondernemen.",
+		"description": ""
+	},
+	{
+		"id": "82b94791-173b-482d-ad15-d80a207ba0b7",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een rapport over de status van het onderwijs.",
+		"description": ""
+	},
+	{
+		"id": "d3c7f754-4117-4a43-bd7b-a4e97c280c94",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Argumenten in artikelen in verschillende talen over hetzelfde onderwerp vertalen en met elkaar vergelijken voor een werkstuk.",
+		"description": ""
 	}
 ]
