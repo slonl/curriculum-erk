@@ -15596,5 +15596,35 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Informatie over bijbaan of stage in Nederland vertalen voor een buitenlandse kennis.",
 		"description": ""
+	},
+	{
+		"id": "ebcdb9b7-f1ca-4dcb-a4ac-902e127f8b6c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een roman, een verhaal of een toneelstuk.",
+		"description": ""
+	},
+	{
+		"id": "398b9ade-7f2b-420d-990b-e85f9217239b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een fragment uit een dagboek met gebruik van spreektaal.",
+		"description": ""
+	},
+	{
+		"id": "3d7206da-a5db-4493-8cd9-87cfaaf94789",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een opiniestuk over ontwikkelingen in de samenleving.",
+		"description": ""
+	},
+	{
+		"id": "a5041114-1869-4211-9571-a7efe4e6fb8c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een hoofdstuk van een roman vertalen voor een vertaalwedstrijd.",
+		"description": ""
+	},
+	{
+		"id": "eb2a9116-8526-49d8-bd7d-f7702f6b833f",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een artikel over actuele ontwikkelingen vertalen voor een jongerenmagazine.",
+		"description": ""
 	}
 ]
