@@ -16058,5 +16058,29 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Een uitgebreide recensie mondeling vertalen voor iemand die de taal van de tekst niet begrijpt.",
 		"description": ""
+	},
+	{
+		"id": "e99fe857-a522-4b86-b3e8-19e867b4ac5d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Complexe artikelen over abstracte onderwerpen.",
+		"description": ""
+	},
+	{
+		"id": "6052ae85-89d4-4a9c-8b0f-c5fc1f8588ef",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Wetenschappelijke en technische publicaties.",
+		"description": ""
+	},
+	{
+		"id": "63aad522-520d-4b64-bb5f-129b19afc073",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Tijdens een werkcollege een complexe tekst mondeling vertalen, met inbegrip van argumentatie, bijbehorende nuances en betekenis.",
+		"description": ""
+	},
+	{
+		"id": "747de352-9d6c-4d6f-b726-ab06e141d299",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een lezing geven over een non-fictie boek en de impliciete betekenis van relevante passages voor het publiek vertalen en uitleggen.",
+		"description": ""
 	}
 ]
