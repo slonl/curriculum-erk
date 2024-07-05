@@ -3792,7 +3792,18 @@
 		"title": "Kan, met behulp van een woordenboek, eenvoudige woorden en zinnen vertalen (uit taal A naar taal B), maar kiest mogelijk niet altijd de juiste betekenis.",
 		"id": "d6b3b755-2dc3-4d5a-a2a3-70ded33e0eed",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"d81d1e12-e70d-46dd-afaa-f6d8658f23b7",
+			"e7f7299c-cd14-434d-87c2-17b25cd682d1",
+			"5c10f84d-1f4b-4413-ae93-13e96675cd49",
+			"f8b2f4dc-c7c2-49f6-9597-e3a020cc4946",
+			"4c4dbb40-3cbd-4b98-83a0-ddf944a24343",
+			"b0ce8de2-5751-4a0a-af36-0cbfe41c65c7",
+			"cb5aa21d-cc5f-4d3c-8b2b-9ae4c2c061b9",
+			"aebd898a-2add-44a6-a64c-011f21cf0829",
+			"abebe3e3-1dbc-40c4-a4c2-831546b8daf2"
+		]
 	},
 	{
 		"niveau_id": [
