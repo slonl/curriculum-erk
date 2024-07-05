@@ -15920,5 +15920,41 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Een mail van een familielid of vriend over dagelijkse zaken voor iemand vertalen tijdens een verblijf in het buitenland.",
 		"description": ""
+	},
+	{
+		"id": "09d2c73a-0526-41aa-8a85-bd1598adb173",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De nieuwsbrief van de sportclub.",
+		"description": ""
+	},
+	{
+		"id": "3be4d57b-297c-4f1c-aae8-37728670bb2d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een getuigenverklaring na een ongeval.",
+		"description": ""
+	},
+	{
+		"id": "5c51fef1-19c1-4850-a54c-e4f3ba5c36fe",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De beschrijving van een project of excursie op school.",
+		"description": ""
+	},
+	{
+		"id": "d8a3dde1-80da-485f-a0f9-5f0e3e419bce",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Het laatste nieuws over een muziekfestival vertalen.",
+		"description": ""
+	},
+	{
+		"id": "ca6693a5-259c-4479-818b-ba7c52ee642c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De verklaring van een getuige vertalen voor een politieagent.",
+		"description": ""
+	},
+	{
+		"id": "44e9cef2-1675-4755-a5a2-a5d50ca40586",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een online verslag over een reisbestemming vertalen voor een buitenlandse vriend.",
+		"description": ""
 	}
 ]
