@@ -15542,5 +15542,59 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - In een tekstbericht de belangrijkste passages uit een interessant artikel uit de actualiteit vertalen voor een vriend.",
 		"description": ""
+	},
+	{
+		"id": "16b6f702-e5f3-4026-9d80-154ab0ca5934",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een interview in een tijdschrift.",
+		"description": ""
+	},
+	{
+		"id": "40052bde-601a-47da-b960-f278fa0bb75f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een artikel over een actueel onderwerp.",
+		"description": ""
+	},
+	{
+		"id": "ada9bbf1-1f2a-45a1-9b25-d4bd98605550",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een opiniestuk in een dagblad.",
+		"description": ""
+	},
+	{
+		"id": "55953a47-8bb1-42d2-ae96-ffc26e9d2f0e",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Officiële publicaties op de website van de overheid.",
+		"description": ""
+	},
+	{
+		"id": "36cb5e4c-03be-4343-99d1-53e35f4b7f0f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een songtekst.",
+		"description": ""
+	},
+	{
+		"id": "c5368c8e-1305-4b08-b297-d87f04e1eff5",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een verhaal.",
+		"description": ""
+	},
+	{
+		"id": "8f549bcd-db4c-4555-a8e2-63ac83690e38",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - In een blog de meest relevante passages uit een artikel of een interview in vertaling citeren.",
+		"description": ""
+	},
+	{
+		"id": "dff5b07b-b4cb-4199-812f-f5424923f77f",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een songtekst vertalen naar andere talen en de boodschap van de tekst zo goed mogelijk proberen over te brengen.",
+		"description": ""
+	},
+	{
+		"id": "6399fc8c-4a52-45d6-b940-074628d37204",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Informatie over bijbaan of stage in Nederland vertalen voor een buitenlandse kennis.",
+		"description": ""
 	}
 ]
