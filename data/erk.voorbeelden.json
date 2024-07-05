@@ -15992,5 +15992,35 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - De meest interessante informatie in een artikel vertalen voor een geïnteresseerde.",
 		"description": ""
+	},
+	{
+		"id": "cf280fd2-3438-40ee-801d-4dbcbd13e10a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een technisch rapport dat betrekking heeft op het eigen beroep.",
+		"description": ""
+	},
+	{
+		"id": "824b8fb5-f559-4f45-b969-b20c21aeee59",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een toelichting bij een kunstwerk in een museum.",
+		"description": ""
+	},
+	{
+		"id": "b8d94e89-43b0-40f1-9be0-ca357898adf8",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een toegankelijk artikel over wetenschappelijke inzichten in een onderwerp in de eigen interessesfeer.",
+		"description": ""
+	},
+	{
+		"id": "4a296268-4272-4fb1-ae93-e14e47f3b65c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De belangrijkste bevindingen uit een inspectierapport vertalen tijdens een internationale bijeenkomst.",
+		"description": ""
+	},
+	{
+		"id": "026b6e93-6c7e-42f9-b5ef-07905f4370c6",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Tijdens een bezoek aan een tentoonstelling de informatie bij de verschillende voorwerpen vertalen voor een uitwisselingsleerling.",
+		"description": ""
 	}
 ]
