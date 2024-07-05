@@ -15806,5 +15806,65 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Spelregels voor iemand vertalen.",
 		"description": ""
+	},
+	{
+		"id": "2d26dbb5-ea9c-45e6-8da5-a5b57d19cded",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een kort feitelijk nieuwsbericht.",
+		"description": ""
+	},
+	{
+		"id": "2ee35fcf-7f67-4e9d-87cb-a1b1ff55e1ad",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Informatie over het verzorgen van een huisdier.",
+		"description": ""
+	},
+	{
+		"id": "19a0181d-2f67-4227-b5fe-c840495e1743",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een kort verhaal.",
+		"description": ""
+	},
+	{
+		"id": "e9ca6777-4109-4694-a200-f0d2e2540737",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een automatisch afwezigheidsbericht.",
+		"description": ""
+	},
+	{
+		"id": "9f9d1f2a-9acf-4fd0-b929-eb66816611f6",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Instructies voor het gebruik van geneesmiddelen.",
+		"description": ""
+	},
+	{
+		"id": "47081fb3-e3a2-4a34-8e8e-9ae0a3d3dc05",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Instructies voor het aanvragen van een document.",
+		"description": ""
+	},
+	{
+		"id": "51b4facd-dfef-4f27-8389-8f2bc80d4de8",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Persoonlijk nieuws in een kort bericht.",
+		"description": ""
+	},
+	{
+		"id": "8aeabd86-2649-47fd-856c-89393e650e5b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De instructies bij het verlies van het paspoort vertalen voor een buitenlandse toerist.",
+		"description": ""
+	},
+	{
+		"id": "d85fca8e-bed7-490a-8b8f-c421f5c68751",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Voor een vriend vertalen wat een uitwisselingsleerling over de eigen school schrijft.",
+		"description": ""
+	},
+	{
+		"id": "9d28e19c-28e8-42cf-b10b-258bc966db20",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een gelezen persoonlijk verhaal voor iemand vertalen.",
+		"description": ""
 	}
 ]
