@@ -3761,10 +3761,21 @@
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan een globale mondelinge vertaling (naar taal B) geven van korte, eenvoudige alledaagse teksten (bijvoorbeeld brochureteksten, kennisgevingen, instructies, brieven of e-mails) (geschreven in taal A).",
+		"title": "Kan een globale mondelinge vertaling (naar taal B) geven van korte, eenvoudige alledaagse teksten.",
 		"id": "158fb445-06b8-4d9f-876c-0bd9f76fe7bd",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"2672c6b8-8648-4edb-a502-4e7118a73226",
+			"318985cf-8da4-4baf-a32c-0f319d2de050",
+			"fa98c71c-2eff-4ddb-ae71-e770e688f3d8",
+			"8e57336f-ebe3-4642-b7de-e23623e928e5",
+			"5542925b-44d6-4697-8551-126ed9b9f415",
+			"953969b1-3150-40bc-bdc4-e013c6e38349",
+			"0cde832c-d6cb-468e-b11d-673a07c8f2b7",
+			"f0e3e075-869a-4681-92bf-b85d53d13f75",
+			"1ef1c2a7-0040-44d2-b22d-0aacd9013692"
+		]
 	},
 	{
 		"niveau_id": [
