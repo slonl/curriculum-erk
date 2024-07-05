@@ -3703,7 +3703,20 @@
 		"title": "Kan een eenvoudige, ruwe mondelinge vertaling (naar taal B) geven van eenvoudige alledaagse woorden en zinnen (geschreven in taal A) op borden en kennisgevingen, posters, programma's, folders enzovoort.",
 		"id": "fdb270ae-322b-4200-ab71-593b7920f18a",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"798e5b7e-b670-43a7-8f0a-f1fe25963d4b",
+			"dd0b5d5b-740e-4d2a-b588-9e0b9a3be5ec",
+			"de051f08-a64a-46b7-b574-5da58f064755",
+			"3e97766f-2f5e-492d-acd1-f2b44e4cc188",
+			"9cb862d5-52f2-4274-a85d-aa75d3d38ce8",
+			"24d5770f-98e4-4cab-9801-8d48f133cb1b",
+			"c35b8ab2-263f-403a-b881-d914af280f79",
+			"b882bb31-4332-4269-a2d6-b6692bd25415",
+			"88939ab8-6300-4f9c-98ba-b7689b7020b9",
+			"76dedaea-c51a-4d31-8b3e-7efe11cce4c7",
+			"9e06b576-4d1b-4c17-8a19-268457ed7438"
+		]
 	},
 	{
 		"niveau_id": [
