@@ -3834,7 +3834,15 @@
 		"title": "Kan een vloeiende mondelinge vertaling (naar taal B) geven van complexe teksten (geschreven in taal A) over uiteenlopende algemene en gespecialiseerde onderwerpen en daarbij de meeste nuances weergeven.",
 		"id": "23a8d168-f8db-4693-afa7-e46c1ab249f2",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"208e0746-62c6-41b1-81f6-c297e58e3c54",
+			"a1130a13-20ad-4ad7-8bbd-9601d3a76e3f",
+			"1c26ba30-a837-48db-a172-dabbc85b7284",
+			"bce2de61-a443-4037-b410-4b2cc3c157fa",
+			"7a467beb-81c1-45d1-863a-bf19cae7132d",
+			"b5175eee-dc43-4b2d-862b-79201c2b0e83"
+		]
 	},
 	{
 		"niveau_id": [
