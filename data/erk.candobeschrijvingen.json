@@ -3812,7 +3812,18 @@
 		"title": "Kan eenvoudige taal gebruiken om een globale vertaling (uit taal A naar taal B) te maken van zeer korte teksten over vertrouwde en alledaagse thema's die zijn opgebouwd uit de meest voorkomende woorden; ondanks fouten blijft de tekst begrijpelijk.",
 		"id": "b4363969-441b-4f26-b35a-ae36947186da",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"c3da9186-197e-4178-b3fc-f387ffd1a500",
+			"f7b6d9fc-6899-4348-88e2-b3d0da6b9975",
+			"7ddb8a1b-3aea-4473-833e-7f69cca30dfc",
+			"a4f048c7-2b33-4bae-b11a-4851d9ae2e93",
+			"fdfae1bc-9410-4865-a103-80299337fe85",
+			"4f38828b-3e67-4191-9104-3d128adc36c6",
+			"cb2a9fb1-d460-421d-a6ae-53ff7a888650",
+			"3e435972-0daf-43a4-a0a6-6e8672303f1b",
+			"16682796-1e58-4082-b4c3-24ae5ff4aa03"
+		]
 	},
 	{
 		"niveau_id": [
