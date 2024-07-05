@@ -15866,5 +15866,59 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Een gelezen persoonlijk verhaal voor iemand vertalen.",
 		"description": ""
+	},
+	{
+		"id": "2672c6b8-8648-4edb-a502-4e7118a73226",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een brief van de schoolleiding bij de start van het schooljaar.",
+		"description": ""
+	},
+	{
+		"id": "318985cf-8da4-4baf-a32c-0f319d2de050",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De online brochure van een bedrijf.",
+		"description": ""
+	},
+	{
+		"id": "fa98c71c-2eff-4ddb-ae71-e770e688f3d8",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De website van een culturele instelling.",
+		"description": ""
+	},
+	{
+		"id": "8e57336f-ebe3-4642-b7de-e23623e928e5",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een informatiebrief voor kinderen op de buitenschoolse opvang.",
+		"description": ""
+	},
+	{
+		"id": "5542925b-44d6-4697-8551-126ed9b9f415",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De mededelingen van de schoolleiding vertalen voor buitenlandse ouders.",
+		"description": ""
+	},
+	{
+		"id": "953969b1-3150-40bc-bdc4-e013c6e38349",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De informatie in de brochure van een scooterbedrijf vertalen voor een klant.",
+		"description": ""
+	},
+	{
+		"id": "0cde832c-d6cb-468e-b11d-673a07c8f2b7",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Informatie over een fondsenwervingscampagne vertalen voor een vriend.",
+		"description": ""
+	},
+	{
+		"id": "f0e3e075-869a-4681-92bf-b85d53d13f75",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Vertalen voor buitenlandse gasten welke zomeractiviteiten er allemaal zijn in het buurthuis.",
+		"description": ""
+	},
+	{
+		"id": "1ef1c2a7-0040-44d2-b22d-0aacd9013692",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een mail van een familielid of vriend over dagelijkse zaken voor iemand vertalen tijdens een verblijf in het buitenland.",
+		"description": ""
 	}
 ]
