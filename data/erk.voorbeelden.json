@@ -15374,5 +15374,59 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - De notulen maken bij een directievergadering.",
 		"description": ""
+	},
+	{
+		"id": "d81d1e12-e70d-46dd-afaa-f6d8658f23b7",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een kort bericht van een vriend.",
+		"description": ""
+	},
+	{
+		"id": "e7f7299c-cd14-434d-87c2-17b25cd682d1",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Eenvoudige gebruiksaanwijzingen.",
+		"description": ""
+	},
+	{
+		"id": "5c10f84d-1f4b-4413-ae93-13e96675cd49",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een eenvoudige spotprent.",
+		"description": ""
+	},
+	{
+		"id": "f8b2f4dc-c7c2-49f6-9597-e3a020cc4946",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een informatiebord met veel afbeeldingen.",
+		"description": ""
+	},
+	{
+		"id": "4c4dbb40-3cbd-4b98-83a0-ddf944a24343",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De display van een digitaal apparaat.",
+		"description": ""
+	},
+	{
+		"id": "b0ce8de2-5751-4a0a-af36-0cbfe41c65c7",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De tekst van een online post vertalen voor een vriend.",
+		"description": ""
+	},
+	{
+		"id": "cb5aa21d-cc5f-4d3c-8b2b-9ae4c2c061b9",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - In steekwoorden de belangrijkste functies van de digitale bediening van een apparaat voor iemand op een briefje vertalen.",
+		"description": ""
+	},
+	{
+		"id": "aebd898a-2add-44a6-a64c-011f21cf0829",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een kort en eenvoudig stripverhaal in een andere taal vertalen voor een nieuwsbrief.",
+		"description": ""
+	},
+	{
+		"id": "abebe3e3-1dbc-40c4-a4c2-831546b8daf2",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De namen van de dieren in een bepaald gebied vertalen voor een presentatie.",
+		"description": ""
 	}
 ]
