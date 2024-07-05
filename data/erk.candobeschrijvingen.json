@@ -3818,7 +3818,14 @@
 		"title": "Kan een mondelinge vertaling (naar taal B) geven van complexe teksten (geschreven in taal A) met informatie en argumenten over onderwerpen in de eigen professionele, academische en persoonlijke interessegebieden.",
 		"id": "ca6cd51a-f84a-42af-97f3-727eac935807",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"cf280fd2-3438-40ee-801d-4dbcbd13e10a",
+			"824b8fb5-f559-4f45-b969-b20c21aeee59",
+			"b8d94e89-43b0-40f1-9be0-ca357898adf8",
+			"4a296268-4272-4fb1-ae93-e14e47f3b65c",
+			"026b6e93-6c7e-42f9-b5ef-07905f4370c6"
+		]
 	},
 	{
 		"niveau_id": [
