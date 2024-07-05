@@ -3722,10 +3722,19 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan een eenvoudige, ruwe mondelinge vertaling (naar taal B) geven van korte, eenvoudige teksten (bijvoorbeeld kennisgevingen over een vertrouwd onderwerp) (geschreven in taal A) en daarbij het meest essentiële punt overbrengen.",
+		"title": "Kan een eenvoudige, ruwe mondelinge vertaling (naar taal B) geven van korte, eenvoudige teksten (geschreven in taal A) en daarbij het meest essentiële punt overbrengen.",
 		"id": "1cf8f22e-405e-4284-bab6-f4d75e55a9fc",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"060b593f-13f1-4a8e-93f8-3a98c7da1e75",
+			"ce4b5c0a-644a-4c4d-8ddc-f841aed9e1db",
+			"54a21db0-0213-45ea-a045-b48aabc8db35",
+			"53708596-1cd7-452d-ba31-9446e4639c99",
+			"7765b564-1cbb-4a73-83fb-3996bd0086bb",
+			"31e22535-c790-46ed-84cb-6f1ab80f542b",
+			"bbcdd1ec-8698-4484-9a95-09854f9e7626"
+		]
 	},
 	{
 		"niveau_id": [
