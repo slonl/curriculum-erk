@@ -3801,7 +3801,15 @@
 		"title": "Kan een mondelinge vertaling (naar taal B) geven van teksten (geschreven in taal A) met informatie en argumenten over onderwerpen in de eigen professionele, academische en persoonlijke interessegebieden, mits ze zijn geschreven in ongecompliceerde standaardtaal.",
 		"id": "df5a5fbc-3160-410b-8226-1fb6e96e95c9",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"44039af1-b0ed-40af-8135-cd9e680f0185",
+			"d3265872-178a-45fc-a078-e9be0b228a47",
+			"ef32918e-db65-4524-8028-4cca53191a47",
+			"90b73f45-ae4a-4955-9879-0fdcf35d9870",
+			"6f90539b-9f55-4d24-a364-e8ceaa9ac3bf",
+			"482954d5-9055-42a2-8831-b3932e002226"
+		]
 	},
 	{
 		"niveau_id": [
