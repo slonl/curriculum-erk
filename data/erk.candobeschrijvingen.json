@@ -3864,7 +3864,18 @@
 		"title": "Kan vertalingen maken (naar taal B) die de zins- en alineastructuur van het origineel (in taal A) nauw volgen en daarbij de belangrijkste punten van de brontekst nauwkeurig overbrengen, hoewel de vertaling mogelijk stroef leest.",
 		"id": "57265efe-ac25-4e52-b8ed-d970b928bd7e",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"16b6f702-e5f3-4026-9d80-154ab0ca5934",
+			"40052bde-601a-47da-b960-f278fa0bb75f",
+			"ada9bbf1-1f2a-45a1-9b25-d4bd98605550",
+			"55953a47-8bb1-42d2-ae96-ffc26e9d2f0e",
+			"36cb5e4c-03be-4343-99d1-53e35f4b7f0f",
+			"c5368c8e-1305-4b08-b297-d87f04e1eff5",
+			"8f549bcd-db4c-4555-a8e2-63ac83690e38",
+			"dff5b07b-b4cb-4199-812f-f5424923f77f",
+			"6399fc8c-4a52-45d6-b940-074628d37204"
+		]
 	},
 	{
 		"niveau_id": [
