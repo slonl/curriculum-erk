@@ -15428,5 +15428,59 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - De namen van de dieren in een bepaald gebied vertalen voor een presentatie.",
 		"description": ""
+	},
+	{
+		"id": "c3da9186-197e-4178-b3fc-f387ffd1a500",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Informatie over een eenvoudige opdracht.",
+		"description": ""
+	},
+	{
+		"id": "f7b6d9fc-6899-4348-88e2-b3d0da6b9975",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De inleidende informatie over een zomerkamp.",
+		"description": ""
+	},
+	{
+		"id": "7ddb8a1b-3aea-4473-833e-7f69cca30dfc",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Informatie over het goede doel van de sponsorloop.",
+		"description": ""
+	},
+	{
+		"id": "a4f048c7-2b33-4bae-b11a-4851d9ae2e93",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Festivalprogramma's.",
+		"description": ""
+	},
+	{
+		"id": "fdfae1bc-9410-4865-a103-80299337fe85",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Korte filmrecensies.",
+		"description": ""
+	},
+	{
+		"id": "4f38828b-3e67-4191-9104-3d128adc36c6",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een tekstbericht sturen met de informatie uit buitenlandse media over een film of voorstelling.",
+		"description": ""
+	},
+	{
+		"id": "cb2a9fb1-d460-421d-a6ae-53ff7a888650",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De afnameregels van toetsen voor een uitwisselingsleerling vertalen.",
+		"description": ""
+	},
+	{
+		"id": "3e435972-0daf-43a4-a0a6-6e8672303f1b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De informatie op een kaartje in het museum of in de dierentuin vertalen.",
+		"description": ""
+	},
+	{
+		"id": "16682796-1e58-4082-b4c3-24ae5ff4aa03",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Informatie over programmaonderdelen van een festival vertalen voor iemand.",
+		"description": ""
 	}
 ]
