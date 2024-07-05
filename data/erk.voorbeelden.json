@@ -15482,5 +15482,35 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Informatie over programmaonderdelen van een festival vertalen voor iemand.",
 		"description": ""
+	},
+	{
+		"id": "14c4f7a7-1215-452d-a671-e439fef8a46b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een artikel op de website van een school over de geschiedenis van de school.",
+		"description": ""
+	},
+	{
+		"id": "dc64483c-3e1f-45c8-962b-fc5f50c018bf",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Het laatste nieuws in een dagblad.",
+		"description": ""
+	},
+	{
+		"id": "e8c0f294-63f3-479a-ba46-c07337c003f2",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Het verslag van een interview met een professionele sporter.",
+		"description": ""
+	},
+	{
+		"id": "4ac9af24-921d-431f-9580-9c114fc79fa9",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De vertaling maken van de belangrijkste informatie in een uitwisselingsprogramma voor buitenlandse leerlingen.",
+		"description": ""
+	},
+	{
+		"id": "257bc52a-6e9c-42b4-8479-e63c7b894b35",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Informatie over een sportevenement dat je mede-organiseert vertalen voor een buitenlandse vriend.",
+		"description": ""
 	}
 ]
