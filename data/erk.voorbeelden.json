@@ -15662,5 +15662,41 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Argumenten in artikelen in verschillende talen over hetzelfde onderwerp vertalen en met elkaar vergelijken voor een werkstuk.",
 		"description": ""
+	},
+	{
+		"id": "63c547cc-0182-4158-9651-af5f5d22bd29",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een juridisch advies.",
+		"description": ""
+	},
+	{
+		"id": "67f0ef45-5e50-4943-9615-ac8dfd2a26b0",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een technisch rapport met complexe informatie.",
+		"description": ""
+	},
+	{
+		"id": "77da2b06-34c0-45ac-aabc-189f14d33bb9",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een proefschrift.",
+		"description": ""
+	},
+	{
+		"id": "a1138af6-3468-4355-b560-a8f9d1fba244",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een technisch rapport vertalen voor interne bijscholing van een bedrijf.",
+		"description": ""
+	},
+	{
+		"id": "46896d1e-e83a-4c2e-a83c-ae04b14e9672",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een artikel met medische begrippen vertalen.",
+		"description": ""
+	},
+	{
+		"id": "cebc5111-34fa-4879-9043-fdc0767e4d82",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De beschrijving van het onderwijssysteem in eigen land vertalen voor een buitenlands publiek.",
+		"description": ""
 	}
 ]
