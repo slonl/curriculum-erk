@@ -15956,5 +15956,41 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Een online verslag over een reisbestemming vertalen voor een buitenlandse vriend.",
 		"description": ""
+	},
+	{
+		"id": "44039af1-b0ed-40af-8135-cd9e680f0185",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een tijdschriftartikel met weetjes over de geschiedenis van taal.",
+		"description": ""
+	},
+	{
+		"id": "d3265872-178a-45fc-a078-e9be0b228a47",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een geïllustreerd boek over Afrikaanse kunst.",
+		"description": ""
+	},
+	{
+		"id": "ef32918e-db65-4524-8028-4cca53191a47",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een artikel over talentvolle industriële ontwerpers.",
+		"description": ""
+	},
+	{
+		"id": "90b73f45-ae4a-4955-9879-0fdcf35d9870",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Informatie over afstudeerprijzen voor studenten.",
+		"description": ""
+	},
+	{
+		"id": "6f90539b-9f55-4d24-a364-e8ceaa9ac3bf",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Opvallendheden in een reisverslag vertalen voor iemand die dezelfde reis wil maken.",
+		"description": ""
+	},
+	{
+		"id": "482954d5-9055-42a2-8831-b3932e002226",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De meest interessante informatie in een artikel vertalen voor een geïnteresseerde.",
+		"description": ""
 	}
 ]
