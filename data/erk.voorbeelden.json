@@ -16022,5 +16022,41 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Tijdens een bezoek aan een tentoonstelling de informatie bij de verschillende voorwerpen vertalen voor een uitwisselingsleerling.",
 		"description": ""
+	},
+	{
+		"id": "208e0746-62c6-41b1-81f6-c297e58e3c54",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een artikel in een specialistisch tijdschrift.",
+		"description": ""
+	},
+	{
+		"id": "a1130a13-20ad-4ad7-8bbd-9601d3a76e3f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Het script van een toespraak bij een conferentie.",
+		"description": ""
+	},
+	{
+		"id": "1c26ba30-a837-48db-a172-dabbc85b7284",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een publiek beleidsdocument of reglement.",
+		"description": ""
+	},
+	{
+		"id": "bce2de61-a443-4037-b410-4b2cc3c157fa",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een contract.",
+		"description": ""
+	},
+	{
+		"id": "7a467beb-81c1-45d1-863a-bf19cae7132d",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Tijdens een presentatie gebruikmaken van citaten in een andere taal en die vertalen om de strekking weer te geven.",
+		"description": ""
+	},
+	{
+		"id": "b5175eee-dc43-4b2d-862b-79201c2b0e83",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een uitgebreide recensie mondeling vertalen voor iemand die de taal van de tekst niet begrijpt.",
+		"description": ""
 	}
 ]
