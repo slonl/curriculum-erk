@@ -3884,7 +3884,14 @@
 		"title": "Kan duidelijk gestructureerde vertalingen (uit taal A naar taal B) maken waarin ‘normale’ taal wordt gebruikt, maar die mogelijk te veel zijn beïnvloed door de volgorde, de alinea-indeling, het leestekengebruik en bepaalde formuleringen van het origineel.",
 		"id": "9c2527c0-dd36-49d0-a664-3903d0561ebb",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"ebcdb9b7-f1ca-4dcb-a4ac-902e127f8b6c",
+			"398b9ade-7f2b-420d-990b-e85f9217239b",
+			"3d7206da-a5db-4493-8cd9-87cfaaf94789",
+			"a5041114-1869-4211-9571-a7efe4e6fb8c",
+			"eb2a9116-8526-49d8-bd7d-f7702f6b833f"
+		]
 	},
 	{
 		"niveau_id": [
