@@ -3917,7 +3917,15 @@
 		"title": "Kan technische materialen buiten het eigen specialisatiegebied (in taal A) vertalen (naar taal B), mits de inhoudelijke nauwkeurigheid wordt gecontroleerd door een deskundige op het betreffende gebied.",
 		"id": "4eeb0a15-7980-413c-84d0-c24bdb8bb89a",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"63c547cc-0182-4158-9651-af5f5d22bd29",
+			"67f0ef45-5e50-4943-9615-ac8dfd2a26b0",
+			"77da2b06-34c0-45ac-aabc-189f14d33bb9",
+			"a1138af6-3468-4355-b560-a8f9d1fba244",
+			"46896d1e-e83a-4c2e-a83c-ae04b14e9672",
+			"cebc5111-34fa-4879-9043-fdc0767e4d82"
+		]
 	},
 	{
 		"niveau_id": [
