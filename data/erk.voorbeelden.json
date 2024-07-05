@@ -15764,5 +15764,47 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Ingrediënten in een recept voor een boodschappenlijst vertalen.",
 		"description": ""
+	},
+	{
+		"id": "060b593f-13f1-4a8e-93f8-3a98c7da1e75",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Veiligheidsvoorschriften in een gebouw.",
+		"description": ""
+	},
+	{
+		"id": "ce4b5c0a-644a-4c4d-8ddc-f841aed9e1db",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Informatie over wegwerkzaamheden.",
+		"description": ""
+	},
+	{
+		"id": "54a21db0-0213-45ea-a045-b48aabc8db35",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Push notificaties op de telefoon.",
+		"description": ""
+	},
+	{
+		"id": "53708596-1cd7-452d-ba31-9446e4639c99",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Instructies bij een knutselopdracht.",
+		"description": ""
+	},
+	{
+		"id": "7765b564-1cbb-4a73-83fb-3996bd0086bb",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De belangrijkste regels in de bibliotheek vertalen voor iemand die de taal waarin ze geschreven zijn niet begrijpt.",
+		"description": ""
+	},
+	{
+		"id": "31e22535-c790-46ed-84cb-6f1ab80f542b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De push notificaties van een bepaalde app vertalen voor iemand die ze niet begrijpt.",
+		"description": ""
+	},
+	{
+		"id": "bbcdd1ec-8698-4484-9a95-09854f9e7626",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Spelregels voor iemand vertalen.",
+		"description": ""
 	}
 ]
