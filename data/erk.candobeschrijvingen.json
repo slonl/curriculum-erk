@@ -3784,7 +3784,15 @@
 		"title": "Kan een globale mondelinge vertaling (naar taal B) geven van heldere, goed gestructureerde informatieve teksten (geschreven in taal A) over vertrouwde onderwerpen of onderwerpen binnen de eigen belangstelling, hoewel lexicale beperkingen soms voor moeite bij het formuleren zorgen.",
 		"id": "8a58b121-2534-4b8e-a635-7a7cba0c9eaf",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"09d2c73a-0526-41aa-8a85-bd1598adb173",
+			"3be4d57b-297c-4f1c-aae8-37728670bb2d",
+			"5c51fef1-19c1-4850-a54c-e4f3ba5c36fe",
+			"d8a3dde1-80da-485f-a0f9-5f0e3e419bce",
+			"ca6693a5-259c-4479-818b-ba7c52ee642c",
+			"44e9cef2-1675-4755-a5a2-a5d50ca40586"
+		]
 	},
 	{
 		"niveau_id": [
