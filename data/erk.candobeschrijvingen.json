@@ -3743,7 +3743,19 @@
 		"title": "Kan een eenvoudige, ruwe mondelinge vertaling (naar taal B) geven van routine-informatie over vertrouwde alledaagse onderwerpen die is geschreven in eenvoudige zinnen (in taal A) (bijvoorbeeld persoonlijk nieuws, korte verhaaltjes, aanwijzingen, kennisgevingen en instructies).",
 		"id": "12005822-1c57-4750-88c8-af163f35c9d9",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"2d26dbb5-ea9c-45e6-8da5-a5b57d19cded",
+			"2ee35fcf-7f67-4e9d-87cb-a1b1ff55e1ad",
+			"19a0181d-2f67-4227-b5fe-c840495e1743",
+			"e9ca6777-4109-4694-a200-f0d2e2540737",
+			"9f9d1f2a-9acf-4fd0-b929-eb66816611f6",
+			"47081fb3-e3a2-4a34-8e8e-9ae0a3d3dc05",
+			"51b4facd-dfef-4f27-8389-8f2bc80d4de8",
+			"8aeabd86-2649-47fd-856c-89393e650e5b",
+			"d85fca8e-bed7-490a-8b8f-c421f5c68751",
+			"9d28e19c-28e8-42cf-b10b-258bc966db20"
+		]
 	},
 	{
 		"niveau_id": [
