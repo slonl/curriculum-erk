@@ -3832,7 +3832,14 @@
 		"title": "Kan globale vertalingen (uit taal A naar taal B) maken van informatie in korte, feitelijke teksten die zijn geschreven in ongecompliceerde standaardtaal; ondanks fouten blijft de vertaling begrijpelijk.",
 		"id": "e4ea4d9e-0307-40c5-bd51-ddc5604ffcb0",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"14c4f7a7-1215-452d-a671-e439fef8a46b",
+			"dc64483c-3e1f-45c8-962b-fc5f50c018bf",
+			"e8c0f294-63f3-479a-ba46-c07337c003f2",
+			"4ac9af24-921d-431f-9580-9c114fc79fa9",
+			"257bc52a-6e9c-42b4-8479-e63c7b894b35"
+		]
 	},
 	{
 		"niveau_id": [
