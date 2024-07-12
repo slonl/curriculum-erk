@@ -4505,16 +4505,25 @@
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
 		"title": "Kan de manieren waarop het werk de lezer bij het verhaal betrekt (bijvoorbeeld door verwachtingen op te bouwen en te ondermijnen) beschrijven en becommentariëren.",
-		"id": "fec7974e-465f-4bf6-9255-69315859ed6b"
+		"id": "fec7974e-465f-4bf6-9255-69315859ed6b",
+		"erk_voorbeeld_id": [
+			"cced3f9f-4269-4a96-bd82-07778c8459e7",
+			"feceac85-13a5-4aeb-aa13-f8bb33fa6749"
+		]
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan evalueren in hoeverre een werk de conventies van zijn genre volgt.",
+		"title": "Kan evalueren in hoeverre een werk aan de conventies van zijn genre voldoet.",
 		"id": "d6efefb1-9b70-4f97-a89b-06f2980ebd29",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"7075f84a-fe26-4f7c-be01-09a9940ce19f",
+			"3281c0af-a4b4-4d62-8609-894e4d0d6d8a",
+			"9efd990b-4678-4ca2-8c5f-2e2f75444ab7"
+		]
 	},
 	{
 		"niveau_id": [
