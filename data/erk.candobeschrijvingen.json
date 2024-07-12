@@ -4432,7 +4432,11 @@
 		"title": "Kan de essentiële thema's en personages in korte verhalende teksten over vertrouwde situaties beschrijven die alleen in veelvoorkomende alledaagse taal bevatten.",
 		"id": "50061813-3b61-47dc-b063-e517957b8601",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"f7e1aa49-81fc-4589-8df3-5326dfbfa540",
+			"3fbf69f9-8302-4cf8-83e3-d6c04eba8f1f"
+		]
 	},
 	{
 		"niveau_id": [
