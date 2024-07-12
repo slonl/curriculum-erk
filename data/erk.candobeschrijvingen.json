@@ -4416,7 +4416,14 @@
 		"title": "Kan de essentiële thema's en personages in korte, eenvoudige verhalende teksten over vertrouwde situaties die alleen veelvoorkomende alledaagse taal bevatten, herkennen en in het kort beschrijven.",
 		"id": "121ce25b-5810-4ad5-8f39-5369dc553252",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"c239196a-6963-44fc-8b15-e4138d642fa9",
+			"be93e165-282a-45d8-a78e-dbce5df4ba38",
+			"72cc45cf-e914-4e83-9f0b-f2e34efae847",
+			"471fb407-84e6-4302-8396-1c04a545dad4",
+			"b5fbd875-e5d6-42b6-9633-a068e8dcf7aa"
+		]
 	},
 	{
 		"niveau_id": [
