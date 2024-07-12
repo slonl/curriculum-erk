@@ -16784,5 +16784,47 @@
 		"prefix": "",
 		"title": "Beschrijven welk personage in een verhaal het leukst of minst leuk is en waarom.",
 		"description": ""
+	},
+	{
+		"id": "4c01060e-2ed4-4013-9a57-44d06e3f1d74",
+		"prefix": "",
+		"title": "Reacties van personages beschrijven die naar emoties wijzen.",
+		"description": ""
+	},
+	{
+		"id": "70bd061c-767e-4e53-8485-47cd7a302da3",
+		"prefix": "",
+		"title": "Oorzaken van geluk, vrolijkheid, frustratie of jaloezie van een personage verklaren.",
+		"description": ""
+	},
+	{
+		"id": "161918e5-fc85-48b8-8621-47de90d17cae",
+		"prefix": "",
+		"title": "Houding, stem en mimiek van een personage bespreken.",
+		"description": ""
+	},
+	{
+		"id": "8e6f5cb7-cf36-447e-a1b8-489954ccfbcd",
+		"prefix": "",
+		"title": "Vertellen welke veranderingen een personage in het verhaal ondergaat.",
+		"description": ""
+	},
+	{
+		"id": "1b741959-d4cd-4a7e-a720-3a74ded4dc65",
+		"prefix": "",
+		"title": "De verbale en non-verbale signalen van een personage vergelijken met het gedrag.",
+		"description": ""
+	},
+	{
+		"id": "bef4c84e-e061-4ddb-924d-c31cbba4489a",
+		"prefix": "",
+		"title": "Uitleggen waarom je je verbonden voelt met een personage.",
+		"description": ""
+	},
+	{
+		"id": "fd755a78-0ace-47e7-a52c-a3ed771d55b1",
+		"prefix": "",
+		"title": "Eigen gevoelens over de afloop van een film verwoorden.",
+		"description": ""
 	}
 ]
