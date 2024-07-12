@@ -4437,7 +4437,11 @@
 		"title": "Kan een duidelijke presentatie geven van eigen reacties op een werk, eigen ideeën ontwikkelen en deze onderbouwen met voorbeelden en argumenten.",
 		"id": "68d2df85-6301-43aa-8bd1-eaeac62344a3",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"953c5557-7810-4c71-8358-3a273900584a",
+			"7e4c5952-ccbc-4b7e-87a2-f90f0eba9176"
+		]
 	},
 	{
 		"niveau_id": [
