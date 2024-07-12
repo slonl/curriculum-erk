@@ -4366,16 +4366,26 @@
 		"title": "Kan met enige details uitleggen welk personage de meeste herkenning opriep en waarom.",
 		"id": "bcc695e4-1c77-4d7a-87e9-617dfbb4d77a",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"82e7da1b-8822-408e-881b-b531e50a07cd",
+			"17077f77-d040-48d2-987d-45698d40fefd",
+			"3eaa838b-1fb2-4779-b160-df8a2a3b1366"
+		]
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan uitleggen waarom bepaalde delen of aspecten van een werk bijzonder interessant waren.",
+		"title": "Kan uitleggen waarom bepaalde delen of aspecten van een werk in het bijzonder interessant waren.",
 		"id": "9de82449-1da4-493d-a179-dea459e50335",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"6bf241d9-b3d0-46e6-943c-d03594473219",
+			"615b209c-ee37-4572-b3c8-bef7769bef3e",
+			"da094324-4fda-4b3d-a210-3f2822476684"
+		]
 	},
 	{
 		"niveau_id": [
