@@ -4230,7 +4230,12 @@
 		"title": "Kan eenvoudige woorden gebruiken om weer te geven wat voor gevoel een werk opriep.",
 		"id": "01ef7557-1b39-4e6c-9e80-fa34ddcdb5b6",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"9e7300e7-8670-4215-9df7-f97c038e6468",
+			"6bc07f21-ff27-44b6-aa85-f54268513440",
+			"f893c4fe-2875-442a-af5a-efe3576497e2"
+		]
 	},
 	{
 		"niveau_id": [
