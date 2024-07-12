@@ -4422,7 +4422,13 @@
 		"title": "Kan een persoonlijke interpretatie geven van de ontwikkeling van een plot, de personages en de thema's in een verhaal, roman, film of toneelstuk.",
 		"id": "8dd2f16f-86e7-4e2b-970a-4d2f35b3e19e",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"9f6e0622-82f1-42ff-af3d-356af7633e6e",
+			"38182618-ff93-4c89-95ce-12fbb5f11fa8",
+			"ce4321b4-9fc6-4653-9b28-33ea3f6607a6",
+			"f80b5fb0-e901-44e2-abbe-1807fecb911a"
+		]
 	},
 	{
 		"niveau_id": [
