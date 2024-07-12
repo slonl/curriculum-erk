@@ -4456,14 +4456,23 @@
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
 		"title": "Kan beschrijven op welke manier meerdere werken verschillen in hun behandeling van hetzelfde thema.",
-		"id": "319bb3d2-db0a-4678-81c7-db0a72a6214b"
+		"id": "319bb3d2-db0a-4678-81c7-db0a72a6214b",
+		"erk_voorbeeld_id": [
+			"cfd38a9a-c870-4faa-a543-fda29cbe2146",
+			"d9b85488-7d1f-4370-8e47-bd1f176dbee4"
+		]
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
 		"title": "Kan evalueren hoe het werk identificatie met de personages stimuleert en kan daar voorbeelden van geven.",
-		"id": "4a93cbe4-e9ad-405b-973d-23142f89e7d8"
+		"id": "4a93cbe4-e9ad-405b-973d-23142f89e7d8",
+		"erk_voorbeeld_id": [
+			"b6dc6ba0-5e99-4beb-88d2-e72f72891c7d",
+			"c1c717b2-a8c2-439b-bac4-281470755037",
+			"5aa1348e-aac7-4e6c-a0f8-6ed2f0e80cc6"
+		]
 	},
 	{
 		"niveau_id": [
