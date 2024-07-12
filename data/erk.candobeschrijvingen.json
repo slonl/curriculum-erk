@@ -4244,11 +4244,18 @@
 		"title": "Kan de eigen mening over een werk formuleren en die in eenvoudige taal uitleggen.",
 		"id": "1594b388-058e-4d3c-8ae3-495107401f6e",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"3944c21d-8872-4cbb-a806-9292fae8ef54",
+			"aeb50711-ed90-4f33-b003-32da48d27dcd"
+		]
 	},
 	{
 		"niveau_id": [
-			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
+			"1d5d9624-055f-42ed-bc39-06b183ecb40b",
+			"3269418e-d200-442a-8626-48c7a4f5613f",
+			"b737fd23-1082-4614-8e2b-60b04dca865a",
+			"b869d830-e3a6-431b-abee-dd5e4eb17fe2"
 		],
 		"title": "Kan in eenvoudige taal zeggen welke delen of aspecten van een werk in het bijzonder interessant waren.",
 		"id": "e9b3f7cb-e9c9-4351-b572-49c0f4820feb",
@@ -4262,7 +4269,13 @@
 		"title": "Kan reageren op een werk door de eigen gevoelens en ideeën in eenvoudige taal te beschrijven.",
 		"id": "70577e93-d7c6-4b13-8404-92c2bfad830e",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"342b8a26-3a4e-40d9-8068-209f8627d585",
+			"c1b13cfa-2a8d-4bea-8ef2-9277b3d2ddc4",
+			"ed1cd5c5-5d51-48af-b269-55d37bf44941",
+			"910cf2da-7fde-4ca4-b925-39a2184c330a"
+		]
 	},
 	{
 		"niveau_id": [
