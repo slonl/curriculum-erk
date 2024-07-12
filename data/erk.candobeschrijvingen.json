@@ -4284,14 +4284,23 @@
 		"title": "Kan de gevoelens van een personage beschrijven en de redenen daarvoor uitleggen.",
 		"id": "a564899e-500f-4038-8437-f804643ff98e",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"4c01060e-2ed4-4013-9a57-44d06e3f1d74",
+			"70bd061c-767e-4e53-8485-47cd7a302da3"
+		]
 	},
 	{
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
 		"title": "Kan de persoonlijkheid van een personage beschrijven.",
-		"id": "e77cc0f9-07d7-4df4-9d91-d4c3755bbf8d"
+		"id": "e77cc0f9-07d7-4df4-9d91-d4c3755bbf8d",
+		"erk_voorbeeld_id": [
+			"161918e5-fc85-48b8-8621-47de90d17cae",
+			"8e6f5cb7-cf36-447e-a1b8-489954ccfbcd",
+			"1b741959-d4cd-4a7e-a720-3a74ded4dc65"
+		]
 	},
 	{
 		"niveau_id": [
@@ -4300,7 +4309,11 @@
 		"title": "Kan in het kort de gevoelens en meningen die een werk opriep uitleggen.",
 		"id": "9c032f80-3b56-4b10-87f7-8833c0ea8443",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"bef4c84e-e061-4ddb-924d-c31cbba4489a",
+			"fd755a78-0ace-47e7-a52c-a3ed771d55b1"
+		]
 	},
 	{
 		"niveau_id": [
