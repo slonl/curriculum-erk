@@ -9883,7 +9883,15 @@
 		"title": "Kan vrijwel alle soorten teksten en tekstgenres begrijpen, met inbegrip van abstracte, structureel complexe of zeer spreektalige literaire en niet-literaire teksten, en daarbij subtiele verschillen in stijl en impliciete en expliciete betekenis opmerken.",
 		"id": "3092ce65-ee66-4bd9-84de-3dde41220c27",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"f8441391-4b0d-4a65-ae3e-a4a31136edce",
+			"5f7981c2-fb55-4ff1-a8cd-25e74a0f96b3",
+			"73e8136d-d1b1-4836-90d9-3eb36d02b8b3",
+			"036a2e01-286c-42a6-b78d-487c50ad9272",
+			"59ae1b22-bc67-468e-b7f0-2797ad8d18cf",
+			"b584b402-374f-4b56-9b85-3099fcb64bb1"
+		]
 	},
 	{
 		"niveau_id": [
