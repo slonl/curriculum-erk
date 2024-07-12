@@ -4445,7 +4445,11 @@
 		"title": "Kan de belangrijkste episoden en gebeurtenissen in een duidelijk gestructureerde verhalende tekst in alledaagse taal aanwijzen, en het belang van de gebeurtenissen en de verbanden ertussen uitleggen.",
 		"id": "da66107b-1bc3-42f7-839a-818d7a19c5c7",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"22c1154e-6677-40e2-b4b2-8fd6fb35a1c9",
+			"1dfce811-37d5-4d43-b6f2-3e297de41954"
+		]
 	},
 	{
 		"niveau_id": [
