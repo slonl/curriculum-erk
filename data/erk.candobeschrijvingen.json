@@ -9761,8 +9761,15 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan een reisdagboek begrijpen dat hoofdzakelijk de gebeurtenissen tijdens een reis en de ervaringen en ontdekkingen van de auteur beschrijft.",
-		"id": "f24b7d2b-baf1-411c-87f9-98f44d9b1e4e"
+		"title": "Kan een reisdagboek begrijpen dat voornamelijk de gebeurtenissen tijdens een reis en de ervaringen en ontdekkingen van de auteur beschrijft.",
+		"id": "f24b7d2b-baf1-411c-87f9-98f44d9b1e4e",
+		"prefix": "",
+		"description": "",
+		"erk_voorbeeld_id": [
+			"c24c4da7-1619-47f5-98f6-767edc501fe5",
+			"f6337460-e924-4ef1-be77-c42e5e970b70",
+			"b1e87e06-7820-454a-943c-6946431582ad"
+		]
 	},
 	{
 		"niveau_id": [
@@ -9771,7 +9778,12 @@
 		"title": "Kan, al of niet met behulp van een woordenboek, het plot volgen van verhalen, eenvoudige romans en stripverhalen als ze een duidelijke verhaallijn hebben en in veelvoorkomende, alledaagse taal zijn opgesteld.",
 		"id": "13b55233-c096-4b1d-a030-0e7edfe8960c",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"96e1ed20-c3e6-49ec-8467-724edd601fcc",
+			"fb6bdb7f-2914-46a7-afdb-6e0f51a6b780",
+			"b837f353-18b9-4f5f-b30b-67b547328cc9"
+		]
 	},
 	{
 		"niveau_id": [
