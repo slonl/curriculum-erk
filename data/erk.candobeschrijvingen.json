@@ -9792,7 +9792,12 @@
 		"title": "Kan verslagen in kranten en tijdschriften lezen over films, boeken, concerten enzovoort die voor een breder publiek bestemd zijn en daarin de belangrijkste punten begrijpen.",
 		"id": "664b91c1-be7b-4012-8c85-f715419e2327",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"73ab13c5-bd61-48d2-9dc8-ac39fbb73d16",
+			"a026e07f-ccae-450f-b357-d5c979f5d97a",
+			"83426fd3-ccee-469e-9998-2e410991295b"
+		]
 	},
 	{
 		"niveau_id": [
@@ -9801,7 +9806,12 @@
 		"title": "Kan eenvoudige gedichten en liedjesteksten begrijpen waarin een directe taal en stijl zijn gehanteerd.",
 		"id": "d8259bde-8e3b-4a3e-94ec-528afb217c49",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"c82d24fe-1a94-4ba8-a28a-53472bd9b67a",
+			"e847c5c9-15c7-4339-8874-55d423cd347c",
+			"de616547-7688-4b00-8807-2fe32de14132"
+		]
 	},
 	{
 		"niveau_id": [
