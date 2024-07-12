@@ -4481,14 +4481,24 @@
 		"title": "Kan een onderbouwde mening geven over een werk en zich daarbij bewust tonen van de thematische, structurele en formele kenmerken en verwijst naar de meningen en argumenten van anderen.",
 		"id": "094a1ac8-befe-454f-9b39-514aace8bd53",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"19049618-03bd-4d5f-ba7d-d2fa2ceea9b3",
+			"ef60fc3e-7976-40b1-837f-f26e36373a44",
+			"a4448d78-aa78-4a69-9810-041d869fbab7"
+		]
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
 		"title": "Kan twee werken met elkaar vergelijken wat betreft thema's, personages en scènes, overeenkomsten en contrasten verkennen en het belang van de verbanden ertussen uitleggen.",
-		"id": "32b6fd00-d348-453a-9962-c536c511101b"
+		"id": "32b6fd00-d348-453a-9962-c536c511101b",
+		"erk_voorbeeld_id": [
+			"dc9b8744-8b77-4b36-b2af-648b8b4027f8",
+			"d6fb0898-3164-4c78-b30b-4239a79b0a92",
+			"1dc3fd25-697b-4c03-ae13-a7d1f4908aa8"
+		]
 	},
 	{
 		"niveau_id": [
