@@ -16448,5 +16448,65 @@
 		"prefix": "",
 		"title": "Graphic novels.",
 		"description": ""
+	},
+	{
+		"id": "4bdf8710-1ecf-462f-8413-10dd399b4b6e",
+		"prefix": "",
+		"title": "Een artikel over de laatste trends op het gebied van sport of fitness.",
+		"description": ""
+	},
+	{
+		"id": "51d2bd9b-1a99-4b78-9bd1-9d0e04b84a74",
+		"prefix": "",
+		"title": "Een informatiegids van een dierentuin of een vakantiepark.",
+		"description": ""
+	},
+	{
+		"id": "24899ae8-98e4-41d0-9d22-bf3661749dd6",
+		"prefix": "",
+		"title": "De beschrijving van de beste films van het moment.",
+		"description": ""
+	},
+	{
+		"id": "948c19aa-40bb-4cdc-a5ec-3924472c37db",
+		"prefix": "",
+		"title": "Een informatiepagina over de beste nieuwe games.",
+		"description": ""
+	},
+	{
+		"id": "d5699a15-face-41b3-b2bc-6bdf834d02ad",
+		"prefix": "",
+		"title": "Een artikel over de bezienswaardigheden van een plaats.",
+		"description": ""
+	},
+	{
+		"id": "4e9b57d5-d1f7-4f90-bd2b-44fbdb890286",
+		"prefix": "",
+		"title": "Een interview met een getuige van een gebeurtenis.",
+		"description": ""
+	},
+	{
+		"id": "80013dbd-2b32-4d2e-9b7a-1bbef839f2f0",
+		"prefix": "",
+		"title": "Een pagina uit een dagboek.",
+		"description": ""
+	},
+	{
+		"id": "9a4d2ae9-c401-42fb-92a7-fbdb7546a91a",
+		"prefix": "",
+		"title": "Een stadswandeling met een gids.",
+		"description": ""
+	},
+	{
+		"id": "32296058-1e9e-494d-8d00-7b530ea7e799",
+		"prefix": "",
+		"title": "Een reisverslag van een vakantie ervaring.",
+		"description": ""
+	},
+	{
+		"id": "79071676-8bc0-40aa-86d9-5d1fd8f858d9",
+		"prefix": "",
+		"title": "Een artikel over een festival in een krant of magazine.",
+		"description": ""
 	}
 ]
