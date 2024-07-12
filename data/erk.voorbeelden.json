@@ -16544,5 +16544,41 @@
 		"prefix": "",
 		"title": "Een stripboek.",
 		"description": ""
+	},
+	{
+		"id": "73ab13c5-bd61-48d2-9dc8-ac39fbb73d16",
+		"prefix": "",
+		"title": "De recensie van een musical of een concert.",
+		"description": ""
+	},
+	{
+		"id": "a026e07f-ccae-450f-b357-d5c979f5d97a",
+		"prefix": "",
+		"title": "Het juryrapport op de website van een concours.",
+		"description": ""
+	},
+	{
+		"id": "83426fd3-ccee-469e-9998-2e410991295b",
+		"prefix": "",
+		"title": "Een interview in de krant met een schrijver over diens laatste boek.",
+		"description": ""
+	},
+	{
+		"id": "c82d24fe-1a94-4ba8-a28a-53472bd9b67a",
+		"prefix": "",
+		"title": "Een modern gedicht in standaardtaal zonder rijmschema.",
+		"description": ""
+	},
+	{
+		"id": "e847c5c9-15c7-4339-8874-55d423cd347c",
+		"prefix": "",
+		"title": "Een poëtische tekst in een magazine.",
+		"description": ""
+	},
+	{
+		"id": "de616547-7688-4b00-8807-2fe32de14132",
+		"prefix": "",
+		"title": "Een songtekst over tamelijk voorspelbare gevoelens zoals liefdesverdriet.",
+		"description": ""
 	}
 ]
