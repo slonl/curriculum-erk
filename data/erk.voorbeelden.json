@@ -16082,5 +16082,35 @@
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Een lezing geven over een non-fictie boek en de impliciete betekenis van relevante passages voor het publiek vertalen en uitleggen.",
 		"description": ""
+	},
+	{
+		"id": "c239196a-6963-44fc-8b15-e4138d642fa9",
+		"prefix": "",
+		"title": "Verhalen, sprookjes en fabels.",
+		"description": ""
+	},
+	{
+		"id": "be93e165-282a-45d8-a78e-dbce5df4ba38",
+		"prefix": "",
+		"title": "Legendes.",
+		"description": ""
+	},
+	{
+		"id": "471fb407-84e6-4302-8396-1c04a545dad4",
+		"prefix": "",
+		"title": "Jeugdliteratuur.",
+		"description": ""
+	},
+	{
+		"id": "72cc45cf-e914-4e83-9f0b-f2e34efae847",
+		"prefix": "",
+		"title": "Novelles.",
+		"description": ""
+	},
+	{
+		"id": "b5fbd875-e5d6-42b6-9633-a068e8dcf7aa",
+		"prefix": "",
+		"title": "Kort verhaal.",
+		"description": ""
 	}
 ]
