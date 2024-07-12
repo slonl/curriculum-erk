@@ -9647,7 +9647,12 @@
 		"title": "Kan korte teksten in geïllustreerde verhalen globaal begrijpen, mits de afbeeldingen helpen om veel van de inhoud te raden.",
 		"id": "8cb371de-6d6e-40ee-b457-86cad976ee48",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"470272a2-23e5-497d-b458-bb85b6c17d23",
+			"1db821a8-90b2-4cc3-bb55-82d6134f129c",
+			"607fe3fa-cd43-4980-9a55-acf781bf2eb7"
+		]
 	},
 	{
 		"niveau_id": [
@@ -9656,7 +9661,13 @@
 		"title": "Kan korte verhalende teksten en beschrijvingen van iemands leven begrijpen die in eenvoudige taal zijn opgesteld.",
 		"id": "3a63711f-e406-4425-baee-c747fac7509f",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"91667508-7b7b-4f02-a78d-5bd97c4cefe5",
+			"739a1405-627b-4b51-b1e6-496c4abd8d98",
+			"8eda96b3-3f75-41b4-81fd-a8e7bbbae50e",
+			"47b99d4a-2973-46d0-bb4e-c3c7884e3d53"
+		]
 	},
 	{
 		"niveau_id": [
