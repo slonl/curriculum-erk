@@ -9729,10 +9729,17 @@
 		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
-		"title": "Kan de hoofdpunten begrijpen van korte verslagen of items in tijdschriften of gidsen die over concrete, alledaagse onderwerpen (bijvoorbeeld hobby's, sport, vrijetijdsbesteding, dieren) gaan.",
+		"title": "Kan de hoofdpunten begrijpen van korte verslagen of items in tijdschriften of gidsen die over concrete, alledaagse onderwerpen gaan.",
 		"id": "96e05ad9-5b4b-4e81-8280-0059a12ee088",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"4bdf8710-1ecf-462f-8413-10dd399b4b6e",
+			"51d2bd9b-1a99-4b78-9bd1-9d0e04b84a74",
+			"24899ae8-98e4-41d0-9d22-bf3661749dd6",
+			"948c19aa-40bb-4cdc-a5ec-3924472c37db",
+			"d5699a15-face-41b3-b2bc-6bdf834d02ad"
+		]
 	},
 	{
 		"niveau_id": [
@@ -9741,7 +9748,14 @@
 		"title": "Kan beschrijvingen van plaatsen, gebeurtenissen, expliciet geuite gevoelens en perspectieven begrijpen in verhalende teksten, gidsen en tijdschriftartikelen die in veelgebruikte, alledaagse taal zijn geformuleerd.",
 		"id": "c2d1bd30-4597-491a-a428-0e3891e309ea",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"4e9b57d5-d1f7-4f90-bd2b-44fbdb890286",
+			"80013dbd-2b32-4d2e-9b7a-1bbef839f2f0",
+			"9a4d2ae9-c401-42fb-92a7-fbdb7546a91a",
+			"32296058-1e9e-494d-8d00-7b530ea7e799",
+			"79071676-8bc0-40aa-86d9-5d1fd8f858d9"
+		]
 	},
 	{
 		"niveau_id": [
