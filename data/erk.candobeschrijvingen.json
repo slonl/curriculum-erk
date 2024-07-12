@@ -9854,7 +9854,12 @@
 		"title": "Kan hedendaagse literaire teksten en non-fictiewerken die in standaardtaal of een vertrouwde taalvariëiteit geformuleerd zijn met weinig moeite lezen en daarbij de impliciete betekenissen en ideeën aanvoelen.",
 		"id": "7aae5945-14c6-4557-94c0-471828c92bdb",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"2834612c-00a6-4fd2-8cc5-18787e4a6595",
+			"8d7efcab-247a-432c-a2bf-4376e35e342b",
+			"e5e6a82f-6ae9-41b1-b6e8-7d855d9f7c9a"
+		]
 	},
 	{
 		"niveau_id": [
@@ -9863,7 +9868,13 @@
 		"title": "Kan verschillende soorten literaire teksten lezen en waarderen, op voorwaarde dat bepaalde tekstdelen herlezen kunnen worden en, waar nodig, gebruikgemaakt kan worden van naslagwerken.",
 		"id": "51b79f6b-c169-4d50-9ae3-d1b65b8205cb",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"9b34f152-21c4-49d8-bcb8-bfd47db1ad56",
+			"a12a4615-874c-4e00-a7d3-bac64efd8161",
+			"f1a7fa5f-9e2f-40f1-9fe5-0e41928f0579",
+			"10b550b0-22d7-4958-a86e-37bc6ab35751"
+		]
 	},
 	{
 		"niveau_id": [
