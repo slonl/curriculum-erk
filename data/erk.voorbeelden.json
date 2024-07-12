@@ -16508,5 +16508,41 @@
 		"prefix": "",
 		"title": "Een artikel over een festival in een krant of magazine.",
 		"description": ""
+	},
+	{
+		"id": "c24c4da7-1619-47f5-98f6-767edc501fe5",
+		"prefix": "",
+		"title": "De verslagen van een reisjournalist.",
+		"description": ""
+	},
+	{
+		"id": "f6337460-e924-4ef1-be77-c42e5e970b70",
+		"prefix": "",
+		"title": "De reiservaringen van een wandelaar.",
+		"description": ""
+	},
+	{
+		"id": "b1e87e06-7820-454a-943c-6946431582ad",
+		"prefix": "",
+		"title": "Een reisblog.",
+		"description": ""
+	},
+	{
+		"id": "96e1ed20-c3e6-49ec-8467-724edd601fcc",
+		"prefix": "",
+		"title": "Een jeugdroman met een eenvoudige opbouw.",
+		"description": ""
+	},
+	{
+		"id": "fb6bdb7f-2914-46a7-afdb-6e0f51a6b780",
+		"prefix": "",
+		"title": "Een meeslepend verhaal.",
+		"description": ""
+	},
+	{
+		"id": "b837f353-18b9-4f5f-b30b-67b547328cc9",
+		"prefix": "",
+		"title": "Een stripboek.",
+		"description": ""
 	}
 ]
