@@ -9701,10 +9701,16 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan het belangrijkste punt begrijpen van een kort artikel over een gebeurtenis die een voorspelbaar patroon volgt (bijvoorbeeld de Oscaruitreiking), mits het artikel duidelijk is opgebouwd en in eenvoudige taal is opgesteld.",
+		"title": "Kan het belangrijkste punt begrijpen van een kort artikel over een gebeurtenis die een voorspelbaar patroon volgt, mits het artikel duidelijk is opgebouwd en in eenvoudige taal is opgesteld.",
 		"id": "f1e7c828-fefc-41f7-aac6-65cabd601863",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"465048b1-26a7-4ee8-aeec-682e0c9862c0",
+			"ee223999-8bf9-429c-b767-3adeb37f199b",
+			"4fc7b9e2-c344-4818-8275-881b4e0e8424",
+			"8990987b-a27c-4a0e-b7d4-3f4e3e060f5f"
+		]
 	},
 	{
 		"niveau_id": [
@@ -9713,7 +9719,11 @@
 		"title": "Kan genoeg begrijpen om korte, eenvoudige verhalen en strips te lezen die over vertrouwde, concrete situaties gaan en waarin veelvoorkomende, alledaagse taal wordt gebruikt.",
 		"id": "54443c83-7a58-48dd-a980-a04abeb5c3f5",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"d547bffb-e50b-4a56-a5a9-5f3f9c1921a7",
+			"5dc88ab6-6ab5-42a4-bcb8-214c5b0f3645"
+		]
 	},
 	{
 		"niveau_id": [
