@@ -4450,7 +4450,12 @@
 		"title": "Kan een persoonlijke interpretatie van personages in een werk toelichten: hun psychologische/emotionele staat, de motieven voor hun handelingen en de consequenties van deze handelingen.",
 		"id": "4df8686f-c43e-4aae-b1ce-cb9963936886",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"d1562cc3-a8ca-4c7a-9093-51516a4f309e",
+			"15e9bf45-608d-496b-b601-05b5c632d5bd",
+			"b8dfbed4-5644-4042-b10f-7b6edc541e42"
+		]
 	},
 	{
 		"niveau_id": [
@@ -4459,7 +4464,12 @@
 		"title": "Kan in detail een persoonlijke interpretatie van een werk beschrijven en zijn of haar reacties op bepaalde kenmerken toelichten en het belang daarvan uitleggen.",
 		"id": "b0589947-eb3c-4fb4-838a-19f23b91e8db",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"4192b90c-fdf6-4030-9819-ad909c93bd6e",
+			"ac7d0628-18bf-41ca-ac83-bb54c1129bfe",
+			"7197ef12-a910-46b8-acd6-42fcf049adbc"
+		]
 	},
 	{
 		"niveau_id": [
