@@ -16694,5 +16694,41 @@
 		"prefix": "",
 		"title": "Gedichtenbundels.",
 		"description": ""
+	},
+	{
+		"id": "f8441391-4b0d-4a65-ae3e-a4a31136edce",
+		"prefix": "",
+		"title": "Maatschappelijk geëngageerde fictie en non-fictie.",
+		"description": ""
+	},
+	{
+		"id": "5f7981c2-fb55-4ff1-a8cd-25e74a0f96b3",
+		"prefix": "",
+		"title": "Literaire werken uit verschillende genres en cultuurhistorische perioden.",
+		"description": ""
+	},
+	{
+		"id": "73e8136d-d1b1-4836-90d9-3eb36d02b8b3",
+		"prefix": "",
+		"title": "Gedichten uit verschillende literaire periodes.",
+		"description": ""
+	},
+	{
+		"id": "036a2e01-286c-42a6-b78d-487c50ad9272",
+		"prefix": "",
+		"title": "Werken met veel gebruik van regionale taalvarianten of sociolecten.",
+		"description": ""
+	},
+	{
+		"id": "59ae1b22-bc67-468e-b7f0-2797ad8d18cf",
+		"prefix": "",
+		"title": "Werken over politieke of maatschappelijke onderwerpen met verwijzingen naar cultuur-historische gebeurtenissen.",
+		"description": ""
+	},
+	{
+		"id": "b584b402-374f-4b56-9b85-3099fcb64bb1",
+		"prefix": "",
+		"title": "Wetenschappelijke artikelen.",
+		"description": ""
 	}
 ]
