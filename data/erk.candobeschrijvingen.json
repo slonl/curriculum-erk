@@ -9817,19 +9817,35 @@
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan romans lezen met een sterk, verhalend plot, waarin eenvoudige, onomwonden taal wordt gebruikt, mits er voldoende tijd is en eventueel een woordenboek gebruikt kan worden.",
+		"title": "Kan romans lezen met een sterk, verhalend plot, waarin heldere, onomwonden taal wordt gebruikt, mits er voldoende tijd is en er een woordenboek gebruikt kan worden.",
 		"id": "4eec41e4-020e-40ac-a203-50992e4c6d22",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"ac276254-c526-4b04-8a7f-81d5364e21ca",
+			"c3893ffe-cbd5-4bd1-9b31-47c2448ec431",
+			"bc1a80ad-8cda-45da-be21-bae8bf853fed",
+			"65b542b7-640d-4ee8-8ebc-2538a2f71701",
+			"30912ba1-52c5-4109-ab1a-e4fddae8f399",
+			"fc3d069a-125d-408a-b0b0-a04853a7c56b",
+			"90d33feb-f451-4c7a-b550-77eb79e57e2d"
+		]
 	},
 	{
 		"niveau_id": [
 			"f7920461-e732-4767-b855-87783a05c76a"
 		],
-		"title": "Kan, met een hoge mate van zelfstandigheid, lezen voor het plezier, en daarbij de eigen leesstijl en -snelheid aanpassen aan de tekstsoort (bijvoorbeeld tijdschriften, relatief ongecompliceerde romans, geschiedenisboeken, biografieën, reisverslagen, gidsen, liedteksten, gedichten) en selectief gebruikmaken van de juiste referenties.",
+		"title": "Kan, met een hoge mate van zelfstandigheid, lezen voor het plezier en daarbij de eigen leesstijl en -snelheid aanpassen aan de tekstsoort en selectief gebruikmaken van de juiste referenties.",
 		"id": "e8231f4f-d6cc-4006-92d8-0860fcde7418",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"085c50c2-f156-4f97-a310-50042c0ed385",
+			"5d551b2f-ada9-4b7c-a09d-64c3da5d0152",
+			"6cca54a7-ffcd-430a-8f96-5eeae5557f12",
+			"73739b41-c2ce-4632-a71a-f4203312d40b",
+			"2acf36be-8232-4af4-9945-54c699b16bfe"
+		]
 	},
 	{
 		"niveau_id": [
