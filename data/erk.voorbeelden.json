@@ -16412,5 +16412,41 @@
 		"prefix": "",
 		"title": "Een biografische strip.",
 		"description": ""
+	},
+	{
+		"id": "465048b1-26a7-4ee8-aeec-682e0c9862c0",
+		"prefix": "",
+		"title": "Een artikel over de Oscaruitreiking.",
+		"description": ""
+	},
+	{
+		"id": "ee223999-8bf9-429c-b767-3adeb37f199b",
+		"prefix": "",
+		"title": "Het verslag van een landelijke of traditionele feestdag.",
+		"description": ""
+	},
+	{
+		"id": "4fc7b9e2-c344-4818-8275-881b4e0e8424",
+		"prefix": "",
+		"title": "Een kort verslag van een sportwedstrijd.",
+		"description": ""
+	},
+	{
+		"id": "8990987b-a27c-4a0e-b7d4-3f4e3e060f5f",
+		"prefix": "",
+		"title": "Een artikel over de opening van een tentoonstelling of een beurs.",
+		"description": ""
+	},
+	{
+		"id": "d547bffb-e50b-4a56-a5a9-5f3f9c1921a7",
+		"prefix": "",
+		"title": "Manga.",
+		"description": ""
+	},
+	{
+		"id": "5dc88ab6-6ab5-42a4-bcb8-214c5b0f3645",
+		"prefix": "",
+		"title": "Graphic novels.",
+		"description": ""
 	}
 ]
