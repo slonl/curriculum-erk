@@ -16232,5 +16232,47 @@
 		"prefix": "",
 		"title": "De kenmerken van het genre van een film of een boek herkennen en beschrijven op taal- en structuursniveau.",
 		"description": ""
+	},
+	{
+		"id": "ec2d756e-b478-4c83-b0d2-339526400d05",
+		"prefix": "",
+		"title": "De benadering van hetzelfde thema in romans uit verschillende literaire periodes analyseren.",
+		"description": ""
+	},
+	{
+		"id": "97d0f1db-b290-4787-93f4-f7354ca10514",
+		"prefix": "",
+		"title": "Kenmerken van verschillende soorten poëzie met elkaar vergelijken.",
+		"description": ""
+	},
+	{
+		"id": "4cefd387-837e-49d2-aa86-bb405239d93b",
+		"prefix": "",
+		"title": "Betekenis en motieven van afwijkende taalkeuzes in straatpoëzie interpreteren.",
+		"description": ""
+	},
+	{
+		"id": "8be1e8be-0c36-4483-8f1a-675ad04b3b31",
+		"prefix": "",
+		"title": "De artistieke waarde van experimenteel taalgebruik evalueren.",
+		"description": ""
+	},
+	{
+		"id": "9b3ab126-b8a9-44cb-9417-014767dc33bf",
+		"prefix": "",
+		"title": "Literaire essays vanuit verschillende invalshoeken evalueren en waarderen.",
+		"description": ""
+	},
+	{
+		"id": "ea9b5a0d-69eb-4806-9fa5-2de46bd73d57",
+		"prefix": "",
+		"title": "Het effect op de lezer van retorische middelen in een literair werk analyseren.",
+		"description": ""
+	},
+	{
+		"id": "83a3bd72-65bf-4397-a601-8f76fff0699e",
+		"prefix": "",
+		"title": "De uitvoering van een plotwissel in een literaire verfilming beschrijven en evalueren.",
+		"description": ""
 	}
 ]
