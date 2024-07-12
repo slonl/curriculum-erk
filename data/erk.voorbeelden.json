@@ -16580,5 +16580,77 @@
 		"prefix": "",
 		"title": "Een songtekst over tamelijk voorspelbare gevoelens zoals liefdesverdriet.",
 		"description": ""
+	},
+	{
+		"id": "ac276254-c526-4b04-8a7f-81d5364e21ca",
+		"prefix": "",
+		"title": "Literaire thrillers.",
+		"description": ""
+	},
+	{
+		"id": "c3893ffe-cbd5-4bd1-9b31-47c2448ec431",
+		"prefix": "",
+		"title": "Avonturenromans.",
+		"description": ""
+	},
+	{
+		"id": "bc1a80ad-8cda-45da-be21-bae8bf853fed",
+		"prefix": "",
+		"title": "Waargebeurde verhalen.",
+		"description": ""
+	},
+	{
+		"id": "65b542b7-640d-4ee8-8ebc-2538a2f71701",
+		"prefix": "",
+		"title": "Historische fictie.",
+		"description": ""
+	},
+	{
+		"id": "30912ba1-52c5-4109-ab1a-e4fddae8f399",
+		"prefix": "",
+		"title": "Romans met een utopische of dystopische setting.",
+		"description": ""
+	},
+	{
+		"id": "fc3d069a-125d-408a-b0b0-a04853a7c56b",
+		"prefix": "",
+		"title": "Science Fiction.",
+		"description": ""
+	},
+	{
+		"id": "90d33feb-f451-4c7a-b550-77eb79e57e2d",
+		"prefix": "",
+		"title": "Fantasy.",
+		"description": ""
+	},
+	{
+		"id": "085c50c2-f156-4f97-a310-50042c0ed385",
+		"prefix": "",
+		"title": "Populairwetenschappelijke tijdschriften.",
+		"description": ""
+	},
+	{
+		"id": "5d551b2f-ada9-4b7c-a09d-64c3da5d0152",
+		"prefix": "",
+		"title": "Verhalen van eigentijdse schrijvers in heldere standaardtaal.",
+		"description": ""
+	},
+	{
+		"id": "6cca54a7-ffcd-430a-8f96-5eeae5557f12",
+		"prefix": "",
+		"title": "Historische romans.",
+		"description": ""
+	},
+	{
+		"id": "73739b41-c2ce-4632-a71a-f4203312d40b",
+		"prefix": "",
+		"title": "Biografische romans.",
+		"description": ""
+	},
+	{
+		"id": "2acf36be-8232-4af4-9945-54c699b16bfe",
+		"prefix": "",
+		"title": "Songteksten.",
+		"description": ""
 	}
 ]
