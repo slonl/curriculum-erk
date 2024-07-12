@@ -4530,21 +4530,34 @@
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
 		"title": "Kan een kritische beoordeling geven van een groot scala van teksten, waaronder literaire werken uit verschillende perioden en genres.",
-		"id": "5a609bf6-aa79-490a-9a0e-e9f1ed6d590d"
+		"id": "5a609bf6-aa79-490a-9a0e-e9f1ed6d590d",
+		"erk_voorbeeld_id": [
+			"ec2d756e-b478-4c83-b0d2-339526400d05",
+			"97d0f1db-b290-4787-93f4-f7354ca10514"
+		]
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
 		"title": "Kan een kritische beoordeling geven van het bewust breken met linguïstische conventies in een tekst.",
-		"id": "16d5a577-2df6-426c-a8f5-e2efb6f5c058"
+		"id": "16d5a577-2df6-426c-a8f5-e2efb6f5c058",
+		"erk_voorbeeld_id": [
+			"4cefd387-837e-49d2-aa86-bb405239d93b",
+			"8be1e8be-0c36-4483-8f1a-675ad04b3b31"
+		]
 	},
 	{
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
 		"title": "Kan de manier waarop structuur, taal en retorische middelen zijn gebruikt in een literair werk voor een bepaald doel kritisch evalueren en een onderbouwd argument geven voor de toepasselijkheid en effectiviteit daarvan.",
-		"id": "b99fce6b-2937-4ba7-91cc-c5e488de7307"
+		"id": "b99fce6b-2937-4ba7-91cc-c5e488de7307",
+		"erk_voorbeeld_id": [
+			"9b3ab126-b8a9-44cb-9417-014767dc33bf",
+			"ea9b5a0d-69eb-4806-9fa5-2de46bd73d57",
+			"83a3bd72-65bf-4397-a601-8f76fff0699e"
+		]
 	},
 	{
 		"niveau_id": [
