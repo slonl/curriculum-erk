@@ -4321,10 +4321,14 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan de eigen emoties op een bepaald moment in een verhaal beschrijven, bijvoorbeeld een moment van empathie met een personage, en uitleggen waarom.",
+		"title": "Kan de eigen emoties op een bepaald moment in een verhaal beschrijven, bijvoorbeeld een moment van empathie met een personage, en uitleggen.",
 		"id": "276cc463-557f-468a-85b6-b7cbd3cb8ea8",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"aa078756-b8b8-43d7-abe4-20f4a43b22f1",
+			"480b01a1-2f2c-4047-b6f0-cbdd2523f208"
+		]
 	},
 	{
 		"niveau_id": [
