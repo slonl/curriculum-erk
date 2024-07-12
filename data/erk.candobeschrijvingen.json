@@ -9631,7 +9631,14 @@
 		"title": "Kan korte, geïllustreerde verhalen begrijpen over alledaagse activiteiten, als ze in eenvoudige bewoordingen zijn opgesteld. ",
 		"id": "c837b0bc-da87-4a14-acf1-6d1e19965106",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"41c0a0c6-78f9-4b22-9ac0-6fc9f6fce490",
+			"f7a769a2-c0ea-4e52-a56f-0e62c5013ed2",
+			"f703d14b-1132-4491-ab7d-6c4fa631250d",
+			"2311cad3-6211-4e6f-bc2e-2d824fb7464a",
+			"44200cea-d525-4a4a-9ed6-a3cf96496a4e"
+		]
 	},
 	{
 		"niveau_id": [
