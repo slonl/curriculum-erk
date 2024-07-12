@@ -4257,7 +4257,12 @@
 		"title": "Kan in eenvoudige taal zeggen welke delen of aspecten van een werk in het bijzonder interessant waren.",
 		"id": "e9b3f7cb-e9c9-4351-b572-49c0f4820feb",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"erk_voorbeeld_id": [
+			"62aa9b91-7ef6-4d04-abb1-0760829778a5",
+			"f62c77be-6d2e-432d-8e00-c1d4e978bd8d",
+			"2924ce4d-bf18-479f-b783-b469f1b4af8e"
+		]
 	},
 	{
 		"niveau_id": [
