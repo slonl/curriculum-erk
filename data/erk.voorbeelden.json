@@ -16376,5 +16376,41 @@
 		"prefix": "",
 		"title": "Een persoonlijke pagina op sociale media.",
 		"description": ""
+	},
+	{
+		"id": "c644fbf7-95c2-4fee-8c42-ad3ffa53b32c",
+		"prefix": "",
+		"title": "Een fotoverhaal in een lifestyle magazine.",
+		"description": ""
+	},
+	{
+		"id": "c20d59f2-8ca2-4698-b2c7-aab302c909aa",
+		"prefix": "",
+		"title": "Een stripverhaal op basis van foto's.",
+		"description": ""
+	},
+	{
+		"id": "b08d88c1-3846-4577-8926-86b2b262529c",
+		"prefix": "",
+		"title": "Een korte biografie van een beroemdheid.",
+		"description": ""
+	},
+	{
+		"id": "b6f4cd75-aa6e-45bc-a95f-811d3841427f",
+		"prefix": "",
+		"title": "Een persoonlijke introductie van iemand op sociale media.",
+		"description": ""
+	},
+	{
+		"id": "c364dcfd-df19-496d-bc1e-c9eec30f7662",
+		"prefix": "",
+		"title": "De beschrijving van een personage in een boek of een film.",
+		"description": ""
+	},
+	{
+		"id": "326ad495-42e6-4ed6-b6c4-4e5889a67fca",
+		"prefix": "",
+		"title": "Een biografische strip.",
+		"description": ""
 	}
 ]
