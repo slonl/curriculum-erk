@@ -9812,7 +9812,8 @@
 		"description": "",
 		"erk_voorbeeld_id": [
 			"d547bffb-e50b-4a56-a5a9-5f3f9c1921a7",
-			"5dc88ab6-6ab5-42a4-bcb8-214c5b0f3645"
+			"5dc88ab6-6ab5-42a4-bcb8-214c5b0f3645",
+			"015a97b0-a17b-426d-a42b-666f3314591b"
 		]
 	},
 	{
@@ -9893,7 +9894,7 @@
 		"niveau_id": [
 			"a0f545f9-a077-49fd-ab13-ef3533430ee6"
 		],
-		"title": "Kan eenvoudige gedichten en liedjesteksten begrijpen waarin een directe taal en stijl zijn gehanteerd.",
+		"title": "Kan eenvoudige gedichten en liedjesteksten begrijpen waarin een heldere taal en stijl zijn gehanteerd.",
 		"id": "d8259bde-8e3b-4a3e-94ec-528afb217c49",
 		"prefix": "",
 		"description": "",
@@ -9934,14 +9935,17 @@
 			"5d551b2f-ada9-4b7c-a09d-64c3da5d0152",
 			"6cca54a7-ffcd-430a-8f96-5eeae5557f12",
 			"73739b41-c2ce-4632-a71a-f4203312d40b",
-			"2acf36be-8232-4af4-9945-54c699b16bfe"
+			"2acf36be-8232-4af4-9945-54c699b16bfe",
+			"b09523ac-8b38-4df2-ae47-87c9acad7ded",
+			"96368a6f-e48b-4370-8724-d17c504d68a4",
+			"b7060683-8f23-43e0-9b7a-3b2e7b1659f3"
 		]
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan hedendaagse literaire teksten en non-fictiewerken die in standaardtaal of een vertrouwde taalvariëiteit geformuleerd zijn met weinig moeite lezen en daarbij de impliciete betekenissen en ideeën aanvoelen.",
+		"title": "Kan hedendaagse literaire teksten en non-fictiewerken, die in standaardtaal of een vertrouwde taalvariëiteit geformuleerd zijn, met weinig moeite lezen en daarbij de impliciete betekenissen en ideeën aanvoelen.",
 		"id": "7aae5945-14c6-4557-94c0-471828c92bdb",
 		"prefix": "",
 		"description": "",
