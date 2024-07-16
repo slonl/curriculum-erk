@@ -4517,7 +4517,7 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan de essentiële thema's en personages in korte verhalende teksten over vertrouwde situaties beschrijven die alleen in veelvoorkomende alledaagse taal bevatten.",
+		"title": "Kan de essentiële thema's en personages in korte verhalende teksten over vertrouwde situaties beschrijven die alleen veelvoorkomende alledaagse taal bevatten.",
 		"id": "50061813-3b61-47dc-b063-e517957b8601",
 		"prefix": "",
 		"description": "",
@@ -4530,7 +4530,7 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan de belangrijkste episoden en gebeurtenissen in een duidelijk gestructureerde verhalende tekst in alledaagse taal aanwijzen, en het belang van de gebeurtenissen en de verbanden ertussen uitleggen.",
+		"title": "Kan de belangrijkste episoden en gebeurtenissen in een duidelijk gestructureerde verhalende tekst in alledaagse taal aanwijzen, en het belang van de gebeurtenissen en het verband ertussen uitleggen.",
 		"id": "da66107b-1bc3-42f7-839a-818d7a19c5c7",
 		"prefix": "",
 		"description": "",
@@ -4592,18 +4592,20 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan de manieren waarop het werk de lezer bij het verhaal betrekt (bijvoorbeeld door verwachtingen op te bouwen en te ondermijnen) beschrijven en becommentariëren.",
+		"title": "Kan de manieren waarop het werk de lezer bij het verhaal betrekt beschrijven en becommentariëren.",
 		"id": "fec7974e-465f-4bf6-9255-69315859ed6b",
 		"erk_voorbeeld_id": [
 			"cced3f9f-4269-4a96-bd82-07778c8459e7",
 			"feceac85-13a5-4aeb-aa13-f8bb33fa6749"
-		]
+		],
+		"prefix": "",
+		"description": ""
 	},
 	{
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan evalueren in hoeverre een werk aan de conventies van zijn genre voldoet.",
+		"title": "Kan evalueren in hoeverre een werk aan de conventies van het genre voldoet.",
 		"id": "d6efefb1-9b70-4f97-a89b-06f2980ebd29",
 		"prefix": "",
 		"description": "",
@@ -4664,7 +4666,7 @@
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan een kritische beoordeling geven van werk uit verschillende perioden en genres en daarbij subtiele verschillen in stijl en impliciete en expliciete betekenissen opmerken.",
+		"title": "Kan een kritische beoordeling geven van werk uit verschillende perioden en genres en daarbij subtiele verschillen in stijl en zowel impliciete als expliciete betekenissen opmerken.",
 		"id": "bfa4b4d5-fa12-4f7d-9d81-ad063f99d3e4",
 		"prefix": "",
 		"description": "",
