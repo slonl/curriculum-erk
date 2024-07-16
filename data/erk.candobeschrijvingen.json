@@ -4320,13 +4320,14 @@
 		"niveau_id": [
 			"a94b005d-9697-49f6-897a-0ad6516044f9"
 		],
-		"title": "Kan de eigen emoties op een bepaald moment in een verhaal beschrijven, bijvoorbeeld een moment van empathie met een personage, en uitleggen.",
+		"title": "Kan de eigen emoties op een bepaald moment in een verhaal beschrijven en uitleggen.",
 		"id": "276cc463-557f-468a-85b6-b7cbd3cb8ea8",
 		"prefix": "",
 		"description": "",
 		"erk_voorbeeld_id": [
 			"aa078756-b8b8-43d7-abe4-20f4a43b22f1",
-			"480b01a1-2f2c-4047-b6f0-cbdd2523f208"
+			"480b01a1-2f2c-4047-b6f0-cbdd2523f208",
+			"4493f671-3807-4ce7-96de-9ebdaef4d40d"
 		]
 	},
 	{
@@ -4460,7 +4461,7 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan in detail een persoonlijke interpretatie van een werk beschrijven en zijn of haar reacties op bepaalde kenmerken toelichten en het belang daarvan uitleggen.",
+		"title": "Kan in detail een persoonlijke interpretatie van een werk beschrijven en de eigen reacties op bepaalde kenmerken toelichten en het belang daarvan uitleggen.",
 		"id": "b0589947-eb3c-4fb4-838a-19f23b91e8db",
 		"prefix": "",
 		"description": "",
