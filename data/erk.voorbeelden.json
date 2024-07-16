@@ -16674,7 +16674,7 @@
 	{
 		"id": "9b34f152-21c4-49d8-bcb8-bfd47db1ad56",
 		"prefix": "",
-		"title": "Fictie- en non-fictiewerken, waar nodig met behulp van digitale vertaalmiddelen voor het begrip.",
+		"title": "Fictie- en non-fictiewerken.",
 		"description": ""
 	},
 	{
@@ -17059,6 +17059,30 @@
 		"id": "4493f671-3807-4ce7-96de-9ebdaef4d40d",
 		"prefix": "",
 		"title": "Empathie met een personage.",
+		"description": ""
+	},
+	{
+		"id": "015a97b0-a17b-426d-a42b-666f3314591b",
+		"prefix": "",
+		"title": "Een strip in een krant.",
+		"description": ""
+	},
+	{
+		"id": "b09523ac-8b38-4df2-ae47-87c9acad7ded",
+		"prefix": "",
+		"title": "Geschiedenisboeken.",
+		"description": ""
+	},
+	{
+		"id": "96368a6f-e48b-4370-8724-d17c504d68a4",
+		"prefix": "",
+		"title": "Reisverslagen.",
+		"description": ""
+	},
+	{
+		"id": "b7060683-8f23-43e0-9b7a-3b2e7b1659f3",
+		"prefix": "",
+		"title": "Liedteksten en gedichten.",
 		"description": ""
 	}
 ]
