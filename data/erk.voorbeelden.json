@@ -16962,7 +16962,7 @@
 	{
 		"id": "a7b84d04-10ec-4f04-92cb-a7a93dd8d6b3",
 		"prefix": "",
-		"title": "De overeenkomsten en verschillen tussen een boek en zijn verfilming toelichten en de eigen voorkeuren beargumenteren.",
+		"title": "De overeenkomsten en verschillen tussen een boek en de verfilming ervan toelichten en de eigen voorkeuren beargumenteren.",
 		"description": ""
 	},
 	{
@@ -17053,6 +17053,12 @@
 		"id": "7197ef12-a910-46b8-acd6-42fcf049adbc",
 		"prefix": "",
 		"title": "Een eigen beargumenteerde duiding geven aan impliciete boodschappen van de auteur.",
+		"description": ""
+	},
+	{
+		"id": "4493f671-3807-4ce7-96de-9ebdaef4d40d",
+		"prefix": "",
+		"title": "Empathie met een personage.",
 		"description": ""
 	}
 ]
