@@ -12026,7 +12026,7 @@
 	{
 		"id": "4ff24dbb-a0c5-4665-8896-7edafa2f0042",
 		"prefix": "",
-		"title": "Voorbeeld van een bron - Audioboodschappen via de telefoon.",
+		"title": "Voorbeeld van een bron - Audioberichten op de telefoon.",
 		"description": ""
 	},
 	{
@@ -12038,7 +12038,7 @@
 	{
 		"id": "022805a8-452f-485e-8ff9-e3714565798d",
 		"prefix": "",
-		"title": "Voorbeeld van een bron - Oproepen op het station of het sportveld.",
+		"title": "Voorbeeld van een bron - Een omroepbericht op het station of het sportveld.",
 		"description": ""
 	},
 	{
@@ -12111,6 +12111,4974 @@
 		"id": "e6ba5d66-92ed-491e-88ac-085c525f25eb",
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Aan een klasgenoot vertellen welke dierenweetjes er op de borden in de dierentuin staan.",
+		"description": ""
+	},
+	{
+		"id": "3d127ed6-8e88-4b3e-9c24-0aa6ed47a46e",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De nieuwsbrief van de school.",
+		"description": ""
+	},
+	{
+		"id": "e57be393-6768-446f-a8e0-83e8740485bd",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De online nieuwsbrief van een winkel.",
+		"description": ""
+	},
+	{
+		"id": "4c904273-d921-4f22-b5fb-bcab2582739b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Websites.",
+		"description": ""
+	},
+	{
+		"id": "a24bd9e1-ff91-4985-98d4-f76813542fe4",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Reisgidsen.",
+		"description": ""
+	},
+	{
+		"id": "6020c7bc-2bf7-4acd-975b-549a0d0e9351",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Informatieborden bij een tentoonstelling.",
+		"description": ""
+	},
+	{
+		"id": "88a7e20f-28a3-4bca-91bd-770dfdb19f39",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Huisregels van een sportclub.",
+		"description": ""
+	},
+	{
+		"id": "8232e975-1ffd-4ac3-9e1e-27d90d79409c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Veiligheidsregels in een gebouw.",
+		"description": ""
+	},
+	{
+		"id": "70c60d7d-bb52-42bc-9de2-4baf35ee5e09",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De beschrijving van de inhoud van een cursus.",
+		"description": ""
+	},
+	{
+		"id": "537bf60f-2366-4017-bece-b067bf855faf",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Voorwaarden voor deelname aan een evenement.",
+		"description": ""
+	},
+	{
+		"id": "4b2d286d-bc7d-45dd-a9f0-33a4c476bf1b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Iemand vertellen over de culturele evenementen in de stad.",
+		"description": ""
+	},
+	{
+		"id": "82839a7e-6938-4151-8632-284c0fb9709a",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Informatie over een vakantiebestemming doorgeven aan een vriend.",
+		"description": ""
+	},
+	{
+		"id": "ff24eea9-a8fc-4567-b3e8-fd97d574899a",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De bevestiging van deelname aan een evenement en de bijbehorende informatie daarover doorgeven.",
+		"description": ""
+	},
+	{
+		"id": "f785e1f6-8bba-4129-91fa-da9700dd213e",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Informatie over verschillende alternatieve opties van een abonnement toelichten.",
+		"description": ""
+	},
+	{
+		"id": "6a38899c-551c-4788-bc3c-c80a955b2a48",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een tutorial.",
+		"description": ""
+	},
+	{
+		"id": "dc17c0ac-8bd2-4da1-8da8-0d0bab36a0ff",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een routebeschrijving in een audiotour.",
+		"description": ""
+	},
+	{
+		"id": "57234c5f-1c78-47ae-9617-a71ae7ea8d4b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Instructies voor het indienen van een formulier.",
+		"description": ""
+	},
+	{
+		"id": "06a56085-311d-4356-8d0a-e0d5a20bb452",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een vriend helpen een kast in elkaar te zetten door de instructies van een videohandleiding uit te leggen.",
+		"description": ""
+	},
+	{
+		"id": "e8815673-f5bd-41db-bcb3-6c36de064482",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De instructies van de conducteur over een gewijzigde route doorvertellen aan een buitenlandse toerist.",
+		"description": ""
+	},
+	{
+		"id": "2d3f9a22-0fa5-4827-b620-d25e6b116dcc",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aanwijzingen over online etiquette en digitale privacy doorgeven.",
+		"description": ""
+	},
+	{
+		"id": "b2e6fccb-2556-4515-aaf8-a78ba8aef0ca",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een bericht of een aankondiging op de radio, op TV of op een website.",
+		"description": ""
+	},
+	{
+		"id": "992dfe8d-0694-4844-abfb-6a5c64ea032a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een oproep op het station of het vliegveld.",
+		"description": ""
+	},
+	{
+		"id": "77e4da4d-189d-4beb-82ae-1087ad3f42ba",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een waarschuwing van de politie na een verkeersongeluk of bij een noodsituatie.",
+		"description": ""
+	},
+	{
+		"id": "002c703d-a8c2-4bd3-837c-d0cf0e21819b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een aankondiging van speciale initiatieven op een beurs.",
+		"description": ""
+	},
+	{
+		"id": "d5b78fbe-5ebf-438a-b12f-3e8ce11e8876",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een omgeroepen aanbieding in een warenhuis.",
+		"description": ""
+	},
+	{
+		"id": "c54a1898-7ab3-4353-bb2d-5716e9bb53b1",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een aankondiging op school.",
+		"description": ""
+	},
+	{
+		"id": "b3bbf07e-50ac-42e7-be69-68468d290967",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Iemand vertellen over een alternatieve route op basis van een omroepbericht over een gewijzigde situatie in het openbaar vervoer.",
+		"description": ""
+	},
+	{
+		"id": "57dd9b8a-a484-40bf-baca-2d484d232451",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De inhoud van het gesprek met een politieagent over een verkeersomleiding samenvatten voor medepassagiers.",
+		"description": ""
+	},
+	{
+		"id": "c3b785f8-996a-44e5-93ce-1114ee535906",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een aankondiging van de rector over het programma van de sportdag vertalen voor een uitwisselingsstudent.",
+		"description": ""
+	},
+	{
+		"id": "e79ad161-35bd-4cfd-8d1f-781a264a7af4",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De belangrijkste inhoud van een persconferentie over nieuwe regels voor scholen vertellen aan een vriend. ",
+		"description": ""
+	},
+	{
+		"id": "a983903a-aff9-4219-b832-da1f2d2d2490",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Informatie over de aankomende tournee van een artiest doorgeven.",
+		"description": ""
+	},
+	{
+		"id": "98c28cc3-e235-45a2-b37b-cad8ed55eb8c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een brief van de overheid over bepaalde regels of procedures.",
+		"description": ""
+	},
+	{
+		"id": "85dfba96-94b8-4b50-910e-2aae893a810d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De voorwaarden van een verzekering of een hypotheek.",
+		"description": ""
+	},
+	{
+		"id": "6b75714b-3e28-4259-ac91-e884a32db40c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De toelichting van een onderzoek in het ziekenhuis.",
+		"description": ""
+	},
+	{
+		"id": "932aa7c1-ab8e-4798-a627-3faa7d5a4e0c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een mededeling van de directie over de invoering van nieuw beleid.",
+		"description": ""
+	},
+	{
+		"id": "d44819cc-f93b-4c3c-9fb1-697fc7643f20",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Het verslag van een bestuursvergadering.",
+		"description": ""
+	},
+	{
+		"id": "977dd594-bba4-46e9-a2a0-ca0c3e219b7a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De regels voor het verkrijgen van een studiebeurs.",
+		"description": ""
+	},
+	{
+		"id": "eb34d203-1d2a-4b77-92f3-4bfda4acbdd8",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan buitenlandse studenten uitleggen hoe ze een vergoeding voor het openbaar vervoer kunnen aanvragen.",
+		"description": ""
+	},
+	{
+		"id": "3b4129b8-a077-42b0-84e4-9b4a102620f2",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan iemand die niet zo goed Nederlands spreekt, uitleggen wat er in de brief van de gemeente staat over het aanvragen van een document.",
+		"description": ""
+	},
+	{
+		"id": "2e399d2f-e7c3-4e2e-b2bb-90b8f8a48fea",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan het thuisfront vertellen over de inhoud de cursus die je in het buiteland volgt en de feedback die je van de docenten hebt gekregen.",
+		"description": ""
+	},
+	{
+		"id": "927b569b-d61a-4c1a-8fbf-3b267a9be481",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Presentaties, boeken en artikelen die in een andere taal zijn geschreven dan de taal gebruikt door de spreker.",
+		"description": ""
+	},
+	{
+		"id": "6d240891-aa11-4dc5-9c2f-c8ba1c261471",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Presentaties, boeken en artikelen die in dezelfde taal zijn geschreven als de taal gebruikt door de spreker.",
+		"description": ""
+	},
+	{
+		"id": "ed736d3d-0ed5-47cb-9b65-a85bd7ad007b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Vakgenoten vertellen over relevante poster-presentaties die plaatsvonden tijdens een vakbeurs.",
+		"description": ""
+	},
+	{
+		"id": "9d5146ee-eb54-4ae0-8b63-53ebef2a1d7c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Collega's op de hoogte brengen van informatie uit artikelen die relevant zijn voor een project.",
+		"description": ""
+	},
+	{
+		"id": "17b9bd1c-db5c-430d-9648-b83afe05bec8",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Klasgenoten vertellen over een workshop tijdens een projectweek.",
+		"description": ""
+	},
+	{
+		"id": "8cfd2434-b716-47a7-9835-161f175aa6b3",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Medeleerlingen of medestudenten vertellen over de belangrijkste punten van een webinar ter introductie van een discussie.",
+		"description": ""
+	},
+	{
+		"id": "e99e77d8-d9c8-4807-a3d7-fa6ea4ba903b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een boek of het hoofdstuk van een boek.",
+		"description": ""
+	},
+	{
+		"id": "3bb08048-f302-400a-a3e5-9b939b2ccad4",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een complex artikel uit een opinieblad.",
+		"description": ""
+	},
+	{
+		"id": "69b7c3f3-a5f6-4575-97e9-9d4db4ec337f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een naslagwerk.",
+		"description": ""
+	},
+	{
+		"id": "3fcceb48-58bc-441b-ae37-2aa4b427a565",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een lezing, presentatie of webinar.",
+		"description": ""
+	},
+	{
+		"id": "a5a85193-47f9-4455-bac1-5f1b25e2d95c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een discussieprogramma over actuele zaken.",
+		"description": ""
+	},
+	{
+		"id": "5260e16e-9f36-407d-9c82-7a7d7b52253d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een politieke toespraak.",
+		"description": ""
+	},
+	{
+		"id": "e2807931-699c-4d38-b60a-e252884132ae",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een zakelijk verslag.",
+		"description": ""
+	},
+	{
+		"id": "b1120aa4-ebd2-457f-8a54-9efe72354838",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Tijdens een presentatie ingaan op opvallende informatie uit verschillende bronnen over biodiversiteit.",
+		"description": ""
+	},
+	{
+		"id": "3f596159-242c-4d73-89e2-a50ee250f40c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - In een boekenclub uitleggen waarom de inhoud van een verrassend hoofdstuk uit een historische roman relevant is voor het hele verhaal.",
+		"description": ""
+	},
+	{
+		"id": "8fbbb5c5-ec6f-423f-84cf-f678d11166af",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - In een conversatie over drugsbeleid verwijzen naar interessante punten uit artikelen ter ondersteuning van het eigen standpunt.",
+		"description": ""
+	},
+	{
+		"id": "6bce3ce2-8182-460d-b728-4eb40a2afcbc",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Bewegwijzeringsborden met pictogrammen.",
+		"description": ""
+	},
+	{
+		"id": "13be1601-03c2-4ebc-a026-72ad834984d0",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Prijskaartjes op de markt.",
+		"description": ""
+	},
+	{
+		"id": "f1e20305-68c7-4561-8b2a-4701e433d192",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Geïllustreerde folders van de supermarkt.",
+		"description": ""
+	},
+	{
+		"id": "9d15355d-572f-4d64-9771-82d27b442d8b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Iemand een app sturen met een aanbieding die je gezien of gelezen hebt.",
+		"description": ""
+	},
+	{
+		"id": "9bb11294-9213-47d6-98e5-03ae10697af0",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De aanvangstijd van een voorstelling in een bericht sturen.",
+		"description": ""
+	},
+	{
+		"id": "705976e6-62be-4f27-acae-7dd788293a34",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Iemand een korte boodschappenlijst sturen.",
+		"description": ""
+	},
+	{
+		"id": "e199a113-a456-4275-ac72-38702b0d0f90",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Aankondigingen in tv-programma's.",
+		"description": ""
+	},
+	{
+		"id": "ac053d36-277e-4bb5-9a6f-f96e6c3c09ed",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Aankondigingen van de locaties en starttijden van evenementen.",
+		"description": ""
+	},
+	{
+		"id": "24bd9b11-8da6-42ba-b172-6af389bab8e3",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Digitale advertenties.",
+		"description": ""
+	},
+	{
+		"id": "88fcd5d2-094b-49b5-948a-064de7fd540b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Het adres en de aanvangstijd van een film voor een vriend noteren.",
+		"description": ""
+	},
+	{
+		"id": "a3e3c697-9831-4b50-89e3-9a633fb4f62c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Eenvoudige reisaanwijzingen voor het openbaar vervoer voor iemand opschrijven.",
+		"description": ""
+	},
+	{
+		"id": "2b799fda-38ea-43ea-9278-8739008096d3",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De specificaties van een gewenst product doorsturen aan iemand die boodschappen voor je doet.",
+		"description": ""
+	},
+	{
+		"id": "31de92f2-585e-460d-ac5f-cb29a6aeaa77",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De naam van een leuke podcast doorgeven aan iemand.",
+		"description": ""
+	},
+	{
+		"id": "1cdf01d0-5a33-410a-8f38-4efdc6a2e294",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Doorgeven waar je een nieuwe game kunt downloaden.",
+		"description": ""
+	},
+	{
+		"id": "c88f8d8d-6005-4ea9-a52f-74d64302b85e",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Eenvoudige telefoonberichten over een gebeurtenis of een afspraak.",
+		"description": ""
+	},
+	{
+		"id": "0bbc468d-ad27-4b05-85be-90eafacfcd12",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Eenvoudige omroepberichten over wijzigingen in het openbaar vervoer.",
+		"description": ""
+	},
+	{
+		"id": "83b1aa39-2011-48bb-a816-e4d6f2e8ed14",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een boodschap over een gewijzigde afspraak.",
+		"description": ""
+	},
+	{
+		"id": "565a1ae9-fa42-4280-b2bd-a6b01eb0343f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Instructies van een leraar of een trainer over de uitvoering van een opdracht.",
+		"description": ""
+	},
+	{
+		"id": "5ec0bda0-c8f1-4b7b-99ae-d1972efa5efb",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Het huiswerk appen aan een klasgenoot die afwezig was.",
+		"description": ""
+	},
+	{
+		"id": "deaff183-f463-4382-b54d-eabbc2b05458",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een eenvoudig nieuwsfeit aan iemand doorsturen.",
+		"description": ""
+	},
+	{
+		"id": "ffc6169c-758a-4efe-ae80-8e75e6cb5978",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aankondigingen en gemaakte afspraken tijdens een bijeenkomst doorgeven per mail.",
+		"description": ""
+	},
+	{
+		"id": "fdc24573-66dd-4eb8-bab7-5216a2467bff",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een eenvoudige handleiding.",
+		"description": ""
+	},
+	{
+		"id": "40f75e49-2c05-4f20-8702-944a011e7a6a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een dienstregeling.",
+		"description": ""
+	},
+	{
+		"id": "a1ed1af0-bb85-4547-b8a8-f8cba84d4958",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een weekoverzicht.",
+		"description": ""
+	},
+	{
+		"id": "681fb327-e516-4f0d-85ce-0a284dd8631a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een wedstrijdoverzicht.",
+		"description": ""
+	},
+	{
+		"id": "45611c3a-67b2-4213-b442-f4738da9d9a6",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Korte instructiefilmpjes.",
+		"description": ""
+	},
+	{
+		"id": "2c396343-800f-4b25-848d-97e4583217ed",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Informatie over een game.",
+		"description": ""
+	},
+	{
+		"id": "ae6cf35e-3729-4228-873c-6d755e121872",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De leukste activiteiten uit een folder doorgeven in een bericht.",
+		"description": ""
+	},
+	{
+		"id": "6d3ba5b1-9ae0-418e-9b95-94b2c02b67dc",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De lijst best gerecenseerde films uit het actuele aanbod doorgeven.",
+		"description": ""
+	},
+	{
+		"id": "81182e2e-91c3-4f3a-8c6a-f6320be1b38d",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een eenvoudige mindmap maken over de inhoud van een tekst.",
+		"description": ""
+	},
+	{
+		"id": "ac6e4be9-d99e-4d08-b791-d15afb5d4baf",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Eenduidige artikelen uit kranten of websites over feitelijke informatie.",
+		"description": ""
+	},
+	{
+		"id": "f9ed5109-6bfd-4313-b092-ef2270771089",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Websites van bekende artiesten.",
+		"description": ""
+	},
+	{
+		"id": "2e46c2bc-5233-4a9c-9bd0-8a4deb3889a4",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Voorlichtingsteksten over specifieke maatregelen.",
+		"description": ""
+	},
+	{
+		"id": "ce9b710e-0067-452a-a5b1-42d67a16a0c1",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Het laatste nieuws in de liveblog van een sportwedstrijd.",
+		"description": ""
+	},
+	{
+		"id": "a458b145-001c-4d84-807f-ee41c477bf27",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Actuele informatie op sociale media plaatsen.",
+		"description": ""
+	},
+	{
+		"id": "388149fa-b3ea-4284-94ee-6254fc055a2e",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Iemand over verrassende ontwikkelingen in een wedstrijd berichten.",
+		"description": ""
+	},
+	{
+		"id": "136add73-dab5-4ab0-bb35-e35e769847d5",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Iemand op de hoogte brengen van het laatste nieuws over een popster.",
+		"description": ""
+	},
+	{
+		"id": "e1d5627b-3974-4cb2-a8dc-a79d62bf549e",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Mededelingen van overheidsinstanties.",
+		"description": ""
+	},
+	{
+		"id": "00a9d883-e5e7-44ef-96be-af675e7ecba7",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Beoordelingen van klanten op een website.",
+		"description": ""
+	},
+	{
+		"id": "3e7e6adf-aa0f-45ad-9c7c-fa1c5eda509e",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Aansluitings- en bedieningsinstructies van apparaten.",
+		"description": ""
+	},
+	{
+		"id": "1b85080f-866e-4bd2-9037-0575266b626b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - E-mail updates van een vereniging.",
+		"description": ""
+	},
+	{
+		"id": "0706fb9d-99a7-463a-9dc9-0029e37fe7e2",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een persconferentie.",
+		"description": ""
+	},
+	{
+		"id": "0ed2aecc-c7c7-4bcd-af87-bad6a60f5ac8",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een tutorial voor een klus.",
+		"description": ""
+	},
+	{
+		"id": "f404f164-c53b-4e4e-9a57-82a7588dac45",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een buitenlandse kennis mailen over spoor- en wegwerkzaamheden in verband met de organisatie van een reis.",
+		"description": ""
+	},
+	{
+		"id": "e103ce12-a55b-4d85-8597-9855d08b0538",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Relevante actuele informatie over een specifiek gebied doorgeven aan toeristen.",
+		"description": ""
+	},
+	{
+		"id": "01956eed-4d61-4f73-88f3-e25ac3daac48",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De beste reviews over verschillende modellen van een product doorgeven.",
+		"description": ""
+	},
+	{
+		"id": "87b0ed51-bca0-4547-bae2-812b09987868",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een beknopt schema maken met de belangrijkste instructies voor het bedienen van een apparaat.",
+		"description": ""
+	},
+	{
+		"id": "51f8266b-cb0a-4f66-b900-0111144ad47d",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een dagindeling maken voor een stadsbezoek op basis van de toeristische informatie op een website.",
+		"description": ""
+	},
+	{
+		"id": "d883629a-61d1-4e2c-a816-b1a2de8a6de1",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een artikel of interview over een recente gebeurtenis.",
+		"description": ""
+	},
+	{
+		"id": "315111db-9673-48f1-aec7-369d8b2d9fa9",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een podcast met verhalen en ervaringen van mensen over de liefde.",
+		"description": ""
+	},
+	{
+		"id": "78acad08-4d0d-4807-9ace-35229f6c006a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Informatie over de inhoud van een cursus.",
+		"description": ""
+	},
+	{
+		"id": "b2af4791-f175-4803-a276-cec35e936b6f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een bericht van een collega op intranet met informatie over een bedrijfsdag.",
+		"description": ""
+	},
+	{
+		"id": "1039a424-141a-4f41-8f83-b4a25cba6fcd",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De hoogtepunten van het verslag van een gebeurtenis doorgeven.",
+		"description": ""
+	},
+	{
+		"id": "68faa55b-f383-476f-9e11-e6bb2ea6abc3",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De inhoud van een reportage samenvatten.",
+		"description": ""
+	},
+	{
+		"id": "3d5ac766-64e5-4e17-a1ab-74815d15ed38",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De belangrijkste informatie van een website over een opleiding overbrengen.",
+		"description": ""
+	},
+	{
+		"id": "ee63d64e-fd3f-4888-8248-05877e3eaa30",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een ingesproken audiobericht met informatie over aanmeldingen of procedures.",
+		"description": ""
+	},
+	{
+		"id": "439a0e96-3d4f-4438-939d-e14700fe907f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een spraakbericht met informatie over een afspraak of de uitvoering van een taak.",
+		"description": ""
+	},
+	{
+		"id": "865164fb-166a-4f8f-89bc-1e30a6bacaec",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De inhoud van een ingesproken boodschap met de te doorlopen stappen voor een aanmelding mailen aan een vriend.",
+		"description": ""
+	},
+	{
+		"id": "0e6ebddb-329e-482e-92bd-df7c3886e34e",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een ingesproken boodschap van de schoolleiding schriftelijk overbrengen aan de ouders van een buitenlandse leerling.",
+		"description": ""
+	},
+	{
+		"id": "b6204769-08ce-4623-a59e-1278feae8624",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De ingesproken boodschap van je huisbaas met de uitleg van huishoudelijke taken voor je huisgenoten samenvatten op een briefje.",
+		"description": ""
+	},
+	{
+		"id": "d83befb0-83c1-4155-b0fd-197d290c243c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De besluiten van de ALV van een sportclub.",
+		"description": ""
+	},
+	{
+		"id": "106341c9-dc01-4f1b-96f8-2af9d6d77109",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De besluiten van een bijeenkomst van de leerlingenraad.",
+		"description": ""
+	},
+	{
+		"id": "7b6ad9cd-8ce2-4982-93ca-c6669d65cf2a",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De belangrijkste conclusies uit een rapportvergadering in een brief aan de ouders van een leerling overbrengen.",
+		"description": ""
+	},
+	{
+		"id": "354fc3d6-3722-41e7-964b-1bbac744d257",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De conclusies en het vervolg van een medisch onderzoek voor een patiënt samenvatten in een verslag.",
+		"description": ""
+	},
+	{
+		"id": "3be6dd96-b189-4419-bf11-9e702a2d48fc",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een brief van de verhuurder van een studentenkamer.",
+		"description": ""
+	},
+	{
+		"id": "4f27442b-63c3-4066-87de-704e6fa10e9f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een brief van de verzekering.",
+		"description": ""
+	},
+	{
+		"id": "7a4b386c-5dcb-415d-945a-9c5b7963eeba",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een brief van de schoolleiding aan ouders.",
+		"description": ""
+	},
+	{
+		"id": "0978cde5-1e2d-4ad0-b05a-946d3b3844a0",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een brief met de dienstvoorwaarden van het abonnement voor je mobiele telefoon.",
+		"description": ""
+	},
+	{
+		"id": "bdd50013-0366-45b2-9f14-2f8e172d4fb7",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De voorwaarden van de reisverzekering opschrijven voor familieleden.",
+		"description": ""
+	},
+	{
+		"id": "120359b0-9442-404d-b8f4-6581af11c61b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De hoogtepunten uit de reactie van de overheid op het verzoek voor een vergunning doorgeven in een mail.",
+		"description": ""
+	},
+	{
+		"id": "23a0258b-f6b3-446b-885e-c8e440805eaf",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De belangrijkste informatie over de aanmeldingsprocedure voor een Erasmus-programma opsommen in een memo voor de familie.",
+		"description": ""
+	},
+	{
+		"id": "01164e4b-de37-4c0b-bd8e-b75ec73c4336",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De belangrijkste punten van een medisch verslag of diagnosevaststelling doorgeven aan een arts in het buitenland.",
+		"description": ""
+	},
+	{
+		"id": "48e2e54c-4b27-4edf-b192-328bec0c4422",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Presentaties in de eigen of een andere taal over werk- of studiegerelateerde onderwerpen, actuele thema's of onderwerpen van de eigen interesse.",
+		"description": ""
+	},
+	{
+		"id": "041d7d2b-b26d-47d0-b18a-dd837a69c0ee",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Verslag doen van de relevante inhoud van bijgewoonde presentaties tijdens een conferentie.",
+		"description": ""
+	},
+	{
+		"id": "a3b7bcbc-5d56-4b7c-ae5e-7e973f0b7774",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De hoogtepunten uit de webinars op de site van een congres beschrijven in een artikel.",
+		"description": ""
+	},
+	{
+		"id": "2e2e45f4-aab1-4d55-8bee-a6c47d9a0aaf",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een podcast over een maatschappelijk thema.",
+		"description": ""
+	},
+	{
+		"id": "dd6c6305-358b-4030-a564-7327c3894ef6",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een live of opgenomen politiek debat.",
+		"description": ""
+	},
+	{
+		"id": "2c311847-5b6a-409c-8268-ce9af464097c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een lezing.",
+		"description": ""
+	},
+	{
+		"id": "487d2708-5c75-4d24-b852-6d706808907f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een biografie.",
+		"description": ""
+	},
+	{
+		"id": "01ea43e6-d3b4-49f3-b70e-242ebfaa0682",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een boek over wereldproblematiek of een historisch onderwerp.",
+		"description": ""
+	},
+	{
+		"id": "b96cdbe9-47b6-4412-9c1e-38b54456de85",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De hoogtepunten van een debatteerwedstrijd samenvatten voor de website van de school.",
+		"description": ""
+	},
+	{
+		"id": "76c3383a-8b1a-47b4-8cb1-a328e0ed2d6c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De belangrijkste informatie uit een beleidsdocument over duurzame doelen overbrengen.",
+		"description": ""
+	},
+	{
+		"id": "b7d8391f-19ef-41ff-8ace-dc85c79ad519",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Artikelen in de eigen of een andere taal over werk- of studiegerelateerde onderwerpen, actuele thema's of onderwerpen van de eigen interesse.",
+		"description": ""
+	},
+	{
+		"id": "83a5d55d-80c4-4d04-86a4-a81ac0d380fe",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Informatie uit artikelen verwerken in een werkstuk.",
+		"description": ""
+	},
+	{
+		"id": "ad91a832-6e03-4a7b-8c84-9b0fe0b0fe04",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een artikel schrijven op basis van gelezen bronnen.",
+		"description": ""
+	},
+	{
+		"id": "f18d7011-f836-48d4-80cc-98e564930a83",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een weerkaart.",
+		"description": ""
+	},
+	{
+		"id": "8c8983a0-b5ef-42f9-b229-9380e76d1b8a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een elementair stroomdiagram met de visualisatie van een eenvoudig proces.",
+		"description": ""
+	},
+	{
+		"id": "17d43201-fe3d-4974-99f6-f1795fda7f22",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een plattegrond.",
+		"description": ""
+	},
+	{
+		"id": "a9aa730f-9a73-44e0-80f8-27ef4636332c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een grafiek met schoolscores.",
+		"description": ""
+	},
+	{
+		"id": "3fd494dc-6646-46c3-964e-5c54ed037a61",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan de hand van een kaart uitleggen hoe het weer zich in het weekend gaat ontwikkelen.",
+		"description": ""
+	},
+	{
+		"id": "3478612f-162b-45c5-b359-c97342579917",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan de hand van een eenvoudig stroomdiagram de stappen voor het maken van een opdracht uitleggen.",
+		"description": ""
+	},
+	{
+		"id": "b980e938-c2e1-46ce-8e5a-d2b14dc27159",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan de hand van een plattegrond uitleggen wat er in een winkelcentrum te vinden is en waar.",
+		"description": ""
+	},
+	{
+		"id": "9d730c26-1ec0-4470-8233-6ed73120abbf",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan de hand van een plaatje uitleggen hoe je iets in een apparaat kunt vervangen.",
+		"description": ""
+	},
+	{
+		"id": "c1f70f88-f662-454c-9739-624fdaf997ee",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan de hand van illustraties de stappen voor het maken van een gezonde maaltijd uitleggen.",
+		"description": ""
+	},
+	{
+		"id": "fb7f1215-ac59-4c3e-8f48-584c3c828c6c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een infographic met de samenvatting van de resultaten van een peiling.",
+		"description": ""
+	},
+	{
+		"id": "27bb42b3-2ebe-4bc8-8379-24ba4f6550d5",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een staafdiagram met landelijke examenresultaten.",
+		"description": ""
+	},
+	{
+		"id": "f4ed7595-036b-40c1-998d-2a9817e548d2",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een mindmap over een vertrouwd onderwerp.",
+		"description": ""
+	},
+	{
+		"id": "807d1a8a-6343-44e9-8005-d6e381e2d04a",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De stappen om een rekensom op te lossen uitleggen met gebruik van een visualisatie.",
+		"description": ""
+	},
+	{
+		"id": "bb8095f4-0cd6-48b8-9289-f7e53cfa9d43",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Weergegevens over een langere periode in een bepaald gebied presenteren en interpreteren.",
+		"description": ""
+	},
+	{
+		"id": "d47f1c4c-0157-4f8f-99fa-e9af5408ea0a",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Statistieken over het gebruik van het openbaar vervoer beschrijven en interpreteren.",
+		"description": ""
+	},
+	{
+		"id": "d764abce-1ef7-494b-a21c-bc9431cf2547",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een overzichtelijke visualisatie van de werking van een systeem.",
+		"description": ""
+	},
+	{
+		"id": "7076d7eb-0f46-44ab-877c-396326290e5b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een diagram voor het opstellen van een actieplan.",
+		"description": ""
+	},
+	{
+		"id": "6e4c030f-f087-4cac-988f-534f0cb405e5",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een diagram bij een schoolvak.",
+		"description": ""
+	},
+	{
+		"id": "abf1ca7f-e133-4d6a-afec-15225371bce1",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Uitleggen hoe een warmtepomp werkt met gebruik van een visuele weergave.",
+		"description": ""
+	},
+	{
+		"id": "e0a881b3-347b-44c8-b7fd-3380107141c0",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Met een stroomschema historische gebeurtenissen en hun onderlinge relaties uitleggen.",
+		"description": ""
+	},
+	{
+		"id": "46b971e3-0855-49a7-9e67-59eb6f80ca7b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De factoren presenteren die bijdragen aan de fysieke prestaties van een atleet bij een bepaalde sport.",
+		"description": ""
+	},
+	{
+		"id": "d15b6178-da0c-456e-ae83-9aa111718647",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De stappen uitleggen voor het schrijven van een effectieve betogende tekst.",
+		"description": ""
+	},
+	{
+		"id": "57d1894d-e702-4279-9a50-6d798a8791c5",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een meerjarenplan van een bedrijf.",
+		"description": ""
+	},
+	{
+		"id": "c52221de-da9a-4376-ae1a-b7bf77dbbe72",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Diagrammen over economische ontwikkelingen in een land.",
+		"description": ""
+	},
+	{
+		"id": "b4851217-d1e5-4c8d-8b00-b29f0df31501",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een visualisatie van ruimtelijke ordening en stadsontwikkeling.",
+		"description": ""
+	},
+	{
+		"id": "76df8ff3-db6f-4a1f-9f5a-3ea328577e28",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Trends in de voedselconsumptie en maatschappelijke ontwikkelingen presenteren en interpreteren.",
+		"description": ""
+	},
+	{
+		"id": "a725e958-144b-47fa-9550-e8a854153df8",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Veranderingen in de bevolking in de loop van de tijd en de consequenties daarvan beschrijven.",
+		"description": ""
+	},
+	{
+		"id": "1c82e95e-7671-4d1d-8b51-b0e6e287520a",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een voedingsdiagram toelichten.",
+		"description": ""
+	},
+	{
+		"id": "66df8e5f-2293-41c4-8697-06786b573c09",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De weergave van beleidsimplicaties van de opbrengsten van een onderzoek.",
+		"description": ""
+	},
+	{
+		"id": "aca500a7-2d9d-4538-8df0-5df9d202cea8",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een flowchart van een bedrijfsproces.",
+		"description": ""
+	},
+	{
+		"id": "d6edb4ba-8886-4156-99bc-0ae0b65e2fed",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De visuele weergave van een complex systeem.",
+		"description": ""
+	},
+	{
+		"id": "6150963d-cbc6-46b5-b029-a67066aadcf6",
+		"prefix": "",
+		"title": "Voorbeeld va een activiteit - Tijdens een presentatie de belangrijkste resultaten van een wetenschappelijk onderzoek toelichten en interpreteren aan de hand van diagrammen en visualisaties.",
+		"description": ""
+	},
+	{
+		"id": "e46c23f4-9751-4bc9-858c-d57f5c1ca898",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een psychometrisch diagram.",
+		"description": ""
+	},
+	{
+		"id": "d7c5e10c-b7fc-4dcf-a71b-c710f6670324",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een visuele weergave in 3D van complexe functies.",
+		"description": ""
+	},
+	{
+		"id": "7c28ed0a-24a3-40bc-a921-9842e4075c0c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een gedetailleerde analyse van de gegevens van een marktonderzoek presenteren.",
+		"description": ""
+	},
+	{
+		"id": "1091e7c6-d08d-4d22-9c0e-23ea8a30a78d",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een gedetailleerde analyse van data over landelijk financieel beleid presenteren.",
+		"description": ""
+	},
+	{
+		"id": "57c10ccc-e0dc-4931-b90b-4141239c1861",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een gedetailleerde analyse van de consequenties van big data voor internationaal beleid presenteren.",
+		"description": ""
+	},
+	{
+		"id": "8f14c367-4e3f-4ca1-875b-842571ebb53c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De financiële situatie en de gevolgen daarvan toelichten tijdens een vergadering.",
+		"description": ""
+	},
+	{
+		"id": "f4570ee3-b5e7-4e05-bbd0-abbbd3e96357",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een infographic bij een informatief krantenartikel.",
+		"description": ""
+	},
+	{
+		"id": "30e6aff4-6704-4790-920c-e36d643086cf",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een venndiagram.",
+		"description": ""
+	},
+	{
+		"id": "77ac8b99-ad09-4080-9808-0a15ca3ef912",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een mindmap.",
+		"description": ""
+	},
+	{
+		"id": "44973357-0ace-4540-a90b-188305ce35c1",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een stroomdiagram met de visualisatie van een stappenplan.",
+		"description": ""
+	},
+	{
+		"id": "02ec5e43-d654-49e9-8383-fb4b7cfab59c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een plattegrond.",
+		"description": ""
+	},
+	{
+		"id": "88b05793-d66d-49e4-9d2f-37d932ccbb24",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een bericht sturen met aanwijzingen op basis van een bijgevoegde kaart of plattegrond.",
+		"description": ""
+	},
+	{
+		"id": "8d15473b-4aff-4dba-a9ff-5575e1f84dbf",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Opmerkingen over zichtbare trends in een visuele weergave plaatsen op een discussieforum.",
+		"description": ""
+	},
+	{
+		"id": "9c9d5804-c976-4ddf-bf7f-732461187acb",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan de hand van een mindmap de stappen beschrijven voor het maken van een werkstuk.",
+		"description": ""
+	},
+	{
+		"id": "f68c0094-3fd9-49c0-ab1f-6bc1d0d88269",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een staafdiagram over de ontwikkeling van landelijke studiekeuzes.",
+		"description": ""
+	},
+	{
+		"id": "77d36813-dfc7-4d95-a3fb-8137baf89dff",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een eenvoudige grafiek van financiële uitgaven.",
+		"description": ""
+	},
+	{
+		"id": "61dba178-23a4-4196-ae13-6c19f1a861f7",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een zelfgemaakte infographic over natuurgebieden in Nederland toelichten in een artikel.",
+		"description": ""
+	},
+	{
+		"id": "40b37e4e-9dbd-4e77-9788-7f126b9d3ed0",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De inkomsten en uitgaven van een zelf georganiseerd evenement toelichten.",
+		"description": ""
+	},
+	{
+		"id": "baad231f-2e37-4258-9904-c50b9a74a11e",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De ontwikkelingen in een verhaal toelichten aan de hand van een visualisatie.",
+		"description": ""
+	},
+	{
+		"id": "c66a7076-b6d3-44b3-bc01-b01b0760c3ab",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een visuele weergave van onderdelen en functies van een complex apparaat of een voertuig.",
+		"description": ""
+	},
+	{
+		"id": "a143b460-1253-4e42-bd9b-50bc46a039dd",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een functieboom.",
+		"description": ""
+	},
+	{
+		"id": "6e4c3a56-c25f-456a-9635-33d7b17a90e5",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een mindmap.",
+		"description": ""
+	},
+	{
+		"id": "cb6c5957-af54-44e5-a59e-8a80090c7d61",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een interactief whiteboard.",
+		"description": ""
+	},
+	{
+		"id": "c5ab4603-a04a-4132-ba3d-23acaca52948",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een geografische kaart.",
+		"description": ""
+	},
+	{
+		"id": "a0e77634-647b-44ce-a7d5-8a49862182b2",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een mindmap over relaties tussen woorden in verschillende talen uitleggen in een reflectieblog over taalleren.",
+		"description": ""
+	},
+	{
+		"id": "a783363f-4013-4e2d-9ca7-859cb3a6bce8",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan de hand van een schematische weergave instructies maken voor het beheren van een apparaat.",
+		"description": ""
+	},
+	{
+		"id": "d7399b9f-fe3f-4088-a9e4-2a63aa2058be",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een blog schrijven over de belangrijkste resultaten van een enquête en daarbij trends herkennen en interpreteren.",
+		"description": ""
+	},
+	{
+		"id": "06745760-3700-41a3-ba7f-a61eb2056564",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Diagrammen van complexe statistieken.",
+		"description": ""
+	},
+	{
+		"id": "1275c2f3-deb0-4cf8-bfb4-ed748a8617c9",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Complexe visgraatdiagrammen.",
+		"description": ""
+	},
+	{
+		"id": "f10248c5-b031-45d4-afb8-d966cd915a54",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Oorzaken en gevolgen in een diagram analyseren om tot oplossingen van een probleem te komen.",
+		"description": ""
+	},
+	{
+		"id": "3d7d10ac-6e6c-45cf-8646-5b60a9f8e5fb",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Conclusies trekken aan de hand van een statistische analyse.",
+		"description": ""
+	},
+	{
+		"id": "22564c56-dd27-4fc2-8450-71f68facdd73",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Complexe data analyseren in een werkstuk of artikel.",
+		"description": ""
+	},
+	{
+		"id": "5bbc6bb6-edd9-4fbb-a1a6-b23df821cf7a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een complexe datavisualisatie in een wetenschappelijk artikel.",
+		"description": ""
+	},
+	{
+		"id": "ccc1ba63-8559-4ad2-bc79-1c2f3042c1e5",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Posters en folders over evenementen.",
+		"description": ""
+	},
+	{
+		"id": "47455169-a8a7-4358-ae73-a986e502c0ac",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een dagprogramma.",
+		"description": ""
+	},
+	{
+		"id": "89f1f2ee-f8b3-40be-8d0f-6cd62afe757d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een taakbord.",
+		"description": ""
+	},
+	{
+		"id": "a7a59d78-d083-48ed-9c50-54dbd6e7f1dd",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Verkeersborden.",
+		"description": ""
+	},
+	{
+		"id": "92909d4f-781f-492e-ba55-dabc83255253",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Eenvoudige informatieborden in het openbaar vervoer.",
+		"description": ""
+	},
+	{
+		"id": "9db53c21-bd63-43ac-9abf-8120a57def5e",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Waarschuwingen op de weg in een andere taal doorgeven aan reisgenoten.",
+		"description": ""
+	},
+	{
+		"id": "76ad3dc5-981d-4c57-ac8c-b7e48f36dcf4",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De tijden van maaltijden en activiteiten in een vakantieverblijf doorgeven.",
+		"description": ""
+	},
+	{
+		"id": "61a58ba0-689f-47e0-8cc1-a8a662eafa77",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Informatie uit het schoolrooster aan klasgenoten doorgeven.",
+		"description": ""
+	},
+	{
+		"id": "da544abc-5542-4ae1-8533-c6ff04b0d71c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Eenvoudige instructies op een bord bij een attractie of in een museum doorgeven.",
+		"description": ""
+	},
+	{
+		"id": "6cf242d5-e193-4339-9eb2-7d839273c4f2",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een wandbord in een restaurant.",
+		"description": ""
+	},
+	{
+		"id": "b3352f6c-38ab-4a02-b262-f177eb9ac500",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een kort en eenvoudig beeldverhaal.",
+		"description": ""
+	},
+	{
+		"id": "5502cd5d-5935-46f1-96aa-31e77388702f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De beschrijving van een plaats op een toeristische website.",
+		"description": ""
+	},
+	{
+		"id": "1cf36346-6525-47db-a20a-fc8cf9cddeab",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een kort bericht op een online sociaal netwerk.",
+		"description": ""
+	},
+	{
+		"id": "594e9c0b-bf29-4d7f-ab22-8e217aa46363",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De omschrijving van een game-app in de app-store.",
+		"description": ""
+	},
+	{
+		"id": "f0c392ba-0da0-46df-a7c6-0e76d136e4c1",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Korte internetfilmpjes met weinig tekst.",
+		"description": ""
+	},
+	{
+		"id": "5c32eb99-e7f8-4c2b-b52d-97284542ea21",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een audiobericht sturen over een online post van je favoriete artiest.",
+		"description": ""
+	},
+	{
+		"id": "9a3a2344-89e0-4c21-826c-2244d98ea109",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Iemand informeren over de beste dag voor een uitstapje volgens de weersverwachting van de komende week.",
+		"description": ""
+	},
+	{
+		"id": "fa5790b0-a9c9-476d-9da0-91938bbeddbb",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Mondeling doorgeven wat je in een gesprek over een gebeurtenis van afgelopen weekend hebt gehoord.",
+		"description": ""
+	},
+	{
+		"id": "9bc2a065-9a66-4e93-afb6-4fe1f82c210e",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Doorvertellen wat de leukste scène was in een aflevering van een serie.",
+		"description": ""
+	},
+	{
+		"id": "0bfc81ea-5eef-494b-9452-418b493867e4",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Mondeling doorgeven hoe je aan tafeltennisbatjes, steps, een voetbal enzovoort komt op de camping.",
+		"description": ""
+	},
+	{
+		"id": "d2236f86-343a-4078-af76-cfa9c5954e33",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een folder met informatie over een attractiepark.",
+		"description": ""
+	},
+	{
+		"id": "fc54bde4-4ff5-4570-8c08-d7f2f01091fa",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een gesprek in de kantine van de sportclub.",
+		"description": ""
+	},
+	{
+		"id": "5ab97ea5-1805-43d3-9a8b-aebba542f23a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een artikel over de populariteit van een streamingdienst.",
+		"description": ""
+	},
+	{
+		"id": "bed26cde-c783-4107-b40a-7683ec8862f2",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Samenvatten voor een klasgenoot wat die in een stad echt gezien moet hebben.",
+		"description": ""
+	},
+	{
+		"id": "bb64fb2c-5476-42f4-aeec-788f9b583d36",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Kort vertellen wat de hoogtepunten tijdens een rondleiding zijn uit de folder.",
+		"description": ""
+	},
+	{
+		"id": "05da5dc0-6083-47e5-b2e8-f27c9abe3ed4",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een korte informatieve tekst over de fauna van het gebied.",
+		"description": ""
+	},
+	{
+		"id": "b4f1e472-97ff-476d-b75e-13241c880747",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een visuele handleiding voor widgets.",
+		"description": ""
+	},
+	{
+		"id": "2f789374-5fed-499c-814b-6c483c6e42ca",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een infographic met een stappenplan.",
+		"description": ""
+	},
+	{
+		"id": "c6f74961-ceda-4dcc-8aa7-6668d1afcc4c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Informatie en prijstabellen van een abonnement.",
+		"description": ""
+	},
+	{
+		"id": "03540f25-b665-46b2-88c9-c913a4571573",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een eenvoudig recept.",
+		"description": ""
+	},
+	{
+		"id": "6f2b12d7-c63a-42c7-9365-87b9d6148215",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Vertellen wat je nodig hebt voor een eenvoudig gerecht en hoe je dat moet maken.",
+		"description": ""
+	},
+	{
+		"id": "40cd510c-2f2d-4b8e-a70e-b69187066e5c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een vriend helpen bij het gebruik van een apparaat of het in elkaar zetten van een kast door de informatie in de handleiding te gebruiken.",
+		"description": ""
+	},
+	{
+		"id": "6c3dec7b-d39b-4fce-92bc-f5fc5c36ec1c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Iemand de verschillende opties voor een abonnement toelichten en de beste keuze helpen maken.",
+		"description": ""
+	},
+	{
+		"id": "cf058a07-b0c1-4cc3-bd75-3f1ab4b64483",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Het verslag van een sportwedstrijd op TV.",
+		"description": ""
+	},
+	{
+		"id": "f741de62-794a-40dd-9109-4237ff748695",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een radiobericht over de situatie in het verkeer.",
+		"description": ""
+	},
+	{
+		"id": "bbd7007f-6c33-425c-bea9-ae9cc61a32a3",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een nieuwsbericht uit het jeugdjournaal.",
+		"description": ""
+	},
+	{
+		"id": "23c4062e-5955-4e21-9794-066443ea0564",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan een groep vrienden het verloop van een wedstrijd vertellen.",
+		"description": ""
+	},
+	{
+		"id": "9babd0cd-259c-42bb-bf79-7be9c81c3236",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De belangrijkste feitelijke informatie (wie, waar, wanneer) doorgeven uit een kort nieuwsartikel.",
+		"description": ""
+	},
+	{
+		"id": "667b3d6c-87a8-4819-b96a-4249c6ae9533",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Over de uitspraken van een popster in een interview vertellen.",
+		"description": ""
+	},
+	{
+		"id": "19bd3bf6-6ccb-4073-bc7a-8cbbc86405ac",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een reportage op het web.",
+		"description": ""
+	},
+	{
+		"id": "07500e14-8925-457c-9f10-60471ec57e16",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Het journaal.",
+		"description": ""
+	},
+	{
+		"id": "35b58625-033d-48b2-8dec-44b113059f8a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een praatprogramma met de acteurs van een nieuwe film.",
+		"description": ""
+	},
+	{
+		"id": "2fca172c-8292-46e7-b900-3df791e737d8",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een tutorial.",
+		"description": ""
+	},
+	{
+		"id": "4b9a950a-b852-4e8e-ae91-757369757149",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De essentie van een aftermovie van een prijsuitreiking samenvatten in een conversatie.",
+		"description": ""
+	},
+	{
+		"id": "2d21b0ac-3ed1-427a-b9e9-954a1a1d26bd",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Iemand over een live stream vertellen die je gevolgd hebt.",
+		"description": ""
+	},
+	{
+		"id": "377663ec-8a44-4d14-86b9-047b192ae963",
+		"prefix": "",
+		"title": "Voorbeelden van een bron - Een podcast.",
+		"description": ""
+	},
+	{
+		"id": "fcf1fae6-8f1c-49c2-aba5-c6b1fa4c1f0e",
+		"prefix": "",
+		"title": "Voorbeelden van een bron - Een online les.",
+		"description": ""
+	},
+	{
+		"id": "80c695ff-1296-48f8-8c97-20a13fbd4dc6",
+		"prefix": "",
+		"title": "Voorbeelden van een bron - Een hoofdstuk uit een audioboek.",
+		"description": ""
+	},
+	{
+		"id": "8bc7b2a2-2f26-4c73-a6e4-e1a20b101fd4",
+		"prefix": "",
+		"title": "Voorbeelden van een bron - Een online presentatie.",
+		"description": ""
+	},
+	{
+		"id": "f553728c-0eb9-4bdf-9ba2-ca3e8486afa3",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De inhoud van een online les samenvatten voor een klasgenoot.",
+		"description": ""
+	},
+	{
+		"id": "79679921-8717-4b41-b4ed-64fad17278d3",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De meest interessante fragmenten van een podcast over een favoriete schrijver samenvatten in een conversatie.",
+		"description": ""
+	},
+	{
+		"id": "ab6a857c-7730-4094-bbda-6dd509dba9c5",
+		"prefix": "",
+		"title": "Voorbeelden van een bron - Een dialoog in een film.",
+		"description": ""
+	},
+	{
+		"id": "4bdf7bb5-aec1-4ba7-8da7-63b42cd68a05",
+		"prefix": "",
+		"title": "Voorbeelden van een bron - Een interview met een popster na diens live show.",
+		"description": ""
+	},
+	{
+		"id": "bb9f6c6c-4b3e-434c-861a-6a2333c8ff76",
+		"prefix": "",
+		"title": "Voorbeelden van een bron - Een brochure met de geschiedenis en achtergrond van een bedrijf.",
+		"description": ""
+	},
+	{
+		"id": "6d090fe3-5927-4039-961f-0b31dd449e66",
+		"prefix": "",
+		"title": "Voorbeelden van een bron - Een informatiefilmpje over een product dat je wilt aanschaffen.",
+		"description": ""
+	},
+	{
+		"id": "fcaaae29-4792-426c-a242-4d546724150b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een fragment uit een serie samenvatten voor iemand die de aflevering heeft gemist.",
+		"description": ""
+	},
+	{
+		"id": "e6a70eac-5acb-400a-a23f-7057d7d38234",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De conclusies van een adviesgesprek voor iemand samenvatten om samen een beslissing te nemen.",
+		"description": ""
+	},
+	{
+		"id": "c69bf022-e9be-4362-a44a-3712c45fc392",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een nieuwsartikel in een tijdschrift over een actuele gebeurtenis.",
+		"description": ""
+	},
+	{
+		"id": "04ed8b02-9a95-4d5d-b864-ef43bffa2541",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een straatinterview in het journaal.",
+		"description": ""
+	},
+	{
+		"id": "3dab2c9c-8092-479d-b251-28f843c89544",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een filmrecensie.",
+		"description": ""
+	},
+	{
+		"id": "3e909ea3-9fe3-4a28-8471-73497fb2795e",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een reisbrochure.",
+		"description": ""
+	},
+	{
+		"id": "443367b5-285f-427f-968c-63e1f25056e7",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De recensies van een film voor een vriend/in samenvatten om samen te beslissen of jullie de film willen zien.",
+		"description": ""
+	},
+	{
+		"id": "dcbd64e8-8170-454f-8065-82076deef17e",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De informatie uit de brochure van een reisbestemming samenvatten tijdens het plannen van een vakantie.",
+		"description": ""
+	},
+	{
+		"id": "c5cca91b-d48d-4b8f-b1ce-21ccf7b9b7b8",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een korte video maken met informatie over de eigen hobby.",
+		"description": ""
+	},
+	{
+		"id": "36acfe6f-734e-4fee-9bab-8c4c7ae6369f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De regels van een bordspel.",
+		"description": ""
+	},
+	{
+		"id": "da25c33e-d7b1-4e4a-9783-64df5421133f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een artikel uit een magazine.",
+		"description": ""
+	},
+	{
+		"id": "868f3123-24a7-438e-bc12-25f3d38bdb94",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een reclame.",
+		"description": ""
+	},
+	{
+		"id": "e25af416-2a23-4317-859b-02c3b3ffd50d",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De regels van een spel aan de andere spelers uitleggen.",
+		"description": ""
+	},
+	{
+		"id": "9ae4eb83-ec6f-4978-8561-14796fb0f836",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De eigenschappen van een product uit een reclame samenvatten.",
+		"description": ""
+	},
+	{
+		"id": "6eedc3f8-e82a-4dba-93b3-18ebc0285b31",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De meest opvallende nieuwtjes uit een tijdschrift vertellen.",
+		"description": ""
+	},
+	{
+		"id": "567053f1-3ae2-49dd-8237-22cd934be9d9",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Recensies over een film op een streamingservice.",
+		"description": ""
+	},
+	{
+		"id": "24bafb06-d53c-44b5-82a0-75d2547e8a4d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Krantenartikelen met het laatste nieuws uit het buitenland.",
+		"description": ""
+	},
+	{
+		"id": "0caee299-c893-4e30-8166-58a99ca6f0d8",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Visuele en geschreven bronnen over een gebeurtenis uit de geschiedenis.",
+		"description": ""
+	},
+	{
+		"id": "6e4f5771-b2bb-4170-9053-94a94773c07a",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De informatie uit verschillende bronnen samenvatten in een presentatie over helden uit het verleden.",
+		"description": ""
+	},
+	{
+		"id": "5bbf977e-25f2-4b16-ab5e-cb3d694fe79f",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De recensies over een voorstelling gebruiken voor een vlog over die voorstelling.",
+		"description": ""
+	},
+	{
+		"id": "46846981-0254-4e1f-a183-642e94fae57b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een overzicht maken van het belangrijkste nieuws van de zomer.",
+		"description": ""
+	},
+	{
+		"id": "f34f20ac-2f15-4840-9409-5b66bf44cc79",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een waargebeurd verhaal in een jeugddocumentaire.",
+		"description": ""
+	},
+	{
+		"id": "137b3396-5a88-4cc2-967c-853fac05402b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Spoken word.",
+		"description": ""
+	},
+	{
+		"id": "5f5d48bb-c00c-4ff0-a1eb-82bb2ce2d25d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een interview in een talkshow.",
+		"description": ""
+	},
+	{
+		"id": "2c255c70-b3dc-4f74-b0fc-1f3cde841527",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een eenduidig opinieartikel.",
+		"description": ""
+	},
+	{
+		"id": "e34a976a-d9c7-4ba1-9df1-1625f85a57f8",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een waargebeurd verhaal, gehoord op tv in een gesprek, samenvatten en vragen daarover beantwoorden.",
+		"description": ""
+	},
+	{
+		"id": "c3379c3c-4901-4460-9d93-59d26def8604",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De thema's en de essentie van muurgedichten in een stad of een wijk samenvatten en ingaan op vragen daarover.",
+		"description": ""
+	},
+	{
+		"id": "b4229f8c-9cc1-4a46-bef1-cf7508e1e6b7",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De hoogtepunten van een discussie samenvatten voor een vriend.",
+		"description": ""
+	},
+	{
+		"id": "9a81780f-a463-406a-95c3-30ef03644f84",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een actualiteitenprogramma.",
+		"description": ""
+	},
+	{
+		"id": "b98988b7-2165-43a3-a239-d3a57472b33c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Nieuwsartikelen over de laatste technologische ontwikkelingen.",
+		"description": ""
+	},
+	{
+		"id": "50f11d31-94df-48c7-a30b-226782b98561",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een hoofdstuk over de geschiedenis van een stad of gebied.",
+		"description": ""
+	},
+	{
+		"id": "9d9f6ec8-3e44-4eb6-888f-bddaa8837cb8",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Het nieuws van de laatste weken over een bepaald thema samenvatten voor een vriend.",
+		"description": ""
+	},
+	{
+		"id": "35d347f8-3c75-4cde-a9d2-a71286dcc58f",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De meest interessante nieuwtjes samenvatten uit de afleveringen van een programma over entertainment.",
+		"description": ""
+	},
+	{
+		"id": "685e12a9-1972-422a-ace2-70f5b0def93a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Films en series van verschillende genres, bijvoorbeeld actiefilms, thriller, sci-fi, romantiek.",
+		"description": ""
+	},
+	{
+		"id": "663752a3-b125-4741-9ef1-654d8d0bb8ca",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Komedie en drama.",
+		"description": ""
+	},
+	{
+		"id": "64f08ab5-3c1d-49e1-97f6-363f72c60fe7",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Musical en muziektheater.",
+		"description": ""
+	},
+	{
+		"id": "2837264c-783c-4b97-a782-b98897fc2f54",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Cabaret.",
+		"description": ""
+	},
+	{
+		"id": "8f1d3f1b-c440-472d-b334-ad4f61cd53d2",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Het verhaal van de film die je onlangs hebt gezien samenvatten in een gesprek.",
+		"description": ""
+	},
+	{
+		"id": "0fa20a9a-6c1b-4dfe-a8f0-553019eabfc2",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Vertellen waar een voorstelling over ging.",
+		"description": ""
+	},
+	{
+		"id": "807ec2b2-2cfa-4b66-b46c-dbce4029fb08",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Jeugddocumentaires.",
+		"description": ""
+	},
+	{
+		"id": "3f73ad59-7852-466d-b84e-e248f7027d5e",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Podcasts.",
+		"description": ""
+	},
+	{
+		"id": "88cb84d2-d61b-4467-9eee-7b9ab75c2da6",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een platform voor onafhankelijke journalistiek.",
+		"description": ""
+	},
+	{
+		"id": "e18ee54c-7beb-4457-a0c0-db4b95543756",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Praatprogramma's.",
+		"description": ""
+	},
+	{
+		"id": "315c5105-fff8-432c-8a51-bfac3c41651e",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De uitspraken in een praatprogramma over prestatiedruk met vrienden samenvatten en bespreken.",
+		"description": ""
+	},
+	{
+		"id": "94fff378-5d13-46c8-ae72-ecc713617586",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een video maken met de samenvatting van het wereldnieuws.",
+		"description": ""
+	},
+	{
+		"id": "3b5a5b5c-01d9-425a-8d2d-70a0c4e9ae18",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een politieke toespraak.",
+		"description": ""
+	},
+	{
+		"id": "2f305baf-80a2-49f7-8b30-345d2f53563d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een column in een blad.",
+		"description": ""
+	},
+	{
+		"id": "fb45ee9d-f927-435c-92ad-e9688ade9c71",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een essay.",
+		"description": ""
+	},
+	{
+		"id": "dfdacf76-3f2f-4e98-b4f1-0d14869cfecf",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Doel en houding van een spreker bespreken en illustreren met voorbeelden uit het taalgebruik van de spreker.",
+		"description": ""
+	},
+	{
+		"id": "34caf1c1-0c87-4888-ae1a-c51e9d7e2811",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Doel en doelgroep van de beschrijving van een PR-campagne toelichten aan de hand van voorbeelden uit de tekst.",
+		"description": ""
+	},
+	{
+		"id": "4a1ab1a7-e206-45c7-b3ba-8b597985cf22",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De framing/het denkraam van een journalistiek verslag herkennen en beschrijven.",
+		"description": ""
+	},
+	{
+		"id": "153a8d71-914b-419b-9f63-c7653eee6be1",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Het taalgebruik in twee teksten over hetzelfde thema maar voor verschillende doelgroepen met elkaar vergelijken.",
+		"description": ""
+	},
+	{
+		"id": "45bf0526-c93d-4923-b34a-233c3aceef02",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een verkiezingsprogramma.",
+		"description": ""
+	},
+	{
+		"id": "4b55119b-186f-4f15-ace6-f6b8569f0006",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De voordracht van een gastspreker op een studiedag over jouw vak.",
+		"description": ""
+	},
+	{
+		"id": "437e049f-eb96-47ec-9bd8-6d5e19e626be",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een studie over hoe jongeren met verschillende achtergronden naar hun toekomst kijken.",
+		"description": ""
+	},
+	{
+		"id": "53b8f8c9-a1d0-4327-9bc7-3d638d0ff282",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De voor de jeugd relevante punten uit een verkiezingsprogramma samenvatten voor een klasgesprek.",
+		"description": ""
+	},
+	{
+		"id": "50cfb349-43ca-41ea-a9d9-d957ba505ce0",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De belangrijkste punten uit een rapport over gezondheidskansen voor jongeren samenvatten bij een vergadering van de sportvereniging.",
+		"description": ""
+	},
+	{
+		"id": "06e2ccb4-e6df-44a7-9245-39bacd9d21fb",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Verhalen en romans over vergelijkbare thema's uit verschillende contexten.",
+		"description": ""
+	},
+	{
+		"id": "79b8967d-1e04-4589-8c19-7d52fa8e9da6",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Standpunten over een ethische kwestie uit verschillende opiniestukken.",
+		"description": ""
+	},
+	{
+		"id": "81465cb4-5951-45be-8939-9e8e240fbda2",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Opiniepeiling bij mensen met verschillende culturele achtergronden.",
+		"description": ""
+	},
+	{
+		"id": "0710d42f-ab73-4358-af2c-b2602c3d32ae",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Met de klas of met collega's een samenvatting bespreken van uiteenlopende bevindingen in verschillende artikelen.",
+		"description": ""
+	},
+	{
+		"id": "45a15c6c-9d91-4e0c-a001-99904343eb3d",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Nieuwe regelgeving bespreken vanuit verschillende perspectieven.",
+		"description": ""
+	},
+	{
+		"id": "7925cb11-4cf3-428a-8c47-c33d2eefce20",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Gedrag en keuzes van de hoofdpersonen in verschillende verhalen bespreken.",
+		"description": ""
+	},
+	{
+		"id": "4d5cc43b-0935-489f-b851-6d5801850847",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Achtergronden van het nieuws op verschillende televisiestations.",
+		"description": ""
+	},
+	{
+		"id": "fe351fe0-757a-419d-92b5-96d440c20869",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Artikelen over een actueel thema uit dagbladen van verschillende landen.",
+		"description": ""
+	},
+	{
+		"id": "b9ed0161-8082-4048-876a-bc2a15f25884",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Interviews met verschillende mensen op straat over een actueel thema.",
+		"description": ""
+	},
+	{
+		"id": "cfee13c8-0343-4bcd-af30-2532f56b3605",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een mediaoverzicht.",
+		"description": ""
+	},
+	{
+		"id": "dbf1b0da-830b-4f1e-a6f4-81b75be66d84",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een overzicht geven van informatie en argumenten over een belangrijk nieuwsitem  uit verschillende bronnen.",
+		"description": ""
+	},
+	{
+		"id": "3a0cbe2e-c434-4cc8-9f30-afa9635eb550",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een film of een boek bespreken en daarbij verschillende recensies vermelden.",
+		"description": ""
+	},
+	{
+		"id": "2cf1666f-27c8-412c-9292-0a0acd01a5c0",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De meningen van geïnterviewden samenvatten in een presentatie.",
+		"description": ""
+	},
+	{
+		"id": "4a5accef-7fe1-4290-83b2-827e1e372a61",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De discussie in een jongerenpanel over toelatingscriteria voor het hoger onderwijs.",
+		"description": ""
+	},
+	{
+		"id": "8a5dc8da-0b2c-43be-81d8-7e24e5cdf868",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een werkgesprek over het ontwikkelen van marketingstrategieën.",
+		"description": ""
+	},
+	{
+		"id": "c24aaf2d-8060-4905-9568-0542c0a748a7",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een debat over het aanpakken van wereldproblematiek.",
+		"description": ""
+	},
+	{
+		"id": "1495576f-dfb0-4ca7-9572-54a26260b234",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Als verslaggever tijdens een kamerdebat de standpunten samenvatten en met elkaar vergelijken.",
+		"description": ""
+	},
+	{
+		"id": "41342eb6-dd8e-40ec-8356-8f7b3538678d",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan het eind van een schooldebat een samenvatting geven van meningen en standpunten.",
+		"description": ""
+	},
+	{
+		"id": "d690a49d-4675-4bb3-92e4-764739081be8",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Online presentaties en artikelen over toekomstige technologische ontwikkelingen.",
+		"description": ""
+	},
+	{
+		"id": "4cba3b3d-c013-45ea-b1af-774fe4ef8957",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Artikelen en websites over relaties tussen talen en tussen culturen.",
+		"description": ""
+	},
+	{
+		"id": "32f613b6-c489-40bc-8d0e-ad2c4e73d537",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Publicaties en websites over verschillende leefomgevingen in de wereld.",
+		"description": ""
+	},
+	{
+		"id": "0c72f31e-dcfc-4d27-9953-13b5f53df768",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een podcast opnemen over verschillende standpunten rondom het gebruik van AI.",
+		"description": ""
+	},
+	{
+		"id": "9afcc690-92d1-4231-9904-65adc2005dfd",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een presentatie geven over hoe mensen in verschillende landen omgaan met een ethische of maatschappelijke kwestie zoals bijvoorbeeld gendergelijkheid.",
+		"description": ""
+	},
+	{
+		"id": "5310c679-a687-4e57-a3ca-aa5f57dd98a3",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een filosofisch essay.",
+		"description": ""
+	},
+	{
+		"id": "440d7f5e-6342-46cc-83c4-c69320deefbf",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een podcast van een gedragswetenschapper of een onderzoeksjournalist.",
+		"description": ""
+	},
+	{
+		"id": "a9f3654b-2c10-41e2-9059-c501978d8f28",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een artikel uit een natuurwetenschappelijk tijdschrift.",
+		"description": ""
+	},
+	{
+		"id": "a970877d-7955-43e9-ac8d-1e22f8b8edb7",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een analyse van politieke, commerciële of technologische ontwikkelingen.",
+		"description": ""
+	},
+	{
+		"id": "d47faf7f-efcd-4a3f-b460-7c7a618c5175",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Uitspraken in een toonaangevend tijdschrift toelichten en becommentariëren in een presentatie over maatschappelijke of politieke problemen in een land.",
+		"description": ""
+	},
+	{
+		"id": "c84c7c6b-004b-499e-b628-4eae6aca6a05",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Tijdens een debat eigen argumenten ondersteunen door het toelichten van citaten uit relevante publicaties.",
+		"description": ""
+	},
+	{
+		"id": "fe992954-479f-4ef2-89ff-4d02aaf485a5",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Complexe artikelen.",
+		"description": ""
+	},
+	{
+		"id": "646ba615-8f23-4077-9d5d-f28c2ab415ee",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Toespraken.",
+		"description": ""
+	},
+	{
+		"id": "23d20773-9088-42d5-885d-2a220d5e80f1",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Vormen van fictie.",
+		"description": ""
+	},
+	{
+		"id": "be7ea38c-f415-4f87-8d30-0b6da367b53b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - In de bespreking van een voorstelling de sociaal-culturele achtergronden van de gebruikte ironie uitleggen en becommentariëren.",
+		"description": ""
+	},
+	{
+		"id": "c7361235-2ca3-4998-be40-daf2d8011986",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De gebruikte understatements in een toespraak over slavernij verklaren vanuit de context van die toespraak.",
+		"description": ""
+	},
+	{
+		"id": "77461a4f-a1ce-4f99-ace6-82c0113cd451",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een artikel of een boek over de politieke geschiedenis van een land.",
+		"description": ""
+	},
+	{
+		"id": "1448139b-e3ca-45bb-9a1e-532d34dd2a0c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Interviews met verschillende kunstenaars over hun kijk op hedendaagse kunst.",
+		"description": ""
+	},
+	{
+		"id": "7662121a-205d-4286-8777-fa5f233e10c8",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De resultaten van een eigen verkenning van verschillende uitspraken van bekende mensen over een maatschappelijk thema presenteren en becommentariëren in een bijeenkomst of een informele discussie.",
+		"description": ""
+	},
+	{
+		"id": "f0a38e6f-62c2-4d96-b8cd-3d659cbd803d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Primaire en secundaire bronnen over een thema uit de geschiedenis van een land.",
+		"description": ""
+	},
+	{
+		"id": "3bad66c5-e5ba-418a-87f7-e3cc3a2d89db",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - TV-programma's met de achtergronden bij het nieuws.",
+		"description": ""
+	},
+	{
+		"id": "5e9f45b8-0b56-4a66-8867-395a375e8027",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Het verschil tussen objectieve en subjectieve argumenten uitleggen tijdens de presentatie van een boek over een internationaal thema.",
+		"description": ""
+	},
+	{
+		"id": "ce46c31a-30c9-4ea5-a8c3-b12bb78ef7b8",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Uitleggen en onderbouwen hoe je feiten en subjectieve beweringen van de schrijver in een artikel kunt herkennen.",
+		"description": ""
+	},
+	{
+		"id": "e8a0532d-c289-4a74-97c1-0df2b46cccdc",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De verschillen in het presenteren van feiten en argumenten in verschillende soorten media toelichten en verklaren.",
+		"description": ""
+	},
+	{
+		"id": "c4f99fcc-cc5c-4d76-ad84-10ac8fabab1d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een colloquium over een gespecialiseerd onderwerp.",
+		"description": ""
+	},
+	{
+		"id": "1dbe4bbf-7fd7-4d1d-a709-da5112e2cb45",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een technisch rapport bestemd voor een gespecialiseerd publiek.",
+		"description": ""
+	},
+	{
+		"id": "da4d3ef9-c06d-495c-9cd4-85eb7694798c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De relevante punten in een bouwkundig rapport samenvatten voor de eigenaar van het gebouw in kwestie.",
+		"description": ""
+	},
+	{
+		"id": "8f5c6220-43f3-4a0d-9b25-06e021d235fd",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De resultaten van een medisch onderzoek samenvatten voor familie of vrienden.",
+		"description": ""
+	},
+	{
+		"id": "f8aa0f61-7415-4126-918c-fc6f9d2d3e87",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De inhoud van een specialistisch artikel in toegankelijke bewoordingen samenvatten in een conversatie.",
+		"description": ""
+	},
+	{
+		"id": "0033a868-ee4a-4698-9b7e-b6dd6a4728f0",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een rondetafelgesprek over circulaire economie, taalvariatie en identiteit, duurzame landbouw of energie en grondstoffen.",
+		"description": ""
+	},
+	{
+		"id": "5c39f783-5319-4fda-a754-060a3d17964e",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een politiek debat.",
+		"description": ""
+	},
+	{
+		"id": "de39b3ab-7ec7-4a5a-ab03-7b647ffcb801",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - In een discussie de kernboodschappen van panelleden samenvatten uit een programma gezien op TV.",
+		"description": ""
+	},
+	{
+		"id": "171d12ee-3243-4976-b426-f7a2635ae3e5",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan het eind van een vergadering verschillende meningen en argumenten samenvatten.",
+		"description": ""
+	},
+	{
+		"id": "f6fc613c-4e15-4d7e-b3a2-387b682a9d31",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Mondeling verslag doen van een debat.",
+		"description": ""
+	},
+	{
+		"id": "692c307e-e148-4e3f-a3e1-d4d0dfca0a80",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een masterscriptie.",
+		"description": ""
+	},
+	{
+		"id": "ca47d6b5-313a-462d-b9b5-7a24b8470ed5",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een literaire roman.",
+		"description": ""
+	},
+	{
+		"id": "b2997e28-1a02-48f0-962b-26731de4e88d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een keynote.",
+		"description": ""
+	},
+	{
+		"id": "6c7ffc48-d70f-4f2e-be71-2fd958f4fedb",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De hoogtepunten van een webinar samenvatten voor collega's of medestudenten.",
+		"description": ""
+	},
+	{
+		"id": "1d074f8c-b0e5-4d8f-87fa-192075cdb4db",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een complexe verhaallijn in een roman samenvatten in een presentatie.",
+		"description": ""
+	},
+	{
+		"id": "3c310c3f-1308-4289-982c-eebaf77cc648",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Het kaartje van een concert.",
+		"description": ""
+	},
+	{
+		"id": "2d93f464-b4e6-4676-9fb0-767d9eaf74c4",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een internationaal treinkaartje.",
+		"description": ""
+	},
+	{
+		"id": "3d5a87a7-6a96-4256-bf5b-a30e62500c69",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De busdienstregeling.",
+		"description": ""
+	},
+	{
+		"id": "b5b8573d-a539-4f86-b875-85277c663d9f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een geïllustreerde folder.",
+		"description": ""
+	},
+	{
+		"id": "b7bf0263-dd89-4a12-a4af-eea3d0587ad9",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een eenvoudig prentenboek.",
+		"description": ""
+	},
+	{
+		"id": "1d841574-3d4b-4b33-9938-174bd5690592",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Het refrein van een songtekst.",
+		"description": ""
+	},
+	{
+		"id": "63faace8-1766-4171-9596-0b93623f3b53",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De ingrediënten voor een eenvoudig gerecht.",
+		"description": ""
+	},
+	{
+		"id": "9c082e8e-3cb2-42c3-adef-ebfb086cd53c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De informatie over stoelrij en -nummer doorgeven.",
+		"description": ""
+	},
+	{
+		"id": "60ae2bf7-52db-4b62-a4c4-d2a788823681",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Model, maat en kleur van een kledingstuk uit een folder doorgeven.",
+		"description": ""
+	},
+	{
+		"id": "ddee0848-5b67-4764-855f-41ce3a14b0b7",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Je wensen voor Sinterklaas, Kerst of de verjaardag overschrijven op een wenslijst.",
+		"description": ""
+	},
+	{
+		"id": "cd065e1f-9c2f-4c66-a0e4-d609e408481d",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Overschrijven waar je moet zoeken om de instellingen op je telefoon aan te passen.",
+		"description": ""
+	},
+	{
+		"id": "25713386-7dae-46a5-a034-a5535f49c059",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Borden in een gebouw.",
+		"description": ""
+	},
+	{
+		"id": "f68512f1-e062-42d8-844a-dd4baea54f44",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Borden bij zwemwater.",
+		"description": ""
+	},
+	{
+		"id": "ab4d1fda-7ba9-4823-a4e2-ccaba89247dc",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Pleinregels.",
+		"description": ""
+	},
+	{
+		"id": "e221d086-4d65-44fc-8b9e-463f82cb5902",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Geboorte- of verjaardagskaarten.",
+		"description": ""
+	},
+	{
+		"id": "e56587cf-6e75-4f7a-883d-1d11f1fd2324",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Geïllustreerde folders over speciale acties.",
+		"description": ""
+	},
+	{
+		"id": "7ae64276-a5ff-4980-af13-3a4176b4c2fa",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Iemand via app laten weten welke zitplaats je hebt in het theater.",
+		"description": ""
+	},
+	{
+		"id": "26939828-5310-4afb-aba1-a606d65b6216",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Doorgeven hoe laat een voorstelling begint.",
+		"description": ""
+	},
+	{
+		"id": "35a0510a-5e39-4cb3-9128-d7b1f71960f9",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Huiswerk of veranderingen in het rooster doorgeven aan een zieke uitwisselingsleerling.",
+		"description": ""
+	},
+	{
+		"id": "50528960-c1f1-4079-a01a-ff69159a111a",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een vriend berichten over een speciale aanbieding in een winkel.",
+		"description": ""
+	},
+	{
+		"id": "8687f4b0-b26c-4ff3-a29a-5d1292748ba8",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een kort gedicht.",
+		"description": ""
+	},
+	{
+		"id": "fa23c147-58d1-4043-9033-c8ac549c88c5",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een aforisme.",
+		"description": ""
+	},
+	{
+		"id": "6167ced9-8e84-4e5b-9355-090b15feb55a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een korte instructie.",
+		"description": ""
+	},
+	{
+		"id": "89bf0295-ef52-47b8-a7af-b0de2866bb72",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De informatie op een bord bij een monument of een kunstwerk.",
+		"description": ""
+	},
+	{
+		"id": "f63a13d7-f76b-4a5e-94b0-7cc33a775300",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een leuke tekst voor zichzelf of voor iemand anders noteren.",
+		"description": ""
+	},
+	{
+		"id": "53c1c26a-51d0-4e42-a4b0-a11a2883a4cc",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een lijst in te leveren documenten opschrijven.",
+		"description": ""
+	},
+	{
+		"id": "16ad0c5d-2576-4483-96de-049589238bd2",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Belangrijke woorden of zinnen voor zichzelf opschrijven uit een tekst op het digibord.",
+		"description": ""
+	},
+	{
+		"id": "136b15ce-c567-4ffe-a01b-6cc066090f8d",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Contactgegevens en persoonlijke informatie van iemand noteren.",
+		"description": ""
+	},
+	{
+		"id": "4535cfef-de1e-4f0d-b7c7-b539bb29f6e9",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een kort eenvoudig nieuwsbericht.",
+		"description": ""
+	},
+	{
+		"id": "1d31c05e-4152-4097-939f-d0002740cb84",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een korte eenvoudige omschrijving van een product.",
+		"description": ""
+	},
+	{
+		"id": "b18d8b5c-3a2e-40c5-8c6c-cfff8a5383ff",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een korte eenvoudige instructievideo.",
+		"description": ""
+	},
+	{
+		"id": "42cd47a1-b296-4507-b107-6f1e7d0be311",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een eenvoudig reclamespotje.",
+		"description": ""
+	},
+	{
+		"id": "5572e76a-9605-49b0-b8f1-8946922cbebf",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De kern van het antwoord op een vraag, gesteld via de chatfunctie van een website, overbrengen.",
+		"description": ""
+	},
+	{
+		"id": "e26b7608-c01d-4757-8800-a85b0b33e389",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De stappen om je ergens aan te melden samenvatten.",
+		"description": ""
+	},
+	{
+		"id": "5f4ce0fd-fd28-4a0a-b92e-e4ab42736100",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De essentie van een kort artikel opschrijven.",
+		"description": ""
+	},
+	{
+		"id": "017c6dab-025f-4a2a-b1fd-fa194846c617",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een kort feitelijk artikel.",
+		"description": ""
+	},
+	{
+		"id": "1b8fec83-e4c5-4a66-88da-e2e1f961687b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Het informatieboekje van een tentoonstelling.",
+		"description": ""
+	},
+	{
+		"id": "fbcf3467-3a70-4a01-b756-947d198532f0",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Doe-het-zelf tips voor specifieke klussen.",
+		"description": ""
+	},
+	{
+		"id": "9df23bc3-7de6-490d-b886-fab2ecde3fc9",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De belangrijkste informatie uit een kort artikel in sleutelwoorden opschrijven op een poster.",
+		"description": ""
+	},
+	{
+		"id": "9a3bfdb6-e52c-430d-bfef-2a44b746c112",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De meest interessante dingen van de website van een museum noteren voor een bezoek.",
+		"description": ""
+	},
+	{
+		"id": "f920642a-5b78-4b15-be4c-5960283b75e1",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Opschrijven wat je nodig hebt voor een klus aan de hand van een korte handleiding.",
+		"description": ""
+	},
+	{
+		"id": "96e05fca-8f16-486c-9734-21cddb741bcc",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een eenvoudig beeldverhaal.",
+		"description": ""
+	},
+	{
+		"id": "48915ea5-bb12-4d34-adf8-0be7c0a1b233",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een hoofdstuk uit een lesboek met veel plaatjes.",
+		"description": ""
+	},
+	{
+		"id": "b8a98d08-11a1-47b3-a001-5f2b79b74924",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De gebeurtenis in een verhaal puntsgewijs opsommen.",
+		"description": ""
+	},
+	{
+		"id": "cabe566a-e884-403a-8e2a-7e577550fb57",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een lijst met hoofdzaken maken van een tekst in de leergang.",
+		"description": ""
+	},
+	{
+		"id": "142bf58a-b0d8-4a85-b3a3-24d62dbac945",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Ingrediënten of gerechten selecteren uit een boek of van een website op basis van een allergielijst.",
+		"description": ""
+	},
+	{
+		"id": "11466e9b-19f7-4952-b970-d3953513265d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een bericht van de overheid.",
+		"description": ""
+	},
+	{
+		"id": "9a2f8505-d615-4cb3-b25d-6f6f49b69eda",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Het reglement van een vereniging.",
+		"description": ""
+	},
+	{
+		"id": "c6ffd3a8-7a43-4fcf-84b3-abe5b55b3ef0",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De algemene voorwaarden van een webwinkel.",
+		"description": ""
+	},
+	{
+		"id": "3d7a570b-119a-46f3-b7c5-4a4390ce9af8",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een website over een land of een gebied.",
+		"description": ""
+	},
+	{
+		"id": "09937b3f-1119-4a4f-bf51-9fafdf2b110f",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De passages uit de algemene voorwaarden over restitutie van een aankoop in eigen woorden opschrijven.",
+		"description": ""
+	},
+	{
+		"id": "c23684c1-b96a-4492-955f-07d9540b57e1",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Relevante passages in een brief van de gemeente in simpelere bewoordingen opschrijven voor een buitenlandse kennis.",
+		"description": ""
+	},
+	{
+		"id": "8b0c877d-bc1d-4442-9530-df15d51ead3d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een documentaire.",
+		"description": ""
+	},
+	{
+		"id": "83d29f69-ecf9-41a2-bfa4-71d4f2507b0f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een online workshop over het bespelen van een instrument.",
+		"description": ""
+	},
+	{
+		"id": "18fd5d57-3b97-44c5-9d90-03dce884876d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Reviews van elektronisch device of games.",
+		"description": ""
+	},
+	{
+		"id": "546b891b-f13e-420e-8899-7cd1d79f6734",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een samenvatting voor zichzelf maken van de informatie gekregen in een workshop.",
+		"description": ""
+	},
+	{
+		"id": "34212c7f-a7cb-4398-87bd-5b24b03ae7e4",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De reviews samenvatten voor een beslissing over een aankoop.",
+		"description": ""
+	},
+	{
+		"id": "21622bd0-dd89-4ada-bfcf-b895badd9792",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De rode draad van een serie beschrijven.",
+		"description": ""
+	},
+	{
+		"id": "55facc2d-94a2-4cf5-b83e-8fe4d46e897b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een discussie over een actueel onderwerp.",
+		"description": ""
+	},
+	{
+		"id": "964e41d4-cad1-434a-9b98-76938dd5081f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een beleidsstuk over een subsidieprogramma.",
+		"description": ""
+	},
+	{
+		"id": "3cc21092-2c36-489b-8b72-d82c2f916120",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Artikelen over de jongerencultuur in verschillende landen.",
+		"description": ""
+	},
+	{
+		"id": "4d9769aa-6d9e-40bc-aa68-ba032ced7829",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een pagina van Wikipedia.",
+		"description": ""
+	},
+	{
+		"id": "2278c53b-4e48-4b35-97f1-e5c5e4987682",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een samenvatting maken van subsidiemogelijkheden en voorwaarden die nuttig kunnen zijn voor je toekomstige plannen.",
+		"description": ""
+	},
+	{
+		"id": "fbe03a3a-8dc6-41fe-aafd-9d51c0300ad2",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een samenvatting schrijven voor school van artikelen over populair-culturele interesses van de jeugd in een bepaalde periode of land.",
+		"description": ""
+	},
+	{
+		"id": "691e1f11-4a16-4ee6-b68a-528c9a342427",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Artikelen en opiniestukken.",
+		"description": ""
+	},
+	{
+		"id": "b03e0ef3-6cef-4262-b7ca-878ab4bee4b2",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Podcasts.",
+		"description": ""
+	},
+	{
+		"id": "04e41b3a-1a71-4405-9b91-55f2b88aecab",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Interviews.",
+		"description": ""
+	},
+	{
+		"id": "479909fa-a5bb-4683-8abc-695cb6a47184",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Meningen en standpunten uit geraadpleegde bronnen samenvatten als onderdeel van een werkstuk, een blog, een betoog, een artikel.",
+		"description": ""
+	},
+	{
+		"id": "c45a45ba-6bf9-408b-8687-eaf27b61eec4",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een poster of een infographic maken over een belangrijke persoon of gebeurtenis uit de geschiedenis op basis van verschillende bronnen.",
+		"description": ""
+	},
+	{
+		"id": "93ddafff-5e44-4f14-8985-620feada026e",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Opiniërende stukken op de website van maatschappelijke organisaties zoals Amnesty International.",
+		"description": ""
+	},
+	{
+		"id": "f769fb9a-22a5-4965-b070-5ea74b217e67",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een beleidsartikel van het LAKS over kansengelijkheid.",
+		"description": ""
+	},
+	{
+		"id": "36df615b-e339-49cd-8f91-453126f8aeef",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een documentaire over de invloed van historische gebeurtenissen op de samenleving in een bepaald land.",
+		"description": ""
+	},
+	{
+		"id": "e38249af-9a67-4e8d-8d01-4f84d481d1e3",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een discussiestuk schrijven op basis van diverse opinieartikelen over eco-toerisme of de jeugdproblematiek in een bepaald land.",
+		"description": ""
+	},
+	{
+		"id": "45ce7245-ba6f-457b-86b9-b6fdc73281e5",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een uiteenzetting geven over de recente resultaten van een internationale organisatie. ",
+		"description": ""
+	},
+	{
+		"id": "2b59f68d-4910-434c-82ec-58a07a6afad1",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Publicaties in verschillende talen over burgerschapskwesties.",
+		"description": ""
+	},
+	{
+		"id": "e1015681-ae27-4d87-b814-e87a53eac6d4",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Bronnen en verhalen over specifieke gebieden.",
+		"description": ""
+	},
+	{
+		"id": "c00023ce-a37d-41cb-8793-9ba682dcfc2c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Artikelen en fake news over technologische ontwikkelingen.",
+		"description": ""
+	},
+	{
+		"id": "29068b9e-f906-40ce-a398-da413d269891",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Verschillende standpunten over migratie synthetiseren en vergelijken in een essay.",
+		"description": ""
+	},
+	{
+		"id": "89dbc514-7f71-473a-97e2-d6056e653088",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Betrouwbare informatie van misleidende informatie onderscheiden in een samenvatting van een aantal artikelen.",
+		"description": ""
+	},
+	{
+		"id": "0581590f-d089-436f-a2d1-3c919f3905d6",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Discussies en debatten.",
+		"description": ""
+	},
+	{
+		"id": "d52df385-966c-4e18-b0f0-46e5413c10dd",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Artikelen en opiniestukken.",
+		"description": ""
+	},
+	{
+		"id": "aedd1eef-79c4-430e-9eac-afaed5889fca",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een blog schrijven over voorbeelden van omgaan met het concept 'tijd' in verschillende landen.",
+		"description": ""
+	},
+	{
+		"id": "9b0a8c29-0aad-4d66-9369-5ca68ea41987",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een stuk schrijven over jongerentaal in verschillende landen.",
+		"description": ""
+	},
+	{
+		"id": "02f750a0-6974-4c13-b368-39caea858f2c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een academisch artikel in een vaktijdschrift.",
+		"description": ""
+	},
+	{
+		"id": "6a7bd253-4690-4d5c-a69b-cfdc69776e34",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een politieke analyse.",
+		"description": ""
+	},
+	{
+		"id": "79b91254-f1fa-4a18-9ce1-eac2b85f3b06",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De uittreksel van een filosofische roman.",
+		"description": ""
+	},
+	{
+		"id": "fde96e3a-5a71-4e91-a8a3-685f82f3130f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De synopsis van de resultaten van een onderzoek.",
+		"description": ""
+	},
+	{
+		"id": "cbfbdcb5-2f4f-412d-8860-a1dc6d217847",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een literaire recensie.",
+		"description": ""
+	},
+	{
+		"id": "15e05191-629e-4ee7-8516-c714bd25442d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een uittreksel van een wetenschappelijk boek.",
+		"description": ""
+	},
+	{
+		"id": "e1804e49-196e-4c68-b161-31b99bdf5b1c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - In een artikel voor een jongerenblad standpunten over een actueel thema uit verschillende bronnen samenvatten en met elkaar vergelijken, afgestemd op de lezers van het blad.",
+		"description": ""
+	},
+	{
+		"id": "88367fe1-c77d-491e-92cd-fd762318b179",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De samenvatting van een relevante publicatie schrijven voor een vakblad, gericht op een bepaald beroep.",
+		"description": ""
+	},
+	{
+		"id": "9b76a342-40ed-449b-8291-8f788afbb726",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een documentaire met de reconstructie van een gebeurtenis uit het verleden.",
+		"description": ""
+	},
+	{
+		"id": "fa5d46a3-42e9-4324-8d8d-082134f6bc1f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een vaststellingsovereenkomst.",
+		"description": ""
+	},
+	{
+		"id": "001995be-a812-48f5-ba6e-cc36b3d6439a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een populairwetenschappelijk boek.",
+		"description": ""
+	},
+	{
+		"id": "6355361d-f021-477f-8610-664170b36986",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De inhoud van een complexe overeenkomst correct weergeven en interpreteren voor iemand die moeite heeft met het begrijpen ervan.",
+		"description": ""
+	},
+	{
+		"id": "fb5acdba-f2a6-4c45-913a-a7f7351aa42c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Het hoofdstuk van een boek samenvatten en interpreteren in een eigen werkstuk over een historisch, taalkundig of maatschappelijk thema.",
+		"description": ""
+	},
+	{
+		"id": "7b9fbc23-fdb8-4371-9c46-005cb55d51f7",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Uiteenlopende artikelen en boeken.",
+		"description": ""
+	},
+	{
+		"id": "bbd7db76-bca9-405f-b02e-743148689e4a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Toespraken.",
+		"description": ""
+	},
+	{
+		"id": "6d4d2acd-2ab2-4a92-a846-c94b6d10eeef",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Documentaires.",
+		"description": ""
+	},
+	{
+		"id": "5b43dc09-de6c-4d89-8bb0-66a59c2713e2",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Verslagen.",
+		"description": ""
+	},
+	{
+		"id": "47b7bde4-1b26-4f0b-a313-207ec4e75297",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aan de hand van diverse bronnen een overzicht geven van culturele aspecten bij sociale groepen in verschillende landen.",
+		"description": ""
+	},
+	{
+		"id": "81df9529-6ae0-408b-b210-7dfba03f9aa0",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een analyse maken van de positie van een bedrijf in de markt en doelen van een effectieve marketingstrategie vaststellen.",
+		"description": ""
+	},
+	{
+		"id": "1a3ece56-e957-4302-abcb-c0a16c156815",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een presentatie geven over de impact van een gebeurtenis uit de geschiedenis van een land of in internationale contacten.",
+		"description": ""
+	},
+	{
+		"id": "3763272f-daa5-48d7-98b2-5a94f583bab9",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Opiniërende artikelen en essays.",
+		"description": ""
+	},
+	{
+		"id": "30768435-61ac-4ebc-b2b9-3070592a77e0",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Reportages.",
+		"description": ""
+	},
+	{
+		"id": "7eec19af-959c-4a05-b49c-beb0cc4048d3",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De inhoud en de stijl van een essay analyseren, interpreteren en evalueren.",
+		"description": ""
+	},
+	{
+		"id": "a34b58b2-3bbc-4a7c-8ad3-a00b474dc5d4",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een analyse maken van het gebruik van ironie en sarcasme in een betoog of een voordracht en van de doelen die de auteur daarmee beoogt.",
+		"description": ""
+	},
+	{
+		"id": "22d7b788-0537-443f-80c5-9237998f37c4",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De instructies van de leraar bij een opdracht.",
+		"description": ""
+	},
+	{
+		"id": "071b5c70-a031-4764-a77d-e387406de943",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een korte video-instructie van een spel.",
+		"description": ""
+	},
+	{
+		"id": "d0ce7fac-3ddd-4371-adaa-f2aba1fb0d0a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De demonstratie van een nieuw product op een beurs.",
+		"description": ""
+	},
+	{
+		"id": "3da434bf-cf9e-41d2-9a40-d1207743a649",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - In trefwoorden noteren wat je voor morgen moet doen of wat je voor een toets moet weten.",
+		"description": ""
+	},
+	{
+		"id": "9b86a324-8c4f-4cab-867c-d1cc16189b6c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De spelregels bij een speluitleg noteren om het spel te kunnen spelen.",
+		"description": ""
+	},
+	{
+		"id": "925606e9-6ba0-47b0-acb3-71cf0faa8578",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aantekeningen maken over waar je specifieke informatie op een website kunt vinden.",
+		"description": ""
+	},
+	{
+		"id": "fea9ef48-a936-4564-8fbf-c8ab67e0ddfc",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een mindmap maken van iets wat de leraar vertelt.",
+		"description": ""
+	},
+	{
+		"id": "9287449e-c0dc-4702-959f-2f360e5d81b3",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Instructies voor de taakverdeling tijdens een evenement.",
+		"description": ""
+	},
+	{
+		"id": "af8d2352-3801-437d-b0c3-d9b75f66d5e5",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Instructies voor de verkiezing van bestuursleden van een vereniging of de leerlingenraad.",
+		"description": ""
+	},
+	{
+		"id": "93ad8c9b-6170-414e-b82f-51296681d7d4",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Acties voor jezelf noteren als iemand instructies geeft.",
+		"description": ""
+	},
+	{
+		"id": "fc4faf03-e937-4523-b0c3-32f8bfd50b04",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een to do-list maken voor het openen van de sportkantine.",
+		"description": ""
+	},
+	{
+		"id": "a171d82c-ed34-435e-9bc0-347f5d92ac0f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een online instructiefilmpje voor een onderdeel van een schoolvak.",
+		"description": ""
+	},
+	{
+		"id": "0df00c76-dbcb-4a94-996c-ab8ed9643c76",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De lezing van een gastspreker op school.",
+		"description": ""
+	},
+	{
+		"id": "d9857714-bfd7-4ebd-bc0f-9e37cc3b136c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een mindmap maken van de belangrijkste informatie tijdens een toespraak.",
+		"description": ""
+	},
+	{
+		"id": "c79a4a38-86f7-4397-ab45-fc1a9b7457c0",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - In bullets noteren wat voor jou belangrijk was in een presentatie.",
+		"description": ""
+	},
+	{
+		"id": "4228c0fb-497b-419f-b25d-8fbd4bd51af9",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een voordracht op tv.",
+		"description": ""
+	},
+	{
+		"id": "7b48b188-aa39-4ea4-950b-fba6680f36b6",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een lezing tijdens een studiedag.",
+		"description": ""
+	},
+	{
+		"id": "6cd0f526-df56-4fff-92cd-9350a7da6afc",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een presentatie in de klas.",
+		"description": ""
+	},
+	{
+		"id": "d09694c4-3b8d-44a5-913e-0f69b63b5717",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aantekeningen maken voor een blog over een vertrouwd onderwerp.",
+		"description": ""
+	},
+	{
+		"id": "f305d487-1e2e-459f-b9d3-85e4b8cf1da7",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De hoofdzaken tijdens een lezing noteren om de informatie beter te onthouden en die later beter te leren.",
+		"description": ""
+	},
+	{
+		"id": "bc968c1d-9e20-4df5-a6e8-55fb8a40f84b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - In bullets noteren wat voor jou belangrijk was tijdens een podcast.",
+		"description": ""
+	},
+	{
+		"id": "9be7077d-f3c4-4d4f-8934-ba766ff5498e",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een studiedag binnen de eigen opleiding of vereniging.",
+		"description": ""
+	},
+	{
+		"id": "01fb5278-37ea-49ed-bfcf-5b2a75d620fd",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een introductiecursus.",
+		"description": ""
+	},
+	{
+		"id": "024e2ed6-31d9-45b3-b5cc-027fdac98621",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een groepsgesprek.",
+		"description": ""
+	},
+	{
+		"id": "77f47907-dc83-434c-bdb6-ff159edaed16",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een presentatie over het jaarverslagen en de toekomstige plannen  van een vereniging of een sportclub.",
+		"description": ""
+	},
+	{
+		"id": "a95ab857-cdbd-45a7-9c10-55dea4b4932b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een webinar over een actueel onderwerp.",
+		"description": ""
+	},
+	{
+		"id": "174656fe-fff6-48aa-bfc7-86abe52f1bf3",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een TED Talk. ",
+		"description": ""
+	},
+	{
+		"id": "a1f83108-cc43-4f1d-9c39-1f9b9f08a4c9",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aantekeningen bij een presentatie maken voor een verslag, blog of artikel.",
+		"description": ""
+	},
+	{
+		"id": "445bd2f0-d7a1-47d2-8d91-dcc462fc0827",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De eigen aantekeningen doornemen en markeren wat je nog moet opzoeken of navragen.",
+		"description": ""
+	},
+	{
+		"id": "fa6dab1e-ae05-49ee-9dd6-85fe7f8de1af",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Voordrachten tijdens een cultureel of wetenschappelijk festival.",
+		"description": ""
+	},
+	{
+		"id": "172c855a-6204-48c4-a423-c92cf385f25c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Podcasts.",
+		"description": ""
+	},
+	{
+		"id": "79bef674-cac9-44cd-aa9d-bf2c164ef7ea",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Formele discussies en debatten tijdens een politiek congres.",
+		"description": ""
+	},
+	{
+		"id": "2a8d4453-1b65-4334-b8d1-39fbe4bf083d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Interviews in een talkshow.",
+		"description": ""
+	},
+	{
+		"id": "238ef2d7-0819-496e-89d3-a07d4e186d34",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een gedetailleerd overzicht maken van de belangrijke informatie in verschillende discussieprogramma's om ze met elkaar te vergelijken en te gebruiken in een eigen presentatie.",
+		"description": ""
+	},
+	{
+		"id": "51447661-bfec-4c0a-a4bb-e2b9ee4b6544",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Notities schrijven over de belangrijkste ideeën in een aantal presentaties om ze later te gebruiken in een congresverslag.",
+		"description": ""
+	},
+	{
+		"id": "026288fc-77f9-4f03-add8-38c9e2ad313b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Hoorcolleges bij de eigen opleiding.",
+		"description": ""
+	},
+	{
+		"id": "7d8d924c-bf35-48a8-8f06-5ac3e832371f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Voordrachten op video of live tijdens bijeenkomsten en conferenties.",
+		"description": ""
+	},
+	{
+		"id": "4e1b39c9-5476-41aa-92a6-990ad0a51f48",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Tijdens een plenaire bijeenkomst de relevante informatie noteren die nuttig is voor een eigen project, voor de uitvoering van een opdracht of voor verslaglegging in een vakblad.",
+		"description": ""
+	},
+	{
+		"id": "599d2cee-8b08-40e3-a247-949cdc083c11",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een voordracht of webinar over een belangwekkend onderwerp.",
+		"description": ""
+	},
+	{
+		"id": "696f6939-af24-497f-bd11-53d8ba3ef7fa",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Podcasts.",
+		"description": ""
+	},
+	{
+		"id": "bc02b57c-d135-486e-899a-f936743b58e2",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een lezing op een congres.",
+		"description": ""
+	},
+	{
+		"id": "a9456a00-62c0-43d3-ab0b-b526eba27e80",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aantekeningen maken voor een groepsopdracht van een opleiding.",
+		"description": ""
+	},
+	{
+		"id": "7a0bf91b-8a72-40de-9ca0-38cbc97354f1",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aantekeningen maken voor een medestudent of een collega die niet aanwezig kan zijn bij de desbetreffende presentatie.",
+		"description": ""
+	},
+	{
+		"id": "aaa736ef-2b97-498b-ae2a-ab73c0c21398",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Hoorcolleges op de universiteit.",
+		"description": ""
+	},
+	{
+		"id": "56cba440-4d9e-4dfe-b948-7d82b7339ca7",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Online colleges en webinars over abstracte, complexe thema's.",
+		"description": ""
+	},
+	{
+		"id": "3b335db8-1e78-4910-894f-164cd974d7b5",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Vergaderingen over strategische ontwerpen of internationaal beleid.",
+		"description": ""
+	},
+	{
+		"id": "533734bb-c83d-4cea-887f-83f560cc2b2f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Trainingssessies over leiderschap of samenwerking op het werk.",
+		"description": ""
+	},
+	{
+		"id": "726697e3-c8c4-42a8-832b-cf8afb2eee5f",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De kernboodschappen in verschillende toespraken over een bepaald thema noteren en daarbij verbanden leggen tussen de standpunten en overtuigingen van de verschillende sprekers.",
+		"description": ""
+	},
+	{
+		"id": "e2694024-b8d0-4327-af40-6d34d6ea8a78",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De kern van een complex hoorcollege op een leesbare manier opschrijven voor je medestudenten.",
+		"description": ""
+	},
+	{
+		"id": "48453cca-2b5d-463c-8bf0-5bd38c79aa29",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Hoorcolleges op de universiteit.",
+		"description": ""
+	},
+	{
+		"id": "a7a662a9-e223-4a71-ae46-e18f33f9bd67",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Online colleges en webinars over abstracte, complexe thema's.",
+		"description": ""
+	},
+	{
+		"id": "eb52fe9d-3491-4760-b795-004605749224",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Vergaderingen over strategische ontwerpen of internationaal beleid.",
+		"description": ""
+	},
+	{
+		"id": "0f9905e5-90ea-4d89-aa6c-aa3974d05e8a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Trainingssessies over persoonlijk leiderschap en of het gebruik van nieuwe technieken op het werk.",
+		"description": ""
+	},
+	{
+		"id": "9c19d17d-cfef-4910-abf8-64189f66a747",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Tijdens een online vergadering bedekte aanwijzingen en toespelingen over gevoelige kwesties noteren voor een latere bespreking.",
+		"description": ""
+	},
+	{
+		"id": "bbf12282-ccaf-4a23-a829-9e759f8bad99",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Aantekeningen maken over retorische technieken die sprekers toepassen tijdens een bijeenkomst om mensen te overtuigen of voor het karretje te spannen.",
+		"description": ""
+	},
+	{
+		"id": "b3e6c5b5-c0de-474c-9780-39d2bea73e41",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Hoorcolleges op de universiteit.",
+		"description": ""
+	},
+	{
+		"id": "da564afe-cfd2-40d8-94de-fb2c1085607c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Online colleges en webinars over abstracte, complexe thema's.",
+		"description": ""
+	},
+	{
+		"id": "e64cec23-fd6d-49a1-8825-af66c272d5a6",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Vergaderingen over strategische ontwerpen of internationaal beleid.",
+		"description": ""
+	},
+	{
+		"id": "4502e5e2-5b77-4ce9-bfc2-f574a95dd949",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Trainingssessies over effectieve communicatie of presentatievaardigheden.",
+		"description": ""
+	},
+	{
+		"id": "374abf26-1d6d-4fe1-980d-546be5ec30f8",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Je eigen aantekeningen van een college volledig en betrouwbaar uitwerken voor zelfstudie, voor een medestudent of voor een collega.",
+		"description": ""
+	},
+	{
+		"id": "f939856f-b3d6-41ce-907e-83a95da37dc9",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Uitgebreide aantekeningen maken als lid van het bestuur van een vereniging.",
+		"description": ""
+	},
+	{
+		"id": "e3a04911-7706-43e3-9523-3258c61893d8",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De notulen maken bij een directievergadering.",
+		"description": ""
+	},
+	{
+		"id": "d81d1e12-e70d-46dd-afaa-f6d8658f23b7",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een kort bericht van een vriend.",
+		"description": ""
+	},
+	{
+		"id": "e7f7299c-cd14-434d-87c2-17b25cd682d1",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Eenvoudige gebruiksaanwijzingen.",
+		"description": ""
+	},
+	{
+		"id": "5c10f84d-1f4b-4413-ae93-13e96675cd49",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een eenvoudige spotprent.",
+		"description": ""
+	},
+	{
+		"id": "f8b2f4dc-c7c2-49f6-9597-e3a020cc4946",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een informatiebord met veel afbeeldingen.",
+		"description": ""
+	},
+	{
+		"id": "4c4dbb40-3cbd-4b98-83a0-ddf944a24343",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De display van een digitaal apparaat.",
+		"description": ""
+	},
+	{
+		"id": "b0ce8de2-5751-4a0a-af36-0cbfe41c65c7",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De tekst van een online post vertalen voor een vriend.",
+		"description": ""
+	},
+	{
+		"id": "cb5aa21d-cc5f-4d3c-8b2b-9ae4c2c061b9",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - In steekwoorden de belangrijkste functies van de digitale bediening van een apparaat voor iemand op een briefje vertalen.",
+		"description": ""
+	},
+	{
+		"id": "aebd898a-2add-44a6-a64c-011f21cf0829",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een kort en eenvoudig stripverhaal in een andere taal vertalen voor een nieuwsbrief.",
+		"description": ""
+	},
+	{
+		"id": "abebe3e3-1dbc-40c4-a4c2-831546b8daf2",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De namen van de dieren in een bepaald gebied vertalen voor een presentatie.",
+		"description": ""
+	},
+	{
+		"id": "c3da9186-197e-4178-b3fc-f387ffd1a500",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Informatie over een eenvoudige opdracht.",
+		"description": ""
+	},
+	{
+		"id": "f7b6d9fc-6899-4348-88e2-b3d0da6b9975",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De inleidende informatie over een zomerkamp.",
+		"description": ""
+	},
+	{
+		"id": "7ddb8a1b-3aea-4473-833e-7f69cca30dfc",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Informatie over het goede doel van de sponsorloop.",
+		"description": ""
+	},
+	{
+		"id": "a4f048c7-2b33-4bae-b11a-4851d9ae2e93",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Festivalprogramma's.",
+		"description": ""
+	},
+	{
+		"id": "fdfae1bc-9410-4865-a103-80299337fe85",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Korte filmrecensies.",
+		"description": ""
+	},
+	{
+		"id": "4f38828b-3e67-4191-9104-3d128adc36c6",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een tekstbericht sturen met de informatie uit buitenlandse media over een film of voorstelling.",
+		"description": ""
+	},
+	{
+		"id": "cb2a9fb1-d460-421d-a6ae-53ff7a888650",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De afnameregels van toetsen voor een uitwisselingsleerling vertalen.",
+		"description": ""
+	},
+	{
+		"id": "3e435972-0daf-43a4-a0a6-6e8672303f1b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De informatie op een kaartje in het museum of in de dierentuin vertalen.",
+		"description": ""
+	},
+	{
+		"id": "16682796-1e58-4082-b4c3-24ae5ff4aa03",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Informatie over programmaonderdelen van een festival vertalen voor iemand.",
+		"description": ""
+	},
+	{
+		"id": "14c4f7a7-1215-452d-a671-e439fef8a46b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een artikel op de website van een school over de geschiedenis van de school.",
+		"description": ""
+	},
+	{
+		"id": "dc64483c-3e1f-45c8-962b-fc5f50c018bf",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Het laatste nieuws in een dagblad.",
+		"description": ""
+	},
+	{
+		"id": "e8c0f294-63f3-479a-ba46-c07337c003f2",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Het verslag van een interview met een professionele sporter.",
+		"description": ""
+	},
+	{
+		"id": "4ac9af24-921d-431f-9580-9c114fc79fa9",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De vertaling maken van de belangrijkste informatie in een uitwisselingsprogramma voor buitenlandse leerlingen.",
+		"description": ""
+	},
+	{
+		"id": "257bc52a-6e9c-42b4-8479-e63c7b894b35",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Informatie over een sportevenement dat je mede-organiseert vertalen voor een buitenlandse vriend.",
+		"description": ""
+	},
+	{
+		"id": "8b4549cc-07d1-447a-9cbc-f6d8348826b8",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Online informatie over een bepaalde regio.",
+		"description": ""
+	},
+	{
+		"id": "d5795d8a-eb71-4bc7-b055-be95a5b49d00",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Nieuwsartikelen.",
+		"description": ""
+	},
+	{
+		"id": "99fec1d9-969c-4a92-a686-d338578e1c81",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Artikelen uit populaire weekbladen.",
+		"description": ""
+	},
+	{
+		"id": "44d8f19b-d5bd-47f0-acd0-d71d5c7a93c3",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een recensie van een voorstelling vertalen in een mail aan een vriend.",
+		"description": ""
+	},
+	{
+		"id": "49e3c17a-3d56-49a7-857c-f3df5c8754d6",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - In een tekstbericht de belangrijkste passages uit een interessant artikel uit de actualiteit vertalen voor een vriend.",
+		"description": ""
+	},
+	{
+		"id": "16b6f702-e5f3-4026-9d80-154ab0ca5934",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een interview in een tijdschrift.",
+		"description": ""
+	},
+	{
+		"id": "40052bde-601a-47da-b960-f278fa0bb75f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een artikel over een actueel onderwerp.",
+		"description": ""
+	},
+	{
+		"id": "ada9bbf1-1f2a-45a1-9b25-d4bd98605550",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een opiniestuk in een dagblad.",
+		"description": ""
+	},
+	{
+		"id": "55953a47-8bb1-42d2-ae96-ffc26e9d2f0e",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Officiële publicaties op de website van de overheid.",
+		"description": ""
+	},
+	{
+		"id": "36cb5e4c-03be-4343-99d1-53e35f4b7f0f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een songtekst.",
+		"description": ""
+	},
+	{
+		"id": "c5368c8e-1305-4b08-b297-d87f04e1eff5",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een verhaal.",
+		"description": ""
+	},
+	{
+		"id": "8f549bcd-db4c-4555-a8e2-63ac83690e38",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - In een blog de meest relevante passages uit een artikel of een interview in vertaling citeren.",
+		"description": ""
+	},
+	{
+		"id": "dff5b07b-b4cb-4199-812f-f5424923f77f",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een songtekst vertalen naar andere talen en de boodschap van de tekst zo goed mogelijk proberen over te brengen.",
+		"description": ""
+	},
+	{
+		"id": "6399fc8c-4a52-45d6-b940-074628d37204",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Informatie over een bijbaan of stage in Nederland vertalen voor een buitenlandse kennis.",
+		"description": ""
+	},
+	{
+		"id": "ebcdb9b7-f1ca-4dcb-a4ac-902e127f8b6c",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een roman, een verhaal of een toneelstuk.",
+		"description": ""
+	},
+	{
+		"id": "398b9ade-7f2b-420d-990b-e85f9217239b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een fragment uit een dagboek met gebruik van spreektaal.",
+		"description": ""
+	},
+	{
+		"id": "3d7206da-a5db-4493-8cd9-87cfaaf94789",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een opiniestuk over ontwikkelingen in de samenleving.",
+		"description": ""
+	},
+	{
+		"id": "a5041114-1869-4211-9571-a7efe4e6fb8c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een hoofdstuk van een roman vertalen voor een vertaalwedstrijd.",
+		"description": ""
+	},
+	{
+		"id": "eb2a9116-8526-49d8-bd7d-f7702f6b833f",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een artikel over actuele ontwikkelingen vertalen voor een jongerenmagazine.",
+		"description": ""
+	},
+	{
+		"id": "08979fce-23fe-4024-af94-55bd7d70aba7",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Literaire kritiek.",
+		"description": ""
+	},
+	{
+		"id": "00f8831a-ec15-464b-a290-b9406a6e903e",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een wetenschappelijk artikel.",
+		"description": ""
+	},
+	{
+		"id": "3323a1e7-98b7-4d15-9f97-557de521f09a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een financieel verslag.",
+		"description": ""
+	},
+	{
+		"id": "3b4d297a-7c23-415e-86e4-f2671dfc9437",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een specialistisch artikel over de rol van kunst en cultuur in de samenleving of over maatschappelijk verantwoord ondernemen.",
+		"description": ""
+	},
+	{
+		"id": "82b94791-173b-482d-ad15-d80a207ba0b7",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een rapport over de status van het onderwijs.",
+		"description": ""
+	},
+	{
+		"id": "d3c7f754-4117-4a43-bd7b-a4e97c280c94",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Argumenten in artikelen in verschillende talen over hetzelfde onderwerp vertalen en met elkaar vergelijken voor een werkstuk.",
+		"description": ""
+	},
+	{
+		"id": "63c547cc-0182-4158-9651-af5f5d22bd29",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een juridisch advies.",
+		"description": ""
+	},
+	{
+		"id": "67f0ef45-5e50-4943-9615-ac8dfd2a26b0",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een technisch rapport met complexe informatie.",
+		"description": ""
+	},
+	{
+		"id": "77da2b06-34c0-45ac-aabc-189f14d33bb9",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een proefschrift.",
+		"description": ""
+	},
+	{
+		"id": "a1138af6-3468-4355-b560-a8f9d1fba244",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een technisch rapport vertalen voor interne bijscholing van een bedrijf.",
+		"description": ""
+	},
+	{
+		"id": "46896d1e-e83a-4c2e-a83c-ae04b14e9672",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een artikel met medische begrippen vertalen.",
+		"description": ""
+	},
+	{
+		"id": "cebc5111-34fa-4879-9043-fdc0767e4d82",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De beschrijving van het onderwijssysteem in eigen land vertalen voor een buitenlands publiek.",
+		"description": ""
+	},
+	{
+		"id": "798e5b7e-b670-43a7-8f0a-f1fe25963d4b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Verkeersborden.",
+		"description": ""
+	},
+	{
+		"id": "dd0b5d5b-740e-4d2a-b588-9e0b9a3be5ec",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Posters in een winkelstraat of van schoolactiviteiten.",
+		"description": ""
+	},
+	{
+		"id": "de051f08-a64a-46b7-b574-5da58f064755",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een briefje op school met een roosterwijziging.",
+		"description": ""
+	},
+	{
+		"id": "3e97766f-2f5e-492d-acd1-f2b44e4cc188",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Wedstrijdschema's.",
+		"description": ""
+	},
+	{
+		"id": "9cb862d5-52f2-4274-a85d-aa75d3d38ce8",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Treindienstregelingen.",
+		"description": ""
+	},
+	{
+		"id": "24d5770f-98e4-4cab-9801-8d48f133cb1b",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Reclamestickers.",
+		"description": ""
+	},
+	{
+		"id": "c35b8ab2-263f-403a-b881-d914af280f79",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Voedseletiketten.",
+		"description": ""
+	},
+	{
+		"id": "b882bb31-4332-4269-a2d6-b6692bd25415",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - In het buitenland de openingstijden van een winkel voor een vriend vertalen.",
+		"description": ""
+	},
+	{
+		"id": "88939ab8-6300-4f9c-98ba-b7689b7020b9",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Bij de bushalte een kort bericht sturen over de dienstregeling in het weekend.",
+		"description": ""
+	},
+	{
+		"id": "76dedaea-c51a-4d31-8b3e-7efe11cce4c7",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De boodschap op een sticker aan de deur voor iemand vertalen.",
+		"description": ""
+	},
+	{
+		"id": "9e06b576-4d1b-4c17-8a19-268457ed7438",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Ingrediënten in een recept voor een boodschappenlijst vertalen.",
+		"description": ""
+	},
+	{
+		"id": "060b593f-13f1-4a8e-93f8-3a98c7da1e75",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Veiligheidsvoorschriften in een gebouw.",
+		"description": ""
+	},
+	{
+		"id": "ce4b5c0a-644a-4c4d-8ddc-f841aed9e1db",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Informatie over wegwerkzaamheden.",
+		"description": ""
+	},
+	{
+		"id": "54a21db0-0213-45ea-a045-b48aabc8db35",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Push notificaties op de telefoon.",
+		"description": ""
+	},
+	{
+		"id": "53708596-1cd7-452d-ba31-9446e4639c99",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Instructies bij een knutselopdracht.",
+		"description": ""
+	},
+	{
+		"id": "7765b564-1cbb-4a73-83fb-3996bd0086bb",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De belangrijkste regels in de bibliotheek vertalen voor iemand die de taal waarin ze geschreven zijn niet begrijpt.",
+		"description": ""
+	},
+	{
+		"id": "31e22535-c790-46ed-84cb-6f1ab80f542b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De push notificaties van een bepaalde app vertalen voor iemand die ze niet begrijpt.",
+		"description": ""
+	},
+	{
+		"id": "bbcdd1ec-8698-4484-9a95-09854f9e7626",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Spelregels voor iemand vertalen.",
+		"description": ""
+	},
+	{
+		"id": "2d26dbb5-ea9c-45e6-8da5-a5b57d19cded",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een kort feitelijk nieuwsbericht.",
+		"description": ""
+	},
+	{
+		"id": "2ee35fcf-7f67-4e9d-87cb-a1b1ff55e1ad",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Informatie over het verzorgen van een huisdier.",
+		"description": ""
+	},
+	{
+		"id": "19a0181d-2f67-4227-b5fe-c840495e1743",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een kort verhaal.",
+		"description": ""
+	},
+	{
+		"id": "e9ca6777-4109-4694-a200-f0d2e2540737",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een automatisch afwezigheidsbericht.",
+		"description": ""
+	},
+	{
+		"id": "9f9d1f2a-9acf-4fd0-b929-eb66816611f6",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Instructies voor het gebruik van geneesmiddelen.",
+		"description": ""
+	},
+	{
+		"id": "47081fb3-e3a2-4a34-8e8e-9ae0a3d3dc05",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Instructies voor het aanvragen van een document.",
+		"description": ""
+	},
+	{
+		"id": "51b4facd-dfef-4f27-8389-8f2bc80d4de8",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Persoonlijk nieuws in een kort bericht.",
+		"description": ""
+	},
+	{
+		"id": "8aeabd86-2649-47fd-856c-89393e650e5b",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De instructies bij het verlies van het paspoort vertalen voor een buitenlandse toerist.",
+		"description": ""
+	},
+	{
+		"id": "d85fca8e-bed7-490a-8b8f-c421f5c68751",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Voor een vriend vertalen wat een uitwisselingsleerling over de eigen school schrijft.",
+		"description": ""
+	},
+	{
+		"id": "9d28e19c-28e8-42cf-b10b-258bc966db20",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een gelezen persoonlijk verhaal voor iemand vertalen.",
+		"description": ""
+	},
+	{
+		"id": "2672c6b8-8648-4edb-a502-4e7118a73226",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een brief van de schoolleiding bij de start van het schooljaar.",
+		"description": ""
+	},
+	{
+		"id": "318985cf-8da4-4baf-a32c-0f319d2de050",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De online brochure van een bedrijf.",
+		"description": ""
+	},
+	{
+		"id": "fa98c71c-2eff-4ddb-ae71-e770e688f3d8",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De website van een culturele instelling.",
+		"description": ""
+	},
+	{
+		"id": "8e57336f-ebe3-4642-b7de-e23623e928e5",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een informatiebrief voor kinderen op de buitenschoolse opvang.",
+		"description": ""
+	},
+	{
+		"id": "5542925b-44d6-4697-8551-126ed9b9f415",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De mededelingen van de schoolleiding vertalen voor buitenlandse ouders.",
+		"description": ""
+	},
+	{
+		"id": "953969b1-3150-40bc-bdc4-e013c6e38349",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De informatie in de brochure van een scooterbedrijf vertalen voor een klant.",
+		"description": ""
+	},
+	{
+		"id": "0cde832c-d6cb-468e-b11d-673a07c8f2b7",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Informatie over een fondsenwervingscampagne vertalen voor een vriend.",
+		"description": ""
+	},
+	{
+		"id": "f0e3e075-869a-4681-92bf-b85d53d13f75",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Vertalen voor buitenlandse gasten welke zomeractiviteiten er allemaal zijn in het buurthuis.",
+		"description": ""
+	},
+	{
+		"id": "1ef1c2a7-0040-44d2-b22d-0aacd9013692",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een mail van een familielid of vriend over dagelijkse zaken voor iemand vertalen tijdens een verblijf in het buitenland.",
+		"description": ""
+	},
+	{
+		"id": "09d2c73a-0526-41aa-8a85-bd1598adb173",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De nieuwsbrief van de sportclub.",
+		"description": ""
+	},
+	{
+		"id": "3be4d57b-297c-4f1c-aae8-37728670bb2d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een getuigenverklaring na een ongeval.",
+		"description": ""
+	},
+	{
+		"id": "5c51fef1-19c1-4850-a54c-e4f3ba5c36fe",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - De beschrijving van een project of excursie op school.",
+		"description": ""
+	},
+	{
+		"id": "d8a3dde1-80da-485f-a0f9-5f0e3e419bce",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Het laatste nieuws over een muziekfestival vertalen.",
+		"description": ""
+	},
+	{
+		"id": "ca6693a5-259c-4479-818b-ba7c52ee642c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De verklaring van een getuige vertalen voor een politieagent.",
+		"description": ""
+	},
+	{
+		"id": "44e9cef2-1675-4755-a5a2-a5d50ca40586",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een online verslag over een reisbestemming vertalen voor een buitenlandse vriend.",
+		"description": ""
+	},
+	{
+		"id": "44039af1-b0ed-40af-8135-cd9e680f0185",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een tijdschriftartikel met weetjes over de geschiedenis van taal.",
+		"description": ""
+	},
+	{
+		"id": "d3265872-178a-45fc-a078-e9be0b228a47",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een geïllustreerd boek over Afrikaanse kunst.",
+		"description": ""
+	},
+	{
+		"id": "ef32918e-db65-4524-8028-4cca53191a47",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een artikel over talentvolle industriële ontwerpers.",
+		"description": ""
+	},
+	{
+		"id": "90b73f45-ae4a-4955-9879-0fdcf35d9870",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Informatie over afstudeerprijzen voor studenten.",
+		"description": ""
+	},
+	{
+		"id": "6f90539b-9f55-4d24-a364-e8ceaa9ac3bf",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Opvallendheden in een reisverslag vertalen voor iemand die dezelfde reis wil maken.",
+		"description": ""
+	},
+	{
+		"id": "482954d5-9055-42a2-8831-b3932e002226",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De meest interessante informatie in een artikel vertalen voor een geïnteresseerde.",
+		"description": ""
+	},
+	{
+		"id": "cf280fd2-3438-40ee-801d-4dbcbd13e10a",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een technisch rapport dat betrekking heeft op het eigen beroep.",
+		"description": ""
+	},
+	{
+		"id": "824b8fb5-f559-4f45-b969-b20c21aeee59",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een toelichting bij een kunstwerk in een museum.",
+		"description": ""
+	},
+	{
+		"id": "b8d94e89-43b0-40f1-9be0-ca357898adf8",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een toegankelijk artikel over wetenschappelijke inzichten in een onderwerp in de eigen interessesfeer.",
+		"description": ""
+	},
+	{
+		"id": "4a296268-4272-4fb1-ae93-e14e47f3b65c",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - De belangrijkste bevindingen uit een inspectierapport vertalen tijdens een internationale bijeenkomst.",
+		"description": ""
+	},
+	{
+		"id": "026b6e93-6c7e-42f9-b5ef-07905f4370c6",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Tijdens een bezoek aan een tentoonstelling de informatie bij de verschillende voorwerpen vertalen voor een uitwisselingsleerling.",
+		"description": ""
+	},
+	{
+		"id": "208e0746-62c6-41b1-81f6-c297e58e3c54",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een artikel in een specialistisch tijdschrift.",
+		"description": ""
+	},
+	{
+		"id": "a1130a13-20ad-4ad7-8bbd-9601d3a76e3f",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Het script van een toespraak bij een conferentie.",
+		"description": ""
+	},
+	{
+		"id": "1c26ba30-a837-48db-a172-dabbc85b7284",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een publiek beleidsdocument of reglement.",
+		"description": ""
+	},
+	{
+		"id": "bce2de61-a443-4037-b410-4b2cc3c157fa",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Een contract.",
+		"description": ""
+	},
+	{
+		"id": "7a467beb-81c1-45d1-863a-bf19cae7132d",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Tijdens een presentatie gebruikmaken van citaten in een andere taal en die vertalen om de strekking weer te geven.",
+		"description": ""
+	},
+	{
+		"id": "b5175eee-dc43-4b2d-862b-79201c2b0e83",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een uitgebreide recensie mondeling vertalen voor iemand die de taal van de tekst niet begrijpt.",
+		"description": ""
+	},
+	{
+		"id": "e99fe857-a522-4b86-b3e8-19e867b4ac5d",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Complexe artikelen over abstracte onderwerpen.",
+		"description": ""
+	},
+	{
+		"id": "6052ae85-89d4-4a9c-8b0f-c5fc1f8588ef",
+		"prefix": "",
+		"title": "Voorbeeld van een bron - Wetenschappelijke en technische publicaties.",
+		"description": ""
+	},
+	{
+		"id": "63aad522-520d-4b64-bb5f-129b19afc073",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Tijdens een werkcollege een complexe tekst mondeling vertalen, met inbegrip van argumentatie, bijbehorende nuances en betekenis.",
+		"description": ""
+	},
+	{
+		"id": "747de352-9d6c-4d6f-b726-ab06e141d299",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Een lezing geven over een non-fictie boek en de impliciete betekenis van relevante passages voor het publiek vertalen en uitleggen.",
+		"description": ""
+	},
+	{
+		"id": "c239196a-6963-44fc-8b15-e4138d642fa9",
+		"prefix": "",
+		"title": "Verhalen, sprookjes en fabels.",
+		"description": ""
+	},
+	{
+		"id": "be93e165-282a-45d8-a78e-dbce5df4ba38",
+		"prefix": "",
+		"title": "Legendes.",
+		"description": ""
+	},
+	{
+		"id": "471fb407-84e6-4302-8396-1c04a545dad4",
+		"prefix": "",
+		"title": "Jeugdliteratuur.",
+		"description": ""
+	},
+	{
+		"id": "72cc45cf-e914-4e83-9f0b-f2e34efae847",
+		"prefix": "",
+		"title": "Novelles.",
+		"description": ""
+	},
+	{
+		"id": "b5fbd875-e5d6-42b6-9633-a068e8dcf7aa",
+		"prefix": "",
+		"title": "Korte verhalen.",
+		"description": ""
+	},
+	{
+		"id": "f7e1aa49-81fc-4589-8df3-5326dfbfa540",
+		"prefix": "",
+		"title": "Kenmerken van personages in een verhaal met elkaar vergelijken.",
+		"description": ""
+	},
+	{
+		"id": "3fbf69f9-8302-4cf8-83e3-d6c04eba8f1f",
+		"prefix": "",
+		"title": "Beschrijven hoe populaire universele thema's in een verhaal voorkomen, zoals 'Dromen komen uit' of 'Liefde overwint alles'.",
+		"description": ""
+	},
+	{
+		"id": "22c1154e-6677-40e2-b4b2-8fd6fb35a1c9",
+		"prefix": "",
+		"title": "De chronologische lijn van een verhaal samenvatten.",
+		"description": ""
+	},
+	{
+		"id": "1dfce811-37d5-4d43-b6f2-3e297de41954",
+		"prefix": "",
+		"title": "Oorzaken en gevolgen in een verhaal beschrijven.",
+		"description": ""
+	},
+	{
+		"id": "cfd38a9a-c870-4faa-a543-fda29cbe2146",
+		"prefix": "",
+		"title": "Twee historische romans over dezelfde periode met elkaar vergelijken.",
+		"description": ""
+	},
+	{
+		"id": "d9b85488-7d1f-4370-8e47-bd1f176dbee4",
+		"prefix": "",
+		"title": "Twee films met elkaar vergelijken die over hetzelfde thema gaan maar vanuit andere perspectieven.",
+		"description": ""
+	},
+	{
+		"id": "b6dc6ba0-5e99-4beb-88d2-e72f72891c7d",
+		"prefix": "",
+		"title": "Stilistische middelen analyseren die ervoor zorgen dat de lezer zich makkelijk in een van de personages herkent.",
+		"description": ""
+	},
+	{
+		"id": "c1c717b2-a8c2-439b-bac4-281470755037",
+		"prefix": "",
+		"title": "Beschrijven hoe slechte eigenschappen genuanceerd worden door angsten en verlangens die het personage menselijker maken.",
+		"description": ""
+	},
+	{
+		"id": "5aa1348e-aac7-4e6c-a0f8-6ed2f0e80cc6",
+		"prefix": "",
+		"title": "Verwoorden hoe de eigenschappen van het personage de empathie stimuleren bij de lezer.",
+		"description": ""
+	},
+	{
+		"id": "19049618-03bd-4d5f-ba7d-d2fa2ceea9b3",
+		"prefix": "",
+		"title": "Analyseren hoe de kijk op de wereld van een personage verandert gedurende het verhaal en aan welke handelingen dat te zien is.",
+		"description": ""
+	},
+	{
+		"id": "ef60fc3e-7976-40b1-837f-f26e36373a44",
+		"prefix": "",
+		"title": "Beschrijven hoe de schrijfstijl in een werk een bepaalde stroming of periode reflecteert.",
+		"description": ""
+	},
+	{
+		"id": "a4448d78-aa78-4a69-9810-041d869fbab7",
+		"prefix": "",
+		"title": "Recensies tegen elkaar afzetten en de eigen mening toelichten.",
+		"description": ""
+	},
+	{
+		"id": "dc9b8744-8b77-4b36-b2af-648b8b4027f8",
+		"prefix": "",
+		"title": "Een boek vergelijken met een eerder werk waarop het geïnspireerd is.",
+		"description": ""
+	},
+	{
+		"id": "d6fb0898-3164-4c78-b30b-4239a79b0a92",
+		"prefix": "",
+		"title": "De remake van een film met de oorspronkelijke versie vergelijken.",
+		"description": ""
+	},
+	{
+		"id": "1dc3fd25-697b-4c03-ae13-a7d1f4908aa8",
+		"prefix": "",
+		"title": "De verschillende standpunten van twee films of boeken over hetzelfde onderwerp met elkaar vergelijken.",
+		"description": ""
+	},
+	{
+		"id": "cced3f9f-4269-4a96-bd82-07778c8459e7",
+		"prefix": "",
+		"title": "Analyseren welke verhaaltechnieken de verwachtingen van de lezer bij een roman verhogen.",
+		"description": ""
+	},
+	{
+		"id": "feceac85-13a5-4aeb-aa13-f8bb33fa6749",
+		"prefix": "",
+		"title": "Beschrijven welk effect het taalgebruik in een werk heeft op de betrokkenheid van de lezer.",
+		"description": ""
+	},
+	{
+		"id": "7075f84a-fe26-4f7c-be01-09a9940ce19f",
+		"prefix": "",
+		"title": "Benoemen en beoordelen van de conventies en de mate waarin dit werk hieraan voldoet.",
+		"description": ""
+	},
+	{
+		"id": "3281c0af-a4b4-4d62-8609-894e4d0d6d8a",
+		"prefix": "",
+		"title": "Toelichten hoe een schrijver de conventies van een genre doorbreekt en met welk beoogd doel.",
+		"description": ""
+	},
+	{
+		"id": "9efd990b-4678-4ca2-8c5f-2e2f75444ab7",
+		"prefix": "",
+		"title": "De kenmerken van het genre van een film of een boek herkennen en beschrijven op taal- en structuursniveau.",
+		"description": ""
+	},
+	{
+		"id": "ec2d756e-b478-4c83-b0d2-339526400d05",
+		"prefix": "",
+		"title": "De benadering van hetzelfde thema in romans uit verschillende literaire periodes analyseren.",
+		"description": ""
+	},
+	{
+		"id": "97d0f1db-b290-4787-93f4-f7354ca10514",
+		"prefix": "",
+		"title": "Kenmerken van verschillende soorten poëzie met elkaar vergelijken.",
+		"description": ""
+	},
+	{
+		"id": "4cefd387-837e-49d2-aa86-bb405239d93b",
+		"prefix": "",
+		"title": "Betekenis en motieven van afwijkende taalkeuzes in straatpoëzie interpreteren.",
+		"description": ""
+	},
+	{
+		"id": "8be1e8be-0c36-4483-8f1a-675ad04b3b31",
+		"prefix": "",
+		"title": "De artistieke waarde van experimenteel taalgebruik evalueren.",
+		"description": ""
+	},
+	{
+		"id": "9b3ab126-b8a9-44cb-9417-014767dc33bf",
+		"prefix": "",
+		"title": "Literaire essays vanuit verschillende invalshoeken evalueren en waarderen.",
+		"description": ""
+	},
+	{
+		"id": "ea9b5a0d-69eb-4806-9fa5-2de46bd73d57",
+		"prefix": "",
+		"title": "Het effect van retorische middelen in een literair werk analyseren.",
+		"description": ""
+	},
+	{
+		"id": "83a3bd72-65bf-4397-a601-8f76fff0699e",
+		"prefix": "",
+		"title": "De uitvoering van een plotwissel in een literaire verfilming beschrijven en evalueren.",
+		"description": ""
+	},
+	{
+		"id": "93090021-bee1-4560-8bdc-fd448b3f15e1",
+		"prefix": "",
+		"title": "Doelen en effecten van verschillen in verteltechnieken  herkennen en interpreteren.",
+		"description": ""
+	},
+	{
+		"id": "5f812f0a-ce49-4e0c-ab5c-c753deedfbb0",
+		"prefix": "",
+		"title": "Stijlfiguren en beeldspraak herkennen en de functie ervan begrijpen of afleiden.",
+		"description": ""
+	},
+	{
+		"id": "e30cb292-8565-48e0-8fdf-a9b5f356ff2c",
+		"prefix": "",
+		"title": "Sonnetten uit verschillende literaire perioden naast elkaar leggen en kenmerken vergelijken en analyseren.",
+		"description": ""
+	},
+	{
+		"id": "bbd1af44-2a47-4bfd-bd9d-7467dc0b6674",
+		"prefix": "",
+		"title": "Kenmerken van ontwikkelingsromans uit historische literaire perioden vergelijken met hedendaagse romans.",
+		"description": ""
+	},
+	{
+		"id": "53a8f63a-49c8-426a-85f0-7a3291cf2558",
+		"prefix": "",
+		"title": "Verschillen in stijl tussen toneelteksten uit verschillende periodes analyseren.",
+		"description": ""
+	},
+	{
+		"id": "41c0a0c6-78f9-4b22-9ac0-6fc9f6fce490",
+		"prefix": "",
+		"title": "Een infographic over dieren.",
+		"description": ""
+	},
+	{
+		"id": "f7a769a2-c0ea-4e52-a56f-0e62c5013ed2",
+		"prefix": "",
+		"title": "Eenvoudige poëzie.",
+		"description": ""
+	},
+	{
+		"id": "f703d14b-1132-4491-ab7d-6c4fa631250d",
+		"prefix": "",
+		"title": "Een haiku.",
+		"description": ""
+	},
+	{
+		"id": "2311cad3-6211-4e6f-bc2e-2d824fb7464a",
+		"prefix": "",
+		"title": "Een voorspelbaar prentenboek.",
+		"description": ""
+	},
+	{
+		"id": "44200cea-d525-4a4a-9ed6-a3cf96496a4e",
+		"prefix": "",
+		"title": "Verhalen met illustraties op sociale media.",
+		"description": ""
+	},
+	{
+		"id": "470272a2-23e5-497d-b458-bb85b6c17d23",
+		"prefix": "",
+		"title": "Een stripverhaal.",
+		"description": ""
+	},
+	{
+		"id": "1db821a8-90b2-4cc3-bb55-82d6134f129c",
+		"prefix": "",
+		"title": "Een cartoon.",
+		"description": ""
+	},
+	{
+		"id": "607fe3fa-cd43-4980-9a55-acf781bf2eb7",
+		"prefix": "",
+		"title": "Volkssprookjes.",
+		"description": ""
+	},
+	{
+		"id": "91667508-7b7b-4f02-a78d-5bd97c4cefe5",
+		"prefix": "",
+		"title": "Een kort artikel over een beroemdheid in een magazine.",
+		"description": ""
+	},
+	{
+		"id": "739a1405-627b-4b51-b1e6-496c4abd8d98",
+		"prefix": "",
+		"title": "Een korte biografie van de auteur van een boek.",
+		"description": ""
+	},
+	{
+		"id": "8eda96b3-3f75-41b4-81fd-a8e7bbbae50e",
+		"prefix": "",
+		"title": "Een kort verhaal over het leven van een echte of fictieve persoon uit het heden of verleden.",
+		"description": ""
+	},
+	{
+		"id": "47b99d4a-2973-46d0-bb4e-c3c7884e3d53",
+		"prefix": "",
+		"title": "Een persoonlijke pagina op sociale media.",
+		"description": ""
+	},
+	{
+		"id": "c644fbf7-95c2-4fee-8c42-ad3ffa53b32c",
+		"prefix": "",
+		"title": "Een fotoverhaal in een lifestyle magazine.",
+		"description": ""
+	},
+	{
+		"id": "c20d59f2-8ca2-4698-b2c7-aab302c909aa",
+		"prefix": "",
+		"title": "Een stripverhaal op basis van foto's.",
+		"description": ""
+	},
+	{
+		"id": "b08d88c1-3846-4577-8926-86b2b262529c",
+		"prefix": "",
+		"title": "Een korte biografie van een beroemdheid.",
+		"description": ""
+	},
+	{
+		"id": "b6f4cd75-aa6e-45bc-a95f-811d3841427f",
+		"prefix": "",
+		"title": "Een persoonlijke introductie van iemand op sociale media.",
+		"description": ""
+	},
+	{
+		"id": "c364dcfd-df19-496d-bc1e-c9eec30f7662",
+		"prefix": "",
+		"title": "De beschrijving van een personage in een boek of een film.",
+		"description": ""
+	},
+	{
+		"id": "326ad495-42e6-4ed6-b6c4-4e5889a67fca",
+		"prefix": "",
+		"title": "Een biografische strip.",
+		"description": ""
+	},
+	{
+		"id": "465048b1-26a7-4ee8-aeec-682e0c9862c0",
+		"prefix": "",
+		"title": "Een artikel over de Oscaruitreiking.",
+		"description": ""
+	},
+	{
+		"id": "ee223999-8bf9-429c-b767-3adeb37f199b",
+		"prefix": "",
+		"title": "Het verslag van een landelijke of traditionele feestdag.",
+		"description": ""
+	},
+	{
+		"id": "4fc7b9e2-c344-4818-8275-881b4e0e8424",
+		"prefix": "",
+		"title": "Een kort verslag van een sportwedstrijd.",
+		"description": ""
+	},
+	{
+		"id": "8990987b-a27c-4a0e-b7d4-3f4e3e060f5f",
+		"prefix": "",
+		"title": "Een artikel over de opening van een tentoonstelling of een beurs.",
+		"description": ""
+	},
+	{
+		"id": "d547bffb-e50b-4a56-a5a9-5f3f9c1921a7",
+		"prefix": "",
+		"title": "Manga.",
+		"description": ""
+	},
+	{
+		"id": "5dc88ab6-6ab5-42a4-bcb8-214c5b0f3645",
+		"prefix": "",
+		"title": "Graphic novels.",
+		"description": ""
+	},
+	{
+		"id": "4bdf8710-1ecf-462f-8413-10dd399b4b6e",
+		"prefix": "",
+		"title": "Een artikel over de laatste trends op het gebied van sport of fitness.",
+		"description": ""
+	},
+	{
+		"id": "51d2bd9b-1a99-4b78-9bd1-9d0e04b84a74",
+		"prefix": "",
+		"title": "Een informatiegids van een dierentuin of een vakantiepark.",
+		"description": ""
+	},
+	{
+		"id": "24899ae8-98e4-41d0-9d22-bf3661749dd6",
+		"prefix": "",
+		"title": "De beschrijving van de beste films van het moment.",
+		"description": ""
+	},
+	{
+		"id": "948c19aa-40bb-4cdc-a5ec-3924472c37db",
+		"prefix": "",
+		"title": "Een informatiepagina over de beste nieuwe games.",
+		"description": ""
+	},
+	{
+		"id": "d5699a15-face-41b3-b2bc-6bdf834d02ad",
+		"prefix": "",
+		"title": "Een artikel over de bezienswaardigheden van een plaats.",
+		"description": ""
+	},
+	{
+		"id": "4e9b57d5-d1f7-4f90-bd2b-44fbdb890286",
+		"prefix": "",
+		"title": "Een interview met een getuige van een gebeurtenis.",
+		"description": ""
+	},
+	{
+		"id": "80013dbd-2b32-4d2e-9b7a-1bbef839f2f0",
+		"prefix": "",
+		"title": "Een pagina uit een dagboek.",
+		"description": ""
+	},
+	{
+		"id": "9a4d2ae9-c401-42fb-92a7-fbdb7546a91a",
+		"prefix": "",
+		"title": "Een stadswandeling met een gids.",
+		"description": ""
+	},
+	{
+		"id": "32296058-1e9e-494d-8d00-7b530ea7e799",
+		"prefix": "",
+		"title": "Een reisverslag van een vakantie ervaring.",
+		"description": ""
+	},
+	{
+		"id": "79071676-8bc0-40aa-86d9-5d1fd8f858d9",
+		"prefix": "",
+		"title": "Een artikel over een festival in een krant of magazine.",
+		"description": ""
+	},
+	{
+		"id": "c24c4da7-1619-47f5-98f6-767edc501fe5",
+		"prefix": "",
+		"title": "De verslagen van een reisjournalist.",
+		"description": ""
+	},
+	{
+		"id": "f6337460-e924-4ef1-be77-c42e5e970b70",
+		"prefix": "",
+		"title": "De reiservaringen van een wandelaar.",
+		"description": ""
+	},
+	{
+		"id": "b1e87e06-7820-454a-943c-6946431582ad",
+		"prefix": "",
+		"title": "Een reisblog.",
+		"description": ""
+	},
+	{
+		"id": "96e1ed20-c3e6-49ec-8467-724edd601fcc",
+		"prefix": "",
+		"title": "Een jeugdroman met een eenvoudige opbouw.",
+		"description": ""
+	},
+	{
+		"id": "fb6bdb7f-2914-46a7-afdb-6e0f51a6b780",
+		"prefix": "",
+		"title": "Een meeslepend verhaal.",
+		"description": ""
+	},
+	{
+		"id": "b837f353-18b9-4f5f-b30b-67b547328cc9",
+		"prefix": "",
+		"title": "Een stripboek.",
+		"description": ""
+	},
+	{
+		"id": "73ab13c5-bd61-48d2-9dc8-ac39fbb73d16",
+		"prefix": "",
+		"title": "De recensie van een musical of een concert.",
+		"description": ""
+	},
+	{
+		"id": "a026e07f-ccae-450f-b357-d5c979f5d97a",
+		"prefix": "",
+		"title": "Het juryrapport op de website van een concours.",
+		"description": ""
+	},
+	{
+		"id": "83426fd3-ccee-469e-9998-2e410991295b",
+		"prefix": "",
+		"title": "Een interview in de krant met een schrijver over diens laatste boek.",
+		"description": ""
+	},
+	{
+		"id": "c82d24fe-1a94-4ba8-a28a-53472bd9b67a",
+		"prefix": "",
+		"title": "Een modern gedicht in standaardtaal zonder rijmschema.",
+		"description": ""
+	},
+	{
+		"id": "e847c5c9-15c7-4339-8874-55d423cd347c",
+		"prefix": "",
+		"title": "Een poëtische tekst in een magazine.",
+		"description": ""
+	},
+	{
+		"id": "de616547-7688-4b00-8807-2fe32de14132",
+		"prefix": "",
+		"title": "Een songtekst over tamelijk voorspelbare gevoelens zoals liefdesverdriet.",
+		"description": ""
+	},
+	{
+		"id": "ac276254-c526-4b04-8a7f-81d5364e21ca",
+		"prefix": "",
+		"title": "Literaire thrillers.",
+		"description": ""
+	},
+	{
+		"id": "c3893ffe-cbd5-4bd1-9b31-47c2448ec431",
+		"prefix": "",
+		"title": "Avonturenromans.",
+		"description": ""
+	},
+	{
+		"id": "bc1a80ad-8cda-45da-be21-bae8bf853fed",
+		"prefix": "",
+		"title": "Waargebeurde verhalen.",
+		"description": ""
+	},
+	{
+		"id": "65b542b7-640d-4ee8-8ebc-2538a2f71701",
+		"prefix": "",
+		"title": "Historische fictie.",
+		"description": ""
+	},
+	{
+		"id": "30912ba1-52c5-4109-ab1a-e4fddae8f399",
+		"prefix": "",
+		"title": "Romans met een utopische of dystopische setting.",
+		"description": ""
+	},
+	{
+		"id": "fc3d069a-125d-408a-b0b0-a04853a7c56b",
+		"prefix": "",
+		"title": "Science Fiction.",
+		"description": ""
+	},
+	{
+		"id": "90d33feb-f451-4c7a-b550-77eb79e57e2d",
+		"prefix": "",
+		"title": "Fantasy.",
+		"description": ""
+	},
+	{
+		"id": "085c50c2-f156-4f97-a310-50042c0ed385",
+		"prefix": "",
+		"title": "Populairwetenschappelijke tijdschriften.",
+		"description": ""
+	},
+	{
+		"id": "5d551b2f-ada9-4b7c-a09d-64c3da5d0152",
+		"prefix": "",
+		"title": "Verhalen van eigentijdse schrijvers in heldere standaardtaal.",
+		"description": ""
+	},
+	{
+		"id": "6cca54a7-ffcd-430a-8f96-5eeae5557f12",
+		"prefix": "",
+		"title": "Historische romans.",
+		"description": ""
+	},
+	{
+		"id": "73739b41-c2ce-4632-a71a-f4203312d40b",
+		"prefix": "",
+		"title": "Biografische romans.",
+		"description": ""
+	},
+	{
+		"id": "2acf36be-8232-4af4-9945-54c699b16bfe",
+		"prefix": "",
+		"title": "Songteksten.",
+		"description": ""
+	},
+	{
+		"id": "2834612c-00a6-4fd2-8cc5-18787e4a6595",
+		"prefix": "",
+		"title": "Werken met verschillende maatschappelijke invalshoeken.",
+		"description": ""
+	},
+	{
+		"id": "8d7efcab-247a-432c-a2bf-4376e35e342b",
+		"prefix": "",
+		"title": "Romans met complexe verhaallijnen.",
+		"description": ""
+	},
+	{
+		"id": "e5e6a82f-6ae9-41b1-b6e8-7d855d9f7c9a",
+		"prefix": "",
+		"title": "Reconstructies van maatschappelijke en historische vraagstukken uit de geschiedenis.",
+		"description": ""
+	},
+	{
+		"id": "9b34f152-21c4-49d8-bcb8-bfd47db1ad56",
+		"prefix": "",
+		"title": "Fictie- en non-fictiewerken.",
+		"description": ""
+	},
+	{
+		"id": "a12a4615-874c-4e00-a7d3-bac64efd8161",
+		"prefix": "",
+		"title": "Proza, drama en poëzie.",
+		"description": ""
+	},
+	{
+		"id": "f1a7fa5f-9e2f-40f1-9fe5-0e41928f0579",
+		"prefix": "",
+		"title": "Literaire romans uit verschillende cultuurhistorische perioden en stromingen.",
+		"description": ""
+	},
+	{
+		"id": "10b550b0-22d7-4958-a86e-37bc6ab35751",
+		"prefix": "",
+		"title": "Gedichtenbundels.",
+		"description": ""
+	},
+	{
+		"id": "f8441391-4b0d-4a65-ae3e-a4a31136edce",
+		"prefix": "",
+		"title": "Maatschappelijk geëngageerde fictie en non-fictie.",
+		"description": ""
+	},
+	{
+		"id": "5f7981c2-fb55-4ff1-a8cd-25e74a0f96b3",
+		"prefix": "",
+		"title": "Literaire werken uit verschillende genres en cultuurhistorische perioden.",
+		"description": ""
+	},
+	{
+		"id": "73e8136d-d1b1-4836-90d9-3eb36d02b8b3",
+		"prefix": "",
+		"title": "Gedichten uit verschillende literaire periodes.",
+		"description": ""
+	},
+	{
+		"id": "036a2e01-286c-42a6-b78d-487c50ad9272",
+		"prefix": "",
+		"title": "Werken met veel gebruik van regionale taalvarianten of sociolecten.",
+		"description": ""
+	},
+	{
+		"id": "59ae1b22-bc67-468e-b7f0-2797ad8d18cf",
+		"prefix": "",
+		"title": "Werken over politieke of maatschappelijke onderwerpen met verwijzingen naar cultuur-historische gebeurtenissen.",
+		"description": ""
+	},
+	{
+		"id": "b584b402-374f-4b56-9b85-3099fcb64bb1",
+		"prefix": "",
+		"title": "Wetenschappelijke artikelen.",
+		"description": ""
+	},
+	{
+		"id": "9e7300e7-8670-4215-9df7-f97c038e6468",
+		"prefix": "",
+		"title": "Een moodboard maken bij een werk.",
+		"description": ""
+	},
+	{
+		"id": "6bc07f21-ff27-44b6-aa85-f54268513440",
+		"prefix": "",
+		"title": "Een visuele weergave van woorden maken die je met een werk associeert.",
+		"description": ""
+	},
+	{
+		"id": "f893c4fe-2875-442a-af5a-efe3576497e2",
+		"prefix": "",
+		"title": "Een Booktok maken.",
+		"description": ""
+	},
+	{
+		"id": "3944c21d-8872-4cbb-a806-9292fae8ef54",
+		"prefix": "",
+		"title": "Een korte persoonlijke reactie op een film schrijven op sociale media.",
+		"description": ""
+	},
+	{
+		"id": "aeb50711-ed90-4f33-b003-32da48d27dcd",
+		"prefix": "",
+		"title": "De eigen mening over een boek aan vrienden vertellen.",
+		"description": ""
+	},
+	{
+		"id": "342b8a26-3a4e-40d9-8068-209f8627d585",
+		"prefix": "",
+		"title": "Iemand een film aanraden of afraden.",
+		"description": ""
+	},
+	{
+		"id": "c1b13cfa-2a8d-4bea-8ef2-9277b3d2ddc4",
+		"prefix": "",
+		"title": "De eigen mening over de voorwerpen in een tentoonstelling verwoorden.",
+		"description": ""
+	},
+	{
+		"id": "ed1cd5c5-5d51-48af-b269-55d37bf44941",
+		"prefix": "",
+		"title": "Je ervaringen bij een concert beschrijven.",
+		"description": ""
+	},
+	{
+		"id": "910cf2da-7fde-4ca4-b925-39a2184c330a",
+		"prefix": "",
+		"title": "Beschrijven welk personage in een verhaal het leukst of minst leuk is en waarom.",
+		"description": ""
+	},
+	{
+		"id": "4c01060e-2ed4-4013-9a57-44d06e3f1d74",
+		"prefix": "",
+		"title": "Reacties van personages beschrijven die naar emoties wijzen.",
+		"description": ""
+	},
+	{
+		"id": "70bd061c-767e-4e53-8485-47cd7a302da3",
+		"prefix": "",
+		"title": "Oorzaken van geluk, vrolijkheid, frustratie of jaloezie van een personage verklaren.",
+		"description": ""
+	},
+	{
+		"id": "161918e5-fc85-48b8-8621-47de90d17cae",
+		"prefix": "",
+		"title": "Houding, stem en mimiek van een personage bespreken.",
+		"description": ""
+	},
+	{
+		"id": "8e6f5cb7-cf36-447e-a1b8-489954ccfbcd",
+		"prefix": "",
+		"title": "Vertellen welke veranderingen een personage in het verhaal ondergaat.",
+		"description": ""
+	},
+	{
+		"id": "1b741959-d4cd-4a7e-a720-3a74ded4dc65",
+		"prefix": "",
+		"title": "De verbale en non-verbale signalen van een personage vergelijken met het gedrag.",
+		"description": ""
+	},
+	{
+		"id": "bef4c84e-e061-4ddb-924d-c31cbba4489a",
+		"prefix": "",
+		"title": "Uitleggen waarom je je verbonden voelt met een personage.",
+		"description": ""
+	},
+	{
+		"id": "fd755a78-0ace-47e7-a52c-a3ed771d55b1",
+		"prefix": "",
+		"title": "Eigen gevoelens over de afloop van een film verwoorden.",
+		"description": ""
+	},
+	{
+		"id": "62aa9b91-7ef6-4d04-abb1-0760829778a5",
+		"prefix": "",
+		"title": "De persoonlijke mening verwoorden over een personage in een animatiefilm.",
+		"description": ""
+	},
+	{
+		"id": "f62c77be-6d2e-432d-8e00-c1d4e978bd8d",
+		"prefix": "",
+		"title": "De mooiste foto's uit een expositie of een website becommentariëren.",
+		"description": ""
+	},
+	{
+		"id": "2924ce4d-bf18-479f-b783-b469f1b4af8e",
+		"prefix": "",
+		"title": "De leukste regel van een songtekst uitkiezen en en de keuze uitleggen.",
+		"description": ""
+	},
+	{
+		"id": "5c3a57c9-8ef8-4700-b0f2-f7d12c5f3647",
+		"prefix": "",
+		"title": "Dramatische omstandigheden en hun invloed op personages in een psychologische thriller.",
+		"description": ""
+	},
+	{
+		"id": "e31f1c67-59e7-4b8c-ade5-797d6d731e47",
+		"prefix": "",
+		"title": "Verkeerde keuzes van de hoofdpersonen in een liefdesroman.",
+		"description": ""
+	},
+	{
+		"id": "aa078756-b8b8-43d7-abe4-20f4a43b22f1",
+		"prefix": "",
+		"title": "Dramatische omstandigheden en hun invloed op personages in een psychologische thriller.",
+		"description": ""
+	},
+	{
+		"id": "480b01a1-2f2c-4047-b6f0-cbdd2523f208",
+		"prefix": "",
+		"title": "Verkeerde keuzes van de hoofdpersonen in een liefdesroman.",
+		"description": ""
+	},
+	{
+		"id": "c69817b6-d7ab-4f55-a9f9-d537c36d6b83",
+		"prefix": "",
+		"title": "Angsten en onzekerheden van personages in een young adult roman.",
+		"description": ""
+	},
+	{
+		"id": "00d3e134-464e-4994-b9c5-f13cd115b540",
+		"prefix": "",
+		"title": "Reacties van personages in een avonturenfilm.",
+		"description": ""
+	},
+	{
+		"id": "2f78d86b-85bf-40e9-9863-502ee6928bb4",
+		"prefix": "",
+		"title": "Beschrijven wat je zelf zou doen wanneer je voor het dilemma van het personage zou komen te staan.",
+		"description": ""
+	},
+	{
+		"id": "08f9af1e-0ed7-472d-8755-6190b548aee7",
+		"prefix": "",
+		"title": "Wat de personages in een historisch verhaal meemaken.",
+		"description": ""
+	},
+	{
+		"id": "d1527c1f-400e-44d8-9b30-7eaa12d1f6fb",
+		"prefix": "",
+		"title": "Avonturen in een fantasy boek.",
+		"description": ""
+	},
+	{
+		"id": "ac06b207-7c57-4842-994f-5da9960f1020",
+		"prefix": "",
+		"title": "Een scène uit een comedy.",
+		"description": ""
+	},
+	{
+		"id": "14a34f03-6987-4d97-bf43-490b9ab6aad1",
+		"prefix": "",
+		"title": "Gebeurtenissen in een roman uit een historische literaire stroming vergelijken met de wereld van nu.",
+		"description": ""
+	},
+	{
+		"id": "82e7da1b-8822-408e-881b-b531e50a07cd",
+		"prefix": "",
+		"title": "Tijdens een presentatie over een roman.",
+		"description": ""
+	},
+	{
+		"id": "17077f77-d040-48d2-987d-45698d40fefd",
+		"prefix": "",
+		"title": "Bij een gesprek in een boekenclub.",
+		"description": ""
+	},
+	{
+		"id": "3eaa838b-1fb2-4779-b160-df8a2a3b1366",
+		"prefix": "",
+		"title": "In een onderbouwing uitleggen waarom je je met welk personage kunt identificeren.",
+		"description": ""
+	},
+	{
+		"id": "6bf241d9-b3d0-46e6-943c-d03594473219",
+		"prefix": "",
+		"title": "Een scène uit een film bespreken in een conversatie met vrienden.",
+		"description": ""
+	},
+	{
+		"id": "615b209c-ee37-4572-b3c8-bef7769bef3e",
+		"prefix": "",
+		"title": "Een bericht op sociale media plaatsen over de setting van de laatste aflevering van een serie.",
+		"description": ""
+	},
+	{
+		"id": "da094324-4fda-4b3d-a210-3f2822476684",
+		"prefix": "",
+		"title": "Toelichten welke gebeurtenissen in een boek de meeste indruk maakten en waarom.",
+		"description": ""
+	},
+	{
+		"id": "648bbacd-9005-4c5d-b22c-60e9a1f37f64",
+		"prefix": "",
+		"title": "Spannende of dramatische passages in een verhaal evalueren.",
+		"description": ""
+	},
+	{
+		"id": "623c61bc-a319-4d09-8284-cbf412376c74",
+		"prefix": "",
+		"title": "Het effect van eenvoudige vertel- en dichttechnieken op de lezer bespreken.",
+		"description": ""
+	},
+	{
+		"id": "a7b84d04-10ec-4f04-92cb-a7a93dd8d6b3",
+		"prefix": "",
+		"title": "De overeenkomsten en verschillen tussen een boek en de verfilming ervan toelichten en de eigen voorkeuren beargumenteren.",
+		"description": ""
+	},
+	{
+		"id": "eb2dfbef-e99a-4d28-a97d-e7133585c6a1",
+		"prefix": "",
+		"title": "De mate van herkenning in gevoelens en emoties van de hoofdpersonen verwoorden.",
+		"description": ""
+	},
+	{
+		"id": "ea0e22c7-f9ce-4d1a-91e0-f3b55c8d8d01",
+		"prefix": "",
+		"title": "De eigen reacties op afloop en open einde beschrijven.",
+		"description": ""
+	},
+	{
+		"id": "6510d086-7362-4cbe-92fa-6a71a6cd8b1c",
+		"prefix": "",
+		"title": "De sfeer bespreken die de enscenering van een toneelstuk creëert en welk effect dat op jou heeft.",
+		"description": ""
+	},
+	{
+		"id": "9f6e0622-82f1-42ff-af3d-356af7633e6e",
+		"prefix": "",
+		"title": "Bespreken hoe de spanningsboog zich in een verhaal ontwikkelt en wat het effect op jou is.",
+		"description": ""
+	},
+	{
+		"id": "38182618-ff93-4c89-95ce-12fbb5f11fa8",
+		"prefix": "",
+		"title": "Het thema van een toneelstuk bespreken, hoe het thema in het stuk wordt uitgewerkt en een vergelijking maken met andere bekende werken met hetzelfde thema.",
+		"description": ""
+	},
+	{
+		"id": "ce4321b4-9fc6-4653-9b28-33ea3f6607a6",
+		"prefix": "",
+		"title": "Een dilemma uit een verhaal, mogelijke alternatieve verhaallijnen en mogelijke ontwikkelingen van personages bespreken.",
+		"description": ""
+	},
+	{
+		"id": "f80b5fb0-e901-44e2-abbe-1807fecb911a",
+		"prefix": "",
+		"title": "De ontwikkelingen van een personage in de loop van een verhaal beschrijven en uitleggen wat er verandert en waarom.",
+		"description": ""
+	},
+	{
+		"id": "953c5557-7810-4c71-8358-3a273900584a",
+		"prefix": "",
+		"title": "De eigen mening over gedrag en keuzes van personages in een roman of verhaal bij een boekenclub of een leeskring presenteren.",
+		"description": ""
+	},
+	{
+		"id": "7e4c5952-ccbc-4b7e-87a2-f90f0eba9176",
+		"prefix": "",
+		"title": "De betekenis van specifieke scènes in een boek voor het hele verhaal toelichten.",
+		"description": ""
+	},
+	{
+		"id": "d1562cc3-a8ca-4c7a-9093-51516a4f309e",
+		"prefix": "",
+		"title": "Karakters doorgronden die ver staan van eigen opvattingen of juist overeenkomen of herkenning oproepen.",
+		"description": ""
+	},
+	{
+		"id": "15e9bf45-608d-496b-b601-05b5c632d5bd",
+		"prefix": "",
+		"title": "Gedrag en ontwikkelingen van personages en onderlinge verhoudingen uitleggen en verklaren.",
+		"description": ""
+	},
+	{
+		"id": "b8dfbed4-5644-4042-b10f-7b6edc541e42",
+		"prefix": "",
+		"title": "Diepere en impliciete betekenissen in een werk verwoorden.",
+		"description": ""
+	},
+	{
+		"id": "4192b90c-fdf6-4030-9819-ad909c93bd6e",
+		"prefix": "",
+		"title": "Ingaan op persoonlijke reacties op parallelle of niet chronologische verhaallijnen.",
+		"description": ""
+	},
+	{
+		"id": "ac7d0628-18bf-41ca-ac83-bb54c1129bfe",
+		"prefix": "",
+		"title": "De impact van keuzes voor beeld en geluid in een film op de eigen beleving beschrijven.",
+		"description": ""
+	},
+	{
+		"id": "7197ef12-a910-46b8-acd6-42fcf049adbc",
+		"prefix": "",
+		"title": "Een eigen beargumenteerde duiding geven aan impliciete boodschappen van de auteur.",
+		"description": ""
+	},
+	{
+		"id": "4493f671-3807-4ce7-96de-9ebdaef4d40d",
+		"prefix": "",
+		"title": "Empathie met een personage.",
+		"description": ""
+	},
+	{
+		"id": "015a97b0-a17b-426d-a42b-666f3314591b",
+		"prefix": "",
+		"title": "Een strip in een krant.",
+		"description": ""
+	},
+	{
+		"id": "b09523ac-8b38-4df2-ae47-87c9acad7ded",
+		"prefix": "",
+		"title": "Geschiedenisboeken.",
+		"description": ""
+	},
+	{
+		"id": "96368a6f-e48b-4370-8724-d17c504d68a4",
+		"prefix": "",
+		"title": "Reisverslagen.",
+		"description": ""
+	},
+	{
+		"id": "b7060683-8f23-43e0-9b7a-3b2e7b1659f3",
+		"prefix": "",
+		"title": "Liedteksten en gedichten.",
 		"description": ""
 	}
 ]

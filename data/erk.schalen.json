@@ -583,8 +583,11 @@
 			"b0589947-eb3c-4fb4-838a-19f23b91e8db",
 			"2c73eabf-34e8-4e7e-9595-626bb70ae64e"
 		],
-		"title": "Een persoonlijke reactie op creatieve teksten uitdrukken",
-		"id": "59de7906-e16b-4fb3-9887-6c19a7d6bef9"
+		"title": "Uitdrukken van een persoonlijke reactie op creatieve teksten (waaronder literaire)\n",
+		"id": "59de7906-e16b-4fb3-9887-6c19a7d6bef9",
+		"prefix": "",
+		"description": "",
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -605,8 +608,11 @@
 			"931e78aa-b4c1-4d77-8443-465ffadb3fd5",
 			"bfa4b4d5-fa12-4f7d-9d81-ad063f99d3e4"
 		],
-		"title": "Creatieve teksten analyseren en kritisch evalueren",
-		"id": "4653ae86-aea9-4a1f-b228-8ea08a529afa"
+		"title": "Analyse en kritische waardering van creatieve teksten (waaronder literaire)",
+		"id": "4653ae86-aea9-4a1f-b228-8ea08a529afa",
+		"prefix": "",
+		"description": "",
+		"category": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
