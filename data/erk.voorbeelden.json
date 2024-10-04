@@ -15146,7 +15146,7 @@
 	{
 		"id": "77f47907-dc83-434c-bdb6-ff159edaed16",
 		"prefix": "",
-		"title": "Voorbeeld van een bron - Een presentatie over het jaarverslagen en de toekomstige plannen  van een vereniging of een sportclub.",
+		"title": "Voorbeeld van een bron - Een presentatie over het jaarverslag en de toekomstige plannen  van een vereniging of een sportclub.",
 		"description": ""
 	},
 	{
@@ -17079,6 +17079,12 @@
 		"id": "b7060683-8f23-43e0-9b7a-3b2e7b1659f3",
 		"prefix": "",
 		"title": "Liedteksten en gedichten.",
+		"description": ""
+	},
+	{
+		"id": "ab73f5d1-085b-4cdf-9f3d-c3e12707bbad",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Tijdens een workshop of presentatie aantekeningen maken over relevante informatie voor een werkstuk, een nabespreking of een met het onderwerp verbonden activiteit.",
 		"description": ""
 	}
 ]
