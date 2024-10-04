@@ -3695,7 +3695,7 @@
 		"niveau_id": [
 			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
 		],
-		"title": "Kan een eenvoudige, ruwe mondelinge vertaling (naar taal B) geven van eenvoudige alledaagse woorden en zinnen (geschreven in taal A) op borden en kennisgevingen, posters, programma's, folders enzovoort.",
+		"title": "Kan een eenvoudige, ruwe, mondelinge vertaling (naar taal B) geven van eenvoudige alledaagse woorden en zinnen (geschreven in taal A) op borden en kennisgevingen, posters, programma's, folders enzovoort.",
 		"id": "fdb270ae-322b-4200-ab71-593b7920f18a",
 		"prefix": "",
 		"description": "",
@@ -3717,7 +3717,7 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan een eenvoudige, ruwe mondelinge vertaling (naar taal B) geven van korte, eenvoudige teksten (geschreven in taal A) en daarbij het meest essentiële punt overbrengen.",
+		"title": "Kan een eenvoudige, ruwe, mondelinge vertaling (naar taal B) geven van korte, eenvoudige teksten over een vertrouwd onderwerp (geschreven in taal A) en daarbij het meest essentiële punt overbrengen.",
 		"id": "1cf8f22e-405e-4284-bab6-f4d75e55a9fc",
 		"prefix": "",
 		"description": "",
@@ -3735,7 +3735,7 @@
 		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
-		"title": "Kan een eenvoudige, ruwe mondelinge vertaling (naar taal B) geven van routine-informatie over vertrouwde alledaagse onderwerpen die is geschreven in eenvoudige zinnen (in taal A).",
+		"title": "Kan een eenvoudige, ruwe, mondelinge vertaling (naar taal B) geven van routine-informatie over vertrouwde alledaagse onderwerpen die is geschreven in eenvoudige zinnen (in taal A).",
 		"id": "12005822-1c57-4750-88c8-af163f35c9d9",
 		"prefix": "",
 		"description": "",
@@ -3826,7 +3826,7 @@
 		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
-		"title": "Kan een vloeiende mondelinge vertaling (naar taal B) geven van complexe teksten (geschreven in taal A) over uiteenlopende algemene en gespecialiseerde onderwerpen en daarbij de meeste nuances weergeven.",
+		"title": "Kan een vloeiende, mondelinge vertaling (naar taal B) geven van complexe teksten (geschreven in taal A) over uiteenlopende algemene en gespecialiseerde onderwerpen en daarbij de meeste nuances weergeven.",
 		"id": "23a8d168-f8db-4693-afa7-e46c1ab249f2",
 		"prefix": "",
 		"description": "",
@@ -3843,7 +3843,7 @@
 		"niveau_id": [
 			"2208c586-9043-47c1-b66b-536a50577725"
 		],
-		"title": "Kan een vloeiende mondelinge vertaling (naar taal B) geven van abstracte teksten (geschreven in taal A) over uiteenlopende onderwerpen van persoonlijk, academisch en professioneel belang en daarbij met succes evaluerende aspecten en argumenten overbrengen, met inbegrip van de bijbehorende nuances en implicaties.",
+		"title": "Kan een vloeiende, mondelinge vertaling (naar taal B) geven van abstracte teksten (geschreven in taal A) over uiteenlopende onderwerpen van persoonlijk, academisch en professioneel belang en daarbij met succes evaluerende aspecten en argumenten overbrengen, met inbegrip van de bijbehorende nuances en implicaties.",
 		"id": "c3a33e7f-bb54-40d0-b4bc-e2f5201a2535",
 		"prefix": "",
 		"description": "",
