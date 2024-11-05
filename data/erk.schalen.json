@@ -16,8 +16,7 @@
 			"a5f57db6-22c9-4080-911f-359e6694b32d",
 			"752a4889-ed8f-4152-be2e-0ba45033735e",
 			"20e84aea-29a8-4ea0-9c0d-cfe48570ba06"
-		],
-		"category": ""
+		]
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -42,8 +41,7 @@
 		"algemeen": true,
 		"id": "6b7ef9da-3d67-45e7-9aec-6a70c8e7ab73",
 		"prefix": "",
-		"description": "",
-		"category": ""
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -436,8 +434,7 @@
 		"title": "Specifieke informatie doorgeven in geschreven taal",
 		"id": "3c802231-529e-4d76-9aab-40eae8225fe8",
 		"prefix": "",
-		"description": "",
-		"category": ""
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -454,8 +451,7 @@
 		"title": "Mondeling gegevens uitleggen",
 		"id": "288b6f87-8d9e-4c03-b887-d7781510db71",
 		"prefix": "",
-		"description": "",
-		"category": ""
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -471,8 +467,7 @@
 		"title": "Schriftelijk gegevens uitleggen",
 		"id": "5ec53958-4390-49c0-b4bc-35e24e631d85",
 		"prefix": "",
-		"description": "",
-		"category": ""
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -509,8 +504,7 @@
 		"title": "Mondeling tekst verwerken",
 		"id": "97154fe6-5225-4793-bb6e-9d68910e78b3",
 		"prefix": "",
-		"description": "",
-		"category": ""
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -536,8 +530,7 @@
 		"title": "Schriftelijk tekst verwerken",
 		"id": "e2b6da00-13a1-42c8-af8a-13ff4a5b5392",
 		"prefix": "",
-		"description": "",
-		"category": ""
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -585,8 +578,7 @@
 		"title": "Uitdrukken van een persoonlijke reactie op creatieve teksten (waaronder literaire)\n",
 		"id": "59de7906-e16b-4fb3-9887-6c19a7d6bef9",
 		"prefix": "",
-		"description": "",
-		"category": ""
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -610,8 +602,7 @@
 		"title": "Analyse en kritische waardering van creatieve teksten (waaronder literaire)",
 		"id": "4653ae86-aea9-4a1f-b228-8ea08a529afa",
 		"prefix": "",
-		"description": "",
-		"category": ""
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -888,8 +879,7 @@
 		"title": "Monoloog: ervaringen beschrijven",
 		"id": "9e9f5b26-13da-410f-886a-1e2dbb05b2ff",
 		"prefix": "",
-		"description": "",
-		"category": ""
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -933,8 +923,7 @@
 		"title": "Monoloog: een pleidooi houden (bijvoorbeeld in een debat)",
 		"id": "d8b05f01-6979-4c4e-8be1-c1cae7e065f7",
 		"prefix": "",
-		"description": "",
-		"category": ""
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1006,8 +995,7 @@
 		"title": "Verslagen en essays",
 		"id": "194edda5-0ddd-483f-ad19-8d0ca77cef60",
 		"prefix": "",
-		"description": "",
-		"category": ""
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1101,8 +1089,7 @@
 		"title": "Informatie-uitwisseling",
 		"id": "f3cd3e9f-d4c1-447c-99b6-ecafe851bc27",
 		"prefix": "",
-		"description": "",
-		"category": ""
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1237,8 +1224,7 @@
 			"9c2527c0-dd36-49d0-a664-3903d0561ebb",
 			"26c46aab-a8fc-4344-aab0-629a737f7215",
 			"4eeb0a15-7980-413c-84d0-c24bdb8bb89a"
-		],
-		"category": ""
+		]
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1389,8 +1375,7 @@
 		"description": "",
 		"replaces": [
 			"c7fc2181-3edb-43ff-9302-4477cc6de76e"
-		],
-		"category": ""
+		]
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1546,8 +1531,7 @@
 		"description": "",
 		"replaces": [
 			"f84f75e7-1ba0-4694-b9cf-8bafe075d3cb"
-		],
-		"category": ""
+		]
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1599,8 +1583,7 @@
 		"description": "",
 		"replaces": [
 			"888afb31-15ae-489e-99f4-27a3bcac1863"
-		],
-		"category": ""
+		]
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1630,8 +1613,7 @@
 			"763a4d0a-b18b-4da3-b664-6bf2cdf2f237"
 		],
 		"prefix": "",
-		"description": "",
-		"category": ""
+		"description": ""
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1659,8 +1641,7 @@
 		"description": "",
 		"replaces": [
 			"2f6b5a57-8b14-4834-afdd-cbf4638b6d71"
-		],
-		"category": ""
+		]
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1685,8 +1666,7 @@
 		"description": "",
 		"replaces": [
 			"d78f5af9-1b28-4f68-bab2-f6ecff7807e9"
-		],
-		"category": ""
+		]
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -1712,8 +1692,7 @@
 		"description": "",
 		"replaces": [
 			"237545d1-b66f-4fe7-9b45-b3bb7f127563"
-		],
-		"category": ""
+		]
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -2031,8 +2010,7 @@
 		"description": "",
 		"replaces": [
 			"a26a7f2d-328b-456e-8f36-6444bdf118f4"
-		],
-		"category": ""
+		]
 	},
 	{
 		"erk_candobeschrijving_id": [
@@ -2062,7 +2040,6 @@
 			"6af43835-e5e6-464b-bfd6-4901e06b9bba"
 		],
 		"prefix": "",
-		"description": "",
-		"category": ""
+		"description": ""
 	}
 ]
