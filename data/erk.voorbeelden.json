@@ -13418,7 +13418,7 @@
 	{
 		"id": "1cf36346-6525-47db-a20a-fc8cf9cddeab",
 		"prefix": "",
-		"title": "Voorbeeld van een bron - Een kort bericht op een online sociaal netwerk.",
+		"title": "Voorbeeld van een bron - Een kort bericht op sociale media.",
 		"description": ""
 	},
 	{
@@ -13490,7 +13490,7 @@
 	{
 		"id": "bb64fb2c-5476-42f4-aeec-788f9b583d36",
 		"prefix": "",
-		"title": "Voorbeeld van een activiteit - Kort vertellen wat de hoogtepunten tijdens een rondleiding zijn uit de folder.",
+		"title": "Voorbeeld van een activiteit - Kort vertellen wat de hoogtepunten zijn van een rondleiding.",
 		"description": ""
 	},
 	{
@@ -13580,7 +13580,7 @@
 	{
 		"id": "19bd3bf6-6ccb-4073-bc7a-8cbbc86405ac",
 		"prefix": "",
-		"title": "Voorbeeld van een bron - Een reportage op het web.",
+		"title": "Voorbeeld van een bron - Een reportage op een website.",
 		"description": ""
 	},
 	{
@@ -13874,7 +13874,7 @@
 	{
 		"id": "685e12a9-1972-422a-ace2-70f5b0def93a",
 		"prefix": "",
-		"title": "Voorbeeld van een bron - Films en series van verschillende genres, bijvoorbeeld actiefilms, thriller, sci-fi, romantiek.",
+		"title": "Voorbeeld van een bron - Films en series van verschillende genres, bijvoorbeeld actiefilms, thriller, sci-fi, horror.",
 		"description": ""
 	},
 	{
@@ -13952,7 +13952,7 @@
 	{
 		"id": "2f305baf-80a2-49f7-8b30-345d2f53563d",
 		"prefix": "",
-		"title": "Voorbeeld van een bron - Een column in een blad.",
+		"title": "Voorbeeld van een bron - Een column in een tijdschrift.",
 		"description": ""
 	},
 	{
@@ -13976,7 +13976,7 @@
 	{
 		"id": "4a1ab1a7-e206-45c7-b3ba-8b597985cf22",
 		"prefix": "",
-		"title": "Voorbeeld van een activiteit - De framing/het denkraam van een journalistiek verslag herkennen en beschrijven.",
+		"title": "Voorbeeld van een activiteit - De framing van een journalistiek verslag herkennen en beschrijven.",
 		"description": ""
 	},
 	{
@@ -14150,7 +14150,7 @@
 	{
 		"id": "9afcc690-92d1-4231-9904-65adc2005dfd",
 		"prefix": "",
-		"title": "Voorbeeld van een activiteit - Een presentatie geven over hoe mensen in verschillende landen omgaan met een ethische of maatschappelijke kwestie zoals bijvoorbeeld gendergelijkheid.",
+		"title": "Voorbeeld van een activiteit - Een presentatie geven over hoe mensen in verschillende landen omgaan met een ethische of maatschappelijke kwesties.",
 		"description": ""
 	},
 	{
@@ -14816,7 +14816,7 @@
 	{
 		"id": "c00023ce-a37d-41cb-8793-9ba682dcfc2c",
 		"prefix": "",
-		"title": "Voorbeeld van een bron - Artikelen en fake news over technologische ontwikkelingen.",
+		"title": "Voorbeeld van een bron - Artikelen en nepnieuws over technologische ontwikkelingen.",
 		"description": ""
 	},
 	{
@@ -15146,7 +15146,7 @@
 	{
 		"id": "77f47907-dc83-434c-bdb6-ff159edaed16",
 		"prefix": "",
-		"title": "Voorbeeld van een bron - Een presentatie over het jaarverslagen en de toekomstige plannen  van een vereniging of een sportclub.",
+		"title": "Voorbeeld van een bron - Een presentatie over het jaarverslag en de toekomstige plannen  van een vereniging of een sportclub.",
 		"description": ""
 	},
 	{
@@ -15506,7 +15506,7 @@
 	{
 		"id": "257bc52a-6e9c-42b4-8479-e63c7b894b35",
 		"prefix": "",
-		"title": "Voorbeeld van een activiteit - Informatie over een sportevenement dat je mede-organiseert vertalen voor een buitenlandse vriend.",
+		"title": "Voorbeeld van een activiteit - Informatie over een sportevenement, dat je mede-organiseert, vertalen voor een buitenlandse vriend.",
 		"description": ""
 	},
 	{
@@ -17079,6 +17079,12 @@
 		"id": "b7060683-8f23-43e0-9b7a-3b2e7b1659f3",
 		"prefix": "",
 		"title": "Liedteksten en gedichten.",
+		"description": ""
+	},
+	{
+		"id": "ab73f5d1-085b-4cdf-9f3d-c3e12707bbad",
+		"prefix": "",
+		"title": "Voorbeeld van een activiteit - Tijdens een workshop of presentatie aantekeningen maken over relevante informatie voor een werkstuk, een nabespreking of een met het onderwerp verbonden activiteit.",
 		"description": ""
 	}
 ]
