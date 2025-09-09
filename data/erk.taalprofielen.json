@@ -130,7 +130,6 @@
 			"84c0e01a-b06d-4ae0-abc8-9f0e19bed1d1",
 			"2248310b-a8f4-43e2-9134-0bfe57eb3ea2",
 			"9ad3c66b-c24f-4550-a395-9e6ab092ae74",
-			"d39d33ff-4b79-4a91-81f3-62ae431c351e",
 			"5799b433-cf4a-446a-87d0-758dc5396f3c",
 			"46da4dbb-119f-4e60-b123-f8489eb6a973",
 			"f3cd3e9f-d4c1-447c-99b6-ecafe851bc27",
@@ -158,10 +157,7 @@
 			"bd84c917-4e9c-40af-a1f4-79c81b1de7ea",
 			"b5fa8270-82cb-4caf-85af-771dae587ce5",
 			"c7e36039-a22b-4493-9463-3640568c7ff8",
-			"d39d33ff-4b79-4a91-81f3-62ae431c351e",
-			"56b546a4-2e91-4666-b608-1bd95cd20191",
 			"43c6393f-a27c-4499-8bbd-13439c68d994",
-			"e4386ae9-5148-46db-a9e3-fba6ab3d08a8",
 			"4d3158af-be89-467f-8009-64703e7e2f10",
 			"cf9b8ada-1bda-4ebf-a82d-8334fb8f309e",
 			"7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e"
@@ -198,7 +194,7 @@
 		]
 	},
 	{
-		"title": "Mediation van teksten",
+		"title": "Mediation",
 		"id": "9e3f3cac-8178-42fd-bf97-2cbbc6989332",
 		"prefix": "",
 		"description": "",
@@ -230,7 +226,7 @@
 		]
 	},
 	{
-		"title": "Fictie",
+		"title": "Fictie waaronder Literatuur",
 		"id": "38099198-619a-4453-9dad-5ca5b0ba5782",
 		"prefix": "",
 		"description": "",

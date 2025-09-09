@@ -1,5 +1,20 @@
 [
 	{
+		"vakleergebied_id": "1a3a03fd-d468-4e1f-ae5b-94d03c5061ee",
+		"title": "Arabisch",
+		"id": "34808a13-c3fe-4df6-b439-1afca5e7db21",
+		"prefix": "",
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
+	},
+	{
 		"vakleergebied_id": "1f7aa29f-38d8-4dab-91db-3be52669951f",
 		"title": "Chinees",
 		"id": "bb62d010-92ff-465f-a947-d5ebc27e53a5",
@@ -134,24 +149,6 @@
 			"8450c011-f812-4f89-97a9-6b8820baffc5",
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"vakleergebied_id": "479f67ad-ec21-41ff-bd73-902d300468d0",
-		"title": "Arabisch",
-		"id": "74d1cca8-765f-4913-a1cd-90f175178d37",
-		"prefix": "",
-		"description": "",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5",
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"replaces": [
-			"34808a13-c3fe-4df6-b439-1afca5e7db21"
 		]
 	}
 ]

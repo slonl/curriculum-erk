@@ -57,6 +57,27 @@
 	},
 	{
 		"erk_schaal_id": [
+			"1c11e637-5eaf-45f3-8410-44a6a75c1006",
+			"3c802231-529e-4d76-9aab-40eae8225fe8",
+			"288b6f87-8d9e-4c03-b887-d7781510db71",
+			"5ec53958-4390-49c0-b4bc-35e24e631d85",
+			"97154fe6-5225-4793-bb6e-9d68910e78b3",
+			"e2b6da00-13a1-42c8-af8a-13ff4a5b5392",
+			"eb3a241a-afa5-4c42-8e33-89fc52ed29bb",
+			"274c92c2-56cb-4cf3-8039-b791ee79f595",
+			"a14a5054-9279-4da8-b56e-64e64fec6e69"
+		],
+		"title": "Mediation van teksten",
+		"category": "Teksten",
+		"id": "8c8cab3b-1836-4004-b00d-6f9cb2b79d1d",
+		"prefix": "",
+		"description": "",
+		"replaces": [
+			"debbe411-e0f9-416e-9a75-dcd2af41556b"
+		]
+	},
+	{
+		"erk_schaal_id": [
 			"6b7ef9da-3d67-45e7-9aec-6a70c8e7ab73",
 			"8a050ffb-4f9b-4533-b9ca-e679cd10e72e",
 			"7b6ce918-952b-4ee7-931e-2ab5b4cec3b9",
@@ -105,31 +126,11 @@
 	},
 	{
 		"erk_schaal_id": [
-			"1c11e637-5eaf-45f3-8410-44a6a75c1006",
-			"3c802231-529e-4d76-9aab-40eae8225fe8",
-			"288b6f87-8d9e-4c03-b887-d7781510db71",
-			"5ec53958-4390-49c0-b4bc-35e24e631d85",
-			"97154fe6-5225-4793-bb6e-9d68910e78b3",
-			"e2b6da00-13a1-42c8-af8a-13ff4a5b5392",
-			"eb3a241a-afa5-4c42-8e33-89fc52ed29bb",
-			"274c92c2-56cb-4cf3-8039-b791ee79f595",
-			"a14a5054-9279-4da8-b56e-64e64fec6e69"
-		],
-		"title": "Mediation van teksten",
-		"id": "8c8cab3b-1836-4004-b00d-6f9cb2b79d1d",
-		"prefix": "",
-		"description": "",
-		"replaces": [
-			"debbe411-e0f9-416e-9a75-dcd2af41556b"
-		]
-	},
-	{
-		"erk_schaal_id": [
 			"e4386ae9-5148-46db-a9e3-fba6ab3d08a8",
 			"8071a4c5-bbf1-4f88-a55f-4f9f7f91f2a8",
 			"19cbc7e0-7747-4f96-9737-6fecc6308414"
 		],
-		"category": "Mediation van communicatie",
+		"category": "Communicatie",
 		"title": "Mediation van communicatie",
 		"id": "f79460fd-a90d-40ad-9950-e07d896d04f2",
 		"replaces": [
@@ -143,7 +144,7 @@
 			"e39d1e09-4773-454f-84f7-b6c45a191926",
 			"f86eb171-d684-4e6d-b403-f4e6dd343ae5"
 		],
-		"category": "Mediation van concepten",
+		"category": "Concepten",
 		"title": "Mediation van concepten",
 		"id": "3eee4dab-75e9-42f6-9719-32a38aef17dc",
 		"replaces": [
