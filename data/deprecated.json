@@ -3996,5 +3996,103 @@
 		"types": [
 			"erk_lesidee"
 		]
+	},
+	{
+		"vakleergebied_id": "91e9afb9-a8ab-4fde-aa97-9884a8920b78",
+		"title": "Duits",
+		"id": "51f8978f-ea5c-4774-bc1d-54caa5e686e2",
+		"prefix": "",
+		"description": "",
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"f7def6ee-8cff-4215-9b28-f1915d9ac81e"
+		],
+		"types": [
+			"erk_vakleergebied"
+		]
+	},
+	{
+		"vakleergebied_id": "f851676e-b541-42db-986a-5c468974f65e",
+		"title": "Frans",
+		"id": "c566ca41-dbdf-4ee7-9342-1ae8aaca5c57",
+		"prefix": "",
+		"description": "",
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"1a8ecae5-8c34-4eae-9ccc-5978faaf061e"
+		],
+		"types": [
+			"erk_vakleergebied"
+		]
+	},
+	{
+		"vakleergebied_id": "d1797e77-8eb0-4ebd-83f7-f95c7f46fcd7",
+		"title": "Italiaans",
+		"id": "88c41d23-3ec8-48e9-9f2e-8f32743a2035",
+		"prefix": "",
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"f3491752-c99b-4db4-aa5f-150df20579e5"
+		],
+		"types": [
+			"erk_vakleergebied"
+		]
+	},
+	{
+		"vakleergebied_id": "73abc618-988a-4409-b2ae-ff16febf68ee",
+		"title": "Spaans",
+		"id": "f0e1e794-23be-49b7-876d-7521b2572c0c",
+		"prefix": "",
+		"description": "",
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"02247577-8e85-426c-8473-f8c1d49b3599"
+		],
+		"types": [
+			"erk_vakleergebied"
+		]
 	}
 ]
