@@ -9236,7 +9236,8 @@
 			"1562d85c-893c-42e9-b838-a3c98ea5f8e7"
 		],
 		"title": "Kan duidelijke, samenhangende verhalen vertellen.",
-		"id": "a0665bea-df26-49c8-9df4-072c65d47fd6"
+		"id": "a0665bea-df26-49c8-9df4-072c65d47fd6",
+		"deleted": true
 	},
 	{
 		"niveau_id": [
@@ -9275,7 +9276,8 @@
 			"b9d959b6-2196-4c0f-aaf5-4d4cd25b55aa"
 		],
 		"title": "Kan lange en ingewikkelde verhalen vertellen.",
-		"id": "e16889fa-16fb-4434-a9c8-559ad564d4c4"
+		"id": "e16889fa-16fb-4434-a9c8-559ad564d4c4",
+		"deleted": true
 	},
 	{
 		"niveau_id": [
@@ -9840,7 +9842,8 @@
 			"d9fc2b2c-51ca-4157-8809-b3bfaba1c63d"
 		],
 		"title": "Kan in het kort zaken uitleggen en toelichten.",
-		"id": "001dc9a3-2aa1-48bb-a9d8-5f4c769b5e4c"
+		"id": "001dc9a3-2aa1-48bb-a9d8-5f4c769b5e4c",
+		"deleted": true
 	},
 	{
 		"niveau_id": [
@@ -13751,7 +13754,8 @@
 			"70ee5f05-8156-47d6-94eb-c13908814b6b"
 		],
 		"title": "Kan zeer korte en eenvoudige notities maken.",
-		"id": "7b5b22da-47af-435a-b61b-8c7b9870736d"
+		"id": "7b5b22da-47af-435a-b61b-8c7b9870736d",
+		"deleted": true
 	},
 	{
 		"niveau_id": [
@@ -13762,7 +13766,8 @@
 			"05487d8a-b910-4531-bcb6-b5e516267fdf"
 		],
 		"title": "Kan een eenvoudige lijst met vragen over  zichzelf invullen.",
-		"id": "5822997e-750e-412f-bc99-9e8f7c879b1e"
+		"id": "5822997e-750e-412f-bc99-9e8f7c879b1e",
+		"deleted": true
 	},
 	{
 		"niveau_id": [
@@ -13813,7 +13818,8 @@
 			"c90e648d-c4f9-4238-b8d5-0e69186d73dd"
 		],
 		"title": "Kan eenvoudige en korte notities maken voor zichzelf.",
-		"id": "519182a3-8bb6-4600-88ef-8407abd970d2"
+		"id": "519182a3-8bb6-4600-88ef-8407abd970d2",
+		"deleted": true
 	},
 	{
 		"niveau_id": [
@@ -13842,7 +13848,8 @@
 		"title": "Kan formulieren waarin om meer informatie gevraagd wordt gedetailleerd invullen.",
 		"id": "20bfabb4-aaa3-411f-ab7e-649e86912642",
 		"prefix": "",
-		"description": ""
+		"description": "",
+		"deleted": true
 	},
 	{
 		"niveau_id": [
@@ -15285,7 +15292,8 @@
 		"id": "ec0b1cd8-0cc9-4d76-add2-7cb87cedb170",
 		"prefix": "",
 		"title": "Kan eenvoudige en korte notities maken voor anderen.",
-		"description": ""
+		"description": "",
+		"deleted": true
 	},
 	{
 		"niveau_id": [

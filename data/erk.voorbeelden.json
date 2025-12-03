@@ -565,11 +565,13 @@
 	},
 	{
 		"title": "Een stelling op een krantensite met de diverse reacties (DL).",
-		"id": "f48e8571-5079-4c6b-82bb-8abbc1a54930"
+		"id": "f48e8571-5079-4c6b-82bb-8abbc1a54930",
+		"deleted": true
 	},
 	{
 		"title": "Een opiniërend artikel over de arbeidsmarktrelevantie van een toekomstige studie (OPL, WE).",
-		"id": "597a4ca7-1739-4c1c-91fd-2053f8b1b4b3"
+		"id": "597a4ca7-1739-4c1c-91fd-2053f8b1b4b3",
+		"deleted": true
 	},
 	{
 		"title": "Materiaal voor een eigen onderzoeksproject, het profielwerkstuk of het honoursprogramma van de school.",
@@ -1365,15 +1367,18 @@
 	},
 	{
 		"title": "Een familielid beschrijven (DL).",
-		"id": "960939d3-1df1-493d-9f2f-28215b143331"
+		"id": "960939d3-1df1-493d-9f2f-28215b143331",
+		"deleted": true
 	},
 	{
 		"title": "Je klas, je school of een medeleerling beschrijven (OPL).",
-		"id": "fc042d6e-e360-4a2e-a233-86f167dee3ec"
+		"id": "fc042d6e-e360-4a2e-a233-86f167dee3ec",
+		"deleted": true
 	},
 	{
 		"title": "Een medeleerling (OPL).",
-		"id": "31b6d5b8-f9e8-4183-b7f3-baa010d115ab"
+		"id": "31b6d5b8-f9e8-4183-b7f3-baa010d115ab",
+		"deleted": true
 	},
 	{
 		"title": "Iemands uiterlijk.",
@@ -1401,7 +1406,8 @@
 	},
 	{
 		"title": "De weg van huis naar werkplek of school (OPL).",
-		"id": "30707a5a-d13f-4ddc-8928-07a268fbc4ca"
+		"id": "30707a5a-d13f-4ddc-8928-07a268fbc4ca",
+		"deleted": true
 	},
 	{
 		"title": "Een plek waar je met iemand afspreekt.",
@@ -1489,7 +1495,8 @@
 	},
 	{
 		"title": "Afspraken met je gastgezin over de tijd waarop je thuiskomt na een avond stappen (DL).",
-		"id": "ec24b6e7-83f2-4c3e-b199-b7016848130b"
+		"id": "ec24b6e7-83f2-4c3e-b199-b7016848130b",
+		"deleted": true
 	},
 	{
 		"title": "Vertellen hoe je ochtendritueel verloopt.",
@@ -1781,19 +1788,23 @@
 	},
 	{
 		"title": "Iets wat je gehoord, gelezen of gezien hebt in samenvatting doorvertellen (XX).",
-		"id": "516adfd2-c046-4e64-ac16-6ec0634c4e95"
+		"id": "516adfd2-c046-4e64-ac16-6ec0634c4e95",
+		"deleted": true
 	},
 	{
 		"title": "Aan vrienden een belangrijk voorval uit je jeugd vertellen (DL).",
-		"id": "6758a366-64da-47c1-8a1b-7902b44c8699"
+		"id": "6758a366-64da-47c1-8a1b-7902b44c8699",
+		"deleted": true
 	},
 	{
 		"title": "Bij de afsluiting van een uitwisselingsproject met studenten een leuk verhaal vertellen over de start van het project (OPL).",
-		"id": "d6bc92f0-c12c-4309-bcaa-0ca7bfe433f1"
+		"id": "d6bc92f0-c12c-4309-bcaa-0ca7bfe433f1",
+		"deleted": true
 	},
 	{
 		"title": "Iets vertellen over toekomstige ontwikkelingen (DL, OPL, WE).",
-		"id": "1562d85c-893c-42e9-b838-a3c98ea5f8e7"
+		"id": "1562d85c-893c-42e9-b838-a3c98ea5f8e7",
+		"deleted": true
 	},
 	{
 		"title": "Verslag doen van het mislukken van een project en oorzaken daarvoor aangeven.",
@@ -1845,11 +1856,13 @@
 	},
 	{
 		"title": "Een sprookje, sage of legende uit het eigen land uitgebreid vertellen (DL, OPL).",
-		"id": "b5706e04-cb46-4ca5-84de-4fc39f55f1a9"
+		"id": "b5706e04-cb46-4ca5-84de-4fc39f55f1a9",
+		"deleted": true
 	},
 	{
 		"title": "De verhaallijn van een tv-serie navertellen (DL).",
-		"id": "b9d959b6-2196-4c0f-aaf5-4d4cd25b55aa"
+		"id": "b9d959b6-2196-4c0f-aaf5-4d4cd25b55aa",
+		"deleted": true
 	},
 	{
 		"title": "Als reisleider in een gepassioneerde toespraak aan vertegenwoordigers van milieuorganisaties de eigen ervaringen presenteren met betrekking tot duurzaam reizen.",
@@ -1973,15 +1986,18 @@
 	},
 	{
 		"title": "Op een optreden in enkele zinnen een spreker aankondigen (OPL, WE).",
-		"id": "1480659d-a391-4b35-9cb4-bfc6c2aa5792"
+		"id": "1480659d-a391-4b35-9cb4-bfc6c2aa5792",
+		"deleted": true
 	},
 	{
 		"title": "Een toost op iemand uitbrengen (PU, WE).",
-		"id": "ab557581-a83d-4ac7-aa2d-68f39d19b0fa"
+		"id": "ab557581-a83d-4ac7-aa2d-68f39d19b0fa",
+		"deleted": true
 	},
 	{
 		"title": "Tijdens een bezoek van of aan buitenlandse gasten een kort welkomst- of dankwoord oplezen (XX).",
-		"id": "6c8f91bf-3a7a-4b58-9739-3b2c6b82c441"
+		"id": "6c8f91bf-3a7a-4b58-9739-3b2c6b82c441",
+		"deleted": true
 	},
 	{
 		"title": "Een klasgenoot introduceren in een paar woorden.",
@@ -2045,23 +2061,28 @@
 	},
 	{
 		"title": "Waarom je gekozen hebt voor een bepaalde sport, een bepaald vak of profiel (OPL, DL).",
-		"id": "04d27102-d605-4fa5-adcf-e8718adcc391"
+		"id": "04d27102-d605-4fa5-adcf-e8718adcc391",
+		"deleted": true
 	},
 	{
 		"title": "Waarom je op een bepaalde dag niet aanwezig kunt zijn en toelichten waarom niet (OPL, WE).",
-		"id": "592afecc-68f7-44e9-b982-27595512cf9a"
+		"id": "592afecc-68f7-44e9-b982-27595512cf9a",
+		"deleted": true
 	},
 	{
 		"title": "Over een reis die je gaat maken na je eindexamen en waarom juist die reis (DL, OPL).",
-		"id": "52fed7ea-4a17-4fd5-a66e-d82cf2f6e980"
+		"id": "52fed7ea-4a17-4fd5-a66e-d82cf2f6e980",
+		"deleted": true
 	},
 	{
 		"title": "Waarom je iemand iets bepaalds wilt laten zien (DL, OPL, WE).",
-		"id": "83a08aed-0c57-4deb-aab8-b91357833153"
+		"id": "83a08aed-0c57-4deb-aab8-b91357833153",
+		"deleted": true
 	},
 	{
 		"title": "In een werkoverleg uitleggen waarom bepaalde werkzaamheden op een andere manier uitgevoerd moeten worden en waarom (WE).",
-		"id": "d9fc2b2c-51ca-4157-8809-b3bfaba1c63d"
+		"id": "d9fc2b2c-51ca-4157-8809-b3bfaba1c63d",
+		"deleted": true
 	},
 	{
 		"title": "Een mening geven over een specialistisch onderwerp als abortus, euthanasie en softdrugspolitiek.",
@@ -2795,7 +2816,8 @@
 	},
 	{
 		"title": "Uitdrukkingen om iemand te beschrijven (DL).",
-		"id": "077caae8-0d46-470c-bbd4-b4f9456ca1d7"
+		"id": "077caae8-0d46-470c-bbd4-b4f9456ca1d7",
+		"deleted": true
 	},
 	{
 		"title": "Begrijpen wat iets kost, om welke hoeveelheid het gaat.",
@@ -2835,7 +2857,8 @@
 	},
 	{
 		"title": "In een videogesprek via sociale media (DL).",
-		"id": "8f315e05-0a10-4f3b-9a41-e29333d6d2b1"
+		"id": "8f315e05-0a10-4f3b-9a41-e29333d6d2b1",
+		"deleted": true
 	},
 	{
 		"title": "In een gesprek met een uitwisselingsstudent of met leden van het gastgezin.",
@@ -3143,11 +3166,13 @@
 	},
 	{
 		"title": "Vertellen of je het leuk vindt in het vakantieland (DL).",
-		"id": "fd7ec8ca-0784-4289-af13-d1d40de8c15b"
+		"id": "fd7ec8ca-0784-4289-af13-d1d40de8c15b",
+		"deleted": true
 	},
 	{
 		"title": "Reageren als iemand je vraagt wat je wilt drinken (DL).",
-		"id": "79b7af33-3d94-4f76-b879-1f99b2a4b0b6"
+		"id": "79b7af33-3d94-4f76-b879-1f99b2a4b0b6",
+		"deleted": true
 	},
 	{
 		"title": "Wat je in je vrije tijd doet.",
@@ -3163,7 +3188,8 @@
 	},
 	{
 		"title": "Over het lesrooster, het huiswerk of een toets (OPL).",
-		"id": "14f89448-1adb-4c63-91b0-966389c394c4"
+		"id": "14f89448-1adb-4c63-91b0-966389c394c4",
+		"deleted": true
 	},
 	{
 		"title": "De training of een wedstrijdschema.",
@@ -3173,7 +3199,8 @@
 	},
 	{
 		"title": "Over een game (DL).",
-		"id": "87dbd16d-4ccc-4043-b39b-fdb76bcfa641"
+		"id": "87dbd16d-4ccc-4043-b39b-fdb76bcfa641",
+		"deleted": true
 	},
 	{
 		"title": "Werktijden.",
@@ -3213,7 +3240,8 @@
 	},
 	{
 		"title": "De wens uiten om mee te doen met een spel of opdracht (DL, OPL).",
-		"id": "7667bd88-8bc8-4fcd-b6fd-61de8e1fd3d4"
+		"id": "7667bd88-8bc8-4fcd-b6fd-61de8e1fd3d4",
+		"deleted": true
 	},
 	{
 		"title": "In een winkel aangeven waarom je een product niet wilt kopen.",
@@ -3649,7 +3677,8 @@
 	},
 	{
 		"title": "In een sollicitatiegesprek uitleggen waarom jij de meest geschikte kandidaat bent voor een baan of stage (WE, OPL).",
-		"id": "93f6393d-967d-4776-b752-7e70c6ffe0e5"
+		"id": "93f6393d-967d-4776-b752-7e70c6ffe0e5",
+		"deleted": true
 	},
 	{
 		"title": "Aan een scholierendebat deelnemen over het verplicht huisvesten van immigranten in verschillende wijken.",
@@ -3773,7 +3802,8 @@
 	},
 	{
 		"title": "Iemand bedanken voor een aanwijzing (PU).",
-		"id": "fd4577a3-71ee-401f-a870-dfc83714cbcc"
+		"id": "fd4577a3-71ee-401f-a870-dfc83714cbcc",
+		"deleted": true
 	},
 	{
 		"title": "Taken verdelen voor de voorbereiding van een feestje of een barbecue.",
@@ -3969,7 +3999,8 @@
 	},
 	{
 		"title": "Tijdens een buitenlandse stage een dag vrij vragen of een dienst ruilen (OPL, WE).",
-		"id": "7fbcb964-c026-4028-8f2e-a76bd30dccaa"
+		"id": "7fbcb964-c026-4028-8f2e-a76bd30dccaa",
+		"deleted": true
 	},
 	{
 		"title": "Vragen naar aankomst- of vertrektijden van een trein of bus.",
@@ -4093,7 +4124,8 @@
 	},
 	{
 		"title": "Telefonisch een pizza bestellen (PU).",
-		"id": "49fc2228-3641-4d23-bfa6-67746e4cf560"
+		"id": "49fc2228-3641-4d23-bfa6-67746e4cf560",
+		"deleted": true
 	},
 	{
 		"title": "Eten in een restaurant bestellen.",
@@ -4157,15 +4189,18 @@
 	},
 	{
 		"title": "Een diefstal of het verlies van iets aangeven bij de politie (PU).",
-		"id": "9cffcdac-6529-4a28-9968-a9c84313e141"
+		"id": "9cffcdac-6529-4a28-9968-a9c84313e141",
+		"deleted": true
 	},
 	{
 		"title": "Telefonisch een tafel in een restaurant reserveren en bepaalde dieetwensen doorgeven (PU).",
-		"id": "5c5827a7-9383-482f-8423-374ac113be85"
+		"id": "5c5827a7-9383-482f-8423-374ac113be85",
+		"deleted": true
 	},
 	{
 		"title": "Aan een medereiziger vragen waar je moet uitstappen voor een bestemming die je niet kent (DL).",
-		"id": "e9c04dbb-9ffd-42f1-9ff8-bb452ec0dca3"
+		"id": "e9c04dbb-9ffd-42f1-9ff8-bb452ec0dca3",
+		"deleted": true
 	},
 	{
 		"title": "Een miskoop naar een winkel terugbrengen om het te ruilen of geld terug te krijgen.",
@@ -4373,7 +4408,8 @@
 	},
 	{
 		"title": "Over je eigen kamer (DL).",
-		"id": "d799385d-c7d4-4efd-b383-683918576286"
+		"id": "d799385d-c7d4-4efd-b383-683918576286",
+		"deleted": true
 	},
 	{
 		"title": "Zeggen en begrijpen wanneer iets gebeurt: op vrijdag.",
@@ -4701,7 +4737,8 @@
 	},
 	{
 		"title": "Over hoe software of een digitale applicatie werkt (DL, OPL, WE).",
-		"id": "0493473d-d076-4129-840e-0616d8f921d3"
+		"id": "0493473d-d076-4129-840e-0616d8f921d3",
+		"deleted": true
 	},
 	{
 		"title": "Over leveringsvoorwaarden.",
@@ -4927,7 +4964,8 @@
 	},
 	{
 		"title": "De artspraktijk bellen voor een afspraak met de dokter (PU).",
-		"id": "e493caac-5f08-449b-b56a-2c2d866257f5"
+		"id": "e493caac-5f08-449b-b56a-2c2d866257f5",
+		"deleted": true
 	},
 	{
 		"title": "Een probleem in een hotel signaleren.",
@@ -5015,11 +5053,13 @@
 	},
 	{
 		"title": "Een begeleidend briefje maken bij het opsturen van een pakje, folder of document (DL, WE).",
-		"id": "58b322b0-b39e-4182-833a-ee3306ca8bb2"
+		"id": "58b322b0-b39e-4182-833a-ee3306ca8bb2",
+		"deleted": true
 	},
 	{
 		"title": "Overeengekomen prijzen bevestigen (WE).",
-		"id": "8557ef43-d756-479a-a323-8228bc1a16ec"
+		"id": "8557ef43-d756-479a-a323-8228bc1a16ec",
+		"deleted": true
 	},
 	{
 		"title": "Een korte brief waarin je de eigenaar van het vakantiehuisje vraagt of je een week later kunt komen.",
@@ -5041,7 +5081,8 @@
 	},
 	{
 		"title": "Vragen naar de nieuwe woning van een kennis (DL).",
-		"id": "a406cd82-6138-4dbb-8248-1b5838e283ff"
+		"id": "a406cd82-6138-4dbb-8248-1b5838e283ff",
+		"deleted": true
 	},
 	{
 		"title": "Aan een vakantievriend beschrijven wat gebeurd/gedaan is sinds de laatste ontmoeting.",
@@ -5057,7 +5098,8 @@
 	},
 	{
 		"title": "Een buitenlandse kennis uitnodigen voor een bezoek (DL).",
-		"id": "9f494784-ada1-4fbf-84f5-61f9286a5952"
+		"id": "9f494784-ada1-4fbf-84f5-61f9286a5952",
+		"deleted": true
 	},
 	{
 		"title": "Een bedankbriefje schrijven na afloop van een bezoek.",
@@ -5067,23 +5109,28 @@
 	},
 	{
 		"title": "Aan een correspondentievriend/in schrijven over de relatie met je ouders, wat je vindt van school, over verliefd zijn (DL).",
-		"id": "bf99fd0f-9305-4cc4-a3aa-15da1767d295"
+		"id": "bf99fd0f-9305-4cc4-a3aa-15da1767d295",
+		"deleted": true
 	},
 	{
 		"title": "Op een gepaste manier reageren op een brief waarin je correspondentievriend/in zijn/haar verdriet of ongenoegen uit (DL).",
-		"id": "fc0ee131-3d06-4dba-be22-7294fb919d4d"
+		"id": "fc0ee131-3d06-4dba-be22-7294fb919d4d",
+		"deleted": true
 	},
 	{
 		"title": "Een eenvoudige klachtenbrief schrijven of erop reageren: verkeerde goederen geleverd, rekening te hoog (PU).",
-		"id": "3522e8be-03e2-44f2-b48d-17d6765f839f"
+		"id": "3522e8be-03e2-44f2-b48d-17d6765f839f",
+		"deleted": true
 	},
 	{
 		"title": "Een condoleancebriefje schrijven met behulp van standaardformules (XX).",
-		"id": "a77f739a-16a5-4a8e-8375-0df54d2f4add"
+		"id": "a77f739a-16a5-4a8e-8375-0df54d2f4add",
+		"deleted": true
 	},
 	{
 		"title": "Een eenvoudige sollicitatiebrief opstellen met beknopt cv, voor stage, au pair of vakantiebaan (OPL, WE).",
-		"id": "998ac964-280d-4f2d-91ba-af21295da098"
+		"id": "998ac964-280d-4f2d-91ba-af21295da098",
+		"deleted": true
 	},
 	{
 		"title": "Verwachtingen beschrijven van een bezoek aan een popconcert of film.",
@@ -5147,7 +5194,8 @@
 	},
 	{
 		"title": "Advies geven aan een kennis/vriend die in Nederland wil gaan studeren (DL).",
-		"id": "30457651-6142-451e-8448-e90d75e7a5a9"
+		"id": "30457651-6142-451e-8448-e90d75e7a5a9",
+		"deleted": true
 	},
 	{
 		"title": "Met vrienden of collega's een uitwisseling per e-mail onderhouden waarin veel grappen en toespelingen op gezamenlijke kennissen of collega's voorkomen.",
@@ -5175,11 +5223,13 @@
 	},
 	{
 		"title": "Een tactvol antwoord formuleren op een klachtenbrief (DL).",
-		"id": "68f8c582-08d7-44d2-b6db-98eb51943f11"
+		"id": "68f8c582-08d7-44d2-b6db-98eb51943f11",
+		"deleted": true
 	},
 	{
 		"title": "Een aanbeveling of referentie opstellen voor een collega (WE).",
-		"id": "6bc41bcf-af33-4d09-972b-3a4d8a70bb01"
+		"id": "6bc41bcf-af33-4d09-972b-3a4d8a70bb01",
+		"deleted": true
 	},
 	{
 		"title": "Een incheckformulier bij een jeugdherberg, camping of hotel.",
@@ -5201,27 +5251,33 @@
 	},
 	{
 		"title": "Datum, tijd en plaats noteren van een afspraak, activiteit of uitstapje (DL).",
-		"id": "b6b7a4cd-37df-433b-9106-6d9e586d3c09"
+		"id": "b6b7a4cd-37df-433b-9106-6d9e586d3c09",
+		"deleted": true
 	},
 	{
 		"title": "Auteur, titel, uitgever van een boek, cd of cd-rom noteren om te bestellen (DL).",
-		"id": "505603bf-b314-46ef-978a-0f7b21d87684"
+		"id": "505603bf-b314-46ef-978a-0f7b21d87684",
+		"deleted": true
 	},
 	{
 		"title": "Een eenvoudig 'to do-lijstje' opstellen (DL).",
-		"id": "6520e6cd-5776-4562-b03a-c4f78cc95793"
+		"id": "6520e6cd-5776-4562-b03a-c4f78cc95793",
+		"deleted": true
 	},
 	{
 		"title": "Een bericht plaatsen op een digitaal prikbord zoals Facebook, Twitter, groepsapp (DL, OPL, WE).",
-		"id": "70ee5f05-8156-47d6-94eb-c13908814b6b"
+		"id": "70ee5f05-8156-47d6-94eb-c13908814b6b",
+		"deleted": true
 	},
 	{
 		"title": "Vragen over de gezinssamenstelling, woonomstandigheden, vrijetijdsbesteding, dagelijks werk of vakkenpakket op school (DL, OPL).",
-		"id": "67eabaa2-441a-449e-a62e-c56f2dc616e7"
+		"id": "67eabaa2-441a-449e-a62e-c56f2dc616e7",
+		"deleted": true
 	},
 	{
 		"title": "Bij aanmelden voor een uitwisseling of stage (OPL, WE).",
-		"id": "05487d8a-b910-4531-bcb6-b5e516267fdf"
+		"id": "05487d8a-b910-4531-bcb6-b5e516267fdf",
+		"deleted": true
 	},
 	{
 		"title": "Met welke trein je komt.",
@@ -5273,67 +5329,83 @@
 	},
 	{
 		"title": "Notities met betrekking tot huiswerk (OPL).",
-		"id": "b5d66b8f-727e-4a64-869c-46c85f876140"
+		"id": "b5d66b8f-727e-4a64-869c-46c85f876140",
+		"deleted": true
 	},
 	{
 		"title": "Korte schriftelijke feedback aan een klasgenoot of collega over een presentatie (OPL, WE).",
-		"id": "90650387-441b-4665-8801-3e267fbbebfc"
+		"id": "90650387-441b-4665-8801-3e267fbbebfc",
+		"deleted": true
 	},
 	{
 		"title": "Aandachtspunten als voorbereiding op een overleg (WE).",
-		"id": "2cc695cc-fe9b-44cf-bcec-ad1df8cf8d2e"
+		"id": "2cc695cc-fe9b-44cf-bcec-ad1df8cf8d2e",
+		"deleted": true
 	},
 	{
 		"title": "Punten over wat makkelijk en wat moeilijk was als voorbereiding op een evaluatief gesprek met een begeleider of leidinggevende in het kader van een stage (OPL, WE).",
-		"id": "3f75a1ac-d3b5-466b-8ae7-632263722178"
+		"id": "3f75a1ac-d3b5-466b-8ae7-632263722178",
+		"deleted": true
 	},
 	{
 		"title": "Gegevens van een bezoeker aan de stand op een 'game-beurs' (WE).",
-		"id": "60335eea-b4c0-42c8-b145-99fa8dc87a74"
+		"id": "60335eea-b4c0-42c8-b145-99fa8dc87a74",
+		"deleted": true
 	},
 	{
 		"title": "Een afspraak (WE).",
-		"id": "ef7428f9-7423-4337-8b55-ec4b2efec26b"
+		"id": "ef7428f9-7423-4337-8b55-ec4b2efec26b",
+		"deleted": true
 	},
 	{
 		"title": "Aantekeningen over de inhoud van een gesprek in de doeltaal (OPL, WE).",
-		"id": "4f3db387-973c-4ea7-9b68-ee2d65cbf938"
+		"id": "4f3db387-973c-4ea7-9b68-ee2d65cbf938",
+		"deleted": true
 	},
 	{
 		"title": "Huiswerk doorgeven aan een medecursist tijdens een cursus in het buitenland (OPL).",
-		"id": "6e0d5aa2-26e8-4189-90ed-a6e31ff2fe65"
+		"id": "6e0d5aa2-26e8-4189-90ed-a6e31ff2fe65",
+		"deleted": true
 	},
 	{
 		"title": "Briefjes op het prikbord van een camping: vragen of iemand iets gevonden heeft of partners zoeken om bijvoorbeeld te volleyballen (DL).",
-		"id": "ea337473-17ca-481d-b4c7-49d4a16be119"
+		"id": "ea337473-17ca-481d-b4c7-49d4a16be119",
+		"deleted": true
 	},
 	{
 		"title": "Een bericht achterlaten voor een collega, huisgenoot, kamergenoot of in een gastgezin als: ben om x uur weer terug, eet vanavond niet hier (DL, WE).",
-		"id": "592d7361-6e90-4c4f-a0a3-a5be4ce16b57"
+		"id": "592d7361-6e90-4c4f-a0a3-a5be4ce16b57",
+		"deleted": true
 	},
 	{
 		"title": "Een telefonisch doorgegeven boodschap in trefwoorden noteren voor een collega of huisgenoot (DL, WE).",
-		"id": "c90e648d-c4f9-4238-b8d5-0e69186d73dd"
+		"id": "c90e648d-c4f9-4238-b8d5-0e69186d73dd",
+		"deleted": true
 	},
 	{
 		"title": "Wensen met betrekking tot huisvesting, leerdoelen, manier van leren aangeven op een aanmeldingsformulier voor een taalcursus (OPL).",
-		"id": "39dfaa40-6ffc-4f35-a02b-bae545320cf2"
+		"id": "39dfaa40-6ffc-4f35-a02b-bae545320cf2",
+		"deleted": true
 	},
 	{
 		"title": "Een schadeformulier bij een aanrijding (PU).",
-		"id": "bb0b1aca-0f01-47bf-87fc-2c16dd5c71c7"
+		"id": "bb0b1aca-0f01-47bf-87fc-2c16dd5c71c7",
+		"deleted": true
 	},
 	{
 		"title": "Aangifte van diefstal (PU).",
-		"id": "32bb7848-21ef-411f-a346-2626a80fb1ed"
+		"id": "32bb7848-21ef-411f-a346-2626a80fb1ed",
+		"deleted": true
 	},
 	{
 		"title": "Een sollicitatieformulier (WE).",
-		"id": "2fe027dc-95a3-46fb-9211-2caed3f54e1c"
+		"id": "2fe027dc-95a3-46fb-9211-2caed3f54e1c",
+		"deleted": true
 	},
 	{
 		"title": "Leveringsbonnen en opdrachtformulieren (WE).",
-		"id": "1bda5085-ea23-496c-8959-ee2d0c61fdc7"
+		"id": "1bda5085-ea23-496c-8959-ee2d0c61fdc7",
+		"deleted": true
 	},
 	{
 		"title": "Tijdens een eenduidige lezing aantekeningen maken van de belangrijkste punten.",
@@ -5355,7 +5427,8 @@
 	},
 	{
 		"title": "In een gastgezin de telefoon aannemen en een boodschap noteren (DL).",
-		"id": "2aeef5ff-db27-486b-9d6b-f33a190da6dd"
+		"id": "2aeef5ff-db27-486b-9d6b-f33a190da6dd",
+		"deleted": true
 	},
 	{
 		"title": "Simpele notities maken voor jezelf tijdens het bekijken van een online tutorial.",
@@ -5365,15 +5438,18 @@
 	},
 	{
 		"title": "Instructies over een schoolproject noteren tijdens een bijeenkomst op school (OPL).",
-		"id": "d08264d8-25f3-4209-86b6-5b92672de828"
+		"id": "d08264d8-25f3-4209-86b6-5b92672de828",
+		"deleted": true
 	},
 	{
 		"title": "Een bericht achterlaten voor een collega/medestudent met het verzoek om een bepaalde taak uit te voeren (OPL, WE).",
-		"id": "20e5ce2a-b744-4459-a93f-b68729e89fca"
+		"id": "20e5ce2a-b744-4459-a93f-b68729e89fca",
+		"deleted": true
 	},
 	{
 		"title": "De belangrijkste informatie uit een artikel of het journaal opschrijven om ze later te gebruiken in een werkstuk (OPL).",
-		"id": "5ece0862-9021-4960-844f-dfc0b32aa8f9"
+		"id": "5ece0862-9021-4960-844f-dfc0b32aa8f9",
+		"deleted": true
 	},
 	{
 		"title": "Een eenvoudig bericht plaatsen op een virtuele kaart voor een diploma-uitreiking of verjaardag.",
@@ -5383,7 +5459,8 @@
 	},
 	{
 		"title": "Nieuws delen in een chatbericht (DL).",
-		"id": "d7f736ff-4509-4bd0-8bfd-15aa594b61d6"
+		"id": "d7f736ff-4509-4bd0-8bfd-15aa594b61d6",
+		"deleted": true
 	},
 	{
 		"title": "Via de chat een afspraak maken met je vrienden.",
@@ -5393,11 +5470,13 @@
 	},
 	{
 		"title": "Aanmelden en een gesprekspartner zoeken en contact maken (DL).",
-		"id": "2fa8f41f-d988-4531-8545-e4cc612df74d"
+		"id": "2fa8f41f-d988-4531-8545-e4cc612df74d",
+		"deleted": true
 	},
 	{
 		"title": "Een chatpartner om informatie vragen, zoals leeftijd, welke school, broers of zussen (DL).",
-		"id": "d0ae7de9-b58f-447e-99d0-a89beb861b90"
+		"id": "d0ae7de9-b58f-447e-99d0-a89beb861b90",
+		"deleted": true
 	},
 	{
 		"title": "Je probleem met je nieuwe telefoon uitleggen aan een chatbot/geautomatiseerde gesprekspartner.",
@@ -7605,7 +7684,8 @@
 		"id": "3c054dae-91b1-493c-8749-1b5132e2d274",
 		"prefix": "In de rij bij de klantenservicebalie: een discussie tussen een ontevreden klant en een winkelmedewerker volgen over het ruilen van een product.",
 		"title": "",
-		"description": ""
+		"description": "",
+		"deleted": true
 	},
 	{
 		"id": "1c71982a-74ff-4bbc-a397-0a077c807785",
@@ -7923,7 +8003,8 @@
 		"id": "221d0db2-c58f-4b5e-88c9-73483487448c",
 		"prefix": "",
 		"title": "Hoe werkwoordtijden gebruikt worden om over het verleden te praten.",
-		"description": ""
+		"description": "",
+		"deleted": true
 	},
 	{
 		"id": "8b4af881-37fe-4c16-baaf-cc6a623ebe4d",
@@ -8259,19 +8340,22 @@
 		"id": "b420d525-dc59-41d2-be45-4168c24be85b",
 		"prefix": "",
 		"title": "Over de voeding van een huisdier.",
-		"description": ""
+		"description": "",
+		"deleted": true
 	},
 	{
 		"id": "569cef18-ee40-4d34-b268-f315b41ef47b",
 		"prefix": "",
 		"title": "Over de hoofdpersoon in een boek.",
-		"description": ""
+		"description": "",
+		"deleted": true
 	},
 	{
 		"id": "b3f0d037-bec7-4b93-9fb6-128b54004732",
 		"prefix": "",
 		"title": "Over de indeling van de school tijdens een rondleiding.",
-		"description": ""
+		"description": "",
+		"deleted": true
 	},
 	{
 		"id": "3936bbf3-d2e0-402a-b437-294331c97df1",
@@ -9423,7 +9507,8 @@
 		"id": "b66185bb-3b4b-4a77-b9f1-0e7092fe514e",
 		"prefix": "",
 		"title": "Een online formulier voor een bijbaantje tijdens een online intakegesprek invullen met motivatie, beschikbaarheid en voorkeuren over taken en tijden.",
-		"description": ""
+		"description": "",
+		"deleted": true
 	},
 	{
 		"id": "0820143a-b4ba-422e-8204-1015a3e5f4ea",
@@ -9513,7 +9598,8 @@
 		"id": "1affba42-2c4a-42d3-bbff-314c72af6126",
 		"prefix": "",
 		"title": "Documenten delen en videoconferenties houden of van een online prikbord.",
-		"description": ""
+		"description": "",
+		"deleted": true
 	},
 	{
 		"id": "0b7da0ef-129c-43c0-845d-598d696f21f9",
@@ -9825,7 +9911,8 @@
 		"id": "dc3c7643-711a-4945-971a-766d2438c13a",
 		"prefix": "",
 		"title": "Informatie die iemand over zichzelf vertelt: naam, adres, leeftijd, woonplaats en land van herkomst.",
-		"description": ""
+		"description": "",
+		"deleted": true
 	},
 	{
 		"id": "46b4ea74-eef6-4d39-ac2d-80db47552341",
@@ -10197,7 +10284,8 @@
 		"id": "3250d7d9-46af-4f6a-9ab6-9bdec0c5be54",
 		"prefix": "",
 		"title": "Een buitenlandse klasgenoot bellen om een aanpassing in het rooster en de gevolgen daarvan te melden.",
-		"description": ""
+		"description": "",
+		"deleted": true
 	},
 	{
 		"id": "85fff548-af18-404b-9ba0-ee2e5026324d",
@@ -11625,7 +11713,8 @@
 		"id": "9308388c-5765-42ef-b534-14590672cdb5",
 		"prefix": "",
 		"title": "De bevestiging van een reservering.",
-		"description": ""
+		"description": "",
+		"deleted": true
 	},
 	{
 		"id": "dcc28582-2c0e-4e21-8ecc-cca4b61fe55e",
@@ -11775,7 +11864,8 @@
 		"id": "c82b6b5e-67a1-47d7-a7d1-d33a83a5202c",
 		"prefix": "",
 		"title": "VOORBEELDEN VAN BRONNEN:",
-		"description": ""
+		"description": "",
+		"deleted": true
 	},
 	{
 		"id": "963207e5-d151-4d28-9e3d-ce4208f56fee",
@@ -11793,7 +11883,8 @@
 		"id": "67997026-6bd0-4ada-aaec-66a9c0be4113",
 		"prefix": "",
 		"title": "VOORBEELDEN VAN ACTIVITEITEN:",
-		"description": ""
+		"description": "",
+		"deleted": true
 	},
 	{
 		"id": "d8472856-324e-445c-b126-e372f34b50d7",
@@ -11913,7 +12004,8 @@
 		"id": "5517fd1c-f285-488f-bc83-9b2d6d287894",
 		"prefix": "",
 		"title": "Voorbeeld van een activiteit - Aan een nieuwe klasgenoot doorgeven wanneer je een laptop mag gebruiken tijdens de les.",
-		"description": ""
+		"description": "",
+		"deleted": true
 	},
 	{
 		"id": "8d80970e-c26a-45e2-b9db-a930efe9e425",
@@ -12015,7 +12107,8 @@
 		"id": "2a38846d-c8e4-4490-b1f2-3385e29e0964",
 		"prefix": "",
 		"title": "Voorbeeld van een bron - Korte radiospots.",
-		"description": ""
+		"description": "",
+		"deleted": true
 	},
 	{
 		"id": "189856ed-174c-4382-ba7f-e2923c561e0e",
@@ -16845,13 +16938,15 @@
 		"id": "5c3a57c9-8ef8-4700-b0f2-f7d12c5f3647",
 		"prefix": "",
 		"title": "Dramatische omstandigheden en hun invloed op personages in een psychologische thriller.",
-		"description": ""
+		"description": "",
+		"deleted": true
 	},
 	{
 		"id": "e31f1c67-59e7-4b8c-ade5-797d6d731e47",
 		"prefix": "",
 		"title": "Verkeerde keuzes van de hoofdpersonen in een liefdesroman.",
-		"description": ""
+		"description": "",
+		"deleted": true
 	},
 	{
 		"id": "aa078756-b8b8-43d7-abe4-20f4a43b22f1",
