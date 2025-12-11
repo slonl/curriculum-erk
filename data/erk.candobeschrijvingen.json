@@ -9227,19 +9227,6 @@
 	},
 	{
 		"niveau_id": [
-			"f7920461-e732-4767-b855-87783a05c76a"
-		],
-		"erk_voorbeeld_id": [
-			"516adfd2-c046-4e64-ac16-6ec0634c4e95",
-			"6758a366-64da-47c1-8a1b-7902b44c8699",
-			"d6bc92f0-c12c-4309-bcaa-0ca7bfe433f1",
-			"1562d85c-893c-42e9-b838-a3c98ea5f8e7"
-		],
-		"title": "Kan duidelijke, samenhangende verhalen vertellen.",
-		"id": "a0665bea-df26-49c8-9df4-072c65d47fd6"
-	},
-	{
-		"niveau_id": [
 			"50fd5672-94d8-4445-b988-bb198f5515f4"
 		],
 		"erk_voorbeeld_id": [
@@ -9265,17 +9252,6 @@
 		],
 		"title": "Kan duidelijke, gedetailleerde beschrijvingen geven van complexe onderwerpen.",
 		"id": "77028d6b-6e0f-4d34-a4d7-8bedd2b1de30"
-	},
-	{
-		"niveau_id": [
-			"50fd5672-94d8-4445-b988-bb198f5515f4"
-		],
-		"erk_voorbeeld_id": [
-			"b5706e04-cb46-4ca5-84de-4fc39f55f1a9",
-			"b9d959b6-2196-4c0f-aaf5-4d4cd25b55aa"
-		],
-		"title": "Kan lange en ingewikkelde verhalen vertellen.",
-		"id": "e16889fa-16fb-4434-a9c8-559ad564d4c4"
 	},
 	{
 		"niveau_id": [
@@ -9827,20 +9803,6 @@
 		"id": "e4819c57-b3a4-4c18-bd5e-c711b8e713d5",
 		"prefix": "",
 		"description": ""
-	},
-	{
-		"niveau_id": [
-			"a94b005d-9697-49f6-897a-0ad6516044f9"
-		],
-		"erk_voorbeeld_id": [
-			"04d27102-d605-4fa5-adcf-e8718adcc391",
-			"592afecc-68f7-44e9-b982-27595512cf9a",
-			"52fed7ea-4a17-4fd5-a66e-d82cf2f6e980",
-			"83a08aed-0c57-4deb-aab8-b91357833153",
-			"d9fc2b2c-51ca-4157-8809-b3bfaba1c63d"
-		],
-		"title": "Kan in het kort zaken uitleggen en toelichten.",
-		"id": "001dc9a3-2aa1-48bb-a9d8-5f4c769b5e4c"
 	},
 	{
 		"niveau_id": [
@@ -13742,30 +13704,6 @@
 	},
 	{
 		"niveau_id": [
-			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
-		],
-		"erk_voorbeeld_id": [
-			"b6b7a4cd-37df-433b-9106-6d9e586d3c09",
-			"505603bf-b314-46ef-978a-0f7b21d87684",
-			"6520e6cd-5776-4562-b03a-c4f78cc95793",
-			"70ee5f05-8156-47d6-94eb-c13908814b6b"
-		],
-		"title": "Kan zeer korte en eenvoudige notities maken.",
-		"id": "7b5b22da-47af-435a-b61b-8c7b9870736d"
-	},
-	{
-		"niveau_id": [
-			"ebf1cc90-05cb-4976-9561-dfb2041ca264"
-		],
-		"erk_voorbeeld_id": [
-			"67eabaa2-441a-449e-a62e-c56f2dc616e7",
-			"05487d8a-b910-4531-bcb6-b5e516267fdf"
-		],
-		"title": "Kan een eenvoudige lijst met vragen over  zichzelf invullen.",
-		"id": "5822997e-750e-412f-bc99-9e8f7c879b1e"
-	},
-	{
-		"niveau_id": [
 			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
 		],
 		"erk_voorbeeld_id": [
@@ -13797,26 +13735,6 @@
 	},
 	{
 		"niveau_id": [
-			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
-		],
-		"erk_voorbeeld_id": [
-			"b5d66b8f-727e-4a64-869c-46c85f876140",
-			"90650387-441b-4665-8801-3e267fbbebfc",
-			"2cc695cc-fe9b-44cf-bcec-ad1df8cf8d2e",
-			"3f75a1ac-d3b5-466b-8ae7-632263722178",
-			"60335eea-b4c0-42c8-b145-99fa8dc87a74",
-			"ef7428f9-7423-4337-8b55-ec4b2efec26b",
-			"4f3db387-973c-4ea7-9b68-ee2d65cbf938",
-			"6e0d5aa2-26e8-4189-90ed-a6e31ff2fe65",
-			"ea337473-17ca-481d-b4c7-49d4a16be119",
-			"592d7361-6e90-4c4f-a0a3-a5be4ce16b57",
-			"c90e648d-c4f9-4238-b8d5-0e69186d73dd"
-		],
-		"title": "Kan eenvoudige en korte notities maken voor zichzelf.",
-		"id": "519182a3-8bb6-4600-88ef-8407abd970d2"
-	},
-	{
-		"niveau_id": [
 			"620710de-54d2-48b5-93ab-40888732aab7"
 		],
 		"title": "Kan een kort, eenvoudig bericht aannemen, mits om herhaling en herformulering gevraagd kan worden.",
@@ -13827,22 +13745,6 @@
 			"3e695793-b241-4a77-a5a6-b9d6feebcd5e",
 			"76f93c33-5b48-4e40-86fc-4a50b6f930cb"
 		]
-	},
-	{
-		"niveau_id": [
-			"a94b005d-9697-49f6-897a-0ad6516044f9"
-		],
-		"erk_voorbeeld_id": [
-			"39dfaa40-6ffc-4f35-a02b-bae545320cf2",
-			"bb0b1aca-0f01-47bf-87fc-2c16dd5c71c7",
-			"32bb7848-21ef-411f-a346-2626a80fb1ed",
-			"2fe027dc-95a3-46fb-9211-2caed3f54e1c",
-			"1bda5085-ea23-496c-8959-ee2d0c61fdc7"
-		],
-		"title": "Kan formulieren waarin om meer informatie gevraagd wordt gedetailleerd invullen.",
-		"id": "20bfabb4-aaa3-411f-ab7e-649e86912642",
-		"prefix": "",
-		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -15277,15 +15179,6 @@
 			"76e5e352-37a4-4530-9fa5-2ecde61a208e",
 			"582a7b6f-0eb6-40e6-9fbe-eee6872e4343"
 		]
-	},
-	{
-		"niveau_id": [
-			"1d5d9624-055f-42ed-bc39-06b183ecb40b"
-		],
-		"id": "ec0b1cd8-0cc9-4d76-add2-7cb87cedb170",
-		"prefix": "",
-		"title": "Kan eenvoudige en korte notities maken voor anderen.",
-		"description": ""
 	},
 	{
 		"niveau_id": [
